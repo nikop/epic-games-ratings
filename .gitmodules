@@ -1,0 +1,6 @@
+[submodule "items-tracker"]
+	path = items-tracker
+	url = https://github.com/nachoaldamav/items-tracker.git
+[submodule "offers-tracker"]
+	path = offers-tracker
+	url = https://github.com/nachoaldamav/offers-tracker.git
