@@ -3,14 +3,19 @@
   "Name": "Kingdom Hearts 3",
   "ProductSlug": "kingdom-hearts-iii",
   "Rating": 4.78,
-  "NumberOfRatings": 923,
+  "NumberOfRatings": 926,
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2022-07-22T20:21:33.6381013+00:00",
+  "LastChanged": "2022-07-22T21:02:54.9856055+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 923
+    },
+    {
+      "Time": "2022-07-22T21:02:54.9857155+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 926
     }
   ],
   "Tags": [
@@ -20,7 +25,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 132
+      "Count": 138
     }
   ]
 }

@@ -3,14 +3,19 @@
   "Name": "Angora",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 2053,
+  "NumberOfRatings": 2061,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-07-22T20:24:35.6101885+00:00",
+  "LastChanged": "2022-07-22T21:04:17.0304344+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 2053
+    },
+    {
+      "Time": "2022-07-22T21:04:17.0304346+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 2061
     }
   ],
   "Tags": [
@@ -32,7 +37,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game is Highly Recommended",

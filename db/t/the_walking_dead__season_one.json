@@ -2,15 +2,20 @@
   "ID": "bloodroot",
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one/home",
-  "Rating": 4.8,
-  "NumberOfRatings": 35,
+  "Rating": 4.81,
+  "NumberOfRatings": 36,
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2022-07-22T20:18:47.823195+00:00",
+  "LastChanged": "2022-07-22T21:01:41.0949014+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:47.8231951+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 35
+    },
+    {
+      "Time": "2022-07-22T21:01:41.0949016+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 36
     }
   ],
   "Tags": []

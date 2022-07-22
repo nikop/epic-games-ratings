@@ -3,14 +3,19 @@
   "Name": "Rocket League\u00AE",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 244821,
+  "NumberOfRatings": 244988,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2022-07-22T20:17:22.1538753+00:00",
+  "LastChanged": "2022-07-22T21:01:01.1799339+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 244821
+    },
+    {
+      "Time": "2022-07-22T21:01:01.1799341+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 244988
     }
   ],
   "Tags": [
@@ -36,7 +41,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 36083
+      "Count": 36447
     },
     {
       "Text": "This game has Amazing Storytelling",

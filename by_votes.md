@@ -1,11 +1,11 @@
 | Name | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | Fortnite | 4,32 | 1534721 |
-| Fall Guys | 4,53 | 757498 |
+| Fall Guys | 4,53 | 757934 |
 | Grand Theft Auto V | 4,69 | 287060 |
-| Rocket League® | 4,56 | 244821 |
+| Rocket League® | 4,56 | 244988 |
 | Genshin Impact | 4,71 | 129039 |
-| Borderlands 3 | 4,7 | 113101 |
+| Borderlands 3 | 4,7 | 113127 |
 | NARAKA: BLADEPOINT | 4,19 | 96062 |
 | Valorant | 4,56 | 76103 |
 | Maneater | 4,49 | 73667 |
@@ -29,19 +29,19 @@
 | Cities Skylines | 4,67 | 12027 |
 | BioShock Infinite: Complete Edition | 4,69 | 12002 |
 | SnowRunner | 4,75 | 11875 |
-| Killing Floor 2 | 4,27 | 11844 |
 | Dauntless | 4,53 | 11811 |
+| Killing Floor 2 | 4,27 | 11787 |
 | FINAL FANTASY VII REMAKE INTERGRADE | 4,85 | 11633 |
 | The Cycle | 4,16 | 10971 |
-| Hood: Outlaws & Legends | 3,97 | 10775 |
+| Hood: Outlaws & Legends | 3,97 | 10802 |
 | HITMAN 3 | 4,79 | 10379 |
 | Tomb Raider GOTY | 4,67 | 9577 |
 | World War Z | 4,57 | 9322 |
-| Farming Simulator 19 | 4,73 | 8839 |
-| Magic: The Gathering | 4,44 | 8546 |
+| Farming Simulator 19 | 4,73 | 8848 |
+| Magic: The Gathering | 4,44 | 8550 |
 | BioShock 2 Remastered | 4,51 | 8432 |
 | Live | 4,37 | 8266 |
-| Borderlands 2 | 4,77 | 7958 |
+| Borderlands 2 | 4,77 | 7989 |
 | Evil Dead: The Game | 4,52 | 7692 |
 | Control | 4,6 | 7673 |
 | Prey | 4,6 | 7535 |
@@ -66,14 +66,14 @@
 | Sifu | 4,81 | 4646 |
 | Darkest Dungeon II | 4,7 | 4573 |
 | Total War: WARHAMMER | 4,59 | 4549 |
-| SMITE | 4,47 | 4455 |
+| SMITE | 4,47 | 4463 |
 | Neon Abyss | 4,69 | 4349 |
 | Enter the Gungeon | 4,87 | 4302 |
 | Roller Champions | 4,34 | 4290 |
 | Dying Light 2 Stay Human | 4,6 | 4288 |
 | XCOM 2 | 4,56 | 4269 |
 | The Division 2 | 4,4 | 4151 |
-| Football Manager 2022 | 4,81 | 4014 |
+| Football Manager 2022 | 4,81 | 4029 |
 | Subnautica | 4,83 | 3860 |
 | Trackmania | 4,71 | 3831 |
 | Horizon Zero Dawn Complete Edition | 4,78 | 3743 |
@@ -90,7 +90,7 @@
 | Metro Last Light Redux | 4,71 | 2934 |
 | God of War | 4,89 | 2914 |
 | MechWarrior 5 | 4,61 | 2801 |
-| Darkest Dungeon | 4,75 | 2774 |
+| Darkest Dungeon | 4,75 | 2775 |
 | Ghost Recon Breakpoint | 4,54 | 2769 |
 | For The King | 4,7 | 2704 |
 | Slime Rancher | 4,83 | 2630 |
@@ -98,22 +98,22 @@
 | Vampyr | 4,31 | 2604 |
 | Saint's Row The Third Remastered | 4,43 | 2600 |
 | Assassin's Creed Origins | 4,69 | 2596 |
-| Just Cause 4 | 4,29 | 2584 |
+| Just Cause 4 | 4,29 | 2591 |
 | World of Warships | 4,44 | 2569 |
 | Jurassic World Evolution 2 | 4,73 | 2510 |
 | Heroes and Generals WWII | 4,22 | 2508 |
 | Overcooked 2 | 4,76 | 2415 |
 | Alien: Isolation | 4,61 | 2407 |
-| Days Gone | 4,71 | 2326 |
-| Prison Architect | 4,59 | 2246 |
+| Days Gone | 4,71 | 2328 |
+| Prison Architect | 4,59 | 2249 |
 | The Long Dark | 4,74 | 2235 |
 | My Time At Portia | 4,66 | 2158 |
 | Anno 1800 | 4,83 | 2136 |
-| Angora | 4,56 | 2053 |
+| Angora | 4,56 | 2061 |
 | KINGDOM HEARTS HD 1.5+2.5 ReMIX | 4,82 | 2023 |
 | Rage 2 | 4,3 | 1991 |
 | Live | 4,18 | 1962 |
-| Live | 4,55 | 1803 |
+| Live | 4,55 | 1809 |
 | Nioh 2 – The Complete Edition | 4,81 | 1773 |
 | LEGO® Star Wars™: The Skywalker Saga | 4,8 | 1772 |
 | Detroit: Become Human | 4,86 | 1761 |
@@ -127,7 +127,7 @@
 | Live | 4,47 | 1590 |
 | Death Stranding Directors Cut | 4,84 | 1589 |
 | Path of Exile | 4,66 | 1587 |
-| Rising Storm 2: Vietnam | 4,64 | 1538 |
+| Rising Storm 2: Vietnam | 4,63 | 1543 |
 | Moremi | 4,22 | 1517 |
 | Salt & Sacrifice | 4,28 | 1493 |
 | Ancient Enemy | 3,94 | 1490 |
@@ -158,24 +158,24 @@
 | Space Punks | 4,14 | 992 |
 | Fregula | 4,61 | 987 |
 | Subnautica Below Zero | 4,77 | 954 |
+| Mafia I | 4,6 | 952 |
 | The Crew 2 | 4,65 | 950 |
 | Mutant Year Zero | 4,51 | 944 |
 | RailwayEmpire | 4,55 | 935 |
-| Mafia I | 4,6 | 934 |
 | Risk of Rain 2 | 4,87 | 931 |
-| Kingdom Hearts 3 | 4,78 | 923 |
+| Kingdom Hearts 3 | 4,78 | 926 |
 | Batman Arkham Asylum | 4,68 | 922 |
 | Far Cry 5 | 4,62 | 915 |
 | The Escapists 2 | 4,59 | 910 |
 | Amnesia: Rebirth | 4,25 | 908 |
 | Tropico 5 | 4,45 | 900 |
 | Watch Dogs 1 | 4,57 | 897 |
-| Kingdom New Lands | 4,48 | 885 |
-| STRANGER OF PARADISE FINAL FANTASY ORIGIN | 4,41 | 883 |
+| STRANGER OF PARADISE FINAL FANTASY ORIGIN | 4,41 | 892 |
+| Kingdom New Lands | 4,48 | 887 |
 | Disco Elysium | 4,87 | 869 |
 | Century: Age of Ashes | 4,35 | 863 |
 | Geneforge 1: Mutagen | 4,2 | 854 |
-| Core | 4,39 | 849 |
+| Core | 4,39 | 851 |
 | OUTRIDERS | 4,41 | 822 |
 | Old World | 4,66 | 811 |
 | EVE Online | 4,34 | 797 |
@@ -253,7 +253,7 @@
 | Outer Wilds | 4,9 | 343 |
 | Rainbow Six Extraction | 4,54 | 338 |
 | Mages of Mystralia | 4,31 | 337 |
-| Far Cry 4 | 4,7 | 335 |
+| Far Cry 4 | 4,69 | 337 |
 | Diamond | 4,69 | 331 |
 | Assassin's Creed Unity | 4,55 | 320 |
 | Nuclear Throne | 4,78 | 319 |
@@ -332,8 +332,8 @@
 | Amnesia: The Dark Descent | 4,62 | 149 |
 | Might & Magic Chess Royale | 4,5 | 146 |
 | Assassin's Creed II | 4,66 | 144 |
+| The Alto Collection | 4,63 | 144 |
 | Paradigm | 4,49 | 144 |
-| The Alto Collection | 4,63 | 143 |
 | Live | 4,65 | 141 |
 | Steep | 4,64 | 139 |
 | SOMA | 4,7 | 139 |
@@ -430,6 +430,7 @@
 | Might & Magic Heroes 3 | 4,72 | 61 |
 | Live | 3,93 | 59 |
 | Among Trees | 4,14 | 59 |
+| Totally Reliable Delivery Service | 4,51 | 59 |
 | Elex II | 4,19 | 59 |
 | Speed Brawl | 4,36 | 59 |
 | Untitled Goose Game | 4,71 | 58 |
@@ -439,7 +440,6 @@
 | Creature in the Well | 4,44 | 57 |
 | Necromunda: Hired Gun | 4,35 | 57 |
 | Bridge Constructor: The Walking Dead | 4,05 | 57 |
-| Totally Reliable Delivery Service | 4,5 | 56 |
 | Live | 4,64 | 56 |
 | Fuser | 4,65 | 54 |
 | Axiom Verge | 4,54 | 54 |
@@ -484,20 +484,20 @@
 | Anno 2205 | 4,51 | 37 |
 | Werewolf: The Apocalypse - Earthblood | 4,11 | 37 |
 | Wilmot's Warehouse | 4,62 | 37 |
+| The Walking Dead: Season One | 4,81 | 36 |
 | Titan Quest Anniversary Edition | 4,78 | 36 |
 | Universe Sandbox | 4,58 | 36 |
 | expeditionsrome Production | 4,74 | 35 |
-| The Walking Dead: Season One | 4,8 | 35 |
 | Before We Leave | 4,6 | 35 |
 | KINGDOM HEARTS Melody of Memory | 4,62 | 34 |
 | Mutazione | 4,68 | 34 |
 | Oddworld: Soulstorm | 4,62 | 34 |
 | Airborne Kingdom | 4,73 | 33 |
 | The Pathless | 4,7 | 33 |
+| Farmer's Dynasty | 3,97 | 33 |
 | Journey | 4,76 | 33 |
 | Uno | 4,59 | 32 |
 | Hydrogen | 3,66 | 32 |
-| Farmer's Dynasty | 3,97 | 32 |
 | Shadow Tactics - Aiko's Choice | 4,78 | 32 |
 | Live | 4,41 | 32 |
 | art of rally | 4,97 | 31 |

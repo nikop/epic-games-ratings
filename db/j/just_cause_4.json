@@ -3,14 +3,19 @@
   "Name": "Just Cause 4",
   "ProductSlug": null,
   "Rating": 4.29,
-  "NumberOfRatings": 2584,
+  "NumberOfRatings": 2591,
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2022-07-22T20:18:31.4925824+00:00",
+  "LastChanged": "2022-07-22T21:01:33.5986204+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.4925825+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 2584
+    },
+    {
+      "Time": "2022-07-22T21:01:33.5986206+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 2591
     }
   ],
   "Tags": [

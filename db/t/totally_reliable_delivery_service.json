@@ -2,15 +2,20 @@
   "ID": "52b90f9a982a404781b189f6a7903226",
   "Name": "Totally Reliable Delivery Service",
   "ProductSlug": null,
-  "Rating": 4.5,
-  "NumberOfRatings": 56,
+  "Rating": 4.51,
+  "NumberOfRatings": 59,
   "FirstSeen": "2022-07-22T20:20:09.4036127+00:00",
-  "LastChanged": "2022-07-22T20:20:09.4036128+00:00",
+  "LastChanged": "2022-07-22T21:02:17.0189878+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:09.403613+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 56
+    },
+    {
+      "Time": "2022-07-22T21:02:17.0189879+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 59
     }
   ],
   "Tags": []
