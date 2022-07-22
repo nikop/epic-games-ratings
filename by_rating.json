@@ -20,7 +20,7 @@
     "ProductSlug": null,
     "Name": "Hades",
     "Rating": 4.92,
-    "NumberOfRatings": 3280,
+    "NumberOfRatings": 3286,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -192,7 +192,7 @@
     "ProductSlug": null,
     "Name": "Red Dead Redemption 2",
     "Rating": 4.9,
-    "NumberOfRatings": 55380,
+    "NumberOfRatings": 55446,
     "Tags": [
       {
         "Text": "In this game, your choices Impact the Story",
@@ -212,7 +212,7 @@
       },
       {
         "Text": "This game has Amazing Storytelling",
-        "Count": 1215
+        "Count": 1247
       },
       {
         "Text": "This game has Realistic Visuals",
@@ -330,7 +330,7 @@
       },
       {
         "Text": "This game is Relaxing",
-        "Count": 72
+        "Count": 76
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -2586,15 +2586,15 @@
         "Count": 619
       },
       {
+        "Text": "This game is Educational",
+        "Count": 59
+      },
+      {
         "Text": "This game has Amazing Storytelling",
         "Count": 58
       },
       {
         "Text": "This game has Diverse Characters",
-        "Count": 57
-      },
-      {
-        "Text": "This game is Educational",
         "Count": 57
       },
       {
@@ -2811,7 +2811,7 @@
     "ProductSlug": "the-long-dark",
     "Name": "The Long Dark",
     "Rating": 4.74,
-    "NumberOfRatings": 2223,
+    "NumberOfRatings": 2226,
     "Tags": [
       {
         "Text": "This game is Relaxing",
@@ -3273,7 +3273,7 @@
     "ProductSlug": null,
     "Name": "Frostpunk",
     "Rating": 4.72,
-    "NumberOfRatings": 5293,
+    "NumberOfRatings": 5298,
     "Tags": [
       {
         "Text": "This game is Relaxing",
@@ -3362,7 +3362,7 @@
     "ProductSlug": null,
     "Name": "Farming Simulator 2022",
     "Rating": 4.71,
-    "NumberOfRatings": 4650,
+    "NumberOfRatings": 4663,
     "Tags": [
       {
         "Text": "This game is Relaxing",
@@ -3397,12 +3397,12 @@
         "Count": 521
       },
       {
-        "Text": "This game has Diverse Characters",
-        "Count": 483
+        "Text": "This game has Amazing Characters",
+        "Count": 487
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 471
+        "Text": "This game has Diverse Characters",
+        "Count": 483
       },
       {
         "Text": "This game has a Creative Community",
@@ -3609,63 +3609,6 @@
     "Rating": 4.71,
     "NumberOfRatings": 68,
     "Tags": []
-  },
-  {
-    "Namespace": "9f4875c1b0cf4cf19b28e203fc7aff07",
-    "ProductSlug": "days-gone",
-    "Name": "Days Gone",
-    "Rating": 4.71,
-    "NumberOfRatings": 2326,
-    "Tags": [
-      {
-        "Text": "This game has Great Boss Battles",
-        "Count": 989
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 78
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 73
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 72
-      },
-      {
-        "Text": "This game has Diverse Characters",
-        "Count": 72
-      },
-      {
-        "Text": "This game is Extremely Fun",
-        "Count": 70
-      },
-      {
-        "Text": "This game is Great for Beginners",
-        "Count": 69
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 68
-      },
-      {
-        "Text": "This game has Realistic Visuals",
-        "Count": 66
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 65
-      },
-      {
-        "Text": "This game has Obsessive Gameplay",
-        "Count": 56
-      },
-      {
-        "Text": "This game has a Creative Community",
-        "Count": 33
-      }
-    ]
   },
   {
     "Namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
@@ -4008,6 +3951,63 @@
     "Tags": []
   },
   {
+    "Namespace": "9f4875c1b0cf4cf19b28e203fc7aff07",
+    "ProductSlug": "days-gone",
+    "Name": "Days Gone",
+    "Rating": 4.7,
+    "NumberOfRatings": 2306,
+    "Tags": [
+      {
+        "Text": "This game has Great Boss Battles",
+        "Count": 989
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 78
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 73
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 72
+      },
+      {
+        "Text": "This game has Diverse Characters",
+        "Count": 72
+      },
+      {
+        "Text": "This game is Extremely Fun",
+        "Count": 70
+      },
+      {
+        "Text": "This game is Great for Beginners",
+        "Count": 69
+      },
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 68
+      },
+      {
+        "Text": "This game has Realistic Visuals",
+        "Count": 66
+      },
+      {
+        "Text": "This game has Amazing Characters",
+        "Count": 65
+      },
+      {
+        "Text": "This game has Obsessive Gameplay",
+        "Count": 56
+      },
+      {
+        "Text": "This game has a Creative Community",
+        "Count": 33
+      }
+    ]
+  },
+  {
     "Namespace": "466bb53962c14a6e80f3e3d919f123eb",
     "ProductSlug": null,
     "Name": "Live",
@@ -4086,7 +4086,7 @@
     "ProductSlug": "grand-theft-auto-v",
     "Name": "Grand Theft Auto V",
     "Rating": 4.69,
-    "NumberOfRatings": 285788,
+    "NumberOfRatings": 286294,
     "Tags": [
       {
         "Text": "This game is Relaxing",
@@ -4763,7 +4763,7 @@
     "ProductSlug": null,
     "Name": "Path of Exile",
     "Rating": 4.66,
-    "NumberOfRatings": 1584,
+    "NumberOfRatings": 1585,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -4806,12 +4806,12 @@
         "Count": 72
       },
       {
-        "Text": "This game has a Creative Community",
-        "Count": 65
+        "Text": "This game has Unique Visuals",
+        "Count": 66
       },
       {
-        "Text": "This game has Unique Visuals",
-        "Count": 64
+        "Text": "This game has a Creative Community",
+        "Count": 65
       }
     ]
   },
@@ -4820,7 +4820,7 @@
     "ProductSlug": "warframe",
     "Name": "Warframe",
     "Rating": 4.66,
-    "NumberOfRatings": 6326,
+    "NumberOfRatings": 6341,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -4829,6 +4829,10 @@
       {
         "Text": "This game has Diverse Characters",
         "Count": 469
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 437
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -4841,10 +4845,6 @@
       {
         "Text": "This game has Obsessive Gameplay",
         "Count": 425
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 422
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -4938,7 +4938,7 @@
       },
       {
         "Text": "This game has Diverse Characters",
-        "Count": 48
+        "Count": 49
       },
       {
         "Text": "This game is Highly Recommended",
@@ -6566,7 +6566,7 @@
     "ProductSlug": "prey",
     "Name": "Prey",
     "Rating": 4.6,
-    "NumberOfRatings": 7510,
+    "NumberOfRatings": 7523,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
@@ -6774,7 +6774,7 @@
     "ProductSlug": null,
     "Name": "Surviving Mars",
     "Rating": 4.59,
-    "NumberOfRatings": 1649,
+    "NumberOfRatings": 1654,
     "Tags": [
       {
         "Text": "This game is Educational",
@@ -7752,7 +7752,7 @@
     "ProductSlug": "valorant",
     "Name": "Valorant",
     "Rating": 4.56,
-    "NumberOfRatings": 75815,
+    "NumberOfRatings": 75883,
     "Tags": [
       {
         "Text": "This game has Diverse Characters",
@@ -8235,7 +8235,7 @@
     "ProductSlug": "fall-guys",
     "Name": "Fall Guys",
     "Rating": 4.53,
-    "NumberOfRatings": 755685,
+    "NumberOfRatings": 756151,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -9011,7 +9011,7 @@
     "ProductSlug": null,
     "Name": "Paradigm",
     "Rating": 4.49,
-    "NumberOfRatings": 143,
+    "NumberOfRatings": 144,
     "Tags": []
   },
   {
@@ -9682,14 +9682,6 @@
     ]
   },
   {
-    "Namespace": "3819de76dedf4cd2aebbcf9279e23e43",
-    "ProductSlug": "darq-complete-edition",
-    "Name": "Darq: Complete Edition",
-    "Rating": 4.44,
-    "NumberOfRatings": 187,
-    "Tags": []
-  },
-  {
     "Namespace": "5fdcc0dc67294af3be740f362bd976fd",
     "ProductSlug": "mtg-arena/home",
     "Name": "Magic: The Gathering",
@@ -9788,6 +9780,14 @@
     "Tags": []
   },
   {
+    "Namespace": "3819de76dedf4cd2aebbcf9279e23e43",
+    "ProductSlug": "darq-complete-edition",
+    "Name": "Darq: Complete Edition",
+    "Rating": 4.43,
+    "NumberOfRatings": 189,
+    "Tags": []
+  },
+  {
     "Namespace": "cumin",
     "ProductSlug": null,
     "Name": "Far Cry New Dawn",
@@ -9883,7 +9883,7 @@
     "ProductSlug": "ranch-simulator",
     "Name": "Ranch Simulator",
     "Rating": 4.42,
-    "NumberOfRatings": 189,
+    "NumberOfRatings": 190,
     "Tags": []
   },
   {
@@ -9942,12 +9942,12 @@
         "Count": 2224
       },
       {
-        "Text": "This game is Highly Recommended",
-        "Count": 2212
+        "Text": "This game has Amazing Characters",
+        "Count": 2215
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 2141
+        "Text": "This game is Highly Recommended",
+        "Count": 2212
       },
       {
         "Text": "This game has a Competitive Community",
@@ -10276,7 +10276,7 @@
     "ProductSlug": "pathway",
     "Name": "Pathway",
     "Rating": 4.38,
-    "NumberOfRatings": 201,
+    "NumberOfRatings": 206,
     "Tags": []
   },
   {
@@ -10512,7 +10512,7 @@
     "ProductSlug": "century-age-of-ashes",
     "Name": "Century: Age of Ashes",
     "Rating": 4.35,
-    "NumberOfRatings": 861,
+    "NumberOfRatings": 863,
     "Tags": []
   },
   {
@@ -10606,7 +10606,7 @@
     "ProductSlug": "eve-online",
     "Name": "EVE Online",
     "Rating": 4.34,
-    "NumberOfRatings": 797,
+    "NumberOfRatings": 798,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -10790,11 +10790,11 @@
     "ProductSlug": null,
     "Name": "Fortnite",
     "Rating": 4.32,
-    "NumberOfRatings": 1532034,
+    "NumberOfRatings": 1532694,
     "Tags": [
       {
         "Text": "This game has Competitive Players",
-        "Count": 143480
+        "Count": 147735
       },
       {
         "Text": "This game is Extremely Fun",
@@ -10813,12 +10813,12 @@
         "Count": 140335
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 137103
+        "Text": "This game is Highly Recommended",
+        "Count": 138633
       },
       {
-        "Text": "This game is Highly Recommended",
-        "Count": 134646
+        "Text": "This game has Amazing Characters",
+        "Count": 137103
       },
       {
         "Text": "This game has a Competitive Community",
@@ -10917,7 +10917,7 @@
     "ProductSlug": "vampyr",
     "Name": "Vampyr",
     "Rating": 4.31,
-    "NumberOfRatings": 2559,
+    "NumberOfRatings": 2604,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -11420,7 +11420,7 @@
       },
       {
         "Text": "This game has Competitive Players",
-        "Count": 146
+        "Count": 151
       },
       {
         "Text": "This game is Highly Recommended",
@@ -11501,8 +11501,8 @@
     "Namespace": "24b9b5e323bc40eea252a10cdd3b2f10",
     "ProductSlug": "league-of-legends",
     "Name": "League of Legends",
-    "Rating": 4.22,
-    "NumberOfRatings": 5511,
+    "Rating": 4.21,
+    "NumberOfRatings": 5515,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -11889,6 +11889,14 @@
     "Tags": []
   },
   {
+    "Namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+    "ProductSlug": "gods-trigger",
+    "Name": "God\u0027s Trigger",
+    "Rating": 4.08,
+    "NumberOfRatings": 53,
+    "Tags": []
+  },
+  {
     "Namespace": "5d582c08e31a43128a61093a2c3ff7f0",
     "ProductSlug": null,
     "Name": "Shenmue 3",
@@ -11963,14 +11971,6 @@
     "Name": "Bridge Constructor: The Walking Dead",
     "Rating": 4.05,
     "NumberOfRatings": 57,
-    "Tags": []
-  },
-  {
-    "Namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
-    "ProductSlug": "gods-trigger",
-    "Name": "God\u0027s Trigger",
-    "Rating": 4.04,
-    "NumberOfRatings": 51,
     "Tags": []
   },
   {
