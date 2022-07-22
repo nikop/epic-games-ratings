@@ -467,11 +467,11 @@
         "Count": 49
       },
       {
-        "Text": "This game has Amazing Storytelling",
+        "Text": "This game is Highly Recommended",
         "Count": 48
       },
       {
-        "Text": "This game is Highly Recommended",
+        "Text": "This game has Amazing Storytelling",
         "Count": 48
       },
       {
@@ -485,6 +485,10 @@
       {
         "Text": "This game has Quickly Understood Controls",
         "Count": 40
+      },
+      {
+        "Text": "This game has a Creative Community",
+        "Count": 20
       }
     ]
   },
@@ -841,7 +845,7 @@
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
-        "Count": 20
+        "Count": 21
       }
     ]
   },
@@ -1311,12 +1315,12 @@
         "Count": 1368
       },
       {
-        "Text": "This game is Great for Beginners",
-        "Count": 66
+        "Text": "This game has Amazing Storytelling",
+        "Count": 67
       },
       {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 65
+        "Text": "This game is Great for Beginners",
+        "Count": 66
       },
       {
         "Text": "This game is Relaxing",
@@ -1832,7 +1836,7 @@
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
-        "Count": 53619
+        "Count": 53640
       },
       {
         "Text": "This game is Great for Beginners",
@@ -2691,7 +2695,7 @@
     "ProductSlug": "crysis-2-remastered",
     "Name": "Crysis 2 Remastered",
     "Rating": 4.63,
-    "NumberOfRatings": 267,
+    "NumberOfRatings": 276,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -3402,7 +3406,7 @@
     "ProductSlug": null,
     "Name": "Desperados III",
     "Rating": 4.86,
-    "NumberOfRatings": 199,
+    "NumberOfRatings": 201,
     "Tags": []
   },
   {
@@ -3715,7 +3719,7 @@
     "ProductSlug": null,
     "Name": "Dungeons3",
     "Rating": 4.67,
-    "NumberOfRatings": 740,
+    "NumberOfRatings": 741,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
@@ -3735,7 +3739,7 @@
       },
       {
         "Text": "This game has Obsessive Gameplay",
-        "Count": 52
+        "Count": 53
       },
       {
         "Text": "This game has Amazing Characters",
@@ -3829,7 +3833,7 @@
     "ProductSlug": null,
     "Name": "Dying Light 2 Stay Human",
     "Rating": 4.6,
-    "NumberOfRatings": 4274,
+    "NumberOfRatings": 4278,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -3868,12 +3872,12 @@
         "Count": 55
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 53
+        "Text": "This game has Obsessive Gameplay",
+        "Count": 55
       },
       {
-        "Text": "This game has Obsessive Gameplay",
-        "Count": 51
+        "Text": "This game is Relaxing",
+        "Count": 53
       }
     ]
   },
@@ -3922,7 +3926,7 @@
     "ProductSlug": "elite-dangerous/home",
     "Name": "Elite Dangerous",
     "Rating": 4.64,
-    "NumberOfRatings": 3554,
+    "NumberOfRatings": 3560,
     "Tags": [
       {
         "Text": "This game has Obsessive Gameplay",
@@ -4085,7 +4089,7 @@
     "ProductSlug": "eve-online",
     "Name": "EVE Online",
     "Rating": 4.34,
-    "NumberOfRatings": 798,
+    "NumberOfRatings": 797,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -4269,7 +4273,7 @@
     "ProductSlug": "fall-guys",
     "Name": "Fall Guys",
     "Rating": 4.53,
-    "NumberOfRatings": 756151,
+    "NumberOfRatings": 756609,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -4285,7 +4289,11 @@
       },
       {
         "Text": "This game has Competitive Players",
-        "Count": 41206
+        "Count": 42693
+      },
+      {
+        "Text": "This game is Great for Quick Sessions",
+        "Count": 40658
       },
       {
         "Text": "This game has Diverse Characters",
@@ -4296,16 +4304,12 @@
         "Count": 39505
       },
       {
-        "Text": "This game is Great for Quick Sessions",
-        "Count": 39308
+        "Text": "This game has Amazing Characters",
+        "Count": 37173
       },
       {
         "Text": "This game is Highly Recommended",
         "Count": 36450
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 35970
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -4313,7 +4317,7 @@
       },
       {
         "Text": "This game has Playful Visuals",
-        "Count": 32163
+        "Count": 33304
       }
     ]
   },
@@ -4399,11 +4403,11 @@
         "Count": 104
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 96
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 97
       },
       {
-        "Text": "This game has Quickly Understood Controls",
+        "Text": "This game is Relaxing",
         "Count": 96
       },
       {
@@ -4515,16 +4519,16 @@
     "NumberOfRatings": 4663,
     "Tags": [
       {
+        "Text": "This game is Great for Beginners",
+        "Count": 606
+      },
+      {
         "Text": "This game is Relaxing",
         "Count": 604
       },
       {
         "Text": "This game is Educational",
         "Count": 603
-      },
-      {
-        "Text": "This game is Great for Beginners",
-        "Count": 581
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -4800,7 +4804,7 @@
     "ProductSlug": "for-the-king/home",
     "Name": "For The King",
     "Rating": 4.7,
-    "NumberOfRatings": 2688,
+    "NumberOfRatings": 2700,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -4808,7 +4812,7 @@
       },
       {
         "Text": "This game is Extremely Fun",
-        "Count": 75
+        "Count": 78
       },
       {
         "Text": "This game is Relaxing",
@@ -4869,11 +4873,11 @@
     "Tags": [
       {
         "Text": "This game has Competitive Players",
-        "Count": 147735
+        "Count": 147901
       },
       {
         "Text": "This game is Extremely Fun",
-        "Count": 143205
+        "Count": 147454
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -5011,7 +5015,7 @@
     "ProductSlug": "geneforge-1-mutagen",
     "Name": "Geneforge 1: Mutagen",
     "Rating": 4.2,
-    "NumberOfRatings": 843,
+    "NumberOfRatings": 854,
     "Tags": []
   },
   {
@@ -5427,16 +5431,16 @@
         "Count": 13691
       },
       {
+        "Text": "This game has Competitive Players",
+        "Count": 13626
+      },
+      {
         "Text": "This game is Highly Recommended",
         "Count": 13600
       },
       {
         "Text": "This game has Diverse Characters",
         "Count": 13571
-      },
-      {
-        "Text": "This game has Competitive Players",
-        "Count": 13117
       }
     ]
   },
@@ -5737,19 +5741,19 @@
     "ProductSlug": null,
     "Name": "HITMAN \u2013 The Complete First Season",
     "Rating": 4.65,
-    "NumberOfRatings": 3026,
+    "NumberOfRatings": 3034,
     "Tags": [
       {
         "Text": "This game is Highly Recommended",
         "Count": 39
       },
       {
-        "Text": "This game is Great for Beginners",
-        "Count": 36
+        "Text": "This game has Amazing Storytelling",
+        "Count": 37
       },
       {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 35
+        "Text": "This game is Great for Beginners",
+        "Count": 36
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -6308,11 +6312,11 @@
     "ProductSlug": "into-the-breach/home",
     "Name": "Into The Breach",
     "Rating": 4.83,
-    "NumberOfRatings": 1432,
+    "NumberOfRatings": 1447,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
-        "Count": 53
+        "Count": 58
       },
       {
         "Text": "This game has Challenging Combat",
@@ -6641,11 +6645,11 @@
     "ProductSlug": null,
     "Name": "Just Cause 4",
     "Rating": 4.29,
-    "NumberOfRatings": 2580,
+    "NumberOfRatings": 2584,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
-        "Count": 891
+        "Count": 914
       },
       {
         "Text": "This game is Great for Beginners",
@@ -6785,7 +6789,7 @@
     "ProductSlug": null,
     "Name": "Kena: Bridge of Spirits",
     "Rating": 4.68,
-    "NumberOfRatings": 1658,
+    "NumberOfRatings": 1666,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -6831,7 +6835,7 @@
     "ProductSlug": null,
     "Name": "Killing Floor 2",
     "Rating": 4.27,
-    "NumberOfRatings": 11749,
+    "NumberOfRatings": 11787,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -6850,6 +6854,10 @@
         "Count": 193
       },
       {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 192
+      },
+      {
         "Text": "This game is Great for Beginners",
         "Count": 178
       },
@@ -6864,10 +6872,6 @@
       {
         "Text": "This game has Challenging Combat",
         "Count": 173
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 172
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -6961,7 +6965,7 @@
     "ProductSlug": "kingdom-hearts-iii",
     "Name": "Kingdom Hearts 3",
     "Rating": 4.78,
-    "NumberOfRatings": 916,
+    "NumberOfRatings": 917,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -6978,11 +6982,15 @@
     "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
     "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
     "Rating": 4.82,
-    "NumberOfRatings": 2014,
+    "NumberOfRatings": 2017,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
         "Count": 407
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 59
       },
       {
         "Text": "This game has Amazing Characters",
@@ -6993,23 +7001,19 @@
         "Count": 57
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 56
-      },
-      {
         "Text": "This game has Obsessive Gameplay",
         "Count": 56
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 55
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 53
+        "Text": "This game is Extremely Fun",
+        "Count": 56
       },
       {
         "Text": "This game has Challenging Combat",
+        "Count": 53
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
         "Count": 53
       },
       {
@@ -7022,7 +7026,7 @@
       },
       {
         "Text": "This game has Diverse Characters",
-        "Count": 41
+        "Count": 43
       },
       {
         "Text": "This game has a Creative Community",
@@ -7179,12 +7183,12 @@
         "Count": 2305
       },
       {
-        "Text": "This game has Challenging Combat",
-        "Count": 188
+        "Text": "This game has Diverse Characters",
+        "Count": 189
       },
       {
-        "Text": "This game has Diverse Characters",
-        "Count": 182
+        "Text": "This game has Challenging Combat",
+        "Count": 188
       },
       {
         "Text": "This game has Amazing Characters",
@@ -7309,7 +7313,7 @@
     "ProductSlug": null,
     "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
     "Rating": 4.8,
-    "NumberOfRatings": 1770,
+    "NumberOfRatings": 1771,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -7317,7 +7321,7 @@
       },
       {
         "Text": "This game is Highly Recommended",
-        "Count": 168
+        "Count": 171
       },
       {
         "Text": "This game is Great for Beginners",
@@ -7482,7 +7486,7 @@
     "Tags": [
       {
         "Text": "This game features Challenging Puzzles",
-        "Count": 27
+        "Count": 28
       }
     ]
   },
@@ -7731,7 +7735,7 @@
     "ProductSlug": null,
     "Name": "Live",
     "Rating": 4.37,
-    "NumberOfRatings": 8247,
+    "NumberOfRatings": 8258,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -7951,8 +7955,8 @@
     "Namespace": "ffa7b0821b4142d5873ecb0528715003",
     "ProductSlug": null,
     "Name": "Live",
-    "Rating": 4.7,
-    "NumberOfRatings": 116,
+    "Rating": 4.71,
+    "NumberOfRatings": 119,
     "Tags": [
       {
         "Text": "This game features Challenging Puzzles",
@@ -8578,7 +8582,7 @@
     "ProductSlug": null,
     "Name": "Live",
     "Rating": 4.84,
-    "NumberOfRatings": 438,
+    "NumberOfRatings": 445,
     "Tags": [
       {
         "Text": "This game features Challenging Puzzles",
@@ -8599,11 +8603,11 @@
     "ProductSlug": null,
     "Name": "Live",
     "Rating": 4.18,
-    "NumberOfRatings": 1956,
+    "NumberOfRatings": 1962,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
-        "Count": 33
+        "Count": 34
       },
       {
         "Text": "This game is Highly Recommended",
@@ -9064,7 +9068,7 @@
     "ProductSlug": null,
     "Name": "Live",
     "Rating": 4.55,
-    "NumberOfRatings": 1798,
+    "NumberOfRatings": 1803,
     "Tags": [
       {
         "Text": "This game is Highly Recommended",
@@ -9096,7 +9100,7 @@
       },
       {
         "Text": "This game has Amazing Characters",
-        "Count": 44
+        "Count": 46
       },
       {
         "Text": "This game has a Competitive Community",
@@ -9212,8 +9216,8 @@
     "Namespace": "73ce3d09e1d949e8b80f66c78c1cda50",
     "ProductSlug": null,
     "Name": "Live",
-    "Rating": 4.39,
-    "NumberOfRatings": 84,
+    "Rating": 4.4,
+    "NumberOfRatings": 85,
     "Tags": []
   },
   {
@@ -9244,8 +9248,8 @@
     "Namespace": "e1e92771f6774072bb1b8d0a0a6197f7",
     "ProductSlug": null,
     "Name": "Live",
-    "Rating": 4.46,
-    "NumberOfRatings": 1535,
+    "Rating": 4.47,
+    "NumberOfRatings": 1568,
     "Tags": []
   },
   {
@@ -10430,7 +10434,7 @@
     "ProductSlug": "mount-and-blade-2/home",
     "Name": "Mount \u0026 Blade II: Bannerlord",
     "Rating": 4.73,
-    "NumberOfRatings": 3156,
+    "NumberOfRatings": 3159,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -10465,12 +10469,12 @@
         "Count": 54
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 51
+        "Text": "This game has Diverse Characters",
+        "Count": 53
       },
       {
-        "Text": "This game has Diverse Characters",
-        "Count": 49
+        "Text": "This game is Relaxing",
+        "Count": 51
       },
       {
         "Text": "This game has a Creative Community",
@@ -11057,7 +11061,7 @@
     "ProductSlug": "nuclear-throne/home",
     "Name": "Nuclear Throne",
     "Rating": 4.78,
-    "NumberOfRatings": 314,
+    "NumberOfRatings": 318,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -11296,7 +11300,7 @@
     "ProductSlug": "outerwilds",
     "Name": "Outer Wilds",
     "Rating": 4.9,
-    "NumberOfRatings": 339,
+    "NumberOfRatings": 343,
     "Tags": []
   },
   {
@@ -11727,7 +11731,7 @@
     "ProductSlug": "pathway",
     "Name": "Pathway",
     "Rating": 4.38,
-    "NumberOfRatings": 206,
+    "NumberOfRatings": 201,
     "Tags": []
   },
   {
@@ -11850,7 +11854,7 @@
     "ProductSlug": null,
     "Name": "Phoenix Point",
     "Rating": 4.56,
-    "NumberOfRatings": 1070,
+    "NumberOfRatings": 1071,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -11859,6 +11863,10 @@
       {
         "Text": "This game is Highly Recommended",
         "Count": 144
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 142
       },
       {
         "Text": "This game has Challenging Combat",
@@ -11871,10 +11879,6 @@
       {
         "Text": "This game has Diverse Characters",
         "Count": 134
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 133
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -12127,7 +12131,7 @@
     "ProductSlug": null,
     "Name": "Prison Architect",
     "Rating": 4.59,
-    "NumberOfRatings": 2229,
+    "NumberOfRatings": 2244,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -12163,7 +12167,7 @@
       },
       {
         "Text": "This game has Amazing Characters",
-        "Count": 55
+        "Count": 57
       },
       {
         "Text": "This game has a Creative Community",
@@ -12305,11 +12309,11 @@
         "Count": 34
       },
       {
-        "Text": "This game is Educational",
-        "Count": 32
+        "Text": "This game is Great for Beginners",
+        "Count": 34
       },
       {
-        "Text": "This game is Great for Beginners",
+        "Text": "This game is Educational",
         "Count": 32
       },
       {
@@ -12510,7 +12514,7 @@
     "ProductSlug": null,
     "Name": "Red Dead Redemption 2",
     "Rating": 4.9,
-    "NumberOfRatings": 55446,
+    "NumberOfRatings": 55478,
     "Tags": [
       {
         "Text": "In this game, your choices Impact the Story",
@@ -12531,6 +12535,10 @@
       {
         "Text": "This game has Amazing Storytelling",
         "Count": 1247
+      },
+      {
+        "Text": "This game is Educational",
+        "Count": 1229
       },
       {
         "Text": "This game has Realistic Visuals",
@@ -12555,10 +12563,6 @@
       {
         "Text": "This game has Obsessive Gameplay",
         "Count": 1183
-      },
-      {
-        "Text": "This game is Educational",
-        "Count": 1181
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -12929,7 +12933,7 @@
     "ProductSlug": null,
     "Name": "Rocket League\u00AE",
     "Rating": 4.56,
-    "NumberOfRatings": 244402,
+    "NumberOfRatings": 244543,
     "Tags": [
       {
         "Text": "This game has Competitive Players",
@@ -13257,7 +13261,7 @@
     "ProductSlug": null,
     "Name": "Salt and Sanctuary",
     "Rating": 4.62,
-    "NumberOfRatings": 1650,
+    "NumberOfRatings": 1651,
     "Tags": [
       {
         "Text": "This game has Quickly Understood Controls",
@@ -13330,7 +13334,7 @@
     "ProductSlug": "satisfactory",
     "Name": "Satisfactory",
     "Rating": 4.89,
-    "NumberOfRatings": 17634,
+    "NumberOfRatings": 17647,
     "Tags": [
       {
         "Text": "This game has Obsessive Gameplay",
@@ -13341,12 +13345,12 @@
         "Count": 1557
       },
       {
-        "Text": "This game is Highly Recommended",
-        "Count": 1518
+        "Text": "This game is Relaxing",
+        "Count": 1548
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 1505
+        "Text": "This game is Highly Recommended",
+        "Count": 1518
       },
       {
         "Text": "This game is Extremely Fun",
@@ -13590,7 +13594,7 @@
     "ProductSlug": null,
     "Name": "Shadowrun Hong Kong - Extended Edition",
     "Rating": 4.57,
-    "NumberOfRatings": 119,
+    "NumberOfRatings": 121,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -14014,11 +14018,11 @@
     "ProductSlug": null,
     "Name": "SnowRunner",
     "Rating": 4.75,
-    "NumberOfRatings": 11867,
+    "NumberOfRatings": 11875,
     "Tags": [
       {
         "Text": "This game is Highly Recommended",
-        "Count": 1033
+        "Count": 1052
       },
       {
         "Text": "This game is Relaxing",
@@ -14111,11 +14115,11 @@
     "ProductSlug": null,
     "Name": "Sonic Colors",
     "Rating": 4.46,
-    "NumberOfRatings": 118,
+    "NumberOfRatings": 121,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
-        "Count": 30
+        "Count": 31
       }
     ]
   },
@@ -14690,8 +14694,8 @@
     "Namespace": "buffalo",
     "ProductSlug": "super-meat-boy/home",
     "Name": "Super Meat Boy",
-    "Rating": 4.68,
-    "NumberOfRatings": 68,
+    "Rating": 4.67,
+    "NumberOfRatings": 69,
     "Tags": []
   },
   {
@@ -14755,7 +14759,7 @@
     "ProductSlug": "total-war-warhammer-ii",
     "Name": "Suphalak",
     "Rating": 4.84,
-    "NumberOfRatings": 684,
+    "NumberOfRatings": 687,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -14782,12 +14786,12 @@
         "Count": 101
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 98
+        "Text": "This game has Obsessive Gameplay",
+        "Count": 99
       },
       {
-        "Text": "This game has Obsessive Gameplay",
-        "Count": 93
+        "Text": "This game has Amazing Characters",
+        "Count": 98
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -14917,8 +14921,8 @@
     "Namespace": "95b4d5a753d042678f775d5e1eb5ab25",
     "ProductSlug": null,
     "Name": "Surviving the Aftermath",
-    "Rating": 4.45,
-    "NumberOfRatings": 427,
+    "Rating": 4.44,
+    "NumberOfRatings": 429,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
@@ -15263,8 +15267,8 @@
     "Namespace": "impala",
     "ProductSlug": null,
     "Name": "The Division 2",
-    "Rating": 4.4,
-    "NumberOfRatings": 4138,
+    "Rating": 4.41,
+    "NumberOfRatings": 4145,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -15295,11 +15299,11 @@
         "Count": 151
       },
       {
-        "Text": "This game has Diverse Characters",
-        "Count": 143
+        "Text": "This game is Extremely Fun",
+        "Count": 148
       },
       {
-        "Text": "This game is Extremely Fun",
+        "Text": "This game has Diverse Characters",
         "Count": 143
       },
       {
@@ -15559,7 +15563,7 @@
     "ProductSlug": null,
     "Name": "The Outerworlds",
     "Rating": 4.65,
-    "NumberOfRatings": 1277,
+    "NumberOfRatings": 1278,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -15858,7 +15862,7 @@
     "ProductSlug": "the-witness/home",
     "Name": "The Witness",
     "Rating": 4.69,
-    "NumberOfRatings": 240,
+    "NumberOfRatings": 246,
     "Tags": [
       {
         "Text": "This game features Challenging Puzzles",
@@ -15964,7 +15968,7 @@
     "ProductSlug": null,
     "Name": "This War of Mine",
     "Rating": 4.74,
-    "NumberOfRatings": 499,
+    "NumberOfRatings": 505,
     "Tags": []
   },
   {
@@ -16192,7 +16196,7 @@
     "ProductSlug": "black-book",
     "Name": "tommes Production",
     "Rating": 4.89,
-    "NumberOfRatings": 46,
+    "NumberOfRatings": 47,
     "Tags": []
   },
   {
@@ -16200,7 +16204,7 @@
     "ProductSlug": null,
     "Name": "Tony Hawk\u0027s Pro Skater 1 \u002B 2",
     "Rating": 4.83,
-    "NumberOfRatings": 616,
+    "NumberOfRatings": 628,
     "Tags": []
   },
   {
@@ -16241,7 +16245,7 @@
     "ProductSlug": null,
     "Name": "Total War Saga: TROY",
     "Rating": 4.52,
-    "NumberOfRatings": 2950,
+    "NumberOfRatings": 2962,
     "Tags": [
       {
         "Text": "This game has Diverse Characters",
@@ -16286,7 +16290,7 @@
     "ProductSlug": "total-war-warhammer",
     "Name": "Total War: WARHAMMER",
     "Rating": 4.59,
-    "NumberOfRatings": 4535,
+    "NumberOfRatings": 4545,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -16309,12 +16313,12 @@
         "Count": 174
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 161
+        "Text": "This game is Relaxing",
+        "Count": 166
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 160
+        "Text": "This game has Amazing Characters",
+        "Count": 161
       },
       {
         "Text": "This game has Challenging Combat",
@@ -16498,7 +16502,7 @@
     "ProductSlug": null,
     "Name": "Train Sim World\u00AE 2",
     "Rating": 4.45,
-    "NumberOfRatings": 1377,
+    "NumberOfRatings": 1379,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -16510,7 +16514,7 @@
       },
       {
         "Text": "This game is Extremely Fun",
-        "Count": 166
+        "Count": 171
       },
       {
         "Text": "This game is Highly Recommended",
@@ -16981,8 +16985,8 @@
     "Namespace": "80e804312c2149c69a75aee703e85a9a",
     "ProductSlug": "warface",
     "Name": "Warface",
-    "Rating": 3.92,
-    "NumberOfRatings": 1431,
+    "Rating": 3.93,
+    "NumberOfRatings": 1437,
     "Tags": [
       {
         "Text": "This game has Amazing Characters",
@@ -16997,11 +17001,11 @@
         "Count": 53
       },
       {
-        "Text": "This game is Great for Beginners",
-        "Count": 50
+        "Text": "This game is Relaxing",
+        "Count": 52
       },
       {
-        "Text": "This game is Relaxing",
+        "Text": "This game is Great for Beginners",
         "Count": 50
       },
       {
@@ -17072,7 +17076,7 @@
     "ProductSlug": "wargame-red-dragon",
     "Name": "Wargame: Red Dragon",
     "Rating": 4.71,
-    "NumberOfRatings": 1649,
+    "NumberOfRatings": 1654,
     "Tags": [
       {
         "Text": "This game has Competitive Players",
@@ -17104,7 +17108,7 @@
       },
       {
         "Text": "This game has Amazing Storytelling",
-        "Count": 122
+        "Count": 129
       },
       {
         "Text": "This game has Amazing Characters",
@@ -17598,7 +17602,7 @@
     "ProductSlug": null,
     "Name": "YooKa Laylee \u0026 The Impossible Lair",
     "Rating": 4.48,
-    "NumberOfRatings": 172,
+    "NumberOfRatings": 176,
     "Tags": []
   },
   {
@@ -17650,7 +17654,7 @@
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
-        "Count": 257
+        "Count": 265
       },
       {
         "Text": "This game is Extremely Fun",
