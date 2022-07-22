@@ -192,7 +192,7 @@
     "ProductSlug": null,
     "Name": "Red Dead Redemption 2",
     "Rating": 4.9,
-    "NumberOfRatings": 55203,
+    "NumberOfRatings": 55380,
     "Tags": [
       {
         "Text": "In this game, your choices Impact the Story",
@@ -227,6 +227,10 @@
         "Count": 1199
       },
       {
+        "Text": "This game is Great for Beginners",
+        "Count": 1198
+      },
+      {
         "Text": "This game is Relaxing",
         "Count": 1190
       },
@@ -241,10 +245,6 @@
       {
         "Text": "This game has Quickly Understood Controls",
         "Count": 1180
-      },
-      {
-        "Text": "This game is Great for Beginners",
-        "Count": 1152
       },
       {
         "Text": "This game has a Creative Community",
@@ -375,7 +375,7 @@
     "ProductSlug": "satisfactory",
     "Name": "Satisfactory",
     "Rating": 4.89,
-    "NumberOfRatings": 17623,
+    "NumberOfRatings": 17634,
     "Tags": [
       {
         "Text": "This game has Obsessive Gameplay",
@@ -415,7 +415,7 @@
       },
       {
         "Text": "This game has Amazing Storytelling",
-        "Count": 1073
+        "Count": 1109
       },
       {
         "Text": "This game has Amazing Characters",
@@ -1098,6 +1098,59 @@
     "Tags": []
   },
   {
+    "Namespace": "corydalis",
+    "ProductSlug": "slime-rancher/home",
+    "Name": "Slime Rancher",
+    "Rating": 4.83,
+    "NumberOfRatings": 2623,
+    "Tags": [
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 77
+      },
+      {
+        "Text": "This game has Easy Combat",
+        "Count": 74
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 69
+      },
+      {
+        "Text": "This game is Great for Beginners",
+        "Count": 68
+      },
+      {
+        "Text": "This game is Extremely Fun",
+        "Count": 67
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 67
+      },
+      {
+        "Text": "This game has Amazing Characters",
+        "Count": 62
+      },
+      {
+        "Text": "This game has Obsessive Gameplay",
+        "Count": 53
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 49
+      },
+      {
+        "Text": "This game has Diverse Characters",
+        "Count": 48
+      },
+      {
+        "Text": "This game has a Creative Community",
+        "Count": 38
+      }
+    ]
+  },
+  {
     "Namespace": "5c0d568c71174cff8026db2606771d96",
     "ProductSlug": "into-the-breach/home",
     "Name": "Into The Breach",
@@ -1245,64 +1298,11 @@
     ]
   },
   {
-    "Namespace": "corydalis",
-    "ProductSlug": "slime-rancher/home",
-    "Name": "Slime Rancher",
-    "Rating": 4.82,
-    "NumberOfRatings": 2616,
-    "Tags": [
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 77
-      },
-      {
-        "Text": "This game has Easy Combat",
-        "Count": 74
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 69
-      },
-      {
-        "Text": "This game is Great for Beginners",
-        "Count": 68
-      },
-      {
-        "Text": "This game is Extremely Fun",
-        "Count": 67
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 67
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 62
-      },
-      {
-        "Text": "This game has Obsessive Gameplay",
-        "Count": 53
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 49
-      },
-      {
-        "Text": "This game has Diverse Characters",
-        "Count": 48
-      },
-      {
-        "Text": "This game has a Creative Community",
-        "Count": 38
-      }
-    ]
-  },
-  {
     "Namespace": "4158b699dd70447a981fee752d970a3e",
     "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
     "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
     "Rating": 4.82,
-    "NumberOfRatings": 2008,
+    "NumberOfRatings": 2014,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -1350,7 +1350,7 @@
       },
       {
         "Text": "This game has a Creative Community",
-        "Count": 28
+        "Count": 30
       }
     ]
   },
@@ -1505,7 +1505,7 @@
     "ProductSlug": "batman-arkham-knight/home",
     "Name": "Batman Arkham Knight",
     "Rating": 4.81,
-    "NumberOfRatings": 3529,
+    "NumberOfRatings": 3534,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -1779,7 +1779,7 @@
     "ProductSlug": null,
     "Name": "HITMAN 3",
     "Rating": 4.79,
-    "NumberOfRatings": 10299,
+    "NumberOfRatings": 10345,
     "Tags": [
       {
         "Text": "This game is Highly Recommended",
@@ -2575,7 +2575,7 @@
     "ProductSlug": null,
     "Name": "Assassin\u0027s Creed Odyssey",
     "Rating": 4.75,
-    "NumberOfRatings": 3144,
+    "NumberOfRatings": 3147,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -2584,6 +2584,10 @@
       {
         "Text": "This game has Great Boss Battles",
         "Count": 619
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 58
       },
       {
         "Text": "This game is Educational",
@@ -2596,10 +2600,6 @@
       {
         "Text": "This game has Diverse Characters",
         "Count": 53
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 51
       },
       {
         "Text": "This game has Beautiful Visuals",
@@ -3468,19 +3468,19 @@
     "ProductSlug": null,
     "Name": "Trackmania",
     "Rating": 4.71,
-    "NumberOfRatings": 3811,
+    "NumberOfRatings": 3814,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
         "Count": 339
       },
       {
-        "Text": "This game is Great for Quick Sessions",
-        "Count": 328
+        "Text": "This game has Competitive Players",
+        "Count": 330
       },
       {
-        "Text": "This game has Competitive Players",
-        "Count": 317
+        "Text": "This game is Great for Quick Sessions",
+        "Count": 328
       },
       {
         "Text": "This game is Extremely Fun",
@@ -3943,6 +3943,14 @@
     ]
   },
   {
+    "Namespace": "cf87285950ba492bbdc370b9d265ea36",
+    "ProductSlug": null,
+    "Name": "Far Cry 4",
+    "Rating": 4.7,
+    "NumberOfRatings": 335,
+    "Tags": []
+  },
+  {
     "Namespace": "9f4875c1b0cf4cf19b28e203fc7aff07",
     "ProductSlug": "days-gone",
     "Name": "Days Gone",
@@ -4301,14 +4309,6 @@
         "Count": 55
       }
     ]
-  },
-  {
-    "Namespace": "cf87285950ba492bbdc370b9d265ea36",
-    "ProductSlug": null,
-    "Name": "Far Cry 4",
-    "Rating": 4.69,
-    "NumberOfRatings": 323,
-    "Tags": []
   },
   {
     "Namespace": "b3d490d845c040ee82fd02f400ab0efc",
@@ -4790,11 +4790,11 @@
         "Count": 97
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 83
+        "Text": "This game has Diverse Characters",
+        "Count": 84
       },
       {
-        "Text": "This game has Diverse Characters",
+        "Text": "This game is Extremely Fun",
         "Count": 83
       },
       {
@@ -5328,7 +5328,7 @@
     "ProductSlug": "elite-dangerous/home",
     "Name": "Elite Dangerous",
     "Rating": 4.64,
-    "NumberOfRatings": 3547,
+    "NumberOfRatings": 3554,
     "Tags": [
       {
         "Text": "This game has Obsessive Gameplay",
@@ -5352,7 +5352,7 @@
       },
       {
         "Text": "This game is Educational",
-        "Count": 282
+        "Count": 294
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -5436,6 +5436,19 @@
       {
         "Text": "This game has Great Boss Battles",
         "Count": 35
+      }
+    ]
+  },
+  {
+    "Namespace": "larkspur",
+    "ProductSlug": null,
+    "Name": "Far Cry Primal",
+    "Rating": 4.64,
+    "NumberOfRatings": 229,
+    "Tags": [
+      {
+        "Text": "This game has Great Boss Battles",
+        "Count": 65
       }
     ]
   },
@@ -5740,19 +5753,6 @@
     "Rating": 4.63,
     "NumberOfRatings": 43,
     "Tags": []
-  },
-  {
-    "Namespace": "larkspur",
-    "ProductSlug": null,
-    "Name": "Far Cry Primal",
-    "Rating": 4.63,
-    "NumberOfRatings": 227,
-    "Tags": [
-      {
-        "Text": "This game has Great Boss Battles",
-        "Count": 65
-      }
-    ]
   },
   {
     "Namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
@@ -6671,12 +6671,12 @@
         "Count": 1729
       },
       {
-        "Text": "This game is Highly Recommended",
+        "Text": "This game is Extremely Fun",
         "Count": 197
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 190
+        "Text": "This game is Highly Recommended",
+        "Count": 197
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -6896,7 +6896,7 @@
     "ProductSlug": "nioh-the-complete-edition",
     "Name": "Nioh: The Complete Edition",
     "Rating": 4.59,
-    "NumberOfRatings": 5492,
+    "NumberOfRatings": 5510,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -6908,7 +6908,7 @@
       },
       {
         "Text": "This game has Diverse Characters",
-        "Count": 112
+        "Count": 115
       },
       {
         "Text": "This game has Challenging Combat",
@@ -7572,7 +7572,7 @@
       },
       {
         "Text": "This game has Amazing Storytelling",
-        "Count": 29744
+        "Count": 30741
       },
       {
         "Text": "This game has a Competitive Community",
@@ -7797,7 +7797,7 @@
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
-        "Count": 21
+        "Count": 22
       }
     ]
   },
@@ -8194,7 +8194,7 @@
     "ProductSlug": "fall-guys",
     "Name": "Fall Guys",
     "Rating": 4.53,
-    "NumberOfRatings": 754719,
+    "NumberOfRatings": 755685,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -9229,14 +9229,6 @@
     ]
   },
   {
-    "Namespace": "4930dde6add240a9bfc7ddc415dc2799",
-    "ProductSlug": null,
-    "Name": "Chorus",
-    "Rating": 4.47,
-    "NumberOfRatings": 30,
-    "Tags": []
-  },
-  {
     "Namespace": "anise",
     "ProductSlug": "assassins-creed-3",
     "Name": "Assassin\u0027s Creed III: Remastered",
@@ -9543,6 +9535,14 @@
     "Name": "Live",
     "Rating": 4.45,
     "NumberOfRatings": 22,
+    "Tags": []
+  },
+  {
+    "Namespace": "4930dde6add240a9bfc7ddc415dc2799",
+    "ProductSlug": null,
+    "Name": "Chorus",
+    "Rating": 4.45,
+    "NumberOfRatings": 31,
     "Tags": []
   },
   {
@@ -9992,19 +9992,19 @@
         "Count": 48
       },
       {
+        "Text": "This game is Great for Beginners",
+        "Count": 45
+      },
+      {
         "Text": "This game has Amazing Storytelling",
         "Count": 45
       },
       {
-        "Text": "This game is Great for Beginners",
-        "Count": 44
-      },
-      {
-        "Text": "This game is Extremely Fun",
+        "Text": "This game has Quickly Understood Controls",
         "Count": 42
       },
       {
-        "Text": "This game has Quickly Understood Controls",
+        "Text": "This game is Extremely Fun",
         "Count": 42
       },
       {
@@ -11682,7 +11682,7 @@
     "ProductSlug": null,
     "Name": "The Cycle",
     "Rating": 4.16,
-    "NumberOfRatings": 10946,
+    "NumberOfRatings": 10953,
     "Tags": [
       {
         "Text": "This game has Competitive Players",
@@ -11735,31 +11735,6 @@
     "Tags": []
   },
   {
-    "Namespace": "0ded1556336546bf849c9d28878ec86c",
-    "ProductSlug": null,
-    "Name": "Space Punks",
-    "Rating": 4.15,
-    "NumberOfRatings": 987,
-    "Tags": [
-      {
-        "Text": "This game is Relaxing",
-        "Count": 51
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 43
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 41
-      },
-      {
-        "Text": "This game is Great for Beginners",
-        "Count": 33
-      }
-    ]
-  },
-  {
     "Namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
     "ProductSlug": null,
     "Name": "Godfall",
@@ -11787,6 +11762,31 @@
     "Rating": 4.14,
     "NumberOfRatings": 59,
     "Tags": []
+  },
+  {
+    "Namespace": "0ded1556336546bf849c9d28878ec86c",
+    "ProductSlug": null,
+    "Name": "Space Punks",
+    "Rating": 4.14,
+    "NumberOfRatings": 989,
+    "Tags": [
+      {
+        "Text": "This game is Relaxing",
+        "Count": 51
+      },
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 43
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 41
+      },
+      {
+        "Text": "This game is Great for Beginners",
+        "Count": 33
+      }
+    ]
   },
   {
     "Namespace": "7061cd389bdc4c068910da67cd8e154c",
