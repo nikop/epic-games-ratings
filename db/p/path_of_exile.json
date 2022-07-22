@@ -3,20 +3,25 @@
   "Name": "Path of Exile",
   "ProductSlug": null,
   "Rating": 4.66,
-  "NumberOfRatings": 1587,
+  "NumberOfRatings": 1590,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-07-22T20:16:56.6558119+00:00",
+  "LastChanged": "2022-07-22T22:25:52.5311355+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 1587
+    },
+    {
+      "Time": "2022-07-22T22:25:52.5311357+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 1590
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 758
+      "Count": 767
     },
     {
       "Text": "This game has Great Boss Battles",

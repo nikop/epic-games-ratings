@@ -2,15 +2,20 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "Elex II",
   "ProductSlug": "elex-ii",
-  "Rating": 4.19,
-  "NumberOfRatings": 59,
+  "Rating": 4.2,
+  "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
-  "LastChanged": "2022-07-22T20:24:52.8123951+00:00",
+  "LastChanged": "2022-07-22T22:29:17.3464019+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:52.8123952+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 59
+    },
+    {
+      "Time": "2022-07-22T22:29:17.3464021+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 60
     }
   ],
   "Tags": []

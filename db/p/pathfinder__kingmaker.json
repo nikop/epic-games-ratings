@@ -3,9 +3,9 @@
   "Name": "Pathfinder: Kingmaker",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 2061,
+  "NumberOfRatings": 2063,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-07-22T21:04:17.0304344+00:00",
+  "LastChanged": "2022-07-22T22:29:08.9984431+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -16,12 +16,17 @@
       "Time": "2022-07-22T21:04:17.0304346+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 2061
+    },
+    {
+      "Time": "2022-07-22T22:29:08.9984432+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 2063
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 798
+      "Count": 820
     },
     {
       "Text": "This game has Great Boss Battles",
