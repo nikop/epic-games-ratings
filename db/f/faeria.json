@@ -1,0 +1,22 @@
+{
+  "ID": "f9c2aedaff8442b286fbd026948b9f09",
+  "Name": "Faeria",
+  "ProductSlug": null,
+  "Rating": 4.48,
+  "NumberOfRatings": 111,
+  "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
+  "LastChanged": "2022-07-22T20:17:47.9455283+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:47.9455285+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 111
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 32
+    }
+  ]
+}

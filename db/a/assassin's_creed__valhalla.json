@@ -1,0 +1,58 @@
+{
+  "ID": "400347196e674de89c23cc2a7f2121db",
+  "Name": "Assassin\u0027s Creed: Valhalla",
+  "ProductSlug": null,
+  "Rating": 4.59,
+  "NumberOfRatings": 7136,
+  "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
+  "LastChanged": "2022-07-22T20:21:17.716041+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:17.7160411+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 7136
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 2714
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 1471
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 132
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 124
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 115
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 115
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 112
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 111
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 109
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 105
+    }
+  ]
+}

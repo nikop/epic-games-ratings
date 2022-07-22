@@ -1,0 +1,17 @@
+{
+  "ID": "49c5a3d5dcac460697d234ed2bf63dc5",
+  "Name": "ootp22 Production",
+  "ProductSlug": "out-of-the-park-baseball-22",
+  "Rating": 4.67,
+  "NumberOfRatings": 21,
+  "FirstSeen": "2022-07-22T20:23:16.2999392+00:00",
+  "LastChanged": "2022-07-22T20:23:16.2999393+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:23:16.2999395+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 21
+    }
+  ],
+  "Tags": []
+}

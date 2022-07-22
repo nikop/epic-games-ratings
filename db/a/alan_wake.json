@@ -1,0 +1,17 @@
+{
+  "ID": "00b9ec358e1f46daa4f8e1194d5081d8",
+  "Name": "Alan Wake",
+  "ProductSlug": "alan-wake",
+  "Rating": 4.45,
+  "NumberOfRatings": 195,
+  "FirstSeen": "2022-07-22T20:27:21.5062168+00:00",
+  "LastChanged": "2022-07-22T20:27:21.5062169+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:27:21.506217+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 195
+    }
+  ],
+  "Tags": []
+}

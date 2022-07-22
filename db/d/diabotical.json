@@ -1,0 +1,62 @@
+{
+  "ID": "36336ee97ec543bbae85abaca618182b",
+  "Name": "Diabotical",
+  "ProductSlug": null,
+  "Rating": 4.79,
+  "NumberOfRatings": 350,
+  "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
+  "LastChanged": "2022-07-22T20:22:10.7191908+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:22:10.7191909+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 350
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Count": 58
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 58
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 57
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 54
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 53
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 53
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 52
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 48
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 47
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 47
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 42
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ID": "df2da503f2074f078f8090da3c27ec47",
+  "Name": "BioShock Infinite: Complete Edition",
+  "ProductSlug": "bioshock-infinite-complete-edition",
+  "Rating": 4.69,
+  "NumberOfRatings": 12002,
+  "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
+  "LastChanged": "2022-07-22T20:20:42.6159255+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:42.6159256+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 12002
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 1943
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 39
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 38
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 37
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 33
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 26
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 21
+    }
+  ]
+}

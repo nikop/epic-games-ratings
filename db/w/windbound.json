@@ -1,0 +1,17 @@
+{
+  "ID": "a47cb01bef994749ac731aa3366796e8",
+  "Name": "Windbound",
+  "ProductSlug": "windbound",
+  "Rating": 4.2,
+  "NumberOfRatings": 1041,
+  "FirstSeen": "2022-07-22T20:20:10.910936+00:00",
+  "LastChanged": "2022-07-22T20:20:10.9109362+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:10.9109364+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 1041
+    }
+  ],
+  "Tags": []
+}

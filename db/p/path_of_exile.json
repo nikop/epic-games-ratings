@@ -1,0 +1,66 @@
+{
+  "ID": "7ad5508d382e46228056f1d1a0189ae2",
+  "Name": "Path of Exile",
+  "ProductSlug": null,
+  "Rating": 4.66,
+  "NumberOfRatings": 1587,
+  "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
+  "LastChanged": "2022-07-22T20:16:56.6558119+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:16:56.655812+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 1587
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 758
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 601
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 98
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 97
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 85
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 84
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 81
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 77
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 77
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 74
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 66
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 65
+    }
+  ]
+}

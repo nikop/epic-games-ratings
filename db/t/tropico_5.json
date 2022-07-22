@@ -1,0 +1,30 @@
+{
+  "ID": "7015c51a49be4592b5ba3ae2577723c5",
+  "Name": "Tropico 5",
+  "ProductSlug": "tropico-5/home",
+  "Rating": 4.45,
+  "NumberOfRatings": 900,
+  "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
+  "LastChanged": "2022-07-22T20:18:35.4138303+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:18:35.4138307+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 900
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 20
+    }
+  ]
+}

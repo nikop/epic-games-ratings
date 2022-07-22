@@ -1,0 +1,66 @@
+{
+  "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
+  "Name": "Days Gone",
+  "ProductSlug": "days-gone",
+  "Rating": 4.71,
+  "NumberOfRatings": 2326,
+  "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
+  "LastChanged": "2022-07-22T20:29:37.7111963+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:29:37.7111964+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 2326
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 989
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 78
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 73
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 72
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 72
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 71
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 70
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 69
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 66
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 65
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 56
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 33
+    }
+  ]
+}

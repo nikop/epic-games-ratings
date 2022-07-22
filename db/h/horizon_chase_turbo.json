@@ -1,0 +1,26 @@
+{
+  "ID": "253d451b16364a22907dd01b7e928fb6",
+  "Name": "Horizon Chase Turbo",
+  "ProductSlug": "horizon-chase-turbo",
+  "Rating": 4.61,
+  "NumberOfRatings": 633,
+  "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
+  "LastChanged": "2022-07-22T20:19:20.5347352+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:20.5347353+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 633
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 21
+    }
+  ]
+}

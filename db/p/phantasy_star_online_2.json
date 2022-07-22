@@ -1,0 +1,58 @@
+{
+  "ID": "bf333e6236914222a95a536389c05813",
+  "Name": "Phantasy Star Online 2",
+  "ProductSlug": "phantasy-star-online-2",
+  "Rating": 4.5,
+  "NumberOfRatings": 444,
+  "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
+  "LastChanged": "2022-07-22T20:17:27.1466755+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:27.1466756+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 444
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 306
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 230
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 49
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 45
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 44
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 43
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Count": 35
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 33
+    }
+  ]
+}

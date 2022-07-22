@@ -1,0 +1,46 @@
+{
+  "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
+  "Name": "Tomb Raider GOTY",
+  "ProductSlug": "tomb-raider",
+  "Rating": 4.67,
+  "NumberOfRatings": 9577,
+  "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
+  "LastChanged": "2022-07-22T20:21:04.7609197+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:04.7609199+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 9577
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 1540
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 33
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 30
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 22
+    }
+  ]
+}

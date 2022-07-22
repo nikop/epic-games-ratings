@@ -1,0 +1,46 @@
+{
+  "ID": "3c52fbac843d4375803187739db84801",
+  "Name": "Hydra",
+  "ProductSlug": null,
+  "Rating": 4.23,
+  "NumberOfRatings": 569,
+  "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
+  "LastChanged": "2022-07-22T20:17:25.7061185+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:25.7061186+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 569
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 20
+    }
+  ]
+}

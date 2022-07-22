@@ -1,0 +1,54 @@
+{
+  "ID": "conanexiles",
+  "Name": "Conan Exiles",
+  "ProductSlug": null,
+  "Rating": 4.59,
+  "NumberOfRatings": 671,
+  "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
+  "LastChanged": "2022-07-22T20:16:49.0940251+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:16:49.0940252+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 671
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 170
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 166
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 160
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 159
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 159
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 154
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 150
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 145
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 106
+    }
+  ]
+}

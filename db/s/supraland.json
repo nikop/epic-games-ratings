@@ -1,0 +1,62 @@
+{
+  "ID": "ae373893881044d2bf26d6f8363a120e",
+  "Name": "Supraland",
+  "ProductSlug": null,
+  "Rating": 4.6,
+  "NumberOfRatings": 21817,
+  "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
+  "LastChanged": "2022-07-22T20:19:49.3012079+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:49.3012081+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 21817
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Count": 5367
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 145
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 141
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 139
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 138
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 137
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 136
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 130
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 129
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 115
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 93
+    }
+  ]
+}

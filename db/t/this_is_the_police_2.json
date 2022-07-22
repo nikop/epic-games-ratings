@@ -1,0 +1,17 @@
+{
+  "ID": "c0f696a36d1d49f9a6a96a732a83acfc",
+  "Name": "This Is The Police 2",
+  "ProductSlug": "this-is-the-police-2",
+  "Rating": 4.65,
+  "NumberOfRatings": 20,
+  "FirstSeen": "2022-07-22T20:23:15.818188+00:00",
+  "LastChanged": "2022-07-22T20:23:15.8181882+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:23:15.8181883+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 20
+    }
+  ],
+  "Tags": []
+}

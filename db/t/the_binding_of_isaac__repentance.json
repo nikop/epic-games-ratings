@@ -1,0 +1,70 @@
+{
+  "ID": "dbf5337d024e457bac68f2059112da86",
+  "Name": "The Binding of Isaac: Repentance",
+  "ProductSlug": "the-binding-of-isaac-repentance",
+  "Rating": 4.9,
+  "NumberOfRatings": 1243,
+  "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
+  "LastChanged": "2022-07-22T20:18:34.9311334+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:18:34.9311335+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 1243
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 612
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 586
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 89
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 86
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 85
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 80
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 79
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 78
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 72
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 71
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 68
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 67
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 61
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "ID": "c3e63401d6ba410493de31ed69a798a1",
+  "Name": "Heroes and Generals WWII",
+  "ProductSlug": null,
+  "Rating": 4.22,
+  "NumberOfRatings": 2508,
+  "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
+  "LastChanged": "2022-07-22T20:17:51.2948148+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:51.2948149+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 2508
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 175
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 152
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 151
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 146
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 145
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 142
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 129
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 122
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 112
+    }
+  ]
+}

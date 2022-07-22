@@ -1,0 +1,62 @@
+{
+  "ID": "rosemallow",
+  "Name": "The Outerworlds",
+  "ProductSlug": null,
+  "Rating": 4.65,
+  "NumberOfRatings": 1279,
+  "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
+  "LastChanged": "2022-07-22T20:25:45.1874413+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:25:45.1874414+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 1279
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 469
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 54
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 48
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 48
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 41
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 39
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 39
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 39
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 38
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 36
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 24
+    }
+  ]
+}

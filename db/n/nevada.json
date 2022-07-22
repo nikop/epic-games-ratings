@@ -1,0 +1,17 @@
+{
+  "ID": "08f38e25e11f4c1e977cb75aae5e4535",
+  "Name": "Nevada",
+  "ProductSlug": null,
+  "Rating": 4.49,
+  "NumberOfRatings": 37,
+  "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
+  "LastChanged": "2022-07-22T20:17:27.619213+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:27.6192131+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 37
+    }
+  ],
+  "Tags": []
+}

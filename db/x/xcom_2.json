@@ -1,0 +1,50 @@
+{
+  "ID": "7ec453d446194b8f8afe82aaa9561211",
+  "Name": "XCOM 2",
+  "ProductSlug": null,
+  "Rating": 4.56,
+  "NumberOfRatings": 4255,
+  "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
+  "LastChanged": "2022-07-22T20:17:40.7075483+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:40.7075487+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 4255
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Count": 328
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 318
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 297
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 295
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 294
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 289
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 283
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 270
+    }
+  ]
+}

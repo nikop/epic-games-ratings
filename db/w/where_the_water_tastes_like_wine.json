@@ -1,0 +1,17 @@
+{
+  "ID": "27d2f156f77b4202b9bc78e40a408b03",
+  "Name": "Where The Water Tastes Like Wine",
+  "ProductSlug": "where-the-water-tastes-like-wine/home",
+  "Rating": 4.4,
+  "NumberOfRatings": 20,
+  "FirstSeen": "2022-07-22T20:27:08.2507114+00:00",
+  "LastChanged": "2022-07-22T20:27:08.2507115+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:27:08.2507117+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 20
+    }
+  ],
+  "Tags": []
+}

@@ -1,0 +1,42 @@
+{
+  "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
+  "Name": "Moremi",
+  "ProductSlug": "stranded-deep",
+  "Rating": 4.22,
+  "NumberOfRatings": 1517,
+  "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
+  "LastChanged": "2022-07-22T20:30:37.8027762+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:30:37.8027765+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 1517
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 42
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 41
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 39
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 37
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 35
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 28
+    }
+  ]
+}

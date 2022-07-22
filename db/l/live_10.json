@@ -1,0 +1,22 @@
+{
+  "ID": "5c59642227a2412fb38f324d1772914e",
+  "Name": "Live",
+  "ProductSlug": null,
+  "Rating": 3.93,
+  "NumberOfRatings": 59,
+  "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
+  "LastChanged": "2022-07-22T20:17:19.3517459+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:19.351746+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": 59
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Count": 28
+    }
+  ]
+}

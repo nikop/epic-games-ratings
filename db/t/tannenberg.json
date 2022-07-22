@@ -1,0 +1,17 @@
+{
+  "ID": "538de058a6d9490ea151c4cd111cc01b",
+  "Name": "Tannenberg",
+  "ProductSlug": "tannenberg",
+  "Rating": 4.34,
+  "NumberOfRatings": 497,
+  "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
+  "LastChanged": "2022-07-22T20:24:54.2486299+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:24:54.24863+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 497
+    }
+  ],
+  "Tags": []
+}

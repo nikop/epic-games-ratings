@@ -1,0 +1,17 @@
+{
+  "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
+  "Name": "Good Company",
+  "ProductSlug": null,
+  "Rating": 4.39,
+  "NumberOfRatings": 54,
+  "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
+  "LastChanged": "2022-07-22T20:27:54.0503205+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:27:54.0503206+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 54
+    }
+  ],
+  "Tags": []
+}

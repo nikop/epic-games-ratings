@@ -1,0 +1,22 @@
+{
+  "ID": "eddb735dde6b47cda8193f2643cff886",
+  "Name": "Blasphemous",
+  "ProductSlug": null,
+  "Rating": 4.88,
+  "NumberOfRatings": 80,
+  "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
+  "LastChanged": "2022-07-22T20:20:14.5456167+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:14.5456168+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 80
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 26
+    }
+  ]
+}

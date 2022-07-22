@@ -1,0 +1,58 @@
+{
+  "ID": "ark",
+  "Name": "Ark",
+  "ProductSlug": null,
+  "Rating": 4.64,
+  "NumberOfRatings": 26667,
+  "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
+  "LastChanged": "2022-07-22T20:19:31.1262321+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:31.1262323+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 26667
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 17657
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 6083
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 5995
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 5862
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 5752
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 5740
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 5618
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 5467
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 5412
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 5317
+    }
+  ]
+}

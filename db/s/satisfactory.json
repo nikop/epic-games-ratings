@@ -1,0 +1,62 @@
+{
+  "ID": "crab",
+  "Name": "Satisfactory",
+  "ProductSlug": "satisfactory",
+  "Rating": 4.89,
+  "NumberOfRatings": 17694,
+  "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
+  "LastChanged": "2022-07-22T20:22:11.7040587+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:22:11.7040588+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 17694
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 1595
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 1557
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 1548
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 1518
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 1491
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 1477
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 1381
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Count": 1333
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 1188
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 1109
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 1037
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ID": "13bb5776b9e1424d84ce42d9ba61c0ca",
+  "Name": "Inside",
+  "ProductSlug": "inside/home",
+  "Rating": 4.73,
+  "NumberOfRatings": 743,
+  "FirstSeen": "2022-07-22T20:27:08.8041774+00:00",
+  "LastChanged": "2022-07-22T20:27:08.8041776+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:27:08.8041777+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 743
+    }
+  ],
+  "Tags": []
+}

@@ -1,0 +1,66 @@
+{
+  "ID": "cobra",
+  "Name": "My Time At Portia",
+  "ProductSlug": "my-time-at-portia/home",
+  "Rating": 4.66,
+  "NumberOfRatings": 2158,
+  "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
+  "LastChanged": "2022-07-22T20:22:29.4113785+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:22:29.4113786+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 2158
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 718
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 61
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 59
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Count": 57
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 55
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 51
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 49
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 47
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 46
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 43
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 41
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 31
+    }
+  ]
+}

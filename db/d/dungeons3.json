@@ -1,0 +1,62 @@
+{
+  "ID": "213259527d2f41baa90cbe0ae5555271",
+  "Name": "Dungeons3",
+  "ProductSlug": null,
+  "Rating": 4.67,
+  "NumberOfRatings": 742,
+  "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
+  "LastChanged": "2022-07-22T20:16:48.6100154+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:16:48.6100156+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 742
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 66
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 62
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 58
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 54
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 53
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 47
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 43
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 41
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 32
+    },
+    {
+      "Text": "This game has a Silly Community",
+      "Count": 24
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ID": "be886d9db65047a89b24cd4317695f18",
+  "Name": "Frostpunk",
+  "ProductSlug": null,
+  "Rating": 4.72,
+  "NumberOfRatings": 5298,
+  "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
+  "LastChanged": "2022-07-22T20:20:37.4125462+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:37.4125463+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 5298
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Count": 146
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 145
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 144
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 135
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 130
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 125
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 121
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 115
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 92
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 59
+    }
+  ]
+}

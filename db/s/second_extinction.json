@@ -1,0 +1,22 @@
+{
+  "ID": "fcd3387b58864614b66952d0430d2b9a",
+  "Name": "Second Extinction",
+  "ProductSlug": "second-extinction",
+  "Rating": 4.04,
+  "NumberOfRatings": 289,
+  "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
+  "LastChanged": "2022-07-22T20:33:01.3104458+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:33:01.3104463+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 289
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 61
+    }
+  ]
+}

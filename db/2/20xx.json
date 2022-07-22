@@ -1,0 +1,17 @@
+{
+  "ID": "4c7117cadb714722950338f02850fd8d",
+  "Name": "20XX",
+  "ProductSlug": null,
+  "Rating": 4.64,
+  "NumberOfRatings": 208,
+  "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
+  "LastChanged": "2022-07-22T20:20:18.3366394+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:18.3366397+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 208
+    }
+  ],
+  "Tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "ID": "0712176b5e3e49bfa8866c0ee1359f2d",
+  "Name": "Kingdom Hearts 3",
+  "ProductSlug": "kingdom-hearts-iii",
+  "Rating": 4.78,
+  "NumberOfRatings": 923,
+  "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
+  "LastChanged": "2022-07-22T20:21:33.6381013+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:33.6381014+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 923
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 193
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 132
+    }
+  ]
+}

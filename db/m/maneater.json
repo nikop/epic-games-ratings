@@ -1,0 +1,66 @@
+{
+  "ID": "turtle",
+  "Name": "Maneater",
+  "ProductSlug": null,
+  "Rating": 4.49,
+  "NumberOfRatings": 73667,
+  "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
+  "LastChanged": "2022-07-22T20:24:54.7080284+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:24:54.7080286+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 73667
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 10737
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 2446
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 52
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 52
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 49
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 46
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 46
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 45
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 42
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 35
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 30
+    }
+  ]
+}

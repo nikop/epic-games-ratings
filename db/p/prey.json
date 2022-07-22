@@ -1,0 +1,50 @@
+{
+  "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
+  "Name": "Prey",
+  "ProductSlug": "prey",
+  "Rating": 4.6,
+  "NumberOfRatings": 7535,
+  "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
+  "LastChanged": "2022-07-22T20:32:29.7707865+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:32:29.7707866+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 7535
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 88
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 84
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 76
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 74
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 72
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 69
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 63
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 58
+    }
+  ]
+}

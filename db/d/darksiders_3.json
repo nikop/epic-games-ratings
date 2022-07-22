@@ -1,0 +1,22 @@
+{
+  "ID": "springbok",
+  "Name": "Darksiders 3",
+  "ProductSlug": null,
+  "Rating": 4.43,
+  "NumberOfRatings": 70,
+  "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
+  "LastChanged": "2022-07-22T20:19:42.0719797+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:42.0719798+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 70
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 24
+    }
+  ]
+}

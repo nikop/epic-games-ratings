@@ -1,0 +1,74 @@
+{
+  "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "Name": "Red Dead Redemption 2",
+  "ProductSlug": null,
+  "Rating": 4.9,
+  "NumberOfRatings": 55478,
+  "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
+  "LastChanged": "2022-07-22T20:23:15.0342452+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:23:15.0342453+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 55478
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Count": 25583
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 12227
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 1252
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 1248
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 1247
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 1229
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 1213
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 1211
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 1199
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 1198
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 1190
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 1183
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 1180
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 863
+    }
+  ]
+}

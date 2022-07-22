@@ -1,0 +1,58 @@
+{
+  "ID": "9a4a6536096c4307bfb235d811f754ce",
+  "Name": "Neverwinter",
+  "ProductSlug": "neverwinter",
+  "Rating": 4.27,
+  "NumberOfRatings": 625,
+  "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
+  "LastChanged": "2022-07-22T20:17:12.0635614+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:12.0635618+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 625
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 227
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 34
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 32
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 29
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 28
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 20
+    }
+  ]
+}

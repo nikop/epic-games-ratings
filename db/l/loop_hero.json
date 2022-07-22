@@ -1,0 +1,58 @@
+{
+  "ID": "ff50f85ed609454e80ac46d9496da34d",
+  "Name": "Loop Hero",
+  "ProductSlug": "loop-hero",
+  "Rating": 4.67,
+  "NumberOfRatings": 3074,
+  "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
+  "LastChanged": "2022-07-22T20:31:49.2794882+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:31:49.2794884+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 3074
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 111
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 109
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 104
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 102
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 87
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 86
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 84
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 83
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 80
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 64
+    }
+  ]
+}

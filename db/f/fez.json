@@ -1,0 +1,17 @@
+{
+  "ID": "41f47fd0d3e248bc938a5815d6d64daa",
+  "Name": "Fez",
+  "ProductSlug": "fez/home",
+  "Rating": 4.69,
+  "NumberOfRatings": 52,
+  "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
+  "LastChanged": "2022-07-22T20:21:13.4186641+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:13.4186643+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 52
+    }
+  ],
+  "Tags": []
+}

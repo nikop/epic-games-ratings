@@ -1,0 +1,58 @@
+{
+  "ID": "304724b675974566b1d7e23af80a1f52",
+  "Name": "BioShock 2 Remastered",
+  "ProductSlug": "bioshock-2-remastered",
+  "Rating": 4.51,
+  "NumberOfRatings": 8432,
+  "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
+  "LastChanged": "2022-07-22T20:29:15.5533473+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:29:15.5533474+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 8432
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 2008
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 72
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 66
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 62
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 59
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 55
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 53
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 47
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 45
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 34
+    }
+  ]
+}

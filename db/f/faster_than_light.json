@@ -1,0 +1,50 @@
+{
+  "ID": "f7dc1618d0bd4810a61f50d44333900e",
+  "Name": "Faster Than Light",
+  "ProductSlug": "faster-than-light/home",
+  "Rating": 4.79,
+  "NumberOfRatings": 548,
+  "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
+  "LastChanged": "2022-07-22T20:23:43.0008393+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:23:43.0008395+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 548
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 32
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 20
+    }
+  ]
+}

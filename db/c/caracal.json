@@ -1,0 +1,30 @@
+{
+  "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "Name": "Caracal",
+  "ProductSlug": "galactic-civilizations-iv",
+  "Rating": 4.25,
+  "NumberOfRatings": 277,
+  "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
+  "LastChanged": "2022-07-22T20:20:44.6509478+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:44.6509479+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 277
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ID": "weaver",
+  "Name": "Rebel Galaxy",
+  "ProductSlug": "rebel-galaxy/home",
+  "Rating": 4.37,
+  "NumberOfRatings": 371,
+  "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
+  "LastChanged": "2022-07-22T20:27:15.716548+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:27:15.7165482+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 371
+    }
+  ],
+  "Tags": []
+}

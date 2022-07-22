@@ -1,0 +1,22 @@
+{
+  "ID": "3b550d92911244558770b68c5a812a5d",
+  "Name": "Sheltered",
+  "ProductSlug": "sheltered",
+  "Rating": 4.44,
+  "NumberOfRatings": 384,
+  "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
+  "LastChanged": "2022-07-22T20:17:02.2392678+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:02.2392679+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 384
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 71
+    }
+  ]
+}

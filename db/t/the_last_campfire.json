@@ -1,0 +1,17 @@
+{
+  "ID": "68214aaaa6f94c81a18c99fc2dc208cf",
+  "Name": "The Last Campfire",
+  "ProductSlug": "the-last-campfire",
+  "Rating": 4.91,
+  "NumberOfRatings": 23,
+  "FirstSeen": "2022-07-22T20:21:43.218901+00:00",
+  "LastChanged": "2022-07-22T20:21:43.2189011+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:43.2189013+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": 23
+    }
+  ],
+  "Tags": []
+}

@@ -1,0 +1,58 @@
+{
+  "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
+  "Name": "Roller Champions",
+  "ProductSlug": "roller-champions",
+  "Rating": 4.34,
+  "NumberOfRatings": 4290,
+  "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
+  "LastChanged": "2022-07-22T20:21:37.6973741+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:37.6973742+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 4290
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 121
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 116
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 111
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 109
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 108
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 102
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 96
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 90
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 81
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 81
+    }
+  ]
+}

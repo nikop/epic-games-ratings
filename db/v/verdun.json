@@ -1,0 +1,22 @@
+{
+  "ID": "e4a2a414d46849f49a35c0f80df2903a",
+  "Name": "Verdun",
+  "ProductSlug": "verdun",
+  "Rating": 4.53,
+  "NumberOfRatings": 1105,
+  "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
+  "LastChanged": "2022-07-22T20:26:07.9846697+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:26:07.9846698+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1105
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 20
+    }
+  ]
+}

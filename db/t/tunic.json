@@ -1,0 +1,17 @@
+{
+  "ID": "b6faa05b8b594ec39944ff71dbdfdfc1",
+  "Name": "Tunic",
+  "ProductSlug": "tunic",
+  "Rating": 4.85,
+  "NumberOfRatings": 73,
+  "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
+  "LastChanged": "2022-07-22T20:27:39.6224805+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:27:39.6224806+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 73
+    }
+  ],
+  "Tags": []
+}

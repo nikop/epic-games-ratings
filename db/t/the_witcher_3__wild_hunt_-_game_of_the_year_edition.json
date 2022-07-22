@@ -1,0 +1,66 @@
+{
+  "ID": "14ee004dadc142faaaece5a6270fb628",
+  "Name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+  "ProductSlug": "the-witcher-3-wild-hunt",
+  "Rating": 4.9,
+  "NumberOfRatings": 7035,
+  "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
+  "LastChanged": "2022-07-22T20:24:37.901995+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:24:37.9019951+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 7035
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 2416
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 245
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 241
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 240
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 239
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 238
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 236
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 230
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 225
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 218
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 208
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 129
+    }
+  ]
+}

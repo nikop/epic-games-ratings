@@ -1,0 +1,62 @@
+{
+  "ID": "33956bcb55d4452d8c47e16b94e294bd",
+  "Name": "Among Us",
+  "ProductSlug": null,
+  "Rating": 4.59,
+  "NumberOfRatings": 15257,
+  "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
+  "LastChanged": "2022-07-22T20:21:02.6618055+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:02.6618056+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 15257
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 493
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 462
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 446
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 442
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 440
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 439
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 434
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 430
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 421
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 406
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 376
+    }
+  ]
+}

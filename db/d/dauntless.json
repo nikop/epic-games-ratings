@@ -1,0 +1,62 @@
+{
+  "ID": "jackal",
+  "Name": "Dauntless",
+  "ProductSlug": null,
+  "Rating": 4.53,
+  "NumberOfRatings": 11811,
+  "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
+  "LastChanged": "2022-07-22T20:20:00.3029747+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:00.302975+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 11811
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 5206
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 3051
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 365
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 365
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 361
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 358
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 356
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 350
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 343
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 336
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 332
+    }
+  ]
+}

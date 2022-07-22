@@ -1,0 +1,62 @@
+{
+  "ID": "e9e3ee13329f434f94105e6ec63435e0",
+  "Name": "BioShock Remastered",
+  "ProductSlug": "bioshock-remastered",
+  "Rating": 4.64,
+  "NumberOfRatings": 16998,
+  "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
+  "LastChanged": "2022-07-22T20:33:07.4798793+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:33:07.4798795+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 16998
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 2811
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 58
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 54
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 54
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 53
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 52
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 51
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 51
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 49
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 40
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 35
+    }
+  ]
+}

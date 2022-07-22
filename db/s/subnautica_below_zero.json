@@ -1,0 +1,54 @@
+{
+  "ID": "foxglove",
+  "Name": "Subnautica Below Zero",
+  "ProductSlug": null,
+  "Rating": 4.77,
+  "NumberOfRatings": 954,
+  "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
+  "LastChanged": "2022-07-22T20:18:53.9147296+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:18:53.9147297+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 954
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Count": 31
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 31
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 31
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 26
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 25
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 24
+    }
+  ]
+}

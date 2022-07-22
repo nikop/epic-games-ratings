@@ -1,0 +1,62 @@
+{
+  "ID": "37baf50c268d47779020d73143bb02b0",
+  "Name": "Auto Chess",
+  "ProductSlug": "auto-chess/home",
+  "Rating": 4.52,
+  "NumberOfRatings": 1358,
+  "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
+  "LastChanged": "2022-07-22T20:21:31.7729605+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:21:31.7729607+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 1358
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 165
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 142
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 141
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 133
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 124
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 121
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 119
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 104
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 91
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 85
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 68
+    }
+  ]
+}

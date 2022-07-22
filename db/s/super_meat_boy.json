@@ -1,0 +1,17 @@
+{
+  "ID": "buffalo",
+  "Name": "Super Meat Boy",
+  "ProductSlug": "super-meat-boy/home",
+  "Rating": 4.67,
+  "NumberOfRatings": 69,
+  "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
+  "LastChanged": "2022-07-22T20:25:39.3039475+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:25:39.3039476+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 69
+    }
+  ],
+  "Tags": []
+}
