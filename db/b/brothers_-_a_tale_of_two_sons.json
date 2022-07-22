@@ -3,14 +3,19 @@
   "Name": "Brothers - A Tale of Two Sons",
   "ProductSlug": "brothers-a-tale-of-two-sons",
   "Rating": 4.47,
-  "NumberOfRatings": 353,
+  "NumberOfRatings": 355,
   "FirstSeen": "2022-07-22T20:27:20.1977225+00:00",
-  "LastChanged": "2022-07-22T20:27:20.1977227+00:00",
+  "LastChanged": "2022-07-22T21:22:21.0137794+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:20.1977228+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 353
+    },
+    {
+      "Time": "2022-07-22T21:22:21.0137795+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 355
     }
   ],
   "Tags": []

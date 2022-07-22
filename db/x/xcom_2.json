@@ -3,9 +3,9 @@
   "Name": "XCOM 2",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 4269,
+  "NumberOfRatings": 4273,
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2022-07-22T20:39:30.2541545+00:00",
+  "LastChanged": "2022-07-22T21:18:23.31388+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T20:39:30.2541547+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 4269
+    },
+    {
+      "Time": "2022-07-22T21:18:23.3138803+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 4273
     }
   ],
   "Tags": [
@@ -41,7 +46,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 289
+      "Count": 301
     },
     {
       "Text": "This game has Quickly Understood Controls",

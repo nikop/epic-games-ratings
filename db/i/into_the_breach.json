@@ -3,14 +3,19 @@
   "Name": "Into The Breach",
   "ProductSlug": "into-the-breach/home",
   "Rating": 4.83,
-  "NumberOfRatings": 1447,
+  "NumberOfRatings": 1466,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2022-07-22T20:26:50.8479511+00:00",
+  "LastChanged": "2022-07-22T21:22:10.6805733+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:50.8479512+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 1447
+    },
+    {
+      "Time": "2022-07-22T21:22:10.6805735+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 1466
     }
   ],
   "Tags": [

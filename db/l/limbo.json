@@ -3,14 +3,19 @@
   "Name": "Limbo",
   "ProductSlug": "limbo/home",
   "Rating": 4.66,
-  "NumberOfRatings": 101,
+  "NumberOfRatings": 103,
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
-  "LastChanged": "2022-07-22T20:24:43.9421181+00:00",
+  "LastChanged": "2022-07-22T21:21:20.6149342+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.9421183+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 101
+    },
+    {
+      "Time": "2022-07-22T21:21:20.6149343+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 103
     }
   ],
   "Tags": []

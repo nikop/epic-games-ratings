@@ -11,7 +11,7 @@
 | Maneater | 4,49 | 73667 |
 | Red Dead Redemption 2 | 4,9 | 55478 |
 | Wolfenstein: The New Order | 4,58 | 48810 |
-| Dead by Daylight | 4,54 | 45775 |
+| Dead by Daylight | 4,54 | 45828 |
 | Car Mechanic Simulator 2018 | 4,48 | 31649 |
 | Sid Meier's Civilization VI | 4,74 | 31214 |
 | NBA 2K21 | 4,42 | 29118 |
@@ -23,17 +23,17 @@
 | Tiny Tina's Wonderlands | 4,58 | 14610 |
 | Chivalry 2 | 4,63 | 13920 |
 | Shadow of the Tomb Raider: Definitive Edition | 4,64 | 13004 |
-| Cyberpunk 2077 | 4,57 | 12919 |
+| Cyberpunk 2077 | 4,57 | 12957 |
 | Rise of the Tomb Raider: 20 Year Celebration | 4,69 | 12744 |
-| Rogue Company | 4,36 | 12238 |
+| Rogue Company | 4,36 | 12246 |
 | Cities Skylines | 4,67 | 12027 |
 | BioShock Infinite: Complete Edition | 4,69 | 12002 |
 | SnowRunner | 4,75 | 11875 |
-| Dauntless | 4,53 | 11811 |
+| Dauntless | 4,53 | 11853 |
 | Killing Floor 2 | 4,27 | 11787 |
 | FINAL FANTASY VII REMAKE INTERGRADE | 4,85 | 11633 |
 | The Cycle | 4,16 | 10971 |
-| Hood: Outlaws & Legends | 3,97 | 10802 |
+| Hood: Outlaws & Legends | 3,97 | 10775 |
 | HITMAN 3 | 4,79 | 10379 |
 | Tomb Raider GOTY | 4,67 | 9577 |
 | World War Z | 4,57 | 9322 |
@@ -45,15 +45,15 @@
 | Evil Dead: The Game | 4,52 | 7692 |
 | Control | 4,6 | 7673 |
 | Prey | 4,6 | 7535 |
-| theHunter: Call of the Wild | 4,61 | 7485 |
+| theHunter: Call of the Wild | 4,61 | 7495 |
 | Assassin's Creed: Valhalla | 4,59 | 7151 |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 4,9 | 7035 |
-| Paladins | 4,35 | 6977 |
+| Paladins | 4,35 | 6991 |
 | PC Building Simulator | 4,67 | 6347 |
 | Warframe | 4,66 | 6341 |
 | Idle Champions of the Forgotten Realms | 4,05 | 5968 |
 | Far Cry 6 | 4,44 | 5831 |
-| Remnant: From the Ashes | 4,57 | 5698 |
+| Remnant: From the Ashes | 4,57 | 5710 |
 | League of Legends | 4,21 | 5530 |
 | Nioh: The Complete Edition | 4,59 | 5522 |
 | A Plague Tale: Innocence | 4,66 | 5436 |
@@ -68,54 +68,54 @@
 | Total War: WARHAMMER | 4,59 | 4549 |
 | SMITE | 4,47 | 4463 |
 | Neon Abyss | 4,69 | 4349 |
-| Enter the Gungeon | 4,87 | 4302 |
+| Enter the Gungeon | 4,87 | 4308 |
 | Roller Champions | 4,34 | 4290 |
-| Dying Light 2 Stay Human | 4,6 | 4288 |
-| XCOM 2 | 4,56 | 4269 |
+| Dying Light 2 Stay Human | 4,6 | 4289 |
+| XCOM 2 | 4,56 | 4273 |
 | The Division 2 | 4,4 | 4151 |
 | Football Manager 2022 | 4,81 | 4029 |
 | Subnautica | 4,83 | 3860 |
 | Trackmania | 4,71 | 3831 |
 | Horizon Zero Dawn Complete Edition | 4,78 | 3743 |
-| Metro Exodus | 4,79 | 3680 |
+| Metro Exodus | 4,79 | 3702 |
 | Elite Dangerous | 4,64 | 3564 |
-| Batman Arkham Knight | 4,81 | 3547 |
+| Batman Arkham Knight | 4,81 | 3550 |
 | Hades | 4,92 | 3288 |
 | Mount & Blade II: Bannerlord | 4,73 | 3161 |
-| Assassin's Creed Odyssey | 4,75 | 3155 |
+| Assassin's Creed Odyssey | 4,75 | 3160 |
 | Loop Hero | 4,67 | 3074 |
 | HITMAN – The Complete First Season | 4,65 | 3041 |
-| Watch Dogs 2 | 4,57 | 3008 |
-| Total War Saga: TROY | 4,52 | 2973 |
+| Watch Dogs 2 | 4,58 | 3014 |
+| Total War Saga: TROY | 4,52 | 2975 |
 | Metro Last Light Redux | 4,71 | 2934 |
-| God of War | 4,89 | 2914 |
+| God of War | 4,89 | 2931 |
 | MechWarrior 5 | 4,61 | 2801 |
-| Darkest Dungeon | 4,75 | 2775 |
+| Darkest Dungeon | 4,75 | 2776 |
 | Ghost Recon Breakpoint | 4,54 | 2769 |
 | For The King | 4,7 | 2704 |
 | Slime Rancher | 4,83 | 2630 |
 | Metro: 2033 Redux | 4,7 | 2606 |
+| Saint's Row The Third Remastered | 4,43 | 2604 |
 | Vampyr | 4,31 | 2604 |
-| Saint's Row The Third Remastered | 4,43 | 2600 |
 | Assassin's Creed Origins | 4,69 | 2596 |
 | Just Cause 4 | 4,29 | 2591 |
 | World of Warships | 4,44 | 2569 |
+| Heroes and Generals WWII | 4,22 | 2512 |
 | Jurassic World Evolution 2 | 4,73 | 2510 |
-| Heroes and Generals WWII | 4,22 | 2508 |
 | Overcooked 2 | 4,76 | 2415 |
 | Alien: Isolation | 4,61 | 2407 |
-| Days Gone | 4,71 | 2328 |
+| Days Gone | 4,7 | 2330 |
 | Prison Architect | 4,59 | 2249 |
-| The Long Dark | 4,74 | 2235 |
+| The Long Dark | 4,74 | 2238 |
 | My Time At Portia | 4,66 | 2158 |
-| Anno 1800 | 4,83 | 2136 |
+| Anno 1800 | 4,83 | 2142 |
 | Angora | 4,56 | 2061 |
 | KINGDOM HEARTS HD 1.5+2.5 ReMIX | 4,82 | 2023 |
-| Rage 2 | 4,3 | 1991 |
+| Rage 2 | 4,3 | 1994 |
 | Live | 4,18 | 1962 |
 | Live | 4,55 | 1809 |
+| LEGO® Star Wars™: The Skywalker Saga | 4,8 | 1780 |
 | Nioh 2 – The Complete Edition | 4,81 | 1773 |
-| LEGO® Star Wars™: The Skywalker Saga | 4,8 | 1772 |
 | Detroit: Become Human | 4,86 | 1761 |
 | Back 4 Blood | 4,47 | 1670 |
 | Kena: Bridge of Spirits | 4,68 | 1666 |
@@ -131,9 +131,9 @@
 | Moremi | 4,22 | 1517 |
 | Salt & Sacrifice | 4,28 | 1493 |
 | Ancient Enemy | 3,94 | 1490 |
-| Into The Breach | 4,83 | 1447 |
+| Into The Breach | 4,83 | 1466 |
 | MudRunner | 4,62 | 1442 |
-| Warface | 3,93 | 1437 |
+| Warface | 3,93 | 1441 |
 | Sonic Mania | 4,8 | 1430 |
 | Pillars of Eternity - Definitive Edition | 4,65 | 1404 |
 | Rogue Legacy | 4,61 | 1388 |
@@ -150,8 +150,8 @@
 | Torchlight II | 4,58 | 1078 |
 | Phoenix Point | 4,56 | 1072 |
 | Windbound | 4,2 | 1041 |
+| Totally Accurate Battle Simulator | 4,79 | 1039 |
 | DAEMON X MACHINA | 4,35 | 1035 |
-| Totally Accurate Battle Simulator | 4,79 | 1034 |
 | KARDS - The World War II Card Game | 4,35 | 1022 |
 | Rogue Legacy 2 | 4,85 | 1014 |
 | Aven Colony | 4,2 | 1007 |
@@ -161,15 +161,15 @@
 | Mafia I | 4,6 | 952 |
 | The Crew 2 | 4,65 | 950 |
 | Mutant Year Zero | 4,51 | 944 |
+| Batman Arkham Asylum | 4,68 | 940 |
 | RailwayEmpire | 4,55 | 935 |
 | Risk of Rain 2 | 4,87 | 931 |
 | Kingdom Hearts 3 | 4,78 | 926 |
-| Batman Arkham Asylum | 4,68 | 922 |
 | Far Cry 5 | 4,62 | 915 |
 | The Escapists 2 | 4,59 | 910 |
 | Amnesia: Rebirth | 4,25 | 908 |
+| Watch Dogs 1 | 4,57 | 901 |
 | Tropico 5 | 4,45 | 900 |
-| Watch Dogs 1 | 4,57 | 897 |
 | STRANGER OF PARADISE FINAL FANTASY ORIGIN | 4,41 | 892 |
 | Kingdom New Lands | 4,48 | 887 |
 | Disco Elysium | 4,87 | 869 |
@@ -199,7 +199,7 @@
 | Tony Hawk's Pro Skater 1 + 2 | 4,83 | 629 |
 | UT Marketplace | 4,72 | 627 |
 | Neverwinter | 4,27 | 625 |
-| Tyranny - Gold Edition | 4,6 | 614 |
+| Tyranny - Gold Edition | 4,61 | 622 |
 | House Flipper | 4,75 | 610 |
 | Animation Throwdown: The Quest for Cards | 4,31 | 580 |
 | Spellbreak | 4,58 | 571 |
@@ -245,7 +245,7 @@
 | Ruined King: A League of Legends Story | 4,57 | 365 |
 | Star Trek Online | 4,55 | 364 |
 | Bad North | 4,67 | 360 |
-| Brothers - A Tale of Two Sons | 4,47 | 353 |
+| Brothers - A Tale of Two Sons | 4,47 | 355 |
 | The Walking Dead: The Telltale Definitive Series | 4,84 | 352 |
 | Live | 4,49 | 352 |
 | Diabotical | 4,79 | 350 |
@@ -271,8 +271,8 @@
 | Blair Witch | 4,26 | 276 |
 | Scavengers | 4,28 | 267 |
 | Overcooked | 4,68 | 266 |
-| CRSED: F.O.A.D. | 4,48 | 264 |
-| Solitairica | 4,43 | 261 |
+| CRSED: F.O.A.D. | 4,48 | 265 |
+| Solitairica | 4,43 | 263 |
 | Alan Wake Remastered | 4,51 | 260 |
 | The Messenger | 4,82 | 259 |
 | Crashlands | 4,68 | 258 |
@@ -280,8 +280,8 @@
 | LEGO® Batman™: The Videogame | 4,49 | 254 |
 | Moving Out | 4,58 | 252 |
 | Total War: Warhammer 3 | 4,46 | 250 |
+| The Witness | 4,69 | 247 |
 | LEGO® Batman™ 3: Beyond Gotham | 4,61 | 247 |
-| The Witness | 4,69 | 246 |
 | Automachef | 4,34 | 243 |
 | The Vanishing of Ethan Carter | 4,23 | 239 |
 | Timberborn | 4,67 | 233 |
@@ -369,8 +369,8 @@
 | VHS | 4,22 | 106 |
 | Phantom Brigade | 4,7 | 105 |
 | WRC 9 FIA World Rally Championship | 4,51 | 104 |
+| Limbo | 4,66 | 103 |
 | The Stanley Parable | 4,75 | 102 |
-| Limbo | 4,66 | 101 |
 | NEO: The World Ends with You | 4,83 | 101 |
 | Wolfenstein: The Old Blood | 4,55 | 97 |
 | Absolute Drift | 4,32 | 96 |
@@ -381,11 +381,11 @@
 | KINGDOM HEARTS HD 2.8 Final Chapter Prologue | 4,67 | 89 |
 | A Short Hike | 4,8 | 89 |
 | Atomicrops | 4,88 | 88 |
+| Griftlands | 4,82 | 87 |
 | Sundered: Eldritch Edition | 4,56 | 87 |
 | Spiritfarer®: Farewell Edition | 4,87 | 85 |
 | Live | 4,4 | 85 |
 | AER | 4,41 | 85 |
-| Griftlands | 4,81 | 84 |
 | Rebel Galaxy Outlaw | 4,37 | 84 |
 | South Park: The Fractured But Whole | 4,81 | 83 |
 | Ticket to Ride | 4,59 | 83 |
@@ -428,11 +428,11 @@
 | Torchlight | 4,44 | 62 |
 | CHERNOBYLITE | 4,08 | 61 |
 | Might & Magic Heroes 3 | 4,72 | 61 |
+| Speed Brawl | 4,37 | 60 |
 | Live | 3,93 | 59 |
 | Among Trees | 4,14 | 59 |
 | Totally Reliable Delivery Service | 4,51 | 59 |
 | Elex II | 4,19 | 59 |
-| Speed Brawl | 4,36 | 59 |
 | Untitled Goose Game | 4,71 | 58 |
 | Live | 4,52 | 58 |
 | South Park™: The Stick of Truth | 4,79 | 58 |
@@ -441,11 +441,11 @@
 | Necromunda: Hired Gun | 4,35 | 57 |
 | Bridge Constructor: The Walking Dead | 4,05 | 57 |
 | Live | 4,64 | 56 |
+| ABZU | 4,55 | 56 |
 | Fuser | 4,65 | 54 |
 | Axiom Verge | 4,54 | 54 |
 | Thimbleweed Park | 4,59 | 54 |
 | Good Company | 4,39 | 54 |
-| ABZU | 4,57 | 54 |
 | God's Trigger | 4,08 | 53 |
 | Fez | 4,69 | 52 |
 | Death Coming | 4,41 | 51 |
@@ -465,9 +465,9 @@
 | Scott Pilgrim vs. The World: The Game | 4,83 | 47 |
 | Journey to the Savage Planet | 4,74 | 46 |
 | The Textorcist | 4,63 | 46 |
+| Might & Magic Heroes 7 | 4,26 | 46 |
 | SuchArt: Genius Artist Simulator | 4,74 | 46 |
 | Q.U.B.E. 2 | 4,47 | 45 |
-| Might & Magic Heroes 7 | 4,24 | 45 |
 | Destroy All Humans! | 4,71 | 45 |
 | Centipede Recharged | 4,44 | 45 |
 | RiME | 4,63 | 43 |
@@ -479,8 +479,8 @@
 | Live | 4,13 | 40 |
 | Northgard | 4,72 | 39 |
 | Europa | 4,49 | 39 |
+| Nevada | 4,5 | 38 |
 | Alan Wake's American Nightmare | 4,24 | 38 |
-| Nevada | 4,49 | 37 |
 | Anno 2205 | 4,51 | 37 |
 | Werewolf: The Apocalypse - Earthblood | 4,11 | 37 |
 | Wilmot's Warehouse | 4,62 | 37 |
@@ -520,13 +520,13 @@
 | Encased | 4,29 | 28 |
 | The Walking Dead: Final Season | 4,68 | 28 |
 | Democracy 4 | 4,43 | 28 |
+| Live | 4,68 | 28 |
 | Anno 1404 | 4,93 | 28 |
 | Panzer Corps 2 | 4,56 | 27 |
 | Baldurs Gate Enhanced Edition | 4,81 | 27 |
 | Tacoma | 4,3 | 27 |
 | 3 Out of 10 Season 2 | 4,63 | 27 |
 | Fights in Tight Spaces | 4,52 | 27 |
-| Live | 4,7 | 27 |
 | Rogue Lords | 4,58 | 26 |
 | Dark Deception | 4,73 | 26 |
 | Live | 4,27 | 26 |
