@@ -3,14 +3,19 @@
   "Name": "XCOM 2",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 4255,
+  "NumberOfRatings": 4269,
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2022-07-22T20:17:40.7075483+00:00",
+  "LastChanged": "2022-07-22T20:39:30.2541545+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 4255
+    },
+    {
+      "Time": "2022-07-22T20:39:30.2541547+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 4269
     }
   ],
   "Tags": [

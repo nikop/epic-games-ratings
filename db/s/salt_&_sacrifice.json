@@ -2,15 +2,20 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt \u0026 Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Rating": 4.27,
-  "NumberOfRatings": 1492,
+  "Rating": 4.28,
+  "NumberOfRatings": 1493,
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-07-22T20:23:45.0965928+00:00",
+  "LastChanged": "2022-07-22T20:42:13.6863282+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
       "Rating": 4.27,
       "NumberOfRatings": 1492
+    },
+    {
+      "Time": "2022-07-22T20:42:13.6863284+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 1493
     }
   ],
   "Tags": [

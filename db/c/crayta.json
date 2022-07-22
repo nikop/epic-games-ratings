@@ -3,14 +3,19 @@
   "Name": "Crayta",
   "ProductSlug": null,
   "Rating": 4.22,
-  "NumberOfRatings": 64,
+  "NumberOfRatings": 65,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-07-22T20:23:35.7329731+00:00",
+  "LastChanged": "2022-07-22T20:42:09.2491071+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 64
+    },
+    {
+      "Time": "2022-07-22T20:42:09.2491073+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 65
     }
   ],
   "Tags": []

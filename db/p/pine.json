@@ -3,14 +3,19 @@
   "Name": "Pine",
   "ProductSlug": "pine",
   "Rating": 4.1,
-  "NumberOfRatings": 312,
+  "NumberOfRatings": 311,
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
-  "LastChanged": "2022-07-22T20:23:31.2285521+00:00",
+  "LastChanged": "2022-07-22T20:42:07.5241537+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:31.2285522+00:00",
       "Rating": 4.1,
       "NumberOfRatings": 312
+    },
+    {
+      "Time": "2022-07-22T20:42:07.5241541+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": 311
     }
   ],
   "Tags": []

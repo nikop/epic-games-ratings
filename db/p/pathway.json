@@ -3,14 +3,19 @@
   "Name": "Pathway",
   "ProductSlug": "pathway",
   "Rating": 4.38,
-  "NumberOfRatings": 201,
+  "NumberOfRatings": 206,
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
-  "LastChanged": "2022-07-22T20:28:48.5183296+00:00",
+  "LastChanged": "2022-07-22T20:44:18.6675934+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.5183297+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 201
+    },
+    {
+      "Time": "2022-07-22T20:44:18.6675973+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 206
     }
   ],
   "Tags": []

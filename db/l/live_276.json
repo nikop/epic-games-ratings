@@ -3,14 +3,19 @@
   "Name": "Live",
   "ProductSlug": null,
   "Rating": 4.62,
-  "NumberOfRatings": 150,
+  "NumberOfRatings": 151,
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
-  "LastChanged": "2022-07-22T20:29:19.2920772+00:00",
+  "LastChanged": "2022-07-22T20:44:34.0516239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.2920773+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 150
+    },
+    {
+      "Time": "2022-07-22T20:44:34.051624+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 151
     }
   ],
   "Tags": []
