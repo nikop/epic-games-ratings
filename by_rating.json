@@ -255,9 +255,9 @@
   {
     "Namespace": "14ee004dadc142faaaece5a6270fb628",
     "ProductSlug": "the-witcher-3-wild-hunt",
-    "Name": "The Witcher 3",
+    "Name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
     "Rating": 4.9,
-    "NumberOfRatings": 6995,
+    "NumberOfRatings": 7019,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -276,6 +276,10 @@
         "Count": 239
       },
       {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 238
+      },
+      {
         "Text": "This game has Amazing Characters",
         "Count": 236
       },
@@ -284,12 +288,8 @@
         "Count": 234
       },
       {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 230
-      },
-      {
         "Text": "This game has Amazing Storytelling",
-        "Count": 221
+        "Count": 230
       },
       {
         "Text": "This game has Diverse Characters",
@@ -312,9 +312,9 @@
   {
     "Namespace": "7051eadbb8c2435caf32a9bc0dc17936",
     "ProductSlug": "rimworld/home",
-    "Name": "Rimworld",
+    "Name": "RimWorld",
     "Rating": 4.89,
-    "NumberOfRatings": 501,
+    "NumberOfRatings": 502,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
@@ -338,7 +338,7 @@
       },
       {
         "Text": "This game is Highly Recommended",
-        "Count": 65
+        "Count": 67
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -592,7 +592,7 @@
   {
     "Namespace": "8518a041f3064613a354f997aac0c3cb",
     "ProductSlug": "spiritfarer",
-    "Name": "Spiritfarer",
+    "Name": "Spiritfarer\u00AE: Farewell Edition",
     "Rating": 4.87,
     "NumberOfRatings": 85,
     "Tags": []
@@ -657,7 +657,7 @@
   {
     "Namespace": "1200aeb2f87c48349594d96554e2833d",
     "ProductSlug": "divine-knockout",
-    "Name": "DKO",
+    "Name": "Divine Knockout",
     "Rating": 4.87,
     "NumberOfRatings": 23,
     "Tags": []
@@ -703,7 +703,7 @@
       },
       {
         "Text": "This game has Obsessive Gameplay",
-        "Count": 32
+        "Count": 34
       }
     ]
   },
@@ -764,12 +764,12 @@
         "Count": 125
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 123
+        "Text": "This game has Amazing Characters",
+        "Count": 125
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 120
+        "Text": "This game is Relaxing",
+        "Count": 123
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -792,7 +792,7 @@
   {
     "Namespace": "b6faa05b8b594ec39944ff71dbdfdfc1",
     "ProductSlug": "tunic",
-    "Name": "ghostwhite Production",
+    "Name": "Tunic",
     "Rating": 4.85,
     "NumberOfRatings": 72,
     "Tags": []
@@ -915,7 +915,7 @@
   {
     "Namespace": "b534830f4c524447bfd2266ce70cf8ab",
     "ProductSlug": "walking-dead-definitive-series/home",
-    "Name": "The Walking Dead : The Telltale Definitive Series",
+    "Name": "The Walking Dead: The Telltale Definitive Series",
     "Rating": 4.84,
     "NumberOfRatings": 343,
     "Tags": [
@@ -1055,7 +1055,7 @@
   {
     "Namespace": "94a50905f377470c84c8e4b7c38f9cdd",
     "ProductSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
-    "Name": "Dragon Quest XI S",
+    "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
     "Rating": 4.83,
     "NumberOfRatings": 160,
     "Tags": [
@@ -1092,7 +1092,7 @@
   {
     "Namespace": "a3fb4c2877a7466b895da9d7fab2bd24",
     "ProductSlug": "this-is-the-police",
-    "Name": "This Is The Police",
+    "Name": "This Is the Police",
     "Rating": 4.83,
     "NumberOfRatings": 23,
     "Tags": []
@@ -1102,7 +1102,7 @@
     "ProductSlug": "into-the-breach/home",
     "Name": "Into The Breach",
     "Rating": 4.83,
-    "NumberOfRatings": 1425,
+    "NumberOfRatings": 1432,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
@@ -1150,7 +1150,7 @@
       },
       {
         "Text": "This game has Unique Visuals",
-        "Count": 32
+        "Count": 38
       },
       {
         "Text": "This game has a Creative Community",
@@ -1218,7 +1218,7 @@
   {
     "Namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
     "ProductSlug": "scott-pilgrim-vs-the-world-the-game/home",
-    "Name": "Scott Pilgrim vs The World: The Game",
+    "Name": "Scott Pilgrim vs. The World: The Game",
     "Rating": 4.83,
     "NumberOfRatings": 47,
     "Tags": []
@@ -1226,7 +1226,7 @@
   {
     "Namespace": "76355dbd22b249d9a6f77790aba9547b",
     "ProductSlug": "grindstone",
-    "Name": "Amsterdam",
+    "Name": "Grindstone",
     "Rating": 4.83,
     "NumberOfRatings": 29,
     "Tags": []
@@ -1300,7 +1300,7 @@
   {
     "Namespace": "4158b699dd70447a981fee752d970a3e",
     "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-    "Name": "Kingdom Hearts 1.5\u002B2.5",
+    "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
     "Rating": 4.82,
     "NumberOfRatings": 2008,
     "Tags": [
@@ -1381,7 +1381,7 @@
   {
     "Namespace": "1c4745021d4243a783b459d928b9088f",
     "ProductSlug": "octopath-traveler",
-    "Name": "OCTOPATH TRAVELER",
+    "Name": "OCTOPATH TRAVELER\u2122",
     "Rating": 4.81,
     "NumberOfRatings": 74,
     "Tags": []
@@ -1399,7 +1399,7 @@
     "ProductSlug": null,
     "Name": "Football Manager 2022",
     "Rating": 4.81,
-    "NumberOfRatings": 4011,
+    "NumberOfRatings": 4014,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
@@ -1418,16 +1418,16 @@
         "Count": 434
       },
       {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 414
+      },
+      {
         "Text": "This game is Educational",
         "Count": 412
       },
       {
         "Text": "This game has Competitive Players",
         "Count": 412
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 395
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -1503,7 +1503,7 @@
   {
     "Namespace": "e5e30c728f1947759251eb5283ffa6e3",
     "ProductSlug": "batman-arkham-knight/home",
-    "Name": "Batman\u2122: Arkham Knight",
+    "Name": "Batman Arkham Knight",
     "Rating": 4.81,
     "NumberOfRatings": 3529,
     "Tags": [
@@ -1601,7 +1601,7 @@
   {
     "Namespace": "6acf92329bc449068201ee9a3f399a13",
     "ProductSlug": "nioh-2-the-complete-edition",
-    "Name": "Nioh 2 - The Complete Edition",
+    "Name": "Nioh 2 \u2013 The Complete Edition",
     "Rating": 4.81,
     "NumberOfRatings": 1773,
     "Tags": [
@@ -1650,7 +1650,7 @@
   {
     "Namespace": "78473822f724474d8e436f6bde735623",
     "ProductSlug": "cave-story-plus",
-    "Name": "Laurel",
+    "Name": "Cave Story\u002B",
     "Rating": 4.81,
     "NumberOfRatings": 135,
     "Tags": [
@@ -1663,7 +1663,7 @@
   {
     "Namespace": "9c59efaabb6a48f19b3485d5d9416032",
     "ProductSlug": null,
-    "Name": "paddington Production",
+    "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
     "Rating": 4.8,
     "NumberOfRatings": 1764,
     "Tags": [
@@ -1824,7 +1824,7 @@
     "ProductSlug": null,
     "Name": "Metro Exodus",
     "Rating": 4.79,
-    "NumberOfRatings": 3677,
+    "NumberOfRatings": 3680,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -1839,16 +1839,16 @@
         "Count": 114
       },
       {
+        "Text": "This game has Amazing Characters",
+        "Count": 110
+      },
+      {
         "Text": "This game is Highly Recommended",
         "Count": 108
       },
       {
         "Text": "This game has Amazing Storytelling",
         "Count": 106
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 105
       },
       {
         "Text": "This game has Diverse Characters",
@@ -1965,7 +1965,7 @@
   {
     "Namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
     "ProductSlug": "south-park-the-stick-of-truth/home",
-    "Name": "South Park: The Stick of Truth",
+    "Name": "South Park\u2122: The Stick of Truth",
     "Rating": 4.79,
     "NumberOfRatings": 58,
     "Tags": []
@@ -1975,7 +1975,7 @@
     "ProductSlug": null,
     "Name": "Totally Accurate Battle Simulator",
     "Rating": 4.79,
-    "NumberOfRatings": 1032,
+    "NumberOfRatings": 1034,
     "Tags": [
       {
         "Text": "This game has Amazing Storytelling",
@@ -2026,7 +2026,7 @@
   {
     "Namespace": "badger",
     "ProductSlug": "what-remains-of-edith-finch/home",
-    "Name": "What Remains of Edith Finch",
+    "Name": "What Remains Of Edith Finch",
     "Rating": 4.79,
     "NumberOfRatings": 29,
     "Tags": []
@@ -2087,7 +2087,7 @@
   {
     "Namespace": "40c34bea9cd0460589c867f6a7246342",
     "ProductSlug": "batman-arkham-city/home",
-    "Name": "Batman\u2122: Arkham City - Game of the Year Edition",
+    "Name": "Batman Arkham City",
     "Rating": 4.78,
     "NumberOfRatings": 1308,
     "Tags": [
@@ -2125,7 +2125,7 @@
   {
     "Namespace": "3328b08ac1c14540aa265a1a85c07839",
     "ProductSlug": "horizon-zero-dawn-complete-edition",
-    "Name": "Horizon Zero Dawn",
+    "Name": "Horizon Zero Dawn Complete Edition",
     "Rating": 4.78,
     "NumberOfRatings": 3723,
     "Tags": [
@@ -2347,19 +2347,19 @@
     "ProductSlug": null,
     "Name": "SnowRunner",
     "Rating": 4.75,
-    "NumberOfRatings": 11845,
+    "NumberOfRatings": 11862,
     "Tags": [
       {
         "Text": "This game is Highly Recommended",
         "Count": 1033
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 1010
+        "Text": "This game is Relaxing",
+        "Count": 1033
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 1003
+        "Text": "This game is Extremely Fun",
+        "Count": 1010
       },
       {
         "Text": "This game is Great for Beginners",
@@ -2371,7 +2371,7 @@
       },
       {
         "Text": "This game has Obsessive Gameplay",
-        "Count": 937
+        "Count": 966
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -2404,7 +2404,7 @@
     "ProductSlug": null,
     "Name": "Dying Light",
     "Rating": 4.75,
-    "NumberOfRatings": 1622,
+    "NumberOfRatings": 1623,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -2439,12 +2439,12 @@
         "Count": 108
       },
       {
-        "Text": "This game has Unique Visuals",
-        "Count": 101
+        "Text": "This game has Obsessive Gameplay",
+        "Count": 102
       },
       {
-        "Text": "This game has Obsessive Gameplay",
-        "Count": 98
+        "Text": "This game has Unique Visuals",
+        "Count": 101
       },
       {
         "Text": "This game is Relaxing",
@@ -2472,12 +2472,12 @@
         "Count": 464
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 106
+        "Text": "This game has Amazing Storytelling",
+        "Count": 112
       },
       {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 105
+        "Text": "This game is Extremely Fun",
+        "Count": 106
       },
       {
         "Text": "This game has Amazing Characters",
@@ -2493,15 +2493,15 @@
       },
       {
         "Text": "This game has Obsessive Gameplay",
-        "Count": 90
+        "Count": 94
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 92
       },
       {
         "Text": "This game has Quickly Understood Controls",
         "Count": 89
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 88
       },
       {
         "Text": "This game has Challenging Combat",
@@ -2788,7 +2788,7 @@
   {
     "Namespace": "abd29ccc8c2a4a40a31f27de63cb0603",
     "ProductSlug": "night-in-the-woods",
-    "Name": "MtPrinceton",
+    "Name": "Night in the Woods",
     "Rating": 4.74,
     "NumberOfRatings": 305,
     "Tags": [
@@ -2801,7 +2801,7 @@
   {
     "Namespace": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
     "ProductSlug": "the-long-dark",
-    "Name": "Lazurite",
+    "Name": "The Long Dark",
     "Rating": 4.74,
     "NumberOfRatings": 2213,
     "Tags": [
@@ -2887,7 +2887,7 @@
   {
     "Namespace": "bddbb30a6c36455a9ca82c3a0f91af06",
     "ProductSlug": null,
-    "Name": "hackathon Production",
+    "Name": "Dark Deception",
     "Rating": 4.73,
     "NumberOfRatings": 26,
     "Tags": []
@@ -3043,7 +3043,7 @@
   {
     "Namespace": "aeac94c7a11048758064b82f8f8d20ed",
     "ProductSlug": "mount-and-blade-2/home",
-    "Name": "Mount\u0026Blade II: Bannerlord",
+    "Name": "Mount \u0026 Blade II: Bannerlord",
     "Rating": 4.73,
     "NumberOfRatings": 3155,
     "Tags": [
@@ -3155,18 +3155,18 @@
     "ProductSlug": null,
     "Name": "Marvel\u0027s Guardians of the Galaxy",
     "Rating": 4.73,
-    "NumberOfRatings": 407,
+    "NumberOfRatings": 410,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
-        "Count": 121
+        "Count": 130
       }
     ]
   },
   {
     "Namespace": "7c6d889f36124ae4b6269f8e1698a547",
     "ProductSlug": "carrion/home",
-    "Name": "Cello",
+    "Name": "CARRION",
     "Rating": 4.73,
     "NumberOfRatings": 26,
     "Tags": []
@@ -3257,7 +3257,7 @@
     "ProductSlug": null,
     "Name": "Frostpunk",
     "Rating": 4.72,
-    "NumberOfRatings": 5282,
+    "NumberOfRatings": 5288,
     "Tags": [
       {
         "Text": "This game has Quickly Understood Controls",
@@ -3336,7 +3336,7 @@
   {
     "Namespace": "db16361187bb41c4b96ff020c34bdd0c",
     "ProductSlug": "we-were-here-forever",
-    "Name": "Live",
+    "Name": "We Were Here Forever",
     "Rating": 4.71,
     "NumberOfRatings": 75,
     "Tags": []
@@ -3450,7 +3450,7 @@
   {
     "Namespace": "643a8667d7a940b8b36094020fcd0dcf",
     "ProductSlug": "hell-is-other-demons",
-    "Name": "Hell is Other Demons",
+    "Name": "Hell is other demons",
     "Rating": 4.71,
     "NumberOfRatings": 157,
     "Tags": []
@@ -3517,7 +3517,7 @@
     "ProductSlug": "metro-last-light-redux",
     "Name": "Metro Last Light Redux",
     "Rating": 4.71,
-    "NumberOfRatings": 2926,
+    "NumberOfRatings": 2934,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -3768,9 +3768,9 @@
   {
     "Namespace": "petunia",
     "ProductSlug": "metro-2033-redux/home",
-    "Name": "Metro 2033 Redux",
+    "Name": "Metro: 2033 Redux",
     "Rating": 4.7,
-    "NumberOfRatings": 2572,
+    "NumberOfRatings": 2595,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -3789,7 +3789,7 @@
   {
     "Namespace": "6ff9efdef6dc45ecb40ed20fcd2c4621",
     "ProductSlug": null,
-    "Name": "Darkest Dungeon 2",
+    "Name": "Darkest Dungeon II",
     "Rating": 4.7,
     "NumberOfRatings": 4552,
     "Tags": [
@@ -4077,6 +4077,10 @@
         "Count": 14226
       },
       {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 14061
+      },
+      {
         "Text": "This game is Extremely Fun",
         "Count": 14026
       },
@@ -4101,10 +4105,6 @@
         "Count": 13571
       },
       {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 13556
-      },
-      {
         "Text": "This game has Competitive Players",
         "Count": 13117
       }
@@ -4113,9 +4113,9 @@
   {
     "Namespace": "df2da503f2074f078f8090da3c27ec47",
     "ProductSlug": "bioshock-infinite-complete-edition",
-    "Name": "BioShock Infinite",
+    "Name": "BioShock Infinite: Complete Edition",
     "Rating": 4.69,
-    "NumberOfRatings": 11983,
+    "NumberOfRatings": 12002,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -4131,7 +4131,7 @@
       },
       {
         "Text": "This game is Extremely Fun",
-        "Count": 36
+        "Count": 37
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -4305,7 +4305,7 @@
   {
     "Namespace": "b3d490d845c040ee82fd02f400ab0efc",
     "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-    "Name": "SpongeBob: Battle for Bikini Bottom Rehydrated",
+    "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
     "Rating": 4.69,
     "NumberOfRatings": 48,
     "Tags": []
@@ -4326,7 +4326,7 @@
   {
     "Namespace": "5f7c811695f14b8fa3a8e1ea35713d23",
     "ProductSlug": "batman-arkham-asylum/home",
-    "Name": "Batman\u2122: Arkham Asylum Game of the Year Edition",
+    "Name": "Batman Arkham Asylum",
     "Rating": 4.68,
     "NumberOfRatings": 922,
     "Tags": [
@@ -4339,7 +4339,7 @@
   {
     "Namespace": "7c53d7dc86494d5abcdc974b0ef0a843",
     "ProductSlug": null,
-    "Name": "Kena",
+    "Name": "Kena: Bridge of Spirits",
     "Rating": 4.68,
     "NumberOfRatings": 1658,
     "Tags": [
@@ -4360,7 +4360,7 @@
   {
     "Namespace": "ocelot",
     "ProductSlug": "walking-dead-final-season/home",
-    "Name": "Walking Dead Final Season",
+    "Name": "The Walking Dead: Final Season",
     "Rating": 4.68,
     "NumberOfRatings": 28,
     "Tags": []
@@ -4544,13 +4544,13 @@
   {
     "Namespace": "caca23a0954f4c1aba1fdd7e277b81e2",
     "ProductSlug": "tomb-raider",
-    "Name": "Tomb Raider GAME OF THE YEAR EDITION",
+    "Name": "Tomb Raider GOTY",
     "Rating": 4.67,
-    "NumberOfRatings": 9540,
+    "NumberOfRatings": 9553,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
-        "Count": 1509
+        "Count": 1540
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -4704,7 +4704,7 @@
   {
     "Namespace": "ff50f85ed609454e80ac46d9496da34d",
     "ProductSlug": "loop-hero",
-    "Name": "Dysprosium",
+    "Name": "Loop Hero",
     "Rating": 4.67,
     "NumberOfRatings": 3047,
     "Tags": [
@@ -4879,7 +4879,7 @@
   {
     "Namespace": "71d19da3678943098859baa9c4c39f95",
     "ProductSlug": "a-plague-tale-innocence",
-    "Name": "MtWilliamson",
+    "Name": "A Plague Tale: Innocence",
     "Rating": 4.66,
     "NumberOfRatings": 5408,
     "Tags": [
@@ -4892,9 +4892,9 @@
   {
     "Namespace": "cobra",
     "ProductSlug": "my-time-at-portia/home",
-    "Name": "My Time at Portia",
+    "Name": "My Time At Portia",
     "Rating": 4.66,
-    "NumberOfRatings": 2129,
+    "NumberOfRatings": 2148,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -4905,12 +4905,12 @@
         "Count": 61
       },
       {
-        "Text": "This game has Easy Combat",
-        "Count": 57
+        "Text": "This game is Great for Beginners",
+        "Count": 59
       },
       {
-        "Text": "This game is Great for Beginners",
-        "Count": 56
+        "Text": "This game has Easy Combat",
+        "Count": 57
       },
       {
         "Text": "This game is Extremely Fun",
@@ -4996,6 +4996,14 @@
     ]
   },
   {
+    "Namespace": "4a9527d6d2984bb39d527631b94ec7f2",
+    "ProductSlug": "motogp-21",
+    "Name": "MotoGP21",
+    "Rating": 4.66,
+    "NumberOfRatings": 67,
+    "Tags": []
+  },
+  {
     "Namespace": "hellebore",
     "ProductSlug": null,
     "Name": "Far Cry 3",
@@ -5021,7 +5029,7 @@
     "ProductSlug": "pikuniku/home",
     "Name": "Pikuniku",
     "Rating": 4.66,
-    "NumberOfRatings": 224,
+    "NumberOfRatings": 228,
     "Tags": []
   },
   {
@@ -5064,17 +5072,9 @@
   {
     "Namespace": "c8ff067c1c984cd7ab1998e8a9afc8b6",
     "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-    "Name": "Kingdom Hearts 2.8",
+    "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
     "Rating": 4.65,
     "NumberOfRatings": 84,
-    "Tags": []
-  },
-  {
-    "Namespace": "4a9527d6d2984bb39d527631b94ec7f2",
-    "ProductSlug": "motogp-21",
-    "Name": "MotoGP21",
-    "Rating": 4.65,
-    "NumberOfRatings": 65,
     "Tags": []
   },
   {
@@ -5234,6 +5234,55 @@
     ]
   },
   {
+    "Namespace": "ark",
+    "ProductSlug": null,
+    "Name": "Ark",
+    "Rating": 4.64,
+    "NumberOfRatings": 26637,
+    "Tags": [
+      {
+        "Text": "This game has Inclusive Character Customization",
+        "Count": 17473
+      },
+      {
+        "Text": "This game has Challenging Combat",
+        "Count": 6083
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 5995
+      },
+      {
+        "Text": "This game is Extremely Fun",
+        "Count": 5862
+      },
+      {
+        "Text": "This game is Educational",
+        "Count": 5752
+      },
+      {
+        "Text": "This game has Obsessive Gameplay",
+        "Count": 5740
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 5618
+      },
+      {
+        "Text": "This game has Competitive Players",
+        "Count": 5467
+      },
+      {
+        "Text": "This game has Amazing Characters",
+        "Count": 5412
+      },
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 5317
+      }
+    ]
+  },
+  {
     "Namespace": "4fb89e9f47fe48258314c366649c398e",
     "ProductSlug": "legends-of-runeterra",
     "Name": "Legends of Runeterra",
@@ -5385,7 +5434,7 @@
   {
     "Namespace": "25e53de2e4ab4da8aa589d881273a11c",
     "ProductSlug": "pillars-of-eternity",
-    "Name": "Pillars of Eternity",
+    "Name": "Pillars of Eternity - Definitive Edition",
     "Rating": 4.64,
     "NumberOfRatings": 1401,
     "Tags": [
@@ -5446,7 +5495,7 @@
   {
     "Namespace": "4b5461ca8d1c488787b5200b420de066",
     "ProductSlug": "shadow-of-the-tomb-raider",
-    "Name": "Shadow of the Tomb Raider Definitive Edition",
+    "Name": "Shadow of the Tomb Raider: Definitive Edition",
     "Rating": 4.64,
     "NumberOfRatings": 12960,
     "Tags": [
@@ -5608,55 +5657,6 @@
     ]
   },
   {
-    "Namespace": "ark",
-    "ProductSlug": null,
-    "Name": "Ark",
-    "Rating": 4.63,
-    "NumberOfRatings": 26625,
-    "Tags": [
-      {
-        "Text": "This game has Inclusive Character Customization",
-        "Count": 17473
-      },
-      {
-        "Text": "This game has Challenging Combat",
-        "Count": 6083
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 5995
-      },
-      {
-        "Text": "This game is Extremely Fun",
-        "Count": 5862
-      },
-      {
-        "Text": "This game is Educational",
-        "Count": 5752
-      },
-      {
-        "Text": "This game has Obsessive Gameplay",
-        "Count": 5641
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 5618
-      },
-      {
-        "Text": "This game has Competitive Players",
-        "Count": 5467
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 5412
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 5317
-      }
-    ]
-  },
-  {
     "Namespace": "bd46d4ce259349e5bd8b3ded20274737",
     "ProductSlug": null,
     "Name": "Chivalry 2",
@@ -5810,7 +5810,7 @@
   {
     "Namespace": "73b62f4875a248d8acc95966ce94c80f",
     "ProductSlug": "dandara",
-    "Name": "Dandara",
+    "Name": "Dandara: Trials of Fear Edition",
     "Rating": 4.62,
     "NumberOfRatings": 81,
     "Tags": []
@@ -5839,7 +5839,7 @@
   {
     "Namespace": "3bb4afc31dd241c787bad056e9b8dbf9",
     "ProductSlug": "grime",
-    "Name": "GRIME",
+    "Name": "Grime",
     "Rating": 4.62,
     "NumberOfRatings": 26,
     "Tags": []
@@ -5847,7 +5847,7 @@
   {
     "Namespace": "3671db367c594e2ab5020105dc52dc65",
     "ProductSlug": "kingdom-hearts-melody-of-memory",
-    "Name": "Kingdom Hearts Melody of Memory",
+    "Name": "KINGDOM HEARTS Melody of Memory",
     "Rating": 4.62,
     "NumberOfRatings": 34,
     "Tags": []
@@ -5961,7 +5961,7 @@
   {
     "Namespace": "e099f2abf3324d248054bf14c476fbc0",
     "ProductSlug": "oddworld-soulstorm",
-    "Name": "Lark",
+    "Name": "Oddworld: Soulstorm",
     "Rating": 4.62,
     "NumberOfRatings": 34,
     "Tags": []
@@ -6109,7 +6109,7 @@
   {
     "Namespace": "917551a8060244469eb4e6ab8a99cf24",
     "ProductSlug": "amnesia-the-dark-descent/home",
-    "Name": "Amnesia:  The Dark Descent",
+    "Name": "Amnesia: The Dark Descent",
     "Rating": 4.61,
     "NumberOfRatings": 148,
     "Tags": []
@@ -6142,9 +6142,9 @@
   {
     "Namespace": "amaranth",
     "ProductSlug": null,
-    "Name": "Ancestors",
+    "Name": "Ancestors: The Humankind Odyssey",
     "Rating": 4.61,
-    "NumberOfRatings": 206,
+    "NumberOfRatings": 207,
     "Tags": []
   },
   {
@@ -6187,7 +6187,7 @@
   {
     "Namespace": "edaebe133189475c9fd853858b7fa9ac",
     "ProductSlug": "the-tenants",
-    "Name": "cappelletti Production",
+    "Name": "The Tenants",
     "Rating": 4.61,
     "NumberOfRatings": 28,
     "Tags": []
@@ -6288,7 +6288,7 @@
     "ProductSlug": null,
     "Name": "Dying Light 2 Stay Human",
     "Rating": 4.6,
-    "NumberOfRatings": 4261,
+    "NumberOfRatings": 4266,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -6296,7 +6296,7 @@
       },
       {
         "Text": "This game has Great Boss Battles",
-        "Count": 765
+        "Count": 785
       },
       {
         "Text": "This game is Extremely Fun",
@@ -6455,7 +6455,7 @@
     "ProductSlug": null,
     "Name": "Mafia I",
     "Rating": 4.6,
-    "NumberOfRatings": 946,
+    "NumberOfRatings": 934,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -6490,7 +6490,7 @@
   {
     "Namespace": "a7e2a2c51b9149c097b771926ed91877",
     "ProductSlug": "fist-forged-in-shadow-torch",
-    "Name": "Cancer",
+    "Name": "F.I.S.T. Forged In Shadow Torch",
     "Rating": 4.6,
     "NumberOfRatings": 311,
     "Tags": [
@@ -6519,7 +6519,7 @@
   {
     "Namespace": "2462202651534bf7b4b4e0ea960be8ac",
     "ProductSlug": "tyranny",
-    "Name": "Tyranny",
+    "Name": "Tyranny - Gold Edition",
     "Rating": 4.6,
     "NumberOfRatings": 614,
     "Tags": [
@@ -6766,7 +6766,7 @@
     "ProductSlug": null,
     "Name": "Among Us",
     "Rating": 4.59,
-    "NumberOfRatings": 15201,
+    "NumberOfRatings": 15211,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -6774,7 +6774,11 @@
       },
       {
         "Text": "This game is Great for Quick Sessions",
-        "Count": 445
+        "Count": 462
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 446
       },
       {
         "Text": "This game has Quickly Understood Controls",
@@ -6791,10 +6795,6 @@
       {
         "Text": "This game is Highly Recommended",
         "Count": 434
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 432
       },
       {
         "Text": "This game is Extremely Fun",
@@ -6819,7 +6819,7 @@
     "ProductSlug": null,
     "Name": "Assassin\u0027s Creed: Valhalla",
     "Rating": 4.59,
-    "NumberOfRatings": 7114,
+    "NumberOfRatings": 7118,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -6854,12 +6854,12 @@
         "Count": 111
       },
       {
-        "Text": "This game has Diverse Characters",
-        "Count": 105
+        "Text": "This game is Extremely Fun",
+        "Count": 109
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 104
+        "Text": "This game has Diverse Characters",
+        "Count": 105
       }
     ]
   },
@@ -6984,7 +6984,7 @@
   {
     "Namespace": "e901b6ea77454b0e9d944976a975165c",
     "ProductSlug": null,
-    "Name": "Feta",
+    "Name": "Rogue Lords",
     "Rating": 4.58,
     "NumberOfRatings": 26,
     "Tags": []
@@ -6994,11 +6994,56 @@
     "ProductSlug": null,
     "Name": "Spellbreak",
     "Rating": 4.58,
-    "NumberOfRatings": 562,
+    "NumberOfRatings": 570,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
         "Count": 121
+      }
+    ]
+  },
+  {
+    "Namespace": "94cec4802e954a6c9579e29e8b817f3a",
+    "ProductSlug": null,
+    "Name": "Insurgency: Sandstorm",
+    "Rating": 4.58,
+    "NumberOfRatings": 786,
+    "Tags": [
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 68
+      },
+      {
+        "Text": "This game has Amazing Characters",
+        "Count": 67
+      },
+      {
+        "Text": "This game has Competitive Players",
+        "Count": 65
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 65
+      },
+      {
+        "Text": "This game has Challenging Combat",
+        "Count": 63
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 56
+      },
+      {
+        "Text": "This game has Realistic Visuals",
+        "Count": 55
+      },
+      {
+        "Text": "This game is Extremely Fun",
+        "Count": 52
+      },
+      {
+        "Text": "This game has a Competitive Community",
+        "Count": 45
       }
     ]
   },
@@ -7038,6 +7083,10 @@
         "Count": 508
       },
       {
+        "Text": "This game has Diverse Characters",
+        "Count": 506
+      },
+      {
         "Text": "This game is Highly Recommended",
         "Count": 506
       },
@@ -7050,20 +7099,16 @@
         "Count": 497
       },
       {
-        "Text": "This game has Diverse Characters",
-        "Count": 493
-      },
-      {
         "Text": "This game is Great for Beginners",
         "Count": 488
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 469
+        "Text": "This game has Amazing Characters",
+        "Count": 471
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 463
+        "Text": "This game is Extremely Fun",
+        "Count": 469
       }
     ]
   },
@@ -7136,7 +7181,7 @@
   {
     "Namespace": "805a1b31b65f4c3db221ab242f894482",
     "ProductSlug": "shadowrun-dragonfall/home",
-    "Name": "Shadowrun Dragonfall",
+    "Name": "Shadowrun: Dragonfall - Director\u2019s Cut",
     "Rating": 4.58,
     "NumberOfRatings": 92,
     "Tags": []
@@ -7144,7 +7189,7 @@
   {
     "Namespace": "8432511ef63b489b843d21ff486a0355",
     "ProductSlug": "torchlight-2",
-    "Name": "Alabaster",
+    "Name": "Torchlight II",
     "Rating": 4.58,
     "NumberOfRatings": 1078,
     "Tags": [
@@ -7169,7 +7214,7 @@
   {
     "Namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
     "ProductSlug": "far-cry-3-blood-dragon/home",
-    "Name": "Far Cry 3 Blood Dragon",
+    "Name": "Far Cry 3: Blood Dragon",
     "Rating": 4.58,
     "NumberOfRatings": 24,
     "Tags": []
@@ -7298,51 +7343,6 @@
     ]
   },
   {
-    "Namespace": "94cec4802e954a6c9579e29e8b817f3a",
-    "ProductSlug": null,
-    "Name": "Insurgency: Sandstorm",
-    "Rating": 4.57,
-    "NumberOfRatings": 780,
-    "Tags": [
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 68
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 67
-      },
-      {
-        "Text": "This game has Competitive Players",
-        "Count": 65
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 65
-      },
-      {
-        "Text": "This game has Challenging Combat",
-        "Count": 63
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 56
-      },
-      {
-        "Text": "This game has Realistic Visuals",
-        "Count": 52
-      },
-      {
-        "Text": "This game is Extremely Fun",
-        "Count": 52
-      },
-      {
-        "Text": "This game has a Competitive Community",
-        "Count": 45
-      }
-    ]
-  },
-  {
     "Namespace": "f6dcd5bf17c0469789292d1166bf91a1",
     "ProductSlug": null,
     "Name": "WRC - 8",
@@ -7363,7 +7363,7 @@
     "ProductSlug": null,
     "Name": "Watch Dogs 1",
     "Rating": 4.57,
-    "NumberOfRatings": 881,
+    "NumberOfRatings": 890,
     "Tags": []
   },
   {
@@ -7371,7 +7371,7 @@
     "ProductSlug": null,
     "Name": "Watch Dogs 2",
     "Rating": 4.57,
-    "NumberOfRatings": 2989,
+    "NumberOfRatings": 2996,
     "Tags": [
       {
         "Text": "This game has Amazing Characters",
@@ -7407,7 +7407,7 @@
       },
       {
         "Text": "This game is Great for Beginners",
-        "Count": 31
+        "Count": 32
       },
       {
         "Text": "This game is Highly Recommended",
@@ -7434,7 +7434,7 @@
   {
     "Namespace": "0d66818e2304485f8dc3ae90c8b622b4",
     "ProductSlug": null,
-    "Name": "Shadowrun Hong Kong",
+    "Name": "Shadowrun Hong Kong - Extended Edition",
     "Rating": 4.57,
     "NumberOfRatings": 119,
     "Tags": [
@@ -7503,7 +7503,7 @@
     "ProductSlug": null,
     "Name": "glaucous Production",
     "Rating": 4.57,
-    "NumberOfRatings": 290,
+    "NumberOfRatings": 292,
     "Tags": [
       {
         "Text": "This game has Inclusive Character Customization",
@@ -7577,7 +7577,7 @@
     "ProductSlug": null,
     "Name": "XCOM 2",
     "Rating": 4.56,
-    "NumberOfRatings": 4246,
+    "NumberOfRatings": 4255,
     "Tags": [
       {
         "Text": "This game has Challenging Combat",
@@ -7783,9 +7783,9 @@
   {
     "Namespace": "ca8077d80493497188e0ca5bca3ebe60",
     "ProductSlug": "sundered-eldritch-edition/home",
-    "Name": "Sundered Eldritch Edition",
+    "Name": "Sundered: Eldritch Edition",
     "Rating": 4.56,
-    "NumberOfRatings": 85,
+    "NumberOfRatings": 87,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -7839,19 +7839,19 @@
     "ProductSlug": "railway-empire/home",
     "Name": "RailwayEmpire",
     "Rating": 4.55,
-    "NumberOfRatings": 925,
+    "NumberOfRatings": 931,
     "Tags": [
       {
         "Text": "This game is Highly Recommended",
         "Count": 49
       },
       {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 42
+        "Text": "This game is Relaxing",
+        "Count": 44
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 40
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 42
       },
       {
         "Text": "This game is Extremely Fun",
@@ -7862,11 +7862,11 @@
         "Count": 34
       },
       {
-        "Text": "This game is Great for Beginners",
+        "Text": "This game is Educational",
         "Count": 32
       },
       {
-        "Text": "This game is Educational",
+        "Text": "This game is Great for Beginners",
         "Count": 32
       },
       {
@@ -7878,7 +7878,7 @@
   {
     "Namespace": "ad876f7812c946f6a362bf821b971b48",
     "ProductSlug": "stick-it-to-the-man",
-    "Name": "Stick it to the Man!",
+    "Name": "Stick It To The Man!",
     "Rating": 4.55,
     "NumberOfRatings": 29,
     "Tags": []
@@ -7919,6 +7919,43 @@
     "Rating": 4.55,
     "NumberOfRatings": 183,
     "Tags": []
+  },
+  {
+    "Namespace": "helloneighbor",
+    "ProductSlug": null,
+    "Name": "Hello Neighbor",
+    "Rating": 4.55,
+    "NumberOfRatings": 488,
+    "Tags": [
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 27
+      },
+      {
+        "Text": "This game is Extremely Fun",
+        "Count": 26
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 26
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 23
+      },
+      {
+        "Text": "This game is Great for Quick Sessions",
+        "Count": 23
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 22
+      },
+      {
+        "Text": "This game has a Creative Community",
+        "Count": 22
+      }
+    ]
   },
   {
     "Namespace": "25d726130e6c4fe68f88e71933bda955",
@@ -7970,7 +8007,7 @@
     "ProductSlug": null,
     "Name": "Dead by Daylight",
     "Rating": 4.54,
-    "NumberOfRatings": 45664,
+    "NumberOfRatings": 45690,
     "Tags": [
       {
         "Text": "This game is Great for Quick Sessions",
@@ -8080,39 +8117,43 @@
     "Tags": []
   },
   {
-    "Namespace": "helloneighbor",
+    "Namespace": "1093790870b043cdbae03d91d76d9ae6",
     "ProductSlug": null,
-    "Name": "Hello Neighbor",
+    "Name": "Rainbow Six Extraction",
     "Rating": 4.54,
-    "NumberOfRatings": 487,
+    "NumberOfRatings": 338,
     "Tags": [
       {
-        "Text": "This game has Quickly Understood Controls",
+        "Text": "This game has Diverse Characters",
         "Count": 27
       },
       {
-        "Text": "This game is Extremely Fun",
-        "Count": 26
+        "Text": "This game is Relaxing",
+        "Count": 25
       },
       {
-        "Text": "This game is Relaxing",
-        "Count": 26
+        "Text": "This game has a Competitive Community",
+        "Count": 22
+      },
+      {
+        "Text": "This game has Challenging Combat",
+        "Count": 22
+      },
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 22
+      },
+      {
+        "Text": "This game has Amazing Characters",
+        "Count": 21
       },
       {
         "Text": "This game has Amazing Storytelling",
-        "Count": 23
-      },
-      {
-        "Text": "This game is Great for Quick Sessions",
-        "Count": 23
+        "Count": 21
       },
       {
         "Text": "This game is Highly Recommended",
-        "Count": 22
-      },
-      {
-        "Text": "This game has a Creative Community",
-        "Count": 22
+        "Count": 20
       }
     ]
   },
@@ -8276,47 +8317,6 @@
     ]
   },
   {
-    "Namespace": "1093790870b043cdbae03d91d76d9ae6",
-    "ProductSlug": null,
-    "Name": "Rainbow Six Extraction",
-    "Rating": 4.53,
-    "NumberOfRatings": 337,
-    "Tags": [
-      {
-        "Text": "This game has Diverse Characters",
-        "Count": 27
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 25
-      },
-      {
-        "Text": "This game has a Competitive Community",
-        "Count": 22
-      },
-      {
-        "Text": "This game has Challenging Combat",
-        "Count": 22
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 22
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 21
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 20
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 20
-      }
-    ]
-  },
-  {
     "Namespace": "puffin",
     "ProductSlug": "axiom-verge/home",
     "Name": "Axiom Verge",
@@ -8368,7 +8368,7 @@
     "ProductSlug": null,
     "Name": "Evil Dead: The Game",
     "Rating": 4.52,
-    "NumberOfRatings": 7687,
+    "NumberOfRatings": 7692,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -8474,7 +8474,7 @@
     "ProductSlug": "auto-chess/home",
     "Name": "Auto Chess",
     "Rating": 4.52,
-    "NumberOfRatings": 1353,
+    "NumberOfRatings": 1354,
     "Tags": [
       {
         "Text": "This game is Great for Beginners",
@@ -8514,7 +8514,7 @@
       },
       {
         "Text": "This game has Playful Visuals",
-        "Count": 82
+        "Count": 85
       },
       {
         "Text": "This game has a Competitive Community",
@@ -8533,7 +8533,7 @@
   {
     "Namespace": "a25444fc25e9498781983b58ceba30c5",
     "ProductSlug": "black-widow-recharged",
-    "Name": "blackcoral Production",
+    "Name": "Black Widow: Recharged",
     "Rating": 4.52,
     "NumberOfRatings": 21,
     "Tags": []
@@ -8618,7 +8618,7 @@
   {
     "Namespace": "93ea0d593cb04e62afb0741bbf894173",
     "ProductSlug": null,
-    "Name": "Redout Enhanced Edition",
+    "Name": "Redout: Enhanced Edition",
     "Rating": 4.51,
     "NumberOfRatings": 193,
     "Tags": []
@@ -8728,7 +8728,7 @@
     "ProductSlug": "bioshock-2-remastered",
     "Name": "BioShock 2 Remastered",
     "Rating": 4.51,
-    "NumberOfRatings": 8427,
+    "NumberOfRatings": 8432,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -8756,7 +8756,7 @@
       },
       {
         "Text": "This game has Amazing Storytelling",
-        "Count": 52
+        "Count": 53
       },
       {
         "Text": "This game is Great for Beginners",
@@ -8960,7 +8960,7 @@
   {
     "Namespace": "3e84a6d0684b4f7593e6bf88bee0cbaf",
     "ProductSlug": "samurai-shodown-neogeo-collection",
-    "Name": "Samurai Shodown NeoGeo Collection",
+    "Name": "SAMURAI SHODOWN NEOGEO COLLECTION",
     "Rating": 4.49,
     "NumberOfRatings": 41,
     "Tags": []
@@ -8970,13 +8970,13 @@
     "ProductSlug": null,
     "Name": "Live",
     "Rating": 4.49,
-    "NumberOfRatings": 349,
+    "NumberOfRatings": 352,
     "Tags": []
   },
   {
     "Namespace": "ce8393adfbf342ceab0a36479ffbc627",
     "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-    "Name": "tiger Production",
+    "Name": "Ken Follett\u0027s The Pillars of the Earth",
     "Rating": 4.49,
     "NumberOfRatings": 171,
     "Tags": [
@@ -9029,47 +9029,6 @@
     "Tags": []
   },
   {
-    "Namespace": "57dfd95548214a138218e56cd9e5b9d8",
-    "ProductSlug": null,
-    "Name": "Back 4 Blood",
-    "Rating": 4.48,
-    "NumberOfRatings": 1667,
-    "Tags": [
-      {
-        "Text": "This game has Great Boss Battles",
-        "Count": 918
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 91
-      },
-      {
-        "Text": "This game has Diverse Characters",
-        "Count": 89
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 88
-      },
-      {
-        "Text": "This game is Extremely Fun",
-        "Count": 84
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 84
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 81
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 73
-      }
-    ]
-  },
-  {
     "Namespace": "0a4fc789eb0143c29296de79df5387ab",
     "ProductSlug": null,
     "Name": "Crying Suns",
@@ -9080,7 +9039,7 @@
   {
     "Namespace": "f9a21c4ce910440d82b83b01d1c48c5e",
     "ProductSlug": "assassins-creed-1",
-    "Name": "Assassin\u0027s Creed I",
+    "Name": "Assassin\u0027s Creed I: Director\u0027s Cut",
     "Rating": 4.48,
     "NumberOfRatings": 69,
     "Tags": []
@@ -9101,6 +9060,10 @@
         "Count": 869
       },
       {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 851
+      },
+      {
         "Text": "This game is Educational",
         "Count": 834
       },
@@ -9111,10 +9074,6 @@
       {
         "Text": "This game is Highly Recommended",
         "Count": 824
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 819
       },
       {
         "Text": "This game has Obsessive Gameplay",
@@ -9147,7 +9106,7 @@
     "ProductSlug": "kingdom-new-lands/home",
     "Name": "Kingdom New Lands",
     "Rating": 4.48,
-    "NumberOfRatings": 877,
+    "NumberOfRatings": 885,
     "Tags": [
       {
         "Text": "This game has Quickly Understood Controls",
@@ -9158,14 +9117,6 @@
         "Count": 24
       }
     ]
-  },
-  {
-    "Namespace": "02c14a01b7044db98de3f3a10813a42e",
-    "ProductSlug": null,
-    "Name": "Humankind",
-    "Rating": 4.47,
-    "NumberOfRatings": 307,
-    "Tags": []
   },
   {
     "Namespace": "076207fa2b5c4803a636af606c3c28b7",
@@ -9229,6 +9180,47 @@
     "Tags": []
   },
   {
+    "Namespace": "57dfd95548214a138218e56cd9e5b9d8",
+    "ProductSlug": null,
+    "Name": "Back 4 Blood",
+    "Rating": 4.47,
+    "NumberOfRatings": 1668,
+    "Tags": [
+      {
+        "Text": "This game has Great Boss Battles",
+        "Count": 918
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 92
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 91
+      },
+      {
+        "Text": "This game has Diverse Characters",
+        "Count": 89
+      },
+      {
+        "Text": "This game is Extremely Fun",
+        "Count": 84
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 84
+      },
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 81
+      },
+      {
+        "Text": "This game has Amazing Characters",
+        "Count": 73
+      }
+    ]
+  },
+  {
     "Namespace": "4930dde6add240a9bfc7ddc415dc2799",
     "ProductSlug": null,
     "Name": "Chorus",
@@ -9239,7 +9231,7 @@
   {
     "Namespace": "anise",
     "ProductSlug": "assassins-creed-3",
-    "Name": "Assassin\u0027s Creed III",
+    "Name": "Assassin\u0027s Creed III: Remastered",
     "Rating": 4.47,
     "NumberOfRatings": 111,
     "Tags": [
@@ -9258,78 +9250,12 @@
     "Tags": []
   },
   {
-    "Namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+    "Namespace": "02c14a01b7044db98de3f3a10813a42e",
     "ProductSlug": null,
-    "Name": "oxygen Production",
+    "Name": "Humankind",
     "Rating": 4.46,
-    "NumberOfRatings": 1371,
-    "Tags": [
-      {
-        "Text": "This game is Great for Beginners",
-        "Count": 186
-      },
-      {
-        "Text": "This game has Realistic Visuals",
-        "Count": 172
-      },
-      {
-        "Text": "This game is Extremely Fun",
-        "Count": 166
-      },
-      {
-        "Text": "This game is Highly Recommended",
-        "Count": 164
-      },
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 161
-      },
-      {
-        "Text": "This game is Relaxing",
-        "Count": 153
-      },
-      {
-        "Text": "This game is Educational",
-        "Count": 152
-      },
-      {
-        "Text": "This game has Obsessive Gameplay",
-        "Count": 137
-      },
-      {
-        "Text": "This game has a Creative Community",
-        "Count": 116
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 112
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 109
-      }
-    ]
-  },
-  {
-    "Namespace": "7015c51a49be4592b5ba3ae2577723c5",
-    "ProductSlug": "tropico-5/home",
-    "Name": "Tropico 5",
-    "Rating": 4.46,
-    "NumberOfRatings": 896,
-    "Tags": [
-      {
-        "Text": "This game has Quickly Understood Controls",
-        "Count": 22
-      },
-      {
-        "Text": "This game has Diverse Characters",
-        "Count": 21
-      },
-      {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 20
-      }
-    ]
+    "NumberOfRatings": 308,
+    "Tags": []
   },
   {
     "Namespace": "3dd7b519d7ab4631ae96d3efa8588514",
@@ -9342,7 +9268,7 @@
   {
     "Namespace": "morpho",
     "ProductSlug": null,
-    "Name": "HN Hide and Seek",
+    "Name": "Hello Neighbor Hide and Seek",
     "Rating": 4.46,
     "NumberOfRatings": 28,
     "Tags": []
@@ -9421,7 +9347,7 @@
   {
     "Namespace": "615659ff36244d258ef6c6a827e32c5d",
     "ProductSlug": "brothers-a-tale-of-two-sons",
-    "Name": "Brothers: A Tale of Two Sons",
+    "Name": "Brothers - A Tale of Two Sons",
     "Rating": 4.46,
     "NumberOfRatings": 342,
     "Tags": []
@@ -9441,6 +9367,80 @@
     "Rating": 4.46,
     "NumberOfRatings": 1535,
     "Tags": []
+  },
+  {
+    "Namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+    "ProductSlug": null,
+    "Name": "Train Sim World\u00AE 2",
+    "Rating": 4.45,
+    "NumberOfRatings": 1376,
+    "Tags": [
+      {
+        "Text": "This game is Great for Beginners",
+        "Count": 186
+      },
+      {
+        "Text": "This game has Realistic Visuals",
+        "Count": 172
+      },
+      {
+        "Text": "This game is Extremely Fun",
+        "Count": 166
+      },
+      {
+        "Text": "This game is Highly Recommended",
+        "Count": 164
+      },
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 161
+      },
+      {
+        "Text": "This game is Relaxing",
+        "Count": 153
+      },
+      {
+        "Text": "This game is Educational",
+        "Count": 152
+      },
+      {
+        "Text": "This game has Obsessive Gameplay",
+        "Count": 137
+      },
+      {
+        "Text": "This game has a Creative Community",
+        "Count": 116
+      },
+      {
+        "Text": "This game has Amazing Characters",
+        "Count": 112
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 109
+      }
+    ]
+  },
+  {
+    "Namespace": "7015c51a49be4592b5ba3ae2577723c5",
+    "ProductSlug": "tropico-5/home",
+    "Name": "Tropico 5",
+    "Rating": 4.45,
+    "NumberOfRatings": 900,
+    "Tags": [
+      {
+        "Text": "This game has Quickly Understood Controls",
+        "Count": 22
+      },
+      {
+        "Text": "This game has Diverse Characters",
+        "Count": 21
+      },
+      {
+        "Text": "This game has Amazing Storytelling",
+        "Count": 20
+      }
+    ]
   },
   {
     "Namespace": "043ffc92cbd64a9fbc350ea68f415937",
@@ -9480,7 +9480,7 @@
     "ProductSlug": null,
     "Name": "Defense Grid: The Awakening",
     "Rating": 4.45,
-    "NumberOfRatings": 629,
+    "NumberOfRatings": 633,
     "Tags": [
       {
         "Text": "This game is Extremely Fun",
@@ -9519,7 +9519,7 @@
   {
     "Namespace": "d0545b136bb042fb9014e72b6af748f6",
     "ProductSlug": "ghostbusters-the-video-game-remastered/home",
-    "Name": "Ghostbusters Remastered",
+    "Name": "Ghostbusters: The Video Game Remastered",
     "Rating": 4.45,
     "NumberOfRatings": 200,
     "Tags": [
@@ -9677,7 +9677,7 @@
   {
     "Namespace": "3819de76dedf4cd2aebbcf9279e23e43",
     "ProductSlug": "darq-complete-edition",
-    "Name": "DARQ",
+    "Name": "Darq: Complete Edition",
     "Rating": 4.44,
     "NumberOfRatings": 187,
     "Tags": []
@@ -9685,7 +9685,7 @@
   {
     "Namespace": "5fdcc0dc67294af3be740f362bd976fd",
     "ProductSlug": "mtg-arena/home",
-    "Name": "Magic The Gathering Arena",
+    "Name": "Magic: The Gathering",
     "Rating": 4.44,
     "NumberOfRatings": 8508,
     "Tags": [
@@ -9764,7 +9764,7 @@
     "ProductSlug": null,
     "Name": "The Escapists",
     "Rating": 4.43,
-    "NumberOfRatings": 275,
+    "NumberOfRatings": 276,
     "Tags": []
   },
   {
@@ -9812,7 +9812,7 @@
   {
     "Namespace": "3928fd8975b2437d894bbc5cd21de9a0",
     "ProductSlug": "saints-row-the-third-remastered",
-    "Name": "Saints Row The Third Remastered",
+    "Name": "Saint\u0027s Row The Third Remastered",
     "Rating": 4.43,
     "NumberOfRatings": 2582,
     "Tags": [
@@ -9944,6 +9944,19 @@
     "Tags": []
   },
   {
+    "Namespace": "d2b282a6b53e409a8f8329d3d3356f21",
+    "ProductSlug": null,
+    "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+    "Rating": 4.41,
+    "NumberOfRatings": 883,
+    "Tags": [
+      {
+        "Text": "This game has Great Boss Battles",
+        "Count": 110
+      }
+    ]
+  },
+  {
     "Namespace": "c6e54ebd92da4ee8819c1c0956cebdc4",
     "ProductSlug": null,
     "Name": "OUTRIDERS",
@@ -10024,7 +10037,7 @@
   {
     "Namespace": "8d296e80f3ec42a79881f0693f3bded0",
     "ProductSlug": "the-last-stand-aftermath",
-    "Name": "pozole Production",
+    "Name": "The Last Stand: Aftermath",
     "Rating": 4.41,
     "NumberOfRatings": 22,
     "Tags": []
@@ -10032,7 +10045,7 @@
   {
     "Namespace": "ba3149b6d7a7488ab5cc674154458757",
     "ProductSlug": "jotun/home",
-    "Name": "Jotun",
+    "Name": "Jotun Valhalla Edition",
     "Rating": 4.41,
     "NumberOfRatings": 432,
     "Tags": [
@@ -10053,7 +10066,7 @@
   {
     "Namespace": "f3720f53cccb4a20841a392a8ea0457f",
     "ProductSlug": "aer-memories-of-old",
-    "Name": "AER: Memories of Old",
+    "Name": "AER",
     "Rating": 4.41,
     "NumberOfRatings": 85,
     "Tags": []
@@ -10065,19 +10078,6 @@
     "Rating": 4.4,
     "NumberOfRatings": 25,
     "Tags": []
-  },
-  {
-    "Namespace": "d2b282a6b53e409a8f8329d3d3356f21",
-    "ProductSlug": null,
-    "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
-    "Rating": 4.4,
-    "NumberOfRatings": 877,
-    "Tags": [
-      {
-        "Text": "This game has Great Boss Battles",
-        "Count": 110
-      }
-    ]
   },
   {
     "Namespace": "impala",
@@ -10135,7 +10135,7 @@
   {
     "Namespace": "53ef2f4592684c4c97d6d32e40467274",
     "ProductSlug": "among-the-sleep-enhanced-edition",
-    "Name": "Among the Sleep",
+    "Name": "Among the Sleep - Enhanced Edition",
     "Rating": 4.4,
     "NumberOfRatings": 166,
     "Tags": []
@@ -10143,7 +10143,7 @@
   {
     "Namespace": "27d2f156f77b4202b9bc78e40a408b03",
     "ProductSlug": "where-the-water-tastes-like-wine/home",
-    "Name": "Where the Water Tastes Like Wine",
+    "Name": "Where The Water Tastes Like Wine",
     "Rating": 4.4,
     "NumberOfRatings": 20,
     "Tags": []
@@ -10159,7 +10159,7 @@
   {
     "Namespace": "44471bc726304926b6f7da78722c7029",
     "ProductSlug": "spellforce-3",
-    "Name": "SpellForce 3: Soul Harvest",
+    "Name": "SpellForce 3",
     "Rating": 4.39,
     "NumberOfRatings": 49,
     "Tags": []
@@ -10401,7 +10401,7 @@
   {
     "Namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
     "ProductSlug": "sherlock-holmes-crimes-and-punishments/home",
-    "Name": "Sherlock Holmes: Crimes and Punishment",
+    "Name": "Sherlock Holmes: Crimes and Punishments",
     "Rating": 4.36,
     "NumberOfRatings": 216,
     "Tags": []
@@ -10433,7 +10433,7 @@
   {
     "Namespace": "d3f34b351df646e0ab932fd8d8e5dfc2",
     "ProductSlug": "speed-brawl",
-    "Name": "Francium",
+    "Name": "Speed Brawl",
     "Rating": 4.36,
     "NumberOfRatings": 59,
     "Tags": []
@@ -10492,7 +10492,7 @@
     "ProductSlug": "century-age-of-ashes",
     "Name": "Century: Age of Ashes",
     "Rating": 4.35,
-    "NumberOfRatings": 852,
+    "NumberOfRatings": 861,
     "Tags": []
   },
   {
@@ -10630,7 +10630,7 @@
   {
     "Namespace": "5a82d5954a1943d79dc6b49cde2fe972",
     "ProductSlug": null,
-    "Name": "Predator Hunting Grounds",
+    "Name": "Predator: Hunting Grounds",
     "Rating": 4.34,
     "NumberOfRatings": 438,
     "Tags": [
@@ -10760,7 +10760,7 @@
   {
     "Namespace": "a0b8d4482f3d4f939f35f87a3f367865",
     "ProductSlug": "far-cry-2",
-    "Name": "Far Cry 2",
+    "Name": "Far Cry 2: Fortune\u0027s Edition",
     "Rating": 4.33,
     "NumberOfRatings": 24,
     "Tags": []
@@ -10802,7 +10802,7 @@
       },
       {
         "Text": "This game has a Competitive Community",
-        "Count": 113667
+        "Count": 117094
       }
     ]
   },
@@ -10817,7 +10817,7 @@
   {
     "Namespace": "107bd7324f39429ca4e7e9e44765d8cf",
     "ProductSlug": "mafia-ii-definitive-edition",
-    "Name": "Mafia II: The Definitive Edition",
+    "Name": "Mafia II: Definitive Edition",
     "Rating": 4.32,
     "NumberOfRatings": 470,
     "Tags": []
@@ -10825,7 +10825,7 @@
   {
     "Namespace": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
     "ProductSlug": "animation-throwdown-the-quest-for-cards",
-    "Name": "zirconium Production",
+    "Name": "Animation Throwdown: The Quest for Cards",
     "Rating": 4.31,
     "NumberOfRatings": 575,
     "Tags": [
@@ -10994,7 +10994,7 @@
   {
     "Namespace": "a4824407d9ec4f6a8c13919e732f9400",
     "ProductSlug": "eiyuden-chronicle-rising",
-    "Name": "Eiyuden Chronicles Rising",
+    "Name": "Eiyuden Chronicle: Rising",
     "Rating": 4.3,
     "NumberOfRatings": 30,
     "Tags": []
@@ -11104,7 +11104,7 @@
   {
     "Namespace": "5e0e5678caaa469baf3a8627c3d1dee4",
     "ProductSlug": "salt-and-sacrifice",
-    "Name": "Salt and Sacrifice",
+    "Name": "Salt \u0026 Sacrifice",
     "Rating": 4.28,
     "NumberOfRatings": 1479,
     "Tags": [
@@ -11131,7 +11131,7 @@
     "ProductSlug": null,
     "Name": "Killing Floor 2",
     "Rating": 4.27,
-    "NumberOfRatings": 11739,
+    "NumberOfRatings": 11749,
     "Tags": [
       {
         "Text": "This game has Great Boss Battles",
@@ -11154,6 +11154,10 @@
         "Count": 178
       },
       {
+        "Text": "This game has Amazing Characters",
+        "Count": 178
+      },
+      {
         "Text": "This game has Diverse Characters",
         "Count": 176
       },
@@ -11164,10 +11168,6 @@
       {
         "Text": "This game has Quickly Understood Controls",
         "Count": 172
-      },
-      {
-        "Text": "This game has Amazing Characters",
-        "Count": 166
       },
       {
         "Text": "This game has Amazing Storytelling",
@@ -11280,7 +11280,7 @@
   {
     "Namespace": "56eab841eaab4016b9fedd2350f997b6",
     "ProductSlug": "oddworld-new-n-tasty",
-    "Name": "Toucan",
+    "Name": "Oddworld: New \u0027n\u0027 Tasty",
     "Rating": 4.25,
     "NumberOfRatings": 48,
     "Tags": []
@@ -11296,7 +11296,7 @@
   {
     "Namespace": "55d082ca99b64bd9bdb25754eb56a135",
     "ProductSlug": "might-and-magic-heroes-7/home",
-    "Name": "Might \u0026 Magic Heroes VII",
+    "Name": "Might \u0026 Magic Heroes 7",
     "Rating": 4.24,
     "NumberOfRatings": 45,
     "Tags": []
@@ -11521,7 +11521,7 @@
   {
     "Namespace": "8ad9396e01f046aaa784a33f7e60dfbe",
     "ProductSlug": "mafia-iii-definitive-edition",
-    "Name": "mafia III",
+    "Name": "Mafia III: Definitive Edition",
     "Rating": 4.2,
     "NumberOfRatings": 672,
     "Tags": []
@@ -11550,7 +11550,7 @@
   {
     "Namespace": "308652d49c89470fbf45fe8696b9c1c1",
     "ProductSlug": "geneforge-1-mutagen",
-    "Name": "Seaborgium",
+    "Name": "Geneforge 1: Mutagen",
     "Rating": 4.2,
     "NumberOfRatings": 843,
     "Tags": []
@@ -11670,7 +11670,7 @@
     "ProductSlug": null,
     "Name": "The Cycle",
     "Rating": 4.16,
-    "NumberOfRatings": 10933,
+    "NumberOfRatings": 10946,
     "Tags": [
       {
         "Text": "This game has Competitive Players",
@@ -11819,17 +11819,9 @@
   {
     "Namespace": "870929e8b7fb4e2b986c1a3f0a6ff38d",
     "ProductSlug": "armored-warfare",
-    "Name": "Euterpe",
+    "Name": "Armored Warfare",
     "Rating": 4.11,
     "NumberOfRatings": 228,
-    "Tags": []
-  },
-  {
-    "Namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
-    "ProductSlug": "pine",
-    "Name": "Strontium",
-    "Rating": 4.11,
-    "NumberOfRatings": 308,
     "Tags": []
   },
   {
@@ -11838,6 +11830,14 @@
     "Name": "Werewolf: The Apocalypse - Earthblood",
     "Rating": 4.11,
     "NumberOfRatings": 37,
+    "Tags": []
+  },
+  {
+    "Namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
+    "ProductSlug": "pine",
+    "Name": "Pine",
+    "Rating": 4.1,
+    "NumberOfRatings": 311,
     "Tags": []
   },
   {
@@ -11859,7 +11859,7 @@
   {
     "Namespace": "silene",
     "ProductSlug": "close-to-the-sun/home",
-    "Name": "Close to the Sun",
+    "Name": "Close To The Sun",
     "Rating": 4.09,
     "NumberOfRatings": 68,
     "Tags": []
@@ -11952,7 +11952,7 @@
   {
     "Namespace": "489c2ca47aaa4190b694184b979d3b23",
     "ProductSlug": "the-first-tree",
-    "Name": "Lemon",
+    "Name": "The First Tree",
     "Rating": 4.04,
     "NumberOfRatings": 24,
     "Tags": []
@@ -12007,7 +12007,7 @@
     "ProductSlug": null,
     "Name": "Hood: Outlaws \u0026 Legends",
     "Rating": 3.97,
-    "NumberOfRatings": 10760,
+    "NumberOfRatings": 10775,
     "Tags": [
       {
         "Text": "This game has Diverse Characters",
@@ -12030,12 +12030,12 @@
         "Count": 108
       },
       {
-        "Text": "This game has Amazing Characters",
-        "Count": 104
+        "Text": "This game has Amazing Storytelling",
+        "Count": 107
       },
       {
-        "Text": "This game has Amazing Storytelling",
-        "Count": 101
+        "Text": "This game has Amazing Characters",
+        "Count": 104
       }
     ]
   },
@@ -12169,7 +12169,7 @@
   {
     "Namespace": "09549be3e1f44e449841a8fad7950138",
     "ProductSlug": "osiris-new-dawn",
-    "Name": "Osiris New Dawn",
+    "Name": "Osiris: New Dawn",
     "Rating": 3.79,
     "NumberOfRatings": 67,
     "Tags": []
@@ -12209,7 +12209,7 @@
   {
     "Namespace": "9c4d0f80d0fc4cd48760ad7355cd3cac",
     "ProductSlug": "Void-tyrant",
-    "Name": "kenai Production",
+    "Name": "Void Tyrant",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12217,7 +12217,7 @@
   {
     "Namespace": "d6a3cae34c5d4562832610b5b8664576",
     "ProductSlug": "3-out-of-10-ep-4",
-    "Name": "3 Out of 10 Episode 4: Thank You for Being an Asset",
+    "Name": "3 out of 10, EP 4: \u0022Thank You For Being An Asset\u0022",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12265,7 +12265,7 @@
   {
     "Namespace": "64f6e25cee7441e9967524a50b08dddd",
     "ProductSlug": "far-lone-sails",
-    "Name": "Far Lone Sails",
+    "Name": "FAR: Lone Sails",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12281,7 +12281,7 @@
   {
     "Namespace": "b196813a49d5409f9bda8eb872111ecf",
     "ProductSlug": null,
-    "Name": "indigo Production",
+    "Name": "Kitaria Fables",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12465,7 +12465,7 @@
   {
     "Namespace": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
     "ProductSlug": "kill-it-with-fire",
-    "Name": "Kill it With Fire",
+    "Name": "Kill It With Fire",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12481,7 +12481,7 @@
   {
     "Namespace": "ace4435645d9489cacfbb422b7c1c817",
     "ProductSlug": null,
-    "Name": "SAMURAI SHODOWN ",
+    "Name": "SAMURAI SHODOWN",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12529,7 +12529,7 @@
   {
     "Namespace": "db9feb0da696474e9923764dd75b9854",
     "ProductSlug": "samurai-jack-battle-through-time",
-    "Name": "Samurai Jack : Battle Through Time",
+    "Name": "Samurai Jack: Battle Through Time",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12761,7 +12761,7 @@
   {
     "Namespace": "0017cfe7374b4c16a42859241b3dfe94",
     "ProductSlug": "chicken-police-paint-it-red",
-    "Name": "aeroblue Production",
+    "Name": "Chicken Police - Paint it Red!",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12969,7 +12969,7 @@
   {
     "Namespace": "2b4079af75f0487798a504ca35952942",
     "ProductSlug": "a-monsters-expedition",
-    "Name": "A Monster\u0027s Expedition",
+    "Name": "A Monsters Expedition",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -12977,7 +12977,7 @@
   {
     "Namespace": "5e427319eea1401ab20c6cd78a4163c4",
     "ProductSlug": "call-of-the-sea",
-    "Name": "manchego Production",
+    "Name": "Call of the Sea",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13009,7 +13009,7 @@
   {
     "Namespace": "be4b391bc31d465ebeba92b9b822b798",
     "ProductSlug": "milky-way-prince-the-vampire-star",
-    "Name": "Milky Way Prince",
+    "Name": "Milky Way Prince \u2013 The Vampire Star",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13017,7 +13017,7 @@
   {
     "Namespace": "3102f48ad7bd409ab6e34f2ad697e961",
     "ProductSlug": "corruption-2029/home",
-    "Name": "Corruption 2029",
+    "Name": "Corruption",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13089,7 +13089,7 @@
   {
     "Namespace": "8e66d3f552b448afb1889c32ac855fc9",
     "ProductSlug": "towerfall-ascension/home",
-    "Name": "TowerFall: Ascension",
+    "Name": "TowerFall Ascension",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13113,7 +13113,7 @@
   {
     "Namespace": "b6aa6a98bb394a53870bd6b026fefd1d",
     "ProductSlug": "the-drone-racing-league-simulator",
-    "Name": "honolulublue Production",
+    "Name": "Drone Racing League Simulator",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13217,7 +13217,7 @@
   {
     "Namespace": "6da57ad658b146ca8caf15b3434c836e",
     "ProductSlug": "the-fall-part-2-unbound",
-    "Name": "The Fall Part 2 Unbound",
+    "Name": "The Fall Part 2: Unbound",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13321,7 +13321,7 @@
   {
     "Namespace": "880ca265d5914adf9a4c9cedf5f1fa89",
     "ProductSlug": "horror-story-hallowseed",
-    "Name": "antiquewhite Production",
+    "Name": "Horror Story: Hallowseed",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13489,7 +13489,7 @@
   {
     "Namespace": "eee66cc2b7d84d05942cd6d2a099d856",
     "ProductSlug": "destroy-all-humans-clone-carnage",
-    "Name": "Shrikhand",
+    "Name": "Destroy All Humans! - Clone Carnage",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13545,7 +13545,7 @@
   {
     "Namespace": "804924cf93664a5db337e0aaee5c595e",
     "ProductSlug": "inertial-drift",
-    "Name": "quebec Production",
+    "Name": "Inertial Drift",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13609,7 +13609,7 @@
   {
     "Namespace": "6fa08ca4ba92438495dfec53fb88118e",
     "ProductSlug": "wizards-wand-of-epicosity",
-    "Name": "Wizards Wand of Epicosity",
+    "Name": "Wizards: Wand of Epicosity",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13641,7 +13641,7 @@
   {
     "Namespace": "fennel",
     "ProductSlug": "walking-dead-michonne/home",
-    "Name": "The Walking Dead: Michonne",
+    "Name": "The Walking Dead Michonne",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13697,7 +13697,7 @@
   {
     "Namespace": "fcefd39bedb14d6282fe2ac41edbd5f8",
     "ProductSlug": "jackbox-party-pack-7",
-    "Name": "The Jackbox Party Pack 7",
+    "Name": "Jackbox Party Pack 7",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13777,7 +13777,7 @@
   {
     "Namespace": "bc2b0372eaa448469cb9a769f27acea1",
     "ProductSlug": "star-wars-squadrons/home",
-    "Name": "Star Wars Squadrons",
+    "Name": "STAR WARS\u2122: Squadrons",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -13881,7 +13881,7 @@
   {
     "Namespace": "2b4c5960dc284359aede3f131c6e47e0",
     "ProductSlug": "wanna-survive",
-    "Name": "rotini Production",
+    "Name": "Wanna Survive",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14049,7 +14049,7 @@
   {
     "Namespace": "c0c1086e89f84494ba1c1da9c9500280",
     "ProductSlug": "franchise-hockey-manager-8",
-    "Name": "FHM8",
+    "Name": "Franchise Hockey Manager 8",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14105,7 +14105,7 @@
   {
     "Namespace": "0fb229f35a3f4eb788b05ae91419a214",
     "ProductSlug": "arise-a-simple-story/home",
-    "Name": "Arise A Simple Story",
+    "Name": "Arise: A Simple Story",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14121,7 +14121,7 @@
   {
     "Namespace": "9a1baf1cfcfd4cdba01b1ce54ae2ed55",
     "ProductSlug": "shadow-man-remastered",
-    "Name": "provolone Production",
+    "Name": "Shadow Man Remastered",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14233,7 +14233,7 @@
   {
     "Namespace": "plumeria",
     "ProductSlug": "shakedown-hawaii/home",
-    "Name": "Shakedown - Hawaii",
+    "Name": "Shakedown: Hawaii",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14281,7 +14281,7 @@
   {
     "Namespace": "d06b7cb31f224a42b8433f7348cee5d3",
     "ProductSlug": "nexomon-extinction",
-    "Name": "Sierra",
+    "Name": "Nexomon: Extinction",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14417,7 +14417,7 @@
   {
     "Namespace": "ed355406eacb4633a648f682ddb492b8",
     "ProductSlug": null,
-    "Name": "CastleStorm 2",
+    "Name": "CastleStorm II",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14481,7 +14481,7 @@
   {
     "Namespace": "b4766bfcd2ca413f82d0d7388645fed2",
     "ProductSlug": "aztech-forgotten-gods",
-    "Name": "Live",
+    "Name": "Aztech Forgotten Gods",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14489,7 +14489,7 @@
   {
     "Namespace": "vpr",
     "ProductSlug": "shadow-complex",
-    "Name": "Shadow Complex",
+    "Name": "Shadow Complex Remastered",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14497,7 +14497,7 @@
   {
     "Namespace": "530eeeaffca14275a451d7cff61ee6bb",
     "ProductSlug": "the-end-is-nigh/home",
-    "Name": "The End Is Nigh",
+    "Name": "The End is Nigh",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14577,7 +14577,7 @@
   {
     "Namespace": "7ac3374a63524c509541e762348a4fb8",
     "ProductSlug": "super-squad",
-    "Name": "Virgo",
+    "Name": "Super Squad",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14601,7 +14601,7 @@
   {
     "Namespace": "c5585f75204c4cf9bc02d45ba725548e",
     "ProductSlug": "this-is-the-president",
-    "Name": "santamaria Production",
+    "Name": "This Is the President",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14665,7 +14665,7 @@
   {
     "Namespace": "0610384879594dd0b42c73e2d8af88ae",
     "ProductSlug": "moonglow-bay",
-    "Name": "Centaur",
+    "Name": "Moonglow Bay",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14689,7 +14689,7 @@
   {
     "Namespace": "fabd66e7d1764eec954cc99172bd13d8",
     "ProductSlug": "townscaper",
-    "Name": "alkaid Production",
+    "Name": "Townscaper",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14777,7 +14777,7 @@
   {
     "Namespace": "3ade24028e9247039924d3877af0a2ea",
     "ProductSlug": "what-the-golf",
-    "Name": "What The Golf?",
+    "Name": "What the Golf?",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14865,7 +14865,7 @@
   {
     "Namespace": "c2091e25d1cb42ce8fc93136ad484f05",
     "ProductSlug": "asemblance",
-    "Name": "ChromeYellow",
+    "Name": "Asemblance",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -14937,7 +14937,7 @@
   {
     "Namespace": "ef02301060454cfd8345fae625743294",
     "ProductSlug": "sands-of-aura",
-    "Name": "Scarlatti",
+    "Name": "Sands of Aura",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15161,7 +15161,7 @@
   {
     "Namespace": "1c943de0163f4f0982f34dc0fc37dce9",
     "ProductSlug": "eximius-seize-the-frontline",
-    "Name": "Munster",
+    "Name": "Eximius: Seize the Frontline",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15265,7 +15265,7 @@
   {
     "Namespace": "266c5badcfd144cbbeedd44499d85a62",
     "ProductSlug": "blade-strangers",
-    "Name": "Xenon",
+    "Name": "Blade Strangers",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15297,7 +15297,7 @@
   {
     "Namespace": "0768071d71f74091a237eacef8dd9575",
     "ProductSlug": "opera-gx-the-first-browser-for-gamers",
-    "Name": "Opera GX",
+    "Name": "Opera GX - The First Browser for Gamers",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15369,7 +15369,7 @@
   {
     "Namespace": "ec47caf26e574aa882d96fc924afc291",
     "ProductSlug": "jackbox-party-starter",
-    "Name": "ampato Production",
+    "Name": "The Jackbox Party Starter",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15417,7 +15417,7 @@
   {
     "Namespace": "1311a5735ed844c0b3c47027cab321f0",
     "ProductSlug": "doki-doki-literature-club-plus",
-    "Name": "Doki Doki Literature Club",
+    "Name": "Doki Doki Literature Club Plus!",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15489,7 +15489,7 @@
   {
     "Namespace": "05cd7449db434e1088b1c72b74849da7",
     "ProductSlug": "air-missions-hind",
-    "Name": "geitost Production",
+    "Name": "Air Missions: HIND",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15497,7 +15497,7 @@
   {
     "Namespace": "a7cada234b3840b88336f028778ff162",
     "ProductSlug": "warhammer-age-of-sigmar-storm-ground",
-    "Name": "Maize",
+    "Name": "Warhammer Age of Sigmar: Storm Ground",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15585,7 +15585,7 @@
   {
     "Namespace": "dd0212145447464cb07eb1e31899d591",
     "ProductSlug": "hammerhelm",
-    "Name": "Hammerhelm",
+    "Name": "HammerHelm",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15633,7 +15633,7 @@
   {
     "Namespace": "3b1220bb9cab4163a7262b342c396a19",
     "ProductSlug": "guild-of-ascension",
-    "Name": "Guild of Ascension",
+    "Name": "Guild Of Ascension",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15745,7 +15745,7 @@
   {
     "Namespace": "65add98d18a64e2ead3b8f05c84cba94",
     "ProductSlug": "the-red-lantern/home",
-    "Name": "Red Lantern",
+    "Name": "The Red Lantern",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15753,7 +15753,7 @@
   {
     "Namespace": "5688a1fee5204ee4968b96e70c75f50b",
     "ProductSlug": "itch-io",
-    "Name": "parmesan Production",
+    "Name": "Itch.io",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15793,7 +15793,7 @@
   {
     "Namespace": "d3278d24cdbe499cb01bbd49fc00035d",
     "ProductSlug": " skabma-snowfall",
-    "Name": "Skabma - Snowfall",
+    "Name": "Sk\u00E1bma - Snowfall",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15841,7 +15841,7 @@
   {
     "Namespace": "820e78ed3f3b4e19a715a25181a0cdd8",
     "ProductSlug": "teacup",
-    "Name": "enchilada Production",
+    "Name": "Teacup",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15857,7 +15857,7 @@
   {
     "Namespace": "259368d69ebe47089e5debe23619cf92",
     "ProductSlug": "siege-survival-gloria-victis",
-    "Name": "paganini Production",
+    "Name": "Siege Survival - Gloria Victis",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15873,7 +15873,7 @@
   {
     "Namespace": "4c5465a18cae48ed97ea6a0ba561a965",
     "ProductSlug": "of-bird-and-cage",
-    "Name": "Of Bird and Cage",
+    "Name": "Of Bird And Cage",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15897,7 +15897,7 @@
   {
     "Namespace": "a15e35cda898480d8fed214dc889f199",
     "ProductSlug": "trials-evolution",
-    "Name": "Trials Evolution",
+    "Name": "Trials Evolution: Gold Edition",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -15921,7 +15921,7 @@
   {
     "Namespace": "df9dccc5ebe4449db2300af4c061615c",
     "ProductSlug": "olija",
-    "Name": "Piano",
+    "Name": "Olija",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16073,7 +16073,7 @@
   {
     "Namespace": "5237c48ef4ca4ffa92d04464bc628a56",
     "ProductSlug": "blast-brigade",
-    "Name": "Blast Brigade",
+    "Name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16089,7 +16089,7 @@
   {
     "Namespace": "dd1a1179103041a19c85cee2ca43cd99",
     "ProductSlug": "the-count-lucanor",
-    "Name": "Vivaldi",
+    "Name": "The Count Lucanor",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16097,7 +16097,7 @@
   {
     "Namespace": "656bd7c2e76b46d2a1b9b4f247e813f5",
     "ProductSlug": "eastward",
-    "Name": "ankaa",
+    "Name": "Eastward",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16145,7 +16145,7 @@
   {
     "Namespace": "2006dc40bd22412d8c0167f8f738a17d",
     "ProductSlug": "boyfriend-dungeon",
-    "Name": "maryland Production",
+    "Name": "Boyfriend Dungeon",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16265,7 +16265,7 @@
   {
     "Namespace": "38d778eab1134c7f9bc4e0e5747b3ea4",
     "ProductSlug": "time-loader",
-    "Name": "ketchikan Production",
+    "Name": "Time Loader",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16305,7 +16305,7 @@
   {
     "Namespace": "047ee5c9350245588f043061fb0279ab",
     "ProductSlug": "ghost-recon-future-soldier/home",
-    "Name": "Burmilla",
+    "Name": "Ghost Recon Future Soldier",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16361,7 +16361,7 @@
   {
     "Namespace": "4d913aeb07a14a5a9214c6e4f8c5b4ff",
     "ProductSlug": "the-magnificent-trufflepigs",
-    "Name": "mystic Production",
+    "Name": "The Magnificent Trufflepigs",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16417,7 +16417,7 @@
   {
     "Namespace": "9f98514084e744ab9c995bdad3950ebb",
     "ProductSlug": "clid-the-snail",
-    "Name": "Clid the Snail",
+    "Name": "Clid The Snail",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16441,7 +16441,7 @@
   {
     "Namespace": "5fb8093984924ff5bfad61ae28730818",
     "ProductSlug": "behind-the-frame-the-finest-scenery",
-    "Name": "mindaro Production",
+    "Name": "Behind the Frame: The Finest Scenery",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16465,7 +16465,7 @@
   {
     "Namespace": "c9e311e119034b25a02ed1ebfdffc0d1",
     "ProductSlug": "anno-2070",
-    "Name": "Huchen",
+    "Name": "Anno 2070",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16505,7 +16505,7 @@
   {
     "Namespace": "c22a84689e1a4ad083b2b4ba0ee396f4",
     "ProductSlug": "icewind-dale-enhanced-edition",
-    "Name": "Icewind Dale Enhanced Edition",
+    "Name": "Icewind Dale: Enhanced Edition",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16529,7 +16529,7 @@
   {
     "Namespace": "5347bcc794bd43bab139e41d04e6271b",
     "ProductSlug": "the-vale-shadow-of-the-crown",
-    "Name": "alphard Production",
+    "Name": "The Vale: Shadow of the Crown",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16545,7 +16545,7 @@
   {
     "Namespace": "8b295f51366545f4b331ec581f4aa7d9",
     "ProductSlug": "blaster-master-zero-3",
-    "Name": "mulberry Production",
+    "Name": "Blaster Master Zero 3",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16625,7 +16625,7 @@
   {
     "Namespace": "ea533c2d54754167a9392a2ffa61bb87",
     "ProductSlug": "lego-builders-journey",
-    "Name": "LEGO Builders Journey",
+    "Name": "LEGO\u00AE Builder\u0027s Journey",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16689,7 +16689,7 @@
   {
     "Namespace": "ff9c7b46378a471a9b7291512b025f57",
     "ProductSlug": "defend-the-rook",
-    "Name": "arizona Production",
+    "Name": "Defend the Rook",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16721,7 +16721,7 @@
   {
     "Namespace": "48175747d7244b11838935da9193668d",
     "ProductSlug": "neon-city-riders",
-    "Name": "cadmiumgreen Production",
+    "Name": "Neon City Riders Super-powered Edition",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16873,7 +16873,7 @@
   {
     "Namespace": "6a50e1ce4d1a4666ba51e31a351b0947",
     "ProductSlug": "breakout-recharged",
-    "Name": "auburn Production",
+    "Name": "Breakout: Recharged",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -16881,7 +16881,7 @@
   {
     "Namespace": "32abd33853124831b522d7412a7457c6",
     "ProductSlug": "legend-of-grimrock-2",
-    "Name": "Legend of Grimrock 2",
+    "Name": "Legend Of Grimrock 2",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17017,7 +17017,7 @@
   {
     "Namespace": "a861a0cf27d74d85ad7c3fbcf9e2af42",
     "ProductSlug": "pascals-wager",
-    "Name": "Pascal\u0027s Wager: Definitive Edition",
+    "Name": "Pascal\u0027s Wager",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17041,7 +17041,7 @@
   {
     "Namespace": "591075eb5c4547bd9d490edb66f1dde4",
     "ProductSlug": null,
-    "Name": "Sacramento",
+    "Name": "N0va Desktop",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17089,7 +17089,7 @@
   {
     "Namespace": "e6b91350d2734c3b94dc6add87d004f0",
     "ProductSlug": "truberbrook",
-    "Name": "Truberbrook",
+    "Name": "Tr\u00FCberbrook",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17137,7 +17137,7 @@
   {
     "Namespace": "0558e58003aa447a8ace48c3a0d53b54",
     "ProductSlug": "down-in-bermuda",
-    "Name": "Quinn",
+    "Name": "Down in Bermuda",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17289,7 +17289,7 @@
   {
     "Namespace": "9070f19d29354e45abf338e566da7ced",
     "ProductSlug": "foreclosed",
-    "Name": "Foreclosed",
+    "Name": "FORECLOSED",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17297,7 +17297,7 @@
   {
     "Namespace": "b258cb25f6cc4031914256c2d42b2188",
     "ProductSlug": "the-world-next-door/home",
-    "Name": "Torshavn",
+    "Name": "The World Next Door",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17305,7 +17305,7 @@
   {
     "Namespace": "16c882e1ebdc4212b75b9d59c30b08f0",
     "ProductSlug": "asteroids-recharged",
-    "Name": "beaublue Production",
+    "Name": "Asteroids: Recharged",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17313,7 +17313,7 @@
   {
     "Namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
     "ProductSlug": "scrapnaut",
-    "Name": "Oscar",
+    "Name": "Scrapnaut",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17417,7 +17417,7 @@
   {
     "Namespace": "f072e6427226424f8e1e4b7e3b727653",
     "ProductSlug": "away-the-survival-series",
-    "Name": "taleggio Production",
+    "Name": "AWAY: The Survival Series",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17465,7 +17465,7 @@
   {
     "Namespace": "8bd7d123bc59474ebb2552793dc0fdbb",
     "ProductSlug": "wytchwood",
-    "Name": "cinnabar Production",
+    "Name": "Wytchwood",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17521,7 +17521,7 @@
   {
     "Namespace": "9c5bbf5fa33d410b955b857c58f41c5c",
     "ProductSlug": "3-out-of-10-ep-2",
-    "Name": "3 Out of 10 Episode 2: Foundation 101",
+    "Name": "3 out of 10, EP 2: \u0022Foundation 101\u0022",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17561,7 +17561,7 @@
   {
     "Namespace": "03fd634dc7f24662ac5545277b89a826",
     "ProductSlug": "the-uncertain-light-at-the-end",
-    "Name": "The Uncertain: Light at the End",
+    "Name": "The Uncertain: Light At The End",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17593,7 +17593,7 @@
   {
     "Namespace": "11ec8e91ffa540c7a294501d9754b315",
     "ProductSlug": "secret-government",
-    "Name": "Juliet",
+    "Name": "Secret Government",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17601,7 +17601,7 @@
   {
     "Namespace": "2e3f985557c146e0a23886b35e19f72f",
     "ProductSlug": "the-last-show-of-mr-chardish",
-    "Name": "Ming",
+    "Name": "The Last Show of Mr. Chardish",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17617,7 +17617,7 @@
   {
     "Namespace": "2cb0f22cc9db4ecba89d0774512294ff",
     "ProductSlug": "a-jugglers-tale",
-    "Name": "Elara",
+    "Name": "A Jugglers Tale",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
@@ -17689,7 +17689,7 @@
   {
     "Namespace": "da9399071b4949f1a0c134528da61816",
     "ProductSlug": "golazo",
-    "Name": "orzo Production",
+    "Name": "Golazo",
     "Rating": null,
     "NumberOfRatings": null,
     "Tags": []
