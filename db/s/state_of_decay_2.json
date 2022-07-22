@@ -1,0 +1,66 @@
+{
+  "ID": "11eb2ae2943641b498efb54501511b86",
+  "Name": "State of Decay 2",
+  "ProductSlug": null,
+  "Rating": 4.72,
+  "NumberOfRatings": 662,
+  "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
+  "LastChanged": "2022-07-22T20:20:15.4995459+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:15.4995461+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 662
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 62
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 56
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 53
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 49
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 47
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 43
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 43
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 37
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 33
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 20
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
+  "Name": "Weird West",
+  "ProductSlug": null,
+  "Rating": 4.4,
+  "NumberOfRatings": 85,
+  "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
+  "LastChanged": "2022-07-22T20:30:17.2064589+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:30:17.206459+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 85
+    }
+  ],
+  "Tags": []
+}

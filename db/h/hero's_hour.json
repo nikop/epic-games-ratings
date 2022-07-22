@@ -1,0 +1,17 @@
+{
+  "ID": "597b081ce3ab4e0bba952ed03d3fe150",
+  "Name": "Hero\u0027s Hour",
+  "ProductSlug": null,
+  "Rating": 4.33,
+  "NumberOfRatings": 24,
+  "FirstSeen": "2022-07-22T20:25:59.0417581+00:00",
+  "LastChanged": "2022-07-22T20:25:59.0417583+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:25:59.0417584+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 24
+    }
+  ],
+  "Tags": []
+}

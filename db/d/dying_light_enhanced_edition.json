@@ -1,0 +1,75 @@
+{
+  "ID": "2c42520d342a46d7a6e0cfa77b4715de",
+  "Name": "Dying Light Enhanced Edition",
+  "ProductSlug": null,
+  "Rating": 4.75,
+  "NumberOfRatings": 1626,
+  "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
+  "LastChanged": "2022-07-22T20:39:41.6793726+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:18:05.0678134+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 1624
+    },
+    {
+      "Time": "2022-07-22T20:39:41.6793728+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 1626
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 899
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 624
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 123
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 119
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 113
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 108
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 108
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 108
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 102
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 107
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 97
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 90
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 80
+    }
+  ]
+}

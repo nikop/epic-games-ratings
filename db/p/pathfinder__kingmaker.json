@@ -1,0 +1,67 @@
+{
+  "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
+  "Name": "Pathfinder: Kingmaker",
+  "ProductSlug": null,
+  "Rating": 4.56,
+  "NumberOfRatings": 2061,
+  "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
+  "LastChanged": "2022-07-22T21:04:17.0304344+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:24:35.6101886+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 2053
+    },
+    {
+      "Time": "2022-07-22T21:04:17.0304346+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 2061
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 798
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 456
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 56
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 50
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 51
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 48
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 48
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 46
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 45
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 40
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 20
+    }
+  ]
+}
