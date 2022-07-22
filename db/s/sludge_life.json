@@ -3,14 +3,19 @@
   "Name": "Sludge Life",
   "ProductSlug": null,
   "Rating": 4.7,
-  "NumberOfRatings": 82,
+  "NumberOfRatings": 83,
   "FirstSeen": "2022-07-22T20:20:12.4151557+00:00",
-  "LastChanged": "2022-07-22T20:20:12.4151558+00:00",
+  "LastChanged": "2022-07-22T22:01:48.1507762+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:12.4151559+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 82
+    },
+    {
+      "Time": "2022-07-22T22:01:48.1507764+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 83
     }
   ],
   "Tags": []

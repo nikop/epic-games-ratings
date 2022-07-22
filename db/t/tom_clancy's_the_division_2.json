@@ -2,10 +2,10 @@
   "ID": "impala",
   "Name": "Tom Clancy\u0027s The Division 2",
   "ProductSlug": null,
-  "Rating": 4.4,
-  "NumberOfRatings": 4151,
+  "Rating": 4.41,
+  "NumberOfRatings": 4155,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-07-22T20:41:30.0393162+00:00",
+  "LastChanged": "2022-07-22T22:02:35.9615912+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T20:41:30.0393164+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 4151
+    },
+    {
+      "Time": "2022-07-22T22:02:35.9615913+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 4155
     }
   ],
   "Tags": [
@@ -41,7 +46,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 152
+      "Count": 157
     },
     {
       "Text": "This game has Amazing Storytelling",

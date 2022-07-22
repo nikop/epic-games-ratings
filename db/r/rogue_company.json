@@ -3,9 +3,9 @@
   "Name": "Rogue Company",
   "ProductSlug": null,
   "Rating": 4.36,
-  "NumberOfRatings": 12246,
+  "NumberOfRatings": 12252,
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2022-07-22T21:18:03.8049125+00:00",
+  "LastChanged": "2022-07-22T22:00:19.5786529+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:58.1519568+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T21:18:03.8049127+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 12246
+    },
+    {
+      "Time": "2022-07-22T22:00:19.5786531+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 12252
     }
   ],
   "Tags": [
@@ -49,7 +54,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 536
+      "Count": 562
     }
   ]
 }

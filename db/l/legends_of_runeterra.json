@@ -3,14 +3,19 @@
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
   "Rating": 4.64,
-  "NumberOfRatings": 219,
+  "NumberOfRatings": 220,
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2022-07-22T20:20:06.6748124+00:00",
+  "LastChanged": "2022-07-22T22:01:45.9852865+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:06.6748126+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 219
+    },
+    {
+      "Time": "2022-07-22T22:01:45.9852866+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 220
     }
   ],
   "Tags": [
