@@ -2,10 +2,16 @@
   "ID": "c9d0a59bf89c45ceadc5960d6bc1ae4c",
   "Name": "Strange Horticulture",
   "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4.65,
+  "NumberOfRatings": 20,
   "FirstSeen": "2022-07-22T20:19:11.8440363+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-22T23:01:24.8723842+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T23:01:24.8723844+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

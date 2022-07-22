@@ -3,14 +3,19 @@
   "Name": "State of Decay 2",
   "ProductSlug": null,
   "Rating": 4.72,
-  "NumberOfRatings": 662,
+  "NumberOfRatings": 667,
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2022-07-22T20:20:15.4995459+00:00",
+  "LastChanged": "2022-07-22T23:01:48.2522443+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:15.4995461+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 662
+    },
+    {
+      "Time": "2022-07-22T23:01:48.2522444+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 667
     }
   ],
   "Tags": [
@@ -56,7 +61,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has a Creative Community",
