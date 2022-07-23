@@ -3,10 +3,10 @@
   "Name": "Mechwarrior 5",
   "ProductSlug": null,
   "Rating": 4.61,
-  "NumberOfRatings": 2836,
-  "DailyRatings": 54.33,
+  "NumberOfRatings": 2840,
+  "DailyRatings": 52.91,
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2022-07-23T11:47:23.1784895+00:00",
+  "LastChanged": "2022-07-23T14:01:07.5767014+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.936698+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T11:47:23.1784952+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 2836
+    },
+    {
+      "Time": "2022-07-23T14:01:07.5767015+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 2840
     }
   ],
   "Tags": [
@@ -70,7 +75,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 125
+      "Count": 129
     }
   ]
 }

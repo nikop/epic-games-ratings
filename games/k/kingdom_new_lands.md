@@ -1,8 +1,8 @@
 # Kingdom New Lands
-Rating: 4.48 (897)  
-Ratings Per Day: 20.97  
+Rating: 4.48 (900)  
+Ratings Per Day: 20.47  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-07-22 | 4.48 | 887 |
-| 2022-07-23 | 4.48 | 897 |
+| 2022-07-23 | 4.48 | 900 |

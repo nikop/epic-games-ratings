@@ -3,15 +3,20 @@
   "Name": "We Were Here Forever",
   "ProductSlug": "we-were-here-forever",
   "Rating": 4.71,
-  "NumberOfRatings": 75,
-  "DailyRatings": 0,
+  "NumberOfRatings": 76,
+  "DailyRatings": 1.35,
   "FirstSeen": "2022-07-22T20:17:15.5524229+00:00",
-  "LastChanged": "2022-07-22T20:17:15.5524233+00:00",
+  "LastChanged": "2022-07-23T14:00:49.2135694+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:15.5524233+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 75
+    },
+    {
+      "Time": "2022-07-23T14:00:49.2135696+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 76
     }
   ],
   "Tags": []
