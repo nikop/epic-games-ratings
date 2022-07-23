@@ -1,6 +1,6 @@
 # House Flipper
 Rating: 4.75 (614)  
-Ratings Per Day: 6.39  
+Ratings Per Day: 6.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

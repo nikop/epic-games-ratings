@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.7,
   "NumberOfRatings": 4798,
-  "DailyRatings": 85.8,
+  "DailyRatings": 87.49,
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "LastChanged": "2022-07-23T11:06:10.9018395+00:00",
   "RatingHistory": [
@@ -51,7 +51,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1429
+      "Count": 1469
     },
     {
       "Text": "This game is Highly Recommended",
@@ -67,7 +67,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 347
+      "Count": 362
     },
     {
       "Text": "This game is Educational",

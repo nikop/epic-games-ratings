@@ -1,6 +1,6 @@
 # The Dungeon Of Naheulbeuk: The Amulet Of Chaos
 Rating: 4.78 (69)  
-Ratings Per Day: 1.59  
+Ratings Per Day: 3.11  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

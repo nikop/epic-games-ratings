@@ -1,6 +1,6 @@
 # Martha Is Dead
 Rating: 4.20 (25)  
-Ratings Per Day: 4.77  
+Ratings Per Day: 8.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

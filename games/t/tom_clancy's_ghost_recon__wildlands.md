@@ -1,6 +1,6 @@
 # Tom Clancy's Ghost Recon: Wildlands
 Rating: 4.53 (486)  
-Ratings Per Day: 1.59  
+Ratings Per Day: 2.05  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
