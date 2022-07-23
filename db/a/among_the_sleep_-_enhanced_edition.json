@@ -3,14 +3,19 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Rating": 4.4,
-  "NumberOfRatings": 166,
+  "NumberOfRatings": 169,
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
-  "LastChanged": "2022-07-22T20:22:15.2545477+00:00",
+  "LastChanged": "2022-07-23T04:02:26.7069813+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:15.2545478+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 166
+    },
+    {
+      "Time": "2022-07-23T04:02:26.7069814+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 169
     }
   ],
   "Tags": []

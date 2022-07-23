@@ -3,9 +3,9 @@
   "Name": "Pathfinder: Kingmaker",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 2063,
+  "NumberOfRatings": 2073,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-07-22T22:29:08.9984431+00:00",
+  "LastChanged": "2022-07-23T04:03:13.0730814+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -21,6 +21,11 @@
       "Time": "2022-07-22T22:29:08.9984432+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 2063
+    },
+    {
+      "Time": "2022-07-23T04:03:13.0730816+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 2073
     }
   ],
   "Tags": [
@@ -54,11 +59,11 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 46
+      "Count": 50
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 45
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",

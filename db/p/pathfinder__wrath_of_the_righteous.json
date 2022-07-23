@@ -3,9 +3,9 @@
   "Name": "Pathfinder: Wrath of the Righteous",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 755,
+  "NumberOfRatings": 756,
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
-  "LastChanged": "2022-07-23T01:01:14.1423889+00:00",
+  "LastChanged": "2022-07-23T04:01:29.778735+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:10.6085612+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-23T01:01:14.142389+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 755
+    },
+    {
+      "Time": "2022-07-23T04:01:29.7787417+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 756
     }
   ],
   "Tags": [
