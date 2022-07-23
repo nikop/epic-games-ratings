@@ -2,11 +2,11 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d/home",
-  "Rating": 4.48,
-  "NumberOfRatings": 269,
-  "DailyRatings": 8.77,
+  "Rating": 4.47,
+  "NumberOfRatings": 270,
+  "DailyRatings": 8.59,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-07-23T10:00:52.1106332+00:00",
+  "LastChanged": "2022-07-23T13:05:02.3169249+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T10:00:52.1106333+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 269
+    },
+    {
+      "Time": "2022-07-23T13:05:02.3169251+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 270
     }
   ],
   "Tags": []

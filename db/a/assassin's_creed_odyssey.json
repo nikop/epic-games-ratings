@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Odyssey",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 3174,
-  "DailyRatings": 33.4,
+  "NumberOfRatings": 3181,
+  "DailyRatings": 37.33,
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2022-07-23T10:01:28.5533866+00:00",
+  "LastChanged": "2022-07-23T13:05:23.39901+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:24.6932881+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T10:01:28.5533881+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 3174
+    },
+    {
+      "Time": "2022-07-23T13:05:23.3990131+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 3181
     }
   ],
   "Tags": [

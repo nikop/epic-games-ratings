@@ -3,21 +3,26 @@
   "Name": "Tetris\u00AE Effect",
   "ProductSlug": "tetris-effect/home",
   "Rating": 4.84,
-  "NumberOfRatings": 172,
-  "DailyRatings": 0,
+  "NumberOfRatings": 173,
+  "DailyRatings": 1.43,
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2022-07-22T20:17:49.1950132+00:00",
+  "LastChanged": "2022-07-23T13:04:49.5383564+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:49.1950133+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 172
+    },
+    {
+      "Time": "2022-07-23T13:04:49.5383566+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 173
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 51
+      "Count": 55
     }
   ]
 }

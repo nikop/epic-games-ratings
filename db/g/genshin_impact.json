@@ -3,10 +3,10 @@
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
   "Rating": 4.71,
-  "NumberOfRatings": 130024,
-  "DailyRatings": 1605.9,
+  "NumberOfRatings": 130191,
+  "DailyRatings": 1655.82,
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2022-07-23T11:06:56.7770683+00:00",
+  "LastChanged": "2022-07-23T13:05:33.0789648+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-23T11:06:56.7770683+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 130024
+    },
+    {
+      "Time": "2022-07-23T13:05:33.0789649+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 130191
     }
   ],
   "Tags": [
@@ -89,7 +94,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 9519
+      "Count": 9875
     },
     {
       "Text": "This game is Relaxing",

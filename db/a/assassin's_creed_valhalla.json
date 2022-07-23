@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Valhalla",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 7200,
-  "DailyRatings": 102.05,
+  "NumberOfRatings": 7209,
+  "DailyRatings": 104.71,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2022-07-23T11:24:25.5625586+00:00",
+  "LastChanged": "2022-07-23T13:05:15.3535787+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T11:24:25.5625589+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 7200
+    },
+    {
+      "Time": "2022-07-23T13:05:15.3535788+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 7209
     }
   ],
   "Tags": [
@@ -70,7 +75,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 111
+      "Count": 118
     },
     {
       "Text": "This game is Extremely Fun",

@@ -2,16 +2,21 @@
   "ID": "23f3da2016b94461a7bd7e2eb46aa0f9",
   "Name": "Sherlock Holmes: Crimes and Punishments",
   "ProductSlug": "sherlock-holmes-crimes-and-punishments/home",
-  "Rating": 4.36,
-  "NumberOfRatings": 216,
-  "DailyRatings": 0,
+  "Rating": 4.35,
+  "NumberOfRatings": 220,
+  "DailyRatings": 5.76,
   "FirstSeen": "2022-07-22T20:25:12.9656224+00:00",
-  "LastChanged": "2022-07-22T20:25:12.9656225+00:00",
+  "LastChanged": "2022-07-23T13:05:44.8795161+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:12.9656226+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 216
+    },
+    {
+      "Time": "2022-07-23T13:05:44.8795163+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 220
     }
   ],
   "Tags": []
