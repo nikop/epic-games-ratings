@@ -3,9 +3,9 @@
   "Name": "Hyper Light Drifter",
   "ProductSlug": "hyper-light-drifter/home",
   "Rating": 4.77,
-  "NumberOfRatings": 166,
+  "NumberOfRatings": 168,
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
-  "LastChanged": "2022-07-22T20:42:44.2237379+00:00",
+  "LastChanged": "2022-07-23T05:03:01.6816412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:03.8483862+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T20:42:44.2237381+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 166
+    },
+    {
+      "Time": "2022-07-23T05:03:01.6816413+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 168
     }
   ],
   "Tags": []

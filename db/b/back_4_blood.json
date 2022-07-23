@@ -3,9 +3,9 @@
   "Name": "Back 4 Blood",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 1679,
+  "NumberOfRatings": 1680,
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2022-07-23T03:03:02.3611911+00:00",
+  "LastChanged": "2022-07-23T05:02:36.8160705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.3101252+00:00",
@@ -26,12 +26,17 @@
       "Time": "2022-07-23T03:03:02.3611912+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 1679
+    },
+    {
+      "Time": "2022-07-23T05:02:36.8160706+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 1680
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 918
+      "Count": 934
     },
     {
       "Text": "This game is Relaxing",

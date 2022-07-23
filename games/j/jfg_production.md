@@ -1,6 +1,5 @@
-# Darkest Dungeon II
+# jfg Production
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-07-22 | 4,7 | 4573 |
-| 2022-07-23 | 4,7 | 4588 |
+| 2022-07-23 | 4,5 | 20 |
