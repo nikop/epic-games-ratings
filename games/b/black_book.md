@@ -1,4 +1,4 @@
-# black book
+# Black Book
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

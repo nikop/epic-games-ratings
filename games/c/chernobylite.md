@@ -1,4 +1,4 @@
-# chernobylite
+# Chernobylite
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,4 +1,4 @@
-# obduction
+# Obduction
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

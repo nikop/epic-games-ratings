@@ -1,4 +1,4 @@
-# trackmania
+# Trackmania
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

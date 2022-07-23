@@ -1,4 +1,4 @@
-# tharsis
+# Tharsis
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

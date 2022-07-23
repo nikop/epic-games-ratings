@@ -1,4 +1,4 @@
-# relicta
+# Relicta
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

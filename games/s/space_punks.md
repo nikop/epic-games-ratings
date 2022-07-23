@@ -1,4 +1,4 @@
-# space punks
+# Space Punks
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

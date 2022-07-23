@@ -1,0 +1,82 @@
+{
+  "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
+  "Name": "Total War: WARHAMMER II",
+  "ProductSlug": "total-war-warhammer-ii",
+  "Rating": 4.84,
+  "NumberOfRatings": 697,
+  "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
+  "LastChanged": "2022-07-23T10:00:16.4151348+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:16:56.1200639+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 687
+    },
+    {
+      "Time": "2022-07-22T21:25:44.3360328+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 689
+    },
+    {
+      "Time": "2022-07-23T06:00:15.4285442+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 693
+    },
+    {
+      "Time": "2022-07-23T07:23:47.8817416+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 696
+    },
+    {
+      "Time": "2022-07-23T10:00:16.415135+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 697
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 476
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 120
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 109
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 102
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 106
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 101
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 99
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 98
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 104
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 90
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 71
+    }
+  ]
+}

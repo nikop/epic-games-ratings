@@ -1,4 +1,4 @@
-# Valorant
+# VALORANT
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

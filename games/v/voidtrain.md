@@ -1,4 +1,4 @@
-# voidtrain
+# Voidtrain
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
