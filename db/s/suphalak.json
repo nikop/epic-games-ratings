@@ -3,9 +3,9 @@
   "Name": "Suphalak",
   "ProductSlug": "total-war-warhammer-ii",
   "Rating": 4.84,
-  "NumberOfRatings": 693,
+  "NumberOfRatings": 696,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-07-23T06:00:15.428544+00:00",
+  "LastChanged": "2022-07-23T07:23:47.8817415+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -21,12 +21,17 @@
       "Time": "2022-07-23T06:00:15.4285442+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 693
+    },
+    {
+      "Time": "2022-07-23T07:23:47.8817416+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 696
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 464
+      "Count": 476
     },
     {
       "Text": "This game has Diverse Characters",
@@ -34,7 +39,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 107
+      "Count": 109
     },
     {
       "Text": "This game has Challenging Combat",
@@ -62,7 +67,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 87
+      "Count": 90
     },
     {
       "Text": "This game has a Creative Community",

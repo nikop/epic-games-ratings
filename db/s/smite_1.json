@@ -3,9 +3,9 @@
   "Name": "Smite",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 4485,
+  "NumberOfRatings": 4489,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-07-23T05:01:02.1359791+00:00",
+  "LastChanged": "2022-07-23T07:24:21.5671258+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -26,6 +26,11 @@
       "Time": "2022-07-23T05:01:02.1359792+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 4485
+    },
+    {
+      "Time": "2022-07-23T07:24:21.5671259+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 4489
     }
   ],
   "Tags": [
@@ -63,7 +68,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 414
+      "Count": 427
     }
   ]
 }

@@ -2,15 +2,20 @@
   "ID": "d0545b136bb042fb9014e72b6af748f6",
   "Name": "Ghostbusters: The Video Game Remastered",
   "ProductSlug": "ghostbusters-the-video-game-remastered/home",
-  "Rating": 4.45,
-  "NumberOfRatings": 200,
+  "Rating": 4.44,
+  "NumberOfRatings": 204,
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
-  "LastChanged": "2022-07-22T20:21:54.5305969+00:00",
+  "LastChanged": "2022-07-23T07:25:29.0304686+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:54.530597+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 200
+    },
+    {
+      "Time": "2022-07-23T07:25:29.0304687+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 204
     }
   ],
   "Tags": [

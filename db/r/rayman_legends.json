@@ -2,15 +2,20 @@
   "ID": "fc8d1547232045f6a23257cfd04ef3e8",
   "Name": "Rayman Legends",
   "ProductSlug": "rayman-legends/home",
-  "Rating": 4.66,
-  "NumberOfRatings": 171,
+  "Rating": 4.68,
+  "NumberOfRatings": 180,
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2022-07-22T20:31:21.8622946+00:00",
+  "LastChanged": "2022-07-23T07:28:31.4259503+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:21.8622947+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 171
+    },
+    {
+      "Time": "2022-07-23T07:28:31.4259504+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 180
     }
   ],
   "Tags": [
