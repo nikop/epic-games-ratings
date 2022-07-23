@@ -3,10 +3,10 @@
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
   "Rating": 4.89,
-  "NumberOfRatings": 17832,
-  "DailyRatings": 214.72,
+  "NumberOfRatings": 17879,
+  "DailyRatings": 225.99,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2022-07-23T11:47:41.4491613+00:00",
+  "LastChanged": "2022-07-23T16:01:02.0454872+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:11.7040588+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T11:47:41.4491613+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 17832
+    },
+    {
+      "Time": "2022-07-23T16:01:02.0454873+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 17879
     }
   ],
   "Tags": [
@@ -46,7 +51,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1557
+      "Count": 1594
     },
     {
       "Text": "This game is Relaxing",
@@ -70,11 +75,11 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 1333
+      "Count": 1374
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 1188
+      "Count": 1222
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -82,7 +87,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1037
+      "Count": 1068
     }
   ]
 }

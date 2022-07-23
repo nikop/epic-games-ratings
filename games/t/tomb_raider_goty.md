@@ -1,8 +1,8 @@
 # Tomb Raider GOTY
-Rating: 4.67 (9 712)  
-Ratings Per Day: 183.36  
+Rating: 4.67 (9 733)  
+Ratings Per Day: 190.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-07-22 | 4.67 | 9 577 |
-| 2022-07-23 | 4.67 | 9 712 |
+| 2022-07-23 | 4.67 | 9 733 |

@@ -2,16 +2,21 @@
   "ID": "clover",
   "Name": "Little Inferno",
   "ProductSlug": "little-inferno/home",
-  "Rating": 4.58,
-  "NumberOfRatings": 26,
-  "DailyRatings": 0,
+  "Rating": 4.61,
+  "NumberOfRatings": 28,
+  "DailyRatings": 2.46,
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
-  "LastChanged": "2022-07-22T20:29:23.1362483+00:00",
+  "LastChanged": "2022-07-23T16:01:54.1479452+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:23.1362484+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-07-23T16:01:54.1479453+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 28
     }
   ],
   "Tags": []

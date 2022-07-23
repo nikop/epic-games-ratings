@@ -2,16 +2,21 @@
   "ID": "e901b6ea77454b0e9d944976a975165c",
   "Name": "Rogue Lords",
   "ProductSlug": null,
-  "Rating": 4.58,
-  "NumberOfRatings": 26,
-  "DailyRatings": 0,
+  "Rating": 4.61,
+  "NumberOfRatings": 28,
+  "DailyRatings": 2.44,
   "FirstSeen": "2022-07-22T20:17:30.3189892+00:00",
-  "LastChanged": "2022-07-22T20:17:30.3189893+00:00",
+  "LastChanged": "2022-07-23T16:00:14.7659928+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:30.3189894+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-07-23T16:00:14.7659929+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 28
     }
   ],
   "Tags": []

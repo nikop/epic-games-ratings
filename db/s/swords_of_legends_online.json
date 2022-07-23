@@ -2,11 +2,11 @@
   "ID": "025f0740981e4902a0cc7e1f1d92dd13",
   "Name": "Swords of Legends Online",
   "ProductSlug": null,
-  "Rating": 4.3,
-  "NumberOfRatings": 162,
-  "DailyRatings": 5.28,
+  "Rating": 4.29,
+  "NumberOfRatings": 163,
+  "DailyRatings": 4.89,
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2022-07-23T10:01:40.8497987+00:00",
+  "LastChanged": "2022-07-23T16:01:10.6450293+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:20.3020948+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T10:01:40.8497988+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 162
+    },
+    {
+      "Time": "2022-07-23T16:01:10.6450298+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 163
     }
   ],
   "Tags": [
@@ -26,7 +31,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 28
+      "Count": 29
     }
   ]
 }

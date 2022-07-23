@@ -3,15 +3,20 @@
   "Name": "Mutant Year Zero",
   "ProductSlug": null,
   "Rating": 4.51,
-  "NumberOfRatings": 944,
-  "DailyRatings": 0,
+  "NumberOfRatings": 959,
+  "DailyRatings": 18.4,
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2022-07-22T20:27:31.3944407+00:00",
+  "LastChanged": "2022-07-23T16:01:41.5939215+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.3944409+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 944
+    },
+    {
+      "Time": "2022-07-23T16:01:41.5939216+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 959
     }
   ],
   "Tags": [

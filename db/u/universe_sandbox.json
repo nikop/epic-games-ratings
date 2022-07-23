@@ -2,16 +2,21 @@
   "ID": "b42434df8847448c93022ce9c46feec1",
   "Name": "Universe Sandbox",
   "ProductSlug": "universe-sandbox",
-  "Rating": 4.58,
-  "NumberOfRatings": 36,
-  "DailyRatings": 0,
+  "Rating": 4.59,
+  "NumberOfRatings": 37,
+  "DailyRatings": 1.22,
   "FirstSeen": "2022-07-22T20:23:26.3960335+00:00",
-  "LastChanged": "2022-07-22T20:23:26.3960336+00:00",
+  "LastChanged": "2022-07-23T16:01:11.3080676+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:26.3960337+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-07-23T16:01:11.3080677+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 37
     }
   ],
   "Tags": []

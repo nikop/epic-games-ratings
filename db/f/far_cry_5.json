@@ -3,10 +3,10 @@
   "Name": "Far Cry 5",
   "ProductSlug": null,
   "Rating": 4.62,
-  "NumberOfRatings": 917,
-  "DailyRatings": 22.74,
+  "NumberOfRatings": 932,
+  "DailyRatings": 20.74,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-07-22T22:27:27.6566753+00:00",
+  "LastChanged": "2022-07-23T16:00:51.5442409+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -17,12 +17,17 @@
       "Time": "2022-07-22T22:27:27.6566819+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 917
+    },
+    {
+      "Time": "2022-07-23T16:00:51.544241+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 932
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 232
+      "Count": 239
     }
   ]
 }

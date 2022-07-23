@@ -3,10 +3,10 @@
   "Name": "Anno 1800",
   "ProductSlug": null,
   "Rating": 4.83,
-  "NumberOfRatings": 2176,
-  "DailyRatings": 54.18,
+  "NumberOfRatings": 2178,
+  "DailyRatings": 51.15,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-07-23T14:00:53.854531+00:00",
+  "LastChanged": "2022-07-23T16:00:17.2116793+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T14:00:53.8545312+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 2176
+    },
+    {
+      "Time": "2022-07-23T16:00:17.2116797+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 2178
     }
   ],
   "Tags": [
@@ -46,7 +51,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 146
+      "Count": 149
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -2,16 +2,21 @@
   "ID": "6cec00f8934146508b884b0f139d55d0",
   "Name": "Superliminal",
   "ProductSlug": null,
-  "Rating": 4.75,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.76,
+  "NumberOfRatings": 21,
+  "DailyRatings": 1.22,
   "FirstSeen": "2022-07-22T20:17:46.1254178+00:00",
-  "LastChanged": "2022-07-22T20:17:46.125418+00:00",
+  "LastChanged": "2022-07-23T16:00:17.0958809+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:46.1254181+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-07-23T16:00:17.095881+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
   "ProductSlug": null,
-  "Rating": 4.34,
-  "NumberOfRatings": 211,
-  "DailyRatings": 6.5,
+  "Rating": 4.33,
+  "NumberOfRatings": 212,
+  "DailyRatings": 4.88,
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2022-07-23T07:24:59.8201317+00:00",
+  "LastChanged": "2022-07-23T16:00:49.1778208+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T07:24:59.8201318+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 211
+    },
+    {
+      "Time": "2022-07-23T16:00:49.177821+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 212
     }
   ],
   "Tags": []

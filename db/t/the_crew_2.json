@@ -3,10 +3,10 @@
   "Name": "The Crew 2",
   "ProductSlug": null,
   "Rating": 4.65,
-  "NumberOfRatings": 957,
-  "DailyRatings": 12.33,
+  "NumberOfRatings": 958,
+  "DailyRatings": 9.79,
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2022-07-23T10:01:49.3052888+00:00",
+  "LastChanged": "2022-07-23T16:01:15.4511967+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:02.2131055+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-23T10:01:49.3052889+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 957
+    },
+    {
+      "Time": "2022-07-23T16:01:15.4511968+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 958
     }
   ],
   "Tags": [
