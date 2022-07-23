@@ -3,9 +3,9 @@
   "Name": "Salt \u0026 Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
   "Rating": 4.28,
-  "NumberOfRatings": 1493,
+  "NumberOfRatings": 1498,
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-07-22T20:42:13.6863282+00:00",
+  "LastChanged": "2022-07-23T02:02:48.7410833+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T20:42:13.6863284+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 1493
+    },
+    {
+      "Time": "2022-07-23T02:02:48.7410835+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 1498
     }
   ],
   "Tags": [

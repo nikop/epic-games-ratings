@@ -3,9 +3,9 @@
   "Name": "BioShock Infinite: Complete Edition",
   "ProductSlug": "bioshock-infinite-complete-edition",
   "Rating": 4.69,
-  "NumberOfRatings": 12051,
+  "NumberOfRatings": 12058,
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2022-07-23T01:01:45.2249035+00:00",
+  "LastChanged": "2022-07-23T02:01:39.4495214+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.6159256+00:00",
@@ -21,6 +21,11 @@
       "Time": "2022-07-23T01:01:45.2249036+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 12051
+    },
+    {
+      "Time": "2022-07-23T02:01:39.4495216+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 12058
     }
   ],
   "Tags": [
@@ -46,7 +51,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Diverse Characters",

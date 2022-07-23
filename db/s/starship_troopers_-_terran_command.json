@@ -2,15 +2,20 @@
   "ID": "ba1596b29e8b4b1199058fad440366a5",
   "Name": "Starship Troopers - Terran Command",
   "ProductSlug": "starship-troopers-terran-command",
-  "Rating": 4.16,
-  "NumberOfRatings": 43,
+  "Rating": 4.13,
+  "NumberOfRatings": 46,
   "FirstSeen": "2022-07-22T20:30:10.1660332+00:00",
-  "LastChanged": "2022-07-22T20:30:10.1660333+00:00",
+  "LastChanged": "2022-07-23T02:05:08.5806336+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:10.1660334+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-07-23T02:05:08.5806338+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": 46
     }
   ],
   "Tags": []

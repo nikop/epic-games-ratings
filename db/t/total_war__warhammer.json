@@ -3,9 +3,9 @@
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
   "Rating": 4.59,
-  "NumberOfRatings": 4552,
+  "NumberOfRatings": 4556,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-07-22T23:01:30.9747408+00:00",
+  "LastChanged": "2022-07-23T02:01:12.1816647+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T23:01:30.974741+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 4552
+    },
+    {
+      "Time": "2022-07-23T02:01:12.181665+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 4556
     }
   ],
   "Tags": [

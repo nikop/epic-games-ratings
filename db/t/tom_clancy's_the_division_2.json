@@ -3,9 +3,9 @@
   "Name": "Tom Clancy\u0027s The Division 2",
   "ProductSlug": null,
   "Rating": 4.41,
-  "NumberOfRatings": 4155,
+  "NumberOfRatings": 4165,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-07-22T22:02:35.9615912+00:00",
+  "LastChanged": "2022-07-23T02:02:13.4969599+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -21,6 +21,11 @@
       "Time": "2022-07-22T22:02:35.9615913+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 4155
+    },
+    {
+      "Time": "2022-07-23T02:02:13.4969601+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 4165
     }
   ],
   "Tags": [
@@ -38,7 +43,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 161
+      "Count": 166
     },
     {
       "Text": "This game is Highly Recommended",

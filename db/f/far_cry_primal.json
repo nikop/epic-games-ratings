@@ -2,21 +2,26 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal",
   "ProductSlug": null,
-  "Rating": 4.63,
-  "NumberOfRatings": 227,
+  "Rating": 4.64,
+  "NumberOfRatings": 230,
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2022-07-22T20:23:55.0433271+00:00",
+  "LastChanged": "2022-07-23T02:02:52.2329969+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 227
+    },
+    {
+      "Time": "2022-07-23T02:02:52.232997+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 230
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 65
+      "Count": 68
     }
   ]
 }
