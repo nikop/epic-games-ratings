@@ -2,11 +2,11 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": null,
-  "Rating": 4.5,
-  "NumberOfRatings": 38,
-  "DailyRatings": 23.68,
+  "Rating": 4.51,
+  "NumberOfRatings": 39,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
-  "LastChanged": "2022-07-22T21:18:15.9891671+00:00",
+  "LastChanged": "2022-07-23T22:00:33.8648124+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.6192131+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-22T21:18:15.9891672+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 38
+    },
+    {
+      "Time": "2022-07-23T22:00:33.8648125+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 39
     }
   ],
   "Tags": []

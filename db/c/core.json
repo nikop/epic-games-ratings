@@ -3,10 +3,10 @@
   "Name": "Core",
   "ProductSlug": "core",
   "Rating": 4.4,
-  "NumberOfRatings": 862,
-  "DailyRatings": 13.21,
+  "NumberOfRatings": 863,
+  "DailyRatings": 12.65,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-07-23T20:01:09.2866264+00:00",
+  "LastChanged": "2022-07-23T22:01:23.127424+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T20:01:09.2866265+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 862
+    },
+    {
+      "Time": "2022-07-23T22:01:23.1274241+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 863
     }
   ],
   "Tags": [
@@ -46,7 +51,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",

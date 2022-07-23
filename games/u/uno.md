@@ -1,6 +1,6 @@
 # Uno
 Rating: 4.61 (33)  
-Ratings Per Day: 3.10  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

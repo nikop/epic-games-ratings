@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
   "Rating": 4.59,
-  "NumberOfRatings": 4613,
-  "DailyRatings": 64.85,
+  "NumberOfRatings": 4618,
+  "DailyRatings": 68.9,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-07-23T20:00:33.7164965+00:00",
+  "LastChanged": "2022-07-23T22:00:48.922425+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-23T20:00:33.7164967+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 4613
+    },
+    {
+      "Time": "2022-07-23T22:00:48.9224251+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 4618
     }
   ],
   "Tags": [
@@ -84,7 +89,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 155
+      "Count": 161
     },
     {
       "Text": "This game has Obsessive Gameplay",

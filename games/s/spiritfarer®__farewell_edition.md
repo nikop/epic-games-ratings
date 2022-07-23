@@ -1,6 +1,6 @@
 # Spiritfarer®: Farewell Edition
 Rating: 4.88 (89)  
-Ratings Per Day: 4.90  
+Ratings Per Day: 4.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

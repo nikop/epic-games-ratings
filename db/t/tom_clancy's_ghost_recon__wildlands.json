@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.53,
   "NumberOfRatings": 494,
-  "DailyRatings": 9.97,
+  "DailyRatings": 19.23,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
   "LastChanged": "2022-07-23T18:00:44.0305233+00:00",
   "RatingHistory": [
@@ -27,7 +27,7 @@
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Obsessive Gameplay",

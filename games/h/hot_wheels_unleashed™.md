@@ -1,6 +1,6 @@
 # HOT WHEELS UNLEASHED™
 Rating: 4.53 (210)  
-Ratings Per Day: 8.26  
+Ratings Per Day: 3.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # Hyper Light Drifter
 Rating: 4.77 (168)  
-Ratings Per Day: 11.12  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

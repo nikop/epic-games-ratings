@@ -2,11 +2,11 @@
   "ID": "158a0eaa18574bb39347c04286d118c7",
   "Name": "Sludge Life",
   "ProductSlug": null,
-  "Rating": 4.7,
-  "NumberOfRatings": 83,
-  "DailyRatings": 14.17,
+  "Rating": 4.71,
+  "NumberOfRatings": 85,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:20:12.4151557+00:00",
-  "LastChanged": "2022-07-22T22:01:48.1507762+00:00",
+  "LastChanged": "2022-07-23T22:00:54.188769+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:12.4151559+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-22T22:01:48.1507764+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 83
+    },
+    {
+      "Time": "2022-07-23T22:00:54.1887691+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 85
     }
   ],
   "Tags": []

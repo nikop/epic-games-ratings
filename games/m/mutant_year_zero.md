@@ -1,6 +1,6 @@
 # Mutant Year Zero
 Rating: 4.51 (968)  
-Ratings Per Day: 24.44  
+Ratings Per Day: 54.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

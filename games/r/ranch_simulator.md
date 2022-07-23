@@ -1,6 +1,6 @@
 # Ranch Simulator
 Rating: 4.41 (196)  
-Ratings Per Day: 6.08  
+Ratings Per Day: 6.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

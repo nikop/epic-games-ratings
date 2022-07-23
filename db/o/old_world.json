@@ -3,10 +3,10 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Rating": 4.66,
-  "NumberOfRatings": 814,
-  "DailyRatings": 3.67,
+  "NumberOfRatings": 817,
+  "DailyRatings": 6.32,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "LastChanged": "2022-07-23T16:01:06.1683131+00:00",
+  "LastChanged": "2022-07-23T22:01:12.9302935+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.0865852+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T16:01:06.1683133+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 814
+    },
+    {
+      "Time": "2022-07-23T22:01:12.9302936+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 817
     }
   ],
   "Tags": [
@@ -64,6 +69,10 @@
     {
       "Text": "This game has Amazing Characters",
       "Count": 49
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 28
     }
   ]
 }

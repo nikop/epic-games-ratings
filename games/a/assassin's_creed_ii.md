@@ -1,6 +1,6 @@
 # Assassin's Creed II
 Rating: 4.61 (147)  
-Ratings Per Day: 3.66  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

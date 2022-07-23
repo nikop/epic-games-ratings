@@ -2,11 +2,11 @@
   "ID": "2bc23fc2438c47ec8acb0641980f50c1",
   "Name": "Darksiders Warmastered Edition",
   "ProductSlug": "darksiders/home",
-  "Rating": 4.51,
-  "NumberOfRatings": 350,
-  "DailyRatings": 6.57,
+  "Rating": 4.52,
+  "NumberOfRatings": 353,
+  "DailyRatings": 3.28,
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
-  "LastChanged": "2022-07-23T00:03:30.2142071+00:00",
+  "LastChanged": "2022-07-23T22:01:24.1836652+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:18.0300296+00:00",
@@ -17,7 +17,17 @@
       "Time": "2022-07-23T00:03:30.2142072+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 350
+    },
+    {
+      "Time": "2022-07-23T22:01:24.1836653+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 353
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 48
+    }
+  ]
 }

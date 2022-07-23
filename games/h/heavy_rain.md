@@ -1,6 +1,6 @@
 # Heavy Rain
 Rating: 4.59 (131)  
-Ratings Per Day: 2.02  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

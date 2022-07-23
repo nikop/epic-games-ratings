@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.83,
   "NumberOfRatings": 2188,
-  "DailyRatings": 52.64,
+  "DailyRatings": 44.74,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
   "LastChanged": "2022-07-23T20:00:21.2634781+00:00",
   "RatingHistory": [
@@ -57,7 +57,7 @@
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 146
+      "Count": 148
     },
     {
       "Text": "This game is Extremely Fun",

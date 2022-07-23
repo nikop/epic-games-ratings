@@ -1,6 +1,6 @@
 # Rayman Legends
 Rating: 4.68 (180)  
-Ratings Per Day: 19.72  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

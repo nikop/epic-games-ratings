@@ -1,6 +1,6 @@
 # Assassin's Creed Rogue
 Rating: 4.55 (80)  
-Ratings Per Day: 9.22  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

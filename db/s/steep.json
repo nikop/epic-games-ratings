@@ -2,11 +2,11 @@
   "ID": "a646020cb93b4ea995cda70647bbe001",
   "Name": "Steep",
   "ProductSlug": null,
-  "Rating": 4.64,
-  "NumberOfRatings": 143,
-  "DailyRatings": 4.44,
+  "Rating": 4.65,
+  "NumberOfRatings": 144,
+  "DailyRatings": 5.99,
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2022-07-23T18:00:58.76069+00:00",
+  "LastChanged": "2022-07-23T22:01:12.3814029+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:40.9407936+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T18:00:58.7606902+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 143
+    },
+    {
+      "Time": "2022-07-23T22:01:12.381403+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 144
     }
   ],
   "Tags": []

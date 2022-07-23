@@ -1,6 +1,6 @@
 # Grime
 Rating: 4.63 (27)  
-Ratings Per Day: 1.11  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

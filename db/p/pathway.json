@@ -2,11 +2,11 @@
   "ID": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
   "Name": "Pathway",
   "ProductSlug": "pathway",
-  "Rating": 4.38,
-  "NumberOfRatings": 206,
-  "DailyRatings": 464.44,
+  "Rating": 4.39,
+  "NumberOfRatings": 207,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
-  "LastChanged": "2022-07-22T20:44:18.6675934+00:00",
+  "LastChanged": "2022-07-23T22:01:56.6120063+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.5183297+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-22T20:44:18.6675973+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 206
+    },
+    {
+      "Time": "2022-07-23T22:01:56.6120064+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 207
     }
   ],
   "Tags": []

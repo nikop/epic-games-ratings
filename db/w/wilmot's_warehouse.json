@@ -2,16 +2,21 @@
   "ID": "f697ab7aa6af41f880e1489818e2720d",
   "Name": "Wilmot\u0027s Warehouse",
   "ProductSlug": "wilmots-warehouse",
-  "Rating": 4.62,
-  "NumberOfRatings": 37,
+  "Rating": 4.59,
+  "NumberOfRatings": 39,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:20.1616591+00:00",
-  "LastChanged": "2022-07-22T20:30:20.1616596+00:00",
+  "LastChanged": "2022-07-23T22:02:08.4335624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:20.1616597+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-07-23T22:02:08.4335625+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 39
     }
   ],
   "Tags": []
