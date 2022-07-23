@@ -1,6 +1,6 @@
 # SpellForce 3: Versus Edition
-Rating: 3.66 (32)
-Ratings Per Day: 0.00
+Rating: 3.66 (32)  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

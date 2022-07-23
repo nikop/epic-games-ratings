@@ -1,6 +1,6 @@
 # Spellbreak
-Rating: 4.59 (579)
-Ratings Per Day: 12.97
+Rating: 4.59 (579)  
+Ratings Per Day: 12.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

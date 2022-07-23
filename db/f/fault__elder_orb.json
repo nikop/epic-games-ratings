@@ -2,11 +2,11 @@
   "ID": "644221d9c96142f9b149c983362c5074",
   "Name": "Fault: Elder Orb",
   "ProductSlug": "fault-elder-orb",
-  "Rating": 3.89,
-  "NumberOfRatings": 57,
-  "DailyRatings": 43.96,
+  "Rating": 3.88,
+  "NumberOfRatings": 60,
+  "DailyRatings": 47.89,
   "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
-  "LastChanged": "2022-07-23T07:25:23.7367928+00:00",
+  "LastChanged": "2022-07-23T11:24:28.1097379+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.2503477+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T07:25:23.736793+00:00",
       "Rating": 3.89,
       "NumberOfRatings": 57
+    },
+    {
+      "Time": "2022-07-23T11:24:28.1097381+00:00",
+      "Rating": 3.88,
+      "NumberOfRatings": 60
     }
   ],
   "Tags": []

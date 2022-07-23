@@ -2,16 +2,21 @@
   "ID": "742f165671424189aecdfdadf5ea9755",
   "Name": "Nuclear Throne",
   "ProductSlug": "nuclear-throne/home",
-  "Rating": 4.78,
-  "NumberOfRatings": 319,
-  "DailyRatings": 0,
+  "Rating": 4.79,
+  "NumberOfRatings": 324,
+  "DailyRatings": 8.03,
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2022-07-22T20:27:27.5332053+00:00",
+  "LastChanged": "2022-07-23T11:25:11.0724072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 319
+    },
+    {
+      "Time": "2022-07-23T11:25:11.0724074+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 324
     }
   ],
   "Tags": [
@@ -21,7 +26,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 68
+      "Count": 74
     }
   ]
 }
