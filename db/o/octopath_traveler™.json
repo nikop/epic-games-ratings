@@ -3,15 +3,25 @@
   "Name": "OCTOPATH TRAVELER\u2122",
   "ProductSlug": "octopath-traveler",
   "Rating": 4.81,
-  "NumberOfRatings": 74,
+  "NumberOfRatings": 75,
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2022-07-22T20:21:15.1292704+00:00",
+  "LastChanged": "2022-07-23T10:01:14.0577805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.1292706+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 74
+    },
+    {
+      "Time": "2022-07-23T10:01:14.0577807+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 75
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 20
+    }
+  ]
 }

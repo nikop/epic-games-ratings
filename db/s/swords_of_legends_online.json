@@ -3,14 +3,19 @@
   "Name": "Swords of Legends Online",
   "ProductSlug": null,
   "Rating": 4.3,
-  "NumberOfRatings": 159,
+  "NumberOfRatings": 162,
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2022-07-22T20:23:20.3020947+00:00",
+  "LastChanged": "2022-07-23T10:01:40.8497987+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:20.3020948+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 159
+    },
+    {
+      "Time": "2022-07-23T10:01:40.8497988+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 162
     }
   ],
   "Tags": [

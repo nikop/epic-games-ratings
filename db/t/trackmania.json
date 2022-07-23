@@ -3,9 +3,9 @@
   "Name": "trackmania",
   "ProductSlug": null,
   "Rating": 4.71,
-  "NumberOfRatings": 3845,
+  "NumberOfRatings": 3854,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2022-07-23T03:02:47.0815217+00:00",
+  "LastChanged": "2022-07-23T10:01:36.3439128+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-23T03:02:47.0815219+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 3845
+    },
+    {
+      "Time": "2022-07-23T10:01:36.343913+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 3854
     }
   ],
   "Tags": [
@@ -41,7 +46,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 287
+      "Count": 292
     },
     {
       "Text": "This game is Highly Recommended",

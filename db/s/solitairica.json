@@ -2,10 +2,10 @@
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
-  "Rating": 4.43,
-  "NumberOfRatings": 263,
+  "Rating": 4.44,
+  "NumberOfRatings": 264,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2022-07-22T21:19:42.4060212+00:00",
+  "LastChanged": "2022-07-23T10:01:09.5683933+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:54.478513+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T21:19:42.4060214+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 263
+    },
+    {
+      "Time": "2022-07-23T10:01:09.5683935+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 264
     }
   ],
   "Tags": []

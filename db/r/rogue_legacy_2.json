@@ -3,9 +3,9 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Rating": 4.85,
-  "NumberOfRatings": 1015,
+  "NumberOfRatings": 1020,
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
-  "LastChanged": "2022-07-23T00:06:30.3581902+00:00",
+  "LastChanged": "2022-07-23T10:03:29.7102757+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:06.6124895+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-23T00:06:30.3581905+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 1015
+    },
+    {
+      "Time": "2022-07-23T10:03:29.7102758+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 1020
     }
   ],
   "Tags": [
@@ -49,7 +54,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 65
+      "Count": 67
     },
     {
       "Text": "This game has Playful Visuals",

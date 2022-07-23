@@ -3,9 +3,9 @@
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess/home",
   "Rating": 4.52,
-  "NumberOfRatings": 1366,
+  "NumberOfRatings": 1368,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2022-07-23T05:01:55.6137595+00:00",
+  "LastChanged": "2022-07-23T10:01:17.0583122+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -31,6 +31,11 @@
       "Time": "2022-07-23T05:01:55.6137596+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 1366
+    },
+    {
+      "Time": "2022-07-23T10:01:17.0583124+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 1368
     }
   ],
   "Tags": [

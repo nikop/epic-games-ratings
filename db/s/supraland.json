@@ -3,9 +3,9 @@
   "Name": "supraland",
   "ProductSlug": null,
   "Rating": 4.6,
-  "NumberOfRatings": 21839,
+  "NumberOfRatings": 21851,
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2022-07-23T06:01:11.4109335+00:00",
+  "LastChanged": "2022-07-23T10:00:55.5028594+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -21,6 +21,11 @@
       "Time": "2022-07-23T06:01:11.4109336+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 21839
+    },
+    {
+      "Time": "2022-07-23T10:00:55.5028595+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 21851
     }
   ],
   "Tags": [
