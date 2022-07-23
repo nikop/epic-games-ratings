@@ -3,9 +3,9 @@
   "Name": "Desperados 3",
   "ProductSlug": null,
   "Rating": 4.86,
-  "NumberOfRatings": 201,
+  "NumberOfRatings": 202,
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2022-07-22T23:02:27.4259639+00:00",
+  "LastChanged": "2022-07-23T08:02:04.4020044+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:02.5074384+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T23:02:27.4259641+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 201
+    },
+    {
+      "Time": "2022-07-23T08:02:04.4020045+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 202
     }
   ],
   "Tags": []

@@ -3,14 +3,19 @@
   "Name": "Surviving the Aftermath",
   "ProductSlug": null,
   "Rating": 4.44,
-  "NumberOfRatings": 429,
+  "NumberOfRatings": 430,
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
-  "LastChanged": "2022-07-22T20:25:34.0304072+00:00",
+  "LastChanged": "2022-07-23T08:03:10.2449722+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:34.0304073+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 429
+    },
+    {
+      "Time": "2022-07-23T08:03:10.2449723+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 430
     }
   ],
   "Tags": [
