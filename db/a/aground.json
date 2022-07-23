@@ -4,6 +4,7 @@
   "ProductSlug": "aground",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:54.6046773+00:00",
   "LastChanged": null,
   "RatingHistory": [],

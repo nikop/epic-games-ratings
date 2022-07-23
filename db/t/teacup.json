@@ -4,6 +4,7 @@
   "ProductSlug": "teacup",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:44.1645677+00:00",
   "LastChanged": null,
   "RatingHistory": [],

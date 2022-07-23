@@ -1,4 +1,6 @@
 # Superhot
+Rating: 4.62 (73)
+Ratings Per Day: 0.00
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

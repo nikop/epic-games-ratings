@@ -2,10 +2,11 @@
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "Rage 2",
   "ProductSlug": null,
-  "Rating": 4.29,
-  "NumberOfRatings": 2003,
+  "Rating": 4.3,
+  "NumberOfRatings": 2011,
+  "DailyRatings": 32.58,
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
-  "LastChanged": "2022-07-23T08:02:03.3169376+00:00",
+  "LastChanged": "2022-07-23T11:06:44.5283394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.0256753+00:00",
@@ -31,6 +32,11 @@
       "Time": "2022-07-23T08:02:03.3169378+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 2003
+    },
+    {
+      "Time": "2022-07-23T11:06:44.5283396+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 2011
     }
   ],
   "Tags": [

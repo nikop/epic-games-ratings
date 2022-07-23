@@ -4,6 +4,7 @@
   "ProductSlug": "i-am-dead",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:26.2114526+00:00",
   "LastChanged": null,
   "RatingHistory": [],

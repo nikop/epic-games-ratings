@@ -1,4 +1,6 @@
 # Sludge Life
+Rating: 4.70 (83)
+Ratings Per Day: 1.63
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

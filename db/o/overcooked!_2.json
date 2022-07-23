@@ -4,6 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.75,
   "NumberOfRatings": 2442,
+  "DailyRatings": 43.73,
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
   "LastChanged": "2022-07-23T10:00:16.1468412+00:00",
   "RatingHistory": [
@@ -73,7 +74,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has Diverse Characters",

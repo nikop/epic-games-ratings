@@ -4,6 +4,7 @@
   "ProductSlug": "synergia",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:27.6055508+00:00",
   "LastChanged": null,
   "RatingHistory": [],

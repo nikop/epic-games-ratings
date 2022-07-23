@@ -4,6 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.86,
   "NumberOfRatings": 772,
+  "DailyRatings": 9.72,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
   "LastChanged": "2022-07-23T10:00:23.5593478+00:00",
   "RatingHistory": [
@@ -21,7 +22,7 @@
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has Unique Visuals",

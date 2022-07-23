@@ -3,9 +3,10 @@
   "Name": "Farming Simulator 22",
   "ProductSlug": null,
   "Rating": 4.71,
-  "NumberOfRatings": 4692,
+  "NumberOfRatings": 4698,
+  "DailyRatings": 42.13,
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
-  "LastChanged": "2022-07-23T10:00:22.1350701+00:00",
+  "LastChanged": "2022-07-23T11:06:10.4867334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:20.637015+00:00",
@@ -41,6 +42,11 @@
       "Time": "2022-07-23T10:00:22.1350703+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 4692
+    },
+    {
+      "Time": "2022-07-23T11:06:10.4867335+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 4698
     }
   ],
   "Tags": [
@@ -50,7 +56,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 604
+      "Count": 622
     },
     {
       "Text": "This game is Educational",

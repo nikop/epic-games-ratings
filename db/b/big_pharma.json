@@ -4,6 +4,7 @@
   "ProductSlug": "big-pharma",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:59.6579537+00:00",
   "LastChanged": null,
   "RatingHistory": [],

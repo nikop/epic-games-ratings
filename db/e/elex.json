@@ -4,6 +4,7 @@
   "ProductSlug": "elex",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
   "LastChanged": null,
   "RatingHistory": [],

@@ -1,4 +1,6 @@
 # World War Z
+Rating: 4.57 (9 376)
+Ratings Per Day: 87.48
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

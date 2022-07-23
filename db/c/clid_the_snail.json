@@ -4,6 +4,7 @@
   "ProductSlug": "clid-the-snail",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:02.7778969+00:00",
   "LastChanged": null,
   "RatingHistory": [],

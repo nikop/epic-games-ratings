@@ -4,6 +4,7 @@
   "ProductSlug": null,
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": null,
   "LastChanged": null,
   "RatingHistory": [],

@@ -1,4 +1,6 @@
 # Conarium
+Rating: 4.17 (23)
+Ratings Per Day: 0.00
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

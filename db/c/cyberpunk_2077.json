@@ -3,9 +3,10 @@
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
   "Rating": 4.57,
-  "NumberOfRatings": 13069,
+  "NumberOfRatings": 13080,
+  "DailyRatings": 260.8,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2022-07-23T10:26:17.8582617+00:00",
+  "LastChanged": "2022-07-23T11:06:08.3379291+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -46,6 +47,11 @@
       "Time": "2022-07-23T10:26:17.8582618+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 13069
+    },
+    {
+      "Time": "2022-07-23T11:06:08.3379292+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 13080
     }
   ],
   "Tags": [
@@ -55,7 +61,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2550
+      "Count": 2614
     },
     {
       "Text": "This game has Diverse Characters",

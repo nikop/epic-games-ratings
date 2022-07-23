@@ -3,9 +3,10 @@
   "Name": "Evil Dead",
   "ProductSlug": null,
   "Rating": 4.52,
-  "NumberOfRatings": 7733,
+  "NumberOfRatings": 7735,
+  "DailyRatings": 69.8,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2022-07-23T10:00:43.007181+00:00",
+  "LastChanged": "2022-07-23T11:06:22.074494+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -31,12 +32,17 @@
       "Time": "2022-07-23T10:00:43.0071812+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 7733
+    },
+    {
+      "Time": "2022-07-23T11:06:22.0744941+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 7735
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 4479
+      "Count": 4511
     },
     {
       "Text": "This game is Extremely Fun",
@@ -52,7 +58,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 614
+      "Count": 623
     },
     {
       "Text": "This game has Amazing Characters",

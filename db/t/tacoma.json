@@ -4,6 +4,7 @@
   "ProductSlug": "tacoma",
   "Rating": 4.3,
   "NumberOfRatings": 27,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
   "LastChanged": "2022-07-22T20:22:50.2049996+00:00",
   "RatingHistory": [

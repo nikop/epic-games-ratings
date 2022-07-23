@@ -4,6 +4,7 @@
   "ProductSlug": "this-is-the-police",
   "Rating": 4.83,
   "NumberOfRatings": 23,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:17.2330735+00:00",
   "LastChanged": "2022-07-22T20:22:17.2330736+00:00",
   "RatingHistory": [

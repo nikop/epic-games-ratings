@@ -3,9 +3,10 @@
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous/home",
   "Rating": 4.64,
-  "NumberOfRatings": 3585,
+  "NumberOfRatings": 3589,
+  "DailyRatings": 40.65,
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2022-07-23T05:01:36.2262272+00:00",
+  "LastChanged": "2022-07-23T11:06:33.3044861+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -26,6 +27,11 @@
       "Time": "2022-07-23T05:01:36.2262273+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 3585
+    },
+    {
+      "Time": "2022-07-23T11:06:33.3044862+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 3589
     }
   ],
   "Tags": [

@@ -4,6 +4,7 @@
   "ProductSlug": "the-colonists",
   "Rating": null,
   "NumberOfRatings": null,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:16.736578+00:00",
   "LastChanged": null,
   "RatingHistory": [],
