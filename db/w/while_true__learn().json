@@ -3,14 +3,19 @@
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
   "Rating": 4.48,
-  "NumberOfRatings": 460,
+  "NumberOfRatings": 468,
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2022-07-22T20:20:21.2313834+00:00",
+  "LastChanged": "2022-07-23T06:01:20.8962279+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 460
+    },
+    {
+      "Time": "2022-07-23T06:01:20.896228+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 468
     }
   ],
   "Tags": []

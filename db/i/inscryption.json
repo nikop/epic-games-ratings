@@ -3,20 +3,25 @@
   "Name": "Inscryption",
   "ProductSlug": null,
   "Rating": 4.84,
-  "NumberOfRatings": 445,
+  "NumberOfRatings": 448,
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2022-07-22T20:27:28.2210271+00:00",
+  "LastChanged": "2022-07-23T06:03:33.4331079+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:28.2210273+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 445
+    },
+    {
+      "Time": "2022-07-23T06:03:33.433108+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 448
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 101
+      "Count": 105
     }
   ]
 }

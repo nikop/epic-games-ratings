@@ -3,9 +3,9 @@
   "Name": "Suphalak",
   "ProductSlug": "total-war-warhammer-ii",
   "Rating": 4.84,
-  "NumberOfRatings": 689,
+  "NumberOfRatings": 693,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-07-22T21:25:44.3360325+00:00",
+  "LastChanged": "2022-07-23T06:00:15.428544+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T21:25:44.3360328+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 689
+    },
+    {
+      "Time": "2022-07-23T06:00:15.4285442+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 693
     }
   ],
   "Tags": [
@@ -37,7 +42,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 102
+      "Count": 106
     },
     {
       "Text": "This game is Highly Recommended",

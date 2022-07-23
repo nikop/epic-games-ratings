@@ -3,9 +3,9 @@
   "Name": "Neon Abyss",
   "ProductSlug": null,
   "Rating": 4.69,
-  "NumberOfRatings": 4362,
+  "NumberOfRatings": 4366,
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2022-07-23T05:01:45.7601932+00:00",
+  "LastChanged": "2022-07-23T06:01:32.3850616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:56.870956+00:00",
@@ -26,6 +26,11 @@
       "Time": "2022-07-23T05:01:45.7601933+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 4362
+    },
+    {
+      "Time": "2022-07-23T06:01:32.3850618+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 4366
     }
   ],
   "Tags": [
@@ -39,7 +44,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 121
+      "Count": 124
     },
     {
       "Text": "This game is Relaxing",
