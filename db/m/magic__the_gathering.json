@@ -3,10 +3,10 @@
   "Name": "Magic: The Gathering",
   "ProductSlug": "mtg-arena/home",
   "Rating": 4.44,
-  "NumberOfRatings": 8615,
-  "DailyRatings": 98.82,
+  "NumberOfRatings": 8628,
+  "DailyRatings": 95.31,
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2022-07-23T16:00:48.7437174+00:00",
+  "LastChanged": "2022-07-23T20:00:40.3391598+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.803641+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-23T16:00:48.7437175+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 8615
+    },
+    {
+      "Time": "2022-07-23T20:00:40.3391599+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 8628
     }
   ],
   "Tags": [
@@ -95,7 +100,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1078
+      "Count": 1120
     },
     {
       "Text": "This game has Amazing Characters",

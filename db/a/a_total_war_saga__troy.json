@@ -2,11 +2,11 @@
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
   "ProductSlug": null,
-  "Rating": 4.51,
-  "NumberOfRatings": 3017,
-  "DailyRatings": 48.73,
+  "Rating": 4.52,
+  "NumberOfRatings": 3024,
+  "DailyRatings": 51.71,
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2022-07-23T18:00:42.2480878+00:00",
+  "LastChanged": "2022-07-23T20:00:40.983066+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.5035153+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-23T18:00:42.248088+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 3017
+    },
+    {
+      "Time": "2022-07-23T20:00:40.9830662+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 3024
     }
   ],
   "Tags": [

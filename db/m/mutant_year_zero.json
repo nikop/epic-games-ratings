@@ -3,10 +3,10 @@
   "Name": "Mutant Year Zero",
   "ProductSlug": null,
   "Rating": 4.51,
-  "NumberOfRatings": 959,
-  "DailyRatings": 18.4,
+  "NumberOfRatings": 968,
+  "DailyRatings": 24.44,
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2022-07-23T16:01:41.5939215+00:00",
+  "LastChanged": "2022-07-23T20:01:34.3539803+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.3944409+00:00",
@@ -17,12 +17,17 @@
       "Time": "2022-07-23T16:01:41.5939216+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 959
+    },
+    {
+      "Time": "2022-07-23T20:01:34.3539804+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 968
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 156
+      "Count": 159
     }
   ]
 }

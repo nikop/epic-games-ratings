@@ -3,10 +3,10 @@
   "Name": "For The King",
   "ProductSlug": "for-the-king/home",
   "Rating": 4.7,
-  "NumberOfRatings": 2748,
-  "DailyRatings": 48.92,
+  "NumberOfRatings": 2750,
+  "DailyRatings": 46.81,
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2022-07-23T18:01:25.5706247+00:00",
+  "LastChanged": "2022-07-23T20:01:25.0558968+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T18:01:25.5706248+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2748
+    },
+    {
+      "Time": "2022-07-23T20:01:25.0558969+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 2750
     }
   ],
   "Tags": [

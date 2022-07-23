@@ -2,11 +2,11 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": null,
-  "Rating": 4.7,
-  "NumberOfRatings": 4831,
-  "DailyRatings": 96.15,
+  "Rating": 4.71,
+  "NumberOfRatings": 4848,
+  "DailyRatings": 105.25,
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
-  "LastChanged": "2022-07-23T18:00:18.9391772+00:00",
+  "LastChanged": "2022-07-23T20:00:17.7355167+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.2310156+00:00",
@@ -57,12 +57,17 @@
       "Time": "2022-07-23T18:00:18.9391774+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 4831
+    },
+    {
+      "Time": "2022-07-23T20:00:17.7355168+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 4848
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 2041
+      "Count": 2086
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -86,7 +91,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 347
+      "Count": 359
     },
     {
       "Text": "This game has Amazing Characters",
@@ -102,7 +107,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 314
+      "Count": 331
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -2,11 +2,11 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": null,
-  "Rating": 4.48,
-  "NumberOfRatings": 46,
-  "DailyRatings": 1.11,
+  "Rating": 4.47,
+  "NumberOfRatings": 47,
+  "DailyRatings": 2.03,
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
-  "LastChanged": "2022-07-23T18:00:31.8157348+00:00",
+  "LastChanged": "2022-07-23T20:00:30.6554704+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.6692959+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T18:00:31.815735+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 46
+    },
+    {
+      "Time": "2022-07-23T20:00:30.6554706+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 47
     }
   ],
   "Tags": []

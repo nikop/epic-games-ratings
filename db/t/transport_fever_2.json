@@ -3,15 +3,20 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Rating": 4.66,
-  "NumberOfRatings": 121,
-  "DailyRatings": 0,
+  "NumberOfRatings": 122,
+  "DailyRatings": 1.01,
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
-  "LastChanged": "2022-07-22T20:18:50.1070654+00:00",
+  "LastChanged": "2022-07-23T20:00:29.0262818+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:50.1070656+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 121
+    },
+    {
+      "Time": "2022-07-23T20:00:29.0262819+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 122
     }
   ],
   "Tags": []

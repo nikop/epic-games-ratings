@@ -2,16 +2,21 @@
   "ID": "7061cd389bdc4c068910da67cd8e154c",
   "Name": "Monopoly Plus",
   "ProductSlug": "monopoly-plus/home",
-  "Rating": 4.02,
-  "NumberOfRatings": 51,
-  "DailyRatings": 0,
+  "Rating": 3.95,
+  "NumberOfRatings": 55,
+  "DailyRatings": 4.08,
   "FirstSeen": "2022-07-22T20:30:40.4652835+00:00",
-  "LastChanged": "2022-07-22T20:30:40.4652837+00:00",
+  "LastChanged": "2022-07-23T20:01:56.1454233+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:40.4652838+00:00",
       "Rating": 4.02,
       "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-07-23T20:01:56.1454234+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": 55
     }
   ],
   "Tags": []

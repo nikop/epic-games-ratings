@@ -3,15 +3,20 @@
   "Name": "Superhot",
   "ProductSlug": "superhot/home",
   "Rating": 4.62,
-  "NumberOfRatings": 73,
-  "DailyRatings": 0,
+  "NumberOfRatings": 74,
+  "DailyRatings": 1.02,
   "FirstSeen": "2022-07-22T20:24:12.2504299+00:00",
-  "LastChanged": "2022-07-22T20:24:12.25043+00:00",
+  "LastChanged": "2022-07-23T20:01:09.4961933+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:12.2504301+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 73
+    },
+    {
+      "Time": "2022-07-23T20:01:09.4961935+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 74
     }
   ],
   "Tags": []

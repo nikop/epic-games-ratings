@@ -2,11 +2,11 @@
   "ID": "f7dc1618d0bd4810a61f50d44333900e",
   "Name": "Faster Than Light",
   "ProductSlug": "faster-than-light/home",
-  "Rating": 4.79,
-  "NumberOfRatings": 551,
-  "DailyRatings": 27.1,
+  "Rating": 4.78,
+  "NumberOfRatings": 561,
+  "DailyRatings": 13.21,
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2022-07-22T23:03:07.6123333+00:00",
+  "LastChanged": "2022-07-23T20:01:05.7876252+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:43.0008395+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-22T23:03:07.6123335+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 551
+    },
+    {
+      "Time": "2022-07-23T20:01:05.7876253+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 561
     }
   ],
   "Tags": [
