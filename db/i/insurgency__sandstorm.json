@@ -66,7 +66,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game is Extremely Fun",
@@ -75,6 +75,10 @@
     {
       "Text": "This game has a Competitive Community",
       "Count": 45
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 63
     }
   ]
 }

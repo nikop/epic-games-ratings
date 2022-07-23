@@ -3,10 +3,10 @@
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included/home",
   "Rating": 4.87,
-  "NumberOfRatings": 537,
-  "DailyRatings": 3.19,
+  "NumberOfRatings": 540,
+  "DailyRatings": 5.54,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-07-23T11:24:21.3941384+00:00",
+  "LastChanged": "2022-07-23T18:00:44.0396064+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T11:24:21.3941386+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 537
+    },
+    {
+      "Time": "2022-07-23T18:00:44.0396065+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 540
     }
   ],
   "Tags": [

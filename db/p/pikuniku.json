@@ -3,15 +3,20 @@
   "Name": "Pikuniku",
   "ProductSlug": "pikuniku/home",
   "Rating": 4.66,
-  "NumberOfRatings": 228,
-  "DailyRatings": 0,
+  "NumberOfRatings": 230,
+  "DailyRatings": 2.22,
   "FirstSeen": "2022-07-22T20:25:30.6223242+00:00",
-  "LastChanged": "2022-07-22T20:25:30.6223244+00:00",
+  "LastChanged": "2022-07-23T18:01:20.123028+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:30.6223245+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 228
+    },
+    {
+      "Time": "2022-07-23T18:01:20.1230282+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 230
     }
   ],
   "Tags": []

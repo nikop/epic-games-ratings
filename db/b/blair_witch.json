@@ -2,16 +2,21 @@
   "ID": "8101d2b09984401fa28cecce4c867e71",
   "Name": "Blair Witch",
   "ProductSlug": "blair-witch/home",
-  "Rating": 4.26,
-  "NumberOfRatings": 276,
-  "DailyRatings": 0,
+  "Rating": 4.25,
+  "NumberOfRatings": 283,
+  "DailyRatings": 7.8,
   "FirstSeen": "2022-07-22T20:28:46.0898805+00:00",
-  "LastChanged": "2022-07-22T20:28:46.0898807+00:00",
+  "LastChanged": "2022-07-23T18:01:42.6396489+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:46.0898808+00:00",
       "Rating": 4.26,
       "NumberOfRatings": 276
+    },
+    {
+      "Time": "2022-07-23T18:01:42.639649+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 283
     }
   ],
   "Tags": []

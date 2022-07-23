@@ -3,10 +3,10 @@
   "Name": "Outriders",
   "ProductSlug": null,
   "Rating": 4.42,
-  "NumberOfRatings": 830,
-  "DailyRatings": 13,
+  "NumberOfRatings": 832,
+  "DailyRatings": 11.07,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-07-23T11:06:32.0154728+00:00",
+  "LastChanged": "2022-07-23T18:00:40.7223075+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-23T11:06:32.0154729+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 830
+    },
+    {
+      "Time": "2022-07-23T18:00:40.7223077+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 832
     }
   ],
   "Tags": [
@@ -40,7 +45,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Diverse Characters",

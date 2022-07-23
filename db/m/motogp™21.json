@@ -2,16 +2,21 @@
   "ID": "4a9527d6d2984bb39d527631b94ec7f2",
   "Name": "MotoGP\u212221",
   "ProductSlug": "motogp-21",
-  "Rating": 4.66,
-  "NumberOfRatings": 67,
-  "DailyRatings": 0,
+  "Rating": 4.65,
+  "NumberOfRatings": 68,
+  "DailyRatings": 1.11,
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2022-07-22T20:23:40.360133+00:00",
+  "LastChanged": "2022-07-23T18:01:05.894146+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:40.3601331+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 67
+    },
+    {
+      "Time": "2022-07-23T18:01:05.8941461+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 68
     }
   ],
   "Tags": []

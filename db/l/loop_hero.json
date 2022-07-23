@@ -3,10 +3,10 @@
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
   "Rating": 4.67,
-  "NumberOfRatings": 3113,
-  "DailyRatings": 47.98,
+  "NumberOfRatings": 3120,
+  "DailyRatings": 51.34,
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2022-07-23T16:02:11.3488214+00:00",
+  "LastChanged": "2022-07-23T18:02:04.7922846+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:49.2794884+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-23T16:02:11.3488215+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 3113
+    },
+    {
+      "Time": "2022-07-23T18:02:04.7922848+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 3120
     }
   ],
   "Tags": [

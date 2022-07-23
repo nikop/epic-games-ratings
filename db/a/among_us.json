@@ -3,10 +3,10 @@
   "Name": "Among Us",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 15408,
-  "DailyRatings": 184.3,
+  "NumberOfRatings": 15432,
+  "DailyRatings": 193.89,
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2022-07-23T16:00:53.3017889+00:00",
+  "LastChanged": "2022-07-23T18:00:46.3739172+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:02.6618056+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-23T16:00:53.301789+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 15408
+    },
+    {
+      "Time": "2022-07-23T18:00:46.3739174+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 15432
     }
   ],
   "Tags": [
@@ -56,11 +61,11 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 462
+      "Count": 471
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 446
+      "Count": 457
     },
     {
       "Text": "This game has Quickly Understood Controls",

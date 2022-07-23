@@ -3,10 +3,10 @@
   "Name": "Insurmountable",
   "ProductSlug": null,
   "Rating": 4.15,
-  "NumberOfRatings": 377,
-  "DailyRatings": 1.7,
+  "NumberOfRatings": 381,
+  "DailyRatings": 5.52,
   "FirstSeen": "2022-07-22T20:16:54.1539465+00:00",
-  "LastChanged": "2022-07-23T10:26:16.7844641+00:00",
+  "LastChanged": "2022-07-23T18:00:14.989995+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:54.1539467+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T10:26:16.7844642+00:00",
       "Rating": 4.15,
       "NumberOfRatings": 377
+    },
+    {
+      "Time": "2022-07-23T18:00:14.9899951+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": 381
     }
   ],
   "Tags": []
