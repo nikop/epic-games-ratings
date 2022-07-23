@@ -3,9 +3,9 @@
   "Name": "Mechwarrior 5",
   "ProductSlug": null,
   "Rating": 4.61,
-  "NumberOfRatings": 2811,
+  "NumberOfRatings": 2822,
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2022-07-23T00:01:36.1895105+00:00",
+  "LastChanged": "2022-07-23T01:01:23.0747787+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.936698+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-23T00:01:36.1895107+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 2811
+    },
+    {
+      "Time": "2022-07-23T01:01:23.0747789+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 2822
     }
   ],
   "Tags": [

@@ -3,14 +3,19 @@
   "Name": "Riders Republic",
   "ProductSlug": null,
   "Rating": 4.73,
-  "NumberOfRatings": 1379,
+  "NumberOfRatings": 1388,
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2022-07-22T20:20:50.8722131+00:00",
+  "LastChanged": "2022-07-23T01:01:48.4280998+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.8722132+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 1379
+    },
+    {
+      "Time": "2022-07-23T01:01:48.4280999+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 1388
     }
   ],
   "Tags": [
