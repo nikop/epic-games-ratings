@@ -3,9 +3,9 @@
   "Name": "Shop Titans",
   "ProductSlug": null,
   "Rating": 3.76,
-  "NumberOfRatings": 605,
+  "NumberOfRatings": 686,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-07-22T23:01:00.5001345+00:00",
+  "LastChanged": "2022-07-23T03:01:06.4779973+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T23:01:00.5001346+00:00",
       "Rating": 3.76,
       "NumberOfRatings": 605
+    },
+    {
+      "Time": "2022-07-23T03:01:06.4779975+00:00",
+      "Rating": 3.76,
+      "NumberOfRatings": 686
     }
   ],
   "Tags": [

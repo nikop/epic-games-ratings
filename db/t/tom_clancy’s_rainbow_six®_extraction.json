@@ -3,9 +3,9 @@
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction",
   "ProductSlug": null,
   "Rating": 4.54,
-  "NumberOfRatings": 342,
+  "NumberOfRatings": 344,
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2022-07-23T02:02:17.8475125+00:00",
+  "LastChanged": "2022-07-23T03:02:32.7753055+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -21,6 +21,11 @@
       "Time": "2022-07-23T02:02:17.8475128+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 342
+    },
+    {
+      "Time": "2022-07-23T03:02:32.7753057+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 344
     }
   ],
   "Tags": [

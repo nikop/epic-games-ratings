@@ -2,15 +2,20 @@
   "ID": "marmoset",
   "Name": "Rebel Galaxy Outlaw",
   "ProductSlug": "rebel-galaxy-outlaw/home",
-  "Rating": 4.37,
-  "NumberOfRatings": 84,
+  "Rating": 4.38,
+  "NumberOfRatings": 86,
   "FirstSeen": "2022-07-22T20:23:57.7523989+00:00",
-  "LastChanged": "2022-07-22T20:23:57.752399+00:00",
+  "LastChanged": "2022-07-23T03:03:06.0913782+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.7523992+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 84
+    },
+    {
+      "Time": "2022-07-23T03:03:06.0913784+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 86
     }
   ],
   "Tags": []

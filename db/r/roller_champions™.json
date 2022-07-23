@@ -3,9 +3,9 @@
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
   "Rating": 4.34,
-  "NumberOfRatings": 4301,
+  "NumberOfRatings": 4303,
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2022-07-23T01:02:04.1518952+00:00",
+  "LastChanged": "2022-07-23T03:02:17.4501588+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:37.6973742+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-23T01:02:04.151896+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 4301
+    },
+    {
+      "Time": "2022-07-23T03:02:17.4501589+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 4303
     }
   ],
   "Tags": [

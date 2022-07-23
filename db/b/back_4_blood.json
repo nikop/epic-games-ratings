@@ -3,9 +3,9 @@
   "Name": "Back 4 Blood",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 1672,
+  "NumberOfRatings": 1679,
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2022-07-23T00:03:17.4170786+00:00",
+  "LastChanged": "2022-07-23T03:03:02.3611911+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.3101252+00:00",
@@ -21,6 +21,11 @@
       "Time": "2022-07-23T00:03:17.4170787+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 1672
+    },
+    {
+      "Time": "2022-07-23T03:03:02.3611912+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 1679
     }
   ],
   "Tags": [
@@ -38,11 +43,11 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 89
+      "Count": 93
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game is Highly Recommended",
