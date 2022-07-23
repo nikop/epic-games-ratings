@@ -3,14 +3,19 @@
   "Name": "Hello Neighbor",
   "ProductSlug": null,
   "Rating": 4.55,
-  "NumberOfRatings": 494,
+  "NumberOfRatings": 496,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-07-22T20:22:23.010839+00:00",
+  "LastChanged": "2022-07-23T00:02:38.9698561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 494
+    },
+    {
+      "Time": "2022-07-23T00:02:38.9698563+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 496
     }
   ],
   "Tags": [

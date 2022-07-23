@@ -2,21 +2,26 @@
   "ID": "newt",
   "Name": "Spellbreak",
   "ProductSlug": null,
-  "Rating": 4.58,
-  "NumberOfRatings": 571,
+  "Rating": 4.59,
+  "NumberOfRatings": 572,
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-07-22T20:17:52.3619824+00:00",
+  "LastChanged": "2022-07-23T00:00:56.30028+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 571
+    },
+    {
+      "Time": "2022-07-23T00:00:56.3002801+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 572
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 121
+      "Count": 125
     }
   ]
 }

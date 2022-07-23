@@ -2,15 +2,20 @@
   "ID": "jaguar",
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
-  "Rating": 4.83,
-  "NumberOfRatings": 3860,
+  "Rating": 4.84,
+  "NumberOfRatings": 3869,
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2022-07-22T20:29:19.8641149+00:00",
+  "LastChanged": "2022-07-23T00:05:26.1967927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.864115+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 3860
+    },
+    {
+      "Time": "2022-07-23T00:05:26.1967989+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 3869
     }
   ],
   "Tags": [

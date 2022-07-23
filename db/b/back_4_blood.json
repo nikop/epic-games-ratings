@@ -3,9 +3,9 @@
   "Name": "Back 4 Blood",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 1671,
+  "NumberOfRatings": 1672,
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2022-07-22T22:28:47.6680169+00:00",
+  "LastChanged": "2022-07-23T00:03:17.4170786+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.3101252+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T22:28:47.668017+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 1671
+    },
+    {
+      "Time": "2022-07-23T00:03:17.4170787+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 1672
     }
   ],
   "Tags": [

@@ -3,9 +3,9 @@
   "Name": "Prison Architect",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 2249,
+  "NumberOfRatings": 2257,
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2022-07-22T21:00:56.1019431+00:00",
+  "LastChanged": "2022-07-23T00:00:35.6183663+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-07-22T21:00:56.1019433+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 2249
+    },
+    {
+      "Time": "2022-07-23T00:00:35.6183665+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 2257
     }
   ],
   "Tags": [

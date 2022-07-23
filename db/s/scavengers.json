@@ -3,14 +3,19 @@
   "Name": "Scavengers",
   "ProductSlug": "scavengers",
   "Rating": 4.28,
-  "NumberOfRatings": 267,
+  "NumberOfRatings": 269,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
-  "LastChanged": "2022-07-22T20:18:46.6635409+00:00",
+  "LastChanged": "2022-07-23T00:01:18.4008074+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:46.6635411+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 267
+    },
+    {
+      "Time": "2022-07-23T00:01:18.4008075+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 269
     }
   ],
   "Tags": [
