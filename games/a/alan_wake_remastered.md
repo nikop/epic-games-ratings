@@ -1,4 +1,4 @@
-# Alan Wake Remastered
+# alan wake remastered
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

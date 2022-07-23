@@ -1,4 +1,4 @@
-# Supraland
+# supraland
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

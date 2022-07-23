@@ -1,0 +1,85 @@
+{
+  "ID": "0c321ac6d5fe49139c153253b60702f4",
+  "Name": "Total War WARHAMMER",
+  "ProductSlug": "total-war-warhammer",
+  "Rating": 4.59,
+  "NumberOfRatings": 4561,
+  "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
+  "LastChanged": "2022-07-23T05:01:19.1861047+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:32.4449839+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 4549
+    },
+    {
+      "Time": "2022-07-22T23:01:30.974741+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 4552
+    },
+    {
+      "Time": "2022-07-23T02:01:12.181665+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 4556
+    },
+    {
+      "Time": "2022-07-23T05:01:19.1861068+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 4561
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 1729
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 197
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 197
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 181
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 174
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 166
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 163
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 172
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 155
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 153
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 151
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 132
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 104
+    }
+  ]
+}

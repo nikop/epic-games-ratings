@@ -1,4 +1,4 @@
-# Centipede Recharged
+# centipede recharged
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
