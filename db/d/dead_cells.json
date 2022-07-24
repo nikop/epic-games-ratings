@@ -3,10 +3,10 @@
   "Name": "Dead Cells",
   "ProductSlug": null,
   "Rating": 4.86,
-  "NumberOfRatings": 780,
-  "DailyRatings": 9.6,
+  "NumberOfRatings": 781,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2022-07-24T06:00:51.5035366+00:00",
+  "LastChanged": "2022-07-24T10:00:26.5393762+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-24T06:00:51.5035367+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 780
+    },
+    {
+      "Time": "2022-07-24T10:00:26.5393765+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 781
     }
   ],
   "Tags": [

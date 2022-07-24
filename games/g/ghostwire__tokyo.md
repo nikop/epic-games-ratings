@@ -1,6 +1,6 @@
 # Ghostwire: Tokyo
 Rating: 4.50 (777)  
-Ratings Per Day: 8.84  
+Ratings Per Day: 11.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

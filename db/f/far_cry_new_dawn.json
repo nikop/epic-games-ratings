@@ -2,11 +2,11 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn",
   "ProductSlug": null,
-  "Rating": 4.44,
-  "NumberOfRatings": 156,
-  "DailyRatings": 0,
+  "Rating": 4.45,
+  "NumberOfRatings": 158,
+  "DailyRatings": 2.67,
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2022-07-23T16:00:35.9909609+00:00",
+  "LastChanged": "2022-07-24T10:00:41.5692121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T16:00:35.9909611+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 156
+    },
+    {
+      "Time": "2022-07-24T10:00:41.5692123+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 158
     }
   ],
   "Tags": [

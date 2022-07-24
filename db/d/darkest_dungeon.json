@@ -3,10 +3,10 @@
   "Name": "Darkest Dungeon",
   "ProductSlug": "darkest-dungeon",
   "Rating": 4.75,
-  "NumberOfRatings": 2842,
-  "DailyRatings": 53.98,
+  "NumberOfRatings": 2847,
+  "DailyRatings": 49.68,
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2022-07-24T06:01:10.7503917+00:00",
+  "LastChanged": "2022-07-24T10:00:46.2913071+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:59.2764087+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-07-24T06:01:10.7503918+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 2842
+    },
+    {
+      "Time": "2022-07-24T10:00:46.2913073+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 2847
     }
   ],
   "Tags": [
@@ -81,7 +86,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 128
+      "Count": 134
     },
     {
       "Text": "This game has Challenging Combat",
@@ -113,11 +118,11 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 74
+      "Count": 82
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 111
+      "Count": 115
     }
   ]
 }

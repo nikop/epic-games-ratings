@@ -1,6 +1,6 @@
 # Ancient Enemy
 Rating: 3.94 (1 528)  
-Ratings Per Day: 18.86  
+Ratings Per Day: 21.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
