@@ -3,10 +3,10 @@
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d/home",
   "Rating": 4.47,
-  "NumberOfRatings": 275,
-  "DailyRatings": 5.14,
+  "NumberOfRatings": 277,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-07-24T12:00:37.8545561+00:00",
+  "LastChanged": "2022-07-24T18:00:38.4341353+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-24T12:00:37.8545562+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 275
+    },
+    {
+      "Time": "2022-07-24T18:00:38.4341354+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 277
     }
   ],
   "Tags": []

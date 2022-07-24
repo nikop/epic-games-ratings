@@ -2,11 +2,11 @@
   "ID": "83022e1b4c304addb2aadee1db854f8d",
   "Name": "LEGO\u00AE Batman\u2122 3: Beyond Gotham",
   "ProductSlug": "lego-batman-3/home",
-  "Rating": 4.59,
-  "NumberOfRatings": 260,
-  "DailyRatings": 0,
+  "Rating": 4.57,
+  "NumberOfRatings": 263,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:28:16.9494589+00:00",
-  "LastChanged": "2022-07-24T00:01:39.6290405+00:00",
+  "LastChanged": "2022-07-24T18:01:43.2466003+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.9494591+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T00:01:39.6290406+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 260
+    },
+    {
+      "Time": "2022-07-24T18:01:43.2466009+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 263
     }
   ],
   "Tags": [

@@ -3,15 +3,20 @@
   "Name": "Torchlight",
   "ProductSlug": "torchlight/home",
   "Rating": 4.44,
-  "NumberOfRatings": 62,
+  "NumberOfRatings": 63,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
-  "LastChanged": "2022-07-22T20:23:57.2645225+00:00",
+  "LastChanged": "2022-07-24T18:01:11.173539+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.2645227+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-07-24T18:01:11.1735395+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 63
     }
   ],
   "Tags": []

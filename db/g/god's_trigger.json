@@ -2,11 +2,11 @@
   "ID": "ceaa24233cdb4b678a1cf515e3a912e8",
   "Name": "God\u0027s Trigger",
   "ProductSlug": "gods-trigger",
-  "Rating": 4.09,
-  "NumberOfRatings": 54,
-  "DailyRatings": 0,
+  "Rating": 4.11,
+  "NumberOfRatings": 57,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
-  "LastChanged": "2022-07-23T18:01:07.2281281+00:00",
+  "LastChanged": "2022-07-24T18:01:10.4798702+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:51.7607727+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T18:01:07.2281282+00:00",
       "Rating": 4.09,
       "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-07-24T18:01:10.4798704+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": 57
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": null,
   "Rating": 4.68,
-  "NumberOfRatings": 1761,
-  "DailyRatings": 71.95,
+  "NumberOfRatings": 1764,
+  "DailyRatings": 69,
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
-  "LastChanged": "2022-07-24T16:01:29.6406702+00:00",
+  "LastChanged": "2022-07-24T18:00:40.7503856+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:51.8985807+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-24T16:01:29.6406705+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 1761
+    },
+    {
+      "Time": "2022-07-24T18:00:40.7503857+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 1764
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 344
+      "Count": 361
     }
   ]
 }

@@ -2,11 +2,11 @@
   "ID": "a47cb01bef994749ac731aa3366796e8",
   "Name": "Windbound",
   "ProductSlug": "windbound",
-  "Rating": 4.2,
-  "NumberOfRatings": 1066,
-  "DailyRatings": 11.97,
+  "Rating": 4.19,
+  "NumberOfRatings": 1074,
+  "DailyRatings": 15,
   "FirstSeen": "2022-07-22T20:20:10.910936+00:00",
-  "LastChanged": "2022-07-24T06:01:12.2988714+00:00",
+  "LastChanged": "2022-07-24T18:00:43.1280685+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.9109364+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T06:01:12.2988715+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 1066
+    },
+    {
+      "Time": "2022-07-24T18:00:43.1280687+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 1074
     }
   ],
   "Tags": []

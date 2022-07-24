@@ -2,11 +2,11 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "Elex II",
   "ProductSlug": "elex-ii",
-  "Rating": 4.18,
-  "NumberOfRatings": 62,
-  "DailyRatings": 0,
+  "Rating": 4.22,
+  "NumberOfRatings": 65,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
-  "LastChanged": "2022-07-24T00:01:15.2580088+00:00",
+  "LastChanged": "2022-07-24T18:01:18.5086957+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:52.8123952+00:00",
@@ -22,7 +22,17 @@
       "Time": "2022-07-24T00:01:15.2580089+00:00",
       "Rating": 4.18,
       "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-07-24T18:01:18.5086959+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 65
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 21
+    }
+  ]
 }
