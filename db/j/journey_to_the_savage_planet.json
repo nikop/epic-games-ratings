@@ -3,15 +3,20 @@
   "Name": "Journey to the Savage Planet",
   "ProductSlug": null,
   "Rating": 4.74,
-  "NumberOfRatings": 46,
+  "NumberOfRatings": 47,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
-  "LastChanged": "2022-07-22T20:21:18.1838436+00:00",
+  "LastChanged": "2022-07-24T04:00:56.7511119+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.1838436+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 46
+    },
+    {
+      "Time": "2022-07-24T04:00:56.751112+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 47
     }
   ],
   "Tags": []

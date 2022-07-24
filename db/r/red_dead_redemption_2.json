@@ -3,10 +3,10 @@
   "Name": "Red Dead Redemption 2",
   "ProductSlug": null,
   "Rating": 4.9,
-  "NumberOfRatings": 56651,
-  "DailyRatings": 967.11,
+  "NumberOfRatings": 56706,
+  "DailyRatings": 983.71,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2022-07-24T02:00:59.5731335+00:00",
+  "LastChanged": "2022-07-24T04:01:11.2428098+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-24T02:00:59.5731336+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 56651
+    },
+    {
+      "Time": "2022-07-24T04:01:11.2428099+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 56706
     }
   ],
   "Tags": [
@@ -122,7 +127,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1232
+      "Count": 1298
     },
     {
       "Text": "This game has Obsessive Gameplay",

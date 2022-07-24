@@ -1,6 +1,6 @@
 # Phoenix Point
 Rating: 4.56 (1 098)  
-Ratings Per Day: 19.84  
+Ratings Per Day: 23.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

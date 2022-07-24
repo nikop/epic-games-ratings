@@ -3,10 +3,10 @@
   "Name": "Among Us",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 15490,
-  "DailyRatings": 209.02,
+  "NumberOfRatings": 15512,
+  "DailyRatings": 196.16,
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2022-07-24T00:00:46.4269554+00:00",
+  "LastChanged": "2022-07-24T04:00:54.6011031+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:02.6618056+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-24T00:00:46.4269556+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 15490
+    },
+    {
+      "Time": "2022-07-24T04:00:54.6011035+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 15512
     }
   ],
   "Tags": [
@@ -92,7 +97,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 453
+      "Count": 469
     },
     {
       "Text": "This game is Highly Recommended",
@@ -104,7 +109,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 437
+      "Count": 451
     },
     {
       "Text": "This game has Amazing Characters",
@@ -112,7 +117,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 376
+      "Count": 383
     },
     {
       "Text": "This game has Obsessive Gameplay",

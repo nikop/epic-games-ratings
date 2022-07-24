@@ -3,10 +3,10 @@
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition/home",
   "Rating": 4.63,
-  "NumberOfRatings": 287,
-  "DailyRatings": 12.01,
+  "NumberOfRatings": 292,
+  "DailyRatings": 14,
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2022-07-23T20:01:16.4440816+00:00",
+  "LastChanged": "2022-07-24T04:01:24.9538303+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:06.1047426+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-23T20:01:16.4440817+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 287
+    },
+    {
+      "Time": "2022-07-24T04:01:24.9538305+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 292
     }
   ],
   "Tags": []
