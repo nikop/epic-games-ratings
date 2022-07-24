@@ -3,10 +3,10 @@
   "Name": "Hitman 2016",
   "ProductSlug": null,
   "Rating": 4.65,
-  "NumberOfRatings": 3115,
-  "DailyRatings": 65.34,
+  "NumberOfRatings": 3125,
+  "DailyRatings": 66.72,
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2022-07-23T22:02:20.8443561+00:00",
+  "LastChanged": "2022-07-24T02:02:02.7810319+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:10.6067818+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-23T22:02:20.8443562+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 3115
+    },
+    {
+      "Time": "2022-07-24T02:02:02.7810322+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3125
     }
   ],
   "Tags": [
@@ -67,7 +72,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 27
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",

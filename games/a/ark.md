@@ -1,6 +1,6 @@
 # Ark
 Rating: 4.63 (26 936)  
-Ratings Per Day: 227.60  
+Ratings Per Day: 219.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

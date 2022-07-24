@@ -3,10 +3,10 @@
   "Name": "Rocket League",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 247681,
-  "DailyRatings": 2362.69,
+  "NumberOfRatings": 247987,
+  "DailyRatings": 2364.23,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2022-07-24T00:00:18.7501292+00:00",
+  "LastChanged": "2022-07-24T02:00:15.6974068+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-24T00:00:18.7501293+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 247681
+    },
+    {
+      "Time": "2022-07-24T02:00:15.6974069+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 247987
     }
   ],
   "Tags": [
@@ -79,7 +84,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 40305
+      "Count": 41451
     },
     {
       "Text": "This game is Extremely Fun",

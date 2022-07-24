@@ -3,15 +3,20 @@
   "Name": "Tales of the Neon Sea",
   "ProductSlug": "tales-of-the-neon-sea",
   "Rating": 4.5,
-  "NumberOfRatings": 112,
+  "NumberOfRatings": 113,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:14.4267103+00:00",
-  "LastChanged": "2022-07-22T20:18:14.4267105+00:00",
+  "LastChanged": "2022-07-24T02:00:22.6723729+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:14.4267106+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 112
+    },
+    {
+      "Time": "2022-07-24T02:00:22.672373+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 113
     }
   ],
   "Tags": []

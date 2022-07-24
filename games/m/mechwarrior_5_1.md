@@ -1,6 +1,6 @@
 # Mechwarrior 5
 Rating: 4.61 (2 859)  
-Ratings Per Day: 48.03  
+Ratings Per Day: 36.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

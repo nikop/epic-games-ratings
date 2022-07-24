@@ -3,10 +3,10 @@
   "Name": "Paladins",
   "ProductSlug": null,
   "Rating": 4.35,
-  "NumberOfRatings": 7111,
-  "DailyRatings": 102.55,
+  "NumberOfRatings": 7118,
+  "DailyRatings": 101.01,
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2022-07-24T00:00:16.8122649+00:00",
+  "LastChanged": "2022-07-24T02:00:13.6808416+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-24T00:00:16.8122654+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 7111
+    },
+    {
+      "Time": "2022-07-24T02:00:13.6808417+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 7118
     }
   ],
   "Tags": [

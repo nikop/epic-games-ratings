@@ -3,10 +3,10 @@
   "Name": "Crashlands",
   "ProductSlug": "crashlands/home",
   "Rating": 4.68,
-  "NumberOfRatings": 260,
-  "DailyRatings": 0,
+  "NumberOfRatings": 266,
+  "DailyRatings": 11.14,
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2022-07-23T13:05:44.5983968+00:00",
+  "LastChanged": "2022-07-24T02:01:13.8408939+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:11.0234057+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T13:05:44.5983969+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 260
+    },
+    {
+      "Time": "2022-07-24T02:01:13.8408942+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 266
     }
   ],
   "Tags": [
