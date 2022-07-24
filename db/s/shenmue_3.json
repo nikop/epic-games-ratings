@@ -3,15 +3,20 @@
   "Name": "Shenmue 3",
   "ProductSlug": null,
   "Rating": 4.07,
-  "NumberOfRatings": 81,
+  "NumberOfRatings": 86,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
-  "LastChanged": "2022-07-22T20:17:11.096535+00:00",
+  "LastChanged": "2022-07-24T14:00:48.1832074+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:11.0965352+00:00",
       "Rating": 4.07,
       "NumberOfRatings": 81
+    },
+    {
+      "Time": "2022-07-24T14:00:48.1832075+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": 86
     }
   ],
   "Tags": []

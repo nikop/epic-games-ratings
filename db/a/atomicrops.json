@@ -3,10 +3,10 @@
   "Name": "Atomicrops",
   "ProductSlug": null,
   "Rating": 4.88,
-  "NumberOfRatings": 90,
+  "NumberOfRatings": 92,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2022-07-23T10:01:27.0498021+00:00",
+  "LastChanged": "2022-07-24T14:01:27.5211096+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:16.7457187+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T10:01:27.0498022+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 90
+    },
+    {
+      "Time": "2022-07-24T14:01:27.5211098+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 92
     }
   ],
   "Tags": [

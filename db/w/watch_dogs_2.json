@@ -2,11 +2,11 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2",
   "ProductSlug": null,
-  "Rating": 4.58,
-  "NumberOfRatings": 3096,
-  "DailyRatings": 60.87,
+  "Rating": 4.57,
+  "NumberOfRatings": 3114,
+  "DailyRatings": 64,
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2022-07-24T08:00:52.3402828+00:00",
+  "LastChanged": "2022-07-24T14:01:23.635114+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-24T08:00:52.3402829+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 3096
+    },
+    {
+      "Time": "2022-07-24T14:01:23.6351142+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 3114
     }
   ],
   "Tags": [
@@ -90,7 +95,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 35
+      "Count": 39
     },
     {
       "Text": "This game is Great for Beginners",

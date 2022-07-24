@@ -2,11 +2,11 @@
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
   "ProductSlug": null,
-  "Rating": 4.78,
-  "NumberOfRatings": 353,
+  "Rating": 4.79,
+  "NumberOfRatings": 354,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2022-07-23T00:02:35.4809898+00:00",
+  "LastChanged": "2022-07-24T14:01:26.8362041+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T00:02:35.4809901+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 353
+    },
+    {
+      "Time": "2022-07-24T14:01:26.8362042+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 354
     }
   ],
   "Tags": [
@@ -31,7 +36,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 62
+      "Count": 64
     },
     {
       "Text": "This game is Great for Quick Sessions",

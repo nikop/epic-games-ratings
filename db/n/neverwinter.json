@@ -3,10 +3,10 @@
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
   "Rating": 4.27,
-  "NumberOfRatings": 636,
-  "DailyRatings": 9,
+  "NumberOfRatings": 637,
+  "DailyRatings": 8.4,
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2022-07-24T10:00:24.5591219+00:00",
+  "LastChanged": "2022-07-24T14:00:48.3342567+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:12.0635618+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-24T10:00:24.559122+00:00",
       "Rating": 4.27,
       "NumberOfRatings": 636
+    },
+    {
+      "Time": "2022-07-24T14:00:48.3342568+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 637
     }
   ],
   "Tags": [

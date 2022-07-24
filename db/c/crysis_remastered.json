@@ -3,10 +3,10 @@
   "Name": "Crysis Remastered",
   "ProductSlug": "crysis-remastered",
   "Rating": 4.4,
-  "NumberOfRatings": 307,
-  "DailyRatings": 0,
+  "NumberOfRatings": 312,
+  "DailyRatings": 7.5,
   "FirstSeen": "2022-07-22T20:33:04.7204895+00:00",
-  "LastChanged": "2022-07-23T22:02:27.2399728+00:00",
+  "LastChanged": "2022-07-24T14:02:47.5912489+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:04.7204897+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-23T22:02:27.239973+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 307
+    },
+    {
+      "Time": "2022-07-24T14:02:47.5912492+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 312
     }
   ],
   "Tags": [

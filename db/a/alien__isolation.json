@@ -3,10 +3,10 @@
   "Name": "Alien: Isolation",
   "ProductSlug": "alien-isolation",
   "Rating": 4.6,
-  "NumberOfRatings": 2489,
-  "DailyRatings": 57.36,
+  "NumberOfRatings": 2498,
+  "DailyRatings": 52,
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2022-07-24T08:00:25.5376615+00:00",
+  "LastChanged": "2022-07-24T14:00:56.5664961+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.3145859+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-24T08:00:25.5376617+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 2489
+    },
+    {
+      "Time": "2022-07-24T14:00:56.5664962+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 2498
     }
   ],
   "Tags": [
@@ -78,6 +83,10 @@
     {
       "Text": "This game has Amazing Storytelling",
       "Count": 21
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 28
     }
   ]
 }

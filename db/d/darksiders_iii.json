@@ -2,16 +2,21 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": null,
-  "Rating": 4.43,
-  "NumberOfRatings": 70,
+  "Rating": 4.42,
+  "NumberOfRatings": 71,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
-  "LastChanged": "2022-07-22T20:19:42.0719797+00:00",
+  "LastChanged": "2022-07-24T14:01:07.6359659+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:42.0719798+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 70
+    },
+    {
+      "Time": "2022-07-24T14:01:07.6359661+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 71
     }
   ],
   "Tags": [
