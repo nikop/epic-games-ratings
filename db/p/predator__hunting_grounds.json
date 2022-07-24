@@ -3,10 +3,10 @@
   "Name": "Predator: Hunting Grounds",
   "ProductSlug": null,
   "Rating": 4.35,
-  "NumberOfRatings": 449,
-  "DailyRatings": 15,
+  "NumberOfRatings": 450,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2022-07-24T00:00:33.5917208+00:00",
+  "LastChanged": "2022-07-24T16:01:25.3777919+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -42,12 +42,17 @@
       "Time": "2022-07-24T00:00:33.591721+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 449
+    },
+    {
+      "Time": "2022-07-24T16:01:25.3777921+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 450
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Characters",

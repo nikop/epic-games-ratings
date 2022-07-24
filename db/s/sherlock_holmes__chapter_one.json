@@ -3,15 +3,20 @@
   "Name": "Sherlock Holmes: Chapter One",
   "ProductSlug": "sherlock-holmes-chapter-one",
   "Rating": 4.51,
-  "NumberOfRatings": 111,
+  "NumberOfRatings": 113,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:16.496586+00:00",
-  "LastChanged": "2022-07-22T20:17:16.4965861+00:00",
+  "LastChanged": "2022-07-24T16:01:08.7691241+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:16.4965862+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 111
+    },
+    {
+      "Time": "2022-07-24T16:01:08.7691243+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 113
     }
   ],
   "Tags": []

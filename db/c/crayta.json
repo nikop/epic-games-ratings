@@ -2,11 +2,11 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": null,
-  "Rating": 4.23,
-  "NumberOfRatings": 66,
-  "DailyRatings": 0,
+  "Rating": 4.24,
+  "NumberOfRatings": 67,
+  "DailyRatings": 2.99,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-07-24T08:01:06.1184407+00:00",
+  "LastChanged": "2022-07-24T16:01:59.044441+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T08:01:06.118441+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 66
+    },
+    {
+      "Time": "2022-07-24T16:01:59.0444412+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 67
     }
   ],
   "Tags": []

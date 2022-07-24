@@ -2,11 +2,11 @@
   "ID": "7dc02eac2fe347368b5f72a02bb5bc5e",
   "Name": "Mothergunship",
   "ProductSlug": "mothergunship",
-  "Rating": 4.42,
-  "NumberOfRatings": 191,
-  "DailyRatings": 0,
+  "Rating": 4.43,
+  "NumberOfRatings": 200,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
-  "LastChanged": "2022-07-23T16:01:30.0939427+00:00",
+  "LastChanged": "2022-07-24T16:02:17.6120324+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:55.0410072+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T16:01:30.093943+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 191
+    },
+    {
+      "Time": "2022-07-24T16:02:17.6120325+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 200
     }
   ],
   "Tags": [

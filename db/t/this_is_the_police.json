@@ -3,15 +3,20 @@
   "Name": "This Is the Police",
   "ProductSlug": "this-is-the-police",
   "Rating": 4.83,
-  "NumberOfRatings": 23,
+  "NumberOfRatings": 24,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:17.2330735+00:00",
-  "LastChanged": "2022-07-22T20:22:17.2330736+00:00",
+  "LastChanged": "2022-07-24T16:01:48.9668214+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:17.2330737+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 23
+    },
+    {
+      "Time": "2022-07-24T16:01:48.9668216+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 24
     }
   ],
   "Tags": []

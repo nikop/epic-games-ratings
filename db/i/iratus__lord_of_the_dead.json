@@ -3,10 +3,10 @@
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": null,
   "Rating": 4.37,
-  "NumberOfRatings": 8388,
-  "DailyRatings": 80.76,
+  "NumberOfRatings": 8410,
+  "DailyRatings": 87.95,
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
-  "LastChanged": "2022-07-24T12:00:38.2904902+00:00",
+  "LastChanged": "2022-07-24T16:01:27.7619985+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:38.7739807+00:00",
@@ -82,12 +82,17 @@
       "Time": "2022-07-24T12:00:38.2904903+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 8388
+    },
+    {
+      "Time": "2022-07-24T16:01:27.7619987+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 8410
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1380
+      "Count": 1407
     },
     {
       "Text": "This game is Highly Recommended",

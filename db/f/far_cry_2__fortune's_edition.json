@@ -2,11 +2,11 @@
   "ID": "a0b8d4482f3d4f939f35f87a3f367865",
   "Name": "Far Cry 2: Fortune\u0027s Edition",
   "ProductSlug": "far-cry-2",
-  "Rating": 4.28,
-  "NumberOfRatings": 25,
-  "DailyRatings": 0,
+  "Rating": 4.31,
+  "NumberOfRatings": 26,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:31:40.0657396+00:00",
-  "LastChanged": "2022-07-23T16:02:10.2572514+00:00",
+  "LastChanged": "2022-07-24T16:03:00.344062+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:40.0657398+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T16:02:10.2572516+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-07-24T16:03:00.3440621+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 26
     }
   ],
   "Tags": []

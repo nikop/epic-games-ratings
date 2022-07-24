@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s The Division 2",
   "ProductSlug": null,
   "Rating": 4.41,
-  "NumberOfRatings": 4260,
-  "DailyRatings": 64.39,
+  "NumberOfRatings": 4270,
+  "DailyRatings": 67.96,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-07-24T12:00:57.2138522+00:00",
+  "LastChanged": "2022-07-24T16:01:47.3855002+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -87,12 +87,17 @@
       "Time": "2022-07-24T12:00:57.2138525+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 4260
+    },
+    {
+      "Time": "2022-07-24T16:01:47.3855005+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 4270
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1972
+      "Count": 2008
     },
     {
       "Text": "This game has Great Boss Battles",

@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Origin",
   "ProductSlug": null,
   "Rating": 4.69,
-  "NumberOfRatings": 2642,
-  "DailyRatings": 26.39,
+  "NumberOfRatings": 2644,
+  "DailyRatings": 26.16,
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2022-07-24T14:00:52.8438845+00:00",
+  "LastChanged": "2022-07-24T16:01:12.7344449+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.6567849+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-24T14:00:52.8438847+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 2642
+    },
+    {
+      "Time": "2022-07-24T16:01:12.734445+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 2644
     }
   ],
   "Tags": [

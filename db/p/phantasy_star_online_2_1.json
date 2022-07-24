@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Rating": 4.5,
   "NumberOfRatings": 452,
-  "DailyRatings": 5,
+  "DailyRatings": 3.99,
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
   "LastChanged": "2022-07-24T14:00:50.3322375+00:00",
   "RatingHistory": [
@@ -78,7 +78,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 39
+      "Count": 40
     }
   ]
 }

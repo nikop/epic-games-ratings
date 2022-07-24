@@ -2,11 +2,17 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4,
+  "NumberOfRatings": 21,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-24T16:01:41.0420802+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-24T16:01:41.0420803+00:00",
+      "Rating": 4,
+      "NumberOfRatings": 21
+    }
+  ],
   "Tags": []
 }
