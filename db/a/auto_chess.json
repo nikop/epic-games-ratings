@@ -3,10 +3,10 @@
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess/home",
   "Rating": 4.52,
-  "NumberOfRatings": 1379,
-  "DailyRatings": 18.34,
+  "NumberOfRatings": 1382,
+  "DailyRatings": 18.8,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2022-07-23T22:01:03.6214272+00:00",
+  "LastChanged": "2022-07-24T00:00:49.7291526+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-23T22:01:03.6214273+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 1379
+    },
+    {
+      "Time": "2022-07-24T00:00:49.7291527+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 1382
     }
   ],
   "Tags": [
@@ -61,11 +66,11 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 142
+      "Count": 148
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 148
+      "Count": 152
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -73,7 +78,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 124
+      "Count": 128
     },
     {
       "Text": "This game is Relaxing",
@@ -89,7 +94,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 96
+      "Count": 100
     },
     {
       "Text": "This game has Playful Visuals",

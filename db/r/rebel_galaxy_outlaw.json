@@ -3,10 +3,10 @@
   "Name": "Rebel Galaxy Outlaw",
   "ProductSlug": "rebel-galaxy-outlaw/home",
   "Rating": 4.38,
-  "NumberOfRatings": 86,
-  "DailyRatings": 0,
+  "NumberOfRatings": 87,
+  "DailyRatings": 1.14,
   "FirstSeen": "2022-07-22T20:23:57.7523989+00:00",
-  "LastChanged": "2022-07-23T03:03:06.0913782+00:00",
+  "LastChanged": "2022-07-24T00:01:07.8989057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.7523992+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T03:03:06.0913784+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 86
+    },
+    {
+      "Time": "2022-07-24T00:01:07.8989058+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 87
     }
   ],
   "Tags": []

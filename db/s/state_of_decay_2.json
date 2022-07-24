@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.72,
   "NumberOfRatings": 676,
-  "DailyRatings": 10.3,
+  "DailyRatings": 11.31,
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
   "LastChanged": "2022-07-23T20:00:39.4010289+00:00",
   "RatingHistory": [
@@ -82,7 +82,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 34
+      "Count": 37
     },
     {
       "Text": "This game has a Creative Community",

@@ -3,10 +3,10 @@
   "Name": "The Wolf Among Us",
   "ProductSlug": "the-wolf-among-us/home",
   "Rating": 4.83,
-  "NumberOfRatings": 255,
+  "NumberOfRatings": 260,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:55.8960394+00:00",
-  "LastChanged": "2022-07-22T23:02:01.609945+00:00",
+  "LastChanged": "2022-07-24T00:00:45.6387175+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.8960396+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-22T23:02:01.6099452+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 255
+    },
+    {
+      "Time": "2022-07-24T00:00:45.6387176+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 260
     }
   ],
   "Tags": []

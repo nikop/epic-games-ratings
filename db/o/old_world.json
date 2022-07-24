@@ -3,10 +3,10 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Rating": 4.66,
-  "NumberOfRatings": 817,
-  "DailyRatings": 6.32,
+  "NumberOfRatings": 818,
+  "DailyRatings": 6.87,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "LastChanged": "2022-07-23T22:01:12.9302935+00:00",
+  "LastChanged": "2022-07-24T00:00:59.3466369+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.0865852+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-23T22:01:12.9302936+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 817
+    },
+    {
+      "Time": "2022-07-24T00:00:59.346637+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 818
     }
   ],
   "Tags": [
@@ -60,7 +65,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",

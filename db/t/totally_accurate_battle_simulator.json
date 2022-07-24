@@ -64,11 +64,11 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 34
+      "Count": 37
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 28
+      "Count": 31
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -89,6 +89,10 @@
     {
       "Text": "This game has a Creative Community",
       "Count": 22
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
     }
   ]
 }

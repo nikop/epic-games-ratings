@@ -1,6 +1,6 @@
 # RimWorld
 Rating: 4.89 (507)  
-Ratings Per Day: 4.18  
+Ratings Per Day: 7.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

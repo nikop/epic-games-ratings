@@ -3,10 +3,10 @@
   "Name": "Far Cry 3",
   "ProductSlug": null,
   "Rating": 4.67,
-  "NumberOfRatings": 211,
-  "DailyRatings": 5.46,
+  "NumberOfRatings": 213,
+  "DailyRatings": 12,
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2022-07-23T20:01:13.3770852+00:00",
+  "LastChanged": "2022-07-24T00:01:14.1677779+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T20:01:13.3770854+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 211
+    },
+    {
+      "Time": "2022-07-24T00:01:14.1677781+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 213
     }
   ],
   "Tags": [
