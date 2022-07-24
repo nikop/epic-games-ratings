@@ -2,11 +2,11 @@
   "ID": "f312bc218b1d46f7921619cc9f3bf3c7",
   "Name": "Iron Harvest",
   "ProductSlug": null,
-  "Rating": 4.38,
-  "NumberOfRatings": 96,
-  "DailyRatings": 0,
+  "Rating": 4.39,
+  "NumberOfRatings": 98,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:22:43.0842749+00:00",
-  "LastChanged": "2022-07-23T22:01:12.630517+00:00",
+  "LastChanged": "2022-07-24T22:01:00.4670859+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:43.0842752+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T22:01:12.6305172+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 96
+    },
+    {
+      "Time": "2022-07-24T22:01:00.4670862+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 98
     }
   ],
   "Tags": []

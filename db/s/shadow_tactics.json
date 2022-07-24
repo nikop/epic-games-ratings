@@ -2,11 +2,11 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics",
   "ProductSlug": "shadow-tactics/home",
-  "Rating": 4.83,
-  "NumberOfRatings": 219,
-  "DailyRatings": 8,
+  "Rating": 4.82,
+  "NumberOfRatings": 226,
+  "DailyRatings": 8.4,
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "LastChanged": "2022-07-24T02:00:50.2660683+00:00",
+  "LastChanged": "2022-07-24T22:00:55.0290889+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.8684255+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-24T02:00:50.2660684+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 219
+    },
+    {
+      "Time": "2022-07-24T22:00:55.0290891+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 226
     }
   ],
   "Tags": []

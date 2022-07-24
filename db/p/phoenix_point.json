@@ -2,11 +2,11 @@
   "ID": "iris",
   "Name": "Phoenix Point",
   "ProductSlug": null,
-  "Rating": 4.56,
-  "NumberOfRatings": 1106,
-  "DailyRatings": 11,
+  "Rating": 4.57,
+  "NumberOfRatings": 1111,
+  "DailyRatings": 14,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-07-24T20:00:25.7209129+00:00",
+  "LastChanged": "2022-07-24T22:00:23.838306+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-07-24T20:00:25.7209131+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 1106
+    },
+    {
+      "Time": "2022-07-24T22:00:23.8383062+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 1111
     }
   ],
   "Tags": [

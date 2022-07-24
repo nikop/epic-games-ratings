@@ -2,11 +2,11 @@
   "ID": "908bed122ba84c4a908ee1e14da401c3",
   "Name": "Superhot",
   "ProductSlug": "superhot/home",
-  "Rating": 4.62,
-  "NumberOfRatings": 74,
+  "Rating": 4.63,
+  "NumberOfRatings": 75,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:12.2504299+00:00",
-  "LastChanged": "2022-07-23T20:01:09.4961933+00:00",
+  "LastChanged": "2022-07-24T22:01:11.305715+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:12.2504301+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T20:01:09.4961935+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 74
+    },
+    {
+      "Time": "2022-07-24T22:01:11.3057151+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 75
     }
   ],
   "Tags": []

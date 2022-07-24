@@ -3,10 +3,10 @@
   "Name": "Anno 1800",
   "ProductSlug": null,
   "Rating": 4.83,
-  "NumberOfRatings": 2244,
-  "DailyRatings": 56,
+  "NumberOfRatings": 2248,
+  "DailyRatings": 49.09,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-07-24T20:00:25.5316823+00:00",
+  "LastChanged": "2022-07-24T22:00:23.7255617+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-07-24T20:00:25.5316824+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 2244
+    },
+    {
+      "Time": "2022-07-24T22:00:23.7255618+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 2248
     }
   ],
   "Tags": [
@@ -127,7 +132,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 72
+      "Count": 78
     }
   ]
 }

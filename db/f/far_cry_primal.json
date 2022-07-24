@@ -3,10 +3,10 @@
   "Name": "Far Cry Primal",
   "ProductSlug": null,
   "Rating": 4.65,
-  "NumberOfRatings": 237,
-  "DailyRatings": 2,
+  "NumberOfRatings": 239,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2022-07-24T10:01:15.6675687+00:00",
+  "LastChanged": "2022-07-24T22:01:08.9403789+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T10:01:15.6675688+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 237
+    },
+    {
+      "Time": "2022-07-24T22:01:08.940379+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 239
     }
   ],
   "Tags": [

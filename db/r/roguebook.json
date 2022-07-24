@@ -3,10 +3,10 @@
   "Name": "Roguebook",
   "ProductSlug": null,
   "Rating": 4.58,
-  "NumberOfRatings": 43,
+  "NumberOfRatings": 45,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:42.1468934+00:00",
-  "LastChanged": "2022-07-23T08:00:45.2451719+00:00",
+  "LastChanged": "2022-07-24T22:00:22.8599058+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.1468938+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T08:00:45.2451721+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-07-24T22:00:22.859906+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 45
     }
   ],
   "Tags": []

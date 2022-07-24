@@ -3,10 +3,10 @@
   "Name": "Diabotical",
   "ProductSlug": null,
   "Rating": 4.79,
-  "NumberOfRatings": 354,
-  "DailyRatings": 0,
+  "NumberOfRatings": 355,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2022-07-24T14:01:26.8362041+00:00",
+  "LastChanged": "2022-07-24T22:00:56.350113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T14:01:26.8362042+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 354
+    },
+    {
+      "Time": "2022-07-24T22:00:56.3501132+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 355
     }
   ],
   "Tags": [
@@ -72,7 +77,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 45
+      "Count": 47
     },
     {
       "Text": "This game has a Competitive Community",

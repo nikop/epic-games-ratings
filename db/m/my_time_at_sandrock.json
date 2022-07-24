@@ -3,10 +3,10 @@
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
   "Rating": 4.67,
-  "NumberOfRatings": 710,
+  "NumberOfRatings": 712,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2022-07-23T10:03:25.55259+00:00",
+  "LastChanged": "2022-07-24T22:02:05.719742+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T10:03:25.5525902+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 710
+    },
+    {
+      "Time": "2022-07-24T22:02:05.7197422+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 712
     }
   ],
   "Tags": [
@@ -26,7 +31,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 21
+      "Count": 22
     }
   ]
 }

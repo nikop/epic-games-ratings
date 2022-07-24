@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Asylum",
   "ProductSlug": "batman-arkham-asylum/home",
   "Rating": 4.69,
-  "NumberOfRatings": 978,
-  "DailyRatings": 11.96,
+  "NumberOfRatings": 985,
+  "DailyRatings": 21.6,
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2022-07-24T16:01:26.8784788+00:00",
+  "LastChanged": "2022-07-24T22:00:36.2696484+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:33.3768871+00:00",
@@ -32,12 +32,17 @@
       "Time": "2022-07-24T16:01:26.8784792+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 978
+    },
+    {
+      "Time": "2022-07-24T22:00:36.2696486+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 985
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 142
+      "Count": 150
     }
   ]
 }

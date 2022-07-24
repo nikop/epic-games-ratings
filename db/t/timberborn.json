@@ -3,10 +3,10 @@
   "Name": "Timberborn",
   "ProductSlug": "timberborn",
   "Rating": 4.66,
-  "NumberOfRatings": 244,
+  "NumberOfRatings": 245,
   "DailyRatings": 6.01,
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2022-07-24T18:00:50.6493547+00:00",
+  "LastChanged": "2022-07-24T22:00:48.8518309+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:12.1167854+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T18:00:50.6493549+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 244
+    },
+    {
+      "Time": "2022-07-24T22:00:48.8518311+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 245
     }
   ],
   "Tags": []

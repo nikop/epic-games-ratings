@@ -3,10 +3,10 @@
   "Name": "Ticket To Ride",
   "ProductSlug": null,
   "Rating": 4.6,
-  "NumberOfRatings": 84,
+  "NumberOfRatings": 85,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
-  "LastChanged": "2022-07-23T20:00:44.0373917+00:00",
+  "LastChanged": "2022-07-24T22:00:46.5300506+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:53.9949816+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T20:00:44.0373918+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 84
+    },
+    {
+      "Time": "2022-07-24T22:00:46.5300507+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 85
     }
   ],
   "Tags": []
