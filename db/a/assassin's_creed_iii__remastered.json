@@ -2,16 +2,21 @@
   "ID": "anise",
   "Name": "Assassin\u0027s Creed III: Remastered",
   "ProductSlug": "assassins-creed-3",
-  "Rating": 4.47,
-  "NumberOfRatings": 111,
+  "Rating": 4.46,
+  "NumberOfRatings": 112,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2022-07-22T20:26:27.002515+00:00",
+  "LastChanged": "2022-07-24T08:01:28.1510699+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:27.0025151+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 111
+    },
+    {
+      "Time": "2022-07-24T08:01:28.15107+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 112
     }
   ],
   "Tags": [

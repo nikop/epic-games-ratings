@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s Ghost Recon Breakpoint",
   "ProductSlug": null,
   "Rating": 4.54,
-  "NumberOfRatings": 2804,
-  "DailyRatings": 33.99,
+  "NumberOfRatings": 2818,
+  "DailyRatings": 33.82,
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2022-07-23T22:00:38.537918+00:00",
+  "LastChanged": "2022-07-24T08:00:24.6361333+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:01.6049159+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-23T22:00:38.5379181+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 2804
+    },
+    {
+      "Time": "2022-07-24T08:00:24.6361334+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 2818
     }
   ],
   "Tags": [
@@ -63,7 +68,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 131
+      "Count": 138
     },
     {
       "Text": "This game has Amazing Storytelling",

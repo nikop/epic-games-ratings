@@ -3,15 +3,20 @@
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Rating": 4.69,
-  "NumberOfRatings": 48,
+  "NumberOfRatings": 49,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
-  "LastChanged": "2022-07-22T20:27:24.5080432+00:00",
+  "LastChanged": "2022-07-24T08:01:35.3255348+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:24.5080434+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 48
+    },
+    {
+      "Time": "2022-07-24T08:01:35.325535+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 49
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Among Us",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 15512,
-  "DailyRatings": 216.06,
+  "NumberOfRatings": 15533,
+  "DailyRatings": 199.7,
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2022-07-24T04:00:54.6011031+00:00",
+  "LastChanged": "2022-07-24T08:00:46.8635694+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:02.6618056+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-07-24T04:00:54.6011035+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 15512
+    },
+    {
+      "Time": "2022-07-24T08:00:46.8635695+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 15533
     }
   ],
   "Tags": [

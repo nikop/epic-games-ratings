@@ -3,10 +3,10 @@
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire/home",
   "Rating": 4.55,
-  "NumberOfRatings": 976,
-  "DailyRatings": 38.44,
+  "NumberOfRatings": 979,
+  "DailyRatings": 34.38,
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2022-07-24T04:00:36.8930124+00:00",
+  "LastChanged": "2022-07-24T08:00:28.8439575+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-24T04:00:36.8930126+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 976
+    },
+    {
+      "Time": "2022-07-24T08:00:28.8439576+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 979
     }
   ],
   "Tags": [

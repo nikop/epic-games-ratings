@@ -3,10 +3,10 @@
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
   "Rating": 4.7,
-  "NumberOfRatings": 2387,
-  "DailyRatings": 49.97,
+  "NumberOfRatings": 2394,
+  "DailyRatings": 56.78,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2022-07-24T06:02:22.1408277+00:00",
+  "LastChanged": "2022-07-24T08:01:50.5963458+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-24T06:02:22.1408278+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2387
+    },
+    {
+      "Time": "2022-07-24T08:01:50.596346+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 2394
     }
   ],
   "Tags": [

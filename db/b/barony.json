@@ -3,10 +3,10 @@
   "Name": "Barony",
   "ProductSlug": null,
   "Rating": 4.69,
-  "NumberOfRatings": 333,
-  "DailyRatings": 0,
+  "NumberOfRatings": 337,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2022-07-23T16:01:14.3576885+00:00",
+  "LastChanged": "2022-07-24T08:01:08.3303923+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:54.550864+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T16:01:14.3576887+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 333
+    },
+    {
+      "Time": "2022-07-24T08:01:08.3303928+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 337
     }
   ],
   "Tags": []

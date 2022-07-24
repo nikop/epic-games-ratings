@@ -3,10 +3,10 @@
   "Name": "Fall Guys",
   "ProductSlug": "fall-guys",
   "Rating": 4.53,
-  "NumberOfRatings": 766915,
-  "DailyRatings": 9475.71,
+  "NumberOfRatings": 770259,
+  "DailyRatings": 9055.54,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
-  "LastChanged": "2022-07-23T22:00:40.2419675+00:00",
+  "LastChanged": "2022-07-24T08:00:26.4004363+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.4977602+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-23T22:00:40.2419677+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 766915
+    },
+    {
+      "Time": "2022-07-24T08:00:26.4004364+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 770259
     }
   ],
   "Tags": [
@@ -72,7 +77,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 41137
+      "Count": 42363
     },
     {
       "Text": "This game is Extremely Fun",

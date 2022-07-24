@@ -3,10 +3,10 @@
   "Name": "Yoku\u0027s Island Express",
   "ProductSlug": "yokus-island-express",
   "Rating": 4.67,
-  "NumberOfRatings": 155,
-  "DailyRatings": 0,
+  "NumberOfRatings": 159,
+  "DailyRatings": 4.01,
   "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
-  "LastChanged": "2022-07-23T08:05:17.4620308+00:00",
+  "LastChanged": "2022-07-24T08:02:13.1559402+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:47.6965852+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T08:05:17.4620312+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 155
+    },
+    {
+      "Time": "2022-07-24T08:02:13.1559407+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 159
     }
   ],
   "Tags": []

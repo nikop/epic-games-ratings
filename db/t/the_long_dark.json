@@ -3,10 +3,10 @@
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
   "Rating": 4.74,
-  "NumberOfRatings": 2295,
-  "DailyRatings": 48.12,
+  "NumberOfRatings": 2308,
+  "DailyRatings": 53.11,
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2022-07-24T04:02:18.2634863+00:00",
+  "LastChanged": "2022-07-24T08:02:13.0833392+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:46.2160704+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-24T04:02:18.2634864+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 2295
+    },
+    {
+      "Time": "2022-07-24T08:02:13.0833393+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 2308
     }
   ],
   "Tags": [

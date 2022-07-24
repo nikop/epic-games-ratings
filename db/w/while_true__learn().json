@@ -2,11 +2,11 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Rating": 4.48,
-  "NumberOfRatings": 468,
+  "Rating": 4.49,
+  "NumberOfRatings": 480,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2022-07-23T06:01:20.8962279+00:00",
+  "LastChanged": "2022-07-24T08:00:41.6369356+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T06:01:20.896228+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 468
+    },
+    {
+      "Time": "2022-07-24T08:00:41.6369357+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 480
     }
   ],
   "Tags": []

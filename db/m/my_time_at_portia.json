@@ -3,10 +3,10 @@
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia/home",
   "Rating": 4.66,
-  "NumberOfRatings": 2208,
-  "DailyRatings": 35.01,
+  "NumberOfRatings": 2214,
+  "DailyRatings": 33.43,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-07-24T06:01:29.5862056+00:00",
+  "LastChanged": "2022-07-24T08:00:57.9596578+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-24T06:01:29.5862057+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 2208
+    },
+    {
+      "Time": "2022-07-24T08:00:57.9596579+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 2214
     }
   ],
   "Tags": [

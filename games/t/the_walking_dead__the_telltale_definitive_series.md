@@ -1,6 +1,6 @@
 # The Walking Dead: The Telltale Definitive Series
 Rating: 4.85 (364)  
-Ratings Per Day: 10.81  
+Ratings Per Day: 10.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
