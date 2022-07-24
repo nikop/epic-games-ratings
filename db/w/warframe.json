@@ -3,10 +3,10 @@
   "Name": "Warframe",
   "ProductSlug": "warframe",
   "Rating": 4.66,
-  "NumberOfRatings": 6520,
-  "DailyRatings": 115,
+  "NumberOfRatings": 6535,
+  "DailyRatings": 121.43,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2022-07-24T10:00:26.7674628+00:00",
+  "LastChanged": "2022-07-24T12:00:21.9158779+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-07-24T10:00:26.767463+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 6520
+    },
+    {
+      "Time": "2022-07-24T12:00:21.915878+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 6535
     }
   ],
   "Tags": [
@@ -127,7 +132,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 381
+      "Count": 396
     }
   ]
 }

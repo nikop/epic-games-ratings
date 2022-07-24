@@ -3,15 +3,20 @@
   "Name": "Relicta",
   "ProductSlug": "relicta",
   "Rating": 4.16,
-  "NumberOfRatings": 218,
+  "NumberOfRatings": 222,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2022-07-22T20:28:55.556305+00:00",
+  "LastChanged": "2022-07-24T12:01:46.8794646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 218
+    },
+    {
+      "Time": "2022-07-24T12:01:46.8794648+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": 222
     }
   ],
   "Tags": []

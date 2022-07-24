@@ -1,9 +1,9 @@
 # Tyranny - Gold Edition
-Rating: 4.61 (635)  
-Ratings Per Day: 10.41  
+Rating: 4.61 (646)  
+Ratings Per Day: 20.58  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-07-22 | 4.61 | 622 |
 | 2022-07-23 | 4.61 | 634 |
-| 2022-07-24 | 4.61 | 635 |
+| 2022-07-24 | 4.61 | 646 |

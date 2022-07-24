@@ -4,7 +4,7 @@
   "ProductSlug": "valorant",
   "Rating": 4.56,
   "NumberOfRatings": 77999,
-  "DailyRatings": 1351.99,
+  "DailyRatings": 1350.9,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
   "LastChanged": "2022-07-24T10:02:00.6724799+00:00",
   "RatingHistory": [
@@ -113,7 +113,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 3278
+      "Count": 3421
     }
   ]
 }

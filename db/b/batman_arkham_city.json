@@ -3,10 +3,10 @@
   "Name": "Batman Arkham City",
   "ProductSlug": "batman-arkham-city/home",
   "Rating": 4.78,
-  "NumberOfRatings": 1361,
-  "DailyRatings": 26.39,
+  "NumberOfRatings": 1365,
+  "DailyRatings": 20,
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2022-07-24T04:00:56.4285961+00:00",
+  "LastChanged": "2022-07-24T12:00:50.99407+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.6256325+00:00",
@@ -42,12 +42,17 @@
       "Time": "2022-07-24T04:00:56.4285962+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 1361
+    },
+    {
+      "Time": "2022-07-24T12:00:50.9940701+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 1365
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 368
+      "Count": 375
     }
   ]
 }

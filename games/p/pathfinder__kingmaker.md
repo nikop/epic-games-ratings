@@ -1,6 +1,6 @@
 # Pathfinder: Kingmaker
 Rating: 4.56 (2 104)  
-Ratings Per Day: 25.46  
+Ratings Per Day: 27.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

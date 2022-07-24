@@ -3,10 +3,10 @@
   "Name": "NEO: The World Ends with You",
   "ProductSlug": "neo-the-world-ends-with-you",
   "Rating": 4.84,
-  "NumberOfRatings": 105,
-  "DailyRatings": 1,
+  "NumberOfRatings": 106,
+  "DailyRatings": 12.01,
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
-  "LastChanged": "2022-07-24T10:01:38.9082759+00:00",
+  "LastChanged": "2022-07-24T12:01:33.7708421+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:59.3741764+00:00",
@@ -22,7 +22,17 @@
       "Time": "2022-07-24T10:01:38.908276+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 105
+    },
+    {
+      "Time": "2022-07-24T12:01:33.7708423+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 106
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 21
+    }
+  ]
 }

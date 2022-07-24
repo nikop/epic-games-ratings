@@ -3,10 +3,10 @@
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
   "Rating": 3.96,
-  "NumberOfRatings": 381,
-  "DailyRatings": 5.67,
+  "NumberOfRatings": 382,
+  "DailyRatings": 5.23,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-07-24T06:00:50.8507954+00:00",
+  "LastChanged": "2022-07-24T12:00:21.0647351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-24T06:00:50.8507956+00:00",
       "Rating": 3.96,
       "NumberOfRatings": 381
+    },
+    {
+      "Time": "2022-07-24T12:00:21.0647353+00:00",
+      "Rating": 3.96,
+      "NumberOfRatings": 382
     }
   ],
   "Tags": [
@@ -62,7 +67,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 26
+      "Count": 29
     },
     {
       "Text": "This game has Realistic Visuals",

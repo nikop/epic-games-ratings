@@ -2,11 +2,11 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "ProductSlug": "tannenberg",
-  "Rating": 4.35,
-  "NumberOfRatings": 1772,
-  "DailyRatings": 952.41,
+  "Rating": 4.34,
+  "NumberOfRatings": 1867,
+  "DailyRatings": 915.97,
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
-  "LastChanged": "2022-07-24T10:01:23.2679174+00:00",
+  "LastChanged": "2022-07-24T12:01:18.2863628+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.24863+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-24T10:01:23.2679176+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 1772
+    },
+    {
+      "Time": "2022-07-24T12:01:18.2863629+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 1867
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
   "ProductSlug": null,
-  "Rating": 4.64,
-  "NumberOfRatings": 212,
-  "DailyRatings": 0,
+  "Rating": 4.63,
+  "NumberOfRatings": 213,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-07-24T04:00:49.246719+00:00",
+  "LastChanged": "2022-07-24T12:00:43.3403369+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T04:00:49.2467191+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 212
+    },
+    {
+      "Time": "2022-07-24T12:00:43.340337+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 213
     }
   ],
   "Tags": []

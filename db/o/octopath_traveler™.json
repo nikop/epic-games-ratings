@@ -4,7 +4,7 @@
   "ProductSlug": "octopath-traveler",
   "Rating": 4.83,
   "NumberOfRatings": 80,
-  "DailyRatings": 5,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
   "LastChanged": "2022-07-24T10:00:55.8743765+00:00",
   "RatingHistory": [
@@ -27,7 +27,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 20
+      "Count": 22
     }
   ]
 }

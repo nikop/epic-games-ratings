@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s Ghost Recon: Wildlands",
   "ProductSlug": null,
   "Rating": 4.53,
-  "NumberOfRatings": 498,
-  "DailyRatings": 6,
+  "NumberOfRatings": 500,
+  "DailyRatings": 8,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2022-07-24T10:00:51.8390536+00:00",
+  "LastChanged": "2022-07-24T12:00:46.624989+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T10:00:51.8390538+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 498
+    },
+    {
+      "Time": "2022-07-24T12:00:46.6249892+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 500
     }
   ],
   "Tags": [
@@ -52,7 +57,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 21
+      "Count": 25
     }
   ]
 }

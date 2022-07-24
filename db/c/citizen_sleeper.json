@@ -2,11 +2,17 @@
   "ID": "e4ef0c8c500a41eaa57c53d32410595d",
   "Name": "Citizen Sleeper",
   "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4.7,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:38.6644605+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-24T12:01:52.579234+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-24T12:01:52.5792342+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

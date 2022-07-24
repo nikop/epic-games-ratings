@@ -1,6 +1,6 @@
 # BioShock 2 Remastered
 Rating: 4.51 (8 591)  
-Ratings Per Day: 99.00  
+Ratings Per Day: 94.71  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # Assassin's Creed Valhalla
 Rating: 4.59 (7 295)  
-Ratings Per Day: 115.97  
+Ratings Per Day: 109.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

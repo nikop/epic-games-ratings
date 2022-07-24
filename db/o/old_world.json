@@ -3,10 +3,10 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Rating": 4.66,
-  "NumberOfRatings": 821,
-  "DailyRatings": 10.5,
+  "NumberOfRatings": 822,
+  "DailyRatings": 9.6,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "LastChanged": "2022-07-24T08:01:00.1735208+00:00",
+  "LastChanged": "2022-07-24T12:01:02.1818717+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.0865852+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-24T08:01:00.1735209+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 821
+    },
+    {
+      "Time": "2022-07-24T12:01:02.181872+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 822
     }
   ],
   "Tags": [
