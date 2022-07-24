@@ -3,10 +3,10 @@
   "Name": "Dauntless",
   "ProductSlug": null,
   "Rating": 4.53,
-  "NumberOfRatings": 12279,
-  "DailyRatings": 262.99,
+  "NumberOfRatings": 12295,
+  "DailyRatings": 257.49,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-07-24T18:00:41.6957191+00:00",
+  "LastChanged": "2022-07-24T20:00:41.9090846+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-07-24T18:00:41.6957192+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 12279
+    },
+    {
+      "Time": "2022-07-24T20:00:41.9090848+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 12295
     }
   ],
   "Tags": [

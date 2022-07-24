@@ -3,10 +3,10 @@
   "Name": "Rogue Legacy",
   "ProductSlug": "rogue-legacy",
   "Rating": 4.61,
-  "NumberOfRatings": 1427,
-  "DailyRatings": 25.97,
+  "NumberOfRatings": 1429,
+  "DailyRatings": 22.5,
   "FirstSeen": "2022-07-22T20:31:08.0747218+00:00",
-  "LastChanged": "2022-07-24T16:02:57.1594381+00:00",
+  "LastChanged": "2022-07-24T20:02:04.5161005+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:08.0747221+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-24T16:02:57.1594383+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 1427
+    },
+    {
+      "Time": "2022-07-24T20:02:04.5161007+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 1429
     }
   ],
   "Tags": [

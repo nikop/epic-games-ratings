@@ -2,11 +2,11 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Rating": 4.88,
-  "NumberOfRatings": 26,
+  "Rating": 4.77,
+  "NumberOfRatings": 30,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2022-07-23T16:02:11.8162995+00:00",
+  "LastChanged": "2022-07-24T20:02:09.3540792+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T16:02:11.8162997+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-07-24T20:02:09.3540794+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []

@@ -1,9 +1,9 @@
 # Might & Magic Chess Royale
-Rating: 4.51 (152)  
-Ratings Per Day: 7.99  
+Rating: 4.51 (153)  
+Ratings Per Day: 6.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-07-22 | 4.50 | 146 |
 | 2022-07-23 | 4.50 | 147 |
-| 2022-07-24 | 4.51 | 152 |
+| 2022-07-24 | 4.51 | 153 |

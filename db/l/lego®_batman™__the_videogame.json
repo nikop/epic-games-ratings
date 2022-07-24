@@ -3,10 +3,10 @@
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
   "ProductSlug": "lego-batman/home",
   "Rating": 4.49,
-  "NumberOfRatings": 262,
-  "DailyRatings": 0,
+  "NumberOfRatings": 269,
+  "DailyRatings": 7,
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2022-07-23T20:01:07.1382055+00:00",
+  "LastChanged": "2022-07-24T20:01:11.3630907+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.8648479+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T20:01:07.1382056+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 262
+    },
+    {
+      "Time": "2022-07-24T20:01:11.3630908+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 269
     }
   ],
   "Tags": [

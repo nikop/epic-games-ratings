@@ -2,11 +2,11 @@
   "ID": "3328b08ac1c14540aa265a1a85c07839",
   "Name": "Horizon Zero Dawn Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
-  "Rating": 4.78,
-  "NumberOfRatings": 3898,
-  "DailyRatings": 160.85,
+  "Rating": 4.77,
+  "NumberOfRatings": 3942,
+  "DailyRatings": 121.11,
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2022-07-24T08:01:24.1621061+00:00",
+  "LastChanged": "2022-07-24T20:01:26.8986116+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:54.5867723+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-24T08:01:24.1621062+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 3898
+    },
+    {
+      "Time": "2022-07-24T20:01:26.8986121+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 3942
     }
   ],
   "Tags": [
@@ -78,7 +83,7 @@
     },
     {
       "Text": "This game has Beautiful Visuals",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game is Relaxing",

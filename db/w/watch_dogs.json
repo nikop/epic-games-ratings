@@ -2,11 +2,11 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs",
   "ProductSlug": null,
-  "Rating": 4.57,
-  "NumberOfRatings": 914,
-  "DailyRatings": 0,
+  "Rating": 4.56,
+  "NumberOfRatings": 936,
+  "DailyRatings": 22,
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2022-07-23T20:00:37.6498655+00:00",
+  "LastChanged": "2022-07-24T20:00:42.132022+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-23T20:00:37.6498657+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 914
+    },
+    {
+      "Time": "2022-07-24T20:00:42.1320221+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 936
     }
   ],
   "Tags": []

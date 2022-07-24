@@ -3,10 +3,10 @@
   "Name": "Control",
   "ProductSlug": null,
   "Rating": 4.6,
-  "NumberOfRatings": 7967,
-  "DailyRatings": 176.27,
+  "NumberOfRatings": 7992,
+  "DailyRatings": 171.99,
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2022-07-24T16:01:04.6145049+00:00",
+  "LastChanged": "2022-07-24T20:00:17.138715+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-07-24T16:01:04.6145051+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 7967
+    },
+    {
+      "Time": "2022-07-24T20:00:17.1387153+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 7992
     }
   ],
   "Tags": [

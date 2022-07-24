@@ -2,16 +2,21 @@
   "ID": "hibiscus",
   "Name": "Oxenfree",
   "ProductSlug": "oxenfree/home",
-  "Rating": 4.65,
-  "NumberOfRatings": 43,
+  "Rating": 4.66,
+  "NumberOfRatings": 44,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
-  "LastChanged": "2022-07-22T20:31:37.9999658+00:00",
+  "LastChanged": "2022-07-24T20:02:07.4766552+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:37.999966+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-07-24T20:02:07.4766556+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 44
     }
   ],
   "Tags": []

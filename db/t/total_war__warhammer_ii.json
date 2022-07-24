@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-ii",
   "Rating": 4.84,
   "NumberOfRatings": 715,
-  "DailyRatings": 17,
+  "DailyRatings": 19.2,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
   "LastChanged": "2022-07-24T18:00:18.2014821+00:00",
   "RatingHistory": [
@@ -117,7 +117,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 76
+      "Count": 81
     }
   ]
 }

@@ -3,10 +3,10 @@
   "Name": "Grand Theft Auto V",
   "ProductSlug": "grand-theft-auto-v",
   "Rating": 4.69,
-  "NumberOfRatings": 296065,
-  "DailyRatings": 5308.17,
+  "NumberOfRatings": 296939,
+  "DailyRatings": 5467.72,
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2022-07-24T16:01:21.7418763+00:00",
+  "LastChanged": "2022-07-24T20:00:33.4178271+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.5868983+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-07-24T16:01:21.7418765+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 296065
+    },
+    {
+      "Time": "2022-07-24T20:00:33.4178272+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 296939
     }
   ],
   "Tags": [
@@ -111,11 +116,11 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 14582
+      "Count": 15112
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 14600
+      "Count": 15165
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -139,7 +144,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 14147
+      "Count": 14641
     }
   ]
 }

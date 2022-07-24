@@ -4,7 +4,7 @@
   "ProductSlug": "scavengers",
   "Rating": 4.27,
   "NumberOfRatings": 271,
-  "DailyRatings": 1.71,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
   "LastChanged": "2022-07-24T08:00:30.1700086+00:00",
   "RatingHistory": [
@@ -52,7 +52,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",

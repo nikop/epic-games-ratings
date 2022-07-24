@@ -3,10 +3,10 @@
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
   "Rating": 4.9,
-  "NumberOfRatings": 350,
-  "DailyRatings": 0,
+  "NumberOfRatings": 354,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2022-07-23T20:00:51.8211886+00:00",
+  "LastChanged": "2022-07-24T20:00:55.5520936+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:49.0094839+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-23T20:00:51.8211887+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 350
+    },
+    {
+      "Time": "2022-07-24T20:00:55.5520939+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 354
     }
   ],
   "Tags": []

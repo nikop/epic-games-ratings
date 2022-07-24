@@ -3,10 +3,10 @@
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
   "Rating": 4.23,
-  "NumberOfRatings": 1562,
-  "DailyRatings": 25.32,
+  "NumberOfRatings": 1570,
+  "DailyRatings": 27,
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2022-07-24T14:02:29.8867605+00:00",
+  "LastChanged": "2022-07-24T20:02:00.7824422+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:37.8027765+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-24T14:02:29.8867607+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 1562
+    },
+    {
+      "Time": "2022-07-24T20:02:00.7824425+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 1570
     }
   ],
   "Tags": [
@@ -88,7 +93,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Characters",
@@ -96,7 +101,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 34
+      "Count": 35
     }
   ]
 }

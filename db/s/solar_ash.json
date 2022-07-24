@@ -2,11 +2,11 @@
   "ID": "fe5a2e3e842a4394938a81f3308df2ed",
   "Name": "Solar Ash",
   "ProductSlug": null,
-  "Rating": 4.68,
-  "NumberOfRatings": 69,
-  "DailyRatings": 0,
+  "Rating": 4.66,
+  "NumberOfRatings": 70,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:26:55.4392125+00:00",
-  "LastChanged": "2022-07-23T20:01:29.7990958+00:00",
+  "LastChanged": "2022-07-24T20:01:34.0909438+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:55.4392128+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T20:01:29.7990959+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 69
+    },
+    {
+      "Time": "2022-07-24T20:01:34.0909442+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 70
     }
   ],
   "Tags": []

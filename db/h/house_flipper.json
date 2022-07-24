@@ -4,7 +4,7 @@
   "ProductSlug": "house-flipper",
   "Rating": 4.74,
   "NumberOfRatings": 625,
-  "DailyRatings": 8,
+  "DailyRatings": 7.64,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "LastChanged": "2022-07-24T18:01:03.550413+00:00",
   "RatingHistory": [
@@ -86,7 +86,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game is Educational",

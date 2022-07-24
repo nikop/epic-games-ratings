@@ -2,11 +2,11 @@
   "ID": "58c35a214bbb4656a536126ad1552d42",
   "Name": "Death Coming",
   "ProductSlug": "death-coming/home",
-  "Rating": 4.38,
-  "NumberOfRatings": 52,
-  "DailyRatings": 0,
+  "Rating": 4.4,
+  "NumberOfRatings": 53,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:20:20.4886047+00:00",
-  "LastChanged": "2022-07-23T20:00:39.8451527+00:00",
+  "LastChanged": "2022-07-24T20:00:44.5291375+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:20.4886049+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T20:00:39.8451531+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 52
+    },
+    {
+      "Time": "2022-07-24T20:00:44.5291376+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 53
     }
   ],
   "Tags": []
