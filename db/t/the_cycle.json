@@ -3,10 +3,10 @@
   "Name": "The Cycle",
   "ProductSlug": null,
   "Rating": 4.16,
-  "NumberOfRatings": 11086,
-  "DailyRatings": 92.91,
+  "NumberOfRatings": 11099,
+  "DailyRatings": 96.99,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2022-07-24T04:00:40.4231274+00:00",
+  "LastChanged": "2022-07-24T06:01:04.3689682+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-07-24T04:00:40.4231276+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 11086
+    },
+    {
+      "Time": "2022-07-24T06:01:04.3689683+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": 11099
     }
   ],
   "Tags": [

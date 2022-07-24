@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.83,
   "NumberOfRatings": 2207,
-  "DailyRatings": 50.1,
+  "DailyRatings": 57.33,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
   "LastChanged": "2022-07-24T04:00:30.6963798+00:00",
   "RatingHistory": [
@@ -75,7 +75,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 143
+      "Count": 149
     },
     {
       "Text": "This game is Educational",

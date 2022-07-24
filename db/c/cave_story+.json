@@ -3,10 +3,10 @@
   "Name": "Cave Story\u002B",
   "ProductSlug": "cave-story-plus",
   "Rating": 4.82,
-  "NumberOfRatings": 137,
-  "DailyRatings": 0,
+  "NumberOfRatings": 140,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2022-07-23T06:04:26.2587613+00:00",
+  "LastChanged": "2022-07-24T06:02:28.737024+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:31.253973+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T06:04:26.2587615+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 137
+    },
+    {
+      "Time": "2022-07-24T06:02:28.7370241+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 140
     }
   ],
   "Tags": [

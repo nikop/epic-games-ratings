@@ -1,6 +1,6 @@
 # WRC 8
 Rating: 4.60 (119)  
-Ratings Per Day: 7.31  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

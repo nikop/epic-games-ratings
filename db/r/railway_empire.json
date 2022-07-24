@@ -4,7 +4,7 @@
   "ProductSlug": "railway-empire/home",
   "Rating": 4.55,
   "NumberOfRatings": 976,
-  "DailyRatings": 35.02,
+  "DailyRatings": 38.44,
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "LastChanged": "2022-07-24T04:00:36.8930124+00:00",
   "RatingHistory": [
@@ -52,7 +52,7 @@
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game is Relaxing",
@@ -80,7 +80,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 33
+      "Count": 36
     }
   ]
 }

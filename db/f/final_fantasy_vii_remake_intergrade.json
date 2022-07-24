@@ -3,10 +3,10 @@
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Rating": 4.85,
-  "NumberOfRatings": 11772,
-  "DailyRatings": 114.78,
+  "NumberOfRatings": 11807,
+  "DailyRatings": 110.02,
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2022-07-23T22:01:01.9159537+00:00",
+  "LastChanged": "2022-07-24T06:01:20.6184594+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:16.7757902+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-23T22:01:01.9159539+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 11772
+    },
+    {
+      "Time": "2022-07-24T06:01:20.6184595+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 11807
     }
   ],
   "Tags": [

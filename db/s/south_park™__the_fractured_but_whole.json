@@ -3,10 +3,10 @@
   "Name": "South Park\u2122: The Fractured But Whole",
   "ProductSlug": null,
   "Rating": 4.82,
-  "NumberOfRatings": 87,
-  "DailyRatings": 2.33,
+  "NumberOfRatings": 88,
+  "DailyRatings": 3.18,
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2022-07-24T04:00:24.3723578+00:00",
+  "LastChanged": "2022-07-24T06:00:48.1476009+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:01.7638491+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T04:00:24.3723581+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 87
+    },
+    {
+      "Time": "2022-07-24T06:00:48.1476013+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 88
     }
   ],
   "Tags": []

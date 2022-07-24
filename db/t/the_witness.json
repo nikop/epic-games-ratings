@@ -2,11 +2,11 @@
   "ID": "magnolia",
   "Name": "The Witness",
   "ProductSlug": "the-witness/home",
-  "Rating": 4.69,
-  "NumberOfRatings": 252,
-  "DailyRatings": 0,
+  "Rating": 4.7,
+  "NumberOfRatings": 253,
+  "DailyRatings": 5.99,
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2022-07-24T02:00:20.2645075+00:00",
+  "LastChanged": "2022-07-24T06:00:55.5375548+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:54.428207+00:00",
@@ -27,12 +27,17 @@
       "Time": "2022-07-24T02:00:20.2645076+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 252
+    },
+    {
+      "Time": "2022-07-24T06:00:55.5375549+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 253
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 51
+      "Count": 52
     }
   ]
 }

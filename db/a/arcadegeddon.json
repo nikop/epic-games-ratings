@@ -3,10 +3,10 @@
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
   "Rating": 4.46,
-  "NumberOfRatings": 557,
-  "DailyRatings": 15.66,
+  "NumberOfRatings": 558,
+  "DailyRatings": 17.99,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-07-24T04:00:48.6247028+00:00",
+  "LastChanged": "2022-07-24T06:01:12.5666349+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-24T04:00:48.6247029+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 557
+    },
+    {
+      "Time": "2022-07-24T06:01:12.566635+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 558
     }
   ],
   "Tags": [
@@ -46,7 +51,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -75,6 +80,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 21
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 20
     }
   ]
 }
