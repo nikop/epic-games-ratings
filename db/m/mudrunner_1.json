@@ -3,10 +3,10 @@
   "Name": "Mudrunner",
   "ProductSlug": null,
   "Rating": 4.62,
-  "NumberOfRatings": 1509,
-  "DailyRatings": 45.6,
+  "NumberOfRatings": 1518,
+  "DailyRatings": 41.99,
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2022-07-24T22:00:25.3264777+00:00",
+  "LastChanged": "2022-07-25T04:00:46.7610411+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:58.5631344+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-24T22:00:25.3264778+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 1509
+    },
+    {
+      "Time": "2022-07-25T04:00:46.7610412+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 1518
     }
   ],
   "Tags": [

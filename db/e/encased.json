@@ -2,11 +2,11 @@
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
   "ProductSlug": "encased",
-  "Rating": 4.28,
-  "NumberOfRatings": 29,
+  "Rating": 4.27,
+  "NumberOfRatings": 30,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2022-07-23T02:01:30.1104071+00:00",
+  "LastChanged": "2022-07-25T04:01:03.9525599+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:17.8710967+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T02:01:30.1104072+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-25T04:01:03.9525601+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []

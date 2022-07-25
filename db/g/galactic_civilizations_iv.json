@@ -3,10 +3,10 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Rating": 4.24,
-  "NumberOfRatings": 283,
-  "DailyRatings": 6.02,
+  "NumberOfRatings": 284,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
-  "LastChanged": "2022-07-24T20:00:47.6836727+00:00",
+  "LastChanged": "2022-07-25T04:01:07.1739992+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.6509479+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T20:00:47.6836729+00:00",
       "Rating": 4.24,
       "NumberOfRatings": 283
+    },
+    {
+      "Time": "2022-07-25T04:01:07.1739993+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 284
     }
   ],
   "Tags": [

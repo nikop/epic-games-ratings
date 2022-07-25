@@ -2,11 +2,11 @@
   "ID": "3d4ea555f7954f06b48050b3b821d6d0",
   "Name": "Fell Seal: Arbiter\u0027s Mark",
   "ProductSlug": "fell-seal-arbiters-mark",
-  "Rating": 4.62,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0,
+  "Rating": 4.59,
+  "NumberOfRatings": 22,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:27:38.543998+00:00",
-  "LastChanged": "2022-07-24T04:01:43.2835636+00:00",
+  "LastChanged": "2022-07-25T04:01:58.3684953+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:38.5439982+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T04:01:43.2835638+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-07-25T04:01:58.3684955+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
   "ProductSlug": null,
   "Rating": 4.78,
-  "NumberOfRatings": 69,
+  "NumberOfRatings": 72,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
-  "LastChanged": "2022-07-23T04:01:10.4630616+00:00",
+  "LastChanged": "2022-07-25T04:00:48.206677+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:10.3058595+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T04:01:10.4630618+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 69
+    },
+    {
+      "Time": "2022-07-25T04:00:48.2066772+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 72
     }
   ],
   "Tags": []

@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.71,
   "NumberOfRatings": 4966,
-  "DailyRatings": 96,
+  "DailyRatings": 108.02,
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "LastChanged": "2022-07-25T02:00:16.3939073+00:00",
   "RatingHistory": [
@@ -148,7 +148,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 338
+      "Count": 347
     },
     {
       "Text": "This game is Relaxing",
