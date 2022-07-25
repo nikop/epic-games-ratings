@@ -3,10 +3,10 @@
   "Name": "Saint\u0027s Row The Third Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
   "Rating": 4.43,
-  "NumberOfRatings": 2739,
-  "DailyRatings": 43.62,
+  "NumberOfRatings": 2745,
+  "DailyRatings": 45.99,
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2022-07-25T18:02:04.0981757+00:00",
+  "LastChanged": "2022-07-25T20:02:08.1110125+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:06.5840638+00:00",
@@ -82,12 +82,17 @@
       "Time": "2022-07-25T18:02:04.0981759+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 2739
+    },
+    {
+      "Time": "2022-07-25T20:02:08.1110125+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 2745
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 622
+      "Count": 634
     },
     {
       "Text": "This game has Obsessive Gameplay",

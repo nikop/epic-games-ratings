@@ -2,11 +2,11 @@
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
   "ProductSlug": null,
-  "Rating": 4.82,
-  "NumberOfRatings": 277,
-  "DailyRatings": 5.33,
+  "Rating": 4.83,
+  "NumberOfRatings": 280,
+  "DailyRatings": 9.01,
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2022-07-25T12:01:24.2164453+00:00",
+  "LastChanged": "2022-07-25T20:00:57.5965808+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.3850649+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-25T12:01:24.2164455+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 277
+    },
+    {
+      "Time": "2022-07-25T20:00:57.596581+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 280
     }
   ],
   "Tags": [

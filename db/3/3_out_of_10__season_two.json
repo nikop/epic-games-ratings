@@ -2,11 +2,11 @@
   "ID": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "Name": "3 out of 10: Season Two",
   "ProductSlug": "3-out-of-10-season-2",
-  "Rating": 4.61,
-  "NumberOfRatings": 28,
-  "DailyRatings": 0,
+  "Rating": 4.59,
+  "NumberOfRatings": 29,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:24:10.8158493+00:00",
-  "LastChanged": "2022-07-24T20:01:13.5448683+00:00",
+  "LastChanged": "2022-07-25T20:01:38.4083747+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.8158496+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T20:01:13.5448684+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-07-25T20:01:38.4083748+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 29
     }
   ],
   "Tags": []

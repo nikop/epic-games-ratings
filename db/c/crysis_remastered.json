@@ -4,7 +4,7 @@
   "ProductSlug": "crysis-remastered",
   "Rating": 4.38,
   "NumberOfRatings": 322,
-  "DailyRatings": 8,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:33:04.7204895+00:00",
   "LastChanged": "2022-07-25T18:02:40.4303421+00:00",
   "RatingHistory": [
@@ -47,7 +47,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 54
+      "Count": 56
     }
   ]
 }

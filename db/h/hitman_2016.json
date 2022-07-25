@@ -3,10 +3,10 @@
   "Name": "Hitman 2016",
   "ProductSlug": null,
   "Rating": 4.66,
-  "NumberOfRatings": 3225,
-  "DailyRatings": 58.98,
+  "NumberOfRatings": 3236,
+  "DailyRatings": 68.38,
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2022-07-25T18:02:33.3239248+00:00",
+  "LastChanged": "2022-07-25T20:02:40.7448258+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:10.6067818+00:00",
@@ -92,12 +92,17 @@
       "Time": "2022-07-25T18:02:33.323925+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 3225
+    },
+    {
+      "Time": "2022-07-25T20:02:40.7448259+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3236
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",

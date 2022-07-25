@@ -3,10 +3,10 @@
   "Name": "The Vanishing of Ethan Carter",
   "ProductSlug": "the-vanishing-of-ethan-carter",
   "Rating": 4.21,
-  "NumberOfRatings": 244,
-  "DailyRatings": 0,
+  "NumberOfRatings": 252,
+  "DailyRatings": 8,
   "FirstSeen": "2022-07-22T20:30:30.7974201+00:00",
-  "LastChanged": "2022-07-24T20:02:00.2713151+00:00",
+  "LastChanged": "2022-07-25T20:02:28.5772992+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:30.7974203+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T20:02:00.2713153+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 244
+    },
+    {
+      "Time": "2022-07-25T20:02:28.5772993+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 252
     }
   ],
   "Tags": []

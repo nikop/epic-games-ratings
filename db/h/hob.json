@@ -2,11 +2,11 @@
   "ID": "e1067ce994e24a4abbe36247eaa26bfd",
   "Name": "Hob",
   "ProductSlug": "hob/home",
-  "Rating": 4.57,
-  "NumberOfRatings": 232,
-  "DailyRatings": 0,
+  "Rating": 4.58,
+  "NumberOfRatings": 233,
+  "DailyRatings": 1.71,
   "FirstSeen": "2022-07-22T20:18:19.3157268+00:00",
-  "LastChanged": "2022-07-25T06:00:58.2304353+00:00",
+  "LastChanged": "2022-07-25T20:00:53.2283759+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:19.3157273+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-25T06:00:58.2304356+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 232
+    },
+    {
+      "Time": "2022-07-25T20:00:53.2283761+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 233
     }
   ],
   "Tags": []

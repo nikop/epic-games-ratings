@@ -4,7 +4,7 @@
   "ProductSlug": "old-world",
   "Rating": 4.66,
   "NumberOfRatings": 838,
-  "DailyRatings": 11,
+  "DailyRatings": 10.8,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "LastChanged": "2022-07-25T18:01:22.3412944+00:00",
   "RatingHistory": [
@@ -114,7 +114,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 52
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Characters",

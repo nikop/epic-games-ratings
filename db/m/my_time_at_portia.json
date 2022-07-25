@@ -2,11 +2,11 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia/home",
-  "Rating": 4.67,
-  "NumberOfRatings": 2264,
-  "DailyRatings": 38.16,
+  "Rating": 4.66,
+  "NumberOfRatings": 2271,
+  "DailyRatings": 34.9,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-07-25T16:01:37.7412471+00:00",
+  "LastChanged": "2022-07-25T20:01:25.2018146+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-07-25T16:01:37.7412473+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 2264
+    },
+    {
+      "Time": "2022-07-25T20:01:25.201815+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 2271
     }
   ],
   "Tags": [

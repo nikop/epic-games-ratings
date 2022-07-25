@@ -2,11 +2,11 @@
   "ID": "4ac85017adaf4d228518d64325c4ec65",
   "Name": "Obduction",
   "ProductSlug": "obduction",
-  "Rating": 4.13,
-  "NumberOfRatings": 112,
-  "DailyRatings": 0,
+  "Rating": 4.12,
+  "NumberOfRatings": 115,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:24:36.0781179+00:00",
-  "LastChanged": "2022-07-24T20:01:16.7803647+00:00",
+  "LastChanged": "2022-07-25T20:01:41.8583868+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:36.0781184+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T20:01:16.7803649+00:00",
       "Rating": 4.13,
       "NumberOfRatings": 112
+    },
+    {
+      "Time": "2022-07-25T20:01:41.858387+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": 115
     }
   ],
   "Tags": []
