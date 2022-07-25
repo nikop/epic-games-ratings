@@ -2,11 +2,11 @@
   "ID": "00b9ec358e1f46daa4f8e1194d5081d8",
   "Name": "Alan Wake",
   "ProductSlug": "alan-wake",
-  "Rating": 4.45,
-  "NumberOfRatings": 203,
-  "DailyRatings": 0,
+  "Rating": 4.43,
+  "NumberOfRatings": 210,
+  "DailyRatings": 7,
   "FirstSeen": "2022-07-22T20:27:21.5062168+00:00",
-  "LastChanged": "2022-07-24T08:01:35.0852681+00:00",
+  "LastChanged": "2022-07-25T08:02:00.9053756+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:21.506217+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T08:01:35.0852682+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 203
+    },
+    {
+      "Time": "2022-07-25T08:02:00.9053758+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 210
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Rayman Legends",
   "ProductSlug": "rayman-legends/home",
   "Rating": 4.68,
-  "NumberOfRatings": 185,
-  "DailyRatings": 0,
+  "NumberOfRatings": 186,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2022-07-25T04:02:24.4743336+00:00",
+  "LastChanged": "2022-07-25T08:02:28.9570451+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:21.8622947+00:00",
@@ -27,12 +27,17 @@
       "Time": "2022-07-25T04:02:24.4743338+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 185
+    },
+    {
+      "Time": "2022-07-25T08:02:28.9570452+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 186
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 38
+      "Count": 39
     }
   ]
 }

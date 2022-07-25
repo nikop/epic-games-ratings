@@ -2,11 +2,11 @@
   "ID": "f7e06ee3d0c1491094cc0215859f0120",
   "Name": "Untitled Goose Game",
   "ProductSlug": "untitled-goose-game/home",
-  "Rating": 4.73,
-  "NumberOfRatings": 62,
-  "DailyRatings": 0,
+  "Rating": 4.72,
+  "NumberOfRatings": 65,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:16:58.6433496+00:00",
-  "LastChanged": "2022-07-24T08:00:15.8008379+00:00",
+  "LastChanged": "2022-07-25T08:00:40.2154206+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:58.6433498+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T08:00:15.8008381+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-07-25T08:00:40.2154207+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 65
     }
   ],
   "Tags": []
