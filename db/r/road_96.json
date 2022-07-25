@@ -2,11 +2,11 @@
   "ID": "755d1aa0a0154fe7a602caaec1f18c10",
   "Name": "Road 96",
   "ProductSlug": null,
-  "Rating": 4.6,
-  "NumberOfRatings": 45,
-  "DailyRatings": 0,
+  "Rating": 4.59,
+  "NumberOfRatings": 49,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:25:33.5631582+00:00",
-  "LastChanged": "2022-07-24T12:01:23.6412878+00:00",
+  "LastChanged": "2022-07-25T12:02:15.3302275+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:33.5631588+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T12:01:23.641288+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 45
+    },
+    {
+      "Time": "2022-07-25T12:02:15.3302276+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 49
     }
   ],
   "Tags": []

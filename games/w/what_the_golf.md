@@ -1,8 +1,7 @@
-# The Eternal Cylinder
-Rating: 4.82 (76)  
+# What the Golf?
+Rating: 4.85 (20)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-07-22 | 4.81 | 75 |
-| 2022-07-25 | 4.82 | 76 |
+| 2022-07-25 | 4.85 | 20 |

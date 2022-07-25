@@ -2,11 +2,11 @@
   "ID": "641243a8260e40d1b4599b7e329fce49",
   "Name": "The Guild 3",
   "ProductSlug": "the-guild-3",
-  "Rating": 4,
-  "NumberOfRatings": 49,
+  "Rating": 4.04,
+  "NumberOfRatings": 51,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:22.0812478+00:00",
-  "LastChanged": "2022-07-23T11:06:40.093075+00:00",
+  "LastChanged": "2022-07-25T12:01:42.6718316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:22.0812481+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T11:06:40.0930752+00:00",
       "Rating": 4,
       "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-07-25T12:01:42.6718317+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 51
     }
   ],
   "Tags": []

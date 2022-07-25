@@ -1,6 +1,6 @@
 # Faster Than Light
 Rating: 4.79 (582)  
-Ratings Per Day: 18.00  
+Ratings Per Day: 20.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

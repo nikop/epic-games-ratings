@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.8,
   "NumberOfRatings": 1844,
-  "DailyRatings": 27.99,
+  "DailyRatings": 27.6,
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "LastChanged": "2022-07-25T10:00:41.117967+00:00",
   "RatingHistory": [
@@ -139,7 +139,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 168
+      "Count": 175
     },
     {
       "Text": "This game has Amazing Storytelling",

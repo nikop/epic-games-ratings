@@ -3,10 +3,10 @@
   "Name": "Far Cry 3",
   "ProductSlug": null,
   "Rating": 4.68,
-  "NumberOfRatings": 221,
-  "DailyRatings": 0,
+  "NumberOfRatings": 222,
+  "DailyRatings": 2.4,
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2022-07-25T02:01:10.178392+00:00",
+  "LastChanged": "2022-07-25T12:02:08.7546831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -32,12 +32,17 @@
       "Time": "2022-07-25T02:01:10.1783921+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 221
+    },
+    {
+      "Time": "2022-07-25T12:02:08.7546833+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 222
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 59
+      "Count": 63
     }
   ]
 }

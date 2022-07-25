@@ -3,10 +3,10 @@
   "Name": "RimWorld",
   "ProductSlug": "rimworld/home",
   "Rating": 4.89,
-  "NumberOfRatings": 523,
-  "DailyRatings": 15.43,
+  "NumberOfRatings": 525,
+  "DailyRatings": 7.2,
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2022-07-25T00:00:44.5886785+00:00",
+  "LastChanged": "2022-07-25T12:01:21.3310154+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-25T00:00:44.5886787+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 523
+    },
+    {
+      "Time": "2022-07-25T12:01:21.3310155+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 525
     }
   ],
   "Tags": [
@@ -75,7 +80,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 78
+      "Count": 82
     },
     {
       "Text": "This game is Relaxing",

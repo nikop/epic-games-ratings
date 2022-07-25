@@ -3,10 +3,10 @@
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Rating": 4.35,
-  "NumberOfRatings": 1044,
-  "DailyRatings": 7,
+  "NumberOfRatings": 1045,
+  "DailyRatings": 5.99,
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2022-07-25T10:01:08.1957963+00:00",
+  "LastChanged": "2022-07-25T12:01:35.7108076+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:27.713592+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-25T10:01:08.1957964+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 1044
+    },
+    {
+      "Time": "2022-07-25T12:01:35.710808+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 1045
     }
   ],
   "Tags": [
@@ -84,7 +89,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 129
+      "Count": 131
     },
     {
       "Text": "This game is Highly Recommended",
@@ -100,7 +105,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 115
+      "Count": 119
     },
     {
       "Text": "This game has a Competitive Community",

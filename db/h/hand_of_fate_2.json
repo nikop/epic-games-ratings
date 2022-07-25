@@ -3,10 +3,10 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": null,
   "Rating": 4.57,
-  "NumberOfRatings": 388,
-  "DailyRatings": 0,
+  "NumberOfRatings": 394,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "LastChanged": "2022-07-24T12:00:59.5642115+00:00",
+  "LastChanged": "2022-07-25T12:01:50.5953835+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:25.6908042+00:00",
@@ -32,12 +32,17 @@
       "Time": "2022-07-24T12:00:59.5642117+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 388
+    },
+    {
+      "Time": "2022-07-25T12:01:50.5953836+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 394
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 99
+      "Count": 102
     }
   ]
 }

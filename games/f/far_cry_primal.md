@@ -1,6 +1,6 @@
 # Far Cry Primal
 Rating: 4.65 (239)  
-Ratings Per Day: 4.00  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
