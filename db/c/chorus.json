@@ -2,11 +2,11 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": null,
-  "Rating": 4.47,
-  "NumberOfRatings": 32,
-  "DailyRatings": 0,
+  "Rating": 4.48,
+  "NumberOfRatings": 33,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
-  "LastChanged": "2022-07-24T10:01:26.1024305+00:00",
+  "LastChanged": "2022-07-25T10:01:45.0385008+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:13.6854187+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T10:01:26.1024307+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-07-25T10:01:45.0385009+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 33
     }
   ],
   "Tags": []

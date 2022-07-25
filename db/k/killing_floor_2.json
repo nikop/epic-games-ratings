@@ -3,10 +3,10 @@
   "Name": "Killing Floor 2",
   "ProductSlug": null,
   "Rating": 4.29,
-  "NumberOfRatings": 12551,
-  "DailyRatings": 271.92,
+  "NumberOfRatings": 12577,
+  "DailyRatings": 276.94,
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2022-07-25T08:00:38.4560042+00:00",
+  "LastChanged": "2022-07-25T10:00:39.5907058+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.1518677+00:00",
@@ -122,16 +122,21 @@
       "Time": "2022-07-25T08:00:38.4560044+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 12551
+    },
+    {
+      "Time": "2022-07-25T10:00:39.5907062+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 12577
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 4436
+      "Count": 4603
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 238
+      "Count": 248
     },
     {
       "Text": "This game is Extremely Fun",

@@ -2,11 +2,11 @@
   "ID": "0aaf0617ee0d47df87c0dc93509159dd",
   "Name": "Carcassonne",
   "ProductSlug": null,
-  "Rating": 4.7,
-  "NumberOfRatings": 142,
-  "DailyRatings": 0,
+  "Rating": 4.71,
+  "NumberOfRatings": 146,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2022-07-24T10:00:33.3173252+00:00",
+  "LastChanged": "2022-07-25T10:00:52.0083975+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.0160662+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T10:00:33.3173254+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 142
+    },
+    {
+      "Time": "2022-07-25T10:00:52.0083976+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 146
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "8de58df378c34407b6db0388e0470a45",
   "Name": "Amnesia: A Machine for Pigs",
   "ProductSlug": "amnesia-a-machine-for-pigs",
-  "Rating": 4.09,
-  "NumberOfRatings": 100,
-  "DailyRatings": 0,
+  "Rating": 4.1,
+  "NumberOfRatings": 102,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:28:01.9575759+00:00",
-  "LastChanged": "2022-07-24T10:01:46.9081616+00:00",
+  "LastChanged": "2022-07-25T10:02:06.1819751+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:01.9575762+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T10:01:46.9081617+00:00",
       "Rating": 4.09,
       "NumberOfRatings": 100
+    },
+    {
+      "Time": "2022-07-25T10:02:06.1819753+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": 102
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Syndicate",
   "ProductSlug": null,
   "Rating": 4.51,
-  "NumberOfRatings": 1426,
-  "DailyRatings": 36,
+  "NumberOfRatings": 1440,
+  "DailyRatings": 28.36,
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2022-07-24T20:00:17.5730844+00:00",
+  "LastChanged": "2022-07-25T10:00:40.0199197+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.1720532+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-24T20:00:17.5730845+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 1426
+    },
+    {
+      "Time": "2022-07-25T10:00:40.0199198+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 1440
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "viola",
   "Name": "Outward",
   "ProductSlug": null,
-  "Rating": 4.54,
-  "NumberOfRatings": 194,
-  "DailyRatings": 0,
+  "Rating": 4.53,
+  "NumberOfRatings": 195,
+  "DailyRatings": 1.5,
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2022-07-24T18:00:59.5866492+00:00",
+  "LastChanged": "2022-07-25T10:01:23.0157294+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-24T18:00:59.5866494+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 194
+    },
+    {
+      "Time": "2022-07-25T10:01:23.0157296+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 195
     }
   ],
   "Tags": []

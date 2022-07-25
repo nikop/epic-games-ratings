@@ -3,10 +3,10 @@
   "Name": "Supraland",
   "ProductSlug": null,
   "Rating": 4.6,
-  "NumberOfRatings": 22045,
-  "DailyRatings": 102.97,
+  "NumberOfRatings": 22052,
+  "DailyRatings": 97.06,
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2022-07-25T08:01:02.3281861+00:00",
+  "LastChanged": "2022-07-25T10:01:03.5812925+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-07-25T08:01:02.3281862+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 22045
+    },
+    {
+      "Time": "2022-07-25T10:01:03.5812926+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 22052
     }
   ],
   "Tags": [

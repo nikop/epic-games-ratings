@@ -3,10 +3,10 @@
   "Name": "Sifu",
   "ProductSlug": null,
   "Rating": 4.81,
-  "NumberOfRatings": 4927,
-  "DailyRatings": 109.05,
+  "NumberOfRatings": 4933,
+  "DailyRatings": 94.88,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-07-25T06:01:41.880568+00:00",
+  "LastChanged": "2022-07-25T10:01:36.0580754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -92,12 +92,17 @@
       "Time": "2022-07-25T06:01:41.8805681+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 4927
+    },
+    {
+      "Time": "2022-07-25T10:01:36.0580756+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 4933
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1653
+      "Count": 1703
     },
     {
       "Text": "This game is Extremely Fun",

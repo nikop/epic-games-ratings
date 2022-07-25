@@ -3,10 +3,10 @@
   "Name": "Phantom Brigade",
   "ProductSlug": "phantom-brigade",
   "Rating": 4.68,
-  "NumberOfRatings": 110,
-  "DailyRatings": 0,
+  "NumberOfRatings": 111,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
-  "LastChanged": "2022-07-24T10:01:12.2371671+00:00",
+  "LastChanged": "2022-07-25T10:01:31.0381946+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:24.5427882+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T10:01:12.2371673+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 110
+    },
+    {
+      "Time": "2022-07-25T10:01:31.0381948+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 111
     }
   ],
   "Tags": [
