@@ -3,10 +3,10 @@
   "Name": "Ashen",
   "ProductSlug": null,
   "Rating": 4.16,
-  "NumberOfRatings": 49,
-  "DailyRatings": 0,
+  "NumberOfRatings": 51,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
-  "LastChanged": "2022-07-24T14:00:47.4461107+00:00",
+  "LastChanged": "2022-07-25T14:01:23.9990966+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.0881691+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T14:00:47.446111+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-07-25T14:01:23.9990968+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": 51
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "ad876f7812c946f6a362bf821b971b48",
   "Name": "Stick It To The Man!",
   "ProductSlug": "stick-it-to-the-man",
-  "Rating": 4.57,
-  "NumberOfRatings": 30,
-  "DailyRatings": 0,
+  "Rating": 4.58,
+  "NumberOfRatings": 31,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:19:08.6755666+00:00",
-  "LastChanged": "2022-07-24T14:01:04.0910286+00:00",
+  "LastChanged": "2022-07-25T14:01:42.1887316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:08.6755668+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T14:01:04.0910288+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-25T14:01:42.1887317+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []

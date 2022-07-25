@@ -3,10 +3,10 @@
   "Name": "Phoenix Point",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 1124,
-  "DailyRatings": 28.01,
+  "NumberOfRatings": 1129,
+  "DailyRatings": 28.36,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-07-25T10:00:48.3445657+00:00",
+  "LastChanged": "2022-07-25T14:01:30.4303202+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-25T10:00:48.3445659+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 1124
+    },
+    {
+      "Time": "2022-07-25T14:01:30.4303203+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 1129
     }
   ],
   "Tags": [
@@ -125,7 +130,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 128
+      "Count": 132
     },
     {
       "Text": "This game has Amazing Characters",

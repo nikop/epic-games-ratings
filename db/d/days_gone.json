@@ -2,11 +2,11 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Rating": 4.7,
-  "NumberOfRatings": 2446,
-  "DailyRatings": 52.78,
+  "Rating": 4.71,
+  "NumberOfRatings": 2451,
+  "DailyRatings": 43.98,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2022-07-25T08:02:16.6898191+00:00",
+  "LastChanged": "2022-07-25T14:03:05.0783748+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-07-25T08:02:16.6898193+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2446
+    },
+    {
+      "Time": "2022-07-25T14:03:05.078375+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 2451
     }
   ],
   "Tags": [
@@ -151,7 +156,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game is Great for Beginners",
@@ -163,7 +168,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Obsessive Gameplay",
