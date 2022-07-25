@@ -1,9 +1,10 @@
 # Rage 2
-Rating: 4.29 (2 072)  
-Ratings Per Day: 39.28  
+Rating: 4.29 (2 075)  
+Ratings Per Day: 42.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-07-22 | 4.30 | 1 995 |
 | 2022-07-23 | 4.29 | 2 036 |
 | 2022-07-24 | 4.29 | 2 072 |
+| 2022-07-25 | 4.29 | 2 075 |

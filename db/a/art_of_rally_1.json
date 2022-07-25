@@ -3,15 +3,20 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally/home",
   "Rating": 4.97,
-  "NumberOfRatings": 31,
+  "NumberOfRatings": 32,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
-  "LastChanged": "2022-07-22T20:19:53.7171963+00:00",
+  "LastChanged": "2022-07-25T00:00:54.2835638+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:53.7171964+00:00",
       "Rating": 4.97,
       "NumberOfRatings": 31
+    },
+    {
+      "Time": "2022-07-25T00:00:54.2835639+00:00",
+      "Rating": 4.97,
+      "NumberOfRatings": 32
     }
   ],
   "Tags": []

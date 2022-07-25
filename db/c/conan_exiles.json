@@ -3,10 +3,10 @@
   "Name": "Conan Exiles",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 692,
-  "DailyRatings": 16,
+  "NumberOfRatings": 693,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2022-07-24T12:00:16.888787+00:00",
+  "LastChanged": "2022-07-25T00:00:31.3535302+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-24T12:00:16.8887871+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 692
+    },
+    {
+      "Time": "2022-07-25T00:00:31.3535304+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 693
     }
   ],
   "Tags": [

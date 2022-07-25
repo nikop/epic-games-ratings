@@ -3,10 +3,10 @@
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
   "Rating": 4.58,
-  "NumberOfRatings": 1129,
-  "DailyRatings": 25.09,
+  "NumberOfRatings": 1130,
+  "DailyRatings": 21,
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-07-24T20:01:51.5519862+00:00",
+  "LastChanged": "2022-07-25T00:02:02.1947412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-24T20:01:51.5519863+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 1129
+    },
+    {
+      "Time": "2022-07-25T00:02:02.1947413+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 1130
     }
   ],
   "Tags": [

@@ -2,11 +2,11 @@
   "ID": "db9e3a16b41442c5a35bca0e42db363e",
   "Name": "Fishing - North Atlantic",
   "ProductSlug": null,
-  "Rating": 4.26,
-  "NumberOfRatings": 23,
-  "DailyRatings": 0,
+  "Rating": 4.25,
+  "NumberOfRatings": 24,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:24:51.8726986+00:00",
-  "LastChanged": "2022-07-24T00:01:15.0574982+00:00",
+  "LastChanged": "2022-07-25T00:01:30.6498314+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:51.8726988+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T00:01:15.0574983+00:00",
       "Rating": 4.26,
       "NumberOfRatings": 23
+    },
+    {
+      "Time": "2022-07-25T00:01:30.6498316+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 24
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "The Pathless",
   "ProductSlug": "the-pathless/home",
   "Rating": 4.71,
-  "NumberOfRatings": 34,
+  "NumberOfRatings": 35,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:35.2337703+00:00",
-  "LastChanged": "2022-07-22T23:03:05.4229325+00:00",
+  "LastChanged": "2022-07-25T00:01:21.2356011+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.2337706+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-22T23:03:05.4229327+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-07-25T00:01:21.2356012+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 35
     }
   ],
   "Tags": []
