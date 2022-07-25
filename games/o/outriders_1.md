@@ -1,6 +1,6 @@
 # Outriders
 Rating: 4.41 (855)  
-Ratings Per Day: 8.00  
+Ratings Per Day: 7.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -2,11 +2,11 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Rating": 4.48,
-  "NumberOfRatings": 172,
-  "DailyRatings": 0,
+  "Rating": 4.49,
+  "NumberOfRatings": 175,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
-  "LastChanged": "2022-07-24T18:02:09.3088681+00:00",
+  "LastChanged": "2022-07-25T18:02:32.1207504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:00.1804664+00:00",
@@ -17,12 +17,17 @@
       "Time": "2022-07-24T18:02:09.3088683+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 172
+    },
+    {
+      "Time": "2022-07-25T18:02:32.1207508+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 175
     }
   ],
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
-      "Count": 41
+      "Count": 42
     }
   ]
 }

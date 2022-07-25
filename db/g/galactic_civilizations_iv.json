@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Rating": 4.24,
   "NumberOfRatings": 285,
-  "DailyRatings": 3,
+  "DailyRatings": 2.4,
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "LastChanged": "2022-07-25T16:01:24.337001+00:00",
   "RatingHistory": [
@@ -55,6 +55,10 @@
     {
       "Text": "This game is Extremely Fun",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
     }
   ]
 }

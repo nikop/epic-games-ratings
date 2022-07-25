@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.78,
   "NumberOfRatings": 1093,
-  "DailyRatings": 17,
+  "DailyRatings": 16.36,
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
   "LastChanged": "2022-07-25T16:01:59.2903227+00:00",
   "RatingHistory": [
@@ -97,7 +97,7 @@
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game is Great for Beginners",

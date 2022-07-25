@@ -1,6 +1,6 @@
 # Far Cry 2: Fortune's Edition
 Rating: 4.32 (28)  
-Ratings Per Day: 2.00  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

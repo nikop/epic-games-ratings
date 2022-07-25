@@ -2,11 +2,11 @@
   "ID": "c4a39e8e304c4356afcddd79820b223d",
   "Name": "Demon\u0027s Tilt",
   "ProductSlug": "demons-tilt",
-  "Rating": 4.54,
-  "NumberOfRatings": 158,
+  "Rating": 4.53,
+  "NumberOfRatings": 159,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
-  "LastChanged": "2022-07-24T16:01:19.1864183+00:00",
+  "LastChanged": "2022-07-25T18:00:49.1081393+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:30.3918216+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T16:01:19.1864186+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 158
+    },
+    {
+      "Time": "2022-07-25T18:00:49.1081397+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 159
     }
   ],
   "Tags": []

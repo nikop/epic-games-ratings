@@ -2,11 +2,11 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium",
   "ProductSlug": "disco-elysium",
-  "Rating": 4.87,
-  "NumberOfRatings": 901,
-  "DailyRatings": 0,
+  "Rating": 4.88,
+  "NumberOfRatings": 906,
+  "DailyRatings": 20.03,
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "LastChanged": "2022-07-25T12:01:30.5443011+00:00",
+  "LastChanged": "2022-07-25T18:00:59.1668964+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:46.370963+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-25T12:01:30.5443013+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 901
+    },
+    {
+      "Time": "2022-07-25T18:00:59.1668966+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 906
     }
   ],
   "Tags": [

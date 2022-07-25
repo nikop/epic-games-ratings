@@ -2,11 +2,11 @@
   "ID": "3b550d92911244558770b68c5a812a5d",
   "Name": "Sheltered",
   "ProductSlug": "sheltered",
-  "Rating": 4.45,
-  "NumberOfRatings": 420,
-  "DailyRatings": 6,
+  "Rating": 4.44,
+  "NumberOfRatings": 421,
+  "DailyRatings": 6.54,
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
-  "LastChanged": "2022-07-25T16:00:55.0095282+00:00",
+  "LastChanged": "2022-07-25T18:00:37.0684369+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.2392679+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-25T16:00:55.0095283+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 420
+    },
+    {
+      "Time": "2022-07-25T18:00:37.0684371+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 421
     }
   ],
   "Tags": [

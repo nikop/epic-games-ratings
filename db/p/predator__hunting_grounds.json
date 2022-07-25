@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.35,
   "NumberOfRatings": 462,
-  "DailyRatings": 13.09,
+  "DailyRatings": 14.65,
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
   "LastChanged": "2022-07-25T14:01:42.9081743+00:00",
   "RatingHistory": [
@@ -104,7 +104,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has a Competitive Community",

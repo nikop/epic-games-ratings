@@ -3,10 +3,10 @@
   "Name": "Death Stranding Directors Cut",
   "ProductSlug": "death-stranding-directors-cut",
   "Rating": 4.84,
-  "NumberOfRatings": 1698,
-  "DailyRatings": 43.18,
+  "NumberOfRatings": 1699,
+  "DailyRatings": 40.35,
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2022-07-25T16:02:13.3903851+00:00",
+  "LastChanged": "2022-07-25T18:01:56.9296521+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-25T16:02:13.3903853+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 1698
+    },
+    {
+      "Time": "2022-07-25T18:01:56.9296523+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 1699
     }
   ],
   "Tags": [
@@ -121,7 +126,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Quickly Understood Controls",

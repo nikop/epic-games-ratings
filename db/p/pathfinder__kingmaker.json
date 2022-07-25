@@ -3,10 +3,10 @@
   "Name": "Pathfinder: Kingmaker",
   "ProductSlug": null,
   "Rating": 4.55,
-  "NumberOfRatings": 2164,
-  "DailyRatings": 49.07,
+  "NumberOfRatings": 2169,
+  "DailyRatings": 49.99,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-07-25T16:01:53.8052224+00:00",
+  "LastChanged": "2022-07-25T18:01:36.7394646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-07-25T16:01:53.8052228+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 2164
+    },
+    {
+      "Time": "2022-07-25T18:01:36.7394648+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 2169
     }
   ],
   "Tags": [
