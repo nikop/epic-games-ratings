@@ -1,5 +1,5 @@
 # Far Cry 3
-Rating: 4.67 (213)  
+Rating: 4.68 (221)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -7,3 +7,4 @@ Ratings Per Day: 0.00
 | 2022-07-22 | 4.66 | 206 |
 | 2022-07-23 | 4.67 | 211 |
 | 2022-07-24 | 4.67 | 213 |
+| 2022-07-25 | 4.68 | 221 |

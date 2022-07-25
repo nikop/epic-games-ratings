@@ -2,11 +2,11 @@
   "ID": "iris",
   "Name": "Phoenix Point",
   "ProductSlug": null,
-  "Rating": 4.57,
-  "NumberOfRatings": 1111,
-  "DailyRatings": 15.6,
+  "Rating": 4.56,
+  "NumberOfRatings": 1118,
+  "DailyRatings": 20,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-07-24T22:00:23.838306+00:00",
+  "LastChanged": "2022-07-25T02:00:19.9307042+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -77,16 +77,21 @@
       "Time": "2022-07-24T22:00:23.8383062+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 1111
+    },
+    {
+      "Time": "2022-07-25T02:00:19.9307043+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 1118
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 537
+      "Count": 549
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 148
+      "Count": 153
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -114,7 +119,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 119
+      "Count": 127
     },
     {
       "Text": "This game has a Creative Community",

@@ -1,10 +1,10 @@
 # Assassin's Creed Odyssey
-Rating: 4.75 (3 257)  
-Ratings Per Day: 48.99  
+Rating: 4.75 (3 258)  
+Ratings Per Day: 48.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-07-22 | 4.75 | 3 160 |
 | 2022-07-23 | 4.75 | 3 200 |
 | 2022-07-24 | 4.75 | 3 248 |
-| 2022-07-25 | 4.75 | 3 257 |
+| 2022-07-25 | 4.75 | 3 258 |

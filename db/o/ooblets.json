@@ -3,10 +3,10 @@
   "Name": "Ooblets",
   "ProductSlug": "ooblets/home",
   "Rating": 4.89,
-  "NumberOfRatings": 391,
-  "DailyRatings": 3.99,
+  "NumberOfRatings": 399,
+  "DailyRatings": 9.6,
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-07-24T06:02:09.541021+00:00",
+  "LastChanged": "2022-07-25T02:01:32.8747008+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -32,12 +32,17 @@
       "Time": "2022-07-24T06:02:09.5410211+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 391
+    },
+    {
+      "Time": "2022-07-25T02:01:32.8747009+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 399
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 137
+      "Count": 142
     }
   ]
 }

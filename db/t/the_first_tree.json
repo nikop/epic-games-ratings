@@ -2,11 +2,11 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Rating": 4.08,
-  "NumberOfRatings": 25,
-  "DailyRatings": 0,
+  "Rating": 4.15,
+  "NumberOfRatings": 27,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
-  "LastChanged": "2022-07-24T02:01:35.559014+00:00",
+  "LastChanged": "2022-07-25T02:01:35.7538463+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.3923771+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T02:01:35.5590141+00:00",
       "Rating": 4.08,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-07-25T02:01:35.7538464+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []
