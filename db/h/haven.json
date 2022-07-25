@@ -2,16 +2,21 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Rating": 4.76,
-  "NumberOfRatings": 21,
+  "Rating": 4.77,
+  "NumberOfRatings": 22,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
-  "LastChanged": "2022-07-22T20:20:00.7905865+00:00",
+  "LastChanged": "2022-07-25T06:01:10.6832246+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.7905866+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-07-25T06:01:10.6832248+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []

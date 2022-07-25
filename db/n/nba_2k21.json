@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.42,
   "NumberOfRatings": 29915,
-  "DailyRatings": 351.94,
+  "DailyRatings": 329.26,
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
   "LastChanged": "2022-07-25T04:01:46.6899663+00:00",
   "RatingHistory": [
@@ -149,7 +149,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 1628
+      "Count": 1681
     }
   ]
 }

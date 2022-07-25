@@ -3,10 +3,10 @@
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
   "Rating": 4.79,
-  "NumberOfRatings": 62,
-  "DailyRatings": 0,
+  "NumberOfRatings": 63,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2022-07-24T06:02:42.4266496+00:00",
+  "LastChanged": "2022-07-25T06:02:43.1679138+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:28.8932125+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T06:02:42.4266497+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-07-25T06:02:43.167914+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 63
     }
   ],
   "Tags": []
