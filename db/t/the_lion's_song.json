@@ -2,16 +2,21 @@
   "ID": "e35a5826457c4c98aada2ffad7b5ea5d",
   "Name": "The Lion\u0027s Song",
   "ProductSlug": "the-lions-song",
-  "Rating": 4.42,
-  "NumberOfRatings": 26,
+  "Rating": 4.43,
+  "NumberOfRatings": 28,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:33.7126844+00:00",
-  "LastChanged": "2022-07-22T20:23:33.7126846+00:00",
+  "LastChanged": "2022-07-25T16:01:45.6980293+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:33.712685+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-07-25T16:01:45.6980296+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 28
     }
   ],
   "Tags": []

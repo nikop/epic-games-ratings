@@ -3,10 +3,10 @@
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included/home",
   "Rating": 4.87,
-  "NumberOfRatings": 557,
-  "DailyRatings": 11.99,
+  "NumberOfRatings": 558,
+  "DailyRatings": 12,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-07-25T14:01:54.9272066+00:00",
+  "LastChanged": "2022-07-25T16:01:24.308331+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-25T14:01:54.9272068+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 557
+    },
+    {
+      "Time": "2022-07-25T16:01:24.3083312+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 558
     }
   ],
   "Tags": [
@@ -80,7 +85,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game has Amazing Characters",

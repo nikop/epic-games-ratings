@@ -2,11 +2,11 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": null,
-  "Rating": 4.37,
-  "NumberOfRatings": 78,
-  "DailyRatings": 0,
+  "Rating": 4.4,
+  "NumberOfRatings": 83,
+  "DailyRatings": 5,
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
-  "LastChanged": "2022-07-24T16:02:31.8006126+00:00",
+  "LastChanged": "2022-07-25T16:02:18.6487854+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:44.2322187+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T16:02:31.8006127+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 78
+    },
+    {
+      "Time": "2022-07-25T16:02:18.6487855+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 83
     }
   ],
   "Tags": []

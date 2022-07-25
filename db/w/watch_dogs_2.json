@@ -3,10 +3,10 @@
   "Name": "Watch Dogs 2",
   "ProductSlug": null,
   "Rating": 4.58,
-  "NumberOfRatings": 3164,
-  "DailyRatings": 66.67,
+  "NumberOfRatings": 3194,
+  "DailyRatings": 73.01,
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2022-07-25T08:01:18.7726799+00:00",
+  "LastChanged": "2022-07-25T16:01:32.2185406+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-25T08:01:18.7726801+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 3164
+    },
+    {
+      "Time": "2022-07-25T16:01:32.2185408+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 3194
     }
   ],
   "Tags": [
@@ -125,7 +130,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 39
+      "Count": 42
     },
     {
       "Text": "This game is Great for Beginners",

@@ -2,11 +2,11 @@
   "ID": "9aa3fab4ed5447d5b27e34d6aea7f259",
   "Name": "Coromon",
   "ProductSlug": null,
-  "Rating": 4.65,
-  "NumberOfRatings": 57,
+  "Rating": 4.64,
+  "NumberOfRatings": 58,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
-  "LastChanged": "2022-07-23T00:05:10.5849063+00:00",
+  "LastChanged": "2022-07-25T16:02:24.5773004+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:42.756351+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T00:05:10.5849064+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 57
+    },
+    {
+      "Time": "2022-07-25T16:02:24.5773005+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 58
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Ooblets",
   "ProductSlug": "ooblets/home",
   "Rating": 4.89,
-  "NumberOfRatings": 402,
-  "DailyRatings": 7.19,
+  "NumberOfRatings": 404,
+  "DailyRatings": 8.56,
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-07-25T12:02:32.489664+00:00",
+  "LastChanged": "2022-07-25T16:02:19.1203647+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-25T12:02:32.4896642+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 402
+    },
+    {
+      "Time": "2022-07-25T16:02:19.120365+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 404
     }
   ],
   "Tags": [

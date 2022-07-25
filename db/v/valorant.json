@@ -3,10 +3,10 @@
   "Name": "VALORANT",
   "ProductSlug": "valorant",
   "Rating": 4.56,
-  "NumberOfRatings": 79435,
-  "DailyRatings": 1277.37,
+  "NumberOfRatings": 79582,
+  "DailyRatings": 1256.19,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2022-07-25T14:03:07.7605924+00:00",
+  "LastChanged": "2022-07-25T16:02:34.8573971+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-07-25T14:03:07.7605926+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 79435
+    },
+    {
+      "Time": "2022-07-25T16:02:34.8573973+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 79582
     }
   ],
   "Tags": [

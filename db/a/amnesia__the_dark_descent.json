@@ -3,10 +3,10 @@
   "Name": "Amnesia: The Dark Descent",
   "ProductSlug": "amnesia-the-dark-descent/home",
   "Rating": 4.62,
-  "NumberOfRatings": 152,
+  "NumberOfRatings": 154,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:24.3819232+00:00",
-  "LastChanged": "2022-07-23T18:00:41.3992477+00:00",
+  "LastChanged": "2022-07-25T16:01:21.6857193+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:24.3819234+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T18:00:41.3992479+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 152
+    },
+    {
+      "Time": "2022-07-25T16:01:21.6857194+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 154
     }
   ],
   "Tags": []

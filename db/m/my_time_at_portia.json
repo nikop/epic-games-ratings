@@ -2,11 +2,11 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia/home",
-  "Rating": 4.66,
-  "NumberOfRatings": 2260,
-  "DailyRatings": 39.26,
+  "Rating": 4.67,
+  "NumberOfRatings": 2264,
+  "DailyRatings": 37.01,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-07-25T12:01:51.3850727+00:00",
+  "LastChanged": "2022-07-25T16:01:37.7412471+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-07-25T12:01:51.3850729+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 2260
+    },
+    {
+      "Time": "2022-07-25T16:01:37.7412473+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 2264
     }
   ],
   "Tags": [
@@ -151,7 +156,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 36
+      "Count": 37
     }
   ]
 }

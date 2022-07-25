@@ -2,11 +2,11 @@
   "ID": "a60b160cb14c4c258b70299310b63e56",
   "Name": "Panzer Corps 2",
   "ProductSlug": "panzer-corps-2",
-  "Rating": 4.5,
-  "NumberOfRatings": 28,
-  "DailyRatings": 0,
+  "Rating": 4.52,
+  "NumberOfRatings": 29,
+  "DailyRatings": 1.71,
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2022-07-25T02:00:29.8654289+00:00",
+  "LastChanged": "2022-07-25T16:01:12.0989077+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:07.3866124+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-25T02:00:29.8654291+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-07-25T16:01:12.0989079+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 29
     }
   ],
   "Tags": []

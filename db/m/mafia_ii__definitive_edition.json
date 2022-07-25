@@ -2,11 +2,11 @@
   "ID": "107bd7324f39429ca4e7e9e44765d8cf",
   "Name": "Mafia II: Definitive Edition",
   "ProductSlug": "mafia-ii-definitive-edition",
-  "Rating": 4.32,
-  "NumberOfRatings": 500,
-  "DailyRatings": 17.15,
+  "Rating": 4.33,
+  "NumberOfRatings": 507,
+  "DailyRatings": 13.99,
   "FirstSeen": "2022-07-22T20:27:51.6879744+00:00",
-  "LastChanged": "2022-07-25T04:01:59.8722222+00:00",
+  "LastChanged": "2022-07-25T16:02:19.3296781+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:51.6879747+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-25T04:01:59.8722223+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 500
+    },
+    {
+      "Time": "2022-07-25T16:02:19.3296782+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 507
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "Outriders",
   "ProductSlug": null,
-  "Rating": 4.42,
-  "NumberOfRatings": 854,
+  "Rating": 4.41,
+  "NumberOfRatings": 855,
   "DailyRatings": 8,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-07-25T14:01:51.3297963+00:00",
+  "LastChanged": "2022-07-25T16:01:20.8552664+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-07-25T14:01:51.3297964+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 854
+    },
+    {
+      "Time": "2022-07-25T16:01:20.8552665+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 855
     }
   ],
   "Tags": [
@@ -108,7 +113,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game is Great for Beginners",

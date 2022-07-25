@@ -4,7 +4,7 @@
   "ProductSlug": "old-world",
   "Rating": 4.65,
   "NumberOfRatings": 833,
-  "DailyRatings": 9,
+  "DailyRatings": 7.19,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "LastChanged": "2022-07-25T14:02:11.1844908+00:00",
   "RatingHistory": [
@@ -93,7 +93,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 58
+      "Count": 61
     },
     {
       "Text": "This game is Highly Recommended",

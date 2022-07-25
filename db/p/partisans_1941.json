@@ -2,11 +2,11 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Rating": 4.64,
-  "NumberOfRatings": 50,
-  "DailyRatings": 0,
+  "Rating": 4.66,
+  "NumberOfRatings": 53,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
-  "LastChanged": "2022-07-24T16:01:43.6616584+00:00",
+  "LastChanged": "2022-07-25T16:01:31.092298+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:38.7033824+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T16:01:43.6616586+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 50
+    },
+    {
+      "Time": "2022-07-25T16:01:31.0922983+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 53
     }
   ],
   "Tags": []
