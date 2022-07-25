@@ -2,11 +2,11 @@
   "ID": "675f47ac5d5847f59badceea5b0950cf",
   "Name": "Tacoma",
   "ProductSlug": "tacoma",
-  "Rating": 4.21,
-  "NumberOfRatings": 29,
+  "Rating": 4.23,
+  "NumberOfRatings": 30,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
-  "LastChanged": "2022-07-23T18:01:00.0701381+00:00",
+  "LastChanged": "2022-07-25T22:01:02.9284632+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.2049997+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T18:01:00.0701383+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-25T22:01:02.9284633+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []

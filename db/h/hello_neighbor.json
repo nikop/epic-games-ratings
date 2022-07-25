@@ -3,10 +3,10 @@
   "Name": "Hello Neighbor",
   "ProductSlug": null,
   "Rating": 4.55,
-  "NumberOfRatings": 522,
-  "DailyRatings": 16.03,
+  "NumberOfRatings": 524,
+  "DailyRatings": 18.04,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-07-25T20:01:24.3172358+00:00",
+  "LastChanged": "2022-07-25T22:00:59.2100559+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -52,16 +52,21 @@
       "Time": "2022-07-25T20:01:24.3172359+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 522
+    },
+    {
+      "Time": "2022-07-25T22:00:59.2100561+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 524
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 26
+      "Count": 29
     },
     {
       "Text": "This game is Relaxing",

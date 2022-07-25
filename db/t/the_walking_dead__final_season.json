@@ -2,16 +2,21 @@
   "ID": "ocelot",
   "Name": "The Walking Dead: Final Season",
   "ProductSlug": "walking-dead-final-season/home",
-  "Rating": 4.68,
-  "NumberOfRatings": 28,
+  "Rating": 4.69,
+  "NumberOfRatings": 29,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
-  "LastChanged": "2022-07-22T20:21:34.1366367+00:00",
+  "LastChanged": "2022-07-25T22:00:53.0580244+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.1366368+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-07-25T22:00:53.0580246+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 29
     }
   ],
   "Tags": []

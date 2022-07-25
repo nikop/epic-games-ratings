@@ -2,16 +2,21 @@
   "ID": "puma",
   "Name": "Genesis Alpha One",
   "ProductSlug": "genesis-alpha-one",
-  "Rating": 4.38,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0,
+  "Rating": 4.39,
+  "NumberOfRatings": 23,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:19:52.5192552+00:00",
-  "LastChanged": "2022-07-24T22:00:38.9238834+00:00",
+  "LastChanged": "2022-07-25T22:00:40.5508358+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T22:00:38.9238835+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-07-25T22:00:40.5508359+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []

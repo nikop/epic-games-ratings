@@ -3,10 +3,10 @@
   "Name": "Humankind",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 321,
-  "DailyRatings": 0,
+  "NumberOfRatings": 322,
+  "DailyRatings": 6.01,
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2022-07-25T18:00:48.3994006+00:00",
+  "LastChanged": "2022-07-25T22:00:29.3045881+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:22.8287393+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T18:00:48.3994008+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 321
+    },
+    {
+      "Time": "2022-07-25T22:00:29.3045883+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 322
     }
   ],
   "Tags": [

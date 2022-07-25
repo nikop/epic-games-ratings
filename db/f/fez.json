@@ -2,11 +2,11 @@
   "ID": "41f47fd0d3e248bc938a5815d6d64daa",
   "Name": "Fez",
   "ProductSlug": "fez/home",
-  "Rating": 4.7,
-  "NumberOfRatings": 54,
-  "DailyRatings": 0,
+  "Rating": 4.71,
+  "NumberOfRatings": 56,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
-  "LastChanged": "2022-07-24T22:00:49.0648083+00:00",
+  "LastChanged": "2022-07-25T22:00:50.72272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:13.4186643+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T22:00:49.0648085+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-07-25T22:00:50.7227201+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 56
     }
   ],
   "Tags": []

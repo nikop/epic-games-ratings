@@ -3,10 +3,10 @@
   "Name": "Might \u0026 Magic Heroes 7",
   "ProductSlug": "might-and-magic-heroes-7/home",
   "Rating": 4.25,
-  "NumberOfRatings": 48,
-  "DailyRatings": 0,
+  "NumberOfRatings": 51,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2022-07-24T22:01:18.6787574+00:00",
+  "LastChanged": "2022-07-25T22:01:20.2606346+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:09.0043615+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-24T22:01:18.6787575+00:00",
       "Rating": 4.25,
       "NumberOfRatings": 48
+    },
+    {
+      "Time": "2022-07-25T22:01:20.2606348+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 51
     }
   ],
   "Tags": []

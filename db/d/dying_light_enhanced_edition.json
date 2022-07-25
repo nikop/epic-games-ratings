@@ -3,10 +3,10 @@
   "Name": "Dying Light Enhanced Edition",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 1737,
-  "DailyRatings": 37.19,
+  "NumberOfRatings": 1746,
+  "DailyRatings": 40,
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2022-07-25T18:00:45.9589311+00:00",
+  "LastChanged": "2022-07-25T22:00:26.9633544+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-07-25T18:00:45.9589315+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 1737
+    },
+    {
+      "Time": "2022-07-25T22:00:26.9633545+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 1746
     }
   ],
   "Tags": [
