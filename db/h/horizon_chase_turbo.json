@@ -2,11 +2,11 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
-  "Rating": 4.6,
-  "NumberOfRatings": 671,
-  "DailyRatings": 7.5,
+  "Rating": 4.59,
+  "NumberOfRatings": 679,
+  "DailyRatings": 19.19,
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2022-07-25T18:00:55.7634701+00:00",
+  "LastChanged": "2022-07-26T04:01:07.4530938+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-25T18:00:55.7634703+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 671
+    },
+    {
+      "Time": "2022-07-26T04:01:07.453094+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 679
     }
   ],
   "Tags": [

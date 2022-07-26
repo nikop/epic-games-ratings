@@ -1,6 +1,6 @@
 # Path of Exile
-Rating: 4.66 (1 631)  
-Ratings Per Day: 15.99  
+Rating: 4.66 (1 637)  
+Ratings Per Day: 14.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Ratings Per Day: 15.99
 | 2022-07-23 | 4.66 | 1 607 |
 | 2022-07-24 | 4.66 | 1 619 |
 | 2022-07-25 | 4.66 | 1 631 |
+| 2022-07-26 | 4.66 | 1 637 |

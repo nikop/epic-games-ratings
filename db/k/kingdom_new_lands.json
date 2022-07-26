@@ -3,10 +3,10 @@
   "Name": "Kingdom New Lands",
   "ProductSlug": "kingdom-new-lands/home",
   "Rating": 4.48,
-  "NumberOfRatings": 941,
-  "DailyRatings": 14.19,
+  "NumberOfRatings": 944,
+  "DailyRatings": 16,
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2022-07-26T02:01:33.170967+00:00",
+  "LastChanged": "2022-07-26T04:02:06.4206+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-07-26T02:01:33.1709672+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 941
+    },
+    {
+      "Time": "2022-07-26T04:02:06.4206001+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 944
     }
   ],
   "Tags": [
@@ -96,7 +101,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 26
+      "Count": 27
     }
   ]
 }
