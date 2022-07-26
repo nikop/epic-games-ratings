@@ -3,10 +3,10 @@
   "Name": "Sifu",
   "ProductSlug": null,
   "Rating": 4.81,
-  "NumberOfRatings": 5013,
-  "DailyRatings": 102.99,
+  "NumberOfRatings": 5023,
+  "DailyRatings": 96,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-07-26T04:01:44.7489695+00:00",
+  "LastChanged": "2022-07-26T06:01:46.002171+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-07-26T04:01:44.7489696+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 5013
+    },
+    {
+      "Time": "2022-07-26T06:01:46.0021712+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 5023
     }
   ],
   "Tags": [

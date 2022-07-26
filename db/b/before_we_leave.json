@@ -2,11 +2,11 @@
   "ID": "61449320f87347a8bf02159cbf8adb7f",
   "Name": "Before We Leave",
   "ProductSlug": null,
-  "Rating": 4.58,
-  "NumberOfRatings": 38,
+  "Rating": 4.59,
+  "NumberOfRatings": 39,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:09.2176269+00:00",
-  "LastChanged": "2022-07-24T06:02:18.2708393+00:00",
+  "LastChanged": "2022-07-26T06:02:24.936226+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:09.2176275+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T06:02:18.2708393+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 38
+    },
+    {
+      "Time": "2022-07-26T06:02:24.9362261+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 39
     }
   ],
   "Tags": []

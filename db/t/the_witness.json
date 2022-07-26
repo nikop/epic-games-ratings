@@ -2,11 +2,11 @@
   "ID": "magnolia",
   "Name": "The Witness",
   "ProductSlug": "the-witness/home",
-  "Rating": 4.7,
-  "NumberOfRatings": 260,
-  "DailyRatings": 0,
+  "Rating": 4.69,
+  "NumberOfRatings": 265,
+  "DailyRatings": 5,
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2022-07-25T06:00:54.9656781+00:00",
+  "LastChanged": "2022-07-26T06:00:59.5493379+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:54.428207+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-25T06:00:54.9656782+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 260
+    },
+    {
+      "Time": "2022-07-26T06:00:59.549338+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 265
     }
   ],
   "Tags": [

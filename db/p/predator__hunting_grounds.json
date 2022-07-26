@@ -3,10 +3,10 @@
   "Name": "Predator: Hunting Grounds",
   "ProductSlug": null,
   "Rating": 4.35,
-  "NumberOfRatings": 465,
-  "DailyRatings": 6.67,
+  "NumberOfRatings": 466,
+  "DailyRatings": 7.2,
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2022-07-26T04:01:06.8751288+00:00",
+  "LastChanged": "2022-07-26T06:01:10.0581108+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-26T04:01:06.875129+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 465
+    },
+    {
+      "Time": "2022-07-26T06:01:10.0581109+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 466
     }
   ],
   "Tags": [

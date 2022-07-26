@@ -1,6 +1,6 @@
 # Evil Dead
 Rating: 4.51 (7 846)  
-Ratings Per Day: 42.99  
+Ratings Per Day: 44.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

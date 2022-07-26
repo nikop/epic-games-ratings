@@ -3,15 +3,20 @@
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
   "Rating": 4.83,
-  "NumberOfRatings": 29,
+  "NumberOfRatings": 30,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
-  "LastChanged": "2022-07-22T20:29:27.1113516+00:00",
+  "LastChanged": "2022-07-26T06:02:27.7659702+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:27.1113518+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-26T06:02:27.7659704+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []

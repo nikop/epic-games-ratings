@@ -1,6 +1,6 @@
 # Far Cry 6
-Rating: 4.43 (6 197)  
-Ratings Per Day: 128.21  
+Rating: 4.43 (6 213)  
+Ratings Per Day: 120.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,4 +8,4 @@ Ratings Per Day: 128.21
 | 2022-07-23 | 4.44 | 5 949 |
 | 2022-07-24 | 4.44 | 6 078 |
 | 2022-07-25 | 4.44 | 6 172 |
-| 2022-07-26 | 4.43 | 6 197 |
+| 2022-07-26 | 4.43 | 6 213 |
