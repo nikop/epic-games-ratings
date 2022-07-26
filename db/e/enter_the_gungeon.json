@@ -3,10 +3,10 @@
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon/home",
   "Rating": 4.87,
-  "NumberOfRatings": 4550,
-  "DailyRatings": 68.02,
+  "NumberOfRatings": 4552,
+  "DailyRatings": 64.96,
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2022-07-26T12:01:47.2397693+00:00",
+  "LastChanged": "2022-07-26T14:03:21.8996666+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:04.4908793+00:00",
@@ -152,12 +152,17 @@
       "Time": "2022-07-26T12:01:47.2397695+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 4550
+    },
+    {
+      "Time": "2022-07-26T14:03:21.8996667+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 4552
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2156
+      "Count": 2196
     },
     {
       "Text": "This game is Extremely Fun",
@@ -173,11 +178,11 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 142
+      "Count": 144
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 143
+      "Count": 145
     },
     {
       "Text": "This game has Quickly Understood Controls",

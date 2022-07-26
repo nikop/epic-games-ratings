@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Asylum",
   "ProductSlug": "batman-arkham-asylum/home",
   "Rating": 4.69,
-  "NumberOfRatings": 1005,
-  "DailyRatings": 30.01,
+  "NumberOfRatings": 1017,
+  "DailyRatings": 23.98,
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2022-07-26T00:01:02.3169972+00:00",
+  "LastChanged": "2022-07-26T14:02:32.3662617+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:33.3768871+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-26T00:01:02.3169975+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 1005
+    },
+    {
+      "Time": "2022-07-26T14:02:32.3662618+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 1017
     }
   ],
   "Tags": [

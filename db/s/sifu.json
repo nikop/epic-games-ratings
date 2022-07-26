@@ -3,10 +3,10 @@
   "Name": "Sifu",
   "ProductSlug": null,
   "Rating": 4.81,
-  "NumberOfRatings": 5056,
-  "DailyRatings": 112.03,
+  "NumberOfRatings": 5059,
+  "DailyRatings": 104.94,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-07-26T12:01:38.9589921+00:00",
+  "LastChanged": "2022-07-26T14:03:12.9463094+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-07-26T12:01:38.9589923+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 5056
+    },
+    {
+      "Time": "2022-07-26T14:03:12.9463096+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 5059
     }
   ],
   "Tags": [
@@ -163,7 +168,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 88
+      "Count": 91
     },
     {
       "Text": "This game has Diverse Characters",

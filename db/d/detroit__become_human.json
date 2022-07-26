@@ -2,11 +2,11 @@
   "ID": "columbine",
   "Name": "Detroit: Become Human",
   "ProductSlug": null,
-  "Rating": 4.86,
-  "NumberOfRatings": 1916,
-  "DailyRatings": 72.29,
+  "Rating": 4.87,
+  "NumberOfRatings": 1958,
+  "DailyRatings": 47.97,
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2022-07-25T16:01:04.4345054+00:00",
+  "LastChanged": "2022-07-26T14:02:21.7048936+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:06.5181896+00:00",
@@ -52,12 +52,17 @@
       "Time": "2022-07-25T16:01:04.4345055+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 1916
+    },
+    {
+      "Time": "2022-07-26T14:02:21.7048937+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 1958
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 356
+      "Count": 366
     }
   ]
 }

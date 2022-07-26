@@ -3,10 +3,10 @@
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
   "Rating": 4.56,
-  "NumberOfRatings": 13837,
-  "DailyRatings": 243.09,
+  "NumberOfRatings": 13868,
+  "DailyRatings": 233.7,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2022-07-26T12:00:37.987927+00:00",
+  "LastChanged": "2022-07-26T14:02:10.7599808+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-07-26T12:00:37.9879271+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 13837
+    },
+    {
+      "Time": "2022-07-26T14:02:10.759981+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 13868
     }
   ],
   "Tags": [
@@ -166,11 +171,11 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2756
+      "Count": 2811
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 227
+      "Count": 235
     },
     {
       "Text": "This game is Relaxing",
@@ -190,7 +195,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 220
+      "Count": 227
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -3,10 +3,10 @@
   "Name": "The Escapists 2",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 983,
-  "DailyRatings": 15.28,
+  "NumberOfRatings": 986,
+  "DailyRatings": 16.99,
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2022-07-26T12:01:21.2660252+00:00",
+  "LastChanged": "2022-07-26T14:02:55.8470965+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:06.6335861+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-26T12:01:21.2660254+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 983
+    },
+    {
+      "Time": "2022-07-26T14:02:55.8470966+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 986
     }
   ],
   "Tags": []

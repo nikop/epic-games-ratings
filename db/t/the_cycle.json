@@ -2,11 +2,11 @@
   "ID": "azalea",
   "Name": "The Cycle",
   "ProductSlug": null,
-  "Rating": 4.16,
-  "NumberOfRatings": 11290,
-  "DailyRatings": 108.04,
+  "Rating": 4.15,
+  "NumberOfRatings": 11303,
+  "DailyRatings": 97,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2022-07-26T10:00:55.6763918+00:00",
+  "LastChanged": "2022-07-26T14:02:28.9778519+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -182,6 +182,11 @@
       "Time": "2022-07-26T10:00:55.6763919+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 11290
+    },
+    {
+      "Time": "2022-07-26T14:02:28.977852+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": 11303
     }
   ],
   "Tags": [
@@ -199,7 +204,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 674
+      "Count": 692
     },
     {
       "Text": "This game has Challenging Combat",

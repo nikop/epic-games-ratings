@@ -3,10 +3,10 @@
   "Name": "Tiny Tina\u0027s Wonderlands",
   "ProductSlug": null,
   "Rating": 4.58,
-  "NumberOfRatings": 15107,
-  "DailyRatings": 114.07,
+  "NumberOfRatings": 15124,
+  "DailyRatings": 111.94,
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2022-07-26T10:01:05.7207256+00:00",
+  "LastChanged": "2022-07-26T14:02:40.0807267+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.2976404+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-26T10:01:05.7207257+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 15107
+    },
+    {
+      "Time": "2022-07-26T14:02:40.0807268+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 15124
     }
   ],
   "Tags": [

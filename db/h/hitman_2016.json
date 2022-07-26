@@ -2,11 +2,11 @@
   "ID": "3c06b15a8a2845c0b725d4f952fe00aa",
   "Name": "Hitman 2016",
   "ProductSlug": null,
-  "Rating": 4.66,
-  "NumberOfRatings": 3236,
-  "DailyRatings": 96.07,
+  "Rating": 4.65,
+  "NumberOfRatings": 3269,
+  "DailyRatings": 52.72,
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2022-07-25T20:02:40.7448258+00:00",
+  "LastChanged": "2022-07-26T14:04:22.2086057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:10.6067818+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-07-25T20:02:40.7448259+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 3236
+    },
+    {
+      "Time": "2022-07-26T14:04:22.2086058+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3269
     }
   ],
   "Tags": [

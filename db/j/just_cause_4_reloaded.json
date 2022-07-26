@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.29,
   "NumberOfRatings": 2809,
-  "DailyRatings": 67.02,
+  "DailyRatings": 70.82,
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
   "LastChanged": "2022-07-26T12:00:50.8438844+00:00",
   "RatingHistory": [
@@ -195,7 +195,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 81
+      "Count": 85
     }
   ]
 }
