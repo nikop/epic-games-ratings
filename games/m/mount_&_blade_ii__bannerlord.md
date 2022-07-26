@@ -1,6 +1,6 @@
 # Mount & Blade II: Bannerlord
 Rating: 4.73 (3 322)  
-Ratings Per Day: 37.00  
+Ratings Per Day: 51.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

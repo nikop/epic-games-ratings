@@ -2,11 +2,11 @@
   "ID": "ab2f9078bcb04065a5c6c2fede9cb3b0",
   "Name": "Baldur\u0027s Gate: Enhanced Edition",
   "ProductSlug": null,
-  "Rating": 4.78,
-  "NumberOfRatings": 32,
+  "Rating": 4.79,
+  "NumberOfRatings": 33,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:45.8967483+00:00",
-  "LastChanged": "2022-07-25T00:00:53.4228391+00:00",
+  "LastChanged": "2022-07-26T02:00:33.9745303+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:45.8967486+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T00:00:53.4228392+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-07-26T02:00:33.9745304+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 33
     }
   ],
   "Tags": []

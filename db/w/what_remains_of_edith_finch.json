@@ -2,16 +2,21 @@
   "ID": "badger",
   "Name": "What Remains Of Edith Finch",
   "ProductSlug": "what-remains-of-edith-finch/home",
-  "Rating": 4.79,
-  "NumberOfRatings": 29,
+  "Rating": 4.77,
+  "NumberOfRatings": 30,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:14.3324277+00:00",
-  "LastChanged": "2022-07-22T20:30:14.3324278+00:00",
+  "LastChanged": "2022-07-26T02:01:57.4886499+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:14.3324279+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-26T02:01:57.4886501+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []

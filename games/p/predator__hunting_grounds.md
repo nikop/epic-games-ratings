@@ -1,6 +1,6 @@
 # Predator: Hunting Grounds
 Rating: 4.36 (464)  
-Ratings Per Day: 8.73  
+Ratings Per Day: 8.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

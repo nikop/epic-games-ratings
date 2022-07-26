@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.59,
   "NumberOfRatings": 834,
-  "DailyRatings": 14,
+  "DailyRatings": 17.14,
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "LastChanged": "2022-07-26T00:00:52.861197+00:00",
   "RatingHistory": [
@@ -148,7 +148,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 63
+      "Count": 66
     }
   ]
 }

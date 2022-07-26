@@ -3,10 +3,10 @@
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
   "Rating": 4.74,
-  "NumberOfRatings": 2366,
-  "DailyRatings": 29.32,
+  "NumberOfRatings": 2382,
+  "DailyRatings": 38,
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2022-07-25T20:02:45.0855452+00:00",
+  "LastChanged": "2022-07-26T02:02:14.6344853+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:46.2160704+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-07-25T20:02:45.0855453+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 2366
+    },
+    {
+      "Time": "2022-07-26T02:02:14.6344854+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 2382
     }
   ],
   "Tags": [
@@ -134,11 +139,11 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 92
+      "Count": 95
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 87
+      "Count": 90
     },
     {
       "Text": "This game has Amazing Storytelling",
