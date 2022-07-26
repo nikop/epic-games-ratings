@@ -3,10 +3,10 @@
   "Name": "BIOMUTANT",
   "ProductSlug": "biomutant",
   "Rating": 4.39,
-  "NumberOfRatings": 119,
-  "DailyRatings": 0,
+  "NumberOfRatings": 124,
+  "DailyRatings": 5,
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
-  "LastChanged": "2022-07-25T22:00:53.2007814+00:00",
+  "LastChanged": "2022-07-26T22:00:59.623688+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.6090067+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T22:00:53.2007815+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 119
+    },
+    {
+      "Time": "2022-07-26T22:00:59.6236881+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 124
     }
   ],
   "Tags": [

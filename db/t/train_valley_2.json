@@ -3,10 +3,10 @@
   "Name": "Train Valley 2",
   "ProductSlug": null,
   "Rating": 3.97,
-  "NumberOfRatings": 61,
+  "NumberOfRatings": 62,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
-  "LastChanged": "2022-07-24T04:00:26.5121494+00:00",
+  "LastChanged": "2022-07-26T22:00:20.5679103+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:19.351746+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T04:00:26.5121496+00:00",
       "Rating": 3.97,
       "NumberOfRatings": 61
+    },
+    {
+      "Time": "2022-07-26T22:00:20.5679104+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": 62
     }
   ],
   "Tags": [

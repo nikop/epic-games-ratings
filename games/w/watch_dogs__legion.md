@@ -1,6 +1,6 @@
 # Watch Dogs: Legion
 Rating: 4.38 (748)  
-Ratings Per Day: 16.36  
+Ratings Per Day: 15.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

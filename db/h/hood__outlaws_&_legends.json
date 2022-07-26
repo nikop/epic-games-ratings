@@ -3,10 +3,10 @@
   "Name": "Hood: Outlaws \u0026 Legends",
   "ProductSlug": null,
   "Rating": 3.98,
-  "NumberOfRatings": 11093,
-  "DailyRatings": 77.01,
+  "NumberOfRatings": 11096,
+  "DailyRatings": 78.7,
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2022-07-26T20:00:32.6522501+00:00",
+  "LastChanged": "2022-07-26T22:00:22.9711791+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:31.7735863+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-07-26T20:00:32.6522502+00:00",
       "Rating": 3.98,
       "NumberOfRatings": 11093
+    },
+    {
+      "Time": "2022-07-26T22:00:22.9711792+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": 11096
     }
   ],
   "Tags": [
@@ -189,7 +194,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 128
+      "Count": 135
     },
     {
       "Text": "This game is Extremely Fun",

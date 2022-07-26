@@ -3,10 +3,10 @@
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": null,
   "Rating": 4.61,
-  "NumberOfRatings": 8060,
-  "DailyRatings": 137.43,
+  "NumberOfRatings": 8070,
+  "DailyRatings": 135.99,
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2022-07-26T20:00:49.3685624+00:00",
+  "LastChanged": "2022-07-26T22:00:39.6136868+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:14.016107+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-07-26T20:00:49.3685626+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 8060
+    },
+    {
+      "Time": "2022-07-26T22:00:39.6136869+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 8070
     }
   ],
   "Tags": [
@@ -234,7 +239,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 556
+      "Count": 576
     }
   ]
 }

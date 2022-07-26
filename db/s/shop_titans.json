@@ -3,10 +3,10 @@
   "Name": "Shop Titans",
   "ProductSlug": null,
   "Rating": 3.84,
-  "NumberOfRatings": 4268,
-  "DailyRatings": 1431.09,
+  "NumberOfRatings": 4431,
+  "DailyRatings": 1355.97,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-07-26T18:00:53.3023659+00:00",
+  "LastChanged": "2022-07-26T22:00:29.5724644+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -182,12 +182,21 @@
       "Time": "2022-07-26T18:00:53.302366+00:00",
       "Rating": 3.84,
       "NumberOfRatings": 4268
+    },
+    {
+      "Time": "2022-07-26T22:00:29.5724645+00:00",
+      "Rating": 3.84,
+      "NumberOfRatings": 4431
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 26
     }
   ]
 }

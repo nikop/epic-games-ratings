@@ -2,11 +2,17 @@
   "ID": "313f3719063340f886d90e70ae503cd4",
   "Name": "Stories Untold",
   "ProductSlug": "stories-untold/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4.4,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:00.2135471+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-26T22:01:24.8235005+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-26T22:01:24.8235006+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

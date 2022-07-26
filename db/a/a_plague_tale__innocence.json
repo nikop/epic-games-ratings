@@ -4,7 +4,7 @@
   "ProductSlug": "a-plague-tale-innocence",
   "Rating": 4.66,
   "NumberOfRatings": 5846,
-  "DailyRatings": 96.01,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
   "LastChanged": "2022-07-26T20:01:17.0204604+00:00",
   "RatingHistory": [
@@ -72,7 +72,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 791
+      "Count": 807
     }
   ]
 }

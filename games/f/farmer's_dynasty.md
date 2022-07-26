@@ -1,6 +1,6 @@
 # Farmer's Dynasty
 Rating: 3.89 (37)  
-Ratings Per Day: 2.18  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

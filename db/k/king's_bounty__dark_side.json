@@ -2,11 +2,11 @@
   "ID": "c28866a7b8614ac9affad1b64fb86b85",
   "Name": "King\u0027s Bounty: Dark Side",
   "ProductSlug": null,
-  "Rating": 4.38,
-  "NumberOfRatings": 26,
+  "Rating": 4.41,
+  "NumberOfRatings": 27,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:44.5387804+00:00",
-  "LastChanged": "2022-07-24T20:01:02.8163989+00:00",
+  "LastChanged": "2022-07-26T22:01:12.4016165+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:44.5387807+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T20:01:02.8163991+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-07-26T22:01:12.4016166+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []

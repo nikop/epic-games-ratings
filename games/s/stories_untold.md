@@ -1,9 +1,7 @@
-# Anno 2205
-Rating: 4.54 (39)  
+# Stories Untold
+Rating: 4.40 (20)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-07-22 | 4.51 | 37 |
-| 2022-07-24 | 4.53 | 38 |
-| 2022-07-26 | 4.54 | 39 |
+| 2022-07-26 | 4.40 | 20 |

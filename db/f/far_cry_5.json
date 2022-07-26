@@ -2,11 +2,11 @@
   "ID": "coriander",
   "Name": "Far Cry 5",
   "ProductSlug": null,
-  "Rating": 4.62,
-  "NumberOfRatings": 986,
-  "DailyRatings": 18.54,
+  "Rating": 4.61,
+  "NumberOfRatings": 987,
+  "DailyRatings": 13.09,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-07-26T18:01:20.0380713+00:00",
+  "LastChanged": "2022-07-26T22:00:53.1918719+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -62,12 +62,17 @@
       "Time": "2022-07-26T18:01:20.0380715+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 986
+    },
+    {
+      "Time": "2022-07-26T22:00:53.1918721+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 987
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 256
+      "Count": 264
     }
   ]
 }
