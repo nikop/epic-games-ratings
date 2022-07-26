@@ -2,11 +2,11 @@
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
   "ProductSlug": null,
-  "Rating": 4.65,
-  "NumberOfRatings": 1366,
-  "DailyRatings": 20.99,
+  "Rating": 4.64,
+  "NumberOfRatings": 1367,
+  "DailyRatings": 21,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-07-26T14:03:27.7724901+00:00",
+  "LastChanged": "2022-07-26T16:02:01.2940427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-07-26T14:03:27.7724902+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 1366
+    },
+    {
+      "Time": "2022-07-26T16:02:01.2940429+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 1367
     }
   ],
   "Tags": [

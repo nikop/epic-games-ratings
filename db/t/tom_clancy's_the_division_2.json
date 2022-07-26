@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s The Division 2",
   "ProductSlug": null,
   "Rating": 4.41,
-  "NumberOfRatings": 4363,
-  "DailyRatings": 43.97,
+  "NumberOfRatings": 4366,
+  "DailyRatings": 46,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-07-26T14:02:55.3987868+00:00",
+  "LastChanged": "2022-07-26T16:01:26.1727942+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-26T14:02:55.3987869+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 4363
+    },
+    {
+      "Time": "2022-07-26T16:01:26.1727944+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 4366
     }
   ],
   "Tags": [

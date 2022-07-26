@@ -3,10 +3,10 @@
   "Name": "Figment",
   "ProductSlug": "figment/home",
   "Rating": 4.54,
-  "NumberOfRatings": 52,
-  "DailyRatings": 0,
+  "NumberOfRatings": 54,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:26:25.7495486+00:00",
-  "LastChanged": "2022-07-25T16:02:08.3526358+00:00",
+  "LastChanged": "2022-07-26T16:02:07.0022865+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:25.7495489+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T16:02:08.352636+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 52
+    },
+    {
+      "Time": "2022-07-26T16:02:07.0022866+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 54
     }
   ],
   "Tags": []

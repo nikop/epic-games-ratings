@@ -3,10 +3,10 @@
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
   "ProductSlug": "lego-batman/home",
   "Rating": 4.48,
-  "NumberOfRatings": 273,
-  "DailyRatings": 0,
+  "NumberOfRatings": 276,
+  "DailyRatings": 4.5,
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2022-07-26T00:01:35.9363645+00:00",
+  "LastChanged": "2022-07-26T16:01:42.9127913+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.8648479+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-26T00:01:35.9363646+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 273
+    },
+    {
+      "Time": "2022-07-26T16:01:42.9127914+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 276
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 60
+      "Count": 62
     }
   ]
 }

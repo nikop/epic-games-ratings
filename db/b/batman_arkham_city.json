@@ -3,10 +3,10 @@
   "Name": "Batman Arkham City",
   "ProductSlug": "batman-arkham-city/home",
   "Rating": 4.78,
-  "NumberOfRatings": 1413,
-  "DailyRatings": 23.97,
+  "NumberOfRatings": 1417,
+  "DailyRatings": 26.4,
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2022-07-26T14:02:48.7542874+00:00",
+  "LastChanged": "2022-07-26T16:01:18.6369086+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.6256325+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-26T14:02:48.7542876+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 1413
+    },
+    {
+      "Time": "2022-07-26T16:01:18.6369087+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 1417
     }
   ],
   "Tags": [

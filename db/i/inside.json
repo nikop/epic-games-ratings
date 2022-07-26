@@ -3,10 +3,10 @@
   "Name": "Inside",
   "ProductSlug": "inside/home",
   "Rating": 4.73,
-  "NumberOfRatings": 794,
-  "DailyRatings": 0,
+  "NumberOfRatings": 810,
+  "DailyRatings": 16,
   "FirstSeen": "2022-07-22T20:27:08.8041774+00:00",
-  "LastChanged": "2022-07-25T16:02:13.6083235+00:00",
+  "LastChanged": "2022-07-26T16:02:12.658788+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:08.8041777+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-25T16:02:13.6083236+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 794
+    },
+    {
+      "Time": "2022-07-26T16:02:12.6587882+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 810
     }
   ],
   "Tags": []

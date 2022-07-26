@@ -2,11 +2,11 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II",
   "ProductSlug": "assassins-creed-2",
-  "Rating": 4.61,
-  "NumberOfRatings": 148,
+  "Rating": 4.6,
+  "NumberOfRatings": 149,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2022-07-24T16:01:18.9593341+00:00",
+  "LastChanged": "2022-07-26T16:00:50.3834799+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:28.9665728+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T16:01:18.9593343+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 148
+    },
+    {
+      "Time": "2022-07-26T16:00:50.3834801+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 149
     }
   ],
   "Tags": []

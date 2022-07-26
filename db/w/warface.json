@@ -3,10 +3,10 @@
   "Name": "Warface",
   "ProductSlug": "warface",
   "Rating": 3.92,
-  "NumberOfRatings": 1526,
-  "DailyRatings": 20.99,
+  "NumberOfRatings": 1528,
+  "DailyRatings": 21,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-07-26T14:04:16.5976018+00:00",
+  "LastChanged": "2022-07-26T16:02:51.881794+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-07-26T14:04:16.5976019+00:00",
       "Rating": 3.92,
       "NumberOfRatings": 1526
+    },
+    {
+      "Time": "2022-07-26T16:02:51.8817942+00:00",
+      "Rating": 3.92,
+      "NumberOfRatings": 1528
     }
   ],
   "Tags": [
@@ -142,7 +147,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has Diverse Characters",

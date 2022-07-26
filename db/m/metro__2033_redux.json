@@ -3,10 +3,10 @@
   "Name": "Metro: 2033 Redux",
   "ProductSlug": "metro-2033-redux/home",
   "Rating": 4.7,
-  "NumberOfRatings": 2772,
-  "DailyRatings": 0,
+  "NumberOfRatings": 2825,
+  "DailyRatings": 63.6,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-07-25T20:01:00.7057518+00:00",
+  "LastChanged": "2022-07-26T16:01:00.5586966+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-25T20:01:00.7057519+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2772
+    },
+    {
+      "Time": "2022-07-26T16:01:00.5586967+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 2825
     }
   ],
   "Tags": [

@@ -2,11 +2,11 @@
   "ID": "nautilus",
   "Name": "Vampyr",
   "ProductSlug": "vampyr",
-  "Rating": 4.3,
-  "NumberOfRatings": 2780,
-  "DailyRatings": 53.97,
+  "Rating": 4.31,
+  "NumberOfRatings": 2786,
+  "DailyRatings": 43.63,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2022-07-26T14:03:58.3937581+00:00",
+  "LastChanged": "2022-07-26T16:02:33.1277363+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:20.353285+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-26T14:03:58.3937583+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 2780
+    },
+    {
+      "Time": "2022-07-26T16:02:33.1277365+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 2786
     }
   ],
   "Tags": [

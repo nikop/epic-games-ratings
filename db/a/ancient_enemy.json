@@ -3,10 +3,10 @@
   "Name": "Ancient Enemy",
   "ProductSlug": "ancient-enemy",
   "Rating": 3.93,
-  "NumberOfRatings": 1584,
-  "DailyRatings": 22.3,
+  "NumberOfRatings": 1593,
+  "DailyRatings": 19.2,
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
-  "LastChanged": "2022-07-26T04:00:59.049365+00:00",
+  "LastChanged": "2022-07-26T16:00:48.6787701+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.0310517+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-26T04:00:59.0493651+00:00",
       "Rating": 3.93,
       "NumberOfRatings": 1584
+    },
+    {
+      "Time": "2022-07-26T16:00:48.6787703+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": 1593
     }
   ],
   "Tags": [
@@ -87,6 +92,10 @@
     {
       "Text": "This game is Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 22
     }
   ]
 }
