@@ -2,11 +2,11 @@
   "ID": "8e56fc9fc0fb4f18af0592c74ad896ba",
   "Name": "Ironcast",
   "ProductSlug": "ironcast",
-  "Rating": 3.88,
-  "NumberOfRatings": 137,
-  "DailyRatings": 0,
+  "Rating": 3.84,
+  "NumberOfRatings": 140,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:23:19.8161901+00:00",
-  "LastChanged": "2022-07-25T10:01:30.3384005+00:00",
+  "LastChanged": "2022-07-26T10:01:30.8935711+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.8161904+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T10:01:30.3384006+00:00",
       "Rating": 3.88,
       "NumberOfRatings": 137
+    },
+    {
+      "Time": "2022-07-26T10:01:30.8935713+00:00",
+      "Rating": 3.84,
+      "NumberOfRatings": 140
     }
   ],
   "Tags": []

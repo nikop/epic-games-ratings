@@ -4,7 +4,7 @@
   "ProductSlug": "ghostbusters-the-video-game-remastered/home",
   "Rating": 4.42,
   "NumberOfRatings": 215,
-  "DailyRatings": 5,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
   "LastChanged": "2022-07-26T08:01:12.311293+00:00",
   "RatingHistory": [
@@ -37,7 +37,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 30
+      "Count": 31
     }
   ]
 }

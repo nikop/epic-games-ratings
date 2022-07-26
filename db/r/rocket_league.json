@@ -3,10 +3,10 @@
   "Name": "Rocket League",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 252809,
-  "DailyRatings": 2663.05,
+  "NumberOfRatings": 253078,
+  "DailyRatings": 2401.42,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2022-07-26T06:00:54.9257204+00:00",
+  "LastChanged": "2022-07-26T10:00:41.4357764+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-07-26T06:00:54.9257206+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 252809
+    },
+    {
+      "Time": "2022-07-26T10:00:41.4357833+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 253078
     }
   ],
   "Tags": [

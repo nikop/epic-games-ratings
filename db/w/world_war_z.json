@@ -3,10 +3,10 @@
   "Name": "World War Z",
   "ProductSlug": null,
   "Rating": 4.57,
-  "NumberOfRatings": 9826,
-  "DailyRatings": 155.98,
+  "NumberOfRatings": 9841,
+  "DailyRatings": 145,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-07-26T06:00:53.0632257+00:00",
+  "LastChanged": "2022-07-26T10:00:39.661343+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-07-26T06:00:53.063226+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 9826
+    },
+    {
+      "Time": "2022-07-26T10:00:39.6613432+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 9841
     }
   ],
   "Tags": [

@@ -1,6 +1,6 @@
 # Snowrunner
-Rating: 4.75 (12 472)  
-Ratings Per Day: 150.01  
+Rating: 4.75 (12 478)  
+Ratings Per Day: 138.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,4 +8,4 @@ Ratings Per Day: 150.01
 | 2022-07-23 | 4.75 | 12 083 |
 | 2022-07-24 | 4.75 | 12 258 |
 | 2022-07-25 | 4.75 | 12 429 |
-| 2022-07-26 | 4.75 | 12 472 |
+| 2022-07-26 | 4.75 | 12 478 |

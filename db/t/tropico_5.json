@@ -3,10 +3,10 @@
   "Name": "Tropico 5",
   "ProductSlug": "tropico-5/home",
   "Rating": 4.44,
-  "NumberOfRatings": 969,
-  "DailyRatings": 22.29,
+  "NumberOfRatings": 974,
+  "DailyRatings": 18,
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2022-07-26T00:00:55.2838348+00:00",
+  "LastChanged": "2022-07-26T10:00:51.9143429+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:35.4138307+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-07-26T00:00:55.2838349+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 969
+    },
+    {
+      "Time": "2022-07-26T10:00:51.9143431+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 974
     }
   ],
   "Tags": [

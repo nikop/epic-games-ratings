@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.56,
   "NumberOfRatings": 2190,
-  "DailyRatings": 49,
+  "DailyRatings": 39.01,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
   "LastChanged": "2022-07-26T08:01:33.4428138+00:00",
   "RatingHistory": [
@@ -146,7 +146,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 487
+      "Count": 491
     },
     {
       "Text": "This game is Extremely Fun",

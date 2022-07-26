@@ -3,10 +3,10 @@
   "Name": "Tomb Raider GOTY",
   "ProductSlug": "tomb-raider",
   "Rating": 4.67,
-  "NumberOfRatings": 10215,
-  "DailyRatings": 185.43,
+  "NumberOfRatings": 10237,
+  "DailyRatings": 152.99,
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2022-07-26T06:01:23.0563434+00:00",
+  "LastChanged": "2022-07-26T10:01:11.443641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:04.7609199+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-26T06:01:23.0563436+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 10215
+    },
+    {
+      "Time": "2022-07-26T10:01:11.4436411+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 10237
     }
   ],
   "Tags": [
@@ -121,7 +126,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
