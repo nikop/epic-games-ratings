@@ -3,10 +3,10 @@
   "Name": "Yooka-Laylee",
   "ProductSlug": "yooka-laylee",
   "Rating": 4.3,
-  "NumberOfRatings": 202,
+  "NumberOfRatings": 204,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2022-07-25T00:00:37.4248201+00:00",
+  "LastChanged": "2022-07-26T18:00:46.0591019+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.930045+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-25T00:00:37.4248202+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 202
+    },
+    {
+      "Time": "2022-07-26T18:00:46.059102+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 204
     }
   ],
   "Tags": []

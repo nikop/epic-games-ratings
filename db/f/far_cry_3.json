@@ -2,11 +2,11 @@
   "ID": "hellebore",
   "Name": "Far Cry 3",
   "ProductSlug": null,
-  "Rating": 4.68,
-  "NumberOfRatings": 222,
+  "Rating": 4.67,
+  "NumberOfRatings": 227,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2022-07-25T12:02:08.7546831+00:00",
+  "LastChanged": "2022-07-26T18:01:58.7359445+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-25T12:02:08.7546833+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 222
+    },
+    {
+      "Time": "2022-07-26T18:01:58.7359446+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 227
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 63
+      "Count": 68
     }
   ]
 }

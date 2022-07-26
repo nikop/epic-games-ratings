@@ -1,6 +1,6 @@
 # Mudrunner
-Rating: 4.62 (1 565)  
-Ratings Per Day: 34.88  
+Rating: 4.62 (1 569)  
+Ratings Per Day: 28.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,4 +8,4 @@ Ratings Per Day: 34.88
 | 2022-07-23 | 4.62 | 1 474 |
 | 2022-07-24 | 4.62 | 1 509 |
 | 2022-07-25 | 4.62 | 1 547 |
-| 2022-07-26 | 4.62 | 1 565 |
+| 2022-07-26 | 4.62 | 1 569 |

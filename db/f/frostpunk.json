@@ -3,10 +3,10 @@
   "Name": "Frostpunk",
   "ProductSlug": null,
   "Rating": 4.72,
-  "NumberOfRatings": 5671,
-  "DailyRatings": 103.63,
+  "NumberOfRatings": 5681,
+  "DailyRatings": 104.99,
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2022-07-26T16:01:12.9975522+00:00",
+  "LastChanged": "2022-07-26T18:01:17.6473651+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-07-26T16:01:12.9975523+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 5671
+    },
+    {
+      "Time": "2022-07-26T18:01:17.6473652+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 5681
     }
   ],
   "Tags": [

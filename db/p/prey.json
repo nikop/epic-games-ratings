@@ -3,10 +3,10 @@
   "Name": "Prey",
   "ProductSlug": "prey",
   "Rating": 4.61,
-  "NumberOfRatings": 7945,
-  "DailyRatings": 100.99,
+  "NumberOfRatings": 7962,
+  "DailyRatings": 111.94,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2022-07-26T16:03:00.0122693+00:00",
+  "LastChanged": "2022-07-26T18:03:18.254511+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-26T16:03:00.0122695+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 7945
+    },
+    {
+      "Time": "2022-07-26T18:03:18.2545111+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 7962
     }
   ],
   "Tags": [

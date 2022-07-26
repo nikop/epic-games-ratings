@@ -3,10 +3,10 @@
   "Name": "Path of Exile",
   "ProductSlug": null,
   "Rating": 4.66,
-  "NumberOfRatings": 1641,
-  "DailyRatings": 10,
+  "NumberOfRatings": 1642,
+  "DailyRatings": 8.57,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-07-26T16:00:35.4412401+00:00",
+  "LastChanged": "2022-07-26T18:00:39.2675302+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-07-26T16:00:35.4412403+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 1641
+    },
+    {
+      "Time": "2022-07-26T18:00:39.2675304+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 1642
     }
   ],
   "Tags": [

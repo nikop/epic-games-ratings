@@ -3,10 +3,10 @@
   "Name": "Sundered: Eldritch Edition",
   "ProductSlug": "sundered-eldritch-edition/home",
   "Rating": 4.54,
-  "NumberOfRatings": 93,
-  "DailyRatings": 0,
+  "NumberOfRatings": 94,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2022-07-25T18:02:38.7968743+00:00",
+  "LastChanged": "2022-07-26T18:03:22.4463951+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:53.2112199+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T18:02:38.7968745+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 93
+    },
+    {
+      "Time": "2022-07-26T18:03:22.4463953+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 94
     }
   ],
   "Tags": [

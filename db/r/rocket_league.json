@@ -3,10 +3,10 @@
   "Name": "Rocket League",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 253078,
-  "DailyRatings": 2401.42,
+  "NumberOfRatings": 253943,
+  "DailyRatings": 2465.89,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2022-07-26T10:00:41.4357764+00:00",
+  "LastChanged": "2022-07-26T18:00:43.2950124+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-07-26T10:00:41.4357833+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 253078
+    },
+    {
+      "Time": "2022-07-26T18:00:43.2950193+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 253943
     }
   ],
   "Tags": [
@@ -146,7 +151,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 46975
+      "Count": 48137
     },
     {
       "Text": "This game has Competitive Players",
@@ -166,11 +171,11 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 33272
+      "Count": 34118
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 30774
+      "Count": 31594
     },
     {
       "Text": "This game has Amazing Characters",

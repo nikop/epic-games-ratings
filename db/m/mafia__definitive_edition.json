@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.6,
   "NumberOfRatings": 1039,
-  "DailyRatings": 23,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
   "LastChanged": "2022-07-26T16:01:32.8388178+00:00",
   "RatingHistory": [
@@ -52,7 +52,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 175
+      "Count": 180
     }
   ]
 }

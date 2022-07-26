@@ -1,6 +1,6 @@
 # Batman Arkham Asylum
 Rating: 4.69 (1 017)  
-Ratings Per Day: 23.98  
+Ratings Per Day: 20.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,10 +3,10 @@
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": null,
   "Rating": 4.42,
-  "NumberOfRatings": 1093,
-  "DailyRatings": 41.45,
+  "NumberOfRatings": 1103,
+  "DailyRatings": 47.99,
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
-  "LastChanged": "2022-07-26T16:01:07.7505396+00:00",
+  "LastChanged": "2022-07-26T18:01:12.4681295+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:02.4554092+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-07-26T16:01:07.7505397+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 1093
+    },
+    {
+      "Time": "2022-07-26T18:01:12.4681296+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 1103
     }
   ],
   "Tags": [
