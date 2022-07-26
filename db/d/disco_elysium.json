@@ -3,10 +3,10 @@
   "Name": "Disco Elysium",
   "ProductSlug": "disco-elysium",
   "Rating": 4.88,
-  "NumberOfRatings": 921,
-  "DailyRatings": 15,
+  "NumberOfRatings": 923,
+  "DailyRatings": 16,
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "LastChanged": "2022-07-26T18:01:07.9119981+00:00",
+  "LastChanged": "2022-07-26T20:00:53.9320499+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:46.370963+00:00",
@@ -52,12 +52,17 @@
       "Time": "2022-07-26T18:01:07.9119982+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 921
+    },
+    {
+      "Time": "2022-07-26T20:00:53.9320501+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 923
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 189
+      "Count": 193
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Total War: WARHAMMER III
-Rating: 4.48 (272)  
-Ratings Per Day: 4.00  
+Rating: 4.48 (273)  
+Ratings Per Day: 2.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,4 +8,4 @@ Ratings Per Day: 4.00
 | 2022-07-23 | 4.46 | 254 |
 | 2022-07-24 | 4.46 | 261 |
 | 2022-07-25 | 4.48 | 271 |
-| 2022-07-26 | 4.48 | 272 |
+| 2022-07-26 | 4.48 | 273 |

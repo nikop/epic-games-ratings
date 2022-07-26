@@ -3,10 +3,10 @@
   "Name": "Axiom Verge",
   "ProductSlug": "axiom-verge/home",
   "Rating": 4.55,
-  "NumberOfRatings": 55,
+  "NumberOfRatings": 58,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2022-07-23T20:01:23.0891072+00:00",
+  "LastChanged": "2022-07-26T20:01:53.4557506+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:58.5809407+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-23T20:01:23.0891074+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 55
+    },
+    {
+      "Time": "2022-07-26T20:01:53.4557507+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 58
     }
   ],
   "Tags": []

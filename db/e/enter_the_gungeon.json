@@ -3,10 +3,10 @@
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon/home",
   "Rating": 4.87,
-  "NumberOfRatings": 4570,
-  "DailyRatings": 62.98,
+  "NumberOfRatings": 4577,
+  "DailyRatings": 67,
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2022-07-26T18:02:02.88871+00:00",
+  "LastChanged": "2022-07-26T20:01:45.2683679+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:04.4908793+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-26T18:02:02.8887101+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 4570
+    },
+    {
+      "Time": "2022-07-26T20:01:45.2683681+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 4577
     }
   ],
   "Tags": [
@@ -184,7 +189,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 148
+      "Count": 159
     },
     {
       "Text": "This game has Amazing Storytelling",

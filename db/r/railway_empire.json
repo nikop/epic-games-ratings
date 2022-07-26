@@ -3,10 +3,10 @@
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire/home",
   "Rating": 4.54,
-  "NumberOfRatings": 1046,
-  "DailyRatings": 19.5,
+  "NumberOfRatings": 1047,
+  "DailyRatings": 16.8,
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2022-07-26T16:00:51.5992558+00:00",
+  "LastChanged": "2022-07-26T20:00:43.4328192+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-07-26T16:00:51.599256+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 1046
+    },
+    {
+      "Time": "2022-07-26T20:00:43.4328193+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 1047
     }
   ],
   "Tags": [
@@ -140,7 +145,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 37
+      "Count": 39
     }
   ]
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-legacy-2",
   "Rating": 4.85,
   "NumberOfRatings": 1048,
-  "DailyRatings": 9,
+  "DailyRatings": 13.99,
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "LastChanged": "2022-07-26T18:03:14.717114+00:00",
   "RatingHistory": [
@@ -111,7 +111,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 81
+      "Count": 83
     },
     {
       "Text": "This game has Quickly Understood Controls",

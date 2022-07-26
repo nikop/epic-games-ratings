@@ -4,7 +4,7 @@
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Rating": 4.9,
   "NumberOfRatings": 1314,
-  "DailyRatings": 26,
+  "DailyRatings": 25.09,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
   "LastChanged": "2022-07-26T18:00:57.1012605+00:00",
   "RatingHistory": [
@@ -142,11 +142,11 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 643
+      "Count": 658
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 628
+      "Count": 640
     },
     {
       "Text": "This game is Highly Recommended",

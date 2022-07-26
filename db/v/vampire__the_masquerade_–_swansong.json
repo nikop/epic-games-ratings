@@ -3,10 +3,10 @@
   "Name": "Vampire: The Masquerade \u2013 Swansong",
   "ProductSlug": null,
   "Rating": 4.23,
-  "NumberOfRatings": 527,
-  "DailyRatings": 0,
+  "NumberOfRatings": 530,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
-  "LastChanged": "2022-07-26T12:00:59.7192612+00:00",
+  "LastChanged": "2022-07-26T20:00:51.7544415+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.8410906+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-26T12:00:59.7192614+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 527
+    },
+    {
+      "Time": "2022-07-26T20:00:51.7544416+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 530
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 31
+      "Count": 32
     }
   ]
 }

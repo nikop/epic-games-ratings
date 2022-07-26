@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Knight",
   "ProductSlug": "batman-arkham-knight/home",
   "Rating": 4.81,
-  "NumberOfRatings": 3806,
-  "DailyRatings": 60.98,
+  "NumberOfRatings": 3822,
+  "DailyRatings": 77.43,
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2022-07-26T18:02:06.1153354+00:00",
+  "LastChanged": "2022-07-26T20:01:48.0558725+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:23.4007296+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-07-26T18:02:06.1153355+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 3806
+    },
+    {
+      "Time": "2022-07-26T20:01:48.0558726+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 3822
     }
   ],
   "Tags": [
@@ -146,7 +151,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 73
+      "Count": 77
     },
     {
       "Text": "This game is Great for Beginners",
@@ -170,7 +175,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 63
+      "Count": 66
     },
     {
       "Text": "This game is Highly Recommended",
@@ -178,7 +183,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has a Creative Community",

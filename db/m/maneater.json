@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "ProductSlug": null,
   "Rating": 4.49,
-  "NumberOfRatings": 74484,
-  "DailyRatings": 203.85,
+  "NumberOfRatings": 74515,
+  "DailyRatings": 231.96,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-07-26T18:02:01.5380083+00:00",
+  "LastChanged": "2022-07-26T20:01:43.4395434+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-07-26T18:02:01.5380084+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 74484
+    },
+    {
+      "Time": "2022-07-26T20:01:43.4395436+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 74515
     }
   ],
   "Tags": [
@@ -129,7 +134,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game is Relaxing",
