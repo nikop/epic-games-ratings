@@ -3,10 +3,10 @@
   "Name": "Surviving Mars",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 1759,
-  "DailyRatings": 30.54,
+  "NumberOfRatings": 1764,
+  "DailyRatings": 29.44,
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2022-07-25T20:01:09.2467281+00:00",
+  "LastChanged": "2022-07-26T00:01:09.4344204+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.5955068+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-07-25T20:01:09.2467283+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 1759
+    },
+    {
+      "Time": "2022-07-26T00:01:09.4344205+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 1764
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Inscryption",
   "ProductSlug": null,
   "Rating": 4.84,
-  "NumberOfRatings": 469,
-  "DailyRatings": 4,
+  "NumberOfRatings": 473,
+  "DailyRatings": 8.57,
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2022-07-25T16:02:16.3626313+00:00",
+  "LastChanged": "2022-07-26T00:02:03.1380717+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:28.2210273+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-25T16:02:16.3626315+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 469
+    },
+    {
+      "Time": "2022-07-26T00:02:03.1380719+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 473
     }
   ],
   "Tags": [

@@ -2,11 +2,11 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Rating": 4.44,
-  "NumberOfRatings": 2681,
-  "DailyRatings": 26.4,
+  "Rating": 4.43,
+  "NumberOfRatings": 2686,
+  "DailyRatings": 27,
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2022-07-25T20:00:42.4957777+00:00",
+  "LastChanged": "2022-07-26T00:00:43.1034426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-07-25T20:00:42.4957779+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 2681
+    },
+    {
+      "Time": "2022-07-26T00:00:43.1034428+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 2686
     }
   ],
   "Tags": [

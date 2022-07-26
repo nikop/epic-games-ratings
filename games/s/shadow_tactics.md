@@ -1,6 +1,6 @@
 # Shadow Tactics
 Rating: 4.80 (230)  
-Ratings Per Day: 5.99  
+Ratings Per Day: 11.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # Assassin's Creed Origin
 Rating: 4.69 (2 675)  
-Ratings Per Day: 28.00  
+Ratings Per Day: 36.02  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

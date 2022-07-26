@@ -3,10 +3,10 @@
   "Name": "Metro Exodus",
   "ProductSlug": null,
   "Rating": 4.79,
-  "NumberOfRatings": 3956,
-  "DailyRatings": 81,
+  "NumberOfRatings": 3960,
+  "DailyRatings": 78.99,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-07-25T22:00:29.5713854+00:00",
+  "LastChanged": "2022-07-26T00:00:54.193467+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-07-25T22:00:29.5713856+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 3956
+    },
+    {
+      "Time": "2022-07-26T00:00:54.1934672+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 3960
     }
   ],
   "Tags": [
