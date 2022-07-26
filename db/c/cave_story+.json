@@ -3,10 +3,10 @@
   "Name": "Cave Story\u002B",
   "ProductSlug": "cave-story-plus",
   "Rating": 4.82,
-  "NumberOfRatings": 143,
-  "DailyRatings": 0,
+  "NumberOfRatings": 146,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2022-07-25T08:02:23.5006259+00:00",
+  "LastChanged": "2022-07-26T08:02:18.2339698+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:31.253973+00:00",
@@ -27,12 +27,17 @@
       "Time": "2022-07-25T08:02:23.500626+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 143
+    },
+    {
+      "Time": "2022-07-26T08:02:18.2339699+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 146
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 29
+      "Count": 30
     }
   ]
 }

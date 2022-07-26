@@ -3,10 +3,10 @@
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
   "Rating": 4.74,
-  "NumberOfRatings": 631,
-  "DailyRatings": 5.45,
+  "NumberOfRatings": 632,
+  "DailyRatings": 5,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "LastChanged": "2022-07-26T04:01:35.2562678+00:00",
+  "LastChanged": "2022-07-26T08:01:20.07273+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-07-26T04:01:35.256268+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 631
+    },
+    {
+      "Time": "2022-07-26T08:01:20.0727302+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 632
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
   "Rating": 4.77,
-  "NumberOfRatings": 8348,
-  "DailyRatings": 113.34,
+  "NumberOfRatings": 8383,
+  "DailyRatings": 122.19,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2022-07-26T00:00:51.5440686+00:00",
+  "LastChanged": "2022-07-26T08:00:43.5458228+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-26T00:00:51.5440689+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 8348
+    },
+    {
+      "Time": "2022-07-26T08:00:43.5458229+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 8383
     }
   ],
   "Tags": [
@@ -184,11 +189,11 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 649
+      "Count": 663
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 655
+      "Count": 672
     },
     {
       "Text": "This game is Extremely Fun",
@@ -200,11 +205,11 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 649
+      "Count": 663
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 642
+      "Count": 656
     },
     {
       "Text": "This game is Relaxing",
@@ -216,7 +221,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 623
+      "Count": 638
     }
   ]
 }
