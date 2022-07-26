@@ -2,11 +2,11 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": null,
-  "Rating": 4.56,
-  "NumberOfRatings": 529,
-  "DailyRatings": 16.51,
+  "Rating": 4.55,
+  "NumberOfRatings": 533,
+  "DailyRatings": 16.37,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-07-26T06:01:33.0013952+00:00",
+  "LastChanged": "2022-07-26T12:01:23.6384757+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-26T06:01:33.0013954+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 529
+    },
+    {
+      "Time": "2022-07-26T12:01:23.6384761+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 533
     }
   ],
   "Tags": [
@@ -80,7 +85,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -96,7 +101,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",

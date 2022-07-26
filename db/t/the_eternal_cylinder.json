@@ -2,11 +2,11 @@
   "ID": "fa0c74ef7780498fb222dcd099bf82a2",
   "Name": "The Eternal Cylinder",
   "ProductSlug": "the-eternal-cylinder",
-  "Rating": 4.82,
-  "NumberOfRatings": 76,
-  "DailyRatings": 0,
+  "Rating": 4.81,
+  "NumberOfRatings": 77,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:17:08.6088333+00:00",
-  "LastChanged": "2022-07-25T12:01:10.2420947+00:00",
+  "LastChanged": "2022-07-26T12:00:38.7647542+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.6088335+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-25T12:01:10.2421021+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 76
+    },
+    {
+      "Time": "2022-07-26T12:00:38.7647544+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 77
     }
   ],
   "Tags": []

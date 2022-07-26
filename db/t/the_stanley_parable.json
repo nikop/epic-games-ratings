@@ -2,11 +2,11 @@
   "ID": "4c00c7506c4b4fa695f749bd6bb07ff6",
   "Name": "The Stanley Parable",
   "ProductSlug": "the-stanley-parable/home",
-  "Rating": 4.76,
-  "NumberOfRatings": 104,
+  "Rating": 4.75,
+  "NumberOfRatings": 106,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:56.8335668+00:00",
-  "LastChanged": "2022-07-24T12:00:40.5337662+00:00",
+  "LastChanged": "2022-07-26T12:01:02.5395568+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:56.8335671+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T12:00:40.5337664+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 104
+    },
+    {
+      "Time": "2022-07-26T12:01:02.5395569+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 106
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Inside
 Rating: 4.73 (794)  
-Ratings Per Day: 11.99  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,10 +3,10 @@
   "Name": "Darkest Dungeon",
   "ProductSlug": "darkest-dungeon",
   "Rating": 4.75,
-  "NumberOfRatings": 2929,
-  "DailyRatings": 38,
+  "NumberOfRatings": 2932,
+  "DailyRatings": 39.01,
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2022-07-26T10:01:02.5668385+00:00",
+  "LastChanged": "2022-07-26T12:01:02.9237029+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:59.2764087+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-07-26T10:01:02.5668386+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 2929
+    },
+    {
+      "Time": "2022-07-26T12:01:02.923703+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 2932
     }
   ],
   "Tags": [

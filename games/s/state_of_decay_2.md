@@ -1,6 +1,6 @@
 # State of Decay 2
 Rating: 4.72 (707)  
-Ratings Per Day: 22.51  
+Ratings Per Day: 26.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

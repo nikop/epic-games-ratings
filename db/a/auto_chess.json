@@ -4,7 +4,7 @@
   "ProductSlug": "auto-chess/home",
   "Rating": 4.52,
   "NumberOfRatings": 1418,
-  "DailyRatings": 12,
+  "DailyRatings": 10.67,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
   "LastChanged": "2022-07-26T10:01:15.3048897+00:00",
   "RatingHistory": [
@@ -134,7 +134,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 137
+      "Count": 140
     },
     {
       "Text": "This game is Extremely Fun",

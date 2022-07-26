@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.61,
   "NumberOfRatings": 2942,
-  "DailyRatings": 37,
+  "DailyRatings": 38.2,
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
   "LastChanged": "2022-07-26T10:00:59.9786505+00:00",
   "RatingHistory": [
@@ -179,7 +179,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 233
+      "Count": 241
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Unity",
   "ProductSlug": "assassins-creed-unity/home",
   "Rating": 4.56,
-  "NumberOfRatings": 389,
-  "DailyRatings": 19.2,
+  "NumberOfRatings": 392,
+  "DailyRatings": 22,
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2022-07-26T10:01:13.1790627+00:00",
+  "LastChanged": "2022-07-26T12:01:13.9219683+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:14.6538572+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-26T10:01:13.1790628+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 389
+    },
+    {
+      "Time": "2022-07-26T12:01:13.9219684+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 392
     }
   ],
   "Tags": [

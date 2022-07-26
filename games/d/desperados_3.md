@@ -1,6 +1,6 @@
 # Desperados 3
 Rating: 4.87 (216)  
-Ratings Per Day: 5.46  
+Ratings Per Day: 3.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
