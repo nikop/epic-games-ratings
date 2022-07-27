@@ -3,10 +3,10 @@
   "Name": "DAEMON X MACHINA",
   "ProductSlug": null,
   "Rating": 4.36,
-  "NumberOfRatings": 1134,
-  "DailyRatings": 8,
+  "NumberOfRatings": 1138,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2022-07-27T12:01:03.0555889+00:00",
+  "LastChanged": "2022-07-27T22:00:58.0755777+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:03.7612117+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-07-27T12:01:03.055589+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 1134
+    },
+    {
+      "Time": "2022-07-27T22:00:58.0755778+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1138
     }
   ],
   "Tags": [

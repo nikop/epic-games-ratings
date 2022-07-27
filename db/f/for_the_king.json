@@ -3,10 +3,10 @@
   "Name": "For The King",
   "ProductSlug": "for-the-king/home",
   "Rating": 4.7,
-  "NumberOfRatings": 2959,
-  "DailyRatings": 38.4,
+  "NumberOfRatings": 2972,
+  "DailyRatings": 43,
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2022-07-27T16:01:49.5793823+00:00",
+  "LastChanged": "2022-07-27T22:01:44.5687293+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-07-27T16:01:49.5793825+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2959
+    },
+    {
+      "Time": "2022-07-27T22:01:44.5687294+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 2972
     }
   ],
   "Tags": [
@@ -193,7 +198,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 67
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Storytelling",

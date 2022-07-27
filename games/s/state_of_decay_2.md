@@ -1,6 +1,6 @@
 # State of Decay 2
-Rating: 4.72 (725)  
-Ratings Per Day: 7.20  
+Rating: 4.72 (727)  
+Ratings Per Day: 8.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 7.20
 | 2022-07-24 | 4.72 | 686 |
 | 2022-07-25 | 4.72 | 704 |
 | 2022-07-26 | 4.72 | 719 |
-| 2022-07-27 | 4.72 | 725 |
+| 2022-07-27 | 4.72 | 727 |

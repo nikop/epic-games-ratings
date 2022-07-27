@@ -2,11 +2,11 @@
   "ID": "640854c119af44d39a5bcf98edb6cd60",
   "Name": "Chernobylite",
   "ProductSlug": "chernobylite",
-  "Rating": 4.09,
-  "NumberOfRatings": 66,
-  "DailyRatings": 0,
+  "Rating": 4.07,
+  "NumberOfRatings": 67,
+  "DailyRatings": 2.4,
   "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
-  "LastChanged": "2022-07-27T12:00:57.1748215+00:00",
+  "LastChanged": "2022-07-27T22:00:51.9794225+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:09.6414616+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-27T12:00:57.1748217+00:00",
       "Rating": 4.09,
       "NumberOfRatings": 66
+    },
+    {
+      "Time": "2022-07-27T22:00:51.9794226+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": 67
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Snowrunner",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 12688,
-  "DailyRatings": 122.02,
+  "NumberOfRatings": 12698,
+  "DailyRatings": 120.98,
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2022-07-27T20:00:20.8349054+00:00",
+  "LastChanged": "2022-07-27T22:00:39.309615+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -237,12 +237,17 @@
       "Time": "2022-07-27T20:00:20.8349055+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 12688
+    },
+    {
+      "Time": "2022-07-27T22:00:39.3096151+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 12698
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1157
+      "Count": 1188
     },
     {
       "Text": "This game is Relaxing",

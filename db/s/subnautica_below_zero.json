@@ -3,10 +3,10 @@
   "Name": "Subnautica Below Zero",
   "ProductSlug": null,
   "Rating": 4.77,
-  "NumberOfRatings": 1020,
-  "DailyRatings": 6,
+  "NumberOfRatings": 1024,
+  "DailyRatings": 9.33,
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2022-07-27T16:00:53.8309516+00:00",
+  "LastChanged": "2022-07-27T22:00:49.7642608+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:53.9147297+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-27T16:00:53.8309517+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 1020
+    },
+    {
+      "Time": "2022-07-27T22:00:49.7642609+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 1024
     }
   ],
   "Tags": [
@@ -121,11 +126,11 @@
     },
     {
       "Text": "This game has Beautiful Visuals",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Obsessive Gameplay",

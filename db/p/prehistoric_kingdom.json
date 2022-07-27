@@ -2,11 +2,11 @@
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
   "ProductSlug": "prehistoric-kingdom",
-  "Rating": 4.23,
-  "NumberOfRatings": 22,
+  "Rating": 4.22,
+  "NumberOfRatings": 23,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
-  "LastChanged": "2022-07-24T18:01:56.6428198+00:00",
+  "LastChanged": "2022-07-27T22:02:12.0646679+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:08.8557627+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T18:01:56.6428199+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-07-27T22:02:12.0646681+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []

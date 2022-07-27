@@ -2,11 +2,17 @@
   "ID": "anemone",
   "Name": "World of Goo",
   "ProductSlug": "world-of-goo/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4.55,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-27T22:01:43.8927919+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-27T22:01:43.892792+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

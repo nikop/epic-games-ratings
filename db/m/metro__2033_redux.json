@@ -4,7 +4,7 @@
   "ProductSlug": "metro-2033-redux/home",
   "Rating": 4.7,
   "NumberOfRatings": 2889,
-  "DailyRatings": 48.01,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
   "LastChanged": "2022-07-27T20:00:34.0971762+00:00",
   "RatingHistory": [
@@ -72,7 +72,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 312
+      "Count": 324
     }
   ]
 }

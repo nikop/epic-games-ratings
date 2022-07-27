@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.56,
   "NumberOfRatings": 550,
-  "DailyRatings": 16,
+  "DailyRatings": 22,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
   "LastChanged": "2022-07-27T20:00:56.9867575+00:00",
   "RatingHistory": [
@@ -121,7 +121,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 27
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",

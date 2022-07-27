@@ -1,9 +1,7 @@
-# Wildermyth
-Rating: 4.70 (30)  
+# Rayman Origins
+Rating: 4.85 (20)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-07-22 | 4.68 | 28 |
-| 2022-07-24 | 4.69 | 29 |
-| 2022-07-27 | 4.70 | 30 |
+| 2022-07-27 | 4.85 | 20 |

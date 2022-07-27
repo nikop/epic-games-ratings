@@ -3,10 +3,10 @@
   "Name": "Paradigm",
   "ProductSlug": null,
   "Rating": 4.49,
-  "NumberOfRatings": 153,
+  "NumberOfRatings": 158,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:34.4741735+00:00",
-  "LastChanged": "2022-07-25T22:02:12.591153+00:00",
+  "LastChanged": "2022-07-27T22:02:28.4691384+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:34.4741737+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-25T22:02:12.5911531+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 153
+    },
+    {
+      "Time": "2022-07-27T22:02:28.4691386+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 158
     }
   ],
   "Tags": []

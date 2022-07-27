@@ -1,6 +1,6 @@
 # The Talos Principle
 Rating: 4.73 (152)  
-Ratings Per Day: 4.00  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

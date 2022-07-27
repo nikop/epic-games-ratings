@@ -2,11 +2,11 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": null,
-  "Rating": 4.69,
-  "NumberOfRatings": 29,
+  "Rating": 4.7,
+  "NumberOfRatings": 30,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
-  "LastChanged": "2022-07-24T18:01:53.2214202+00:00",
+  "LastChanged": "2022-07-27T22:02:08.7457034+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:42.7377529+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T18:01:53.2214204+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-27T22:02:08.7457035+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []

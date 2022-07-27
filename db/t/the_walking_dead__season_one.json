@@ -3,10 +3,10 @@
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one/home",
   "Rating": 4.83,
-  "NumberOfRatings": 41,
-  "DailyRatings": 0,
+  "NumberOfRatings": 42,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2022-07-26T22:00:35.046411+00:00",
+  "LastChanged": "2022-07-27T22:00:48.9097227+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:47.8231951+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T22:00:35.0464111+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-07-27T22:00:48.9097228+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 42
     }
   ],
   "Tags": []

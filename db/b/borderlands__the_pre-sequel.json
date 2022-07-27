@@ -3,10 +3,10 @@
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 1784,
-  "DailyRatings": 26.01,
+  "NumberOfRatings": 1787,
+  "DailyRatings": 23,
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2022-07-27T20:00:57.8221967+00:00",
+  "LastChanged": "2022-07-27T22:01:16.3189604+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:28.4538343+00:00",
@@ -182,6 +182,11 @@
       "Time": "2022-07-27T20:00:57.8221969+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 1784
+    },
+    {
+      "Time": "2022-07-27T22:01:16.3189606+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 1787
     }
   ],
   "Tags": [
@@ -211,7 +216,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game is Relaxing",

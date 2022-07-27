@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
   "Rating": 4.48,
-  "NumberOfRatings": 279,
-  "DailyRatings": 6.55,
+  "NumberOfRatings": 281,
+  "DailyRatings": 10,
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2022-07-27T18:01:03.1294888+00:00",
+  "LastChanged": "2022-07-27T22:01:01.571027+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-27T18:01:03.1294889+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 279
+    },
+    {
+      "Time": "2022-07-27T22:01:01.5710272+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 281
     }
   ],
   "Tags": [

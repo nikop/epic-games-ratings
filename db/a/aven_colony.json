@@ -3,10 +3,10 @@
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
   "Rating": 4.21,
-  "NumberOfRatings": 1103,
-  "DailyRatings": 17.14,
+  "NumberOfRatings": 1113,
+  "DailyRatings": 20,
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2022-07-27T12:01:31.7051868+00:00",
+  "LastChanged": "2022-07-27T22:01:27.364809+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:59.6890426+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-07-27T12:01:31.7051869+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 1103
+    },
+    {
+      "Time": "2022-07-27T22:01:27.3648091+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 1113
     }
   ],
   "Tags": [
