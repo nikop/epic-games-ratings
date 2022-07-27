@@ -3,10 +3,10 @@
   "Name": "Century: Age of Ashes",
   "ProductSlug": "century-age-of-ashes",
   "Rating": 4.37,
-  "NumberOfRatings": 985,
+  "NumberOfRatings": 993,
   "DailyRatings": 24,
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2022-07-27T10:00:41.3805868+00:00",
+  "LastChanged": "2022-07-27T14:00:50.0110209+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.5645774+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-07-27T10:00:41.380587+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 985
+    },
+    {
+      "Time": "2022-07-27T14:00:50.011021+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 993
     }
   ],
   "Tags": []

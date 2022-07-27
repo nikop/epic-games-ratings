@@ -2,11 +2,11 @@
   "ID": "eddb735dde6b47cda8193f2643cff886",
   "Name": "Blasphemous",
   "ProductSlug": null,
-  "Rating": 4.87,
-  "NumberOfRatings": 94,
-  "DailyRatings": 0,
+  "Rating": 4.88,
+  "NumberOfRatings": 96,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2022-07-26T14:02:38.7669347+00:00",
+  "LastChanged": "2022-07-27T14:01:12.2962778+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:14.5456168+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T14:02:38.7669348+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 94
+    },
+    {
+      "Time": "2022-07-27T14:01:12.2962779+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 96
     }
   ],
   "Tags": [

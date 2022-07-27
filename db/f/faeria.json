@@ -3,10 +3,10 @@
   "Name": "Faeria",
   "ProductSlug": null,
   "Rating": 4.49,
-  "NumberOfRatings": 116,
-  "DailyRatings": 0,
+  "NumberOfRatings": 117,
+  "DailyRatings": 1.09,
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2022-07-26T16:00:44.1864616+00:00",
+  "LastChanged": "2022-07-27T14:00:53.2577056+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.9455285+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T16:00:44.1864618+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 116
+    },
+    {
+      "Time": "2022-07-27T14:00:53.2577057+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 117
     }
   ],
   "Tags": [

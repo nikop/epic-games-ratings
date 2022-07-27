@@ -1,6 +1,6 @@
 # Watch Dogs
-Rating: 4.57 (984)  
-Ratings Per Day: 30.84  
+Rating: 4.57 (989)  
+Ratings Per Day: 22.02  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 30.84
 | 2022-07-24 | 4.56 | 936 |
 | 2022-07-25 | 4.56 | 948 |
 | 2022-07-26 | 4.57 | 980 |
-| 2022-07-27 | 4.57 | 984 |
+| 2022-07-27 | 4.57 | 989 |

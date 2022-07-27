@@ -3,10 +3,10 @@
   "Name": "Far Cry Primal",
   "ProductSlug": null,
   "Rating": 4.64,
-  "NumberOfRatings": 251,
-  "DailyRatings": 0,
+  "NumberOfRatings": 253,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2022-07-26T22:01:22.8872295+00:00",
+  "LastChanged": "2022-07-27T14:01:40.5355315+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
@@ -42,12 +42,17 @@
       "Time": "2022-07-26T22:01:22.8872296+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 251
+    },
+    {
+      "Time": "2022-07-27T14:01:40.5355316+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 253
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 71
+      "Count": 73
     }
   ]
 }

@@ -3,10 +3,10 @@
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": null,
   "Rating": 4.45,
-  "NumberOfRatings": 1501,
-  "DailyRatings": 21,
+  "NumberOfRatings": 1506,
+  "DailyRatings": 22.91,
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2022-07-27T12:00:39.8955278+00:00",
+  "LastChanged": "2022-07-27T14:00:45.9695057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:00.3136156+00:00",
@@ -157,12 +157,17 @@
       "Time": "2022-07-27T12:00:39.8955279+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 1501
+    },
+    {
+      "Time": "2022-07-27T14:00:45.9695058+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 1506
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 212
+      "Count": 220
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -190,7 +195,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 156
+      "Count": 160
     },
     {
       "Text": "This game has a Creative Community",

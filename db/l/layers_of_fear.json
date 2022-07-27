@@ -2,11 +2,11 @@
   "ID": "04467b70295342a79381467353f23955",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fear/home",
-  "Rating": 4.45,
-  "NumberOfRatings": 67,
+  "Rating": 4.43,
+  "NumberOfRatings": 68,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:29.1807297+00:00",
-  "LastChanged": "2022-07-24T14:01:59.6489906+00:00",
+  "LastChanged": "2022-07-27T14:02:01.3036709+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:29.1807304+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T14:01:59.6489908+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 67
+    },
+    {
+      "Time": "2022-07-27T14:02:01.3036711+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 68
     }
   ],
   "Tags": []

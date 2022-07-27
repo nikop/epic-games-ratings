@@ -3,10 +3,10 @@
   "Name": "Amnesia: Rebirth",
   "ProductSlug": "amnesia-rebirth",
   "Rating": 4.26,
-  "NumberOfRatings": 964,
-  "DailyRatings": 24.04,
+  "NumberOfRatings": 976,
+  "DailyRatings": 18.67,
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
-  "LastChanged": "2022-07-26T22:02:05.2384534+00:00",
+  "LastChanged": "2022-07-27T14:02:15.0213321+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:30.9158171+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-26T22:02:05.2384535+00:00",
       "Rating": 4.26,
       "NumberOfRatings": 964
+    },
+    {
+      "Time": "2022-07-27T14:02:15.0213323+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 976
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": null,
   "Rating": 4.58,
-  "NumberOfRatings": 303,
-  "DailyRatings": 3.43,
+  "NumberOfRatings": 306,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
-  "LastChanged": "2022-07-27T02:02:08.8440175+00:00",
+  "LastChanged": "2022-07-27T14:01:50.5900991+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:10.4681648+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-27T02:02:08.8440176+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 303
+    },
+    {
+      "Time": "2022-07-27T14:01:50.5900992+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 306
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 101
+      "Count": 102
     }
   ]
 }
