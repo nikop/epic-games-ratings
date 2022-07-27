@@ -2,11 +2,11 @@
   "ID": "b13f6a1e5121469d8a825947b759339d",
   "Name": "Never Alone (Kisima Ingitchuna)",
   "ProductSlug": "never-alone-kisima-ingitchuna",
-  "Rating": 3.98,
-  "NumberOfRatings": 81,
-  "DailyRatings": 0,
+  "Rating": 3.99,
+  "NumberOfRatings": 83,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:19:05.3781446+00:00",
-  "LastChanged": "2022-07-26T08:00:51.3749782+00:00",
+  "LastChanged": "2022-07-27T08:00:34.410707+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:05.3781448+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T08:00:51.3749783+00:00",
       "Rating": 3.98,
       "NumberOfRatings": 81
+    },
+    {
+      "Time": "2022-07-27T08:00:34.4107071+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": 83
     }
   ],
   "Tags": []

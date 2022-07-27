@@ -2,11 +2,11 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meiers Civilization Vl",
   "ProductSlug": null,
-  "Rating": 4.74,
-  "NumberOfRatings": 33338,
-  "DailyRatings": 513.08,
+  "Rating": 4.73,
+  "NumberOfRatings": 33397,
+  "DailyRatings": 521.1,
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2022-07-27T06:00:44.7778247+00:00",
+  "LastChanged": "2022-07-27T08:00:25.059962+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -187,6 +187,11 @@
       "Time": "2022-07-27T06:00:44.7778249+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 33338
+    },
+    {
+      "Time": "2022-07-27T08:00:25.0599622+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 33397
     }
   ],
   "Tags": [

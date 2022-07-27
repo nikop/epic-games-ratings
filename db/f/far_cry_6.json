@@ -3,10 +3,10 @@
   "Name": "Far Cry 6",
   "ProductSlug": null,
   "Rating": 4.43,
-  "NumberOfRatings": 6329,
-  "DailyRatings": 139.18,
+  "NumberOfRatings": 6350,
+  "DailyRatings": 146.44,
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2022-07-27T02:01:14.0808516+00:00",
+  "LastChanged": "2022-07-27T08:00:27.2854324+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-27T02:01:14.0808518+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 6329
+    },
+    {
+      "Time": "2022-07-27T08:00:27.2854325+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 6350
     }
   ],
   "Tags": [

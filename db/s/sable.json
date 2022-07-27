@@ -2,11 +2,11 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Rating": 4.5,
-  "NumberOfRatings": 26,
+  "Rating": 4.48,
+  "NumberOfRatings": 27,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
-  "LastChanged": "2022-07-25T00:02:16.0810354+00:00",
+  "LastChanged": "2022-07-27T08:02:02.9325009+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:24.3265083+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T00:02:16.0810355+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-07-27T08:02:02.9325011+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []

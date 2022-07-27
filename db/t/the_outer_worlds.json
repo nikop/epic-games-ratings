@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.64,
   "NumberOfRatings": 1380,
-  "DailyRatings": 19,
+  "DailyRatings": 18.55,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
   "LastChanged": "2022-07-27T06:01:42.9001786+00:00",
   "RatingHistory": [
@@ -179,7 +179,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 52
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Characters",
@@ -199,7 +199,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 41
+      "Count": 45
     },
     {
       "Text": "This game is Relaxing",

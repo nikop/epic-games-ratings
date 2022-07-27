@@ -1,6 +1,6 @@
 # Batman Arkham City
 Rating: 4.78 (1 437)  
-Ratings Per Day: 31.65  
+Ratings Per Day: 41.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

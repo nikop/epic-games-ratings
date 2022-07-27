@@ -3,10 +3,10 @@
   "Name": "Spiritfarer\u00AE: Farewell Edition",
   "ProductSlug": "spiritfarer",
   "Rating": 4.88,
-  "NumberOfRatings": 94,
-  "DailyRatings": 0,
+  "NumberOfRatings": 98,
+  "DailyRatings": 4.37,
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
-  "LastChanged": "2022-07-26T10:01:48.5114654+00:00",
+  "LastChanged": "2022-07-27T08:01:21.8313601+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:28.7454676+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T10:01:48.5114655+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 94
+    },
+    {
+      "Time": "2022-07-27T08:01:21.8313603+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 98
     }
   ],
   "Tags": []
