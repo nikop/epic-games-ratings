@@ -2,11 +2,11 @@
   "ID": "d1479d6f93fa4e6ca4415e83a7a5d703",
   "Name": "Costume Quest",
   "ProductSlug": "costume-quest/home",
-  "Rating": 4.75,
-  "NumberOfRatings": 24,
+  "Rating": 4.72,
+  "NumberOfRatings": 25,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:30.9149572+00:00",
-  "LastChanged": "2022-07-25T12:02:07.0349762+00:00",
+  "LastChanged": "2022-07-27T10:01:33.3440837+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:30.9149574+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-25T12:02:07.0349763+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-07-27T10:01:33.3440839+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []

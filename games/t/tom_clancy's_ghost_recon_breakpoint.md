@@ -1,6 +1,6 @@
 # Tom Clancy's Ghost Recon Breakpoint
 Rating: 4.54 (2 921)  
-Ratings Per Day: 32.01  
+Ratings Per Day: 32.74  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

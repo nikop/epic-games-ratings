@@ -2,11 +2,11 @@
   "ID": "61bc780f42f84fe29e6dfee957ab82de",
   "Name": "The Escapists",
   "ProductSlug": null,
-  "Rating": 4.44,
-  "NumberOfRatings": 291,
-  "DailyRatings": 0,
+  "Rating": 4.45,
+  "NumberOfRatings": 293,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:18:12.5435213+00:00",
-  "LastChanged": "2022-07-26T10:00:48.7430674+00:00",
+  "LastChanged": "2022-07-27T10:00:47.2155235+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:12.5435215+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-26T10:00:48.7430677+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 291
+    },
+    {
+      "Time": "2022-07-27T10:00:47.2155235+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 293
     }
   ],
   "Tags": []

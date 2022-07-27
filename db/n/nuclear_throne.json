@@ -2,11 +2,11 @@
   "ID": "742f165671424189aecdfdadf5ea9755",
   "Name": "Nuclear Throne",
   "ProductSlug": "nuclear-throne/home",
-  "Rating": 4.79,
-  "NumberOfRatings": 335,
-  "DailyRatings": 10.01,
+  "Rating": 4.78,
+  "NumberOfRatings": 336,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2022-07-27T06:01:55.2765417+00:00",
+  "LastChanged": "2022-07-27T10:01:55.3943032+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-27T06:01:55.2765418+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 335
+    },
+    {
+      "Time": "2022-07-27T10:01:55.3943034+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 336
     }
   ],
   "Tags": [

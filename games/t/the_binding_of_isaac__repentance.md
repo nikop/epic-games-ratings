@@ -1,6 +1,6 @@
 # The Binding of Isaac: Repentance
-Rating: 4.90 (1 317)  
-Ratings Per Day: 12.00  
+Rating: 4.90 (1 322)  
+Ratings Per Day: 15.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 12.00
 | 2022-07-24 | 4.90 | 1 278 |
 | 2022-07-25 | 4.90 | 1 293 |
 | 2022-07-26 | 4.90 | 1 314 |
-| 2022-07-27 | 4.90 | 1 317 |
+| 2022-07-27 | 4.90 | 1 322 |

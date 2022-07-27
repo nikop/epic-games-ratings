@@ -2,11 +2,11 @@
   "ID": "3819de76dedf4cd2aebbcf9279e23e43",
   "Name": "Darq: Complete Edition",
   "ProductSlug": "darq-complete-edition",
-  "Rating": 4.43,
-  "NumberOfRatings": 201,
-  "DailyRatings": 0,
+  "Rating": 4.42,
+  "NumberOfRatings": 205,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:18:45.2388208+00:00",
-  "LastChanged": "2022-07-26T18:00:59.4402531+00:00",
+  "LastChanged": "2022-07-27T10:00:51.4736324+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:45.2388211+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T18:00:59.4402533+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 201
+    },
+    {
+      "Time": "2022-07-27T10:00:51.4736325+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 205
     }
   ],
   "Tags": []

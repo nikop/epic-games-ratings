@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The New Order",
   "ProductSlug": "wolfenstein-the-new-order",
   "Rating": 4.58,
-  "NumberOfRatings": 49985,
-  "DailyRatings": 268.83,
+  "NumberOfRatings": 50006,
+  "DailyRatings": 245.02,
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2022-07-27T06:01:39.4447371+00:00",
+  "LastChanged": "2022-07-27T10:01:39.1949945+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-27T06:01:39.4447372+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 49985
+    },
+    {
+      "Time": "2022-07-27T10:01:39.1949946+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 50006
     }
   ],
   "Tags": [
@@ -176,7 +181,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 184
+      "Count": 188
     },
     {
       "Text": "This game is Extremely Fun",
@@ -196,7 +201,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 162
+      "Count": 165
     },
     {
       "Text": "This game has Quickly Understood Controls",

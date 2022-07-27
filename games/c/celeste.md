@@ -1,6 +1,6 @@
 # Celeste
 Rating: 4.91 (1 395)  
-Ratings Per Day: 19.64  
+Ratings Per Day: 19.54  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

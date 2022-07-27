@@ -2,11 +2,11 @@
   "ID": "dfc4917a747748a0a25835f7152a30b4",
   "Name": "UnMetal",
   "ProductSlug": null,
-  "Rating": 4.52,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0,
+  "Rating": 4.55,
+  "NumberOfRatings": 22,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:18:47.3382201+00:00",
-  "LastChanged": "2022-07-26T10:00:53.4401972+00:00",
+  "LastChanged": "2022-07-27T10:00:51.6238177+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T08:00:30.1894628+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-26T10:00:53.4401974+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-07-27T10:00:51.6238178+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []

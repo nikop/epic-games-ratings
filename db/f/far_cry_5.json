@@ -3,10 +3,10 @@
   "Name": "Far Cry 5",
   "ProductSlug": null,
   "Rating": 4.62,
-  "NumberOfRatings": 996,
-  "DailyRatings": 30.05,
+  "NumberOfRatings": 999,
+  "DailyRatings": 21.63,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-07-27T02:01:34.4738385+00:00",
+  "LastChanged": "2022-07-27T10:01:06.0795573+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-27T02:01:34.4738387+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 996
+    },
+    {
+      "Time": "2022-07-27T10:01:06.0795575+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 999
     }
   ],
   "Tags": [

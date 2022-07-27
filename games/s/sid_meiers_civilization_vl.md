@@ -1,6 +1,6 @@
 # Sid Meiers Civilization Vl
-Rating: 4.73 (33 397)  
-Ratings Per Day: 521.10  
+Rating: 4.73 (33 413)  
+Ratings Per Day: 494.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 521.10
 | 2022-07-24 | 4.74 | 32 243 |
 | 2022-07-25 | 4.74 | 32 717 |
 | 2022-07-26 | 4.74 | 33 210 |
-| 2022-07-27 | 4.73 | 33 397 |
+| 2022-07-27 | 4.73 | 33 413 |

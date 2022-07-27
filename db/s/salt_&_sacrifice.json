@@ -2,11 +2,11 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt \u0026 Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Rating": 4.28,
-  "NumberOfRatings": 1597,
-  "DailyRatings": 25.32,
+  "Rating": 4.29,
+  "NumberOfRatings": 1600,
+  "DailyRatings": 18.55,
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-07-27T02:01:57.711169+00:00",
+  "LastChanged": "2022-07-27T10:01:27.6155185+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-27T02:01:57.7111691+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 1597
+    },
+    {
+      "Time": "2022-07-27T10:01:27.6155186+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 1600
     }
   ],
   "Tags": [
@@ -101,7 +106,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 235
+      "Count": 238
     },
     {
       "Text": "This game has Diverse Characters",

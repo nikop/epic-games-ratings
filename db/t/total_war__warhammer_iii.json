@@ -2,11 +2,11 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Rating": 4.48,
-  "NumberOfRatings": 273,
-  "DailyRatings": 0,
+  "Rating": 4.47,
+  "NumberOfRatings": 276,
+  "DailyRatings": 5.14,
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2022-07-26T20:01:01.3644185+00:00",
+  "LastChanged": "2022-07-27T10:01:04.1174039+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -67,12 +67,17 @@
       "Time": "2022-07-26T20:01:01.3644187+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 273
+    },
+    {
+      "Time": "2022-07-27T10:01:04.1174041+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 276
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 121
+      "Count": 123
     }
   ]
 }

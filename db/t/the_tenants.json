@@ -2,11 +2,11 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Rating": 4.63,
-  "NumberOfRatings": 30,
+  "Rating": 4.66,
+  "NumberOfRatings": 32,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
-  "LastChanged": "2022-07-25T10:02:10.5984446+00:00",
+  "LastChanged": "2022-07-27T10:02:03.3868788+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.0535217+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-25T10:02:10.5984448+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-27T10:02:03.3868789+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 32
     }
   ],
   "Tags": []

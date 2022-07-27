@@ -3,10 +3,10 @@
   "Name": "Far Cry New Dawn",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 176,
-  "DailyRatings": 8,
+  "NumberOfRatings": 179,
+  "DailyRatings": 7,
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2022-07-26T22:00:40.2898119+00:00",
+  "LastChanged": "2022-07-27T10:00:55.7916666+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-26T22:00:40.289812+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 176
+    },
+    {
+      "Time": "2022-07-27T10:00:55.7916667+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 179
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Rating": 4.63,
-  "NumberOfRatings": 160,
-  "DailyRatings": 0,
+  "NumberOfRatings": 162,
+  "DailyRatings": 4.8,
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
-  "LastChanged": "2022-07-27T00:01:41.4429917+00:00",
+  "LastChanged": "2022-07-27T10:01:54.5471726+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:20.90716+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-27T00:01:41.4429918+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 160
+    },
+    {
+      "Time": "2022-07-27T10:01:54.5471727+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 162
     }
   ],
   "Tags": []
