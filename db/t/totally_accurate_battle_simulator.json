@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.78,
   "NumberOfRatings": 1133,
-  "DailyRatings": 26.98,
+  "DailyRatings": 34.49,
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
   "LastChanged": "2022-07-27T02:02:09.4482556+00:00",
   "RatingHistory": [
@@ -141,7 +141,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
@@ -173,7 +173,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game has Quickly Understood Controls",

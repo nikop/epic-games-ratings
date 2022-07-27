@@ -3,10 +3,10 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Rating": 4.04,
-  "NumberOfRatings": 6835,
-  "DailyRatings": 217.04,
+  "NumberOfRatings": 6859,
+  "DailyRatings": 223.07,
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "LastChanged": "2022-07-27T02:01:02.5976824+00:00",
+  "LastChanged": "2022-07-27T04:00:18.7244802+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.6649584+00:00",
@@ -217,12 +217,17 @@
       "Time": "2022-07-27T02:01:02.5976826+00:00",
       "Rating": 4.04,
       "NumberOfRatings": 6835
+    },
+    {
+      "Time": "2022-07-27T04:00:18.7244808+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 6859
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 990
+      "Count": 1041
     },
     {
       "Text": "This game has Diverse Characters",
@@ -246,7 +251,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 659
+      "Count": 685
     }
   ]
 }

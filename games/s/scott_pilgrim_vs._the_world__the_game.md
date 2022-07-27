@@ -1,6 +1,6 @@
 # Scott Pilgrim vs. The World: The Game
 Rating: 4.75 (56)  
-Ratings Per Day: 1.00  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

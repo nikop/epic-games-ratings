@@ -3,10 +3,10 @@
   "Name": "20XX",
   "ProductSlug": null,
   "Rating": 4.64,
-  "NumberOfRatings": 219,
-  "DailyRatings": 0,
+  "NumberOfRatings": 222,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-07-26T10:01:05.0798292+00:00",
+  "LastChanged": "2022-07-27T04:00:46.0070374+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-26T10:01:05.0798293+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 219
+    },
+    {
+      "Time": "2022-07-27T04:00:46.0070374+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 222
     }
   ],
   "Tags": []

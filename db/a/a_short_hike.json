@@ -3,10 +3,10 @@
   "Name": "A Short Hike",
   "ProductSlug": "a-short-hike/home",
   "Rating": 4.8,
-  "NumberOfRatings": 90,
-  "DailyRatings": 0,
+  "NumberOfRatings": 92,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:29:23.6184484+00:00",
-  "LastChanged": "2022-07-26T04:02:26.1182645+00:00",
+  "LastChanged": "2022-07-27T04:01:53.4063663+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:23.6184486+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-26T04:02:26.1182647+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 90
+    },
+    {
+      "Time": "2022-07-27T04:01:53.4063665+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 92
     }
   ],
   "Tags": []

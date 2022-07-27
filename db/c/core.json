@@ -2,11 +2,11 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Rating": 4.39,
-  "NumberOfRatings": 890,
-  "DailyRatings": 3.6,
+  "Rating": 4.4,
+  "NumberOfRatings": 893,
+  "DailyRatings": 10.01,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-07-26T22:01:27.0275862+00:00",
+  "LastChanged": "2022-07-27T04:01:15.0653336+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-07-26T22:01:27.0275864+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 890
+    },
+    {
+      "Time": "2022-07-27T04:01:15.0653337+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 893
     }
   ],
   "Tags": [

@@ -2,11 +2,11 @@
   "ID": "cd88d9edc5a748cfa138e467205adcac",
   "Name": "Hue",
   "ProductSlug": "hue",
-  "Rating": 4.49,
-  "NumberOfRatings": 228,
-  "DailyRatings": 0,
+  "Rating": 4.48,
+  "NumberOfRatings": 232,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
-  "LastChanged": "2022-07-26T04:01:00.6250839+00:00",
+  "LastChanged": "2022-07-27T04:00:32.5154537+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:29.47486+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T04:01:00.625084+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 228
+    },
+    {
+      "Time": "2022-07-27T04:00:32.5154539+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 232
     }
   ],
   "Tags": [

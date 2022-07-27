@@ -1,6 +1,6 @@
 # Assassin's Creed Odyssey
 Rating: 4.75 (3 341)  
-Ratings Per Day: 41.97  
+Ratings Per Day: 47.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

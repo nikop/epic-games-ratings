@@ -3,10 +3,10 @@
   "Name": "Beyond: Two Souls",
   "ProductSlug": null,
   "Rating": 4.68,
-  "NumberOfRatings": 195,
+  "NumberOfRatings": 197,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2022-07-26T02:00:11.7286812+00:00",
+  "LastChanged": "2022-07-27T04:00:19.1545504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.5955429+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-26T02:00:11.7286815+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 195
+    },
+    {
+      "Time": "2022-07-27T04:00:19.1545507+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 197
     }
   ],
   "Tags": [
