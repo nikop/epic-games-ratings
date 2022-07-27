@@ -2,11 +2,11 @@
   "ID": "d0d1b5541a6540d5a81daacb3324639b",
   "Name": "RiME",
   "ProductSlug": "rime/home",
-  "Rating": 4.64,
-  "NumberOfRatings": 45,
-  "DailyRatings": 0,
+  "Rating": 4.67,
+  "NumberOfRatings": 48,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:23:44.5137427+00:00",
-  "LastChanged": "2022-07-26T12:01:36.1004875+00:00",
+  "LastChanged": "2022-07-27T12:01:29.9355102+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:44.513743+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-26T12:01:36.1004877+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 45
+    },
+    {
+      "Time": "2022-07-27T12:01:29.9355103+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 48
     }
   ],
   "Tags": []

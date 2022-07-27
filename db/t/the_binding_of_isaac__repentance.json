@@ -4,7 +4,7 @@
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Rating": 4.9,
   "NumberOfRatings": 1322,
-  "DailyRatings": 15,
+  "DailyRatings": 15.62,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
   "LastChanged": "2022-07-27T10:00:50.031779+00:00",
   "RatingHistory": [
@@ -177,7 +177,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 99
+      "Count": 107
     },
     {
       "Text": "This game is Extremely Fun",
@@ -205,7 +205,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 70
+      "Count": 74
     }
   ]
 }

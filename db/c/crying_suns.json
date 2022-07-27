@@ -3,10 +3,10 @@
   "Name": "Crying Suns",
   "ProductSlug": null,
   "Rating": 4.48,
-  "NumberOfRatings": 514,
-  "DailyRatings": 0,
+  "NumberOfRatings": 524,
+  "DailyRatings": 10,
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
-  "LastChanged": "2022-07-26T12:01:41.6079391+00:00",
+  "LastChanged": "2022-07-27T12:01:35.0320239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:25.9606457+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-26T12:01:41.6079392+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 514
+    },
+    {
+      "Time": "2022-07-27T12:01:35.0320241+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 524
     }
   ],
   "Tags": []

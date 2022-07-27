@@ -3,10 +3,10 @@
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
   "Rating": 4.6,
-  "NumberOfRatings": 679,
-  "DailyRatings": 17.15,
+  "NumberOfRatings": 683,
+  "DailyRatings": 10.67,
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2022-07-27T00:01:50.8747709+00:00",
+  "LastChanged": "2022-07-27T12:02:04.9221645+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:41.6168654+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-27T00:01:50.874771+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 679
+    },
+    {
+      "Time": "2022-07-27T12:02:04.9221647+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 683
     }
   ],
   "Tags": [

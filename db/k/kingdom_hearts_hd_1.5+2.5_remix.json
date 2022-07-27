@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Rating": 4.82,
-  "NumberOfRatings": 2321,
-  "DailyRatings": 61.35,
+  "NumberOfRatings": 2325,
+  "DailyRatings": 60.01,
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2022-07-27T10:01:29.0578749+00:00",
+  "LastChanged": "2022-07-27T12:01:31.250938+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:56.8065491+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-27T10:01:29.0578752+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 2321
+    },
+    {
+      "Time": "2022-07-27T12:01:31.2509381+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 2325
     }
   ],
   "Tags": [
@@ -168,7 +173,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 64
+      "Count": 69
     },
     {
       "Text": "This game is Extremely Fun",
@@ -176,7 +181,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -188,7 +193,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Diverse Characters",

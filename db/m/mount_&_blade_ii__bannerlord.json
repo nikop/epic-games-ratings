@@ -3,10 +3,10 @@
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2/home",
   "Rating": 4.73,
-  "NumberOfRatings": 3380,
-  "DailyRatings": 43,
+  "NumberOfRatings": 3381,
+  "DailyRatings": 38,
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
-  "LastChanged": "2022-07-27T10:01:09.9810155+00:00",
+  "LastChanged": "2022-07-27T12:01:12.4351801+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.7217338+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-07-27T10:01:09.9810157+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 3380
+    },
+    {
+      "Time": "2022-07-27T12:01:12.4351803+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 3381
     }
   ],
   "Tags": [

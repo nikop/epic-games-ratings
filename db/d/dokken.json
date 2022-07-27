@@ -2,11 +2,11 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "Dokken",
   "ProductSlug": null,
-  "Rating": 4.67,
-  "NumberOfRatings": 227,
-  "DailyRatings": 621.01,
+  "Rating": 4.66,
+  "NumberOfRatings": 270,
+  "DailyRatings": 499.75,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2022-07-27T08:00:53.7691908+00:00",
+  "LastChanged": "2022-07-27T12:01:15.4975932+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-27T08:00:53.769191+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 227
+    },
+    {
+      "Time": "2022-07-27T12:01:15.4975932+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 270
     }
   ],
   "Tags": []

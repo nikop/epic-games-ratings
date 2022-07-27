@@ -3,10 +3,10 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Rating": 4.52,
-  "NumberOfRatings": 1202,
-  "DailyRatings": 24.02,
+  "NumberOfRatings": 1204,
+  "DailyRatings": 21.61,
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
-  "LastChanged": "2022-07-27T08:01:26.7689058+00:00",
+  "LastChanged": "2022-07-27T12:01:48.1908559+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:07.9846698+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-07-27T08:01:26.7689059+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 1202
+    },
+    {
+      "Time": "2022-07-27T12:01:48.190856+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 1204
     }
   ],
   "Tags": [

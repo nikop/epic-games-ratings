@@ -3,10 +3,10 @@
   "Name": "God of War",
   "ProductSlug": "god-of-war",
   "Rating": 4.89,
-  "NumberOfRatings": 3114,
-  "DailyRatings": 40.38,
+  "NumberOfRatings": 3116,
+  "DailyRatings": 33.86,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2022-07-27T08:01:25.9285047+00:00",
+  "LastChanged": "2022-07-27T12:01:47.3340541+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-07-27T08:01:25.9285048+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 3114
+    },
+    {
+      "Time": "2022-07-27T12:01:47.3340542+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 3116
     }
   ],
   "Tags": [

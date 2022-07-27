@@ -3,10 +3,10 @@
   "Name": "The Witness",
   "ProductSlug": "the-witness/home",
   "Rating": 4.69,
-  "NumberOfRatings": 265,
+  "NumberOfRatings": 268,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2022-07-26T06:00:59.5493379+00:00",
+  "LastChanged": "2022-07-27T12:00:47.4998291+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:54.428207+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-26T06:00:59.549338+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 265
+    },
+    {
+      "Time": "2022-07-27T12:00:47.4998293+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 268
     }
   ],
   "Tags": [

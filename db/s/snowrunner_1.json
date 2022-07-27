@@ -3,10 +3,10 @@
   "Name": "Snowrunner",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 12632,
-  "DailyRatings": 154,
+  "NumberOfRatings": 12639,
+  "DailyRatings": 143.07,
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2022-07-27T10:00:42.2558976+00:00",
+  "LastChanged": "2022-07-27T12:00:44.5052154+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-07-27T10:00:42.2558979+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 12632
+    },
+    {
+      "Time": "2022-07-27T12:00:44.5052156+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 12639
     }
   ],
   "Tags": [
@@ -229,7 +234,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1086
+      "Count": 1121
     },
     {
       "Text": "This game has Quickly Understood Controls",
