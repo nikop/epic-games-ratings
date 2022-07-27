@@ -3,10 +3,10 @@
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
   "Rating": 4.51,
-  "NumberOfRatings": 1455,
-  "DailyRatings": 25.33,
+  "NumberOfRatings": 1459,
+  "DailyRatings": 25.09,
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2022-07-27T16:01:24.0413981+00:00",
+  "LastChanged": "2022-07-27T20:01:00.6973775+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.6792772+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-07-27T16:01:24.0413982+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 1455
+    },
+    {
+      "Time": "2022-07-27T20:01:00.6973777+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 1459
     }
   ],
   "Tags": [

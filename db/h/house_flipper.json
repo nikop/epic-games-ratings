@@ -4,7 +4,7 @@
   "ProductSlug": "house-flipper",
   "Rating": 4.74,
   "NumberOfRatings": 639,
-  "DailyRatings": 5.46,
+  "DailyRatings": 2.4,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "LastChanged": "2022-07-27T16:01:24.1383763+00:00",
   "RatingHistory": [
@@ -157,7 +157,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 52
+      "Count": 56
     }
   ]
 }

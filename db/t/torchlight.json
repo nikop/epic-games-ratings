@@ -2,11 +2,11 @@
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
   "ProductSlug": "torchlight/home",
-  "Rating": 4.47,
-  "NumberOfRatings": 68,
+  "Rating": 4.46,
+  "NumberOfRatings": 70,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
-  "LastChanged": "2022-07-26T18:01:50.6574412+00:00",
+  "LastChanged": "2022-07-27T20:01:08.623436+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.2645227+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T18:01:50.6574413+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 68
+    },
+    {
+      "Time": "2022-07-27T20:01:08.6234361+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 70
     }
   ],
   "Tags": []

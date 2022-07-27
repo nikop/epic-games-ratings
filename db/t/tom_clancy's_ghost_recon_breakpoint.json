@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.54,
   "NumberOfRatings": 2935,
-  "DailyRatings": 26,
+  "DailyRatings": 25.19,
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
   "LastChanged": "2022-07-27T18:00:45.2585974+00:00",
   "RatingHistory": [
@@ -213,7 +213,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 148
+      "Count": 150
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -229,7 +229,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 130
+      "Count": 132
     }
   ]
 }

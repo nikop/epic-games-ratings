@@ -3,10 +3,10 @@
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
   "Rating": 4.6,
-  "NumberOfRatings": 686,
-  "DailyRatings": 11,
+  "NumberOfRatings": 688,
+  "DailyRatings": 10.8,
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2022-07-27T18:02:03.5504743+00:00",
+  "LastChanged": "2022-07-27T20:01:43.4269603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:41.6168654+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-07-27T18:02:03.5504745+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 686
+    },
+    {
+      "Time": "2022-07-27T20:01:43.4269605+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 688
     }
   ],
   "Tags": [
@@ -111,7 +116,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 93
+      "Count": 97
     }
   ]
 }

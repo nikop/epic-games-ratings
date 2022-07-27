@@ -3,10 +3,10 @@
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": null,
   "Rating": 4.51,
-  "NumberOfRatings": 811,
-  "DailyRatings": 36,
+  "NumberOfRatings": 815,
+  "DailyRatings": 14.18,
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2022-07-27T04:00:44.672993+00:00",
+  "LastChanged": "2022-07-27T20:00:40.1567206+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.0109804+00:00",
@@ -57,12 +57,17 @@
       "Time": "2022-07-27T04:00:44.6729932+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 811
+    },
+    {
+      "Time": "2022-07-27T20:00:40.1567208+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 815
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 228
+      "Count": 231
     }
   ]
 }

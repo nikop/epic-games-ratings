@@ -3,15 +3,20 @@
   "Name": "Journey",
   "ProductSlug": "journey/home",
   "Rating": 4.76,
-  "NumberOfRatings": 33,
+  "NumberOfRatings": 34,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:29.6928731+00:00",
-  "LastChanged": "2022-07-22T20:24:29.6928732+00:00",
+  "LastChanged": "2022-07-27T20:01:12.8604169+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:29.6928733+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-07-27T20:01:12.8604171+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 34
     }
   ],
   "Tags": []

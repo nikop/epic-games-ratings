@@ -3,10 +3,10 @@
   "Name": "Core",
   "ProductSlug": "core",
   "Rating": 4.4,
-  "NumberOfRatings": 898,
-  "DailyRatings": 9.6,
+  "NumberOfRatings": 899,
+  "DailyRatings": 9.82,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-07-27T18:01:31.0809225+00:00",
+  "LastChanged": "2022-07-27T20:01:10.4007664+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-07-27T18:01:31.0809227+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 898
+    },
+    {
+      "Time": "2022-07-27T20:01:10.4007665+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 899
     }
   ],
   "Tags": [
@@ -124,7 +129,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 23
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
