@@ -3,10 +3,10 @@
   "Name": "Metro Exodus",
   "ProductSlug": null,
   "Rating": 4.79,
-  "NumberOfRatings": 4031,
-  "DailyRatings": 82.46,
+  "NumberOfRatings": 4039,
+  "DailyRatings": 75.6,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-07-27T02:01:16.6191781+00:00",
+  "LastChanged": "2022-07-27T06:00:49.1154952+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-07-27T02:01:16.6191783+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 4031
+    },
+    {
+      "Time": "2022-07-27T06:00:49.1154954+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 4039
     }
   ],
   "Tags": [
@@ -187,7 +192,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 122
+      "Count": 125
     },
     {
       "Text": "This game has Diverse Characters",

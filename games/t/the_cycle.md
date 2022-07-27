@@ -1,6 +1,6 @@
 # The Cycle
-Rating: 4.15 (11 345)  
-Ratings Per Day: 75.26  
+Rating: 4.15 (11 359)  
+Ratings Per Day: 80.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 75.26
 | 2022-07-24 | 4.16 | 11 150 |
 | 2022-07-25 | 4.15 | 11 264 |
 | 2022-07-26 | 4.15 | 11 328 |
-| 2022-07-27 | 4.15 | 11 345 |
+| 2022-07-27 | 4.15 | 11 359 |

@@ -3,10 +3,10 @@
   "Name": "Phoenix Point",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 1168,
-  "DailyRatings": 27.61,
+  "NumberOfRatings": 1169,
+  "DailyRatings": 25.2,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-07-27T00:00:21.5563284+00:00",
+  "LastChanged": "2022-07-27T06:00:44.5756017+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -157,12 +157,17 @@
       "Time": "2022-07-27T00:00:21.5563285+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 1168
+    },
+    {
+      "Time": "2022-07-27T06:00:44.5756018+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 1169
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 557
+      "Count": 566
     },
     {
       "Text": "This game is Highly Recommended",

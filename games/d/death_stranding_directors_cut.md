@@ -1,6 +1,6 @@
 # Death Stranding Directors Cut
 Rating: 4.84 (1 740)  
-Ratings Per Day: 32.01  
+Ratings Per Day: 34.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

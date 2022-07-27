@@ -3,10 +3,10 @@
   "Name": "Scavengers",
   "ProductSlug": "scavengers",
   "Rating": 4.24,
-  "NumberOfRatings": 279,
+  "NumberOfRatings": 280,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
-  "LastChanged": "2022-07-26T00:00:56.8011163+00:00",
+  "LastChanged": "2022-07-27T06:00:51.7478714+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:46.6635411+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-26T00:00:56.8011164+00:00",
       "Rating": 4.24,
       "NumberOfRatings": 279
+    },
+    {
+      "Time": "2022-07-27T06:00:51.7478715+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 280
     }
   ],
   "Tags": [

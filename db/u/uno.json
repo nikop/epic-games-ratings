@@ -2,11 +2,11 @@
   "ID": "ca93b6d41a4e41af864942d8f0a2a826",
   "Name": "Uno",
   "ProductSlug": null,
-  "Rating": 4.62,
-  "NumberOfRatings": 34,
+  "Rating": 4.63,
+  "NumberOfRatings": 35,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:16:51.0779321+00:00",
-  "LastChanged": "2022-07-26T04:00:46.2971974+00:00",
+  "LastChanged": "2022-07-27T06:00:36.8949746+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.0779334+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T04:00:46.2971976+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-07-27T06:00:36.8949748+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 35
     }
   ],
   "Tags": []
