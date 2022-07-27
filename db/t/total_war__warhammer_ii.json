@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
   "Rating": 4.84,
-  "NumberOfRatings": 761,
-  "DailyRatings": 13.5,
+  "NumberOfRatings": 766,
+  "DailyRatings": 14,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-07-27T10:00:37.1015414+00:00",
+  "LastChanged": "2022-07-27T18:00:36.4103613+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -147,12 +147,17 @@
       "Time": "2022-07-27T10:00:37.1015416+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 761
+    },
+    {
+      "Time": "2022-07-27T18:00:36.4103615+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 766
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 505
+      "Count": 510
     },
     {
       "Text": "This game has Diverse Characters",

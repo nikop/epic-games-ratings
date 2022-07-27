@@ -1,6 +1,6 @@
 # Far Cry 5
-Rating: 4.62 (999)  
-Ratings Per Day: 19.50  
+Rating: 4.62 (1 005)  
+Ratings Per Day: 19.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 19.50
 | 2022-07-24 | 4.62 | 947 |
 | 2022-07-25 | 4.62 | 969 |
 | 2022-07-26 | 4.61 | 987 |
-| 2022-07-27 | 4.62 | 999 |
+| 2022-07-27 | 4.62 | 1 005 |

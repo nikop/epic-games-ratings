@@ -4,7 +4,7 @@
   "ProductSlug": "league-of-legends",
   "Rating": 4.21,
   "NumberOfRatings": 5981,
-  "DailyRatings": 92.03,
+  "DailyRatings": 103.23,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
   "LastChanged": "2022-07-27T16:02:31.7017533+00:00",
   "RatingHistory": [
@@ -221,7 +221,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 213
+      "Count": 221
     },
     {
       "Text": "This game has Challenging Combat",

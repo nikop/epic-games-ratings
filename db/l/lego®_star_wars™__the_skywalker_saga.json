@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.8,
   "NumberOfRatings": 1896,
-  "DailyRatings": 20,
+  "DailyRatings": 18.55,
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "LastChanged": "2022-07-27T16:00:38.598399+00:00",
   "RatingHistory": [
@@ -197,7 +197,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1109
+      "Count": 1129
     },
     {
       "Text": "This game is Highly Recommended",
@@ -213,7 +213,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 175
+      "Count": 178
     },
     {
       "Text": "This game has Diverse Characters",
@@ -233,7 +233,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 169
+      "Count": 173
     },
     {
       "Text": "This game is Relaxing",

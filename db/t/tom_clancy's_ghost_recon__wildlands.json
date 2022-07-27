@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s Ghost Recon: Wildlands",
   "ProductSlug": null,
   "Rating": 4.54,
-  "NumberOfRatings": 520,
-  "DailyRatings": 4.8,
+  "NumberOfRatings": 521,
+  "DailyRatings": 5.45,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2022-07-27T16:01:07.4618576+00:00",
+  "LastChanged": "2022-07-27T18:01:04.6567625+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-07-27T16:01:07.461858+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 520
+    },
+    {
+      "Time": "2022-07-27T18:01:04.6567627+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 521
     }
   ],
   "Tags": [
@@ -121,6 +126,10 @@
     {
       "Text": "This game has Diverse Characters",
       "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 20
     }
   ]
 }

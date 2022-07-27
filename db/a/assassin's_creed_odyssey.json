@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Odyssey",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 3355,
-  "DailyRatings": 39.27,
+  "NumberOfRatings": 3362,
+  "DailyRatings": 40.01,
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2022-07-27T14:01:28.8442436+00:00",
+  "LastChanged": "2022-07-27T18:01:16.9802453+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:24.6932881+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-07-27T14:01:28.8442453+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 3355
+    },
+    {
+      "Time": "2022-07-27T18:01:16.9802455+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 3362
     }
   ],
   "Tags": [
@@ -205,7 +210,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 65
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Storytelling",

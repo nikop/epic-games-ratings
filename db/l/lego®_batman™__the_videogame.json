@@ -4,7 +4,7 @@
   "ProductSlug": "lego-batman/home",
   "Rating": 4.48,
   "NumberOfRatings": 280,
-  "DailyRatings": 4,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
   "LastChanged": "2022-07-27T16:01:31.6416683+00:00",
   "RatingHistory": [
@@ -52,7 +52,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 62
+      "Count": 64
     }
   ]
 }

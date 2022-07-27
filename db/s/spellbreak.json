@@ -3,10 +3,10 @@
   "Name": "Spellbreak",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 608,
-  "DailyRatings": 0,
+  "NumberOfRatings": 614,
+  "DailyRatings": 8,
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-07-27T00:00:22.011597+00:00",
+  "LastChanged": "2022-07-27T18:00:43.9974844+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-27T00:00:22.0115971+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 608
+    },
+    {
+      "Time": "2022-07-27T18:00:43.9974846+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 614
     }
   ],
   "Tags": [

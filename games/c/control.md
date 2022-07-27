@@ -1,6 +1,6 @@
 # Control
-Rating: 4.60 (8 410)  
-Ratings Per Day: 137.44  
+Rating: 4.60 (8 460)  
+Ratings Per Day: 152.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 137.44
 | 2022-07-24 | 4.60 | 7 992 |
 | 2022-07-25 | 4.60 | 8 175 |
 | 2022-07-26 | 4.60 | 8 346 |
-| 2022-07-27 | 4.60 | 8 410 |
+| 2022-07-27 | 4.60 | 8 460 |

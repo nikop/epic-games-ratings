@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.6,
   "NumberOfRatings": 22250,
-  "DailyRatings": 84,
+  "DailyRatings": 81.83,
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "LastChanged": "2022-07-27T16:01:00.5444914+00:00",
   "RatingHistory": [
@@ -200,7 +200,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 139
+      "Count": 140
     },
     {
       "Text": "This game has Quickly Understood Controls",
