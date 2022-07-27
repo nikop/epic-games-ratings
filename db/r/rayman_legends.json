@@ -3,10 +3,10 @@
   "Name": "Rayman Legends",
   "ProductSlug": "rayman-legends/home",
   "Rating": 4.68,
-  "NumberOfRatings": 191,
+  "NumberOfRatings": 193,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2022-07-26T08:02:23.6814047+00:00",
+  "LastChanged": "2022-07-27T16:02:25.3059519+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:21.8622947+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-26T08:02:23.6814049+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 191
+    },
+    {
+      "Time": "2022-07-27T16:02:25.305952+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 193
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "King\u0027s Bounty: The Legend",
   "ProductSlug": null,
   "Rating": 4.52,
-  "NumberOfRatings": 25,
-  "DailyRatings": 0,
+  "NumberOfRatings": 27,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:23:22.2011944+00:00",
-  "LastChanged": "2022-07-26T16:01:38.6345823+00:00",
+  "LastChanged": "2022-07-27T16:01:27.9474106+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:22.2011946+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T16:01:38.6345825+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-07-27T16:01:27.9474108+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []

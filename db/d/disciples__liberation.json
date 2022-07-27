@@ -3,10 +3,10 @@
   "Name": "Disciples: Liberation",
   "ProductSlug": null,
   "Rating": 4.36,
-  "NumberOfRatings": 88,
-  "DailyRatings": 0,
+  "NumberOfRatings": 89,
+  "DailyRatings": 1.2,
   "FirstSeen": "2022-07-22T20:19:00.1531714+00:00",
-  "LastChanged": "2022-07-26T20:00:47.6463916+00:00",
+  "LastChanged": "2022-07-27T16:00:54.7197857+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:00.1531717+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-26T20:00:47.6463917+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 88
+    },
+    {
+      "Time": "2022-07-27T16:00:54.7197859+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 89
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 29
+      "Count": 30
     }
   ]
 }

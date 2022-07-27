@@ -1,6 +1,6 @@
 # Hitman 2016
-Rating: 4.65 (3 330)  
-Ratings Per Day: 66.64  
+Rating: 4.65 (3 344)  
+Ratings Per Day: 69.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 66.64
 | 2022-07-24 | 4.65 | 3 166 |
 | 2022-07-25 | 4.66 | 3 236 |
 | 2022-07-26 | 4.65 | 3 297 |
-| 2022-07-27 | 4.65 | 3 330 |
+| 2022-07-27 | 4.65 | 3 344 |

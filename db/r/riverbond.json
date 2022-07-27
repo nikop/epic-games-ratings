@@ -2,11 +2,11 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": null,
-  "Rating": 4.51,
-  "NumberOfRatings": 382,
+  "Rating": 4.5,
+  "NumberOfRatings": 385,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
-  "LastChanged": "2022-07-26T14:04:17.721845+00:00",
+  "LastChanged": "2022-07-27T16:02:27.4656118+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:42.544323+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T14:04:17.7218452+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 382
+    },
+    {
+      "Time": "2022-07-27T16:02:27.4656119+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 385
     }
   ],
   "Tags": []

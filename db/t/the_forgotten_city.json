@@ -2,16 +2,21 @@
   "ID": "fd990d1478724f3faa938e519c2835a5",
   "Name": "The Forgotten City",
   "ProductSlug": "the-forgotten-city",
-  "Rating": 4.67,
-  "NumberOfRatings": 24,
+  "Rating": 4.68,
+  "NumberOfRatings": 25,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:49.2138104+00:00",
-  "LastChanged": "2022-07-22T20:18:49.2138105+00:00",
+  "LastChanged": "2022-07-27T16:00:53.1733395+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.2138107+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-07-27T16:00:53.1733397+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []

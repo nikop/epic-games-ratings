@@ -1,6 +1,6 @@
 # Inside
-Rating: 4.73 (810)  
-Ratings Per Day: 0.00  
+Rating: 4.73 (823)  
+Ratings Per Day: 13.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 0.00
 | 2022-07-24 | 4.73 | 775 |
 | 2022-07-25 | 4.73 | 794 |
 | 2022-07-26 | 4.73 | 810 |
+| 2022-07-27 | 4.73 | 823 |

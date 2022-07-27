@@ -3,10 +3,10 @@
   "Name": "AER",
   "ProductSlug": "aer-memories-of-old",
   "Rating": 4.44,
-  "NumberOfRatings": 90,
-  "DailyRatings": 0,
+  "NumberOfRatings": 91,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
-  "LastChanged": "2022-07-26T16:02:55.4668925+00:00",
+  "LastChanged": "2022-07-27T16:02:29.357273+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:57.2410234+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T16:02:55.4668926+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 90
+    },
+    {
+      "Time": "2022-07-27T16:02:29.3572732+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 91
     }
   ],
   "Tags": []

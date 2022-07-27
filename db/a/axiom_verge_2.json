@@ -2,11 +2,17 @@
   "ID": "5e834b926aa547029903e0ae4f649a70",
   "Name": "Axiom Verge 2",
   "ProductSlug": "axiom-verge-2",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4.45,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:37.6251124+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-27T16:01:44.7427817+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-27T16:01:44.7427819+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

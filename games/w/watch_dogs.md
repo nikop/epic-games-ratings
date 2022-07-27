@@ -1,6 +1,6 @@
 # Watch Dogs
 Rating: 4.57 (989)  
-Ratings Per Day: 22.02  
+Ratings Per Day: 21.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

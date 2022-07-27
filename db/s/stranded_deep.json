@@ -3,10 +3,10 @@
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
   "Rating": 4.23,
-  "NumberOfRatings": 1652,
-  "DailyRatings": 24.01,
+  "NumberOfRatings": 1653,
+  "DailyRatings": 22.92,
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2022-07-27T14:02:31.9218388+00:00",
+  "LastChanged": "2022-07-27T16:02:20.5745631+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:37.8027765+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-07-27T14:02:31.921839+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 1652
+    },
+    {
+      "Time": "2022-07-27T16:02:20.5745632+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 1653
     }
   ],
   "Tags": [

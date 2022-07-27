@@ -3,10 +3,10 @@
   "Name": "Trackmania",
   "ProductSlug": null,
   "Rating": 4.7,
-  "NumberOfRatings": 4080,
-  "DailyRatings": 47.05,
+  "NumberOfRatings": 4085,
+  "DailyRatings": 40.37,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2022-07-27T14:01:33.7266807+00:00",
+  "LastChanged": "2022-07-27T16:01:25.0326965+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-27T14:01:33.7266808+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 4080
+    },
+    {
+      "Time": "2022-07-27T16:01:25.0326966+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 4085
     }
   ],
   "Tags": [
@@ -216,7 +221,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 165
+      "Count": 167
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Lifeless Planet
-Rating: 4.04 (147)  
-Ratings Per Day: 0.00  
+Rating: 4.03 (149)  
+Ratings Per Day: 2.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 0.00
 | 2022-07-24 | 4.05 | 140 |
 | 2022-07-25 | 4.04 | 144 |
 | 2022-07-26 | 4.04 | 147 |
+| 2022-07-27 | 4.03 | 149 |

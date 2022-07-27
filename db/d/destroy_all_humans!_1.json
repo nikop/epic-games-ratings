@@ -3,10 +3,10 @@
   "Name": "Destroy all Humans!",
   "ProductSlug": "destroy-all-humans",
   "Rating": 4.73,
-  "NumberOfRatings": 48,
+  "NumberOfRatings": 49,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
-  "LastChanged": "2022-07-25T04:01:49.3944506+00:00",
+  "LastChanged": "2022-07-27T16:01:50.4520787+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:21.4096774+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-25T04:01:49.394451+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 48
+    },
+    {
+      "Time": "2022-07-27T16:01:50.4520788+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 49
     }
   ],
   "Tags": []
