@@ -2,11 +2,11 @@
   "ID": "43605e89e49d438485298819a7ef17b4",
   "Name": "Minit",
   "ProductSlug": "minit/home",
-  "Rating": 4.39,
-  "NumberOfRatings": 54,
-  "DailyRatings": 0,
+  "Rating": 4.38,
+  "NumberOfRatings": 56,
+  "DailyRatings": 2.18,
   "FirstSeen": "2022-07-22T20:17:43.6346922+00:00",
-  "LastChanged": "2022-07-26T04:00:54.1927847+00:00",
+  "LastChanged": "2022-07-27T02:01:10.9307685+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:43.6346925+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T04:00:54.1927848+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-07-27T02:01:10.9307686+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 56
     }
   ],
   "Tags": []

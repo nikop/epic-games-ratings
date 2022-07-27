@@ -4,7 +4,7 @@
   "ProductSlug": "neo-the-world-ends-with-you",
   "Rating": 4.86,
   "NumberOfRatings": 119,
-  "DailyRatings": 2,
+  "DailyRatings": 4.01,
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
   "LastChanged": "2022-07-27T00:01:38.1879501+00:00",
   "RatingHistory": [
@@ -57,7 +57,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 23
+      "Count": 24
     }
   ]
 }

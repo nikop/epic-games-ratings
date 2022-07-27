@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Odyssey",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 3337,
-  "DailyRatings": 41.01,
+  "NumberOfRatings": 3341,
+  "DailyRatings": 41.97,
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2022-07-27T00:00:59.7383018+00:00",
+  "LastChanged": "2022-07-27T02:01:47.2836786+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:24.6932881+00:00",
@@ -167,12 +167,17 @@
       "Time": "2022-07-27T00:00:59.738302+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 3337
+    },
+    {
+      "Time": "2022-07-27T02:01:47.2836816+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 3341
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1234
+      "Count": 1259
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -188,7 +193,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 62
+      "Count": 66
     },
     {
       "Text": "This game is Great for Beginners",

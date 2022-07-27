@@ -2,11 +2,11 @@
   "ID": "d16f231f238646e881bb0cd83e1d30c8",
   "Name": "The Fall",
   "ProductSlug": "the-fall",
-  "Rating": 4.1,
-  "NumberOfRatings": 52,
+  "Rating": 4.11,
+  "NumberOfRatings": 53,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:38.7819539+00:00",
-  "LastChanged": "2022-07-25T02:01:58.9535507+00:00",
+  "LastChanged": "2022-07-27T02:02:56.9981162+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:38.7819541+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-25T02:01:58.9535512+00:00",
       "Rating": 4.1,
       "NumberOfRatings": 52
+    },
+    {
+      "Time": "2022-07-27T02:02:56.9981166+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": 53
     }
   ],
   "Tags": []

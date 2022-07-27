@@ -2,11 +2,11 @@
   "ID": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "Name": "Scott Pilgrim vs. The World: The Game",
   "ProductSlug": "scott-pilgrim-vs-the-world-the-game/home",
-  "Rating": 4.8,
-  "NumberOfRatings": 55,
-  "DailyRatings": 0,
+  "Rating": 4.75,
+  "NumberOfRatings": 56,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
-  "LastChanged": "2022-07-26T02:01:51.6456985+00:00",
+  "LastChanged": "2022-07-27T02:02:41.1098663+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:24.6298447+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T02:01:51.6456987+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 55
+    },
+    {
+      "Time": "2022-07-27T02:02:41.1098667+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 56
     }
   ],
   "Tags": []

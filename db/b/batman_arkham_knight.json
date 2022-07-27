@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Knight",
   "ProductSlug": "batman-arkham-knight/home",
   "Rating": 4.81,
-  "NumberOfRatings": 3834,
-  "DailyRatings": 78.54,
+  "NumberOfRatings": 3840,
+  "DailyRatings": 77.95,
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2022-07-27T00:01:24.1892209+00:00",
+  "LastChanged": "2022-07-27T02:02:10.5652108+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:23.4007296+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-27T00:01:24.1892211+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 3834
+    },
+    {
+      "Time": "2022-07-27T02:02:10.5652109+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 3840
     }
   ],
   "Tags": [

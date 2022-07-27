@@ -3,10 +3,10 @@
   "Name": "Second Extinction\u2122",
   "ProductSlug": "second-extinction",
   "Rating": 4.04,
-  "NumberOfRatings": 307,
-  "DailyRatings": 5.98,
+  "NumberOfRatings": 309,
+  "DailyRatings": 4.8,
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "LastChanged": "2022-07-26T14:04:30.0449772+00:00",
+  "LastChanged": "2022-07-27T02:03:07.1785961+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-26T14:04:30.0449773+00:00",
       "Rating": 4.04,
       "NumberOfRatings": 307
+    },
+    {
+      "Time": "2022-07-27T02:03:07.1785962+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 309
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 66
+      "Count": 68
     }
   ]
 }

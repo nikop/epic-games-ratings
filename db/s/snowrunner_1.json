@@ -3,10 +3,10 @@
   "Name": "Snowrunner",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 12577,
-  "DailyRatings": 148.79,
+  "NumberOfRatings": 12608,
+  "DailyRatings": 171.57,
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2022-07-26T22:00:23.2922829+00:00",
+  "LastChanged": "2022-07-27T02:01:09.2869678+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-07-26T22:00:23.2922829+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 12577
+    },
+    {
+      "Time": "2022-07-27T02:01:09.2869679+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 12608
     }
   ],
   "Tags": [

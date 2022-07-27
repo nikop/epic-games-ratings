@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.61,
   "NumberOfRatings": 2951,
-  "DailyRatings": 28.01,
+  "DailyRatings": 27.27,
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
   "LastChanged": "2022-07-27T00:00:36.59811+00:00",
   "RatingHistory": [
@@ -195,7 +195,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 251
+      "Count": 257
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -203,7 +203,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 227
+      "Count": 235
     },
     {
       "Text": "This game is Relaxing",
@@ -215,7 +215,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 137
+      "Count": 142
     }
   ]
 }

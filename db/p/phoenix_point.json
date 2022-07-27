@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.56,
   "NumberOfRatings": 1168,
-  "DailyRatings": 27.01,
+  "DailyRatings": 27.61,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
   "LastChanged": "2022-07-27T00:00:21.5563284+00:00",
   "RatingHistory": [
@@ -174,7 +174,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 153
+      "Count": 158
     },
     {
       "Text": "This game is Extremely Fun",
