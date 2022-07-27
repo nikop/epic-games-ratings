@@ -3,10 +3,10 @@
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
   "Rating": 4.67,
-  "NumberOfRatings": 714,
+  "NumberOfRatings": 716,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2022-07-25T20:02:37.6697859+00:00",
+  "LastChanged": "2022-07-27T00:02:15.6302309+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T20:02:37.669786+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 714
+    },
+    {
+      "Time": "2022-07-27T00:02:15.630231+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 716
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Ark",
   "ProductSlug": null,
   "Rating": 4.63,
-  "NumberOfRatings": 27542,
-  "DailyRatings": 200.99,
+  "NumberOfRatings": 27565,
+  "DailyRatings": 212.07,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2022-07-26T22:00:40.9066092+00:00",
+  "LastChanged": "2022-07-27T00:00:35.3013698+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-07-26T22:00:40.9066093+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 27542
+    },
+    {
+      "Time": "2022-07-27T00:00:35.3013699+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 27565
     }
   ],
   "Tags": [
@@ -229,7 +234,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 6246
+      "Count": 6333
     },
     {
       "Text": "This game is Educational",
@@ -237,7 +242,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 6133
+      "Count": 6168
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -245,7 +250,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 5826
+      "Count": 5913
     },
     {
       "Text": "This game has Amazing Characters",

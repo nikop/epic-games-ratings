@@ -2,11 +2,11 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis/home",
-  "Rating": 4.48,
-  "NumberOfRatings": 42,
+  "Rating": 4.49,
+  "NumberOfRatings": 43,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
-  "LastChanged": "2022-07-24T20:00:39.4683006+00:00",
+  "LastChanged": "2022-07-27T00:00:36.8680507+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.918021+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T20:00:39.4683008+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 42
+    },
+    {
+      "Time": "2022-07-27T00:00:36.8680508+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 43
     }
   ],
   "Tags": []

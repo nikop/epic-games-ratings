@@ -3,10 +3,10 @@
   "Name": "Prey",
   "ProductSlug": "prey",
   "Rating": 4.61,
-  "NumberOfRatings": 7963,
-  "DailyRatings": 89.41,
+  "NumberOfRatings": 7999,
+  "DailyRatings": 102.02,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2022-07-26T20:02:52.1434271+00:00",
+  "LastChanged": "2022-07-27T00:02:20.6953657+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-07-26T20:02:52.1434274+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 7963
+    },
+    {
+      "Time": "2022-07-27T00:02:20.6953659+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 7999
     }
   ],
   "Tags": [
@@ -174,7 +179,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 78
+      "Count": 81
     },
     {
       "Text": "This game has Diverse Characters",

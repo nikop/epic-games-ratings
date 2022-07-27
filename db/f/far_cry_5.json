@@ -2,11 +2,11 @@
   "ID": "coriander",
   "Name": "Far Cry 5",
   "ProductSlug": null,
-  "Rating": 4.61,
-  "NumberOfRatings": 987,
-  "DailyRatings": 13.09,
+  "Rating": 4.62,
+  "NumberOfRatings": 994,
+  "DailyRatings": 19.01,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-07-26T22:00:53.1918719+00:00",
+  "LastChanged": "2022-07-27T00:00:46.3283068+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-26T22:00:53.1918721+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 987
+    },
+    {
+      "Time": "2022-07-27T00:00:46.3283069+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 994
     }
   ],
   "Tags": [

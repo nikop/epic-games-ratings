@@ -1,6 +1,6 @@
 # VHS
 Rating: 4.22 (179)  
-Ratings Per Day: 25.08  
+Ratings Per Day: 16.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # Might & Magic Heroes 7
 Rating: 4.23 (53)  
-Ratings Per Day: 2.67  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

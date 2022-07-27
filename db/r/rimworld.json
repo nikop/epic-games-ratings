@@ -2,11 +2,11 @@
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
   "ProductSlug": "rimworld/home",
-  "Rating": 4.88,
-  "NumberOfRatings": 539,
-  "DailyRatings": 10.91,
+  "Rating": 4.89,
+  "NumberOfRatings": 540,
+  "DailyRatings": 10,
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2022-07-26T20:00:42.6101181+00:00",
+  "LastChanged": "2022-07-27T00:00:27.2499658+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-07-26T20:00:42.6101183+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 539
+    },
+    {
+      "Time": "2022-07-27T00:00:27.249966+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 540
     }
   ],
   "Tags": [
@@ -147,7 +152,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 55
+      "Count": 59
     }
   ]
 }

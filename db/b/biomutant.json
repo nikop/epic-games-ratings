@@ -4,7 +4,7 @@
   "ProductSlug": "biomutant",
   "Rating": 4.39,
   "NumberOfRatings": 124,
-  "DailyRatings": 5,
+  "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
   "LastChanged": "2022-07-26T22:00:59.623688+00:00",
   "RatingHistory": [
@@ -37,7 +37,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 38
+      "Count": 42
     }
   ]
 }

@@ -3,10 +3,10 @@
   "Name": "Tetris\u00AE Effect",
   "ProductSlug": "tetris-effect/home",
   "Rating": 4.84,
-  "NumberOfRatings": 177,
+  "NumberOfRatings": 178,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2022-07-24T14:00:53.7490931+00:00",
+  "LastChanged": "2022-07-27T00:00:21.5799288+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:49.1950133+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-24T14:00:53.7490932+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 177
+    },
+    {
+      "Time": "2022-07-27T00:00:21.579929+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 178
     }
   ],
   "Tags": [
