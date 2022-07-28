@@ -2,11 +2,11 @@
   "ID": "7c6d889f36124ae4b6269f8e1698a547",
   "Name": "CARRION",
   "ProductSlug": "carrion/home",
-  "Rating": 4.72,
-  "NumberOfRatings": 29,
-  "DailyRatings": 0,
+  "Rating": 4.73,
+  "NumberOfRatings": 30,
+  "DailyRatings": 1.03,
   "FirstSeen": "2022-07-22T20:25:03.1794316+00:00",
-  "LastChanged": "2022-07-27T18:01:37.6546213+00:00",
+  "LastChanged": "2022-07-28T17:21:09.088001+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:03.1794318+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-27T18:01:37.6546215+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-28T17:21:09.0880012+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []
