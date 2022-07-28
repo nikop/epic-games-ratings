@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 11747.68 |
 | 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 654 | 7764.21 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 329 005 | 7524.56 |
-| 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
+| 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 538 | 2316.77 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 6 | [VALORANT](games/v/valorant.md) | 4.56 | 83 527 | 1368.64 |
 | 7 | [Dokken](games/d/dokken.md) | 4.63 | 1 810 | 1330.48 |
@@ -107,11 +107,11 @@
 | 105 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 888 | 45.04 |
 | 106 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 497 | 44.75 |
 | 107 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.75 | 1 855 | 44.03 |
-| 108 | [Rage 2](games/r/rage_2.md) | 4.29 | 2 239 | 43.06 |
-| 109 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 806 | 42.64 |
-| 110 | [God of War](games/g/god_of_war.md) | 4.89 | 3 166 | 42.50 |
-| 111 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 42.38 |
-| 112 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 692 | 41.23 |
+| 108 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 697 | 43.10 |
+| 109 | [Rage 2](games/r/rage_2.md) | 4.29 | 2 239 | 43.06 |
+| 110 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 806 | 42.64 |
+| 111 | [God of War](games/g/god_of_war.md) | 4.89 | 3 166 | 42.50 |
+| 112 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 42.38 |
 | 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
 | 114 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 495 | 38.98 |
 | 115 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 042 | 38.18 |
@@ -242,18 +242,18 @@
 | 240 | [Anno 2205](games/a/anno_2205.md) | 4.48 | 42 | 6.00 |
 | 241 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 263 | 6.00 |
 | 242 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
-| 243 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 246 | 6.00 |
-| 244 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
-| 245 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.58 | 404 | 6.00 |
-| 246 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
-| 247 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 335 | 5.98 |
-| 248 | [Voidtrain](games/v/voidtrain.md) | 4.45 | 775 | 5.98 |
-| 249 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
-| 250 | [Insurmountable](games/i/insurmountable.md) | 4.16 | 407 | 5.67 |
-| 251 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
-| 252 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |
-| 253 | [Immortals Fenyx Rising](games/i/immortals_fenyx_rising.md) | 4.58 | 463 | 5.33 |
-| 254 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
+| 243 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
+| 244 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.58 | 404 | 6.00 |
+| 245 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
+| 246 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 335 | 5.98 |
+| 247 | [Voidtrain](games/v/voidtrain.md) | 4.45 | 775 | 5.98 |
+| 248 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
+| 249 | [Insurmountable](games/i/insurmountable.md) | 4.16 | 407 | 5.67 |
+| 250 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
+| 251 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |
+| 252 | [Immortals Fenyx Rising](games/i/immortals_fenyx_rising.md) | 4.58 | 463 | 5.33 |
+| 253 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
+| 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
 | 255 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
 | 256 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 159 | 5.07 |
 | 257 | [The Walking Dead: The Telltale Definitive Series](games/t/the_walking_dead__the_telltale_definitive_series.md) | 4.85 | 393 | 4.80 |

@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 11747.68 |
 | 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 654 | 7764.21 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 329 005 | 7524.56 |
-| 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
+| 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 538 | 2316.77 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 6 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 057 | 806.94 |
 | 7 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
@@ -105,7 +105,7 @@
 | 103 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.21 | 2 761 | 45.97 |
 | 104 | [Assassin's Creed Origin](games/a/assassin's_creed_origin.md) | 4.69 | 2 748 | 30.67 |
 | 105 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 2 723 | 25.32 |
-| 106 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 692 | 41.23 |
+| 106 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 697 | 43.10 |
 | 107 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 57.69 |
 | 108 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 506 | 32.87 |
 | 109 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 497 | 44.75 |
@@ -292,8 +292,8 @@
 | 290 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.69 | 253 | 0.00 |
 | 291 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 253 | 0.00 |
 | 292 | [Bugsnax](games/b/bugsnax.md) | 4.80 | 250 | 0.00 |
-| 293 | [Hob](games/h/hob.md) | 4.59 | 247 | 0.00 |
-| 294 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 246 | 6.00 |
+| 293 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
+| 294 | [Hob](games/h/hob.md) | 4.59 | 247 | 0.00 |
 | 295 | [Shadow Tactics](games/s/shadow_tactics.md) | 4.81 | 245 | 8.03 |
 | 296 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 0.00 |
 | 297 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.37 | 240 | 0.00 |

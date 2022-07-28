@@ -193,22 +193,22 @@
 | 191 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 172 | 0.00 |
 | 192 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 5 984 | 80.14 |
 | 193 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.66 | 29 | 0.00 |
-| 194 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 246 | 6.00 |
-| 195 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 2 368 | 28.63 |
-| 196 | [Oddworld: Soulstorm](games/o/oddworld__soulstorm.md) | 4.66 | 38 | 0.00 |
-| 197 | [Partisans 1941](games/p/partisans_1941.md) | 4.66 | 53 | 0.00 |
-| 198 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
-| 199 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 71 | 0.00 |
-| 200 | [Sunless Sea](games/s/sunless_sea.md) | 4.66 | 188 | 2.67 |
-| 201 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 027 | 22.25 |
-| 202 | [The Tenants](games/t/the_tenants.md) | 4.66 | 32 | 0.00 |
-| 203 | [Timberborn](games/t/timberborn.md) | 4.66 | 268 | 17.96 |
-| 204 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.66 | 125 | 0.00 |
-| 205 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 98.18 |
-| 206 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 0.00 |
-| 207 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
-| 208 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 417 | 73.60 |
-| 209 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
+| 194 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 2 368 | 28.63 |
+| 195 | [Oddworld: Soulstorm](games/o/oddworld__soulstorm.md) | 4.66 | 38 | 0.00 |
+| 196 | [Partisans 1941](games/p/partisans_1941.md) | 4.66 | 53 | 0.00 |
+| 197 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
+| 198 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 71 | 0.00 |
+| 199 | [Sunless Sea](games/s/sunless_sea.md) | 4.66 | 188 | 2.67 |
+| 200 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 027 | 22.25 |
+| 201 | [The Tenants](games/t/the_tenants.md) | 4.66 | 32 | 0.00 |
+| 202 | [Timberborn](games/t/timberborn.md) | 4.66 | 268 | 17.96 |
+| 203 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.66 | 125 | 0.00 |
+| 204 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 98.18 |
+| 205 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 0.00 |
+| 206 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
+| 207 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 417 | 73.60 |
+| 208 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
+| 209 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
 | 210 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
 | 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
 | 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 315 | 7.08 |
@@ -278,7 +278,7 @@
 | 276 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.60 | 694 | 8.00 |
 | 277 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.60 | 47 | 0.00 |
 | 278 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.59 | 29 | 0.00 |
-| 279 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 692 | 41.23 |
+| 279 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 697 | 43.10 |
 | 280 | [Among Us](games/a/among_us.md) | 4.59 | 16 439 | 195.98 |
 | 281 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 648 | 69.72 |
 | 282 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 29 | 0.00 |
@@ -322,7 +322,7 @@
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 553 | 3.60 |
 | 321 | [Moving Out](games/m/moving_out.md) | 4.56 | 280 | 0.00 |
 | 322 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 269 | 37.13 |
-| 323 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
+| 323 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 538 | 2316.77 |
 | 324 | [Sherlock Holmes The Devil's Daughter](games/s/sherlock_holmes_the_devil's_daughter.md) | 4.56 | 32 | 0.00 |
 | 325 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
 | 326 | [VALORANT](games/v/valorant.md) | 4.56 | 83 527 | 1368.64 |
