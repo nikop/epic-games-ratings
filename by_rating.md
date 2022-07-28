@@ -93,7 +93,7 @@
 | 91 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.76 | 75 | 0.00 |
 | 92 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
 | 93 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 48.10 |
-| 94 | [Darkest Dungeon](games/d/darkest_dungeon.md) | 4.75 | 3 023 | 43.64 |
+| 94 | [Darkest Dungeon](games/d/darkest_dungeon.md) | 4.75 | 3 030 | 47.34 |
 | 95 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.75 | 1 850 | 39.60 |
 | 96 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
 | 97 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 2 784 | 62.76 |
@@ -124,7 +124,7 @@
 | 122 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 152 | 0.00 |
 | 123 | [Carcassonne](games/c/carcassonne.md) | 4.72 | 152 | 1.33 |
 | 124 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.72 | 39 | 0.00 |
-| 125 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 790 | 154.91 |
+| 125 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 167.21 |
 | 126 | [Moonlighter](games/m/moonlighter.md) | 4.72 | 564 | 9.00 |
 | 127 | [Sludge Life](games/s/sludge_life.md) | 4.72 | 90 | 0.00 |
 | 128 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 731 | 9.00 |
@@ -284,7 +284,7 @@
 | 282 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 29 | 0.00 |
 | 283 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.59 | 22 | 0.00 |
 | 284 | [Hob](games/h/hob.md) | 4.59 | 247 | 0.00 |
-| 285 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 711 | 19.21 |
+| 285 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 721 | 18.13 |
 | 286 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 32 | 0.00 |
 | 287 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.59 | 5 965 | 63.79 |
 | 288 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 506 | 38.46 |
@@ -334,7 +334,7 @@
 | 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 234 | 4.80 |
 | 333 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 0.00 |
 | 334 | [Star Trek Online](games/s/star_trek_online.md) | 4.55 | 379 | 4.00 |
-| 335 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 899 | 17.73 |
+| 335 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
 | 336 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.55 | 38 | 0.00 |
 | 337 | [UnMetal](games/u/unmetal.md) | 4.55 | 22 | 0.00 |
 | 338 | [World of Goo](games/w/world_of_goo.md) | 4.55 | 20 | 0.00 |
@@ -400,7 +400,7 @@
 | 398 | [Sherlock Holmes: Chapter One](games/s/sherlock_holmes__chapter_one.md) | 4.48 | 117 | 0.00 |
 | 399 | [Totally Reliable Delivery Service](games/t/totally_reliable_delivery_service.md) | 4.48 | 64 | 0.00 |
 | 400 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 513 | 0.00 |
-| 401 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 783 | 24.00 |
+| 401 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 24.18 |
 | 402 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.47 | 1 816 | 34.12 |
 | 403 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.47 | 62 | 0.00 |
 | 404 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
@@ -576,7 +576,7 @@
 | 574 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 67 | 0.00 |
 | 575 | [Gone Home](games/g/gone_home.md) | 4.07 | 30 | 0.00 |
 | 576 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 111 | 0.00 |
-| 577 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor__the_walking_dead.md) | 4.05 | 63 | 0.00 |
+| 577 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor__the_walking_dead.md) | 4.05 | 64 | 6.28 |
 | 578 | [Shenmue 3](games/s/shenmue_3.md) | 4.05 | 97 | 0.00 |
 | 579 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 7 097 | 106.66 |
 | 580 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 317 | 7.50 |
