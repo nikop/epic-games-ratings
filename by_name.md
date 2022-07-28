@@ -88,7 +88,7 @@
 | 86 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
 | 87 | [City of Brass](games/c/city_of_brass.md) | 4.21 | 132 | 0.00 |
 | 88 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
-| 89 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 728 | 8.73 |
+| 89 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 12.28 |
 | 90 | [Conarium](games/c/conarium.md) | 4.13 | 24 | 0.00 |
 | 91 | [Control](games/c/control.md) | 4.60 | 8 569 | 118.91 |
 | 92 | [Core](games/c/core.md) | 4.39 | 911 | 13.59 |
@@ -183,7 +183,7 @@
 | 181 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.81 | 4 300 | 47.06 |
 | 182 | [For The King](games/f/for_the_king.md) | 4.70 | 3 006 | 45.33 |
 | 183 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.50 | 26 | 0.00 |
-| 184 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 603 674 | 11569.04 |
+| 184 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
 | 185 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 900 | 118.32 |
 | 186 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
 | 187 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 619 | 6.55 |

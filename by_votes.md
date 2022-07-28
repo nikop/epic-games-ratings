@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 603 674 | 11569.04 |
+| 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
 | 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
@@ -193,8 +193,8 @@
 | 191 | [Watch Dogs: Legion](games/w/watch_dogs__legion.md) | 4.39 | 778 | 31.20 |
 | 192 | [Voidtrain](games/v/voidtrain.md) | 4.45 | 775 | 5.98 |
 | 193 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 753 | 24.25 |
-| 194 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 731 | 9.00 |
-| 195 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 728 | 8.73 |
+| 194 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 12.28 |
+| 195 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 731 | 9.00 |
 | 196 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 726 | 23.99 |
 | 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 721 | 4.00 |
 | 198 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 718 | 19.87 |

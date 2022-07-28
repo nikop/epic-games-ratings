@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 603 674 | 11569.04 |
+| 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
 | 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
@@ -187,29 +187,29 @@
 | 185 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 672 | 13.09 |
 | 186 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
 | 187 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
-| 188 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 293 | 12.03 |
-| 189 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 940 | 12.03 |
-| 190 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
-| 191 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
-| 192 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
-| 193 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
-| 194 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 987 | 12.00 |
-| 195 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 494 | 12.00 |
-| 196 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 1 194 | 12.00 |
-| 197 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
-| 198 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.33 | 535 | 11.45 |
-| 199 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.32 |
-| 200 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 399 | 10.46 |
-| 201 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
-| 202 | [Scavengers](games/s/scavengers.md) | 4.25 | 286 | 10.00 |
-| 203 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.81 | 1 848 | 9.99 |
-| 204 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.60 | 694 | 9.60 |
-| 205 | [VHS](games/v/vhs.md) | 4.19 | 195 | 9.33 |
-| 206 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 519 | 9.01 |
-| 207 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 818 | 9.00 |
-| 208 | [Moonlighter](games/m/moonlighter.md) | 4.72 | 564 | 9.00 |
-| 209 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 731 | 9.00 |
-| 210 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 728 | 8.73 |
+| 188 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 12.28 |
+| 189 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 293 | 12.03 |
+| 190 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 940 | 12.03 |
+| 191 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
+| 192 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
+| 193 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
+| 194 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
+| 195 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 987 | 12.00 |
+| 196 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 494 | 12.00 |
+| 197 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 1 194 | 12.00 |
+| 198 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
+| 199 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.33 | 535 | 11.45 |
+| 200 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.32 |
+| 201 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 399 | 10.46 |
+| 202 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
+| 203 | [Scavengers](games/s/scavengers.md) | 4.25 | 286 | 10.00 |
+| 204 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.81 | 1 848 | 9.99 |
+| 205 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.60 | 694 | 9.60 |
+| 206 | [VHS](games/v/vhs.md) | 4.19 | 195 | 9.33 |
+| 207 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 519 | 9.01 |
+| 208 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 818 | 9.00 |
+| 209 | [Moonlighter](games/m/moonlighter.md) | 4.72 | 564 | 9.00 |
+| 210 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 731 | 9.00 |
 | 211 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 246 | 8.57 |
 | 212 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 227 | 8.40 |
 | 213 | [Pine](games/p/pine.md) | 4.12 | 352 | 8.15 |

@@ -296,7 +296,7 @@
 | 294 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 900 | 52.29 |
 | 295 | [Warhammer 40,000: Battlesector](games/w/warhammer_40,000__battlesector.md) | 4.59 | 27 | 0.00 |
 | 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.59 | 119 | 0.00 |
-| 297 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 728 | 8.73 |
+| 297 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 12.28 |
 | 298 | [Immortals Fenyx Rising](games/i/immortals_fenyx_rising.md) | 4.58 | 463 | 5.33 |
 | 299 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 868 | 14.64 |
 | 300 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 278 | 0.00 |
@@ -501,7 +501,7 @@
 | 499 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.33 | 535 | 11.45 |
 | 500 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.33 | 24 | 0.00 |
 | 501 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 615 | 2.67 |
-| 502 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 603 674 | 11569.04 |
+| 502 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
 | 503 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 122 | 0.00 |
 | 504 | [The World Next Door](games/t/the_world_next_door.md) | 4.32 | 22 | 0.00 |
 | 505 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.32 | 28 | 0.00 |
