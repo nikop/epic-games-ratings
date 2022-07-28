@@ -2,11 +2,11 @@
   "ID": "6774af9524fe4f63b2a6717d04269cd6",
   "Name": "Tribes of Midgard",
   "ProductSlug": null,
-  "Rating": 4.63,
-  "NumberOfRatings": 57,
-  "DailyRatings": 0,
+  "Rating": 4.64,
+  "NumberOfRatings": 58,
+  "DailyRatings": 2.09,
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
-  "LastChanged": "2022-07-28T12:01:16.6806115+00:00",
+  "LastChanged": "2022-07-28T23:31:15.4015387+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.7309675+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-28T12:01:16.6806116+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 57
+    },
+    {
+      "Time": "2022-07-28T23:31:15.4015388+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 58
     }
   ],
   "Tags": [
