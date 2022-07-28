@@ -5,12 +5,12 @@
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 329 005 | 7524.56 |
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
-| 6 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 019 | 795.12 |
+| 6 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 057 | 806.94 |
 | 7 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
 | 8 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1363.20 |
 | 9 | [Maneater](games/m/maneater.md) | 4.49 | 74 907 | 203.57 |
 | 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 60 826 | 863.74 |
-| 11 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 336 | 265.12 |
+| 11 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 387 | 293.83 |
 | 12 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 683 | 464.49 |
 | 13 | [Sid Meiers Civilization Vl](games/s/sid_meiers_civilization_vl.md) | 4.73 | 34 062 | 458.46 |
 | 14 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 756 | 170.59 |
@@ -38,7 +38,7 @@
 | 36 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
 | 37 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 170.58 |
 | 38 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 148.89 |
-| 39 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 090 | 124.43 |
+| 39 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 100 | 135.77 |
 | 40 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 65.98 |
 | 41 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 641 | 61.85 |
 | 42 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 8 637 | 106.51 |
@@ -48,7 +48,7 @@
 | 46 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 55.68 |
 | 47 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 7 806 | 143.05 |
 | 48 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 648 | 69.72 |
-| 49 | [Paladins](games/p/paladins.md) | 4.35 | 7 607 | 107.66 |
+| 49 | [Paladins](games/p/paladins.md) | 4.35 | 7 611 | 105.86 |
 | 50 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 7 097 | 106.66 |
 | 51 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 002 | 97.95 |
 | 52 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 98.18 |
@@ -67,7 +67,7 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.81 | 5 267 | 97.17 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 5 010 | 51.27 |
 | 67 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 53.40 |
-| 68 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 900 | 52.68 |
+| 68 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 909 | 59.41 |
 | 69 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
 | 70 | [Neon Abyss](games/n/neon_abyss.md) | 4.69 | 4 766 | 64.14 |
 | 71 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 74.44 |
@@ -239,9 +239,9 @@
 | 237 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 427 | 0.00 |
 | 238 | [Ooblets](games/o/ooblets.md) | 4.89 | 425 | 7.60 |
 | 239 | [Bad North](games/b/bad_north.md) | 4.67 | 420 | 0.00 |
-| 240 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.63 | 413 | 0.00 |
-| 241 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.61 | 412 | 0.00 |
-| 242 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 412 | 6.85 |
+| 240 | [Pinball FX](games/p/pinball_fx.md) | 3.96 | 414 | 8.88 |
+| 241 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.63 | 413 | 0.00 |
+| 242 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.61 | 412 | 0.00 |
 | 243 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 411 | 0.00 |
 | 244 | [Insurmountable](games/i/insurmountable.md) | 4.16 | 407 | 5.67 |
 | 245 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.36 | 406 | 0.00 |

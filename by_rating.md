@@ -139,7 +139,7 @@
 | 137 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 49 | 0.00 |
 | 138 | [Unrailed!](games/u/unrailed!.md) | 4.71 | 21 | 0.00 |
 | 139 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
-| 140 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 019 | 795.12 |
+| 140 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 057 | 806.94 |
 | 141 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 53.40 |
 | 143 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 57.69 |
@@ -293,7 +293,7 @@
 | 291 | [Surviving Mars](games/s/surviving_mars.md) | 4.59 | 1 846 | 36.65 |
 | 292 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 58 | 0.00 |
 | 293 | [Ticket To Ride](games/t/ticket_to_ride_1.md) | 4.59 | 87 | 0.00 |
-| 294 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 900 | 52.68 |
+| 294 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 909 | 59.41 |
 | 295 | [Warhammer 40,000: Battlesector](games/w/warhammer_40,000__battlesector.md) | 4.59 | 27 | 0.00 |
 | 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.59 | 119 | 0.00 |
 | 297 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 13.76 |
@@ -305,7 +305,7 @@
 | 303 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 370 | 117.66 |
 | 304 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 1 194 | 13.50 |
 | 305 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 308 | 0.00 |
-| 306 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 336 | 265.12 |
+| 306 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 387 | 293.83 |
 | 307 | [Assassin's Creed Rogue](games/a/assassin's_creed_rogue.md) | 4.57 | 84 | 0.00 |
 | 308 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 412 | 267.68 |
 | 309 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 411 | 0.00 |
@@ -418,7 +418,7 @@
 | 416 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
 | 417 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 692 | 8.59 |
 | 418 | [Far Cry New Dawn](games/f/far_cry_new_dawn.md) | 4.45 | 182 | 0.00 |
-| 419 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 090 | 124.43 |
+| 419 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 100 | 135.77 |
 | 420 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 11.99 |
 | 421 | [The Escapists](games/t/the_escapists.md) | 4.45 | 297 | 0.00 |
 | 422 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.45 | 1 539 | 25.19 |
@@ -489,7 +489,7 @@
 | 487 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
 | 488 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.35 | 23 | 0.00 |
 | 489 | [Othercide](games/o/othercide.md) | 4.35 | 23 | 0.00 |
-| 490 | [Paladins](games/p/paladins.md) | 4.35 | 7 607 | 107.66 |
+| 490 | [Paladins](games/p/paladins.md) | 4.35 | 7 611 | 105.86 |
 | 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 26 | 0.00 |
 | 492 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.34 | 229 | 6.68 |
 | 493 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 487 | 38.65 |
@@ -587,8 +587,8 @@
 | 585 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 211 | 55.39 |
 | 586 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 3.98 | 84 | 0.00 |
 | 587 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 3.97 | 33 | 0.00 |
-| 588 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 412 | 6.85 |
-| 589 | [Train Valley 2](games/t/train_valley_2.md) | 3.97 | 65 | 0.00 |
+| 588 | [Train Valley 2](games/t/train_valley_2.md) | 3.97 | 65 | 0.00 |
+| 589 | [Pinball FX](games/p/pinball_fx.md) | 3.96 | 414 | 8.88 |
 | 590 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.94 | 1 629 | 20.86 |
 | 591 | [Warface](games/w/warface.md) | 3.93 | 1 592 | 28.63 |
 | 592 | [Port Royale 4](games/p/port_royale_4.md) | 3.92 | 25 | 0.00 |
