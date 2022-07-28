@@ -3,10 +3,10 @@
   "Name": "Unreal Tournament",
   "ProductSlug": null,
   "Rating": 4.7,
-  "NumberOfRatings": 672,
-  "DailyRatings": 7.2,
+  "NumberOfRatings": 673,
+  "DailyRatings": 8.02,
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
-  "LastChanged": "2022-07-28T16:01:08.7909595+00:00",
+  "LastChanged": "2022-07-28T16:58:07.0014759+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:08.0500863+00:00",
@@ -132,12 +132,17 @@
       "Time": "2022-07-28T16:01:08.7909596+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 672
+    },
+    {
+      "Time": "2022-07-28T16:58:07.001476+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 673
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 96
+      "Count": 100
     },
     {
       "Text": "This game is Great for Quick Sessions",

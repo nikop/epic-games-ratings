@@ -3,10 +3,10 @@
   "Name": "Neon Abyss",
   "ProductSlug": null,
   "Rating": 4.69,
-  "NumberOfRatings": 4753,
-  "DailyRatings": 57.3,
+  "NumberOfRatings": 4766,
+  "DailyRatings": 64.14,
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2022-07-28T14:01:19.7212523+00:00",
+  "LastChanged": "2022-07-28T16:58:05.710834+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:56.870956+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-07-28T14:01:19.7212524+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 4753
+    },
+    {
+      "Time": "2022-07-28T16:58:05.7108346+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 4766
     }
   ],
   "Tags": [

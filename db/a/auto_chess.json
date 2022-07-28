@@ -4,7 +4,7 @@
   "ProductSlug": "auto-chess/home",
   "Rating": 4.53,
   "NumberOfRatings": 1474,
-  "DailyRatings": 42,
+  "DailyRatings": 43.64,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
   "LastChanged": "2022-07-28T16:01:11.6748626+00:00",
   "RatingHistory": [
@@ -220,7 +220,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 112
+      "Count": 118
     },
     {
       "Text": "This game has Amazing Storytelling",

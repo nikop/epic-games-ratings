@@ -3,10 +3,10 @@
   "Name": "Far Cry 6",
   "ProductSlug": null,
   "Rating": 4.43,
-  "NumberOfRatings": 6496,
-  "DailyRatings": 118,
+  "NumberOfRatings": 6504,
+  "DailyRatings": 109.81,
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2022-07-28T16:00:46.500058+00:00",
+  "LastChanged": "2022-07-28T16:57:44.762384+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-07-28T16:00:46.5000581+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 6496
+    },
+    {
+      "Time": "2022-07-28T16:57:44.7623842+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 6504
     }
   ],
   "Tags": [
@@ -253,7 +258,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 112
+      "Count": 114
     },
     {
       "Text": "This game is Relaxing",

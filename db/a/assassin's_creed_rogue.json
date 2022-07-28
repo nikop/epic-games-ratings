@@ -2,11 +2,11 @@
   "ID": "34f7e1e275924bb6a90074920f9c1696",
   "Name": "Assassin\u0027s Creed Rogue",
   "ProductSlug": null,
-  "Rating": 4.56,
-  "NumberOfRatings": 82,
+  "Rating": 4.57,
+  "NumberOfRatings": 84,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2022-07-25T16:02:26.9801005+00:00",
+  "LastChanged": "2022-07-28T16:59:04.425047+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:01.011346+00:00",
@@ -22,7 +22,17 @@
       "Time": "2022-07-25T16:02:26.9801008+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 82
+    },
+    {
+      "Time": "2022-07-28T16:59:04.4250472+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 84
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 20
+    }
+  ]
 }

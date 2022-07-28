@@ -3,10 +3,10 @@
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous/home",
   "Rating": 4.63,
-  "NumberOfRatings": 3891,
-  "DailyRatings": 52,
+  "NumberOfRatings": 3892,
+  "DailyRatings": 45.81,
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2022-07-28T16:01:03.5991338+00:00",
+  "LastChanged": "2022-07-28T16:58:01.8488253+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -252,6 +252,11 @@
       "Time": "2022-07-28T16:01:03.5991341+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 3891
+    },
+    {
+      "Time": "2022-07-28T16:58:01.8488254+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 3892
     }
   ],
   "Tags": [
@@ -277,7 +282,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 328
+      "Count": 336
     },
     {
       "Text": "This game has Amazing Storytelling",

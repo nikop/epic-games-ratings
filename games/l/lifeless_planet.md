@@ -1,6 +1,6 @@
 # Lifeless Planet
 Rating: 3.99 (152)  
-Ratings Per Day: 3.00  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
