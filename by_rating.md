@@ -69,10 +69,10 @@
 | 67 | [Metro Exodus](games/m/metro_exodus.md) | 4.80 | 4 122 | 49.33 |
 | 68 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 1 544 | 18.55 |
 | 69 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 30 | 0.00 |
-| 70 | [Diabotical](games/d/diabotical.md) | 4.79 | 367 | 0.00 |
-| 71 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 011 | 352.74 |
-| 72 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 34 | 0.00 |
-| 73 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.78 | 1 472 | 25.09 |
+| 70 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 476 | 27.98 |
+| 71 | [Diabotical](games/d/diabotical.md) | 4.79 | 367 | 0.00 |
+| 72 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 011 | 352.74 |
+| 73 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 34 | 0.00 |
 | 74 | [Faster Than Light](games/f/faster_than_light.md) | 4.78 | 633 | 19.47 |
 | 75 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 1 050 | 16.46 |
 | 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.78 | 344 | 6.91 |
@@ -104,7 +104,7 @@
 | 102 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
 | 103 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
 | 104 | [Northgard](games/n/northgard.md) | 4.74 | 43 | 0.00 |
-| 105 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 653 | 51.27 |
+| 105 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |
 | 106 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
 | 107 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.74 | 112 | 0.00 |
 | 108 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
@@ -226,7 +226,7 @@
 | 224 | [20XX](games/2/20xx.md) | 4.63 | 229 | 0.00 |
 | 225 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.63 | 159 | 0.00 |
 | 226 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 187.88 |
-| 227 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 554 | 96.21 |
+| 227 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 559 | 100.51 |
 | 228 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.63 | 306 | 8.04 |
 | 229 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.63 | 413 | 24.07 |
 | 230 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 3 892 | 45.81 |
@@ -323,7 +323,7 @@
 | 321 | [Moving Out](games/m/moving_out.md) | 4.56 | 280 | 0.00 |
 | 322 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 260 | 28.36 |
 | 323 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
-| 324 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 138 | 2182.52 |
+| 324 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 325 | [Sherlock Holmes The Devil's Daughter](games/s/sherlock_holmes_the_devil's_daughter.md) | 4.56 | 32 | 0.00 |
 | 326 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
 | 327 | [VALORANT](games/v/valorant.md) | 4.56 | 83 387 | 1274.79 |
@@ -411,15 +411,15 @@
 | 409 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.46 | 290 | 0.00 |
 | 410 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 74 | 0.00 |
 | 411 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 48 | 0.00 |
-| 412 | [Torchlight](games/t/torchlight.md) | 4.46 | 70 | 0.00 |
-| 413 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.46 | 2 146 | 73.20 |
-| 414 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.45 | 20 | 0.00 |
-| 415 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
-| 416 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 690 | 7.50 |
-| 417 | [Far Cry New Dawn](games/f/far_cry_new_dawn.md) | 4.45 | 182 | 0.00 |
-| 418 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 057 | 92.73 |
-| 419 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 6.67 |
-| 420 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 132 | 0.00 |
+| 412 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.46 | 133 | 20.66 |
+| 413 | [Torchlight](games/t/torchlight.md) | 4.46 | 70 | 0.00 |
+| 414 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.46 | 2 146 | 73.20 |
+| 415 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.45 | 20 | 0.00 |
+| 416 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
+| 417 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 690 | 7.50 |
+| 418 | [Far Cry New Dawn](games/f/far_cry_new_dawn.md) | 4.45 | 182 | 0.00 |
+| 419 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 057 | 92.73 |
+| 420 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 6.67 |
 | 421 | [The Escapists](games/t/the_escapists.md) | 4.45 | 297 | 0.00 |
 | 422 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.45 | 1 539 | 30.55 |
 | 423 | [Voidtrain](games/v/voidtrain.md) | 4.45 | 775 | 5.98 |

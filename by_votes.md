@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 603 674 | 11569.04 |
 | 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
-| 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 138 | 2182.52 |
+| 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 6 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 117 917 | 762.54 |
 | 7 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
@@ -21,7 +21,7 @@
 | 19 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
 | 20 | [Among Us](games/a/among_us.md) | 4.59 | 16 426 | 204.97 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 352 | 115.63 |
-| 22 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 554 | 96.21 |
+| 22 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 559 | 100.51 |
 | 23 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 422 | 243.53 |
 | 24 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 412 | 267.68 |
 | 25 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 223 | 275.04 |
@@ -132,8 +132,8 @@
 | 130 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 27.59 |
 | 131 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 672 | 13.09 |
 | 132 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 32.02 |
-| 133 | [Dokken](games/d/dokken.md) | 4.62 | 1 653 | 1313.47 |
-| 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 653 | 51.27 |
+| 133 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |
+| 134 | [Dokken](games/d/dokken.md) | 4.62 | 1 653 | 1313.47 |
 | 135 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 630 | 25.85 |
 | 136 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.94 | 1 629 | 20.86 |
 | 137 | [Mudrunner](games/m/mudrunner_1.md) | 4.62 | 1 620 | 28.79 |
@@ -144,8 +144,8 @@
 | 142 | [Assassin's Creed Syndicate](games/a/assassin's_creed_syndicate.md) | 4.51 | 1 512 | 13.50 |
 | 143 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
 | 144 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 1 480 | 25.19 |
-| 145 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 1 474 | 43.64 |
-| 146 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.78 | 1 472 | 25.09 |
+| 145 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 476 | 27.98 |
+| 146 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 1 474 | 43.64 |
 | 147 | [Celeste](games/c/celeste.md) | 4.91 | 1 428 | 18.00 |
 | 148 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.64 | 1 417 | 26.39 |
 | 149 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 341 | 17.33 |
@@ -352,9 +352,9 @@
 | 350 | [Ironcast](games/i/ironcast.md) | 3.85 | 142 | 0.00 |
 | 351 | [Star Stable Online](games/s/star_stable_online.md) | 4.29 | 139 | 4.00 |
 | 352 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 135 | 0.00 |
-| 353 | [BIOMUTANT](games/b/biomutant.md) | 4.39 | 132 | 0.00 |
-| 354 | [City of Brass](games/c/city_of_brass.md) | 4.21 | 132 | 0.00 |
-| 355 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 132 | 0.00 |
+| 353 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.46 | 133 | 20.66 |
+| 354 | [BIOMUTANT](games/b/biomutant.md) | 4.39 | 132 | 0.00 |
+| 355 | [City of Brass](games/c/city_of_brass.md) | 4.21 | 132 | 0.00 |
 | 356 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 131 | 0.00 |
 | 357 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.73 | 131 | 0.00 |
 | 358 | [WRC 8](games/w/wrc_8.md) | 4.61 | 130 | 0.00 |

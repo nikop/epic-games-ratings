@@ -53,7 +53,7 @@
 | 51 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 35 | 0.00 |
 | 52 | [Barony](games/b/barony.md) | 4.71 | 377 | 8.02 |
 | 53 | [Batman Arkham Asylum](games/b/batman_arkham_asylum.md) | 4.69 | 1 064 | 19.99 |
-| 54 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.78 | 1 472 | 25.09 |
+| 54 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 476 | 27.98 |
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 950 | 80.52 |
 | 56 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.55 | 22 | 0.00 |
 | 57 | [Before We Leave](games/b/before_we_leave.md) | 4.60 | 42 | 0.00 |
@@ -82,7 +82,7 @@
 | 80 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.44 | 45 | 0.00 |
 | 81 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
 | 82 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 67 | 0.00 |
-| 83 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 554 | 96.21 |
+| 83 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 559 | 100.51 |
 | 84 | [Chorus](games/c/chorus.md) | 4.49 | 35 | 0.00 |
 | 85 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
 | 86 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
@@ -376,7 +376,7 @@
 | 374 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 203 | 0.00 |
 | 375 | [Relicta](games/r/relicta.md) | 4.15 | 235 | 0.00 |
 | 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.57 | 6 374 | 101.97 |
-| 377 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 653 | 51.27 |
+| 377 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |
 | 378 | [RiME](games/r/rime.md) | 4.67 | 48 | 0.00 |
 | 379 | [RiMS Racing](games/r/rims_racing.md) | 4.42 | 26 | 0.00 |
 | 380 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 6.55 |
@@ -385,7 +385,7 @@
 | 383 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
 | 384 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
 | 385 | [Road 96](games/r/road_96.md) | 4.60 | 52 | 0.00 |
-| 386 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 138 | 2182.52 |
+| 386 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 387 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 235 | 175.64 |
 | 388 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
 | 389 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 1 056 | 3.60 |
@@ -429,7 +429,7 @@
 | 427 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 6.67 |
 | 428 | [SOMA](games/s/soma.md) | 4.70 | 155 | 0.00 |
 | 429 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 219 | 3.60 |
-| 430 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 132 | 0.00 |
+| 430 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.46 | 133 | 20.66 |
 | 431 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 1 544 | 18.55 |
 | 432 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 123 | 0.00 |
 | 433 | [Souldiers](games/s/souldiers.md) | 4.52 | 58 | 0.00 |
