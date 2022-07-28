@@ -4,7 +4,7 @@
   "ProductSlug": "warframe",
   "Rating": 4.66,
   "NumberOfRatings": 6960,
-  "DailyRatings": 101.02,
+  "DailyRatings": 98.18,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
   "LastChanged": "2022-07-28T18:00:25.2906039+00:00",
   "RatingHistory": [
@@ -287,7 +287,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 441
+      "Count": 459
     }
   ]
 }
