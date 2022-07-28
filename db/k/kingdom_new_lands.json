@@ -2,11 +2,11 @@
   "ID": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
   "Name": "Kingdom New Lands",
   "ProductSlug": "kingdom-new-lands/home",
-  "Rating": 4.49,
-  "NumberOfRatings": 983,
-  "DailyRatings": 29.13,
+  "Rating": 4.5,
+  "NumberOfRatings": 985,
+  "DailyRatings": 20.73,
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2022-07-27T22:01:48.4583897+00:00",
+  "LastChanged": "2022-07-28T06:01:29.4390435+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-07-27T22:01:48.4583898+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 983
+    },
+    {
+      "Time": "2022-07-28T06:01:29.4390437+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 985
     }
   ],
   "Tags": [
