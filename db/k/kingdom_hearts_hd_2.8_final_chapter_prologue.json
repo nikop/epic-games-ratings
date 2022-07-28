@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
   "Rating": 4.69,
-  "NumberOfRatings": 101,
-  "DailyRatings": 0,
+  "NumberOfRatings": 102,
+  "DailyRatings": 4.8,
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2022-07-28T16:00:50.3203929+00:00",
+  "LastChanged": "2022-07-28T21:01:01.427596+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.0851077+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-28T16:00:50.3203931+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 101
+    },
+    {
+      "Time": "2022-07-28T21:01:01.4275961+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 102
     }
   ],
   "Tags": []

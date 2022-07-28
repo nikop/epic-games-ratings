@@ -3,10 +3,10 @@
   "Name": "Tropico 6",
   "ProductSlug": null,
   "Rating": 4.68,
-  "NumberOfRatings": 227,
-  "DailyRatings": 9,
+  "NumberOfRatings": 229,
+  "DailyRatings": 9.14,
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
-  "LastChanged": "2022-07-28T16:00:39.8251627+00:00",
+  "LastChanged": "2022-07-28T21:00:50.8199728+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:21.1290303+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-07-28T16:00:39.8251629+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 227
+    },
+    {
+      "Time": "2022-07-28T21:00:50.819973+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 229
     }
   ],
   "Tags": [

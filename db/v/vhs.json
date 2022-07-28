@@ -2,11 +2,11 @@
   "ID": "90487cf458a143ff921d3ca365ad4fd6",
   "Name": "VHS",
   "ProductSlug": "video-horror-society",
-  "Rating": 4.19,
-  "NumberOfRatings": 195,
-  "DailyRatings": 11.99,
+  "Rating": 4.18,
+  "NumberOfRatings": 201,
+  "DailyRatings": 15.15,
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2022-07-28T14:01:56.7752864+00:00",
+  "LastChanged": "2022-07-28T21:01:54.1544006+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:40.6568694+00:00",
@@ -127,12 +127,17 @@
       "Time": "2022-07-28T14:01:56.7752865+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 195
+    },
+    {
+      "Time": "2022-07-28T21:01:54.1544008+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": 201
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 50
+      "Count": 56
     }
   ]
 }

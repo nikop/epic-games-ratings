@@ -1,6 +1,6 @@
 # Faster Than Light
-Rating: 4.78 (634)  
-Ratings Per Day: 18.79  
+Rating: 4.78 (635)  
+Ratings Per Day: 18.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 18.79
 | 2022-07-25 | 4.79 | 590 |
 | 2022-07-26 | 4.78 | 604 |
 | 2022-07-27 | 4.79 | 616 |
-| 2022-07-28 | 4.78 | 634 |
+| 2022-07-28 | 4.78 | 635 |

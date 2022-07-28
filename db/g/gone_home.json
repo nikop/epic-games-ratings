@@ -2,11 +2,11 @@
   "ID": "52326e805bac4619a4a8fac165363a42",
   "Name": "Gone Home",
   "ProductSlug": "gone-home/home",
-  "Rating": 4.07,
-  "NumberOfRatings": 30,
-  "DailyRatings": 0,
+  "Rating": 4.03,
+  "NumberOfRatings": 31,
+  "DailyRatings": 1.04,
   "FirstSeen": "2022-07-22T20:25:36.6755135+00:00",
-  "LastChanged": "2022-07-27T22:01:39.7834463+00:00",
+  "LastChanged": "2022-07-28T21:01:53.6772447+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:36.6755139+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-27T22:01:39.7834466+00:00",
       "Rating": 4.07,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-28T21:01:53.6772448+00:00",
+      "Rating": 4.03,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []

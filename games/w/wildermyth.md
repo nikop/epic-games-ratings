@@ -1,9 +1,10 @@
 # Wildermyth
-Rating: 4.70 (30)  
-Ratings Per Day: 0.00  
+Rating: 4.72 (32)  
+Ratings Per Day: 2.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-07-22 | 4.68 | 28 |
 | 2022-07-24 | 4.69 | 29 |
 | 2022-07-27 | 4.70 | 30 |
+| 2022-07-28 | 4.72 | 32 |
