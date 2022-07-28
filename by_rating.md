@@ -84,7 +84,7 @@
 | 82 | [Haven](games/h/haven.md) | 4.77 | 22 | 0.00 |
 | 83 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 288 | 97.09 |
 | 84 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.77 | 52 | 0.00 |
-| 85 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 031 | 10.50 |
+| 85 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
 | 86 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.77 | 56 | 0.00 |
 | 87 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 82 | 0.00 |
 | 88 | [What Remains Of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.77 | 31 | 0.00 |
@@ -348,7 +348,7 @@
 | 346 | [Tom Clancy's Ghost Recon: Wildlands](games/t/tom_clancy's_ghost_recon__wildlands.md) | 4.54 | 528 | 7.64 |
 | 347 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 147 | 7.20 |
 | 348 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 1 474 | 43.64 |
-| 349 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 132 | 244.36 |
+| 349 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 350 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 664 | 436.09 |
 | 351 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
 | 352 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
@@ -572,7 +572,7 @@
 | 570 | [The Fall](games/t/the_fall.md) | 4.11 | 53 | 0.00 |
 | 571 | [Obduction](games/o/obduction.md) | 4.10 | 120 | 0.00 |
 | 572 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 263 | 6.00 |
-| 573 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 77 | 0.00 |
+| 573 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
 | 574 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 67 | 0.00 |
 | 575 | [Gone Home](games/g/gone_home.md) | 4.07 | 30 | 0.00 |
 | 576 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 111 | 0.00 |

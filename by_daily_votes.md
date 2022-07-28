@@ -21,7 +21,7 @@
 | 19 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 223 | 275.04 |
 | 20 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 412 | 267.68 |
 | 21 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 336 | 265.12 |
-| 22 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 132 | 244.36 |
+| 22 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 23 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 422 | 243.53 |
 | 24 | [Among Us](games/a/among_us.md) | 4.59 | 16 426 | 204.97 |
 | 25 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 324 | 188.24 |
@@ -198,8 +198,8 @@
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
 | 197 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.33 | 535 | 11.45 |
 | 198 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 289 | 10.91 |
-| 199 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 031 | 10.50 |
-| 200 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 399 | 10.46 |
+| 199 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 399 | 10.46 |
+| 200 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
 | 201 | [Scavengers](games/s/scavengers.md) | 4.25 | 286 | 10.00 |
 | 202 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.81 | 1 848 | 9.99 |
 | 203 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.60 | 694 | 9.60 |
@@ -341,7 +341,7 @@
 | 339 | [Chorus](games/c/chorus.md) | 4.49 | 35 | 0.00 |
 | 340 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
 | 341 | [City of Brass](games/c/city_of_brass.md) | 4.21 | 132 | 0.00 |
-| 342 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 77 | 0.00 |
+| 342 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
 | 343 | [Conarium](games/c/conarium.md) | 4.13 | 24 | 0.00 |
 | 344 | [Coromon](games/c/coromon.md) | 4.61 | 61 | 0.00 |
 | 345 | [Costume Quest](games/c/costume_quest.md) | 4.73 | 26 | 0.00 |

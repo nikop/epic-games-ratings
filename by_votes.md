@@ -28,7 +28,7 @@
 | 26 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 324 | 188.24 |
 | 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 235 | 175.64 |
-| 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 132 | 244.36 |
+| 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 819 | 122.18 |
 | 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 808 | 135.95 |
 | 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
@@ -167,7 +167,7 @@
 | 165 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 1 056 | 3.60 |
 | 166 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 1 050 | 16.46 |
 | 167 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 1 047 | 21.53 |
-| 168 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 031 | 10.50 |
+| 168 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
 | 169 | [Far Cry 5](games/f/far_cry_5.md) | 4.62 | 1 025 | 21.82 |
 | 170 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
 | 171 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
@@ -407,10 +407,10 @@
 | 405 | [Superhot](games/s/superhot_1.md) | 4.63 | 82 | 0.00 |
 | 406 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 82 | 0.00 |
 | 407 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.81 | 80 | 0.00 |
-| 408 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.71 | 79 | 4.00 |
-| 409 | [Monopoly Plus](games/m/monopoly_plus.md) | 3.87 | 78 | 3.43 |
-| 410 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 78 | 0.00 |
-| 411 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 77 | 0.00 |
+| 408 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
+| 409 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.71 | 79 | 4.00 |
+| 410 | [Monopoly Plus](games/m/monopoly_plus.md) | 3.87 | 78 | 3.43 |
+| 411 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 78 | 0.00 |
 | 412 | [Assassin's Creed I: Director's Cut](games/a/assassin's_creed_i__director's_cut.md) | 4.44 | 75 | 0.00 |
 | 413 | [Death's Door](games/d/death's_door.md) | 4.68 | 75 | 0.00 |
 | 414 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.76 | 75 | 0.00 |

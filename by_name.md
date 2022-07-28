@@ -87,7 +87,7 @@
 | 85 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
 | 86 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
 | 87 | [City of Brass](games/c/city_of_brass.md) | 4.21 | 132 | 0.00 |
-| 88 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 77 | 0.00 |
+| 88 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
 | 89 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 728 | 8.73 |
 | 90 | [Conarium](games/c/conarium.md) | 4.13 | 24 | 0.00 |
 | 91 | [Control](games/c/control.md) | 4.60 | 8 569 | 118.91 |
@@ -117,7 +117,7 @@
 | 115 | [Darksiders III](games/d/darksiders_iii.md) | 4.43 | 72 | 0.00 |
 | 116 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.51 | 384 | 0.00 |
 | 117 | [Darq: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 205 | 0.00 |
-| 118 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 132 | 244.36 |
+| 118 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 119 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 585 | 49.09 |
 | 120 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 664 | 436.09 |
 | 121 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
@@ -455,7 +455,7 @@
 | 453 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.43 | 1 192 | 32.93 |
 | 454 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 131 | 0.00 |
 | 455 | [Subnautica](games/s/subnautica.md) | 4.84 | 4 253 | 50.39 |
-| 456 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 031 | 10.50 |
+| 456 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
 | 457 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.77 | 56 | 0.00 |
 | 458 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 98 | 0.00 |
 | 459 | [Sunless Sea](games/s/sunless_sea.md) | 4.66 | 188 | 2.67 |
