@@ -2,11 +2,11 @@
   "ID": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "Name": "Poly Bridge 2",
   "ProductSlug": "poly-bridge-2/home",
-  "Rating": 4.35,
-  "NumberOfRatings": 26,
+  "Rating": 4.37,
+  "NumberOfRatings": 27,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
-  "LastChanged": "2022-07-26T16:00:34.3035048+00:00",
+  "LastChanged": "2022-07-28T18:30:06.7682383+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.1339205+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T16:00:34.303505+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-07-28T18:30:06.7682385+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []

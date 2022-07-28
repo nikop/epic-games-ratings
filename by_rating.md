@@ -105,7 +105,7 @@
 | 103 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 449 | 52.81 |
 | 104 | [Northgard](games/n/northgard.md) | 4.74 | 43 | 0.00 |
 | 105 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 51.76 |
-| 106 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
+| 106 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 497 | 44.75 |
 | 107 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.74 | 112 | 0.00 |
 | 108 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 580 | 14.25 |
 | 109 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.74 | 70 | 0.00 |
@@ -199,7 +199,7 @@
 | 197 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
 | 198 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 71 | 0.00 |
 | 199 | [Sunless Sea](games/s/sunless_sea.md) | 4.66 | 188 | 2.67 |
-| 200 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
+| 200 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 027 | 22.25 |
 | 201 | [The Tenants](games/t/the_tenants.md) | 4.66 | 32 | 0.00 |
 | 202 | [Timberborn](games/t/timberborn.md) | 4.66 | 268 | 17.96 |
 | 203 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.66 | 125 | 0.00 |
@@ -479,18 +479,18 @@
 | 477 | [Absolute Drift](games/a/absolute_drift.md) | 4.37 | 111 | 0.00 |
 | 478 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 448 | 3.00 |
 | 479 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 645 | 62.01 |
-| 480 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.37 | 240 | 0.00 |
-| 481 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.36 | 1 155 | 21.53 |
-| 482 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 89 | 0.00 |
-| 483 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 25 | 0.00 |
-| 484 | [Predator: Hunting Grounds](games/p/predator__hunting_grounds.md) | 4.36 | 488 | 6.86 |
-| 485 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.36 | 406 | 0.00 |
-| 486 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 200.44 |
-| 487 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
-| 488 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.35 | 23 | 0.00 |
-| 489 | [Othercide](games/o/othercide.md) | 4.35 | 23 | 0.00 |
-| 490 | [Paladins](games/p/paladins.md) | 4.35 | 7 611 | 105.86 |
-| 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 26 | 0.00 |
+| 480 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 27 | 0.00 |
+| 481 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.37 | 240 | 0.00 |
+| 482 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.36 | 1 155 | 21.53 |
+| 483 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 89 | 0.00 |
+| 484 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 25 | 0.00 |
+| 485 | [Predator: Hunting Grounds](games/p/predator__hunting_grounds.md) | 4.36 | 488 | 6.86 |
+| 486 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.36 | 406 | 0.00 |
+| 487 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
+| 488 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
+| 489 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.35 | 23 | 0.00 |
+| 490 | [Othercide](games/o/othercide.md) | 4.35 | 23 | 0.00 |
+| 491 | [Paladins](games/p/paladins.md) | 4.35 | 7 611 | 105.86 |
 | 492 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.34 | 229 | 6.68 |
 | 493 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 487 | 38.65 |
 | 494 | [SpellForce 3](games/s/spellforce_3.md) | 4.34 | 53 | 0.00 |
@@ -570,7 +570,7 @@
 | 568 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 59 | 0.00 |
 | 569 | [Pine](games/p/pine.md) | 4.12 | 352 | 8.15 |
 | 570 | [The Fall](games/t/the_fall.md) | 4.11 | 53 | 0.00 |
-| 571 | [Obduction](games/o/obduction.md) | 4.10 | 120 | 0.00 |
+| 571 | [Obduction](games/o/obduction.md) | 4.10 | 124 | 4.27 |
 | 572 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 263 | 6.00 |
 | 573 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
 | 574 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 67 | 0.00 |

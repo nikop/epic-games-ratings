@@ -322,7 +322,7 @@
 | 320 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.59 | 5 965 | 55.24 |
 | 321 | [Northgard](games/n/northgard.md) | 4.74 | 43 | 0.00 |
 | 322 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.78 | 344 | 6.91 |
-| 323 | [Obduction](games/o/obduction.md) | 4.10 | 120 | 0.00 |
+| 323 | [Obduction](games/o/obduction.md) | 4.10 | 124 | 4.27 |
 | 324 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 88 | 0.00 |
 | 325 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.31 | 54 | 0.00 |
 | 326 | [Oddworld: Soulstorm](games/o/oddworld__soulstorm.md) | 4.64 | 36 | 0.00 |
@@ -356,7 +356,7 @@
 | 354 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
 | 355 | [Pinball FX](games/p/pinball_fx.md) | 3.96 | 414 | 8.88 |
 | 356 | [Pine](games/p/pine.md) | 4.12 | 352 | 8.15 |
-| 357 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 26 | 0.00 |
+| 357 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 27 | 0.00 |
 | 358 | [Port Royale 4](games/p/port_royale_4.md) | 3.92 | 25 | 0.00 |
 | 359 | [Predator: Hunting Grounds](games/p/predator__hunting_grounds.md) | 4.36 | 488 | 6.86 |
 | 360 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.22 | 23 | 0.00 |
@@ -386,7 +386,7 @@
 | 384 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
 | 385 | [Road 96](games/r/road_96.md) | 4.60 | 52 | 0.00 |
 | 386 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
-| 387 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 200.44 |
+| 387 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
 | 388 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
 | 389 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 1 056 | 3.60 |
 | 390 | [Rogue Lords](games/r/rogue_lords.md) | 4.62 | 29 | 0.00 |
@@ -478,7 +478,7 @@
 | 476 | [The Alto Collection](games/t/the_alto_collection.md) | 4.64 | 167 | 6.91 |
 | 477 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 342 | 16.49 |
 | 478 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 31 | 0.00 |
-| 479 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
+| 479 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 027 | 22.25 |
 | 480 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 80.37 |
 | 481 | [The Dungeon Of Naheulbeuk: The Amulet Of Chaos](games/t/the_dungeon_of_naheulbeuk__the_amulet_of_chaos.md) | 4.78 | 73 | 0.00 |
 | 482 | [The Escapists](games/t/the_escapists.md) | 4.45 | 297 | 0.00 |
@@ -492,7 +492,7 @@
 | 490 | [The Last Campfire](games/t/the_last_campfire.md) | 4.89 | 27 | 0.00 |
 | 491 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 23 | 0.00 |
 | 492 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 30 | 0.00 |
-| 493 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
+| 493 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 497 | 44.75 |
 | 494 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
 | 495 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 423 | 30.62 |
 | 496 | [The Pathless](games/t/the_pathless.md) | 4.72 | 36 | 0.00 |

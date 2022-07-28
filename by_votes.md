@@ -27,7 +27,7 @@
 | 25 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
 | 26 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 347 | 207.41 |
-| 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 200.44 |
+| 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
 | 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
 | 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 830 | 140.42 |
 | 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 144.34 |
@@ -108,7 +108,7 @@
 | 106 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 692 | 41.23 |
 | 107 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 57.69 |
 | 108 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 506 | 32.87 |
-| 109 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
+| 109 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 497 | 44.75 |
 | 110 | [Anno 1800](games/a/anno_1800.md) | 4.83 | 2 406 | 50.39 |
 | 111 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.97 |
 | 112 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 2 368 | 28.63 |
@@ -168,8 +168,8 @@
 | 166 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 1 050 | 16.46 |
 | 167 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 1 049 | 22.31 |
 | 168 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
-| 169 | [Far Cry 5](games/f/far_cry_5.md) | 4.62 | 1 025 | 19.19 |
-| 170 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
+| 169 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 027 | 22.25 |
+| 170 | [Far Cry 5](games/f/far_cry_5.md) | 4.62 | 1 025 | 19.19 |
 | 171 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 022 | 16.12 |
 | 172 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 020 | 19.40 |
 | 173 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
@@ -361,12 +361,12 @@
 | 359 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.57 | 127 | 0.00 |
 | 360 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 125 | 0.00 |
 | 361 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.66 | 125 | 0.00 |
-| 362 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 123 | 0.00 |
-| 363 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.51 | 123 | 0.00 |
-| 364 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
-| 365 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 122 | 0.00 |
-| 366 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 120 | 0.00 |
-| 367 | [Obduction](games/o/obduction.md) | 4.10 | 120 | 0.00 |
+| 362 | [Obduction](games/o/obduction.md) | 4.10 | 124 | 4.27 |
+| 363 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 123 | 0.00 |
+| 364 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.51 | 123 | 0.00 |
+| 365 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
+| 366 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 122 | 0.00 |
+| 367 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 120 | 0.00 |
 | 368 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.59 | 119 | 0.00 |
 | 369 | [Assassin's Creed III: Remastered](games/a/assassin's_creed_iii__remastered.md) | 4.44 | 118 | 0.00 |
 | 370 | [Faeria](games/f/faeria.md) | 4.49 | 118 | 0.00 |
@@ -545,18 +545,18 @@
 | 543 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.32 | 28 | 0.00 |
 | 544 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.41 | 27 | 0.00 |
 | 545 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.52 | 27 | 0.00 |
-| 546 | [Sable](games/s/sable.md) | 4.48 | 27 | 0.00 |
-| 547 | [The Last Campfire](games/t/the_last_campfire.md) | 4.89 | 27 | 0.00 |
-| 548 | [This Is the Police](games/t/this_is_the_police.md) | 4.81 | 27 | 0.00 |
-| 549 | [Warhammer 40,000: Battlesector](games/w/warhammer_40,000__battlesector.md) | 4.59 | 27 | 0.00 |
-| 550 | [Costume Quest](games/c/costume_quest.md) | 4.73 | 26 | 0.00 |
-| 551 | [Cozy Grove](games/c/cozy_grove.md) | 4.85 | 26 | 0.00 |
-| 552 | [ELEX](games/e/elex.md) | 4.38 | 26 | 0.00 |
-| 553 | [Far Cry](games/f/far_cry.md) | 4.31 | 26 | 0.00 |
-| 554 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.50 | 26 | 0.00 |
-| 555 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
-| 556 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.23 | 26 | 0.00 |
-| 557 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 26 | 0.00 |
+| 546 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 27 | 0.00 |
+| 547 | [Sable](games/s/sable.md) | 4.48 | 27 | 0.00 |
+| 548 | [The Last Campfire](games/t/the_last_campfire.md) | 4.89 | 27 | 0.00 |
+| 549 | [This Is the Police](games/t/this_is_the_police.md) | 4.81 | 27 | 0.00 |
+| 550 | [Warhammer 40,000: Battlesector](games/w/warhammer_40,000__battlesector.md) | 4.59 | 27 | 0.00 |
+| 551 | [Costume Quest](games/c/costume_quest.md) | 4.73 | 26 | 0.00 |
+| 552 | [Cozy Grove](games/c/cozy_grove.md) | 4.85 | 26 | 0.00 |
+| 553 | [ELEX](games/e/elex.md) | 4.38 | 26 | 0.00 |
+| 554 | [Far Cry](games/f/far_cry.md) | 4.31 | 26 | 0.00 |
+| 555 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.50 | 26 | 0.00 |
+| 556 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
+| 557 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.23 | 26 | 0.00 |
 | 558 | [RiMS Racing](games/r/rims_racing.md) | 4.42 | 26 | 0.00 |
 | 559 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 25 | 0.00 |
 | 560 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.80 | 25 | 0.00 |
