@@ -33,7 +33,7 @@
 | 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 808 | 135.95 |
 | 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
 | 33 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 011 | 352.74 |
-| 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 531 | 86.18 |
+| 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 95.00 |
 | 35 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 202 | 53.45 |
 | 36 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
 | 37 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 169.10 |
@@ -146,7 +146,7 @@
 | 144 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 1 480 | 25.19 |
 | 145 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 476 | 27.98 |
 | 146 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 1 474 | 43.64 |
-| 147 | [Celeste](games/c/celeste.md) | 4.91 | 1 428 | 18.00 |
+| 147 | [Celeste](games/c/celeste.md) | 4.91 | 1 432 | 21.95 |
 | 148 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.64 | 1 417 | 26.39 |
 | 149 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 341 | 17.33 |
 | 150 | [Verdun](games/v/verdun.md) | 4.51 | 1 231 | 20.39 |
@@ -185,7 +185,7 @@
 | 183 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
 | 184 | [EVE Online](games/e/eve_online.md) | 4.33 | 853 | 1.50 |
 | 185 | [Inside](games/i/inside.md) | 4.73 | 831 | 0.00 |
-| 186 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 818 | 9.00 |
+| 186 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 824 | 10.05 |
 | 187 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 810 | 20.56 |
 | 189 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
@@ -209,8 +209,8 @@
 | 207 | [Spellbreak](games/s/spellbreak.md) | 4.60 | 616 | 3.00 |
 | 208 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 615 | 2.67 |
 | 209 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.46 | 601 | 4.80 |
-| 210 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
-| 211 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.87 | 588 | 4.80 |
+| 210 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.86 | 591 | 6.16 |
+| 211 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
 | 212 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
 | 213 | [Moonlighter](games/m/moonlighter.md) | 4.72 | 564 | 9.00 |
 | 214 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 553 | 3.60 |
@@ -423,12 +423,12 @@
 | 421 | [The Dungeon Of Naheulbeuk: The Amulet Of Chaos](games/t/the_dungeon_of_naheulbeuk__the_amulet_of_chaos.md) | 4.78 | 73 | 0.00 |
 | 422 | [Crayta](games/c/crayta.md) | 4.22 | 72 | 3.29 |
 | 423 | [Darksiders III](games/d/darksiders_iii.md) | 4.43 | 72 | 0.00 |
-| 424 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.13 | 72 | 0.00 |
-| 425 | [Kingdoms Of Amalur Re-Reckoning](games/k/kingdoms_of_amalur_re-reckoning_1.md) | 4.54 | 72 | 0.00 |
-| 426 | [Layers of Fear](games/l/layers_of_fear.md) | 4.43 | 72 | 0.00 |
-| 427 | [MotoGP™21](games/m/motogp™21.md) | 4.60 | 72 | 0.00 |
-| 428 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 71 | 0.00 |
-| 429 | [Elex II](games/e/elex_ii.md) | 4.20 | 70 | 0.00 |
+| 424 | [Elex II](games/e/elex_ii.md) | 4.17 | 72 | 0.00 |
+| 425 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.13 | 72 | 0.00 |
+| 426 | [Kingdoms Of Amalur Re-Reckoning](games/k/kingdoms_of_amalur_re-reckoning_1.md) | 4.54 | 72 | 0.00 |
+| 427 | [Layers of Fear](games/l/layers_of_fear.md) | 4.43 | 72 | 0.00 |
+| 428 | [MotoGP™21](games/m/motogp™21.md) | 4.60 | 72 | 0.00 |
+| 429 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 71 | 0.00 |
 | 430 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.61 | 70 | 0.00 |
 | 431 | [Torchlight](games/t/torchlight.md) | 4.46 | 70 | 0.00 |
 | 432 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.74 | 70 | 0.00 |

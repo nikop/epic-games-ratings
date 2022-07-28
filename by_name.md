@@ -78,7 +78,7 @@
 | 76 | [CARRION](games/c/carrion.md) | 4.73 | 30 | 1.03 |
 | 77 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 29 | 0.00 |
 | 78 | [Cave Story+](games/c/cave_story+.md) | 4.81 | 155 | 0.00 |
-| 79 | [Celeste](games/c/celeste.md) | 4.91 | 1 428 | 18.00 |
+| 79 | [Celeste](games/c/celeste.md) | 4.91 | 1 432 | 21.95 |
 | 80 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.44 | 45 | 0.00 |
 | 81 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
 | 82 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 67 | 0.00 |
@@ -146,7 +146,7 @@
 | 144 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.75 | 1 850 | 39.60 |
 | 145 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.33 | 33 | 0.00 |
 | 146 | [ELEX](games/e/elex.md) | 4.38 | 26 | 0.00 |
-| 147 | [Elex II](games/e/elex_ii.md) | 4.20 | 70 | 0.00 |
+| 147 | [Elex II](games/e/elex_ii.md) | 4.17 | 72 | 0.00 |
 | 148 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 3 892 | 45.81 |
 | 149 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.71 | 79 | 4.00 |
 | 150 | [Encased](games/e/encased.md) | 4.28 | 32 | 0.00 |
@@ -193,7 +193,7 @@
 | 191 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 192 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 220 | 0.00 |
 | 193 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
-| 194 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 818 | 9.00 |
+| 194 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 824 | 10.05 |
 | 195 | [God of War](games/g/god_of_war.md) | 4.89 | 3 157 | 31.64 |
 | 196 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 59 | 0.00 |
 | 197 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |
@@ -339,7 +339,7 @@
 | 337 | [Overcooked](games/o/overcooked.md) | 4.68 | 300 | 16.30 |
 | 338 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 2 784 | 62.76 |
 | 339 | [Oxenfree](games/o/oxenfree.md) | 4.69 | 49 | 1.20 |
-| 340 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.87 | 588 | 4.80 |
+| 340 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.86 | 591 | 6.16 |
 | 341 | [Paladins](games/p/paladins.md) | 4.35 | 7 607 | 109.81 |
 | 342 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.52 | 29 | 0.00 |
 | 343 | [Paradigm](games/p/paradigm.md) | 4.49 | 158 | 0.00 |
@@ -479,7 +479,7 @@
 | 477 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 341 | 17.33 |
 | 478 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 31 | 0.00 |
 | 479 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
-| 480 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 531 | 86.18 |
+| 480 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 95.00 |
 | 481 | [The Dungeon Of Naheulbeuk: The Amulet Of Chaos](games/t/the_dungeon_of_naheulbeuk__the_amulet_of_chaos.md) | 4.78 | 73 | 0.00 |
 | 482 | [The Escapists](games/t/the_escapists.md) | 4.45 | 297 | 0.00 |
 | 483 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 1 047 | 21.53 |

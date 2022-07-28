@@ -3,7 +3,7 @@
 | 1 | [Art of Rally](games/a/art_of_rally_1.md) | 4.97 | 32 | 0.00 |
 | 2 | [Anno 1404](games/a/anno_1404.md) | 4.94 | 31 | 0.00 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 3 703 | 75.29 |
-| 4 | [Celeste](games/c/celeste.md) | 4.91 | 1 428 | 18.00 |
+| 4 | [Celeste](games/c/celeste.md) | 4.91 | 1 432 | 21.95 |
 | 5 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 382 | 24.00 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 60 826 | 863.74 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 341 | 17.33 |
@@ -19,12 +19,12 @@
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 100 | 0.00 |
 | 18 | [Desperados 3](games/d/desperados_3.md) | 4.87 | 220 | 0.00 |
 | 19 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 77.39 |
-| 20 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.87 | 588 | 4.80 |
-| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
-| 22 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
-| 23 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 035 | 33.59 |
-| 25 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
+| 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
+| 21 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
+| 22 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
+| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 035 | 33.59 |
+| 24 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
+| 25 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.86 | 591 | 6.16 |
 | 26 | [Cozy Grove](games/c/cozy_grove.md) | 4.85 | 26 | 0.00 |
 | 27 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
@@ -367,7 +367,7 @@
 | 365 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.51 | 384 | 0.00 |
 | 366 | [Demon's Tilt](games/d/demon's_tilt_1.md) | 4.51 | 167 | 2.18 |
 | 367 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 990 | 52.36 |
-| 368 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 818 | 9.00 |
+| 368 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 824 | 10.05 |
 | 369 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 1 480 | 25.19 |
 | 370 | [Might & Magic Chess Royale](games/m/might_&_magic_chess_royale.md) | 4.51 | 158 | 0.00 |
 | 371 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 123 | 0.00 |
@@ -548,18 +548,18 @@
 | 546 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 120 | 0.00 |
 | 547 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 6 060 | 82.46 |
 | 548 | [Starship Troopers - Terran Command](games/s/starship_troopers_-_terran_command.md) | 4.21 | 57 | 0.00 |
-| 549 | [Elex II](games/e/elex_ii.md) | 4.20 | 70 | 0.00 |
-| 550 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 753 | 24.25 |
-| 551 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
-| 552 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.20 | 264 | 0.00 |
-| 553 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
-| 554 | [Among Trees](games/a/among_trees.md) | 4.19 | 67 | 0.00 |
-| 555 | [VHS](games/v/vhs.md) | 4.19 | 195 | 9.33 |
-| 556 | [Windbound](games/w/windbound.md) | 4.19 | 1 149 | 15.60 |
+| 549 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 753 | 24.25 |
+| 550 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
+| 551 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.20 | 264 | 0.00 |
+| 552 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
+| 553 | [Among Trees](games/a/among_trees.md) | 4.19 | 67 | 0.00 |
+| 554 | [VHS](games/v/vhs.md) | 4.19 | 195 | 9.33 |
+| 555 | [Windbound](games/w/windbound.md) | 4.19 | 1 149 | 15.60 |
+| 556 | [Elex II](games/e/elex_ii.md) | 4.17 | 72 | 0.00 |
 | 557 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 24 | 0.00 |
 | 558 | [Insurmountable](games/i/insurmountable.md) | 4.16 | 407 | 5.67 |
 | 559 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 080 | 8.03 |
-| 560 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 531 | 86.18 |
+| 560 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 95.00 |
 | 561 | [Relicta](games/r/relicta.md) | 4.15 | 235 | 0.00 |
 | 562 | [Werewolf: The Apocalypse - Earthblood](games/w/werewolf__the_apocalypse_-_earthblood.md) | 4.15 | 39 | 0.00 |
 | 563 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |

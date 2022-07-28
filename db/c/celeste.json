@@ -3,10 +3,10 @@
   "Name": "Celeste",
   "ProductSlug": "celeste/home",
   "Rating": 4.91,
-  "NumberOfRatings": 1428,
-  "DailyRatings": 18,
+  "NumberOfRatings": 1432,
+  "DailyRatings": 21.95,
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2022-07-28T16:01:41.9722129+00:00",
+  "LastChanged": "2022-07-28T17:31:24.4226559+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-28T16:01:41.9722131+00:00",
       "Rating": 4.91,
       "NumberOfRatings": 1428
+    },
+    {
+      "Time": "2022-07-28T17:31:24.422656+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": 1432
     }
   ],
   "Tags": [
