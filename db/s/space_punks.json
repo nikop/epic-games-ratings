@@ -3,10 +3,10 @@
   "Name": "Space Punks",
   "ProductSlug": null,
   "Rating": 4.16,
-  "NumberOfRatings": 1075,
-  "DailyRatings": 20.01,
+  "NumberOfRatings": 1076,
+  "DailyRatings": 24.01,
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
-  "LastChanged": "2022-07-28T02:00:55.7520532+00:00",
+  "LastChanged": "2022-07-28T04:00:43.0123204+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.1353749+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-07-28T02:00:55.7520534+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 1075
+    },
+    {
+      "Time": "2022-07-28T04:00:43.0123205+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": 1076
     }
   ],
   "Tags": [

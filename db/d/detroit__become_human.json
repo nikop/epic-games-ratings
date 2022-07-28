@@ -2,11 +2,11 @@
   "ID": "columbine",
   "Name": "Detroit: Become Human",
   "ProductSlug": null,
-  "Rating": 4.87,
-  "NumberOfRatings": 2007,
-  "DailyRatings": 84.13,
+  "Rating": 4.86,
+  "NumberOfRatings": 2017,
+  "DailyRatings": 48.03,
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2022-07-27T20:00:25.2271338+00:00",
+  "LastChanged": "2022-07-28T04:00:24.4370944+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:06.5181896+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-07-27T20:00:25.2271339+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 2007
+    },
+    {
+      "Time": "2022-07-28T04:00:24.4370946+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 2017
     }
   ],
   "Tags": [

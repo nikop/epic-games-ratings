@@ -3,10 +3,10 @@
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
   "Rating": 4.59,
-  "NumberOfRatings": 710,
-  "DailyRatings": 19.64,
+  "NumberOfRatings": 711,
+  "DailyRatings": 26.01,
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2022-07-28T00:01:10.2478446+00:00",
+  "LastChanged": "2022-07-28T04:00:33.4388819+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-28T00:01:10.2478448+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 710
+    },
+    {
+      "Time": "2022-07-28T04:00:33.4388821+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 711
     }
   ],
   "Tags": [
@@ -106,6 +111,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 21
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Sonic Mania
 Rating: 4.80 (1 527)  
-Ratings Per Day: 21.01  
+Ratings Per Day: 19.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

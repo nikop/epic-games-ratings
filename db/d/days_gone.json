@@ -4,7 +4,7 @@
   "ProductSlug": "days-gone",
   "Rating": 4.7,
   "NumberOfRatings": 2559,
-  "DailyRatings": 41.02,
+  "DailyRatings": 36,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
   "LastChanged": "2022-07-28T02:02:01.6487883+00:00",
   "RatingHistory": [
@@ -216,7 +216,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 91
+      "Count": 93
     },
     {
       "Text": "This game is Relaxing",

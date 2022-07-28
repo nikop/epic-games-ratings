@@ -1,6 +1,6 @@
 # Smite
 Rating: 4.47 (4 752)  
-Ratings Per Day: 58.02  
+Ratings Per Day: 59.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
