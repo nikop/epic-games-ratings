@@ -33,7 +33,7 @@
 | 31 | [The Walking Dead: The Telltale Definitive Series](games/t/the_walking_dead__the_telltale_definitive_series.md) | 4.85 | 393 | 4.80 |
 | 32 | [Tunic](games/t/tunic.md) | 4.85 | 74 | 0.00 |
 | 33 | [What the Golf?](games/w/what_the_golf.md) | 4.85 | 20 | 0.00 |
-| 34 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 799 | 38.66 |
+| 34 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 803 | 39.38 |
 | 35 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
 | 36 | [Into The Breach](games/i/into_the_breach.md) | 4.84 | 1 899 | 70.15 |
 | 37 | [Subnautica](games/s/subnautica.md) | 4.84 | 4 253 | 46.49 |
@@ -69,7 +69,7 @@
 | 67 | [Metro Exodus](games/m/metro_exodus.md) | 4.80 | 4 122 | 49.48 |
 | 68 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 1 548 | 33.87 |
 | 69 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 30 | 0.00 |
-| 70 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 476 | 82.66 |
+| 70 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 479 | 79.65 |
 | 71 | [Diabotical](games/d/diabotical.md) | 4.79 | 367 | 0.00 |
 | 72 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 418.59 |
 | 73 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 34 | 0.00 |
@@ -165,7 +165,7 @@
 | 163 | [Neon Abyss](games/n/neon_abyss.md) | 4.69 | 4 766 | 64.14 |
 | 164 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.69 | 32 | 0.00 |
 | 165 | [Oxenfree](games/o/oxenfree.md) | 4.69 | 49 | 1.20 |
-| 166 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 223 | 271.43 |
+| 166 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
 | 167 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 219 | 3.60 |
 | 168 | [Beyond: Two Souls](games/b/beyond__two_souls.md) | 4.68 | 199 | 0.00 |
 | 169 | [Death's Door](games/d/death's_door.md) | 4.68 | 75 | 0.00 |
@@ -255,7 +255,7 @@
 | 253 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.61 | 412 | 0.00 |
 | 254 | [MythForce](games/m/mythforce.md) | 4.61 | 166 | 0.00 |
 | 255 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
-| 256 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 819 | 30.92 |
+| 256 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 824 | 34.73 |
 | 257 | [Slipways](games/s/slipways.md) | 4.61 | 23 | 0.00 |
 | 258 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 33 | 0.00 |
 | 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.61 | 70 | 0.00 |
@@ -269,7 +269,7 @@
 | 267 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 65.98 |
 | 268 | [F.I.S.T. Forged In Shadow Torch](games/f/f.i.s.t._forged_in_shadow_torch.md) | 4.60 | 348 | 2.40 |
 | 269 | [MotoGP™21](games/m/motogp™21.md) | 4.60 | 72 | 0.00 |
-| 270 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 427 | 58.57 |
+| 270 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 431 | 61.86 |
 | 271 | [Road 96](games/r/road_96.md) | 4.60 | 52 | 0.00 |
 | 272 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
 | 273 | [Spellbreak](games/s/spellbreak.md) | 4.60 | 616 | 4.00 |
@@ -362,7 +362,7 @@
 | 360 | [Souldiers](games/s/souldiers.md) | 4.52 | 58 | 0.00 |
 | 361 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox.md) | 4.52 | 25 | 0.00 |
 | 362 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 3 335 | 58.41 |
-| 363 | [Assassin's Creed Syndicate](games/a/assassin's_creed_syndicate.md) | 4.51 | 1 512 | 13.50 |
+| 363 | [Assassin's Creed Syndicate](games/a/assassin's_creed_syndicate.md) | 4.51 | 1 520 | 20.29 |
 | 364 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 65.98 |
 | 365 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.51 | 384 | 0.00 |
 | 366 | [Demon's Tilt](games/d/demon's_tilt_1.md) | 4.51 | 167 | 0.00 |
@@ -452,7 +452,7 @@
 | 450 | [Jotun Valhalla Edition](games/j/jotun_valhalla_edition.md) | 4.41 | 478 | 0.00 |
 | 451 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.41 | 27 | 0.00 |
 | 452 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 223 | 0.00 |
-| 453 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 003 | 278.31 |
+| 453 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 021 | 283.25 |
 | 454 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 104 | 0.00 |
 | 455 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.41 | 32 | 0.00 |
 | 456 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 459 | 46.79 |
