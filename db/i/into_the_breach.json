@@ -3,10 +3,10 @@
   "Name": "Into The Breach",
   "ProductSlug": "into-the-breach/home",
   "Rating": 4.84,
-  "NumberOfRatings": 1885,
-  "DailyRatings": 65.3,
+  "NumberOfRatings": 1899,
+  "DailyRatings": 70.15,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2022-07-28T14:02:05.7091998+00:00",
+  "LastChanged": "2022-07-28T17:34:39.5181725+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:50.8479512+00:00",
@@ -257,6 +257,11 @@
       "Time": "2022-07-28T14:02:05.7092+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 1885
+    },
+    {
+      "Time": "2022-07-28T17:34:39.5181728+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 1899
     }
   ],
   "Tags": [
@@ -310,7 +315,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 29
+      "Count": 31
     }
   ]
 }
