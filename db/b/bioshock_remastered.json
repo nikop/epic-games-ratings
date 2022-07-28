@@ -3,10 +3,10 @@
   "Name": "BioShock Remastered",
   "ProductSlug": "bioshock-remastered",
   "Rating": 4.64,
-  "NumberOfRatings": 17917,
-  "DailyRatings": 183.6,
+  "NumberOfRatings": 17936,
+  "DailyRatings": 172,
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2022-07-28T10:02:49.1027886+00:00",
+  "LastChanged": "2022-07-28T14:02:52.2589362+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:07.4798795+00:00",
@@ -187,12 +187,17 @@
       "Time": "2022-07-28T10:02:49.1027888+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 17917
+    },
+    {
+      "Time": "2022-07-28T14:02:52.2589363+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 17936
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 3000
+      "Count": 3038
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -3,10 +3,10 @@
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Rating": 4.85,
-  "NumberOfRatings": 12171,
-  "DailyRatings": 92.41,
+  "NumberOfRatings": 12194,
+  "DailyRatings": 90,
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2022-07-28T08:01:05.5823757+00:00",
+  "LastChanged": "2022-07-28T14:01:22.2204869+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:16.7757902+00:00",
@@ -267,16 +267,21 @@
       "Time": "2022-07-28T08:01:05.5823759+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 12171
+    },
+    {
+      "Time": "2022-07-28T14:01:22.220487+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 12194
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 3243
+      "Count": 3269
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2057
+      "Count": 2083
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -284,7 +289,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 151
+      "Count": 154
     },
     {
       "Text": "This game is Extremely Fun",

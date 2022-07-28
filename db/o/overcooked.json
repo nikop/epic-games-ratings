@@ -3,10 +3,10 @@
   "Name": "Overcooked",
   "ProductSlug": "overcooked/home",
   "Rating": 4.67,
-  "NumberOfRatings": 294,
-  "DailyRatings": 0,
+  "NumberOfRatings": 298,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:32:20.7350058+00:00",
-  "LastChanged": "2022-07-27T14:02:44.213373+00:00",
+  "LastChanged": "2022-07-28T14:02:46.2986072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:20.735006+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-27T14:02:44.2133732+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 294
+    },
+    {
+      "Time": "2022-07-28T14:02:46.2986074+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 298
     }
   ],
   "Tags": [

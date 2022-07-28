@@ -2,11 +2,11 @@
   "ID": "39697c68e46b48d2b75e17bdc417d859",
   "Name": "Bridge Constructor: The Walking Dead",
   "ProductSlug": "bridge-constructor-the-walking-dead/home",
-  "Rating": 4.08,
-  "NumberOfRatings": 62,
-  "DailyRatings": 0,
+  "Rating": 4.05,
+  "NumberOfRatings": 63,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
-  "LastChanged": "2022-07-27T14:02:17.7300681+00:00",
+  "LastChanged": "2022-07-28T14:02:19.8040558+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:51.0308351+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-27T14:02:17.7300683+00:00",
       "Rating": 4.08,
       "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-07-28T14:02:19.804056+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": 63
     }
   ],
   "Tags": []

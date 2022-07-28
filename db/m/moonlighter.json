@@ -3,10 +3,10 @@
   "Name": "Moonlighter",
   "ProductSlug": null,
   "Rating": 4.72,
-  "NumberOfRatings": 558,
-  "DailyRatings": 0,
+  "NumberOfRatings": 564,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
-  "LastChanged": "2022-07-27T22:01:03.9622455+00:00",
+  "LastChanged": "2022-07-28T14:01:18.8073392+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.3946093+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-27T22:01:03.9622457+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 558
+    },
+    {
+      "Time": "2022-07-28T14:01:18.8073393+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 564
     }
   ],
   "Tags": []

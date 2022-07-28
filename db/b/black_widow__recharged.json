@@ -2,16 +2,21 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Rating": 4.52,
-  "NumberOfRatings": 21,
+  "Rating": 4.45,
+  "NumberOfRatings": 22,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
-  "LastChanged": "2022-07-22T20:22:32.7044804+00:00",
+  "LastChanged": "2022-07-28T14:01:31.9983866+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:32.7044805+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-07-28T14:01:31.9983867+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []

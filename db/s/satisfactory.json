@@ -3,10 +3,10 @@
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
   "Rating": 4.89,
-  "NumberOfRatings": 19154,
-  "DailyRatings": 259.99,
+  "NumberOfRatings": 19181,
+  "DailyRatings": 279.99,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2022-07-28T12:01:22.4030577+00:00",
+  "LastChanged": "2022-07-28T14:01:29.3658603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:11.7040588+00:00",
@@ -257,6 +257,11 @@
       "Time": "2022-07-28T12:01:22.4030578+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 19154
+    },
+    {
+      "Time": "2022-07-28T14:01:29.3658605+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 19181
     }
   ],
   "Tags": [
