@@ -265,11 +265,11 @@
 | 263 | [WRC 8](games/w/wrc_8.md) | 4.61 | 130 | 0.00 |
 | 264 | [ABZU](games/a/abzu.md) | 4.60 | 62 | 0.00 |
 | 265 | [Before We Leave](games/b/before_we_leave.md) | 4.60 | 42 | 0.00 |
-| 266 | [Control](games/c/control.md) | 4.60 | 8 569 | 118.91 |
+| 266 | [Control](games/c/control.md) | 4.60 | 8 590 | 131.58 |
 | 267 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 63.27 |
 | 268 | [F.I.S.T. Forged In Shadow Torch](games/f/f.i.s.t._forged_in_shadow_torch.md) | 4.60 | 348 | 2.40 |
 | 269 | [MotoGP™21](games/m/motogp™21.md) | 4.60 | 72 | 0.00 |
-| 270 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 420 | 55.43 |
+| 270 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 427 | 60.73 |
 | 271 | [Road 96](games/r/road_96.md) | 4.60 | 52 | 0.00 |
 | 272 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
 | 273 | [Spellbreak](games/s/spellbreak.md) | 4.60 | 616 | 3.00 |
@@ -287,7 +287,7 @@
 | 285 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 711 | 19.21 |
 | 286 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 32 | 0.00 |
 | 287 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.59 | 5 965 | 63.79 |
-| 288 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 493 | 33.33 |
+| 288 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 506 | 38.46 |
 | 289 | [Roguebook](games/r/roguebook.md) | 4.59 | 46 | 0.00 |
 | 290 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.59 | 22 | 0.00 |
 | 291 | [Surviving Mars](games/s/surviving_mars.md) | 4.59 | 1 846 | 36.65 |
@@ -313,7 +313,7 @@
 | 311 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.57 | 6 374 | 101.97 |
 | 312 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.57 | 127 | 1.05 |
 | 313 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 010 | 20.51 |
-| 314 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 388 | 53.33 |
+| 314 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 391 | 54.66 |
 | 315 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 169.10 |
 | 316 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 439 | 16.49 |
 | 317 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.56 | 257 | 4.00 |
@@ -326,7 +326,7 @@
 | 324 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 325 | [Sherlock Holmes The Devil's Daughter](games/s/sherlock_holmes_the_devil's_daughter.md) | 4.56 | 32 | 0.00 |
 | 326 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
-| 327 | [VALORANT](games/v/valorant.md) | 4.56 | 83 387 | 1274.79 |
+| 327 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1311.31 |
 | 328 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 78.48 |
 | 329 | [Axiom Verge](games/a/axiom_verge.md) | 4.55 | 58 | 0.00 |
 | 330 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.55 | 22 | 0.00 |
@@ -531,8 +531,8 @@
 | 529 | [Might & Magic Heroes 7](games/m/might_&_magic_heroes_7.md) | 4.25 | 55 | 0.00 |
 | 530 | [Scavengers](games/s/scavengers.md) | 4.25 | 286 | 10.00 |
 | 531 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 24 | 0.00 |
-| 532 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
-| 533 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 619 | 6.55 |
+| 532 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 12.15 |
+| 533 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
 | 534 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.23 | 26 | 0.00 |
 | 535 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 32.02 |
 | 536 | [Tacoma](games/t/tacoma.md) | 4.23 | 31 | 0.00 |

@@ -90,7 +90,7 @@
 | 88 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
 | 89 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 12.28 |
 | 90 | [Conarium](games/c/conarium.md) | 4.13 | 24 | 0.00 |
-| 91 | [Control](games/c/control.md) | 4.60 | 8 569 | 118.91 |
+| 91 | [Control](games/c/control.md) | 4.60 | 8 590 | 131.58 |
 | 92 | [Core](games/c/core.md) | 4.39 | 911 | 13.59 |
 | 93 | [Coromon](games/c/coromon.md) | 4.61 | 61 | 0.00 |
 | 94 | [Costume Quest](games/c/costume_quest.md) | 4.73 | 26 | 0.00 |
@@ -186,7 +186,7 @@
 | 184 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
 | 185 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 900 | 118.32 |
 | 186 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
-| 187 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 619 | 6.55 |
+| 187 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 12.15 |
 | 188 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
 | 189 | [Geneforge 1: Mutagen](games/g/geneforge_1__mutagen.md) | 4.21 | 894 | 7.50 |
 | 190 | [Genesis Alpha One](games/g/genesis_alpha_one.md) | 4.39 | 23 | 0.00 |
@@ -361,11 +361,11 @@
 | 359 | [Predator: Hunting Grounds](games/p/predator__hunting_grounds.md) | 4.36 | 488 | 6.86 |
 | 360 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.22 | 23 | 0.00 |
 | 361 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
-| 362 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 493 | 33.33 |
+| 362 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 506 | 38.46 |
 | 363 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 48 | 0.00 |
 | 364 | [Rage 2](games/r/rage_2.md) | 4.29 | 2 239 | 48.10 |
 | 365 | [Railway Empire](games/r/railway_empire.md) | 4.54 | 1 072 | 17.18 |
-| 366 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 420 | 55.43 |
+| 366 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 427 | 60.73 |
 | 367 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 212 | 0.00 |
 | 368 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.41 | 32 | 0.00 |
 | 369 | [Rayman Legends](games/r/rayman_legends.md) | 4.68 | 194 | 0.00 |
@@ -559,7 +559,7 @@
 | 557 | [Unrailed!](games/u/unrailed!.md) | 4.71 | 21 | 0.00 |
 | 558 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.70 | 673 | 8.02 |
 | 559 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.74 | 70 | 0.00 |
-| 560 | [VALORANT](games/v/valorant.md) | 4.56 | 83 387 | 1274.79 |
+| 560 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1311.31 |
 | 561 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 540 | 7.50 |
 | 562 | [Vampyr](games/v/vampyr.md) | 4.31 | 2 868 | 35.99 |
 | 563 | [Verdun](games/v/verdun.md) | 4.51 | 1 231 | 20.39 |
@@ -573,7 +573,7 @@
 | 571 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 308 | 0.00 |
 | 572 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 30 | 0.00 |
 | 573 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 010 | 20.51 |
-| 574 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 388 | 53.33 |
+| 574 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 391 | 54.66 |
 | 575 | [Watch Dogs: Legion](games/w/watch_dogs__legion.md) | 4.39 | 778 | 31.20 |
 | 576 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.70 | 84 | 0.00 |
 | 577 | [Weird West](games/w/weird_west.md) | 4.41 | 87 | 0.00 |

@@ -7,7 +7,7 @@
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 6 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 019 | 821.72 |
 | 7 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
-| 8 | [VALORANT](games/v/valorant.md) | 4.56 | 83 387 | 1274.79 |
+| 8 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1311.31 |
 | 9 | [Maneater](games/m/maneater.md) | 4.49 | 74 855 | 181.24 |
 | 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 60 826 | 863.74 |
 | 11 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 336 | 265.12 |
@@ -42,7 +42,7 @@
 | 40 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 71.98 |
 | 41 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 641 | 61.85 |
 | 42 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 8 637 | 112.94 |
-| 43 | [Control](games/c/control.md) | 4.60 | 8 569 | 118.91 |
+| 43 | [Control](games/c/control.md) | 4.60 | 8 590 | 131.58 |
 | 44 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.61 | 8 299 | 133.09 |
 | 45 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
 | 46 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 54.02 |
@@ -62,7 +62,7 @@
 | 60 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 900 | 118.32 |
 | 61 | [Shop Titans](games/s/shop_titans.md) | 3.86 | 5 872 | 884.14 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 490 | 83.75 |
-| 63 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 420 | 55.43 |
+| 63 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 427 | 60.73 |
 | 64 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 293 | 94.77 |
 | 65 | [Sifu](games/s/sifu.md) | 4.81 | 5 267 | 98.18 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 5 010 | 47.88 |
@@ -86,7 +86,7 @@
 | 84 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
 | 85 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 409 | 69.82 |
 | 86 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 48.10 |
-| 87 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 388 | 53.33 |
+| 87 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 391 | 54.66 |
 | 88 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 377 | 62.58 |
 | 89 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 3 335 | 59.61 |
 | 90 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
@@ -107,8 +107,8 @@
 | 105 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 2 723 | 25.20 |
 | 106 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 692 | 41.23 |
 | 107 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 53.77 |
-| 108 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
-| 109 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 493 | 33.33 |
+| 108 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 506 | 38.46 |
+| 109 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
 | 110 | [Anno 1800](games/a/anno_1800.md) | 4.83 | 2 406 | 50.39 |
 | 111 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.38 |
 | 112 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 2 368 | 37.65 |
@@ -205,7 +205,7 @@
 | 203 | [Neverwinter](games/n/neverwinter.md) | 4.26 | 665 | 7.12 |
 | 204 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
 | 205 | [Faster Than Light](games/f/faster_than_light.md) | 4.78 | 633 | 19.47 |
-| 206 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 619 | 6.55 |
+| 206 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 12.15 |
 | 207 | [Spellbreak](games/s/spellbreak.md) | 4.60 | 616 | 3.00 |
 | 208 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 615 | 2.67 |
 | 209 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.46 | 601 | 4.80 |
