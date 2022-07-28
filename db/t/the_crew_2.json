@@ -3,10 +3,10 @@
   "Name": "The Crew 2",
   "ProductSlug": null,
   "Rating": 4.66,
-  "NumberOfRatings": 1015,
-  "DailyRatings": 12,
+  "NumberOfRatings": 1016,
+  "DailyRatings": 11,
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2022-07-28T06:01:08.6496435+00:00",
+  "LastChanged": "2022-07-28T10:01:15.3799565+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:02.2131055+00:00",
@@ -122,12 +122,17 @@
       "Time": "2022-07-28T06:01:08.6496437+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 1015
+    },
+    {
+      "Time": "2022-07-28T10:01:15.3799567+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 1016
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Storytelling",

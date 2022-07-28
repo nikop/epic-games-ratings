@@ -3,10 +3,10 @@
   "Name": "Ghostrunner",
   "ProductSlug": null,
   "Rating": 4.75,
-  "NumberOfRatings": 453,
-  "DailyRatings": 8.4,
+  "NumberOfRatings": 454,
+  "DailyRatings": 8.73,
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
-  "LastChanged": "2022-07-28T08:01:01.5716178+00:00",
+  "LastChanged": "2022-07-28T10:00:50.0372805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:51.2324113+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-28T08:01:01.5716179+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 453
+    },
+    {
+      "Time": "2022-07-28T10:00:50.0372806+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 454
     }
   ],
   "Tags": [

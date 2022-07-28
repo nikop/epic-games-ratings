@@ -2,11 +2,11 @@
   "ID": "90487cf458a143ff921d3ca365ad4fd6",
   "Name": "VHS",
   "ProductSlug": "video-horror-society",
-  "Rating": 4.2,
-  "NumberOfRatings": 189,
-  "DailyRatings": 4,
+  "Rating": 4.18,
+  "NumberOfRatings": 191,
+  "DailyRatings": 5.14,
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2022-07-28T02:01:33.492972+00:00",
+  "LastChanged": "2022-07-28T10:01:29.0729504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:40.6568694+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-07-28T02:01:33.4929721+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 189
+    },
+    {
+      "Time": "2022-07-28T10:01:29.0729506+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": 191
     }
   ],
   "Tags": [

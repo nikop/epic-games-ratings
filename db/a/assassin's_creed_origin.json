@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Origin",
   "ProductSlug": null,
   "Rating": 4.69,
-  "NumberOfRatings": 2732,
-  "DailyRatings": 27.6,
+  "NumberOfRatings": 2740,
+  "DailyRatings": 28.37,
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2022-07-28T04:00:21.2870875+00:00",
+  "LastChanged": "2022-07-28T10:00:22.8697216+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.6567849+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-28T04:00:21.2870876+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 2732
+    },
+    {
+      "Time": "2022-07-28T10:00:22.8697217+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 2740
     }
   ],
   "Tags": [
@@ -180,7 +185,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game has Amazing Storytelling",

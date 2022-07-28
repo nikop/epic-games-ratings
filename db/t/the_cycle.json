@@ -3,10 +3,10 @@
   "Name": "The Cycle",
   "ProductSlug": null,
   "Rating": 4.16,
-  "NumberOfRatings": 11514,
-  "DailyRatings": 153.83,
+  "NumberOfRatings": 11516,
+  "DailyRatings": 143.03,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2022-07-28T08:00:46.0141996+00:00",
+  "LastChanged": "2022-07-28T10:00:35.977721+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -257,12 +257,17 @@
       "Time": "2022-07-28T08:00:46.0141998+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 11514
+    },
+    {
+      "Time": "2022-07-28T10:00:35.9777211+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": 11516
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 718
+      "Count": 736
     },
     {
       "Text": "This game has Quickly Understood Controls",
