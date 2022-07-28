@@ -3,10 +3,10 @@
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
   "Rating": 4.7,
-  "NumberOfRatings": 2559,
-  "DailyRatings": 46.51,
+  "NumberOfRatings": 2565,
+  "DailyRatings": 40.36,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2022-07-28T02:02:01.6487883+00:00",
+  "LastChanged": "2022-07-28T08:02:15.3558134+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -207,12 +207,17 @@
       "Time": "2022-07-28T02:02:01.6487885+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2559
+    },
+    {
+      "Time": "2022-07-28T08:02:15.3558135+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 2565
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1087
+      "Count": 1108
     },
     {
       "Text": "This game has Amazing Storytelling",

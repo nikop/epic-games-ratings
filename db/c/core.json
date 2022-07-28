@@ -3,10 +3,10 @@
   "Name": "Core",
   "ProductSlug": "core",
   "Rating": 4.4,
-  "NumberOfRatings": 902,
-  "DailyRatings": 8.4,
+  "NumberOfRatings": 903,
+  "DailyRatings": 8.73,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-07-28T06:01:09.710549+00:00",
+  "LastChanged": "2022-07-28T08:01:27.1226172+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-07-28T06:01:09.7105491+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 902
+    },
+    {
+      "Time": "2022-07-28T08:01:27.1226173+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 903
     }
   ],
   "Tags": [

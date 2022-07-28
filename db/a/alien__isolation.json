@@ -3,10 +3,10 @@
   "Name": "Alien: Isolation",
   "ProductSlug": "alien-isolation",
   "Rating": 4.59,
-  "NumberOfRatings": 2672,
-  "DailyRatings": 46.81,
+  "NumberOfRatings": 2674,
+  "DailyRatings": 44.73,
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2022-07-28T06:00:25.2242242+00:00",
+  "LastChanged": "2022-07-28T08:00:35.8002952+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.3145859+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-28T06:00:25.2242245+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 2672
+    },
+    {
+      "Time": "2022-07-28T08:00:35.8002953+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 2674
     }
   ],
   "Tags": [

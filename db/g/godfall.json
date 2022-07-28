@@ -3,10 +3,10 @@
   "Name": "Godfall",
   "ProductSlug": null,
   "Rating": 4.14,
-  "NumberOfRatings": 473,
-  "DailyRatings": 0,
+  "NumberOfRatings": 483,
+  "DailyRatings": 12,
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2022-07-27T12:00:43.8439254+00:00",
+  "LastChanged": "2022-07-28T08:00:28.8680402+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-27T12:00:43.8439256+00:00",
       "Rating": 4.14,
       "NumberOfRatings": 473
+    },
+    {
+      "Time": "2022-07-28T08:00:28.8680404+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": 483
     }
   ],
   "Tags": [

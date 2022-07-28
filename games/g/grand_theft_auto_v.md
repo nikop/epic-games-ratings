@@ -1,6 +1,6 @@
 # Grand Theft Auto V
 Rating: 4.69 (324 651)  
-Ratings Per Day: 7319.86  
+Ratings Per Day: 6788.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
