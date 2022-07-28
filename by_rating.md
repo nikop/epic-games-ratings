@@ -70,7 +70,7 @@
 | 68 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 30 | 0.00 |
 | 69 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 479 | 79.65 |
 | 70 | [Diabotical](games/d/diabotical.md) | 4.79 | 367 | 0.00 |
-| 71 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 418.59 |
+| 71 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 133 | 413.40 |
 | 72 | [Metro Exodus](games/m/metro_exodus.md) | 4.79 | 4 148 | 62.16 |
 | 73 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 34 | 0.00 |
 | 74 | [Faster Than Light](games/f/faster_than_light.md) | 4.78 | 633 | 19.47 |
@@ -209,7 +209,7 @@
 | 207 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 417 | 73.60 |
 | 208 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
 | 209 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
-| 210 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
+| 210 | [Old World](games/o/old_world.md) | 4.65 | 867 | 5.21 |
 | 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
 | 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 315 | 7.08 |
 | 213 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
@@ -348,7 +348,7 @@
 | 346 | [Tom Clancy's Ghost Recon: Wildlands](games/t/tom_clancy's_ghost_recon__wildlands.md) | 4.54 | 528 | 8.00 |
 | 347 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 147 | 7.20 |
 | 348 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 1 474 | 45.59 |
-| 349 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
+| 349 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 297 | 369.67 |
 | 350 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 697 | 455.44 |
 | 351 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
 | 352 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 654 | 7764.21 |
@@ -487,7 +487,7 @@
 | 485 | [Predator: Hunting Grounds](games/p/predator__hunting_grounds.md) | 4.36 | 488 | 6.86 |
 | 486 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.36 | 406 | 0.00 |
 | 487 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
-| 488 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
+| 488 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 078 | 11.45 |
 | 489 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.35 | 23 | 0.00 |
 | 490 | [Othercide](games/o/othercide.md) | 4.35 | 23 | 0.00 |
 | 491 | [Paladins](games/p/paladins.md) | 4.35 | 7 611 | 105.86 |

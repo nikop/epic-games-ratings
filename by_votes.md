@@ -27,12 +27,12 @@
 | 25 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
 | 26 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 347 | 207.41 |
-| 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
-| 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
+| 28 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 297 | 369.67 |
+| 29 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
 | 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 834 | 140.57 |
 | 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 834 | 154.57 |
 | 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
-| 33 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 418.59 |
+| 33 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 133 | 413.40 |
 | 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 550 | 81.52 |
 | 35 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 216 | 58.80 |
 | 36 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
@@ -159,7 +159,7 @@
 | 157 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 1 129 | 19.64 |
 | 158 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 1 097 | 13.50 |
 | 159 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 081 | 9.06 |
-| 160 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
+| 160 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 078 | 11.45 |
 | 161 | [Mafia: Definitive Edition](games/m/mafia__definitive_edition.md) | 4.61 | 1 072 | 0.00 |
 | 162 | [Railway Empire](games/r/railway_empire.md) | 4.54 | 1 072 | 17.18 |
 | 163 | [Mutant Year Zero](games/m/mutant_year_zero.md) | 4.50 | 1 071 | 0.00 |
@@ -182,7 +182,7 @@
 | 180 | [Geneforge 1: Mutagen](games/g/geneforge_1__mutagen.md) | 4.21 | 901 | 12.80 |
 | 181 | [Outriders](games/o/outriders_1.md) | 4.42 | 884 | 16.36 |
 | 182 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 868 | 14.89 |
-| 183 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
+| 183 | [Old World](games/o/old_world.md) | 4.65 | 867 | 5.21 |
 | 184 | [EVE Online](games/e/eve_online.md) | 4.33 | 853 | 1.50 |
 | 185 | [Inside](games/i/inside.md) | 4.73 | 831 | 0.00 |
 | 186 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 824 | 10.05 |

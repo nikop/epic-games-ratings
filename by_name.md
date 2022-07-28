@@ -117,7 +117,7 @@
 | 115 | [Darksiders III](games/d/darksiders_iii.md) | 4.43 | 72 | 0.00 |
 | 116 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.51 | 384 | 0.00 |
 | 117 | [Darq: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 205 | 0.00 |
-| 118 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
+| 118 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 297 | 369.67 |
 | 119 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 57.69 |
 | 120 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 697 | 455.44 |
 | 121 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
@@ -218,7 +218,7 @@
 | 216 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.21 | 2 761 | 45.97 |
 | 217 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 21 | 0.00 |
 | 218 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 417 | 73.60 |
-| 219 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 418.59 |
+| 219 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 133 | 413.40 |
 | 220 | [Hob](games/h/hob.md) | 4.59 | 247 | 0.00 |
 | 221 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 216 | 58.80 |
 | 222 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
@@ -249,7 +249,7 @@
 | 247 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 2 736 | 33.41 |
 | 248 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 2 950 | 65.86 |
 | 249 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 1 480 | 25.19 |
-| 250 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
+| 250 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 078 | 11.45 |
 | 251 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.48 | 187 | 0.00 |
 | 252 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 1 890 | 23.99 |
 | 253 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
@@ -327,7 +327,7 @@
 | 325 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.31 | 54 | 0.00 |
 | 326 | [Oddworld: Soulstorm](games/o/oddworld__soulstorm.md) | 4.66 | 38 | 0.00 |
 | 327 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.34 | 229 | 6.68 |
-| 328 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
+| 328 | [Old World](games/o/old_world.md) | 4.65 | 867 | 5.21 |
 | 329 | [Ooblets](games/o/ooblets.md) | 4.89 | 425 | 7.60 |
 | 330 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 75 | 0.00 |
 | 331 | [Othercide](games/o/othercide.md) | 4.35 | 23 | 0.00 |

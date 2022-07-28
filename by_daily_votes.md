@@ -14,15 +14,15 @@
 | 12 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
 | 13 | [Sid Meiers Civilization Vl](games/s/sid_meiers_civilization_vl.md) | 4.73 | 34 062 | 458.46 |
 | 14 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 697 | 455.44 |
-| 15 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 418.59 |
-| 16 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 387 | 293.83 |
-| 17 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 254 | 288.66 |
-| 19 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 444 | 285.09 |
-| 20 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 021 | 283.25 |
-| 21 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
-| 22 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 468 | 266.23 |
-| 23 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
+| 15 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 133 | 413.40 |
+| 16 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 297 | 369.67 |
+| 17 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 387 | 293.83 |
+| 18 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 254 | 288.66 |
+| 20 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 444 | 285.09 |
+| 21 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 021 | 283.25 |
+| 22 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
+| 23 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 468 | 266.23 |
 | 24 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 347 | 207.41 |
 | 25 | [Maneater](games/m/maneater.md) | 4.49 | 74 907 | 203.57 |
 | 26 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
@@ -195,10 +195,10 @@
 | 193 | [Geneforge 1: Mutagen](games/g/geneforge_1__mutagen.md) | 4.21 | 901 | 12.80 |
 | 194 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
 | 195 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
-| 196 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
-| 197 | [Sheltered](games/s/sheltered.md) | 4.43 | 442 | 12.00 |
-| 198 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
-| 199 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 11.99 |
+| 196 | [Sheltered](games/s/sheltered.md) | 4.43 | 442 | 12.00 |
+| 197 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
+| 198 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 11.99 |
+| 199 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 078 | 11.45 |
 | 200 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.33 | 535 | 11.45 |
 | 201 | [RimWorld](games/r/rimworld.md) | 4.89 | 554 | 11.34 |
 | 202 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.18 |
@@ -253,19 +253,19 @@
 | 251 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
 | 252 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |
 | 253 | [Immortals Fenyx Rising](games/i/immortals_fenyx_rising.md) | 4.58 | 463 | 5.33 |
-| 254 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
-| 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
-| 256 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
-| 257 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 159 | 5.07 |
-| 258 | [The Walking Dead: The Telltale Definitive Series](games/t/the_walking_dead__the_telltale_definitive_series.md) | 4.85 | 393 | 4.80 |
-| 259 | [Obduction](games/o/obduction.md) | 4.10 | 124 | 4.27 |
-| 260 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 370 | 4.25 |
-| 261 | [Crashlands](games/c/crashlands.md) | 4.67 | 285 | 4.00 |
-| 262 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.56 | 257 | 4.00 |
-| 263 | [Going Medieval](games/g/going_medieval.md) | 4.63 | 476 | 4.00 |
-| 264 | [Humankind](games/h/humankind.md) | 4.48 | 334 | 4.00 |
-| 265 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 721 | 4.00 |
-| 266 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
+| 254 | [Old World](games/o/old_world.md) | 4.65 | 867 | 5.21 |
+| 255 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
+| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
+| 257 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
+| 258 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 159 | 5.07 |
+| 259 | [The Walking Dead: The Telltale Definitive Series](games/t/the_walking_dead__the_telltale_definitive_series.md) | 4.85 | 393 | 4.80 |
+| 260 | [Obduction](games/o/obduction.md) | 4.10 | 124 | 4.27 |
+| 261 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 370 | 4.25 |
+| 262 | [Crashlands](games/c/crashlands.md) | 4.67 | 285 | 4.00 |
+| 263 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.56 | 257 | 4.00 |
+| 264 | [Going Medieval](games/g/going_medieval.md) | 4.63 | 476 | 4.00 |
+| 265 | [Humankind](games/h/humankind.md) | 4.48 | 334 | 4.00 |
+| 266 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 721 | 4.00 |
 | 267 | [Spellbreak](games/s/spellbreak.md) | 4.60 | 616 | 4.00 |
 | 268 | [Star Stable Online](games/s/star_stable_online.md) | 4.29 | 139 | 4.00 |
 | 269 | [Star Trek Online](games/s/star_trek_online.md) | 4.55 | 379 | 4.00 |
