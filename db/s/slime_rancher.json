@@ -3,10 +3,10 @@
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher/home",
   "Rating": 4.82,
-  "NumberOfRatings": 2888,
-  "DailyRatings": 45.04,
+  "NumberOfRatings": 2891,
+  "DailyRatings": 44.99,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-07-28T18:23:52.285858+00:00",
+  "LastChanged": "2022-07-28T20:01:12.7514641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-07-28T18:23:52.2858581+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 2888
+    },
+    {
+      "Time": "2022-07-28T20:01:12.7514642+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 2891
     }
   ],
   "Tags": [

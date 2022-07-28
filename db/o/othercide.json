@@ -2,11 +2,11 @@
   "ID": "325bbb62ea0d490793fd3d274ea74818",
   "Name": "Othercide",
   "ProductSlug": null,
-  "Rating": 4.35,
-  "NumberOfRatings": 23,
+  "Rating": 4.29,
+  "NumberOfRatings": 24,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:43.6994898+00:00",
-  "LastChanged": "2022-07-26T20:01:50.9788768+00:00",
+  "LastChanged": "2022-07-28T20:01:33.1475296+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:43.6994901+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T20:01:50.9788769+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 23
+    },
+    {
+      "Time": "2022-07-28T20:01:33.1475297+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 24
     }
   ],
   "Tags": []
