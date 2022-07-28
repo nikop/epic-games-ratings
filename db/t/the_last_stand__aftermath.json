@@ -2,11 +2,11 @@
   "ID": "8d296e80f3ec42a79881f0693f3bded0",
   "Name": "The Last Stand: Aftermath",
   "ProductSlug": "the-last-stand-aftermath",
-  "Rating": 4.43,
-  "NumberOfRatings": 23,
+  "Rating": 4.46,
+  "NumberOfRatings": 24,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2022-07-26T22:02:09.8506075+00:00",
+  "LastChanged": "2022-07-28T22:31:38.4883106+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:56.9021794+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-26T22:02:09.8506076+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 23
+    },
+    {
+      "Time": "2022-07-28T22:31:38.4883108+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 24
     }
   ],
   "Tags": []

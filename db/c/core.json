@@ -3,10 +3,10 @@
   "Name": "Core",
   "ProductSlug": "core",
   "Rating": 4.39,
-  "NumberOfRatings": 915,
-  "DailyRatings": 15.65,
+  "NumberOfRatings": 916,
+  "DailyRatings": 20.37,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-07-28T21:01:42.5831867+00:00",
+  "LastChanged": "2022-07-28T22:31:04.1073538+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-07-28T21:01:42.5831869+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 915
+    },
+    {
+      "Time": "2022-07-28T22:31:04.1073539+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 916
     }
   ],
   "Tags": [
@@ -177,7 +182,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",

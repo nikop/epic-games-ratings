@@ -1,6 +1,6 @@
 # Immortals Fenyx Rising
-Rating: 4.59 (468)  
-Ratings Per Day: 8.62  
+Rating: 4.59 (470)  
+Ratings Per Day: 9.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 8.62
 | 2022-07-25 | 4.57 | 434 |
 | 2022-07-26 | 4.58 | 448 |
 | 2022-07-27 | 4.58 | 459 |
-| 2022-07-28 | 4.59 | 468 |
+| 2022-07-28 | 4.59 | 470 |

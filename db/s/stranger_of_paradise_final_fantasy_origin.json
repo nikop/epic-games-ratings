@@ -3,10 +3,10 @@
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": null,
   "Rating": 4.43,
-  "NumberOfRatings": 1201,
-  "DailyRatings": 37.34,
+  "NumberOfRatings": 1204,
+  "DailyRatings": 33.08,
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
-  "LastChanged": "2022-07-28T20:30:45.510022+00:00",
+  "LastChanged": "2022-07-28T22:30:33.2567693+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:02.4554092+00:00",
@@ -177,12 +177,17 @@
       "Time": "2022-07-28T20:30:45.5100221+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 1201
+    },
+    {
+      "Time": "2022-07-28T22:30:33.2567694+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 1204
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 169
+      "Count": 177
     }
   ]
 }
