@@ -131,7 +131,7 @@
 | 129 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 427 | 6.00 |
 | 130 | [Desperados 3](games/d/desperados_3.md) | 4.87 | 220 | 0.00 |
 | 131 | [Destroy all Humans!](games/d/destroy_all_humans!_1.md) | 4.74 | 50 | 0.00 |
-| 132 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 035 | 33.59 |
+| 132 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 042 | 38.18 |
 | 133 | [Diabotical](games/d/diabotical.md) | 4.79 | 367 | 0.00 |
 | 134 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.56 | 32 | 0.00 |
 | 135 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 89 | 0.00 |
@@ -157,7 +157,7 @@
 | 155 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.72 | 39 | 0.00 |
 | 156 | [F.I.S.T. Forged In Shadow Torch](games/f/f.i.s.t._forged_in_shadow_torch.md) | 4.60 | 348 | 2.40 |
 | 157 | [Faeria](games/f/faeria.md) | 4.49 | 118 | 0.00 |
-| 158 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 268 | 7411.20 |
+| 158 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 654 | 7693.36 |
 | 159 | [Far Cry](games/f/far_cry.md) | 4.31 | 26 | 0.00 |
 | 160 | [Far Cry 2: Fortune's Edition](games/f/far_cry_2__fortune's_edition.md) | 4.27 | 30 | 0.00 |
 | 161 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 7.64 |
@@ -300,7 +300,7 @@
 | 298 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 104 | 0.00 |
 | 299 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 223 | 0.00 |
 | 300 | [MotoGP™21](games/m/motogp™21.md) | 4.60 | 72 | 0.00 |
-| 301 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
+| 301 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 449 | 55.01 |
 | 302 | [Moving Out](games/m/moving_out.md) | 4.56 | 280 | 0.00 |
 | 303 | [Mudrunner](games/m/mudrunner_1.md) | 4.62 | 1 621 | 28.13 |
 | 304 | [Mutant Year Zero](games/m/mutant_year_zero.md) | 4.50 | 1 071 | 0.00 |
@@ -334,7 +334,7 @@
 | 332 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.67 | 21 | 0.00 |
 | 333 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.69 | 32 | 0.00 |
 | 334 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 382 | 24.00 |
-| 335 | [Outriders](games/o/outriders_1.md) | 4.42 | 880 | 13.20 |
+| 335 | [Outriders](games/o/outriders_1.md) | 4.42 | 884 | 16.36 |
 | 336 | [Outward](games/o/outward.md) | 4.54 | 199 | 0.00 |
 | 337 | [Overcooked](games/o/overcooked.md) | 4.68 | 300 | 16.30 |
 | 338 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 2 784 | 62.76 |
@@ -457,7 +457,7 @@
 | 455 | [Subnautica](games/s/subnautica.md) | 4.84 | 4 253 | 50.39 |
 | 456 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
 | 457 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.77 | 56 | 0.00 |
-| 458 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 98 | 0.00 |
+| 458 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 102 | 4.00 |
 | 459 | [Sunless Sea](games/s/sunless_sea.md) | 4.66 | 188 | 2.67 |
 | 460 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 78 | 0.00 |
 | 461 | [Superhot](games/s/superhot_1.md) | 4.63 | 82 | 0.00 |
@@ -567,7 +567,7 @@
 | 565 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 519 | 9.01 |
 | 566 | [Voidtrain](games/v/voidtrain.md) | 4.45 | 775 | 5.98 |
 | 567 | [Warface](games/w/warface.md) | 3.93 | 1 592 | 28.63 |
-| 568 | [Warframe](games/w/warframe.md) | 4.66 | 6 933 | 88.79 |
+| 568 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 101.02 |
 | 569 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
 | 570 | [Warhammer 40,000: Battlesector](games/w/warhammer_40,000__battlesector.md) | 4.59 | 27 | 0.00 |
 | 571 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 308 | 0.00 |

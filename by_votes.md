@@ -1,7 +1,7 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
-| 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 268 | 7411.20 |
+| 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 654 | 7693.36 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
@@ -51,7 +51,7 @@
 | 49 | [Paladins](games/p/paladins.md) | 4.35 | 7 607 | 109.81 |
 | 50 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 7 097 | 106.66 |
 | 51 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 002 | 98.18 |
-| 52 | [Warframe](games/w/warframe.md) | 4.66 | 6 933 | 88.79 |
+| 52 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 101.02 |
 | 53 | [Far Cry 6](games/f/far_cry_6.md) | 4.43 | 6 504 | 109.81 |
 | 54 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.57 | 6 374 | 101.97 |
 | 55 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 6 160 | 946.52 |
@@ -83,7 +83,7 @@
 | 81 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 84.53 |
 | 82 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 3 892 | 45.81 |
 | 83 | [Hades](games/h/hades.md) | 4.92 | 3 706 | 76.08 |
-| 84 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
+| 84 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 449 | 55.01 |
 | 85 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 409 | 69.82 |
 | 86 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 48.10 |
 | 87 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 391 | 54.66 |
@@ -115,8 +115,8 @@
 | 113 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 269 | 36.01 |
 | 114 | [Rage 2](games/r/rage_2.md) | 4.29 | 2 239 | 48.10 |
 | 115 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.46 | 2 146 | 73.20 |
-| 116 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
-| 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 035 | 33.59 |
+| 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 042 | 38.18 |
+| 117 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
 | 118 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 1 915 | 19.58 |
 | 119 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
 | 120 | [Into The Breach](games/i/into_the_breach.md) | 4.84 | 1 899 | 70.15 |
@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 940 | 12.03 |
 | 179 | [Core](games/c/core.md) | 4.39 | 911 | 13.59 |
 | 180 | [Geneforge 1: Mutagen](games/g/geneforge_1__mutagen.md) | 4.21 | 894 | 7.50 |
-| 181 | [Outriders](games/o/outriders_1.md) | 4.42 | 880 | 13.20 |
+| 181 | [Outriders](games/o/outriders_1.md) | 4.42 | 884 | 16.36 |
 | 182 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 868 | 14.64 |
 | 183 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
 | 184 | [EVE Online](games/e/eve_online.md) | 4.33 | 853 | 1.50 |
@@ -381,13 +381,13 @@
 | 379 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 104 | 5.15 |
 | 380 | [South Park™: The Fractured But Whole](games/s/south_park™__the_fractured_but_whole.md) | 4.81 | 103 | 0.00 |
 | 381 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 102 | 0.00 |
-| 382 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 101 | 0.00 |
-| 383 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 0.00 |
-| 384 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 100 | 0.00 |
-| 385 | [Atomicrops](games/a/atomicrops.md) | 4.89 | 99 | 0.00 |
-| 386 | [Blasphemous](games/b/blasphemous.md) | 4.88 | 98 | 0.00 |
-| 387 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
-| 388 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 98 | 0.00 |
+| 382 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 102 | 4.00 |
+| 383 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 101 | 0.00 |
+| 384 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 0.00 |
+| 385 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 100 | 0.00 |
+| 386 | [Atomicrops](games/a/atomicrops.md) | 4.89 | 99 | 0.00 |
+| 387 | [Blasphemous](games/b/blasphemous.md) | 4.88 | 98 | 0.00 |
+| 388 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
 | 389 | [Shenmue 3](games/s/shenmue_3.md) | 4.05 | 97 | 0.00 |
 | 390 | [Griftlands](games/g/griftlands.md) | 4.81 | 95 | 0.00 |
 | 391 | [AER](games/a/aer.md) | 4.44 | 94 | 0.00 |

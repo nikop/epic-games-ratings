@@ -22,7 +22,7 @@
 | 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
 | 21 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
 | 22 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
-| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 035 | 33.59 |
+| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 042 | 38.18 |
 | 24 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
 | 25 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.86 | 591 | 6.16 |
 | 26 | [Cozy Grove](games/c/cozy_grove.md) | 4.85 | 26 | 0.00 |
@@ -102,7 +102,7 @@
 | 100 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.74 | 34 | 0.00 |
 | 101 | [Destroy all Humans!](games/d/destroy_all_humans!_1.md) | 4.74 | 50 | 0.00 |
 | 102 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
-| 103 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
+| 103 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 449 | 55.01 |
 | 104 | [Northgard](games/n/northgard.md) | 4.74 | 43 | 0.00 |
 | 105 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |
 | 106 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
@@ -204,7 +204,7 @@
 | 202 | [The Tenants](games/t/the_tenants.md) | 4.66 | 32 | 0.00 |
 | 203 | [Timberborn](games/t/timberborn.md) | 4.66 | 268 | 6.00 |
 | 204 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.66 | 125 | 0.00 |
-| 205 | [Warframe](games/w/warframe.md) | 4.66 | 6 933 | 88.79 |
+| 205 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 101.02 |
 | 206 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 7.64 |
 | 207 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
 | 208 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 409 | 69.82 |
@@ -334,16 +334,16 @@
 | 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 235 | 4.02 |
 | 333 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 0.00 |
 | 334 | [Star Trek Online](games/s/star_trek_online.md) | 4.55 | 379 | 4.00 |
-| 335 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
-| 336 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.55 | 38 | 0.00 |
-| 337 | [UnMetal](games/u/unmetal.md) | 4.55 | 22 | 0.00 |
-| 338 | [World of Goo](games/w/world_of_goo.md) | 4.55 | 20 | 0.00 |
-| 339 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.54 | 28 | 0.00 |
-| 340 | [Heavy Rain](games/h/heavy_rain.md) | 4.54 | 145 | 0.00 |
-| 341 | [Kingdoms Of Amalur Re-Reckoning](games/k/kingdoms_of_amalur_re-reckoning_1.md) | 4.54 | 72 | 0.00 |
-| 342 | [Outward](games/o/outward.md) | 4.54 | 199 | 0.00 |
-| 343 | [Railway Empire](games/r/railway_empire.md) | 4.54 | 1 072 | 17.18 |
-| 344 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 98 | 0.00 |
+| 335 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 102 | 4.00 |
+| 336 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
+| 337 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.55 | 38 | 0.00 |
+| 338 | [UnMetal](games/u/unmetal.md) | 4.55 | 22 | 0.00 |
+| 339 | [World of Goo](games/w/world_of_goo.md) | 4.55 | 20 | 0.00 |
+| 340 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.54 | 28 | 0.00 |
+| 341 | [Heavy Rain](games/h/heavy_rain.md) | 4.54 | 145 | 0.00 |
+| 342 | [Kingdoms Of Amalur Re-Reckoning](games/k/kingdoms_of_amalur_re-reckoning_1.md) | 4.54 | 72 | 0.00 |
+| 343 | [Outward](games/o/outward.md) | 4.54 | 199 | 0.00 |
+| 344 | [Railway Empire](games/r/railway_empire.md) | 4.54 | 1 072 | 17.18 |
 | 345 | [Tom Clancy's Ghost Recon Breakpoint](games/t/tom_clancy's_ghost_recon_breakpoint.md) | 4.54 | 2 960 | 26.14 |
 | 346 | [Tom Clancy's Ghost Recon: Wildlands](games/t/tom_clancy's_ghost_recon__wildlands.md) | 4.54 | 528 | 7.64 |
 | 347 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 147 | 7.20 |
@@ -351,7 +351,7 @@
 | 349 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 350 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 683 | 449.44 |
 | 351 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
-| 352 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 268 | 7411.20 |
+| 352 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 654 | 7693.36 |
 | 353 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.53 | 151 | 0.00 |
 | 354 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 116 | 0.00 |
 | 355 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 293 | 12.03 |
@@ -444,7 +444,7 @@
 | 442 | [Alan Wake](games/a/alan_wake.md) | 4.42 | 217 | 0.00 |
 | 443 | [Darq: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 205 | 0.00 |
 | 444 | [Democracy 4](games/d/democracy_4.md) | 4.42 | 33 | 0.00 |
-| 445 | [Outriders](games/o/outriders_1.md) | 4.42 | 880 | 13.20 |
+| 445 | [Outriders](games/o/outriders_1.md) | 4.42 | 884 | 16.36 |
 | 446 | [RiMS Racing](games/r/rims_racing.md) | 4.42 | 26 | 0.00 |
 | 447 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 31 | 0.00 |
 | 448 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 220 | 0.00 |
