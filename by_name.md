@@ -60,7 +60,7 @@
 | 58 | [Beyond: Two Souls](games/b/beyond__two_souls.md) | 4.68 | 199 | 0.00 |
 | 59 | [BIOMUTANT](games/b/biomutant.md) | 4.39 | 132 | 0.00 |
 | 60 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 65.98 |
-| 61 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 830 | 140.42 |
+| 61 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 834 | 140.57 |
 | 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
 | 63 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
 | 64 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
@@ -135,7 +135,7 @@
 | 133 | [Diabotical](games/d/diabotical.md) | 4.79 | 367 | 0.00 |
 | 134 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.56 | 32 | 0.00 |
 | 135 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 89 | 0.00 |
-| 136 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 940 | 0.00 |
+| 136 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 956 | 17.02 |
 | 137 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.80 | 66 | 0.00 |
 | 138 | [Divine Knockout](games/d/divine_knockout.md) | 4.77 | 31 | 0.00 |
 | 139 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.80 | 25 | 0.00 |
@@ -164,13 +164,13 @@
 | 162 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.66 | 29 | 0.00 |
 | 163 | [Far Cry 4](games/f/far_cry_4.md) | 4.68 | 361 | 3.70 |
 | 164 | [Far Cry 5](games/f/far_cry_5.md) | 4.62 | 1 025 | 19.19 |
-| 165 | [Far Cry 6](games/f/far_cry_6.md) | 4.43 | 6 504 | 111.09 |
+| 165 | [Far Cry 6](games/f/far_cry_6.md) | 4.43 | 6 513 | 112.74 |
 | 166 | [Far Cry New Dawn](games/f/far_cry_new_dawn.md) | 4.45 | 182 | 0.00 |
 | 167 | [Far Cry Primal](games/f/far_cry_primal.md) | 4.64 | 260 | 0.00 |
 | 168 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.59 | 22 | 0.00 |
 | 169 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 3.89 | 37 | 0.00 |
 | 170 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 148.89 |
-| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 5 010 | 51.27 |
+| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 5 018 | 56.37 |
 | 172 | [Faster Than Light](games/f/faster_than_light.md) | 4.78 | 633 | 19.47 |
 | 173 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 4.00 | 197 | 18.42 |
 | 174 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 24 | 0.00 |
@@ -223,8 +223,8 @@
 | 221 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 216 | 58.80 |
 | 222 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
 | 223 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 721 | 17.59 |
-| 224 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 288 | 93.33 |
-| 225 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 235 | 4.02 |
+| 224 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 300 | 95.72 |
+| 225 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
 | 226 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
 | 227 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
 | 228 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
@@ -325,7 +325,7 @@
 | 323 | [Obduction](games/o/obduction.md) | 4.10 | 124 | 4.27 |
 | 324 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 88 | 0.00 |
 | 325 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.31 | 54 | 0.00 |
-| 326 | [Oddworld: Soulstorm](games/o/oddworld__soulstorm.md) | 4.64 | 36 | 0.00 |
+| 326 | [Oddworld: Soulstorm](games/o/oddworld__soulstorm.md) | 4.66 | 38 | 0.00 |
 | 327 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.34 | 229 | 6.68 |
 | 328 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
 | 329 | [Ooblets](games/o/ooblets.md) | 4.89 | 425 | 7.60 |
@@ -347,7 +347,7 @@
 | 345 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
 | 346 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 269 | 37.13 |
 | 347 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
-| 348 | [Pathway](games/p/pathway.md) | 4.39 | 228 | 5.44 |
+| 348 | [Pathway](games/p/pathway.md) | 4.39 | 229 | 6.38 |
 | 349 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 032 | 132.86 |
 | 350 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 474 | 6.53 |
 | 351 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.68 | 117 | 0.00 |
@@ -535,12 +535,12 @@
 | 533 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 909 | 59.41 |
 | 534 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.84 | 781 | 19.50 |
 | 535 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.18 |
-| 536 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 1 165 | 25.14 |
+| 536 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 1 166 | 25.68 |
 | 537 | [Totally Reliable Delivery Service](games/t/totally_reliable_delivery_service.md) | 4.48 | 64 | 0.00 |
 | 538 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 24 | 0.00 |
 | 539 | [Trackmania](games/t/trackmania.md) | 4.70 | 4 155 | 71.01 |
 | 540 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.52 | 23 | 0.00 |
-| 541 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.45 | 1 539 | 25.19 |
+| 541 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.45 | 1 543 | 26.59 |
 | 542 | [Train Valley](games/t/train_valley.md) | 4.29 | 21 | 0.00 |
 | 543 | [Train Valley 2](games/t/train_valley_2.md) | 3.97 | 65 | 0.00 |
 | 544 | [Transistor](games/t/transistor.md) | 4.64 | 77 | 0.00 |
@@ -562,7 +562,7 @@
 | 560 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1363.20 |
 | 561 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 540 | 7.50 |
 | 562 | [Vampyr](games/v/vampyr.md) | 4.31 | 2 868 | 34.29 |
-| 563 | [Verdun](games/v/verdun.md) | 4.51 | 1 231 | 20.39 |
+| 563 | [Verdun](games/v/verdun.md) | 4.51 | 1 234 | 21.27 |
 | 564 | [VHS](games/v/vhs.md) | 4.19 | 195 | 9.33 |
 | 565 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 519 | 9.01 |
 | 566 | [Voidtrain](games/v/voidtrain.md) | 4.45 | 775 | 5.98 |

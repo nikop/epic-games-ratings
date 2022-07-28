@@ -2,11 +2,11 @@
   "ID": "e099f2abf3324d248054bf14c476fbc0",
   "Name": "Oddworld: Soulstorm",
   "ProductSlug": "oddworld-soulstorm",
-  "Rating": 4.64,
-  "NumberOfRatings": 36,
+  "Rating": 4.66,
+  "NumberOfRatings": 38,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
-  "LastChanged": "2022-07-26T08:02:34.8199222+00:00",
+  "LastChanged": "2022-07-28T18:36:05.7374806+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:54.3777283+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T08:02:34.8199223+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-07-28T18:36:05.7374808+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 38
     }
   ],
   "Tags": []
