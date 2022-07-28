@@ -16,7 +16,7 @@
 | 14 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 756 | 170.59 |
 | 15 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 021 | 283.25 |
 | 16 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 177.15 |
-| 17 | [Supraland](games/s/supraland.md) | 4.60 | 22 348 | 88.01 |
+| 17 | [Supraland](games/s/supraland.md) | 4.60 | 22 362 | 95.87 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 254 | 288.66 |
 | 19 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 980 | 169.36 |
 | 20 | [Among Us](games/a/among_us.md) | 4.59 | 16 439 | 195.98 |
@@ -59,7 +59,7 @@
 | 57 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 5 984 | 80.14 |
 | 58 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.59 | 5 965 | 55.24 |
 | 59 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 949 | 97.20 |
-| 60 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 900 | 115.49 |
+| 60 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 906 | 114.36 |
 | 61 | [Shop Titans](games/s/shop_titans.md) | 3.86 | 5 872 | 884.14 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 495 | 81.90 |
 | 63 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 431 | 61.86 |
@@ -73,13 +73,13 @@
 | 71 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 74.44 |
 | 72 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 65.98 |
 | 73 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 72.38 |
-| 74 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 487 | 38.65 |
+| 74 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 495 | 38.98 |
 | 75 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 463 | 45.97 |
-| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.81 | 4 300 | 45.81 |
-| 77 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 300 | 95.72 |
+| 76 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 307 | 102.81 |
+| 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.81 | 4 300 | 45.81 |
 | 78 | [Subnautica](games/s/subnautica.md) | 4.84 | 4 253 | 46.49 |
 | 79 | [Trackmania](games/t/trackmania.md) | 4.70 | 4 155 | 71.01 |
-| 80 | [Metro Exodus](games/m/metro_exodus.md) | 4.80 | 4 122 | 49.48 |
+| 80 | [Metro Exodus](games/m/metro_exodus.md) | 4.79 | 4 148 | 62.16 |
 | 81 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 78.92 |
 | 82 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 3 892 | 45.81 |
 | 83 | [Hades](games/h/hades.md) | 4.92 | 3 706 | 74.53 |
@@ -94,7 +94,7 @@
 | 92 | [Darkest Dungeon](games/d/darkest_dungeon.md) | 4.75 | 3 033 | 49.31 |
 | 93 | [For The King](games/f/for_the_king.md) | 4.70 | 3 006 | 45.33 |
 | 94 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 996 | 29.52 |
-| 95 | [Tom Clancy's Ghost Recon Breakpoint](games/t/tom_clancy's_ghost_recon_breakpoint.md) | 4.54 | 2 960 | 29.74 |
+| 95 | [Tom Clancy's Ghost Recon Breakpoint](games/t/tom_clancy's_ghost_recon_breakpoint.md) | 4.54 | 2 964 | 31.96 |
 | 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 2 950 | 65.86 |
 | 97 | [Metro: 2033 Redux](games/m/metro__2033_redux.md) | 4.70 | 2 916 | 35.98 |
 | 98 | [Saint's Row The Third Remastered](games/s/saint's_row_the_third_remastered.md) | 4.43 | 2 900 | 49.61 |
@@ -118,8 +118,8 @@
 | 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 042 | 38.18 |
 | 117 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 13.71 |
 | 118 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 1 915 | 19.58 |
-| 119 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
-| 120 | [Into The Breach](games/i/into_the_breach.md) | 4.84 | 1 899 | 70.15 |
+| 119 | [Into The Breach](games/i/into_the_breach.md) | 4.85 | 1 911 | 79.01 |
+| 120 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
 | 121 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 1 890 | 23.99 |
 | 122 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.75 | 1 855 | 44.03 |
 | 123 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.81 | 1 849 | 6.68 |
@@ -130,7 +130,7 @@
 | 128 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 806 | 42.64 |
 | 129 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 23.00 |
 | 130 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
-| 131 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
+| 131 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 697 | 25.98 |
 | 132 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
 | 133 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 28.80 |
 | 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 51.76 |
@@ -373,10 +373,10 @@
 | 371 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.68 | 117 | 0.00 |
 | 372 | [Sherlock Holmes: Chapter One](games/s/sherlock_holmes__chapter_one.md) | 4.48 | 117 | 0.00 |
 | 373 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 116 | 0.00 |
-| 374 | [Limbo](games/l/limbo.md) | 4.63 | 114 | 0.00 |
-| 375 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.74 | 112 | 0.00 |
-| 376 | [Absolute Drift](games/a/absolute_drift.md) | 4.37 | 111 | 0.00 |
-| 377 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 111 | 0.00 |
+| 374 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 114 | 3.16 |
+| 375 | [Limbo](games/l/limbo.md) | 4.63 | 114 | 0.00 |
+| 376 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.74 | 112 | 0.00 |
+| 377 | [Absolute Drift](games/a/absolute_drift.md) | 4.37 | 111 | 0.00 |
 | 378 | [Mortal Shell](games/m/mortal_shell.md) | 4.39 | 106 | 0.00 |
 | 379 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 104 | 0.00 |
 | 380 | [South Park™: The Fractured But Whole](games/s/south_park™__the_fractured_but_whole.md) | 4.81 | 103 | 0.00 |

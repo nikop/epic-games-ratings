@@ -15,7 +15,7 @@
 | 13 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 302 | 9.55 |
 | 14 | [Alan Wake's American Nightmare](games/a/alan_wake's_american_nightmare.md) | 4.26 | 42 | 0.00 |
 | 15 | [Alien: Isolation](games/a/alien__isolation.md) | 4.59 | 2 692 | 41.23 |
-| 16 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 111 | 0.00 |
+| 16 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 114 | 3.16 |
 | 17 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 999 | 20.87 |
 | 18 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.63 | 159 | 0.00 |
 | 19 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.39 | 189 | 0.00 |
@@ -184,7 +184,7 @@
 | 182 | [For The King](games/f/for_the_king.md) | 4.70 | 3 006 | 45.33 |
 | 183 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.50 | 26 | 0.00 |
 | 184 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 11747.68 |
-| 185 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 900 | 115.49 |
+| 185 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 906 | 114.36 |
 | 186 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
 | 187 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 13.74 |
 | 188 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
@@ -223,7 +223,7 @@
 | 221 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 216 | 58.80 |
 | 222 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
 | 223 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 721 | 17.59 |
-| 224 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 300 | 95.72 |
+| 224 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 307 | 102.81 |
 | 225 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
 | 226 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
 | 227 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
@@ -238,7 +238,7 @@
 | 236 | [Inside](games/i/inside.md) | 4.73 | 831 | 0.00 |
 | 237 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 868 | 14.89 |
 | 238 | [Insurmountable](games/i/insurmountable.md) | 4.16 | 407 | 5.67 |
-| 239 | [Into The Breach](games/i/into_the_breach.md) | 4.84 | 1 899 | 70.15 |
+| 239 | [Into The Breach](games/i/into_the_breach.md) | 4.85 | 1 911 | 79.01 |
 | 240 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 645 | 62.01 |
 | 241 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 102 | 0.00 |
 | 242 | [Ironcast](games/i/ironcast.md) | 3.85 | 142 | 0.00 |
@@ -288,7 +288,7 @@
 | 286 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 494 | 0.00 |
 | 287 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 996 | 29.52 |
 | 288 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.61 | 412 | 0.00 |
-| 289 | [Metro Exodus](games/m/metro_exodus.md) | 4.80 | 4 122 | 49.48 |
+| 289 | [Metro Exodus](games/m/metro_exodus.md) | 4.79 | 4 148 | 62.16 |
 | 290 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
 | 291 | [Metro: 2033 Redux](games/m/metro__2033_redux.md) | 4.70 | 2 916 | 35.98 |
 | 292 | [Might & Magic Chess Royale](games/m/might_&_magic_chess_royale.md) | 4.51 | 158 | 0.00 |
@@ -381,7 +381,7 @@
 | 379 | [RiMS Racing](games/r/rims_racing.md) | 4.42 | 26 | 0.00 |
 | 380 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 8.57 |
 | 381 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
-| 382 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
+| 382 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 697 | 25.98 |
 | 383 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 022 | 16.12 |
 | 384 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
 | 385 | [Road 96](games/r/road_96.md) | 4.60 | 52 | 0.00 |
@@ -391,7 +391,7 @@
 | 389 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 1 056 | 3.60 |
 | 390 | [Rogue Lords](games/r/rogue_lords.md) | 4.62 | 29 | 0.00 |
 | 391 | [Roguebook](games/r/roguebook.md) | 4.59 | 46 | 0.00 |
-| 392 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 487 | 38.65 |
+| 392 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 495 | 38.98 |
 | 393 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 315 | 7.08 |
 | 394 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.58 | 404 | 6.00 |
 | 395 | [RUINER](games/r/ruiner.md) | 4.62 | 74 | 0.00 |
@@ -462,7 +462,7 @@
 | 460 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 82 | 0.00 |
 | 461 | [Superhot](games/s/superhot_1.md) | 4.63 | 82 | 0.00 |
 | 462 | [Superliminal](games/s/superliminal.md) | 4.78 | 23 | 0.00 |
-| 463 | [Supraland](games/s/supraland.md) | 4.60 | 22 348 | 88.01 |
+| 463 | [Supraland](games/s/supraland.md) | 4.60 | 22 362 | 95.87 |
 | 464 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.73 | 131 | 0.00 |
 | 465 | [Surviving Mars](games/s/surviving_mars.md) | 4.59 | 1 846 | 36.65 |
 | 466 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
@@ -523,7 +523,7 @@
 | 521 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 726 | 23.99 |
 | 522 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 370 | 117.66 |
 | 523 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 49 | 0.00 |
-| 524 | [Tom Clancy's Ghost Recon Breakpoint](games/t/tom_clancy's_ghost_recon_breakpoint.md) | 4.54 | 2 960 | 29.74 |
+| 524 | [Tom Clancy's Ghost Recon Breakpoint](games/t/tom_clancy's_ghost_recon_breakpoint.md) | 4.54 | 2 964 | 31.96 |
 | 525 | [Tom Clancy's Ghost Recon: Wildlands](games/t/tom_clancy's_ghost_recon__wildlands.md) | 4.54 | 528 | 8.00 |
 | 526 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.53 | 151 | 0.00 |
 | 527 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 463 | 45.97 |

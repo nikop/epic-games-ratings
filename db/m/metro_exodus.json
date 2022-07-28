@@ -2,11 +2,11 @@
   "ID": "snapdragon",
   "Name": "Metro Exodus",
   "ProductSlug": null,
-  "Rating": 4.8,
-  "NumberOfRatings": 4122,
-  "DailyRatings": 49.48,
+  "Rating": 4.79,
+  "NumberOfRatings": 4148,
+  "DailyRatings": 62.16,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-07-28T12:00:50.6316293+00:00",
+  "LastChanged": "2022-07-28T18:47:19.701491+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-07-28T12:00:50.6316295+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 4122
+    },
+    {
+      "Time": "2022-07-28T18:47:19.7014913+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 4148
     }
   ],
   "Tags": [
@@ -224,7 +229,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 125
+      "Count": 127
     },
     {
       "Text": "This game is Highly Recommended",
