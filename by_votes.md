@@ -15,10 +15,10 @@
 | 13 | [Sid Meiers Civilization Vl](games/s/sid_meiers_civilization_vl.md) | 4.73 | 34 062 | 488.37 |
 | 14 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 744 | 171.51 |
 | 15 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 003 | 279.22 |
-| 16 | [Ark](games/a/ark.md) | 4.63 | 27 857 | 176.73 |
-| 17 | [Supraland](games/s/supraland.md) | 4.60 | 22 335 | 73.30 |
+| 16 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 187.88 |
+| 17 | [Supraland](games/s/supraland.md) | 4.60 | 22 348 | 88.01 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 231 | 288.63 |
-| 19 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 960 | 160.34 |
+| 19 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
 | 20 | [Among Us](games/a/among_us.md) | 4.59 | 16 426 | 204.97 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 352 | 115.63 |
 | 22 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 554 | 96.21 |
@@ -36,7 +36,7 @@
 | 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 531 | 86.18 |
 | 35 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 202 | 53.45 |
 | 36 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
-| 37 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 190 | 158.96 |
+| 37 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 169.10 |
 | 38 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 790 | 154.91 |
 | 39 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 057 | 92.73 |
 | 40 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 71.98 |
@@ -47,7 +47,7 @@
 | 45 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
 | 46 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 990 | 52.36 |
 | 47 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 7 806 | 161.05 |
-| 48 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 643 | 76.36 |
+| 48 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 648 | 78.28 |
 | 49 | [Paladins](games/p/paladins.md) | 4.35 | 7 607 | 109.81 |
 | 50 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 7 097 | 106.66 |
 | 51 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 002 | 98.18 |
@@ -134,8 +134,8 @@
 | 132 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 32.02 |
 | 133 | [Dokken](games/d/dokken.md) | 4.62 | 1 653 | 1313.47 |
 | 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 653 | 51.27 |
-| 135 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.94 | 1 629 | 20.86 |
-| 136 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 624 | 19.18 |
+| 135 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 630 | 25.85 |
+| 136 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.94 | 1 629 | 20.86 |
 | 137 | [Mudrunner](games/m/mudrunner_1.md) | 4.62 | 1 620 | 28.79 |
 | 138 | [Warface](games/w/warface.md) | 3.93 | 1 592 | 28.63 |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 567 | 36.65 |
@@ -454,13 +454,13 @@
 | 452 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
 | 453 | [Scott Pilgrim vs. The World: The Game](games/s/scott_pilgrim_vs._the_world__the_game.md) | 4.75 | 57 | 0.00 |
 | 454 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.49 | 57 | 0.00 |
-| 455 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.63 | 57 | 0.00 |
-| 456 | [Death Coming](games/d/death_coming.md) | 4.43 | 56 | 0.00 |
-| 457 | [Figment](games/f/figment.md) | 4.52 | 56 | 0.00 |
-| 458 | [Minit](games/m/minit.md) | 4.38 | 56 | 0.00 |
-| 459 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.77 | 56 | 0.00 |
-| 460 | [Might & Magic Heroes 7](games/m/might_&_magic_heroes_7.md) | 4.25 | 55 | 0.00 |
-| 461 | [Starship Troopers - Terran Command](games/s/starship_troopers_-_terran_command.md) | 4.20 | 55 | 0.00 |
+| 455 | [Starship Troopers - Terran Command](games/s/starship_troopers_-_terran_command.md) | 4.21 | 57 | 0.00 |
+| 456 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.63 | 57 | 0.00 |
+| 457 | [Death Coming](games/d/death_coming.md) | 4.43 | 56 | 0.00 |
+| 458 | [Figment](games/f/figment.md) | 4.52 | 56 | 0.00 |
+| 459 | [Minit](games/m/minit.md) | 4.38 | 56 | 0.00 |
+| 460 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.77 | 56 | 0.00 |
+| 461 | [Might & Magic Heroes 7](games/m/might_&_magic_heroes_7.md) | 4.25 | 55 | 0.00 |
 | 462 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.31 | 54 | 0.00 |
 | 463 | [Ashen](games/a/ashen.md) | 4.13 | 53 | 0.00 |
 | 464 | [Partisans 1941](games/p/partisans_1941.md) | 4.66 | 53 | 0.00 |

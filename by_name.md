@@ -28,7 +28,7 @@
 | 26 | [Anno 1800](games/a/anno_1800.md) | 4.83 | 2 406 | 50.39 |
 | 27 | [Anno 2205](games/a/anno_2205.md) | 4.48 | 42 | 6.00 |
 | 28 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.46 | 601 | 4.80 |
-| 29 | [Ark](games/a/ark.md) | 4.63 | 27 857 | 176.73 |
+| 29 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 187.88 |
 | 30 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 263 | 6.00 |
 | 31 | [Art of Rally](games/a/art_of_rally_1.md) | 4.97 | 32 | 0.00 |
 | 32 | [Ashen](games/a/ashen.md) | 4.13 | 53 | 0.00 |
@@ -40,7 +40,7 @@
 | 38 | [Assassin's Creed Rogue](games/a/assassin's_creed_rogue.md) | 4.57 | 84 | 0.00 |
 | 39 | [Assassin's Creed Syndicate](games/a/assassin's_creed_syndicate.md) | 4.51 | 1 512 | 13.50 |
 | 40 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 439 | 16.49 |
-| 41 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 643 | 76.36 |
+| 41 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 648 | 78.28 |
 | 42 | [ATOM RPG](games/a/atom_rpg.md) | 4.25 | 32 | 0.00 |
 | 43 | [Atomicrops](games/a/atomicrops.md) | 4.89 | 99 | 0.00 |
 | 44 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 1 474 | 43.64 |
@@ -61,7 +61,7 @@
 | 59 | [BIOMUTANT](games/b/biomutant.md) | 4.39 | 132 | 0.00 |
 | 60 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 71.98 |
 | 61 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 819 | 122.18 |
-| 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 960 | 160.34 |
+| 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
 | 63 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
 | 64 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
 | 65 | [Blair Witch](games/b/blair_witch.md) | 4.22 | 309 | 2.40 |
@@ -397,7 +397,7 @@
 | 395 | [RUINER](games/r/ruiner.md) | 4.62 | 74 | 0.00 |
 | 396 | [Sable](games/s/sable.md) | 4.48 | 27 | 0.00 |
 | 397 | [Saint's Row The Third Remastered](games/s/saint's_row_the_third_remastered.md) | 4.43 | 2 892 | 50.18 |
-| 398 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 624 | 19.18 |
+| 398 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 630 | 25.85 |
 | 399 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 819 | 30.33 |
 | 400 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 46 | 0.00 |
 | 401 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 231 | 288.63 |
@@ -444,7 +444,7 @@
 | 442 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 50 | 0.00 |
 | 443 | [Star Stable Online](games/s/star_stable_online.md) | 4.29 | 139 | 4.00 |
 | 444 | [Star Trek Online](games/s/star_trek_online.md) | 4.55 | 379 | 4.00 |
-| 445 | [Starship Troopers - Terran Command](games/s/starship_troopers_-_terran_command.md) | 4.20 | 55 | 0.00 |
+| 445 | [Starship Troopers - Terran Command](games/s/starship_troopers_-_terran_command.md) | 4.21 | 57 | 0.00 |
 | 446 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 731 | 9.00 |
 | 447 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
 | 448 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 33 | 0.00 |
@@ -462,7 +462,7 @@
 | 460 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 78 | 0.00 |
 | 461 | [Superhot](games/s/superhot_1.md) | 4.63 | 82 | 0.00 |
 | 462 | [Superliminal](games/s/superliminal.md) | 4.78 | 23 | 0.00 |
-| 463 | [Supraland](games/s/supraland.md) | 4.60 | 22 335 | 73.30 |
+| 463 | [Supraland](games/s/supraland.md) | 4.60 | 22 348 | 88.01 |
 | 464 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.73 | 131 | 0.00 |
 | 465 | [Surviving Mars](games/s/surviving_mars.md) | 4.59 | 1 846 | 36.65 |
 | 466 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
@@ -590,7 +590,7 @@
 | 588 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.46 | 2 146 | 73.20 |
 | 589 | [World of Goo](games/w/world_of_goo.md) | 4.55 | 20 | 0.00 |
 | 590 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 2 762 | 30.33 |
-| 591 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 190 | 158.96 |
+| 591 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 169.10 |
 | 592 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 147 | 7.20 |
 | 593 | [WRC 8](games/w/wrc_8.md) | 4.61 | 130 | 0.00 |
 | 594 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 116 | 0.00 |
