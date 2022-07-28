@@ -10,7 +10,7 @@
 | 8 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 6 160 | 946.52 |
 | 9 | [Shop Titans](games/s/shop_titans.md) | 3.86 | 5 872 | 884.14 |
 | 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 60 826 | 863.74 |
-| 11 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 117 917 | 762.54 |
+| 11 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 019 | 821.72 |
 | 12 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
 | 13 | [Sid Meiers Civilization Vl](games/s/sid_meiers_civilization_vl.md) | 4.73 | 34 062 | 488.37 |
 | 14 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 683 | 449.44 |
@@ -75,10 +75,10 @@
 | 73 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.59 | 5 965 | 63.79 |
 | 74 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 63.27 |
 | 75 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 2 784 | 62.76 |
-| 76 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 641 | 61.85 |
-| 77 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 625 | 60.65 |
-| 78 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 3 335 | 59.61 |
-| 79 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 373 | 59.61 |
+| 76 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 377 | 62.58 |
+| 77 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 641 | 61.85 |
+| 78 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 625 | 60.65 |
+| 79 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 3 335 | 59.61 |
 | 80 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
 | 81 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 57.62 |
 | 82 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |

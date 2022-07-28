@@ -5,7 +5,7 @@
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
-| 6 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 117 917 | 762.54 |
+| 6 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 019 | 821.72 |
 | 7 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
 | 8 | [VALORANT](games/v/valorant.md) | 4.56 | 83 387 | 1274.79 |
 | 9 | [Maneater](games/m/maneater.md) | 4.49 | 74 855 | 181.24 |
@@ -87,7 +87,7 @@
 | 85 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 409 | 69.82 |
 | 86 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 48.10 |
 | 87 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 388 | 53.33 |
-| 88 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 373 | 59.61 |
+| 88 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 377 | 62.58 |
 | 89 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 3 335 | 59.61 |
 | 90 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
 | 91 | [God of War](games/g/god_of_war.md) | 4.89 | 3 157 | 31.64 |

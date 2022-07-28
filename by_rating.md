@@ -139,7 +139,7 @@
 | 137 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 49 | 0.00 |
 | 138 | [Unrailed!](games/u/unrailed!.md) | 4.71 | 21 | 0.00 |
 | 139 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 783 | 24.05 |
-| 140 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 117 917 | 762.54 |
+| 140 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 019 | 821.72 |
 | 141 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 57.62 |
 | 143 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 53.77 |
@@ -170,7 +170,7 @@
 | 168 | [Death's Door](games/d/death's_door.md) | 4.68 | 75 | 0.00 |
 | 169 | [Far Cry 4](games/f/far_cry_4.md) | 4.68 | 361 | 3.14 |
 | 170 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 1 890 | 23.99 |
-| 171 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 373 | 59.61 |
+| 171 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 377 | 62.58 |
 | 172 | [Overcooked](games/o/overcooked.md) | 4.68 | 300 | 16.30 |
 | 173 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.68 | 117 | 0.00 |
 | 174 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 253 | 2.09 |
