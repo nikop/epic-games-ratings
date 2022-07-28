@@ -2,11 +2,11 @@
   "ID": "a8400ce7530e4479b32dcaf0e92fce57",
   "Name": "Shadowrun Returns",
   "ProductSlug": "shadowrun-returns/home",
-  "Rating": 4.39,
-  "NumberOfRatings": 151,
-  "DailyRatings": 0,
+  "Rating": 4.4,
+  "NumberOfRatings": 155,
+  "DailyRatings": 4.16,
   "FirstSeen": "2022-07-22T20:28:49.5317648+00:00",
-  "LastChanged": "2022-07-27T18:02:04.4410853+00:00",
+  "LastChanged": "2022-07-28T17:05:34.3103783+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:49.531765+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-27T18:02:04.4410858+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 151
+    },
+    {
+      "Time": "2022-07-28T17:05:34.3103785+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 155
     }
   ],
   "Tags": []

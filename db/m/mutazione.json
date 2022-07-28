@@ -2,11 +2,11 @@
   "ID": "5645a537b6a44f6f82d122729f3253ed",
   "Name": "Mutazione",
   "ProductSlug": "mutazione/home",
-  "Rating": 4.72,
-  "NumberOfRatings": 39,
+  "Rating": 4.73,
+  "NumberOfRatings": 41,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:44.0004019+00:00",
-  "LastChanged": "2022-07-26T14:03:36.8696979+00:00",
+  "LastChanged": "2022-07-28T17:05:20.7665719+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:44.0004039+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T14:03:36.8696981+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-07-28T17:05:20.7665724+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 41
     }
   ],
   "Tags": []

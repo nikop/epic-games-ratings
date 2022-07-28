@@ -170,7 +170,7 @@
 | 168 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.59 | 22 | 0.00 |
 | 169 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 3.89 | 37 | 0.00 |
 | 170 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 790 | 154.91 |
-| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 4 997 | 39.59 |
+| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 5 010 | 47.88 |
 | 172 | [Faster Than Light](games/f/faster_than_light.md) | 4.78 | 633 | 19.47 |
 | 173 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 4.00 | 195 | 17.78 |
 | 174 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 24 | 0.00 |
@@ -226,7 +226,7 @@
 | 224 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 288 | 97.09 |
 | 225 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 234 | 4.80 |
 | 226 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
-| 227 | [House Party](games/h/house_party.md) | 4.46 | 96 | 0.00 |
+| 227 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
 | 228 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
 | 229 | [Humankind](games/h/humankind.md) | 4.48 | 334 | 4.00 |
 | 230 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.73 | 186 | 0.00 |
@@ -289,7 +289,7 @@
 | 287 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 991 | 25.20 |
 | 288 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.61 | 412 | 0.00 |
 | 289 | [Metro Exodus](games/m/metro_exodus.md) | 4.80 | 4 122 | 49.33 |
-| 290 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 302 | 65.96 |
+| 290 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
 | 291 | [Metro: 2033 Redux](games/m/metro__2033_redux.md) | 4.70 | 2 916 | 35.98 |
 | 292 | [Might & Magic Chess Royale](games/m/might_&_magic_chess_royale.md) | 4.51 | 158 | 0.00 |
 | 293 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.76 | 75 | 0.00 |
@@ -304,7 +304,7 @@
 | 302 | [Moving Out](games/m/moving_out.md) | 4.56 | 280 | 0.00 |
 | 303 | [Mudrunner](games/m/mudrunner_1.md) | 4.62 | 1 620 | 28.79 |
 | 304 | [Mutant Year Zero](games/m/mutant_year_zero.md) | 4.50 | 1 071 | 0.00 |
-| 305 | [Mutazione](games/m/mutazione.md) | 4.72 | 39 | 0.00 |
+| 305 | [Mutazione](games/m/mutazione.md) | 4.73 | 41 | 0.00 |
 | 306 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.43 | 23 | 0.00 |
 | 307 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 2 368 | 37.65 |
 | 308 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 721 | 4.00 |
@@ -409,7 +409,7 @@
 | 407 | [Shadow Tactics](games/s/shadow_tactics.md) | 4.81 | 245 | 8.03 |
 | 408 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 34 | 0.00 |
 | 409 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.57 | 127 | 1.05 |
-| 410 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.39 | 151 | 0.00 |
+| 410 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.40 | 155 | 4.16 |
 | 411 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 0.00 |
 | 412 | [Sheltered](games/s/sheltered.md) | 4.43 | 442 | 6.00 |
 | 413 | [Shenmue 3](games/s/shenmue_3.md) | 4.05 | 97 | 0.00 |
@@ -572,7 +572,7 @@
 | 570 | [Warhammer 40,000: Battlesector](games/w/warhammer_40,000__battlesector.md) | 4.59 | 27 | 0.00 |
 | 571 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 308 | 0.00 |
 | 572 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 30 | 0.00 |
-| 573 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 000 | 19.20 |
+| 573 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 010 | 20.51 |
 | 574 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 388 | 53.33 |
 | 575 | [Watch Dogs: Legion](games/w/watch_dogs__legion.md) | 4.39 | 778 | 31.20 |
 | 576 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.70 | 84 | 0.00 |

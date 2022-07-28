@@ -65,7 +65,7 @@
 | 63 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 420 | 55.43 |
 | 64 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 293 | 94.77 |
 | 65 | [Sifu](games/s/sifu.md) | 4.81 | 5 267 | 98.18 |
-| 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 4 997 | 39.59 |
+| 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 5 010 | 47.88 |
 | 67 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 930 | 54.54 |
 | 68 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 900 | 52.29 |
 | 69 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
@@ -89,7 +89,7 @@
 | 87 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 388 | 53.33 |
 | 88 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 373 | 59.61 |
 | 89 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 3 335 | 59.61 |
-| 90 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 302 | 65.96 |
+| 90 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
 | 91 | [God of War](games/g/god_of_war.md) | 4.89 | 3 157 | 31.64 |
 | 92 | [Darkest Dungeon](games/d/darkest_dungeon.md) | 4.75 | 3 023 | 43.64 |
 | 93 | [For The King](games/f/for_the_king.md) | 4.70 | 3 006 | 45.33 |
@@ -173,7 +173,7 @@
 | 171 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
 | 172 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 015 | 15.27 |
 | 173 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
-| 174 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 000 | 19.20 |
+| 174 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 010 | 20.51 |
 | 175 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 999 | 21.96 |
 | 176 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 987 | 12.00 |
 | 177 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 957 | 41.45 |
@@ -338,13 +338,13 @@
 | 336 | [Might & Magic Chess Royale](games/m/might_&_magic_chess_royale.md) | 4.51 | 158 | 0.00 |
 | 337 | [Paradigm](games/p/paradigm.md) | 4.49 | 158 | 0.00 |
 | 338 | [Cave Story+](games/c/cave_story+.md) | 4.81 | 155 | 0.00 |
-| 339 | [SOMA](games/s/soma.md) | 4.70 | 155 | 0.00 |
-| 340 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
-| 341 | [Assassin's Creed II](games/a/assassin's_creed_ii.md) | 4.61 | 152 | 0.00 |
-| 342 | [Carcassonne](games/c/carcassonne.md) | 4.72 | 152 | 1.33 |
-| 343 | [Lifeless Planet](games/l/lifeless_planet.md) | 3.99 | 152 | 0.00 |
-| 344 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 152 | 0.00 |
-| 345 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.39 | 151 | 0.00 |
+| 339 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.40 | 155 | 4.16 |
+| 340 | [SOMA](games/s/soma.md) | 4.70 | 155 | 0.00 |
+| 341 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
+| 342 | [Assassin's Creed II](games/a/assassin's_creed_ii.md) | 4.61 | 152 | 0.00 |
+| 343 | [Carcassonne](games/c/carcassonne.md) | 4.72 | 152 | 1.33 |
+| 344 | [Lifeless Planet](games/l/lifeless_planet.md) | 3.99 | 152 | 0.00 |
+| 345 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 152 | 0.00 |
 | 346 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.53 | 151 | 0.00 |
 | 347 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 149 | 0.00 |
 | 348 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 147 | 7.20 |
@@ -386,9 +386,9 @@
 | 384 | [Atomicrops](games/a/atomicrops.md) | 4.89 | 99 | 0.00 |
 | 385 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 99 | 0.00 |
 | 386 | [Blasphemous](games/b/blasphemous.md) | 4.88 | 98 | 0.00 |
-| 387 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 98 | 0.00 |
-| 388 | [Shenmue 3](games/s/shenmue_3.md) | 4.05 | 97 | 0.00 |
-| 389 | [House Party](games/h/house_party.md) | 4.46 | 96 | 0.00 |
+| 387 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
+| 388 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 98 | 0.00 |
+| 389 | [Shenmue 3](games/s/shenmue_3.md) | 4.05 | 97 | 0.00 |
 | 390 | [Griftlands](games/g/griftlands.md) | 4.81 | 95 | 0.00 |
 | 391 | [AER](games/a/aer.md) | 4.44 | 94 | 0.00 |
 | 392 | [A Short Hike](games/a/a_short_hike.md) | 4.80 | 92 | 0.00 |
@@ -489,8 +489,8 @@
 | 487 | [Hello Neighbor Hide and Seek](games/h/hello_neighbor_hide_and_seek.md) | 4.33 | 42 | 0.00 |
 | 488 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 42 | 0.00 |
 | 489 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 42 | 0.00 |
-| 490 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.72 | 39 | 0.00 |
-| 491 | [Mutazione](games/m/mutazione.md) | 4.72 | 39 | 0.00 |
+| 490 | [Mutazione](games/m/mutazione.md) | 4.73 | 41 | 0.00 |
+| 491 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.72 | 39 | 0.00 |
 | 492 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.67 | 39 | 0.00 |
 | 493 | [The Surge](games/t/the_surge.md) | 4.51 | 39 | 0.00 |
 | 494 | [Werewolf: The Apocalypse - Earthblood](games/w/werewolf__the_apocalypse_-_earthblood.md) | 4.15 | 39 | 0.00 |
