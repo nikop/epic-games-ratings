@@ -13,7 +13,7 @@
 | 11 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 336 | 265.12 |
 | 12 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 683 | 449.44 |
 | 13 | [Sid Meiers Civilization Vl](games/s/sid_meiers_civilization_vl.md) | 4.73 | 34 062 | 488.37 |
-| 14 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 744 | 171.51 |
+| 14 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 756 | 176.42 |
 | 15 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 003 | 279.22 |
 | 16 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 187.88 |
 | 17 | [Supraland](games/s/supraland.md) | 4.60 | 22 348 | 88.01 |
@@ -38,7 +38,7 @@
 | 36 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
 | 37 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 169.10 |
 | 38 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 167.21 |
-| 39 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 057 | 92.73 |
+| 39 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 090 | 118.28 |
 | 40 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 71.98 |
 | 41 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 641 | 61.85 |
 | 42 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 8 637 | 112.94 |
@@ -93,7 +93,7 @@
 | 91 | [God of War](games/g/god_of_war.md) | 4.89 | 3 157 | 31.64 |
 | 92 | [Darkest Dungeon](games/d/darkest_dungeon.md) | 4.75 | 3 030 | 47.34 |
 | 93 | [For The King](games/f/for_the_king.md) | 4.70 | 3 006 | 45.33 |
-| 94 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 991 | 25.20 |
+| 94 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 996 | 29.52 |
 | 95 | [Tom Clancy's Ghost Recon Breakpoint](games/t/tom_clancy's_ghost_recon_breakpoint.md) | 4.54 | 2 960 | 26.14 |
 | 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 2 950 | 67.97 |
 | 97 | [Metro: 2033 Redux](games/m/metro__2033_redux.md) | 4.70 | 2 916 | 35.98 |
@@ -128,7 +128,7 @@
 | 126 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.47 | 1 816 | 34.12 |
 | 127 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 799 | 38.66 |
 | 128 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 24.18 |
-| 129 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 783 | 24.05 |
+| 129 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
 | 130 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 27.59 |
 | 131 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 672 | 13.09 |
 | 132 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 32.02 |
@@ -147,7 +147,7 @@
 | 145 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 476 | 27.98 |
 | 146 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 1 474 | 43.64 |
 | 147 | [Celeste](games/c/celeste.md) | 4.91 | 1 432 | 21.95 |
-| 148 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.64 | 1 417 | 26.39 |
+| 148 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 423 | 30.62 |
 | 149 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 341 | 17.33 |
 | 150 | [Verdun](games/v/verdun.md) | 4.51 | 1 231 | 20.39 |
 | 151 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
@@ -411,11 +411,11 @@
 | 409 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.71 | 79 | 4.00 |
 | 410 | [Monopoly Plus](games/m/monopoly_plus.md) | 3.87 | 78 | 3.43 |
 | 411 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 78 | 0.00 |
-| 412 | [Assassin's Creed I: Director's Cut](games/a/assassin's_creed_i__director's_cut.md) | 4.44 | 75 | 0.00 |
-| 413 | [Death's Door](games/d/death's_door.md) | 4.68 | 75 | 0.00 |
-| 414 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.76 | 75 | 0.00 |
-| 415 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 75 | 0.00 |
-| 416 | [Transistor](games/t/transistor.md) | 4.65 | 75 | 0.00 |
+| 412 | [Transistor](games/t/transistor.md) | 4.64 | 77 | 2.00 |
+| 413 | [Assassin's Creed I: Director's Cut](games/a/assassin's_creed_i__director's_cut.md) | 4.44 | 75 | 0.00 |
+| 414 | [Death's Door](games/d/death's_door.md) | 4.68 | 75 | 0.00 |
+| 415 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.76 | 75 | 0.00 |
+| 416 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 75 | 0.00 |
 | 417 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 74 | 0.00 |
 | 418 | [Industries of Titan](games/i/industries_of_titan.md) | 4.57 | 74 | 0.00 |
 | 419 | [RUINER](games/r/ruiner.md) | 4.62 | 74 | 0.00 |

@@ -2,11 +2,11 @@
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
   "ProductSlug": null,
-  "Rating": 4.64,
-  "NumberOfRatings": 1417,
-  "DailyRatings": 26.39,
+  "Rating": 4.65,
+  "NumberOfRatings": 1423,
+  "DailyRatings": 30.62,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-07-28T16:01:44.5010426+00:00",
+  "LastChanged": "2022-07-28T17:58:15.4418317+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-07-28T16:01:44.5010428+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 1417
+    },
+    {
+      "Time": "2022-07-28T17:58:15.4418319+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 1423
     }
   ],
   "Tags": [
@@ -201,7 +206,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Amazing Storytelling",

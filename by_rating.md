@@ -138,7 +138,7 @@
 | 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
 | 137 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 49 | 0.00 |
 | 138 | [Unrailed!](games/u/unrailed!.md) | 4.71 | 21 | 0.00 |
-| 139 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 783 | 24.05 |
+| 139 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
 | 140 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 118 019 | 821.72 |
 | 141 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 57.62 |
@@ -213,7 +213,7 @@
 | 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
 | 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 315 | 7.08 |
 | 213 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
-| 214 | [Transistor](games/t/transistor.md) | 4.65 | 75 | 0.00 |
+| 214 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 423 | 30.62 |
 | 215 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.64 | 233 | 0.00 |
 | 216 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
 | 217 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.64 | 85 | 0.00 |
@@ -222,7 +222,7 @@
 | 220 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 422 | 243.53 |
 | 221 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 149 | 0.00 |
 | 222 | [The Alto Collection](games/t/the_alto_collection.md) | 4.64 | 167 | 6.91 |
-| 223 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.64 | 1 417 | 26.39 |
+| 223 | [Transistor](games/t/transistor.md) | 4.64 | 77 | 2.00 |
 | 224 | [20XX](games/2/20xx.md) | 4.63 | 229 | 0.00 |
 | 225 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.63 | 159 | 0.00 |
 | 226 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 187.88 |
@@ -251,7 +251,7 @@
 | 249 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 427 | 6.00 |
 | 250 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 1 097 | 13.50 |
 | 251 | [Mafia: Definitive Edition](games/m/mafia__definitive_edition.md) | 4.61 | 1 072 | 19.20 |
-| 252 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 991 | 25.20 |
+| 252 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 996 | 29.52 |
 | 253 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.61 | 412 | 0.00 |
 | 254 | [MythForce](games/m/mythforce.md) | 4.61 | 166 | 0.00 |
 | 255 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
@@ -392,7 +392,7 @@
 | 390 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.49 | 57 | 0.00 |
 | 391 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.32 |
 | 392 | [Anno 2205](games/a/anno_2205.md) | 4.48 | 42 | 6.00 |
-| 393 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 744 | 171.51 |
+| 393 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 756 | 176.42 |
 | 394 | [Crying Suns](games/c/crying_suns.md) | 4.48 | 529 | 0.00 |
 | 395 | [Humankind](games/h/humankind.md) | 4.48 | 334 | 4.00 |
 | 396 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.48 | 187 | 3.14 |
@@ -418,7 +418,7 @@
 | 416 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
 | 417 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 692 | 8.59 |
 | 418 | [Far Cry New Dawn](games/f/far_cry_new_dawn.md) | 4.45 | 182 | 0.00 |
-| 419 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 057 | 92.73 |
+| 419 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 090 | 118.28 |
 | 420 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 6.67 |
 | 421 | [The Escapists](games/t/the_escapists.md) | 4.45 | 297 | 0.00 |
 | 422 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.45 | 1 539 | 30.55 |

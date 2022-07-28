@@ -2,11 +2,11 @@
   "ID": "bc81d1e7d1794d3a94e4dbf26e92166d",
   "Name": "Transistor",
   "ProductSlug": "transistor/home",
-  "Rating": 4.65,
-  "NumberOfRatings": 75,
-  "DailyRatings": 0,
+  "Rating": 4.64,
+  "NumberOfRatings": 77,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:25:51.9037164+00:00",
-  "LastChanged": "2022-07-27T18:01:43.9533279+00:00",
+  "LastChanged": "2022-07-28T17:58:16.2323071+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:51.9037167+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-27T18:01:43.953328+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 75
+    },
+    {
+      "Time": "2022-07-28T17:58:16.2323076+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 77
     }
   ],
   "Tags": []
