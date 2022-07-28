@@ -2,11 +2,11 @@
   "ID": "cbbb7e8728a3476f97e44f3856c3cb13",
   "Name": "Anno 2205",
   "ProductSlug": null,
-  "Rating": 4.51,
-  "NumberOfRatings": 41,
-  "DailyRatings": 0,
+  "Rating": 4.48,
+  "NumberOfRatings": 42,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:21:07.0175172+00:00",
-  "LastChanged": "2022-07-27T22:01:06.1045275+00:00",
+  "LastChanged": "2022-07-28T02:00:58.9267197+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:07.0175175+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-27T22:01:06.1045279+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-07-28T02:00:58.9267198+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 42
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "8aa6e526d2864c108f219747ad7011e5",
   "Name": "Horace",
   "ProductSlug": "horace/home",
-  "Rating": 4.6,
-  "NumberOfRatings": 25,
+  "Rating": 4.62,
+  "NumberOfRatings": 26,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:16:46.8760783+00:00",
-  "LastChanged": "2022-07-26T02:00:11.2293359+00:00",
+  "LastChanged": "2022-07-28T02:00:10.8671971+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.8760786+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T02:00:11.2293362+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-07-28T02:00:10.8671973+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 26
     }
   ],
   "Tags": []

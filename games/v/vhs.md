@@ -1,6 +1,6 @@
 # VHS
-Rating: 4.19 (188)  
-Ratings Per Day: 10.29  
+Rating: 4.20 (189)  
+Ratings Per Day: 8.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 10.29
 | 2022-07-25 | 4.19 | 156 |
 | 2022-07-26 | 4.22 | 179 |
 | 2022-07-27 | 4.19 | 188 |
+| 2022-07-28 | 4.20 | 189 |
