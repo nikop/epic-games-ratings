@@ -90,7 +90,7 @@
 | 88 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.08 | 79 | 0.00 |
 | 89 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 13.76 |
 | 90 | [Conarium](games/c/conarium.md) | 4.13 | 24 | 0.00 |
-| 91 | [Control](games/c/control.md) | 4.60 | 8 590 | 138.13 |
+| 91 | [Control](games/c/control.md) | 4.60 | 8 614 | 155.55 |
 | 92 | [Core](games/c/core.md) | 4.39 | 911 | 13.74 |
 | 93 | [Coromon](games/c/coromon.md) | 4.61 | 61 | 0.00 |
 | 94 | [Costume Quest](games/c/costume_quest.md) | 4.73 | 26 | 0.00 |
@@ -170,7 +170,7 @@
 | 168 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.59 | 22 | 0.00 |
 | 169 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 3.89 | 37 | 0.00 |
 | 170 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 148.89 |
-| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 5 018 | 56.37 |
+| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 5 022 | 59.51 |
 | 172 | [Faster Than Light](games/f/faster_than_light.md) | 4.78 | 633 | 19.47 |
 | 173 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 4.00 | 197 | 18.42 |
 | 174 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 24 | 0.00 |
@@ -188,7 +188,7 @@
 | 186 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
 | 187 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 13.74 |
 | 188 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
-| 189 | [Geneforge 1: Mutagen](games/g/geneforge_1__mutagen.md) | 4.21 | 894 | 3.99 |
+| 189 | [Geneforge 1: Mutagen](games/g/geneforge_1__mutagen.md) | 4.21 | 901 | 12.80 |
 | 190 | [Genesis Alpha One](games/g/genesis_alpha_one.md) | 4.39 | 23 | 0.00 |
 | 191 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 192 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 220 | 0.00 |
@@ -197,7 +197,7 @@
 | 195 | [God of War](games/g/god_of_war.md) | 4.89 | 3 166 | 42.50 |
 | 196 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 59 | 0.00 |
 | 197 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |
-| 198 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 125 | 0.00 |
+| 198 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 128 | 24.14 |
 | 199 | [Going Medieval](games/g/going_medieval.md) | 4.63 | 476 | 4.00 |
 | 200 | [Gone Home](games/g/gone_home.md) | 4.07 | 30 | 0.00 |
 | 201 | [Good Company](games/g/good_company.md) | 4.41 | 58 | 2.40 |
@@ -246,7 +246,7 @@
 | 244 | [Journey](games/j/journey.md) | 4.76 | 34 | 0.00 |
 | 245 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.77 | 52 | 0.00 |
 | 246 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 949 | 97.20 |
-| 247 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 2 723 | 25.32 |
+| 247 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 2 736 | 33.41 |
 | 248 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 2 950 | 65.86 |
 | 249 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 1 480 | 25.19 |
 | 250 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
@@ -266,7 +266,7 @@
 | 264 | [Kingdoms Of Amalur Re-Reckoning](games/k/kingdoms_of_amalur_re-reckoning_1.md) | 4.54 | 72 | 0.00 |
 | 265 | [Layers of Fear](games/l/layers_of_fear.md) | 4.43 | 72 | 0.00 |
 | 266 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 120 | 0.00 |
-| 267 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 6 060 | 82.46 |
+| 267 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 6 064 | 79.29 |
 | 268 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.35 | 23 | 0.00 |
 | 269 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
 | 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.69 | 253 | 0.00 |
@@ -494,7 +494,7 @@
 | 492 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 30 | 0.00 |
 | 493 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 497 | 44.75 |
 | 494 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
-| 495 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 423 | 30.62 |
+| 495 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 426 | 32.36 |
 | 496 | [The Pathless](games/t/the_pathless.md) | 4.72 | 36 | 0.00 |
 | 497 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 159 | 5.07 |
 | 498 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 122 | 0.00 |
@@ -592,7 +592,7 @@
 | 590 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 2 762 | 26.60 |
 | 591 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 170.58 |
 | 592 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 147 | 7.20 |
-| 593 | [WRC 8](games/w/wrc_8.md) | 4.61 | 130 | 0.00 |
+| 593 | [WRC 8](games/w/wrc_8.md) | 4.60 | 131 | 0.00 |
 | 594 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 116 | 0.00 |
 | 595 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 72.38 |
 | 596 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 172 | 0.00 |

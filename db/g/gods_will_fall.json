@@ -3,10 +3,10 @@
   "Name": "Gods Will Fall",
   "ProductSlug": null,
   "Rating": 3.88,
-  "NumberOfRatings": 125,
-  "DailyRatings": 0,
+  "NumberOfRatings": 128,
+  "DailyRatings": 24.14,
   "FirstSeen": "2022-07-22T20:20:39.1659104+00:00",
-  "LastChanged": "2022-07-28T16:01:05.1692955+00:00",
+  "LastChanged": "2022-07-28T19:00:03.4590095+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:39.1659106+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-28T16:01:05.1692957+00:00",
       "Rating": 3.88,
       "NumberOfRatings": 125
+    },
+    {
+      "Time": "2022-07-28T19:00:03.4590098+00:00",
+      "Rating": 3.88,
+      "NumberOfRatings": 128
     }
   ],
   "Tags": []

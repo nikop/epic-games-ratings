@@ -2,11 +2,11 @@
   "ID": "f6dcd5bf17c0469789292d1166bf91a1",
   "Name": "WRC 8",
   "ProductSlug": null,
-  "Rating": 4.61,
-  "NumberOfRatings": 130,
+  "Rating": 4.6,
+  "NumberOfRatings": 131,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2022-07-27T10:00:48.3076583+00:00",
+  "LastChanged": "2022-07-28T18:59:47.1419079+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:20.3142892+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-27T10:00:48.3076584+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 130
+    },
+    {
+      "Time": "2022-07-28T18:59:47.141908+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 131
     }
   ],
   "Tags": []
