@@ -45,7 +45,7 @@
 | 43 | [Control](games/c/control.md) | 4.60 | 8 590 | 138.13 |
 | 44 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.61 | 8 299 | 130.66 |
 | 45 | [Prey](games/p/prey.md) | 4.61 | 8 206 | 136.31 |
-| 46 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 55.68 |
+| 46 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 8 002 | 59.78 |
 | 47 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 7 806 | 143.05 |
 | 48 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 648 | 69.72 |
 | 49 | [Paladins](games/p/paladins.md) | 4.35 | 7 611 | 105.86 |

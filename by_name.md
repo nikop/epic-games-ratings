@@ -153,7 +153,7 @@
 | 151 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 74.44 |
 | 152 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 495 | 81.90 |
 | 153 | [EVE Online](games/e/eve_online.md) | 4.33 | 853 | 1.50 |
-| 154 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 55.68 |
+| 154 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 8 002 | 59.78 |
 | 155 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.72 | 39 | 0.00 |
 | 156 | [F.I.S.T. Forged In Shadow Torch](games/f/f.i.s.t._forged_in_shadow_torch.md) | 4.60 | 348 | 2.40 |
 | 157 | [Faeria](games/f/faeria.md) | 4.49 | 118 | 0.00 |
