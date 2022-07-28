@@ -3,10 +3,10 @@
   "Name": "Moving Out",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 280,
-  "DailyRatings": 0,
+  "NumberOfRatings": 281,
+  "DailyRatings": 1.23,
   "FirstSeen": "2022-07-22T20:18:42.4467794+00:00",
-  "LastChanged": "2022-07-28T02:00:36.1538453+00:00",
+  "LastChanged": "2022-07-28T21:30:27.5586556+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:42.4467799+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-28T02:00:36.1538454+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 280
+    },
+    {
+      "Time": "2022-07-28T21:30:27.5586557+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 281
     }
   ],
   "Tags": []
