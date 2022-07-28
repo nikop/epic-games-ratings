@@ -110,7 +110,7 @@
 | 108 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
 | 109 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.74 | 70 | 0.00 |
 | 110 | [Costume Quest](games/c/costume_quest.md) | 4.73 | 26 | 0.00 |
-| 111 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 483 | 77.39 |
+| 111 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 490 | 83.75 |
 | 112 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 889 | 113.45 |
 | 113 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.73 | 186 | 0.00 |
 | 114 | [Inside](games/i/inside.md) | 4.73 | 831 | 0.00 |
@@ -142,7 +142,7 @@
 | 140 | [Borderlands 3](games/b/borderlands_3.md) | 4.70 | 117 917 | 762.54 |
 | 141 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.70 | 20 | 0.00 |
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 930 | 54.54 |
-| 143 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 585 | 49.09 |
+| 143 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 53.77 |
 | 144 | [For The King](games/f/for_the_king.md) | 4.70 | 3 006 | 45.33 |
 | 145 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 146 | [Metro: 2033 Redux](games/m/metro__2033_redux.md) | 4.70 | 2 916 | 35.98 |
@@ -401,7 +401,7 @@
 | 399 | [Totally Reliable Delivery Service](games/t/totally_reliable_delivery_service.md) | 4.48 | 64 | 0.00 |
 | 400 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 513 | 0.00 |
 | 401 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 783 | 24.00 |
-| 402 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.47 | 1 809 | 28.36 |
+| 402 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.47 | 1 816 | 34.12 |
 | 403 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.47 | 62 | 0.00 |
 | 404 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
 | 405 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
