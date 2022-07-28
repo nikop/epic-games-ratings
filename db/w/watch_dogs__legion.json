@@ -2,11 +2,11 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion",
   "ProductSlug": null,
-  "Rating": 4.39,
-  "NumberOfRatings": 778,
-  "DailyRatings": 31.2,
+  "Rating": 4.38,
+  "NumberOfRatings": 784,
+  "DailyRatings": 20.57,
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2022-07-28T06:00:24.102232+00:00",
+  "LastChanged": "2022-07-28T18:10:15.7828499+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-07-28T06:00:24.1022321+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 778
+    },
+    {
+      "Time": "2022-07-28T18:10:15.7828501+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 784
     }
   ],
   "Tags": [

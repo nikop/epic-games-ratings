@@ -42,13 +42,13 @@
 | 40 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.84 | 781 | 19.50 |
 | 41 | [Anno 1800](games/a/anno_1800.md) | 4.83 | 2 406 | 50.39 |
 | 42 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 88 | 0.00 |
-| 43 | [The Messenger](games/t/the_messenger.md) | 4.83 | 293 | 0.00 |
-| 44 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 42 | 0.00 |
-| 45 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 718 | 20.62 |
-| 46 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 965 | 47.35 |
-| 47 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.97 |
-| 48 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 880 | 38.94 |
-| 49 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 65 | 0.00 |
+| 43 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 42 | 0.00 |
+| 44 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 718 | 20.62 |
+| 45 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 965 | 47.35 |
+| 46 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.97 |
+| 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 880 | 38.94 |
+| 48 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 65 | 0.00 |
+| 49 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
 | 50 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 78.92 |
 | 51 | [Cave Story+](games/c/cave_story+.md) | 4.81 | 155 | 0.00 |
 | 52 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.81 | 4 300 | 45.81 |
@@ -127,7 +127,7 @@
 | 125 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 148.89 |
 | 126 | [Moonlighter](games/m/moonlighter.md) | 4.72 | 564 | 9.00 |
 | 127 | [Sludge Life](games/s/sludge_life.md) | 4.72 | 90 | 0.00 |
-| 128 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 731 | 8.00 |
+| 128 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 733 | 7.14 |
 | 129 | [The Pathless](games/t/the_pathless.md) | 4.72 | 36 | 0.00 |
 | 130 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 159 | 5.07 |
 | 131 | [Barony](games/b/barony.md) | 4.71 | 377 | 8.02 |
@@ -159,7 +159,7 @@
 | 157 | [Batman Arkham Asylum](games/b/batman_arkham_asylum.md) | 4.69 | 1 064 | 19.99 |
 | 158 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 830 | 140.42 |
 | 159 | [Fez](games/f/fez.md) | 4.69 | 59 | 0.00 |
-| 160 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
+| 160 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 329 005 | 7524.56 |
 | 161 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 101 | 0.00 |
 | 162 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.69 | 253 | 0.00 |
 | 163 | [Neon Abyss](games/n/neon_abyss.md) | 4.69 | 4 766 | 64.14 |
@@ -197,7 +197,7 @@
 | 195 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 246 | 6.00 |
 | 196 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 2 368 | 28.63 |
 | 197 | [Partisans 1941](games/p/partisans_1941.md) | 4.66 | 53 | 0.00 |
-| 198 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 672 | 13.20 |
+| 198 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
 | 199 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 71 | 0.00 |
 | 200 | [Sunless Sea](games/s/sunless_sea.md) | 4.66 | 188 | 2.67 |
 | 201 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
@@ -207,7 +207,7 @@
 | 205 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 98.18 |
 | 206 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 0.00 |
 | 207 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
-| 208 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 409 | 71.98 |
+| 208 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 417 | 73.60 |
 | 209 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
 | 210 | [Old World](games/o/old_world.md) | 4.65 | 865 | 4.00 |
 | 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
@@ -302,7 +302,7 @@
 | 300 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 278 | 0.00 |
 | 301 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.58 | 404 | 6.00 |
 | 302 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 1 047 | 21.53 |
-| 303 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 368 | 118.60 |
+| 303 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 370 | 117.66 |
 | 304 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 1 194 | 13.50 |
 | 305 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 308 | 0.00 |
 | 306 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 50 336 | 265.12 |
@@ -323,7 +323,7 @@
 | 321 | [Moving Out](games/m/moving_out.md) | 4.56 | 280 | 0.00 |
 | 322 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 269 | 37.13 |
 | 323 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
-| 324 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2188.27 |
+| 324 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
 | 325 | [Sherlock Holmes The Devil's Daughter](games/s/sherlock_holmes_the_devil's_daughter.md) | 4.56 | 32 | 0.00 |
 | 326 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
 | 327 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1363.20 |
@@ -387,7 +387,7 @@
 | 385 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
 | 386 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.49 | 991 | 9.77 |
 | 387 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.49 | 287 | 0.00 |
-| 388 | [Maneater](games/m/maneater.md) | 4.49 | 74 855 | 181.24 |
+| 388 | [Maneater](games/m/maneater.md) | 4.49 | 74 907 | 203.57 |
 | 389 | [Paradigm](games/p/paradigm.md) | 4.49 | 158 | 0.00 |
 | 390 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
 | 391 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.49 | 57 | 0.00 |
@@ -469,13 +469,13 @@
 | 467 | [Genesis Alpha One](games/g/genesis_alpha_one.md) | 4.39 | 23 | 0.00 |
 | 468 | [Pathway](games/p/pathway.md) | 4.39 | 228 | 5.44 |
 | 469 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 131 | 0.00 |
-| 470 | [Watch Dogs: Legion](games/w/watch_dogs__legion.md) | 4.39 | 778 | 31.20 |
-| 471 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
-| 472 | [ELEX](games/e/elex.md) | 4.38 | 26 | 0.00 |
-| 473 | [Minit](games/m/minit.md) | 4.38 | 56 | 0.00 |
-| 474 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 104 | 0.00 |
-| 475 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.38 | 91 | 0.00 |
-| 476 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 6 160 | 946.52 |
+| 470 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
+| 471 | [ELEX](games/e/elex.md) | 4.38 | 26 | 0.00 |
+| 472 | [Minit](games/m/minit.md) | 4.38 | 56 | 0.00 |
+| 473 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 104 | 0.00 |
+| 474 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.38 | 91 | 0.00 |
+| 475 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 6 160 | 946.52 |
+| 476 | [Watch Dogs: Legion](games/w/watch_dogs__legion.md) | 4.38 | 784 | 20.57 |
 | 477 | [Absolute Drift](games/a/absolute_drift.md) | 4.37 | 111 | 0.00 |
 | 478 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 448 | 3.00 |
 | 479 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 641 | 61.85 |

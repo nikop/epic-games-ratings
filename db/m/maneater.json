@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "ProductSlug": null,
   "Rating": 4.49,
-  "NumberOfRatings": 74855,
-  "DailyRatings": 181.24,
+  "NumberOfRatings": 74907,
+  "DailyRatings": 203.57,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-07-28T14:01:50.3625622+00:00",
+  "LastChanged": "2022-07-28T18:11:06.0742904+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-28T14:01:50.3625624+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 74855
+    },
+    {
+      "Time": "2022-07-28T18:11:06.0742906+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 74907
     }
   ],
   "Tags": [
