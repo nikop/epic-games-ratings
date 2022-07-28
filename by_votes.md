@@ -63,7 +63,7 @@
 | 61 | [Shop Titans](games/s/shop_titans.md) | 3.86 | 5 872 | 884.14 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 495 | 81.90 |
 | 63 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 431 | 61.86 |
-| 64 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 293 | 94.77 |
+| 64 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 318 | 108.82 |
 | 65 | [Sifu](games/s/sifu.md) | 4.81 | 5 267 | 97.17 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 5 018 | 56.37 |
 | 67 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 53.40 |
@@ -71,10 +71,10 @@
 | 69 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
 | 70 | [Neon Abyss](games/n/neon_abyss.md) | 4.69 | 4 766 | 64.14 |
 | 71 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 74.44 |
-| 72 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 65.98 |
+| 72 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 693 | 75.34 |
 | 73 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 72.38 |
 | 74 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 4 495 | 38.98 |
-| 75 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 463 | 45.97 |
+| 75 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 464 | 46.04 |
 | 76 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 307 | 102.81 |
 | 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.81 | 4 300 | 45.81 |
 | 78 | [Subnautica](games/s/subnautica.md) | 4.84 | 4 253 | 46.49 |
@@ -131,8 +131,8 @@
 | 129 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 23.00 |
 | 130 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
 | 131 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 697 | 25.98 |
-| 132 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
-| 133 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 28.80 |
+| 132 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 686 | 29.30 |
+| 133 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
 | 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 51.76 |
 | 135 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 630 | 25.85 |
 | 136 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.94 | 1 629 | 20.86 |
@@ -213,8 +213,8 @@
 | 211 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
 | 212 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 580 | 14.25 |
 | 213 | [Moonlighter](games/m/moonlighter.md) | 4.72 | 564 | 9.00 |
-| 214 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 553 | 3.60 |
-| 215 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 8.57 |
+| 214 | [RimWorld](games/r/rimworld.md) | 4.89 | 554 | 11.34 |
+| 215 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 553 | 3.60 |
 | 216 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 540 | 7.50 |
 | 217 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 537 | 0.00 |
 | 218 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.33 | 535 | 11.45 |
@@ -252,9 +252,9 @@
 | 250 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.51 | 384 | 0.00 |
 | 251 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 382 | 24.00 |
 | 252 | [Star Trek Online](games/s/star_trek_online.md) | 4.55 | 379 | 4.00 |
-| 253 | [Barony](games/b/barony.md) | 4.71 | 377 | 8.02 |
-| 254 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.31 | 369 | 0.00 |
-| 255 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
+| 253 | [Barony](games/b/barony.md) | 4.71 | 378 | 8.37 |
+| 254 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 370 | 4.25 |
+| 255 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.31 | 369 | 0.00 |
 | 256 | [Diabotical](games/d/diabotical.md) | 4.79 | 367 | 0.00 |
 | 257 | [Far Cry 4](games/f/far_cry_4.md) | 4.68 | 361 | 3.70 |
 | 258 | [Pine](games/p/pine.md) | 4.12 | 352 | 8.15 |

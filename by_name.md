@@ -51,7 +51,7 @@
 | 49 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 23.00 |
 | 50 | [Bad North](games/b/bad_north.md) | 4.67 | 420 | 0.00 |
 | 51 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 35 | 0.00 |
-| 52 | [Barony](games/b/barony.md) | 4.71 | 377 | 8.02 |
+| 52 | [Barony](games/b/barony.md) | 4.71 | 378 | 8.37 |
 | 53 | [Batman Arkham Asylum](games/b/batman_arkham_asylum.md) | 4.69 | 1 064 | 19.99 |
 | 54 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 479 | 79.65 |
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 78.92 |
@@ -142,7 +142,7 @@
 | 140 | [Dokken](games/d/dokken.md) | 4.63 | 1 810 | 1330.48 |
 | 141 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
 | 142 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 812 | 20.43 |
-| 143 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 65.98 |
+| 143 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 693 | 75.34 |
 | 144 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.75 | 1 855 | 44.03 |
 | 145 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.33 | 33 | 0.00 |
 | 146 | [ELEX](games/e/elex.md) | 4.38 | 26 | 0.00 |
@@ -257,7 +257,7 @@
 | 255 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.13 | 72 | 0.00 |
 | 256 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.41 | 27 | 0.00 |
 | 257 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.52 | 27 | 0.00 |
-| 258 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 293 | 94.77 |
+| 258 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 318 | 108.82 |
 | 259 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.97 |
 | 260 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 101 | 0.00 |
 | 261 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 1 050 | 16.46 |
@@ -379,7 +379,7 @@
 | 377 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 51.76 |
 | 378 | [RiME](games/r/rime.md) | 4.61 | 49 | 0.00 |
 | 379 | [RiMS Racing](games/r/rims_racing.md) | 4.42 | 26 | 0.00 |
-| 380 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 8.57 |
+| 380 | [RimWorld](games/r/rimworld.md) | 4.89 | 554 | 11.34 |
 | 381 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
 | 382 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 697 | 25.98 |
 | 383 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 022 | 16.12 |
@@ -450,7 +450,7 @@
 | 448 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 33 | 0.00 |
 | 449 | [Stories Untold](games/s/stories_untold.md) | 4.40 | 20 | 0.00 |
 | 450 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 30 | 0.00 |
-| 451 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 28.80 |
+| 451 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 686 | 29.30 |
 | 452 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.59 | 22 | 0.00 |
 | 453 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.43 | 1 192 | 32.93 |
 | 454 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 131 | 0.00 |
@@ -526,8 +526,8 @@
 | 524 | [Tom Clancy's Ghost Recon Breakpoint](games/t/tom_clancy's_ghost_recon_breakpoint.md) | 4.54 | 2 964 | 31.96 |
 | 525 | [Tom Clancy's Ghost Recon: Wildlands](games/t/tom_clancy's_ghost_recon__wildlands.md) | 4.54 | 528 | 8.00 |
 | 526 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.53 | 151 | 0.00 |
-| 527 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 463 | 45.97 |
-| 528 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
+| 527 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 464 | 46.04 |
+| 528 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 370 | 4.25 |
 | 529 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
 | 530 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 718 | 20.62 |
 | 531 | [Torchlight](games/t/torchlight.md) | 4.46 | 70 | 0.00 |

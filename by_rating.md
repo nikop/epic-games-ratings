@@ -11,7 +11,7 @@
 | 9 | [Atomicrops](games/a/atomicrops.md) | 4.89 | 99 | 0.00 |
 | 10 | [God of War](games/g/god_of_war.md) | 4.89 | 3 166 | 42.50 |
 | 11 | [Ooblets](games/o/ooblets.md) | 4.89 | 425 | 7.60 |
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 8.57 |
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 554 | 11.34 |
 | 13 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 254 | 288.66 |
 | 14 | [The Last Campfire](games/t/the_last_campfire.md) | 4.89 | 27 | 0.00 |
 | 15 | [Blasphemous](games/b/blasphemous.md) | 4.88 | 98 | 0.00 |
@@ -131,10 +131,10 @@
 | 129 | [State of Decay 2](games/s/state_of_decay_2.md) | 4.72 | 733 | 7.14 |
 | 130 | [The Pathless](games/t/the_pathless.md) | 4.72 | 36 | 0.00 |
 | 131 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 159 | 5.07 |
-| 132 | [Barony](games/b/barony.md) | 4.71 | 377 | 8.02 |
+| 132 | [Barony](games/b/barony.md) | 4.71 | 378 | 8.37 |
 | 133 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.71 | 79 | 0.00 |
 | 134 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.71 | 182 | 0.00 |
-| 135 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 293 | 94.77 |
+| 135 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 5 318 | 108.82 |
 | 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
 | 137 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 49 | 0.00 |
 | 138 | [Unrailed!](games/u/unrailed!.md) | 4.71 | 21 | 0.00 |
@@ -266,7 +266,7 @@
 | 264 | [ABZU](games/a/abzu.md) | 4.60 | 62 | 0.00 |
 | 265 | [Before We Leave](games/b/before_we_leave.md) | 4.60 | 42 | 0.00 |
 | 266 | [Control](games/c/control.md) | 4.60 | 8 590 | 138.13 |
-| 267 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 65.98 |
+| 267 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 693 | 75.34 |
 | 268 | [F.I.S.T. Forged In Shadow Torch](games/f/f.i.s.t._forged_in_shadow_torch.md) | 4.60 | 348 | 2.40 |
 | 269 | [MotoGP™21](games/m/motogp™21.md) | 4.60 | 72 | 0.00 |
 | 270 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 431 | 61.86 |
@@ -324,7 +324,7 @@
 | 322 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 269 | 37.13 |
 | 323 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 538 | 2316.77 |
 | 324 | [Sherlock Holmes The Devil's Daughter](games/s/sherlock_holmes_the_devil's_daughter.md) | 4.56 | 32 | 0.00 |
-| 325 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
+| 325 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 370 | 4.25 |
 | 326 | [VALORANT](games/v/valorant.md) | 4.56 | 83 527 | 1368.64 |
 | 327 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 72.38 |
 | 328 | [Axiom Verge](games/a/axiom_verge.md) | 4.55 | 58 | 0.00 |
@@ -455,7 +455,7 @@
 | 453 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 223 | 0.00 |
 | 454 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 021 | 283.25 |
 | 455 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 104 | 0.00 |
-| 456 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 463 | 45.97 |
+| 456 | [Tom Clancy's The Division 2](games/t/tom_clancy's_the_division_2.md) | 4.41 | 4 464 | 46.04 |
 | 457 | [Weird West](games/w/weird_west.md) | 4.41 | 87 | 0.00 |
 | 458 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 22 | 0.00 |
 | 459 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 25 | 0.00 |
@@ -534,7 +534,7 @@
 | 532 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 13.74 |
 | 533 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
 | 534 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.23 | 26 | 0.00 |
-| 535 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 28.80 |
+| 535 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 686 | 29.30 |
 | 536 | [Tacoma](games/t/tacoma.md) | 4.23 | 31 | 0.00 |
 | 537 | [The First Tree](games/t/the_first_tree.md) | 4.23 | 31 | 0.00 |
 | 538 | [Blair Witch](games/b/blair_witch.md) | 4.22 | 309 | 2.40 |
