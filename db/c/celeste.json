@@ -3,10 +3,10 @@
   "Name": "Celeste",
   "ProductSlug": "celeste/home",
   "Rating": 4.91,
-  "NumberOfRatings": 1426,
-  "DailyRatings": 25,
+  "NumberOfRatings": 1428,
+  "DailyRatings": 22,
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2022-07-28T14:01:54.9567834+00:00",
+  "LastChanged": "2022-07-28T16:01:41.9722129+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-07-28T14:01:54.9567836+00:00",
       "Rating": 4.91,
       "NumberOfRatings": 1426
+    },
+    {
+      "Time": "2022-07-28T16:01:41.9722131+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": 1428
     }
   ],
   "Tags": [
@@ -175,7 +180,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -195,6 +200,10 @@
     },
     {
       "Text": "This game is Extremely Fun",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
       "Count": 20
     }
   ]

@@ -2,11 +2,11 @@
   "ID": "fe2b8b6b2b934557a719d104c25623e7",
   "Name": "Lumberjack\u0027s Dynasty",
   "ProductSlug": "lumberjacks-dynasty",
-  "Rating": 4,
-  "NumberOfRatings": 32,
-  "DailyRatings": 0,
+  "Rating": 3.97,
+  "NumberOfRatings": 33,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:25:56.3417334+00:00",
-  "LastChanged": "2022-07-27T16:01:47.1040298+00:00",
+  "LastChanged": "2022-07-28T16:01:45.8174283+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:56.3417337+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-27T16:01:47.1040299+00:00",
       "Rating": 4,
       "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-07-28T16:01:45.8174285+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": 33
     }
   ],
   "Tags": []

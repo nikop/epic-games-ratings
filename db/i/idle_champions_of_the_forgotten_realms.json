@@ -3,10 +3,10 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Rating": 4.04,
-  "NumberOfRatings": 7091,
-  "DailyRatings": 149,
+  "NumberOfRatings": 7097,
+  "DailyRatings": 146,
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "LastChanged": "2022-07-28T14:00:46.6336607+00:00",
+  "LastChanged": "2022-07-28T16:00:35.1420408+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.6649584+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-07-28T14:00:46.6336608+00:00",
       "Rating": 4.04,
       "NumberOfRatings": 7091
+    },
+    {
+      "Time": "2022-07-28T16:00:35.142041+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 7097
     }
   ],
   "Tags": [

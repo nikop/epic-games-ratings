@@ -1,6 +1,6 @@
 # Rainbow Six Siege
 Rating: 4.60 (5 411)  
-Ratings Per Day: 69.00  
+Ratings Per Day: 63.26  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

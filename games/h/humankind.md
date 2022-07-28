@@ -1,6 +1,6 @@
 # Humankind
-Rating: 4.48 (331)  
-Ratings Per Day: 0.00  
+Rating: 4.48 (334)  
+Ratings Per Day: 4.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 0.00
 | 2022-07-25 | 4.47 | 322 |
 | 2022-07-26 | 4.48 | 328 |
 | 2022-07-27 | 4.48 | 331 |
+| 2022-07-28 | 4.48 | 334 |

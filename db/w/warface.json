@@ -3,10 +3,10 @@
   "Name": "Warface",
   "ProductSlug": "warface",
   "Rating": 3.92,
-  "NumberOfRatings": 1585,
-  "DailyRatings": 31,
+  "NumberOfRatings": 1588,
+  "DailyRatings": 25.19,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-07-28T14:02:40.4181237+00:00",
+  "LastChanged": "2022-07-28T16:02:25.9774929+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-07-28T14:02:40.4181239+00:00",
       "Rating": 3.92,
       "NumberOfRatings": 1585
+    },
+    {
+      "Time": "2022-07-28T16:02:25.977493+00:00",
+      "Rating": 3.92,
+      "NumberOfRatings": 1588
     }
   ],
   "Tags": [

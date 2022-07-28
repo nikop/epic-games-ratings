@@ -3,10 +3,10 @@
   "Name": "Humankind",
   "ProductSlug": null,
   "Rating": 4.48,
-  "NumberOfRatings": 331,
-  "DailyRatings": 0,
+  "NumberOfRatings": 334,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2022-07-27T22:00:45.8126885+00:00",
+  "LastChanged": "2022-07-28T16:00:48.4285371+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:22.8287393+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-27T22:00:45.8126886+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 331
+    },
+    {
+      "Time": "2022-07-28T16:00:48.4285373+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 334
     }
   ],
   "Tags": [
@@ -76,7 +81,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has Obsessive Gameplay",

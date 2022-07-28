@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The New Order",
   "ProductSlug": "wolfenstein-the-new-order",
   "Rating": 4.58,
-  "NumberOfRatings": 50302,
-  "DailyRatings": 269.99,
+  "NumberOfRatings": 50336,
+  "DailyRatings": 265.12,
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2022-07-28T14:01:53.6230165+00:00",
+  "LastChanged": "2022-07-28T16:01:40.7683996+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-07-28T14:01:53.6230166+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 50302
+    },
+    {
+      "Time": "2022-07-28T16:01:40.7683997+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 50336
     }
   ],
   "Tags": [

@@ -2,11 +2,11 @@
   "ID": "dcbacb85c17e4d39b885d0ba252dc8a7",
   "Name": "Stubbs the Zombie in Rebel Without a Pulse",
   "ProductSlug": "stubbs-the-zombie-in-rebel-without-a-pulse",
-  "Rating": 4.4,
-  "NumberOfRatings": 125,
+  "Rating": 4.39,
+  "NumberOfRatings": 131,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:41.8050293+00:00",
-  "LastChanged": "2022-07-27T14:02:46.7121103+00:00",
+  "LastChanged": "2022-07-28T16:02:34.0303447+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:41.8050299+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-27T14:02:46.7121105+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 125
+    },
+    {
+      "Time": "2022-07-28T16:02:34.0303448+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 131
     }
   ],
   "Tags": []

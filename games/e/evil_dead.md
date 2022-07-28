@@ -1,6 +1,6 @@
 # Evil Dead
-Rating: 4.51 (7 987)  
-Ratings Per Day: 48.00  
+Rating: 4.51 (7 990)  
+Ratings Per Day: 49.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 48.00
 | 2022-07-25 | 4.51 | 7 836 |
 | 2022-07-26 | 4.51 | 7 908 |
 | 2022-07-27 | 4.51 | 7 956 |
-| 2022-07-28 | 4.51 | 7 987 |
+| 2022-07-28 | 4.51 | 7 990 |

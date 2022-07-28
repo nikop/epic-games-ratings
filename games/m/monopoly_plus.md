@@ -1,6 +1,6 @@
 # Monopoly Plus
 Rating: 3.87 (78)  
-Ratings Per Day: 5.00  
+Ratings Per Day: 3.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

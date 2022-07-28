@@ -1,6 +1,6 @@
 # Shadow Tactics
-Rating: 4.81 (240)  
-Ratings Per Day: 0.00  
+Rating: 4.81 (244)  
+Ratings Per Day: 6.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 0.00
 | 2022-07-25 | 4.80 | 230 |
 | 2022-07-26 | 4.81 | 235 |
 | 2022-07-27 | 4.81 | 237 |
-| 2022-07-28 | 4.81 | 240 |
+| 2022-07-28 | 4.81 | 244 |

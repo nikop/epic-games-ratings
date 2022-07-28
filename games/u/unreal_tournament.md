@@ -1,6 +1,6 @@
 # Unreal Tournament
-Rating: 4.70 (671)  
-Ratings Per Day: 6.66  
+Rating: 4.70 (672)  
+Ratings Per Day: 7.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 6.66
 | 2022-07-25 | 4.71 | 653 |
 | 2022-07-26 | 4.70 | 660 |
 | 2022-07-27 | 4.70 | 666 |
-| 2022-07-28 | 4.70 | 671 |
+| 2022-07-28 | 4.70 | 672 |

@@ -1,6 +1,6 @@
 # AER
-Rating: 4.44 (91)  
-Ratings Per Day: 0.00  
+Rating: 4.44 (94)  
+Ratings Per Day: 3.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.00
 | 2022-07-24 | 4.44 | 89 |
 | 2022-07-26 | 4.44 | 90 |
 | 2022-07-27 | 4.44 | 91 |
+| 2022-07-28 | 4.44 | 94 |
