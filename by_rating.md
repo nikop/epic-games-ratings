@@ -107,7 +107,7 @@
 | 105 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |
 | 106 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 2 496 | 46.96 |
 | 107 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.74 | 112 | 0.00 |
-| 108 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
+| 108 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 580 | 15.07 |
 | 109 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.74 | 70 | 0.00 |
 | 110 | [CARRION](games/c/carrion.md) | 4.73 | 30 | 1.03 |
 | 111 | [Costume Quest](games/c/costume_quest.md) | 4.73 | 26 | 0.00 |
@@ -156,7 +156,7 @@
 | 154 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.70 | 466 | 4.36 |
 | 155 | [Assassin's Creed Origin](games/a/assassin's_creed_origin.md) | 4.69 | 2 748 | 30.67 |
 | 156 | [Batman Arkham Asylum](games/b/batman_arkham_asylum.md) | 4.69 | 1 064 | 19.99 |
-| 157 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 819 | 122.18 |
+| 157 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 830 | 123.55 |
 | 158 | [Fez](games/f/fez.md) | 4.69 | 59 | 0.00 |
 | 159 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
 | 160 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 101 | 0.00 |
@@ -331,7 +331,7 @@
 | 329 | [Axiom Verge](games/a/axiom_verge.md) | 4.55 | 58 | 0.00 |
 | 330 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.55 | 22 | 0.00 |
 | 331 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.55 | 85 | 0.00 |
-| 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 234 | 4.80 |
+| 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 235 | 4.02 |
 | 333 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 0.00 |
 | 334 | [Star Trek Online](games/s/star_trek_online.md) | 4.55 | 379 | 4.00 |
 | 335 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
@@ -399,7 +399,7 @@
 | 397 | [Sable](games/s/sable.md) | 4.48 | 27 | 0.00 |
 | 398 | [Sherlock Holmes: Chapter One](games/s/sherlock_holmes__chapter_one.md) | 4.48 | 117 | 0.00 |
 | 399 | [Totally Reliable Delivery Service](games/t/totally_reliable_delivery_service.md) | 4.48 | 64 | 0.00 |
-| 400 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 513 | 0.00 |
+| 400 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 517 | 9.70 |
 | 401 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 24.18 |
 | 402 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.47 | 1 816 | 34.12 |
 | 403 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.47 | 62 | 0.00 |
@@ -514,7 +514,7 @@
 | 512 | [Vampyr](games/v/vampyr.md) | 4.31 | 2 868 | 35.99 |
 | 513 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 193.81 |
 | 514 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 30 | 0.00 |
-| 515 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 205 | 0.00 |
+| 515 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 211 | 6.03 |
 | 516 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 2 950 | 67.97 |
 | 517 | [Rage 2](games/r/rage_2.md) | 4.29 | 2 239 | 48.10 |
 | 518 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 630 | 25.85 |
@@ -558,7 +558,7 @@
 | 556 | [Elex II](games/e/elex_ii.md) | 4.17 | 72 | 0.00 |
 | 557 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 24 | 0.00 |
 | 558 | [Insurmountable](games/i/insurmountable.md) | 4.16 | 407 | 5.67 |
-| 559 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 080 | 8.03 |
+| 559 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 081 | 9.06 |
 | 560 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 95.00 |
 | 561 | [Relicta](games/r/relicta.md) | 4.15 | 235 | 0.00 |
 | 562 | [Werewolf: The Apocalypse - Earthblood](games/w/werewolf__the_apocalypse_-_earthblood.md) | 4.15 | 39 | 0.00 |

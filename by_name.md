@@ -60,7 +60,7 @@
 | 58 | [Beyond: Two Souls](games/b/beyond__two_souls.md) | 4.68 | 199 | 0.00 |
 | 59 | [BIOMUTANT](games/b/biomutant.md) | 4.39 | 132 | 0.00 |
 | 60 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 71.98 |
-| 61 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 819 | 122.18 |
+| 61 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 830 | 123.55 |
 | 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
 | 63 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
 | 64 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
@@ -224,7 +224,7 @@
 | 222 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
 | 223 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 721 | 18.13 |
 | 224 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 288 | 97.09 |
-| 225 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 234 | 4.80 |
+| 225 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 235 | 4.02 |
 | 226 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
 | 227 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
 | 228 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
@@ -435,7 +435,7 @@
 | 433 | [Souldiers](games/s/souldiers.md) | 4.52 | 58 | 0.00 |
 | 434 | [South Park™: The Fractured But Whole](games/s/south_park™__the_fractured_but_whole.md) | 4.81 | 103 | 0.00 |
 | 435 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 65 | 0.00 |
-| 436 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 080 | 8.03 |
+| 436 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 081 | 9.06 |
 | 437 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 64 | 0.00 |
 | 438 | [Spellbreak](games/s/spellbreak.md) | 4.60 | 616 | 3.00 |
 | 439 | [SpellForce 3](games/s/spellforce_3.md) | 4.34 | 53 | 0.00 |
@@ -517,7 +517,7 @@
 | 515 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 58 | 0.00 |
 | 516 | [This Is the Police](games/t/this_is_the_police.md) | 4.81 | 27 | 0.00 |
 | 517 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 22 | 0.00 |
-| 518 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
+| 518 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 580 | 15.07 |
 | 519 | [Ticket To Ride](games/t/ticket_to_ride_1.md) | 4.59 | 87 | 0.00 |
 | 520 | [Timberborn](games/t/timberborn.md) | 4.66 | 268 | 6.00 |
 | 521 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 726 | 23.99 |
@@ -581,7 +581,7 @@
 | 579 | [What Remains Of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.77 | 31 | 0.00 |
 | 580 | [What the Golf?](games/w/what_the_golf.md) | 4.85 | 20 | 0.00 |
 | 581 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 22 | 0.00 |
-| 582 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 513 | 0.00 |
+| 582 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 517 | 9.70 |
 | 583 | [Wildermyth](games/w/wildermyth.md) | 4.70 | 30 | 0.00 |
 | 584 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.60 | 47 | 0.00 |
 | 585 | [Windbound](games/w/windbound.md) | 4.19 | 1 149 | 15.60 |
@@ -596,7 +596,7 @@
 | 594 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 116 | 0.00 |
 | 595 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 78.48 |
 | 596 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 172 | 0.00 |
-| 597 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 205 | 0.00 |
+| 597 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 211 | 6.03 |
 | 598 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.47 | 194 | 0.00 |
 | 599 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox.md) | 4.52 | 25 | 0.00 |
 | 600 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.70 | 466 | 4.36 |

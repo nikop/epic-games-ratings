@@ -29,7 +29,7 @@
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 193.81 |
 | 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 193.65 |
 | 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
-| 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 819 | 122.18 |
+| 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 830 | 123.55 |
 | 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 142.33 |
 | 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
 | 33 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 402.54 |
@@ -158,7 +158,7 @@
 | 156 | [Windbound](games/w/windbound.md) | 4.19 | 1 149 | 15.60 |
 | 157 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 1 129 | 19.64 |
 | 158 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 1 097 | 13.50 |
-| 159 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 080 | 8.03 |
+| 159 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 081 | 9.06 |
 | 160 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
 | 161 | [Mafia: Definitive Edition](games/m/mafia__definitive_edition.md) | 4.61 | 1 072 | 19.20 |
 | 162 | [Railway Empire](games/r/railway_empire.md) | 4.54 | 1 072 | 17.18 |
@@ -211,7 +211,7 @@
 | 209 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.46 | 601 | 4.80 |
 | 210 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.86 | 591 | 6.16 |
 | 211 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
-| 212 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
+| 212 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 580 | 15.07 |
 | 213 | [Moonlighter](games/m/moonlighter.md) | 4.72 | 564 | 9.00 |
 | 214 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 553 | 3.60 |
 | 215 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 6.55 |
@@ -220,7 +220,7 @@
 | 218 | [Crying Suns](games/c/crying_suns.md) | 4.48 | 529 | 0.00 |
 | 219 | [Tom Clancy's Ghost Recon: Wildlands](games/t/tom_clancy's_ghost_recon__wildlands.md) | 4.54 | 528 | 7.64 |
 | 220 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 519 | 9.01 |
-| 221 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 513 | 0.00 |
+| 221 | [while True: learn()](games/w/while_true__learn().md) | 4.48 | 517 | 9.70 |
 | 222 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 494 | 12.00 |
 | 223 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
 | 224 | [Predator: Hunting Grounds](games/p/predator__hunting_grounds.md) | 4.36 | 488 | 6.86 |
@@ -297,8 +297,8 @@
 | 295 | [Shadow Tactics](games/s/shadow_tactics.md) | 4.81 | 245 | 8.03 |
 | 296 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 7.64 |
 | 297 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.37 | 240 | 0.00 |
-| 298 | [Relicta](games/r/relicta.md) | 4.15 | 235 | 0.00 |
-| 299 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 234 | 4.80 |
+| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 235 | 4.02 |
+| 299 | [Relicta](games/r/relicta.md) | 4.15 | 235 | 0.00 |
 | 300 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
 | 301 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.64 | 233 | 0.00 |
 | 302 | [20XX](games/2/20xx.md) | 4.63 | 229 | 0.00 |
@@ -311,8 +311,8 @@
 | 309 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 219 | 3.60 |
 | 310 | [Alan Wake](games/a/alan_wake.md) | 4.42 | 217 | 0.00 |
 | 311 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 212 | 0.00 |
-| 312 | [Darq: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 205 | 0.00 |
-| 313 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 205 | 0.00 |
+| 312 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 211 | 6.03 |
+| 313 | [Darq: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 205 | 0.00 |
 | 314 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 203 | 0.00 |
 | 315 | [Beyond: Two Souls](games/b/beyond__two_souls.md) | 4.68 | 199 | 0.00 |
 | 316 | [Outward](games/o/outward.md) | 4.54 | 199 | 0.00 |
