@@ -6,7 +6,7 @@
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
 | 6 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1363.20 |
-| 7 | [Dokken](games/d/dokken.md) | 4.62 | 1 653 | 1238.06 |
+| 7 | [Dokken](games/d/dokken.md) | 4.63 | 1 810 | 1330.48 |
 | 8 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 6 287 | 987.16 |
 | 9 | [Shop Titans](games/s/shop_titans.md) | 3.86 | 5 872 | 884.14 |
 | 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 60 826 | 863.74 |
@@ -23,8 +23,8 @@
 | 21 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 412 | 267.68 |
 | 22 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 422 | 243.53 |
 | 23 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
-| 24 | [Maneater](games/m/maneater.md) | 4.49 | 74 907 | 203.57 |
-| 25 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 200.53 |
+| 24 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 347 | 207.41 |
+| 25 | [Maneater](games/m/maneater.md) | 4.49 | 74 907 | 203.57 |
 | 26 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 200.44 |
 | 27 | [Among Us](games/a/among_us.md) | 4.59 | 16 439 | 195.98 |
 | 28 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
@@ -176,20 +176,20 @@
 | 174 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 1 050 | 16.46 |
 | 175 | [Outriders](games/o/outriders_1.md) | 4.42 | 884 | 16.36 |
 | 176 | [Overcooked](games/o/overcooked.md) | 4.68 | 300 | 16.30 |
-| 177 | [Windbound](games/w/windbound.md) | 4.19 | 1 149 | 15.60 |
-| 178 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 868 | 14.89 |
-| 179 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
-| 180 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 580 | 14.25 |
-| 181 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
-| 182 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 13.76 |
-| 183 | [Core](games/c/core.md) | 4.39 | 911 | 13.74 |
-| 184 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 13.74 |
-| 185 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 13.71 |
-| 186 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
-| 187 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 1 097 | 13.50 |
-| 188 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 1 194 | 13.50 |
-| 189 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
-| 190 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.20 |
+| 177 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 022 | 16.12 |
+| 178 | [Windbound](games/w/windbound.md) | 4.19 | 1 149 | 15.60 |
+| 179 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 868 | 14.89 |
+| 180 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
+| 181 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 580 | 14.25 |
+| 182 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
+| 183 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 13.76 |
+| 184 | [Core](games/c/core.md) | 4.39 | 911 | 13.74 |
+| 185 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.24 | 625 | 13.74 |
+| 186 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 13.71 |
+| 187 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
+| 188 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 1 097 | 13.50 |
+| 189 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 1 194 | 13.50 |
+| 190 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
 | 191 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
 | 192 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
 | 193 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
@@ -505,7 +505,7 @@
 | 503 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 123 | 0.00 |
 | 504 | [Souldiers](games/s/souldiers.md) | 4.52 | 58 | 0.00 |
 | 505 | [South Park™: The Fractured But Whole](games/s/south_park™__the_fractured_but_whole.md) | 4.81 | 103 | 0.00 |
-| 506 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 65 | 0.00 |
+| 506 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 66 | 0.00 |
 | 507 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 64 | 0.00 |
 | 508 | [SpellForce 3](games/s/spellforce_3.md) | 4.34 | 53 | 0.00 |
 | 509 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.67 | 39 | 0.00 |

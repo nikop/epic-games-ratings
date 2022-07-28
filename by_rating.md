@@ -19,7 +19,7 @@
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 100 | 0.00 |
 | 18 | [Desperados 3](games/d/desperados_3.md) | 4.87 | 220 | 0.00 |
 | 19 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 74.44 |
-| 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.20 |
+| 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 022 | 16.12 |
 | 21 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
 | 22 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
 | 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 2 042 | 38.18 |
@@ -47,7 +47,7 @@
 | 45 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 965 | 47.35 |
 | 46 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.97 |
 | 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 880 | 38.94 |
-| 48 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 65 | 0.00 |
+| 48 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 66 | 0.00 |
 | 49 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
 | 50 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 78.92 |
 | 51 | [Cave Story+](games/c/cave_story+.md) | 4.81 | 155 | 0.00 |
@@ -228,17 +228,17 @@
 | 226 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 559 | 95.24 |
 | 227 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.63 | 306 | 8.04 |
 | 228 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.63 | 413 | 0.00 |
-| 229 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 3 892 | 45.81 |
-| 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 24 | 0.00 |
-| 231 | [Going Medieval](games/g/going_medieval.md) | 4.63 | 476 | 4.00 |
-| 232 | [Grime](games/g/grime.md) | 4.63 | 30 | 0.00 |
-| 233 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 913 | 74.63 |
-| 234 | [Limbo](games/l/limbo.md) | 4.63 | 114 | 0.00 |
-| 235 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
-| 236 | [Superhot](games/s/superhot_1.md) | 4.63 | 82 | 0.00 |
-| 237 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.63 | 57 | 0.00 |
-| 238 | [Uno](games/u/uno.md) | 4.63 | 35 | 0.00 |
-| 239 | [Dokken](games/d/dokken.md) | 4.62 | 1 653 | 1238.06 |
+| 229 | [Dokken](games/d/dokken.md) | 4.63 | 1 810 | 1330.48 |
+| 230 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 3 892 | 45.81 |
+| 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 24 | 0.00 |
+| 232 | [Going Medieval](games/g/going_medieval.md) | 4.63 | 476 | 4.00 |
+| 233 | [Grime](games/g/grime.md) | 4.63 | 30 | 0.00 |
+| 234 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 913 | 74.63 |
+| 235 | [Limbo](games/l/limbo.md) | 4.63 | 114 | 0.00 |
+| 236 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
+| 237 | [Superhot](games/s/superhot_1.md) | 4.63 | 82 | 0.00 |
+| 238 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.63 | 57 | 0.00 |
+| 239 | [Uno](games/u/uno.md) | 4.63 | 35 | 0.00 |
 | 240 | [Far Cry 5](games/f/far_cry_5.md) | 4.62 | 1 025 | 19.19 |
 | 241 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
 | 242 | [Mudrunner](games/m/mudrunner_1.md) | 4.62 | 1 621 | 28.13 |
@@ -512,7 +512,7 @@
 | 510 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 64 | 0.00 |
 | 511 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 172 | 3.94 |
 | 512 | [Vampyr](games/v/vampyr.md) | 4.31 | 2 868 | 34.29 |
-| 513 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 200.53 |
+| 513 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 347 | 207.41 |
 | 514 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 30 | 0.00 |
 | 515 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 211 | 0.00 |
 | 516 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 2 950 | 65.86 |

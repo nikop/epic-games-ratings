@@ -26,7 +26,7 @@
 | 24 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 412 | 267.68 |
 | 25 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
 | 26 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
-| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 200.53 |
+| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 347 | 207.41 |
 | 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 200.44 |
 | 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
 | 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 830 | 140.42 |
@@ -126,14 +126,14 @@
 | 124 | [Surviving Mars](games/s/surviving_mars.md) | 4.59 | 1 846 | 36.65 |
 | 125 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 824 | 34.73 |
 | 126 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.47 | 1 816 | 36.20 |
-| 127 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 806 | 42.64 |
-| 128 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 23.00 |
-| 129 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
-| 130 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
-| 131 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
-| 132 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 28.80 |
-| 133 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 51.76 |
-| 134 | [Dokken](games/d/dokken.md) | 4.62 | 1 653 | 1238.06 |
+| 127 | [Dokken](games/d/dokken.md) | 4.63 | 1 810 | 1330.48 |
+| 128 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 806 | 42.64 |
+| 129 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 1 785 | 23.00 |
+| 130 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.71 | 1 785 | 25.15 |
+| 131 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
+| 132 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 677 | 17.33 |
+| 133 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 1 670 | 28.80 |
+| 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 51.76 |
 | 135 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 630 | 25.85 |
 | 136 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.94 | 1 629 | 20.86 |
 | 137 | [Mudrunner](games/m/mudrunner_1.md) | 4.62 | 1 621 | 28.13 |
@@ -170,8 +170,8 @@
 | 168 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 1 032 | 10.05 |
 | 169 | [Far Cry 5](games/f/far_cry_5.md) | 4.62 | 1 025 | 19.19 |
 | 170 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
-| 171 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 020 | 19.40 |
-| 172 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.20 |
+| 171 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 022 | 16.12 |
+| 172 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 020 | 19.40 |
 | 173 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
 | 174 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 010 | 20.51 |
 | 175 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 999 | 20.87 |
@@ -435,7 +435,7 @@
 | 433 | [Among Trees](games/a/among_trees.md) | 4.19 | 67 | 0.00 |
 | 434 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 67 | 0.00 |
 | 435 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.80 | 66 | 0.00 |
-| 436 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 65 | 0.00 |
+| 436 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 66 | 0.00 |
 | 437 | [Train Valley 2](games/t/train_valley_2.md) | 3.97 | 65 | 0.00 |
 | 438 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor__the_walking_dead.md) | 4.05 | 64 | 6.28 |
 | 439 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 64 | 0.00 |

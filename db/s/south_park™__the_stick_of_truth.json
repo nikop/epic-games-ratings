@@ -3,10 +3,10 @@
   "Name": "South Park\u2122: The Stick of Truth",
   "ProductSlug": "south-park-the-stick-of-truth/home",
   "Rating": 4.82,
-  "NumberOfRatings": 65,
+  "NumberOfRatings": 66,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
-  "LastChanged": "2022-07-26T20:01:44.429541+00:00",
+  "LastChanged": "2022-07-28T18:21:10.2768354+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:01.6762388+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-26T20:01:44.4295411+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 65
+    },
+    {
+      "Time": "2022-07-28T18:21:10.2768357+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 66
     }
   ],
   "Tags": []

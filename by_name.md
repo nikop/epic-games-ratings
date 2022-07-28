@@ -139,7 +139,7 @@
 | 137 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.80 | 66 | 0.00 |
 | 138 | [Divine Knockout](games/d/divine_knockout.md) | 4.77 | 31 | 0.00 |
 | 139 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.80 | 25 | 0.00 |
-| 140 | [Dokken](games/d/dokken.md) | 4.62 | 1 653 | 1238.06 |
+| 140 | [Dokken](games/d/dokken.md) | 4.63 | 1 810 | 1330.48 |
 | 141 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
 | 142 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 810 | 20.56 |
 | 143 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.60 | 4 676 | 65.98 |
@@ -253,7 +253,7 @@
 | 251 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.48 | 187 | 0.00 |
 | 252 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 1 890 | 23.99 |
 | 253 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
-| 254 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 200.53 |
+| 254 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 347 | 207.41 |
 | 255 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.13 | 72 | 0.00 |
 | 256 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.41 | 27 | 0.00 |
 | 257 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.52 | 27 | 0.00 |
@@ -382,7 +382,7 @@
 | 380 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 8.57 |
 | 381 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
 | 382 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
-| 383 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.20 |
+| 383 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 022 | 16.12 |
 | 384 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
 | 385 | [Road 96](games/r/road_96.md) | 4.60 | 52 | 0.00 |
 | 386 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
@@ -434,7 +434,7 @@
 | 432 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 123 | 0.00 |
 | 433 | [Souldiers](games/s/souldiers.md) | 4.52 | 58 | 0.00 |
 | 434 | [South Park™: The Fractured But Whole](games/s/south_park™__the_fractured_but_whole.md) | 4.81 | 103 | 0.00 |
-| 435 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 65 | 0.00 |
+| 435 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 66 | 0.00 |
 | 436 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 081 | 9.06 |
 | 437 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 64 | 0.00 |
 | 438 | [Spellbreak](games/s/spellbreak.md) | 4.60 | 616 | 4.00 |
