@@ -98,7 +98,7 @@
 | 96 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
 | 97 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 2 784 | 62.76 |
 | 98 | [Scott Pilgrim vs. The World: The Game](games/s/scott_pilgrim_vs._the_world__the_game.md) | 4.75 | 57 | 0.00 |
-| 99 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 808 | 135.95 |
+| 99 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 142.33 |
 | 100 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.74 | 34 | 0.00 |
 | 101 | [Destroy all Humans!](games/d/destroy_all_humans!_1.md) | 4.74 | 50 | 0.00 |
 | 102 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
@@ -385,17 +385,17 @@
 | 383 | [Faeria](games/f/faeria.md) | 4.49 | 118 | 0.00 |
 | 384 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
 | 385 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.49 | 991 | 14.20 |
-| 386 | [Maneater](games/m/maneater.md) | 4.49 | 74 855 | 181.24 |
-| 387 | [Paradigm](games/p/paradigm.md) | 4.49 | 158 | 0.00 |
-| 388 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
-| 389 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.49 | 57 | 0.00 |
-| 390 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.32 |
-| 391 | [Anno 2205](games/a/anno_2205.md) | 4.48 | 42 | 6.00 |
-| 392 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 744 | 171.51 |
-| 393 | [Crying Suns](games/c/crying_suns.md) | 4.48 | 529 | 0.00 |
-| 394 | [Humankind](games/h/humankind.md) | 4.48 | 334 | 4.00 |
-| 395 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.48 | 187 | 3.14 |
-| 396 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.48 | 280 | 0.00 |
+| 386 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.49 | 287 | 0.00 |
+| 387 | [Maneater](games/m/maneater.md) | 4.49 | 74 855 | 181.24 |
+| 388 | [Paradigm](games/p/paradigm.md) | 4.49 | 158 | 0.00 |
+| 389 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
+| 390 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.49 | 57 | 0.00 |
+| 391 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.32 |
+| 392 | [Anno 2205](games/a/anno_2205.md) | 4.48 | 42 | 6.00 |
+| 393 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 744 | 171.51 |
+| 394 | [Crying Suns](games/c/crying_suns.md) | 4.48 | 529 | 0.00 |
+| 395 | [Humankind](games/h/humankind.md) | 4.48 | 334 | 4.00 |
+| 396 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.48 | 187 | 3.14 |
 | 397 | [Sable](games/s/sable.md) | 4.48 | 27 | 0.00 |
 | 398 | [Sherlock Holmes: Chapter One](games/s/sherlock_holmes__chapter_one.md) | 4.48 | 117 | 0.00 |
 | 399 | [Totally Reliable Delivery Service](games/t/totally_reliable_delivery_service.md) | 4.48 | 64 | 0.00 |
@@ -512,7 +512,7 @@
 | 510 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 64 | 0.00 |
 | 511 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 171 | 3.00 |
 | 512 | [Vampyr](games/v/vampyr.md) | 4.31 | 2 868 | 35.99 |
-| 513 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 324 | 188.24 |
+| 513 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 193.81 |
 | 514 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 30 | 0.00 |
 | 515 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 205 | 0.00 |
 | 516 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 2 950 | 67.97 |

@@ -26,11 +26,11 @@
 | 24 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 14 412 | 267.68 |
 | 25 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 223 | 275.04 |
 | 26 | [Cities Skylines](games/c/cities_skylines.md) | 4.67 | 13 525 | 276.18 |
-| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 324 | 188.24 |
+| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 193.81 |
 | 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 193.65 |
 | 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 819 | 122.18 |
-| 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 808 | 135.95 |
+| 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 142.33 |
 | 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
 | 33 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 402.54 |
 | 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 95.00 |
@@ -276,10 +276,10 @@
 | 274 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.46 | 290 | 0.00 |
 | 275 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 290 | 6.00 |
 | 276 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.49 | 290 | 11.32 |
-| 277 | [Scavengers](games/s/scavengers.md) | 4.25 | 286 | 10.00 |
-| 278 | [Crashlands](games/c/crashlands.md) | 4.67 | 285 | 4.00 |
-| 279 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 6.67 |
-| 280 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.48 | 280 | 0.00 |
+| 277 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.49 | 287 | 0.00 |
+| 278 | [Scavengers](games/s/scavengers.md) | 4.25 | 286 | 10.00 |
+| 279 | [Crashlands](games/c/crashlands.md) | 4.67 | 285 | 4.00 |
+| 280 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 6.67 |
 | 281 | [Moving Out](games/m/moving_out.md) | 4.56 | 280 | 0.00 |
 | 282 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 278 | 0.00 |
 | 283 | [The Witness](games/t/the_witness.md) | 4.68 | 269 | 0.00 |

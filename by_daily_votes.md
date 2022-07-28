@@ -24,8 +24,8 @@
 | 22 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 23 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 422 | 243.53 |
 | 24 | [Among Us](games/a/among_us.md) | 4.59 | 16 439 | 213.02 |
-| 25 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 193.65 |
-| 26 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 324 | 188.24 |
+| 25 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.30 | 13 336 | 193.81 |
+| 26 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 264 | 193.65 |
 | 27 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 187.88 |
 | 28 | [Maneater](games/m/maneater.md) | 4.49 | 74 855 | 181.24 |
 | 29 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
@@ -34,7 +34,7 @@
 | 32 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
 | 33 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 7 806 | 161.05 |
 | 34 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 790 | 154.91 |
-| 35 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 808 | 135.95 |
+| 35 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 142.33 |
 | 36 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.61 | 8 299 | 133.09 |
 | 37 | [Control](games/c/control.md) | 4.60 | 8 590 | 131.58 |
 | 38 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 368 | 124.02 |
@@ -432,7 +432,7 @@
 | 430 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.35 | 23 | 0.00 |
 | 431 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.69 | 253 | 0.00 |
 | 432 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 278 | 0.00 |
-| 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.48 | 280 | 0.00 |
+| 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.49 | 287 | 0.00 |
 | 434 | [Lifeless Planet](games/l/lifeless_planet.md) | 3.99 | 152 | 0.00 |
 | 435 | [Limbo](games/l/limbo.md) | 4.63 | 114 | 0.00 |
 | 436 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 32 | 0.00 |
