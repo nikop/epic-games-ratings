@@ -94,7 +94,7 @@
 | 92 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
 | 93 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 42.38 |
 | 94 | [Darkest Dungeon](games/d/darkest_dungeon.md) | 4.75 | 3 033 | 49.31 |
-| 95 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.75 | 1 850 | 39.60 |
+| 95 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.75 | 1 855 | 44.03 |
 | 96 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
 | 97 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 2 784 | 66.51 |
 | 98 | [Scott Pilgrim vs. The World: The Game](games/s/scott_pilgrim_vs._the_world__the_game.md) | 4.75 | 57 | 0.00 |
@@ -233,7 +233,7 @@
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 24 | 0.00 |
 | 232 | [Going Medieval](games/g/going_medieval.md) | 4.63 | 476 | 4.00 |
 | 233 | [Grime](games/g/grime.md) | 4.63 | 30 | 0.00 |
-| 234 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 913 | 74.63 |
+| 234 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 949 | 97.20 |
 | 235 | [Limbo](games/l/limbo.md) | 4.63 | 114 | 0.00 |
 | 236 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 1 694 | 31.17 |
 | 237 | [Superhot](games/s/superhot_1.md) | 4.63 | 82 | 0.00 |
@@ -322,16 +322,16 @@
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 553 | 3.60 |
 | 321 | [Moving Out](games/m/moving_out.md) | 4.56 | 280 | 0.00 |
 | 322 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 269 | 37.13 |
-| 323 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
-| 324 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
-| 325 | [Sherlock Holmes The Devil's Daughter](games/s/sherlock_holmes_the_devil's_daughter.md) | 4.56 | 32 | 0.00 |
-| 326 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
-| 327 | [VALORANT](games/v/valorant.md) | 4.56 | 83 464 | 1363.20 |
-| 328 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 72.38 |
-| 329 | [Axiom Verge](games/a/axiom_verge.md) | 4.55 | 58 | 0.00 |
-| 330 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.55 | 22 | 0.00 |
-| 331 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.55 | 85 | 0.00 |
-| 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
+| 323 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 409 | 2246.86 |
+| 324 | [Sherlock Holmes The Devil's Daughter](games/s/sherlock_holmes_the_devil's_daughter.md) | 4.56 | 32 | 0.00 |
+| 325 | [Tom Clancy’s Rainbow Six® Extraction](games/t/tom_clancy’s_rainbow_six®_extraction.md) | 4.56 | 369 | 6.00 |
+| 326 | [VALORANT](games/v/valorant.md) | 4.56 | 83 527 | 1368.64 |
+| 327 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 72.38 |
+| 328 | [Axiom Verge](games/a/axiom_verge.md) | 4.55 | 58 | 0.00 |
+| 329 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.55 | 22 | 0.00 |
+| 330 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.55 | 85 | 0.00 |
+| 331 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.55 | 236 | 5.17 |
+| 332 | [Phoenix Point](games/p/phoenix_point.md) | 4.55 | 1 204 | 22.19 |
 | 333 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 0.00 |
 | 334 | [Star Trek Online](games/s/star_trek_online.md) | 4.55 | 379 | 4.00 |
 | 335 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 102 | 0.00 |
@@ -406,7 +406,7 @@
 | 404 | [House Party](games/h/house_party.md) | 4.47 | 98 | 2.81 |
 | 405 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
 | 406 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 30 | 0.00 |
-| 407 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.47 | 194 | 0.00 |
+| 407 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.47 | 197 | 3.17 |
 | 408 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.46 | 601 | 7.19 |
 | 409 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.46 | 290 | 0.00 |
 | 410 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 74 | 0.00 |
