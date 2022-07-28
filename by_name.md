@@ -122,7 +122,7 @@
 | 120 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 683 | 464.49 |
 | 121 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
 | 122 | [Death Coming](games/d/death_coming.md) | 4.43 | 56 | 0.00 |
-| 123 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 803 | 39.38 |
+| 123 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 806 | 42.64 |
 | 124 | [Death's Door](games/d/death's_door.md) | 4.68 | 75 | 0.00 |
 | 125 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
 | 126 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 692 | 8.59 |
@@ -151,7 +151,7 @@
 | 149 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.71 | 79 | 0.00 |
 | 150 | [Encased](games/e/encased.md) | 4.28 | 32 | 0.00 |
 | 151 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 74.44 |
-| 152 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 490 | 80.31 |
+| 152 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 495 | 81.90 |
 | 153 | [EVE Online](games/e/eve_online.md) | 4.33 | 853 | 1.50 |
 | 154 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 55.68 |
 | 155 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.72 | 39 | 0.00 |
@@ -348,7 +348,7 @@
 | 346 | [Pathfinder: Kingmaker](games/p/pathfinder__kingmaker.md) | 4.56 | 2 269 | 37.13 |
 | 347 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
 | 348 | [Pathway](games/p/pathway.md) | 4.39 | 228 | 5.44 |
-| 349 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 002 | 97.95 |
+| 349 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 032 | 132.86 |
 | 350 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 473 | 6.86 |
 | 351 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.68 | 117 | 0.00 |
 | 352 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
@@ -367,7 +367,7 @@
 | 365 | [Railway Empire](games/r/railway_empire.md) | 4.54 | 1 072 | 17.18 |
 | 366 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 431 | 61.86 |
 | 367 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 212 | 0.00 |
-| 368 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.41 | 32 | 0.00 |
+| 368 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.42 | 33 | 0.00 |
 | 369 | [Rayman Legends](games/r/rayman_legends.md) | 4.68 | 194 | 0.00 |
 | 370 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 20 | 0.00 |
 | 371 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.36 | 406 | 0.00 |
@@ -377,7 +377,7 @@
 | 375 | [Relicta](games/r/relicta.md) | 4.15 | 235 | 0.00 |
 | 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.57 | 6 387 | 106.66 |
 | 377 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 51.76 |
-| 378 | [RiME](games/r/rime.md) | 4.67 | 48 | 0.00 |
+| 378 | [RiME](games/r/rime.md) | 4.61 | 49 | 0.00 |
 | 379 | [RiMS Racing](games/r/rims_racing.md) | 4.42 | 26 | 0.00 |
 | 380 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 8.57 |
 | 381 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14 254 | 290.84 |
@@ -466,12 +466,12 @@
 | 464 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.73 | 131 | 0.00 |
 | 465 | [Surviving Mars](games/s/surviving_mars.md) | 4.59 | 1 846 | 36.65 |
 | 466 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
-| 467 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 171 | 3.00 |
+| 467 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 172 | 3.94 |
 | 468 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.61 | 70 | 0.00 |
 | 469 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 149 | 0.00 |
 | 470 | [Tacoma](games/t/tacoma.md) | 4.23 | 31 | 0.00 |
 | 471 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.51 | 123 | 0.00 |
-| 472 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 6 160 | 946.52 |
+| 472 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 6 287 | 987.16 |
 | 473 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 1 902 | 20.58 |
 | 474 | [Tetris® Effect](games/t/tetris®_effect.md) | 4.84 | 180 | 0.00 |
 | 475 | [Tharsis](games/t/tharsis.md) | 4.03 | 30 | 0.00 |
@@ -547,7 +547,7 @@
 | 545 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.66 | 125 | 0.00 |
 | 546 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.63 | 57 | 0.00 |
 | 547 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.32 | 28 | 0.00 |
-| 548 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 015 | 15.60 |
+| 548 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 020 | 19.40 |
 | 549 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 227 | 8.40 |
 | 550 | [Tunic](games/t/tunic.md) | 4.85 | 74 | 0.00 |
 | 551 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 24 | 0.00 |
