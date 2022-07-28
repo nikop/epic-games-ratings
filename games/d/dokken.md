@@ -1,6 +1,6 @@
 # Dokken
 Rating: 4.63 (2 002)  
-Ratings Per Day: 1429.82  
+Ratings Per Day: 1428.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

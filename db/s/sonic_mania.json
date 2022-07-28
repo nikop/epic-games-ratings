@@ -3,10 +3,10 @@
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
   "Rating": 4.8,
-  "NumberOfRatings": 1548,
-  "DailyRatings": 33.87,
+  "NumberOfRatings": 1549,
+  "DailyRatings": 22.18,
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2022-07-28T17:34:20.2275534+00:00",
+  "LastChanged": "2022-07-28T20:31:16.698636+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-07-28T17:34:20.2275537+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 1548
+    },
+    {
+      "Time": "2022-07-28T20:31:16.6986361+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 1549
     }
   ],
   "Tags": [
@@ -156,7 +161,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Competitive Players",

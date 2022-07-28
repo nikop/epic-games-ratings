@@ -3,10 +3,10 @@
   "Name": "Trackmania",
   "ProductSlug": null,
   "Rating": 4.7,
-  "NumberOfRatings": 4161,
-  "DailyRatings": 69.43,
+  "NumberOfRatings": 4165,
+  "DailyRatings": 72.54,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2022-07-28T19:31:19.2829446+00:00",
+  "LastChanged": "2022-07-28T20:31:07.4292447+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -222,6 +222,11 @@
       "Time": "2022-07-28T19:31:19.2829447+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 4161
+    },
+    {
+      "Time": "2022-07-28T20:31:07.4292448+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 4165
     }
   ],
   "Tags": [
@@ -255,7 +260,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 324
+      "Count": 336
     },
     {
       "Text": "This game has a Competitive Community",

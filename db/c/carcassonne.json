@@ -3,10 +3,10 @@
   "Name": "Carcassonne",
   "ProductSlug": null,
   "Rating": 4.72,
-  "NumberOfRatings": 152,
-  "DailyRatings": 1.33,
+  "NumberOfRatings": 155,
+  "DailyRatings": 4.27,
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2022-07-28T16:00:47.5889685+00:00",
+  "LastChanged": "2022-07-28T20:30:33.083105+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.0160662+00:00",
@@ -52,7 +52,17 @@
       "Time": "2022-07-28T16:00:47.5889686+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 152
+    },
+    {
+      "Time": "2022-07-28T20:30:33.0831055+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 155
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
+    }
+  ]
 }

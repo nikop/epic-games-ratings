@@ -2,11 +2,11 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "ProductSlug": null,
-  "Rating": 4.49,
-  "NumberOfRatings": 118,
-  "DailyRatings": 0,
+  "Rating": 4.5,
+  "NumberOfRatings": 119,
+  "DailyRatings": 6.77,
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2022-07-28T16:57:42.131584+00:00",
+  "LastChanged": "2022-07-28T20:30:29.4118315+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.9455285+00:00",
@@ -42,12 +42,17 @@
       "Time": "2022-07-28T16:57:42.1315842+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 118
+    },
+    {
+      "Time": "2022-07-28T20:30:29.4118316+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 119
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 35
+      "Count": 36
     }
   ]
 }
