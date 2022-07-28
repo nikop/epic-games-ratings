@@ -194,7 +194,7 @@
 | 192 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 220 | 0.00 |
 | 193 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
 | 194 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 824 | 10.05 |
-| 195 | [God of War](games/g/god_of_war.md) | 4.89 | 3 157 | 34.28 |
+| 195 | [God of War](games/g/god_of_war.md) | 4.89 | 3 166 | 42.50 |
 | 196 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 59 | 0.00 |
 | 197 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |
 | 198 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 125 | 0.00 |
@@ -349,7 +349,7 @@
 | 347 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 807 | 5.67 |
 | 348 | [Pathway](games/p/pathway.md) | 4.39 | 228 | 5.44 |
 | 349 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 032 | 132.86 |
-| 350 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 473 | 6.86 |
+| 350 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 474 | 6.53 |
 | 351 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.68 | 117 | 0.00 |
 | 352 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
 | 353 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 253 | 0.00 |
@@ -420,7 +420,7 @@
 | 418 | [Sid Meiers Civilization Vl](games/s/sid_meiers_civilization_vl.md) | 4.73 | 34 062 | 458.46 |
 | 419 | [Sifu](games/s/sifu.md) | 4.81 | 5 267 | 97.17 |
 | 420 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.67 | 436 | 1.20 |
-| 421 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 880 | 38.94 |
+| 421 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 888 | 45.04 |
 | 422 | [Slipways](games/s/slipways.md) | 4.61 | 23 | 0.00 |
 | 423 | [Sludge Life](games/s/sludge_life.md) | 4.72 | 90 | 0.00 |
 | 424 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
@@ -476,7 +476,7 @@
 | 474 | [Tetris® Effect](games/t/tetris®_effect.md) | 4.84 | 180 | 0.00 |
 | 475 | [Tharsis](games/t/tharsis.md) | 4.03 | 30 | 0.00 |
 | 476 | [The Alto Collection](games/t/the_alto_collection.md) | 4.64 | 167 | 6.91 |
-| 477 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 341 | 17.33 |
+| 477 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 342 | 16.49 |
 | 478 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 31 | 0.00 |
 | 479 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 023 | 19.00 |
 | 480 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 80.37 |

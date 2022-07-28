@@ -6,10 +6,10 @@
 | 4 | [Celeste](games/c/celeste.md) | 4.91 | 1 432 | 21.95 |
 | 5 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 382 | 24.00 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 60 826 | 863.74 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 341 | 17.33 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 342 | 16.49 |
 | 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 7 806 | 143.05 |
 | 9 | [Atomicrops](games/a/atomicrops.md) | 4.89 | 99 | 0.00 |
-| 10 | [God of War](games/g/god_of_war.md) | 4.89 | 3 157 | 34.28 |
+| 10 | [God of War](games/g/god_of_war.md) | 4.89 | 3 166 | 42.50 |
 | 11 | [Ooblets](games/o/ooblets.md) | 4.89 | 425 | 7.60 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 551 | 8.57 |
 | 13 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 239 | 287.49 |
@@ -46,7 +46,7 @@
 | 44 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 718 | 20.62 |
 | 45 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 965 | 47.35 |
 | 46 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.97 |
-| 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 880 | 38.94 |
+| 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 2 888 | 45.04 |
 | 48 | [South Park™: The Stick of Truth](games/s/south_park™__the_stick_of_truth.md) | 4.82 | 66 | 0.00 |
 | 49 | [The Messenger](games/t/the_messenger.md) | 4.82 | 296 | 5.08 |
 | 50 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 78.92 |
@@ -376,7 +376,7 @@
 | 374 | [Verdun](games/v/verdun.md) | 4.51 | 1 231 | 20.39 |
 | 375 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.50 | 26 | 0.00 |
 | 376 | [Mutant Year Zero](games/m/mutant_year_zero.md) | 4.50 | 1 071 | 0.00 |
-| 377 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 473 | 6.86 |
+| 377 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 474 | 6.53 |
 | 378 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 203 | 0.00 |
 | 379 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 46 | 0.00 |
 | 380 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 399 | 0.00 |
