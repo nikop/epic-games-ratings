@@ -61,7 +61,7 @@
 | 59 | [BIOMUTANT](games/b/biomutant.md) | 4.39 | 132 | 0.00 |
 | 60 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 65.98 |
 | 61 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 834 | 140.57 |
-| 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
+| 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 980 | 169.36 |
 | 63 | [Black Book](games/b/black_book.md) | 4.86 | 57 | 0.00 |
 | 64 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.45 | 22 | 0.00 |
 | 65 | [Blair Witch](games/b/blair_witch.md) | 4.22 | 309 | 2.40 |
@@ -360,13 +360,13 @@
 | 358 | [Port Royale 4](games/p/port_royale_4.md) | 3.92 | 25 | 0.00 |
 | 359 | [Predator: Hunting Grounds](games/p/predator__hunting_grounds.md) | 4.36 | 488 | 6.86 |
 | 360 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.22 | 23 | 0.00 |
-| 361 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
+| 361 | [Prey](games/p/prey.md) | 4.61 | 8 206 | 136.31 |
 | 362 | [Prison Architect](games/p/prison_architect.md) | 4.59 | 2 506 | 32.87 |
 | 363 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 48 | 0.00 |
 | 364 | [Rage 2](games/r/rage_2.md) | 4.29 | 2 239 | 43.06 |
 | 365 | [Railway Empire](games/r/railway_empire.md) | 4.54 | 1 072 | 17.18 |
 | 366 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 431 | 61.86 |
-| 367 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 212 | 0.00 |
+| 367 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 215 | 0.00 |
 | 368 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.42 | 33 | 0.00 |
 | 369 | [Rayman Legends](games/r/rayman_legends.md) | 4.68 | 194 | 0.00 |
 | 370 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 20 | 0.00 |
@@ -424,7 +424,7 @@
 | 422 | [Slipways](games/s/slipways.md) | 4.61 | 23 | 0.00 |
 | 423 | [Sludge Life](games/s/sludge_life.md) | 4.72 | 90 | 0.00 |
 | 424 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
-| 425 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 144.34 |
+| 425 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 834 | 154.57 |
 | 426 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 71 | 0.00 |
 | 427 | [Solitairica](games/s/solitairica.md) | 4.45 | 281 | 11.99 |
 | 428 | [SOMA](games/s/soma.md) | 4.70 | 155 | 0.00 |
@@ -479,7 +479,7 @@
 | 477 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1 342 | 16.49 |
 | 478 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 31 | 0.00 |
 | 479 | [The Crew 2](games/t/the_crew_2.md) | 4.66 | 1 027 | 22.25 |
-| 480 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 80.37 |
+| 480 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 550 | 81.52 |
 | 481 | [The Dungeon Of Naheulbeuk: The Amulet Of Chaos](games/t/the_dungeon_of_naheulbeuk__the_amulet_of_chaos.md) | 4.78 | 73 | 0.00 |
 | 482 | [The Escapists](games/t/the_escapists.md) | 4.45 | 297 | 0.00 |
 | 483 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 1 049 | 22.31 |

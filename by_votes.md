@@ -18,7 +18,7 @@
 | 16 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 177.15 |
 | 17 | [Supraland](games/s/supraland.md) | 4.60 | 22 348 | 88.01 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 254 | 288.66 |
-| 19 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
+| 19 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 980 | 169.36 |
 | 20 | [Among Us](games/a/among_us.md) | 4.59 | 16 439 | 195.98 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 370 | 117.66 |
 | 22 | [Chivalry 2](games/c/chivalry_2.md) | 4.63 | 14 559 | 95.24 |
@@ -30,10 +30,10 @@
 | 28 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 13 274 | 202.69 |
 | 29 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 231.89 |
 | 30 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 834 | 140.57 |
-| 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 144.34 |
+| 31 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 834 | 154.57 |
 | 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
 | 33 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 418.59 |
-| 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 80.37 |
+| 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 550 | 81.52 |
 | 35 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 216 | 58.80 |
 | 36 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
 | 37 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 170.58 |
@@ -44,7 +44,7 @@
 | 42 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 8 637 | 106.51 |
 | 43 | [Control](games/c/control.md) | 4.60 | 8 590 | 138.13 |
 | 44 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.61 | 8 299 | 130.66 |
-| 45 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
+| 45 | [Prey](games/p/prey.md) | 4.61 | 8 206 | 136.31 |
 | 46 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 55.68 |
 | 47 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 7 806 | 143.05 |
 | 48 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 648 | 69.72 |
@@ -310,7 +310,7 @@
 | 308 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 220 | 0.00 |
 | 309 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 219 | 3.60 |
 | 310 | [Alan Wake](games/a/alan_wake.md) | 4.42 | 217 | 0.00 |
-| 311 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 212 | 0.00 |
+| 311 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 215 | 0.00 |
 | 312 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.30 | 211 | 0.00 |
 | 313 | [Darq: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 205 | 0.00 |
 | 314 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 203 | 0.00 |

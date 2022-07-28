@@ -98,7 +98,7 @@
 | 96 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
 | 97 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 2 784 | 66.51 |
 | 98 | [Scott Pilgrim vs. The World: The Game](games/s/scott_pilgrim_vs._the_world__the_game.md) | 4.75 | 57 | 0.00 |
-| 99 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 144.34 |
+| 99 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 834 | 154.57 |
 | 100 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.74 | 34 | 0.00 |
 | 101 | [Destroy all Humans!](games/d/destroy_all_humans!_1.md) | 4.74 | 50 | 0.00 |
 | 102 | [House Flipper](games/h/house_flipper.md) | 4.74 | 643 | 3.80 |
@@ -215,7 +215,7 @@
 | 213 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
 | 214 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 423 | 30.62 |
 | 215 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.64 | 233 | 0.00 |
-| 216 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
+| 216 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 980 | 169.36 |
 | 217 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.64 | 85 | 0.00 |
 | 218 | [Far Cry Primal](games/f/far_cry_primal.md) | 4.64 | 260 | 0.00 |
 | 219 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 468 | 266.23 |
@@ -253,7 +253,7 @@
 | 251 | [Mechwarrior 5](games/m/mechwarrior_5_1.md) | 4.61 | 2 996 | 29.52 |
 | 252 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.61 | 412 | 0.00 |
 | 253 | [MythForce](games/m/mythforce.md) | 4.61 | 166 | 0.00 |
-| 254 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
+| 254 | [Prey](games/p/prey.md) | 4.61 | 8 206 | 136.31 |
 | 255 | [RiME](games/r/rime.md) | 4.61 | 49 | 0.00 |
 | 256 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 824 | 34.73 |
 | 257 | [Slipways](games/s/slipways.md) | 4.61 | 23 | 0.00 |
@@ -427,16 +427,16 @@
 | 425 | [Assassin's Creed I: Director's Cut](games/a/assassin's_creed_i__director's_cut.md) | 4.44 | 75 | 0.00 |
 | 426 | [Assassin's Creed III: Remastered](games/a/assassin's_creed_iii__remastered.md) | 4.44 | 118 | 0.00 |
 | 427 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.44 | 45 | 0.00 |
-| 428 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
-| 429 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 726 | 23.99 |
-| 430 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 020 | 19.40 |
-| 431 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 2 762 | 26.60 |
-| 432 | [Darksiders III](games/d/darksiders_iii.md) | 4.43 | 72 | 0.00 |
-| 433 | [Death Coming](games/d/death_coming.md) | 4.43 | 56 | 0.00 |
-| 434 | [Far Cry 6](games/f/far_cry_6.md) | 4.43 | 6 513 | 112.74 |
-| 435 | [Layers of Fear](games/l/layers_of_fear.md) | 4.43 | 72 | 0.00 |
-| 436 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.43 | 23 | 0.00 |
-| 437 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 212 | 0.00 |
+| 428 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 215 | 0.00 |
+| 429 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
+| 430 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 726 | 23.99 |
+| 431 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 020 | 19.40 |
+| 432 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 2 762 | 26.60 |
+| 433 | [Darksiders III](games/d/darksiders_iii.md) | 4.43 | 72 | 0.00 |
+| 434 | [Death Coming](games/d/death_coming.md) | 4.43 | 56 | 0.00 |
+| 435 | [Far Cry 6](games/f/far_cry_6.md) | 4.43 | 6 513 | 112.74 |
+| 436 | [Layers of Fear](games/l/layers_of_fear.md) | 4.43 | 72 | 0.00 |
+| 437 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.43 | 23 | 0.00 |
 | 438 | [Saint's Row The Third Remastered](games/s/saint's_row_the_third_remastered.md) | 4.43 | 2 900 | 49.61 |
 | 439 | [Sheltered](games/s/sheltered.md) | 4.43 | 442 | 12.00 |
 | 440 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.43 | 1 192 | 32.93 |
@@ -559,7 +559,7 @@
 | 557 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 24 | 0.00 |
 | 558 | [Insurmountable](games/i/insurmountable.md) | 4.16 | 407 | 5.67 |
 | 559 | [Space Punks](games/s/space_punks.md) | 4.16 | 1 081 | 9.06 |
-| 560 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 80.37 |
+| 560 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 550 | 81.52 |
 | 561 | [Relicta](games/r/relicta.md) | 4.15 | 235 | 0.00 |
 | 562 | [Werewolf: The Apocalypse - Earthblood](games/w/werewolf__the_apocalypse_-_earthblood.md) | 4.15 | 39 | 0.00 |
 | 563 | [Godfall](games/g/godfall.md) | 4.14 | 485 | 5.36 |

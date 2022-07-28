@@ -31,19 +31,19 @@
 | 29 | [Ark](games/a/ark.md) | 4.63 | 27 868 | 177.15 |
 | 30 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.48 | 32 756 | 170.59 |
 | 31 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 170.58 |
-| 32 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 965 | 165.53 |
-| 33 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 148.89 |
-| 34 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 819 | 144.34 |
+| 32 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 980 | 169.36 |
+| 33 | [Snowrunner](games/s/snowrunner_1.md) | 4.75 | 12 834 | 154.57 |
+| 34 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 814 | 148.89 |
 | 35 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 7 806 | 143.05 |
 | 36 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 12 834 | 140.57 |
 | 37 | [Control](games/c/control.md) | 4.60 | 8 590 | 138.13 |
-| 38 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 100 | 135.77 |
-| 39 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 032 | 132.86 |
-| 40 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.61 | 8 299 | 130.66 |
-| 41 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 370 | 117.66 |
-| 42 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 900 | 115.49 |
-| 43 | [Far Cry 6](games/f/far_cry_6.md) | 4.43 | 6 513 | 112.74 |
-| 44 | [Prey](games/p/prey.md) | 4.61 | 8 174 | 111.03 |
+| 38 | [Prey](games/p/prey.md) | 4.61 | 8 206 | 136.31 |
+| 39 | [Magic: The Gathering](games/m/magic__the_gathering.md) | 4.45 | 9 100 | 135.77 |
+| 40 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 7 032 | 132.86 |
+| 41 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.61 | 8 299 | 130.66 |
+| 42 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 15 370 | 117.66 |
+| 43 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 5 900 | 115.49 |
+| 44 | [Far Cry 6](games/f/far_cry_6.md) | 4.43 | 6 513 | 112.74 |
 | 45 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 7 097 | 106.66 |
 | 46 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.57 | 6 387 | 106.66 |
 | 47 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 8 637 | 106.51 |
@@ -58,7 +58,7 @@
 | 56 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 3 314 | 82.66 |
 | 57 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 6 060 | 82.46 |
 | 58 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.73 | 5 495 | 81.90 |
-| 59 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 80.37 |
+| 59 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 550 | 81.52 |
 | 60 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 5 984 | 80.14 |
 | 61 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 479 | 79.65 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 78.92 |
@@ -471,7 +471,7 @@
 | 469 | [Port Royale 4](games/p/port_royale_4.md) | 3.92 | 25 | 0.00 |
 | 470 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.22 | 23 | 0.00 |
 | 471 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 48 | 0.00 |
-| 472 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 212 | 0.00 |
+| 472 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 215 | 0.00 |
 | 473 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.42 | 33 | 0.00 |
 | 474 | [Rayman Legends](games/r/rayman_legends.md) | 4.68 | 194 | 0.00 |
 | 475 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 20 | 0.00 |
