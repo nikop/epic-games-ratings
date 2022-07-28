@@ -2,11 +2,11 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising",
   "ProductSlug": null,
-  "Rating": 4.58,
-  "NumberOfRatings": 463,
-  "DailyRatings": 5.33,
+  "Rating": 4.59,
+  "NumberOfRatings": 468,
+  "DailyRatings": 9.19,
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2022-07-28T14:01:35.7767194+00:00",
+  "LastChanged": "2022-07-28T19:31:19.3844956+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:58.8142391+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-07-28T14:01:35.7767195+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 463
+    },
+    {
+      "Time": "2022-07-28T19:31:19.3844957+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 468
     }
   ],
   "Tags": [

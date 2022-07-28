@@ -3,10 +3,10 @@
   "Name": "Far Cry 4",
   "ProductSlug": null,
   "Rating": 4.68,
-  "NumberOfRatings": 361,
-  "DailyRatings": 3.7,
+  "NumberOfRatings": 362,
+  "DailyRatings": 4.64,
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2022-07-28T16:58:47.5178489+00:00",
+  "LastChanged": "2022-07-28T19:31:44.8469099+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-28T16:58:47.5178491+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 361
+    },
+    {
+      "Time": "2022-07-28T19:31:44.84691+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 362
     }
   ],
   "Tags": [

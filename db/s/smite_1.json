@@ -3,10 +3,10 @@
   "Name": "Smite",
   "ProductSlug": null,
   "Rating": 4.47,
-  "NumberOfRatings": 4776,
-  "DailyRatings": 58.78,
+  "NumberOfRatings": 4789,
+  "DailyRatings": 63.31,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-07-28T16:00:49.5586003+00:00",
+  "LastChanged": "2022-07-28T19:30:46.7921467+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-07-28T16:00:49.5586005+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 4776
+    },
+    {
+      "Time": "2022-07-28T19:30:46.7921468+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 4789
     }
   ],
   "Tags": [

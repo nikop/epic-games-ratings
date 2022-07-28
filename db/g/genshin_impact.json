@@ -3,10 +3,10 @@
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
   "Rating": 4.7,
-  "NumberOfRatings": 138679,
-  "DailyRatings": 1429.91,
+  "NumberOfRatings": 139255,
+  "DailyRatings": 1683.74,
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2022-07-28T14:01:40.986465+00:00",
+  "LastChanged": "2022-07-28T19:31:24.2227808+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-07-28T14:01:40.9864652+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 138679
+    },
+    {
+      "Time": "2022-07-28T19:31:24.2227809+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 139255
     }
   ],
   "Tags": [
