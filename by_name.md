@@ -157,7 +157,7 @@
 | 155 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.72 | 39 | 0.00 |
 | 156 | [F.I.S.T. Forged In Shadow Torch](games/f/f.i.s.t._forged_in_shadow_torch.md) | 4.60 | 348 | 2.40 |
 | 157 | [Faeria](games/f/faeria.md) | 4.49 | 118 | 0.00 |
-| 158 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
+| 158 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 268 | 7411.20 |
 | 159 | [Far Cry](games/f/far_cry.md) | 4.31 | 26 | 0.00 |
 | 160 | [Far Cry 2: Fortune's Edition](games/f/far_cry_2__fortune's_edition.md) | 4.27 | 30 | 0.00 |
 | 161 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 7.64 |
@@ -206,7 +206,7 @@
 | 204 | [Griftlands](games/g/griftlands.md) | 4.81 | 95 | 0.00 |
 | 205 | [Grime](games/g/grime.md) | 4.63 | 30 | 0.00 |
 | 206 | [Grindstone](games/g/grindstone.md) | 4.81 | 32 | 0.00 |
-| 207 | [Hades](games/h/hades.md) | 4.92 | 3 703 | 75.29 |
+| 207 | [Hades](games/h/hades.md) | 4.92 | 3 706 | 76.08 |
 | 208 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 74 | 0.00 |
 | 209 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 411 | 0.00 |
 | 210 | [Haven](games/h/haven.md) | 4.77 | 22 | 0.00 |
@@ -220,7 +220,7 @@
 | 218 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 409 | 69.82 |
 | 219 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 402.54 |
 | 220 | [Hob](games/h/hob.md) | 4.59 | 247 | 0.00 |
-| 221 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 202 | 53.45 |
+| 221 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 211 | 58.84 |
 | 222 | [Horace](games/h/horace.md) | 4.62 | 26 | 0.00 |
 | 223 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 711 | 19.21 |
 | 224 | [Horizon Zero Dawn Complete Edition](games/h/horizon_zero_dawn_complete_edition.md) | 4.77 | 4 288 | 97.09 |
@@ -262,7 +262,7 @@
 | 260 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 101 | 0.00 |
 | 261 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 1 050 | 16.46 |
 | 262 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 42 | 0.00 |
-| 263 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 987 | 12.00 |
+| 263 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.49 | 991 | 14.20 |
 | 264 | [Kingdoms Of Amalur Re-Reckoning](games/k/kingdoms_of_amalur_re-reckoning_1.md) | 4.54 | 72 | 0.00 |
 | 265 | [Layers of Fear](games/l/layers_of_fear.md) | 4.43 | 72 | 0.00 |
 | 266 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 120 | 0.00 |

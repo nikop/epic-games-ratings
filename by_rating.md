@@ -2,7 +2,7 @@
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Art of Rally](games/a/art_of_rally_1.md) | 4.97 | 32 | 0.00 |
 | 2 | [Anno 1404](games/a/anno_1404.md) | 4.94 | 31 | 0.00 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3 703 | 75.29 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3 706 | 76.08 |
 | 4 | [Celeste](games/c/celeste.md) | 4.91 | 1 432 | 21.95 |
 | 5 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 382 | 24.00 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 60 826 | 863.74 |
@@ -351,7 +351,7 @@
 | 349 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 350 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 683 | 449.44 |
 | 351 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 589 | 5.73 |
-| 352 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
+| 352 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 268 | 7411.20 |
 | 353 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.53 | 151 | 0.00 |
 | 354 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 116 | 0.00 |
 | 355 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 293 | 12.03 |
@@ -375,16 +375,16 @@
 | 373 | [The Surge](games/t/the_surge.md) | 4.51 | 39 | 0.00 |
 | 374 | [Verdun](games/v/verdun.md) | 4.51 | 1 231 | 20.39 |
 | 375 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.50 | 26 | 0.00 |
-| 376 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 987 | 12.00 |
-| 377 | [Mutant Year Zero](games/m/mutant_year_zero.md) | 4.50 | 1 071 | 0.00 |
-| 378 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 473 | 6.86 |
-| 379 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 203 | 0.00 |
-| 380 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 46 | 0.00 |
-| 381 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 399 | 10.46 |
-| 382 | [Chorus](games/c/chorus.md) | 4.49 | 35 | 0.00 |
-| 383 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 43 | 0.00 |
-| 384 | [Faeria](games/f/faeria.md) | 4.49 | 118 | 0.00 |
-| 385 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
+| 376 | [Mutant Year Zero](games/m/mutant_year_zero.md) | 4.50 | 1 071 | 0.00 |
+| 377 | [PHANTASY STAR ONLINE 2](games/p/phantasy_star_online_2_1.md) | 4.50 | 473 | 6.86 |
+| 378 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 203 | 0.00 |
+| 379 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 46 | 0.00 |
+| 380 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 399 | 10.46 |
+| 381 | [Chorus](games/c/chorus.md) | 4.49 | 35 | 0.00 |
+| 382 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 43 | 0.00 |
+| 383 | [Faeria](games/f/faeria.md) | 4.49 | 118 | 0.00 |
+| 384 | [Hue](games/h/hue.md) | 4.49 | 234 | 0.00 |
+| 385 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.49 | 991 | 14.20 |
 | 386 | [Maneater](games/m/maneater.md) | 4.49 | 74 855 | 181.24 |
 | 387 | [Paradigm](games/p/paradigm.md) | 4.49 | 158 | 0.00 |
 | 388 | [Riverbond](games/r/riverbond.md) | 4.49 | 389 | 0.00 |
@@ -584,7 +584,7 @@
 | 582 | [Tharsis](games/t/tharsis.md) | 4.03 | 30 | 0.00 |
 | 583 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 4.00 | 197 | 19.37 |
 | 584 | [Lifeless Planet](games/l/lifeless_planet.md) | 3.99 | 152 | 0.00 |
-| 585 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 202 | 53.45 |
+| 585 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 211 | 58.84 |
 | 586 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 3.98 | 84 | 0.00 |
 | 587 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 3.97 | 33 | 0.00 |
 | 588 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 412 | 6.85 |

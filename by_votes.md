@@ -1,7 +1,7 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
-| 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
+| 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 268 | 7411.20 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
@@ -34,7 +34,7 @@
 | 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 12 200 | 89.97 |
 | 33 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 12 113 | 402.54 |
 | 34 | [The Cycle](games/t/the_cycle.md) | 4.16 | 11 545 | 95.00 |
-| 35 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 202 | 53.45 |
+| 35 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 211 | 58.84 |
 | 36 | [Tomb Raider GOTY](games/t/tomb_raider_goty.md) | 4.67 | 10 638 | 181.15 |
 | 37 | [World War Z](games/w/world_war_z.md) | 4.57 | 10 200 | 169.10 |
 | 38 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 9 790 | 154.91 |
@@ -82,7 +82,7 @@
 | 80 | [Metro Exodus](games/m/metro_exodus.md) | 4.80 | 4 122 | 49.33 |
 | 81 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 84.53 |
 | 82 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 3 892 | 45.81 |
-| 83 | [Hades](games/h/hades.md) | 4.92 | 3 703 | 75.29 |
+| 83 | [Hades](games/h/hades.md) | 4.92 | 3 706 | 76.08 |
 | 84 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
 | 85 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 409 | 69.82 |
 | 86 | [Assassin's Creed Odyssey](games/a/assassin's_creed_odyssey.md) | 4.75 | 3 408 | 48.10 |
@@ -175,7 +175,7 @@
 | 173 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
 | 174 | [Watch Dogs](games/w/watch_dogs.md) | 4.57 | 1 010 | 20.51 |
 | 175 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 999 | 21.96 |
-| 176 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 987 | 12.00 |
+| 176 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.49 | 991 | 14.20 |
 | 177 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 965 | 47.42 |
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 940 | 12.03 |
 | 179 | [Core](games/c/core.md) | 4.39 | 911 | 13.59 |

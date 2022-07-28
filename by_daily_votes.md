@@ -1,7 +1,7 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 4.32 | 1 604 911 | 12123.22 |
-| 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 805 825 | 7177.09 |
+| 2 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 806 268 | 7411.20 |
 | 3 | [Grand Theft Auto V](games/g/grand_theft_auto_v.md) | 4.69 | 327 854 | 6955.55 |
 | 4 | [Rocket League](games/r/rocket_league.md) | 4.56 | 258 264 | 2293.09 |
 | 5 | [Genshin Impact](games/g/genshin_impact.md) | 4.70 | 138 679 | 1429.91 |
@@ -64,8 +64,8 @@
 | 62 | [XCOM® 2](games/x/xcom®_2.md) | 4.56 | 4 644 | 78.48 |
 | 63 | [Assassin's Creed Valhalla](games/a/assassin's_creed_valhalla.md) | 4.59 | 7 648 | 78.28 |
 | 64 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.87 | 4 712 | 77.39 |
-| 65 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 913 | 75.59 |
-| 66 | [Hades](games/h/hades.md) | 4.92 | 3 703 | 75.29 |
+| 65 | [Hades](games/h/hades.md) | 4.92 | 3 706 | 76.08 |
+| 66 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 5 913 | 75.59 |
 | 67 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.46 | 2 146 | 73.20 |
 | 68 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 8 950 | 71.98 |
 | 69 | [Into The Breach](games/i/into_the_breach.md) | 4.84 | 1 899 | 70.15 |
@@ -79,16 +79,16 @@
 | 77 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 3 377 | 62.58 |
 | 78 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 8 641 | 61.85 |
 | 79 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 3 335 | 59.61 |
-| 80 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
-| 81 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 57.62 |
-| 82 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |
-| 83 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
-| 84 | [Saint's Row The Third Remastered](games/s/saint's_row_the_third_remastered.md) | 4.43 | 2 900 | 55.67 |
-| 85 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 420 | 55.43 |
-| 86 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.38 |
-| 87 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 54.02 |
-| 88 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 53.77 |
-| 89 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 202 | 53.45 |
+| 80 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 11 211 | 58.84 |
+| 81 | [Smite](games/s/smite_1.md) | 4.47 | 4 776 | 58.78 |
+| 82 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.70 | 4 936 | 57.62 |
+| 83 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1 661 | 56.99 |
+| 84 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 3 448 | 56.47 |
+| 85 | [Saint's Row The Third Remastered](games/s/saint's_row_the_third_remastered.md) | 4.43 | 2 900 | 55.67 |
+| 86 | [Rainbow Six Siege](games/r/rainbow_six_siege.md) | 4.60 | 5 420 | 55.43 |
+| 87 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2 384 | 54.38 |
+| 88 | [Evil Dead](games/e/evil_dead.md) | 4.51 | 7 995 | 54.02 |
+| 89 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 53.77 |
 | 90 | [Watch Dogs 2](games/w/watch_dogs_2.md) | 4.57 | 3 388 | 53.33 |
 | 91 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.21 | 2 755 | 52.29 |
 | 92 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 4 900 | 52.29 |
@@ -177,24 +177,24 @@
 | 175 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 1 015 | 15.27 |
 | 176 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 868 | 14.64 |
 | 177 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1 485 | 14.40 |
-| 178 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
-| 179 | [Core](games/c/core.md) | 4.39 | 911 | 13.59 |
-| 180 | [Assassin's Creed Syndicate](games/a/assassin's_creed_syndicate.md) | 4.51 | 1 512 | 13.50 |
-| 181 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
-| 182 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 1 097 | 13.50 |
-| 183 | [Outriders](games/o/outriders_1.md) | 4.42 | 880 | 13.20 |
-| 184 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
-| 185 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 672 | 13.09 |
-| 186 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
-| 187 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
-| 188 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 12.28 |
-| 189 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 293 | 12.03 |
-| 190 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 940 | 12.03 |
-| 191 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
-| 192 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
-| 193 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
-| 194 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
-| 195 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 987 | 12.00 |
+| 178 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.49 | 991 | 14.20 |
+| 179 | [Surviving the Aftermath](games/s/surviving_the_aftermath.md) | 4.44 | 475 | 13.99 |
+| 180 | [Core](games/c/core.md) | 4.39 | 911 | 13.59 |
+| 181 | [Assassin's Creed Syndicate](games/a/assassin's_creed_syndicate.md) | 4.51 | 1 512 | 13.50 |
+| 182 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.38 | 1 011 | 13.50 |
+| 183 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 1 097 | 13.50 |
+| 184 | [Outriders](games/o/outriders_1.md) | 4.42 | 880 | 13.20 |
+| 185 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
+| 186 | [Path of Exile](games/p/path_of_exile.md) | 4.66 | 1 672 | 13.09 |
+| 187 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 1 018 | 13.09 |
+| 188 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 577 | 13.09 |
+| 189 | [Conan Exiles](games/c/conan_exiles.md) | 4.58 | 732 | 12.28 |
+| 190 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 293 | 12.03 |
+| 191 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 940 | 12.03 |
+| 192 | [Inscryption](games/i/inscryption.md) | 4.85 | 490 | 12.01 |
+| 193 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 2 037 | 12.00 |
+| 194 | [Ghostrunner](games/g/ghostrunner.md) | 4.75 | 454 | 12.00 |
+| 195 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.35 | 1 077 | 12.00 |
 | 196 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 494 | 12.00 |
 | 197 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 1 194 | 12.00 |
 | 198 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 189 | 11.99 |
