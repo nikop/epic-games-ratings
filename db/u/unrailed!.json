@@ -2,16 +2,21 @@
   "ID": "5a6d34ba28bc45d081d9311c3885feef",
   "Name": "Unrailed!",
   "ProductSlug": null,
-  "Rating": 4.7,
-  "NumberOfRatings": 20,
+  "Rating": 4.71,
+  "NumberOfRatings": 21,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
-  "LastChanged": "2022-07-23T20:01:02.5294034+00:00",
+  "LastChanged": "2022-07-28T12:01:31.1471474+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-23T20:01:02.5294037+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-07-28T12:01:31.1471479+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []

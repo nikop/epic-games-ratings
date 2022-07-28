@@ -3,10 +3,10 @@
   "Name": "Outriders",
   "ProductSlug": null,
   "Rating": 4.42,
-  "NumberOfRatings": 874,
-  "DailyRatings": 8.4,
+  "NumberOfRatings": 877,
+  "DailyRatings": 10,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-07-28T08:00:57.2497783+00:00",
+  "LastChanged": "2022-07-28T12:01:03.9814796+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-07-28T08:00:57.2497784+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 874
+    },
+    {
+      "Time": "2022-07-28T12:01:03.9814797+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 877
     }
   ],
   "Tags": [
@@ -185,7 +190,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game is Extremely Fun",
