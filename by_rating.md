@@ -205,19 +205,19 @@
 | 203 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.66 | 125 | 0.00 |
 | 204 | [Warframe](games/w/warframe.md) | 4.66 | 6 960 | 98.18 |
 | 205 | [Far Cry 3](games/f/far_cry_3.md) | 4.65 | 240 | 0.00 |
-| 206 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
-| 207 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 417 | 73.60 |
-| 208 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
-| 209 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
-| 210 | [Old World](games/o/old_world.md) | 4.65 | 867 | 5.21 |
-| 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
-| 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 315 | 7.08 |
-| 213 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
-| 214 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 426 | 32.36 |
-| 215 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.64 | 233 | 0.00 |
-| 216 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 980 | 169.36 |
-| 217 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.64 | 85 | 0.00 |
-| 218 | [Far Cry Primal](games/f/far_cry_primal.md) | 4.64 | 260 | 0.00 |
+| 206 | [Far Cry Primal](games/f/far_cry_primal.md) | 4.65 | 262 | 9.43 |
+| 207 | [FUSER™](games/f/fuser™.md) | 4.65 | 57 | 0.00 |
+| 208 | [Hitman 2016](games/h/hitman_2016.md) | 4.65 | 3 417 | 73.60 |
+| 209 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.65 | 20 | 0.00 |
+| 210 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 248 | 5.10 |
+| 211 | [Old World](games/o/old_world.md) | 4.65 | 867 | 5.21 |
+| 212 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
+| 213 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 315 | 7.08 |
+| 214 | [Steep](games/s/steep.md) | 4.65 | 154 | 0.00 |
+| 215 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.65 | 1 426 | 32.36 |
+| 216 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.64 | 233 | 0.00 |
+| 217 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 17 980 | 169.36 |
+| 218 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.64 | 85 | 0.00 |
 | 219 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 14 468 | 266.23 |
 | 220 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 149 | 0.00 |
 | 221 | [The Alto Collection](games/t/the_alto_collection.md) | 4.64 | 167 | 6.91 |
@@ -255,7 +255,7 @@
 | 253 | [MythForce](games/m/mythforce.md) | 4.61 | 166 | 0.00 |
 | 254 | [Prey](games/p/prey.md) | 4.61 | 8 206 | 136.31 |
 | 255 | [RiME](games/r/rime.md) | 4.61 | 49 | 0.00 |
-| 256 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 824 | 34.73 |
+| 256 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 826 | 35.33 |
 | 257 | [Slipways](games/s/slipways.md) | 4.61 | 23 | 0.00 |
 | 258 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 33 | 0.00 |
 | 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.61 | 70 | 0.00 |

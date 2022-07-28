@@ -1,6 +1,6 @@
 # Far Cry Primal
-Rating: 4.64 (260)  
-Ratings Per Day: 0.00  
+Rating: 4.65 (262)  
+Ratings Per Day: 9.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 0.00
 | 2022-07-25 | 4.63 | 245 |
 | 2022-07-26 | 4.64 | 251 |
 | 2022-07-27 | 4.64 | 253 |
-| 2022-07-28 | 4.64 | 260 |
+| 2022-07-28 | 4.65 | 262 |
