@@ -2,16 +2,21 @@
   "ID": "b258cb25f6cc4031914256c2d42b2188",
   "Name": "The World Next Door",
   "ProductSlug": "the-world-next-door/home",
-  "Rating": 4.3,
-  "NumberOfRatings": 20,
+  "Rating": 4.32,
+  "NumberOfRatings": 22,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:16.7067769+00:00",
-  "LastChanged": "2022-07-23T22:02:21.5318769+00:00",
+  "LastChanged": "2022-07-28T00:02:46.1946777+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-23T22:02:21.531877+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-07-28T00:02:46.1946779+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []

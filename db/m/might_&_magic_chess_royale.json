@@ -3,10 +3,10 @@
   "Name": "Might \u0026 Magic Chess Royale",
   "ProductSlug": "might-and-magic-chess-royale",
   "Rating": 4.51,
-  "NumberOfRatings": 157,
-  "DailyRatings": 4.8,
+  "NumberOfRatings": 158,
+  "DailyRatings": 3.27,
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2022-07-27T12:01:56.0670522+00:00",
+  "LastChanged": "2022-07-28T00:02:10.5239938+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:16.1959449+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-27T12:01:56.0670523+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 157
+    },
+    {
+      "Time": "2022-07-28T00:02:10.523994+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 158
     }
   ],
   "Tags": [

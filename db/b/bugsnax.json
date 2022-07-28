@@ -3,10 +3,10 @@
   "Name": "Bugsnax",
   "ProductSlug": null,
   "Rating": 4.8,
-  "NumberOfRatings": 247,
-  "DailyRatings": 0,
+  "NumberOfRatings": 250,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
-  "LastChanged": "2022-07-27T00:01:55.6339911+00:00",
+  "LastChanged": "2022-07-28T00:02:24.2920448+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:14.968778+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-27T00:01:55.6339913+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 247
+    },
+    {
+      "Time": "2022-07-28T00:02:24.2920449+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 250
     }
   ],
   "Tags": []

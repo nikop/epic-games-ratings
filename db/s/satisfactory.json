@@ -2,11 +2,11 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Rating": 4.89,
-  "NumberOfRatings": 19029,
-  "DailyRatings": 246.98,
+  "Rating": 4.88,
+  "NumberOfRatings": 19046,
+  "DailyRatings": 241.13,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2022-07-27T22:01:14.4352114+00:00",
+  "LastChanged": "2022-07-28T00:01:31.7652091+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:11.7040588+00:00",
@@ -237,6 +237,11 @@
       "Time": "2022-07-27T22:01:14.4352115+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 19029
+    },
+    {
+      "Time": "2022-07-28T00:01:31.7652096+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 19046
     }
   ],
   "Tags": [

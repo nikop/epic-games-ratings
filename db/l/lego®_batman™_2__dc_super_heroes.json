@@ -3,10 +3,10 @@
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
   "ProductSlug": "lego-batman-2/home",
   "Rating": 4.69,
-  "NumberOfRatings": 250,
-  "DailyRatings": 0,
+  "NumberOfRatings": 253,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
-  "LastChanged": "2022-07-27T00:01:17.069545+00:00",
+  "LastChanged": "2022-07-28T00:01:49.3179375+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:32.5025742+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-27T00:01:17.0695451+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 250
+    },
+    {
+      "Time": "2022-07-28T00:01:49.3179377+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 253
     }
   ],
   "Tags": [
