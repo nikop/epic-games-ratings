@@ -9,7 +9,7 @@
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.35 | 108 | 0.00 |
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 62 | 0.00 |
 | 9 | [AER](games/a/aer.md) | 4.44 | 94 | 0.00 |
-| 10 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 957 | 41.45 |
+| 10 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 965 | 47.42 |
 | 11 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.74 | 34 | 0.00 |
 | 12 | [Alan Wake](games/a/alan_wake.md) | 4.42 | 217 | 0.00 |
 | 13 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 293 | 12.03 |
@@ -54,7 +54,7 @@
 | 52 | [Barony](games/b/barony.md) | 4.71 | 377 | 8.02 |
 | 53 | [Batman Arkham Asylum](games/b/batman_arkham_asylum.md) | 4.69 | 1 064 | 19.99 |
 | 54 | [Batman Arkham City](games/b/batman_arkham_city.md) | 4.79 | 1 476 | 27.98 |
-| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 950 | 80.52 |
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.81 | 3 955 | 84.53 |
 | 56 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.55 | 22 | 0.00 |
 | 57 | [Before We Leave](games/b/before_we_leave.md) | 4.60 | 42 | 0.00 |
 | 58 | [Beyond: Two Souls](games/b/beyond__two_souls.md) | 4.68 | 199 | 0.00 |
@@ -97,7 +97,7 @@
 | 95 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 25 | 0.00 |
 | 96 | [Cozy Grove](games/c/cozy_grove.md) | 4.85 | 26 | 0.00 |
 | 97 | [Crashlands](games/c/crashlands.md) | 4.67 | 285 | 4.00 |
-| 98 | [Crayta](games/c/crayta.md) | 4.21 | 71 | 0.00 |
+| 98 | [Crayta](games/c/crayta.md) | 4.22 | 72 | 3.29 |
 | 99 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.47 | 62 | 0.00 |
 | 100 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 448 | 3.00 |
 | 101 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.46 | 290 | 0.00 |
@@ -119,7 +119,7 @@
 | 117 | [Darq: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 205 | 0.00 |
 | 118 | [Dauntless](games/d/dauntless.md) | 4.53 | 13 146 | 247.19 |
 | 119 | [Days Gone](games/d/days_gone.md) | 4.70 | 2 592 | 53.77 |
-| 120 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 664 | 436.09 |
+| 120 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 48 683 | 449.44 |
 | 121 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 815 | 8.00 |
 | 122 | [Death Coming](games/d/death_coming.md) | 4.43 | 56 | 0.00 |
 | 123 | [Death Stranding Directors Cut](games/d/death_stranding_directors_cut.md) | 4.84 | 1 799 | 38.66 |
@@ -312,7 +312,7 @@
 | 310 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 98 800 | 669.96 |
 | 311 | [NBA 2K21](games/n/nba_2k21.md) | 4.41 | 31 003 | 279.22 |
 | 312 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.31 | 61 | 0.00 |
-| 313 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 99 | 0.00 |
+| 313 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 104 | 5.15 |
 | 314 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 122 | 6.00 |
 | 315 | [Neon Abyss](games/n/neon_abyss.md) | 4.69 | 4 766 | 64.14 |
 | 316 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 3.98 | 84 | 0.00 |
@@ -353,7 +353,7 @@
 | 351 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.68 | 117 | 0.00 |
 | 352 | [Phoenix Point](games/p/phoenix_point.md) | 4.56 | 1 194 | 13.20 |
 | 353 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 253 | 2.09 |
-| 354 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 567 | 36.65 |
+| 354 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1 571 | 40.59 |
 | 355 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 412 | 6.85 |
 | 356 | [Pine](games/p/pine.md) | 4.12 | 352 | 8.15 |
 | 357 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 26 | 0.00 |
@@ -396,11 +396,11 @@
 | 394 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.58 | 404 | 6.00 |
 | 395 | [RUINER](games/r/ruiner.md) | 4.62 | 74 | 0.00 |
 | 396 | [Sable](games/s/sable.md) | 4.48 | 27 | 0.00 |
-| 397 | [Saint's Row The Third Remastered](games/s/saint's_row_the_third_remastered.md) | 4.43 | 2 892 | 50.18 |
+| 397 | [Saint's Row The Third Remastered](games/s/saint's_row_the_third_remastered.md) | 4.43 | 2 900 | 55.67 |
 | 398 | [Salt & Sacrifice](games/s/salt_&_sacrifice.md) | 4.29 | 1 630 | 25.85 |
 | 399 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 1 819 | 30.33 |
 | 400 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 46 | 0.00 |
-| 401 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 231 | 288.63 |
+| 401 | [Satisfactory](games/s/satisfactory.md) | 4.89 | 19 239 | 292.76 |
 | 402 | [Scavengers](games/s/scavengers.md) | 4.25 | 286 | 10.00 |
 | 403 | [Scott Pilgrim vs. The World: The Game](games/s/scott_pilgrim_vs._the_world__the_game.md) | 4.75 | 57 | 0.00 |
 | 404 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 317 | 7.50 |
