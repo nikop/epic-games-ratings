@@ -1,3 +1,4 @@
+git pull
 git submodule update --remote
 
 updater\epic-ratings-test.exe %*
