@@ -3,10 +3,10 @@
   "Name": "The Walking Dead: The Telltale Definitive Series",
   "ProductSlug": "walking-dead-definitive-series/home",
   "Rating": 4.85,
-  "NumberOfRatings": 393,
-  "DailyRatings": 0,
+  "NumberOfRatings": 397,
+  "DailyRatings": 4.92,
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2022-07-28T10:00:59.9698838+00:00",
+  "LastChanged": "2022-07-29T05:30:53.3537235+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-07-28T10:00:59.9698839+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 393
+    },
+    {
+      "Time": "2022-07-29T05:30:53.3537237+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 397
     }
   ],
   "Tags": [
