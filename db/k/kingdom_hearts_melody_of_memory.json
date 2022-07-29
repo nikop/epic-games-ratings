@@ -2,11 +2,11 @@
   "ID": "3671db367c594e2ab5020105dc52dc65",
   "Name": "KINGDOM HEARTS Melody of Memory",
   "ProductSlug": "kingdom-hearts-melody-of-memory",
-  "Rating": 4.64,
-  "NumberOfRatings": 45,
-  "DailyRatings": 0,
+  "Rating": 4.65,
+  "NumberOfRatings": 46,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:24:47.7088275+00:00",
-  "LastChanged": "2022-07-28T20:01:25.7500523+00:00",
+  "LastChanged": "2022-07-29T20:01:52.0913019+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:47.7088277+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-28T20:01:25.7500524+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 45
+    },
+    {
+      "Time": "2022-07-29T20:01:52.0913025+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 46
     }
   ],
   "Tags": []

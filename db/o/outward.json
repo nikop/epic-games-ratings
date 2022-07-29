@@ -3,10 +3,10 @@
   "Name": "Outward",
   "ProductSlug": null,
   "Rating": 4.54,
-  "NumberOfRatings": 203,
-  "DailyRatings": 3.06,
+  "NumberOfRatings": 204,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2022-07-29T19:31:20.211274+00:00",
+  "LastChanged": "2022-07-29T20:01:32.323231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-29T19:31:20.2112742+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 203
+    },
+    {
+      "Time": "2022-07-29T20:01:32.3232311+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 204
     }
   ],
   "Tags": []

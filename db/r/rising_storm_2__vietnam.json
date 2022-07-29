@@ -3,10 +3,10 @@
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": null,
   "Rating": 4.64,
-  "NumberOfRatings": 1725,
-  "DailyRatings": 25.06,
+  "NumberOfRatings": 1726,
+  "DailyRatings": 25.04,
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2022-07-29T19:03:05.2108149+00:00",
+  "LastChanged": "2022-07-29T20:01:38.0992266+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:01.9832027+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-07-29T19:03:05.2108151+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 1725
+    },
+    {
+      "Time": "2022-07-29T20:01:38.0992268+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 1726
     }
   ],
   "Tags": [

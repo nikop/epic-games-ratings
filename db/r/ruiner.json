@@ -3,10 +3,10 @@
   "Name": "RUINER",
   "ProductSlug": "ruiner/home",
   "Rating": 4.63,
-  "NumberOfRatings": 75,
-  "DailyRatings": 0,
+  "NumberOfRatings": 78,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:24:12.7413327+00:00",
-  "LastChanged": "2022-07-28T20:01:21.5597208+00:00",
+  "LastChanged": "2022-07-29T20:01:47.7425601+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:12.7413329+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-28T20:01:21.5597209+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 75
+    },
+    {
+      "Time": "2022-07-29T20:01:47.7425603+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 78
     }
   ],
   "Tags": []

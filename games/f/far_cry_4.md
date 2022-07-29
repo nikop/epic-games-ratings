@@ -1,6 +1,6 @@
 # Far Cry 4
 Rating: 4.68 (371)  
-Ratings Per Day: 9.00  
+Ratings Per Day: 16.93  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

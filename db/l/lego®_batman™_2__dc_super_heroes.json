@@ -2,11 +2,11 @@
   "ID": "cb23c857ec0d42d89b4be34d11302959",
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
   "ProductSlug": "lego-batman-2/home",
-  "Rating": 4.68,
-  "NumberOfRatings": 257,
-  "DailyRatings": 0,
+  "Rating": 4.69,
+  "NumberOfRatings": 264,
+  "DailyRatings": 8.19,
   "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
-  "LastChanged": "2022-07-28T23:31:37.056074+00:00",
+  "LastChanged": "2022-07-29T20:01:50.2185004+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:32.5025742+00:00",
@@ -47,12 +47,17 @@
       "Time": "2022-07-28T23:31:37.0560742+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 257
+    },
+    {
+      "Time": "2022-07-29T20:01:50.2185005+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 264
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 63
+      "Count": 66
     }
   ]
 }
