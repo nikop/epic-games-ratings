@@ -3,10 +3,10 @@
   "Name": "Cities Skylines",
   "ProductSlug": "cities-skylines",
   "Rating": 4.67,
-  "NumberOfRatings": 13749,
-  "DailyRatings": 285.98,
+  "NumberOfRatings": 13759,
+  "DailyRatings": 290.04,
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
-  "LastChanged": "2022-07-29T13:31:03.0745892+00:00",
+  "LastChanged": "2022-07-29T14:00:59.1603714+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:44.6167527+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-07-29T13:31:03.0745893+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 13749
+    },
+    {
+      "Time": "2022-07-29T14:00:59.1603716+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13759
     }
   ],
   "Tags": [
@@ -313,7 +318,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 675
+      "Count": 699
     },
     {
       "Text": "This game has Obsessive Gameplay",
