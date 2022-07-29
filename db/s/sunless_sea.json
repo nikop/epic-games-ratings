@@ -3,10 +3,10 @@
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
   "Rating": 4.66,
-  "NumberOfRatings": 189,
-  "DailyRatings": 2.91,
+  "NumberOfRatings": 190,
+  "DailyRatings": 3.79,
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
-  "LastChanged": "2022-07-28T22:30:37.5989636+00:00",
+  "LastChanged": "2022-07-29T01:00:38.6151694+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:36.9352359+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-28T22:30:37.5989637+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 189
+    },
+    {
+      "Time": "2022-07-29T01:00:38.6151696+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 190
     }
   ],
   "Tags": [
