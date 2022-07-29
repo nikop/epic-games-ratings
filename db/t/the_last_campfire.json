@@ -2,11 +2,11 @@
   "ID": "68214aaaa6f94c81a18c99fc2dc208cf",
   "Name": "The Last Campfire",
   "ProductSlug": "the-last-campfire",
-  "Rating": 4.89,
-  "NumberOfRatings": 27,
+  "Rating": 4.82,
+  "NumberOfRatings": 28,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:43.218901+00:00",
-  "LastChanged": "2022-07-26T00:01:18.7139466+00:00",
+  "LastChanged": "2022-07-29T23:30:52.0810742+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:43.2189013+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T00:01:18.7139467+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-07-29T23:30:52.0810743+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 28
     }
   ],
   "Tags": []

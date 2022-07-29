@@ -2,11 +2,11 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": null,
-  "Rating": 4.69,
-  "NumberOfRatings": 219,
+  "Rating": 4.7,
+  "NumberOfRatings": 221,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
-  "LastChanged": "2022-07-28T16:01:21.7912573+00:00",
+  "LastChanged": "2022-07-29T23:31:00.5415334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:48.2470944+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-28T16:01:21.7912576+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 219
+    },
+    {
+      "Time": "2022-07-29T23:31:00.5415336+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 221
     }
   ],
   "Tags": []

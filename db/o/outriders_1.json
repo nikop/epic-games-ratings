@@ -3,10 +3,10 @@
   "Name": "Outriders",
   "ProductSlug": null,
   "Rating": 4.42,
-  "NumberOfRatings": 893,
-  "DailyRatings": 8.23,
+  "NumberOfRatings": 894,
+  "DailyRatings": 8.61,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-07-29T21:30:42.6365499+00:00",
+  "LastChanged": "2022-07-29T23:30:40.8217129+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-07-29T21:30:42.63655+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 893
+    },
+    {
+      "Time": "2022-07-29T23:30:40.821713+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 894
     }
   ],
   "Tags": [

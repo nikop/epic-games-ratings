@@ -1,6 +1,6 @@
 # Far Cry 6
 Rating: 4.43 (6 714)  
-Ratings Per Day: 182.39  
+Ratings Per Day: 209.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
