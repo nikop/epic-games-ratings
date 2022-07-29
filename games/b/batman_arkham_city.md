@@ -1,6 +1,6 @@
 # Batman Arkham City
-Rating: 4.79 (1 491)  
-Ratings Per Day: 53.70  
+Rating: 4.79 (1 494)  
+Ratings Per Day: 31.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 53.70
 | 2022-07-26 | 4.78 | 1 430 |
 | 2022-07-27 | 4.78 | 1 449 |
 | 2022-07-28 | 4.79 | 1 490 |
-| 2022-07-29 | 4.79 | 1 491 |
+| 2022-07-29 | 4.79 | 1 494 |

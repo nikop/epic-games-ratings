@@ -1,6 +1,6 @@
 # Assassin's Creed Valhalla
-Rating: 4.59 (7 685)  
-Ratings Per Day: 119.07  
+Rating: 4.59 (7 717)  
+Ratings Per Day: 112.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 119.07
 | 2022-07-26 | 4.59 | 7 511 |
 | 2022-07-27 | 4.59 | 7 593 |
 | 2022-07-28 | 4.59 | 7 674 |
-| 2022-07-29 | 4.59 | 7 685 |
+| 2022-07-29 | 4.59 | 7 717 |
