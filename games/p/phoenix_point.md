@@ -1,6 +1,6 @@
 # Phoenix Point
-Rating: 4.55 (1 213)  
-Ratings Per Day: 30.00  
+Rating: 4.55 (1 216)  
+Ratings Per Day: 29.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 30.00
 | 2022-07-26 | 4.56 | 1 160 |
 | 2022-07-27 | 4.56 | 1 185 |
 | 2022-07-28 | 4.55 | 1 209 |
-| 2022-07-29 | 4.55 | 1 213 |
+| 2022-07-29 | 4.55 | 1 216 |
