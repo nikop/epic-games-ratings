@@ -3,10 +3,10 @@
   "Name": "Defense Grid: The Awakening",
   "ProductSlug": null,
   "Rating": 4.44,
-  "NumberOfRatings": 698,
-  "DailyRatings": 10.43,
+  "NumberOfRatings": 699,
+  "DailyRatings": 11,
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
-  "LastChanged": "2022-07-29T03:00:49.9201242+00:00",
+  "LastChanged": "2022-07-29T04:00:47.4431183+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:41.4012809+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-07-29T03:00:49.9201243+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 698
+    },
+    {
+      "Time": "2022-07-29T04:00:47.4431184+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 699
     }
   ],
   "Tags": [
@@ -157,7 +162,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Challenging Combat",
