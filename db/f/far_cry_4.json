@@ -3,10 +3,10 @@
   "Name": "Far Cry 4",
   "ProductSlug": null,
   "Rating": 4.68,
-  "NumberOfRatings": 369,
-  "DailyRatings": 8,
+  "NumberOfRatings": 371,
+  "DailyRatings": 9,
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2022-07-29T16:31:25.0012601+00:00",
+  "LastChanged": "2022-07-29T19:31:53.8820507+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -77,12 +77,17 @@
       "Time": "2022-07-29T16:31:25.0012602+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 369
+    },
+    {
+      "Time": "2022-07-29T19:31:53.8820508+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 371
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 128
+      "Count": 130
     }
   ]
 }

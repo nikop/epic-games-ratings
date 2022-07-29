@@ -3,10 +3,10 @@
   "Name": "The Outer Worlds",
   "ProductSlug": null,
   "Rating": 4.65,
-  "NumberOfRatings": 1447,
-  "DailyRatings": 21.33,
+  "NumberOfRatings": 1451,
+  "DailyRatings": 23.4,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-07-29T17:01:27.6849587+00:00",
+  "LastChanged": "2022-07-29T19:31:47.8010159+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -222,6 +222,11 @@
       "Time": "2022-07-29T17:01:27.6849589+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 1447
+    },
+    {
+      "Time": "2022-07-29T19:31:47.8010163+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 1451
     }
   ],
   "Tags": [

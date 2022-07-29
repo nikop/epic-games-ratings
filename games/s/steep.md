@@ -1,6 +1,6 @@
 # Steep
-Rating: 4.65 (155)  
-Ratings Per Day: 0.00  
+Rating: 4.65 (158)  
+Ratings Per Day: 3.13  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.00
 | 2022-07-26 | 4.65 | 152 |
 | 2022-07-27 | 4.65 | 154 |
 | 2022-07-28 | 4.65 | 155 |
+| 2022-07-29 | 4.65 | 158 |

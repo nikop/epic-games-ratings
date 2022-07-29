@@ -2,11 +2,11 @@
   "ID": "02572b5d530d45bcbf19e69717638396",
   "Name": "Symphony of War",
   "ProductSlug": null,
-  "Rating": 4.64,
-  "NumberOfRatings": 149,
+  "Rating": 4.65,
+  "NumberOfRatings": 150,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:23.9681849+00:00",
-  "LastChanged": "2022-07-27T20:01:35.2625464+00:00",
+  "LastChanged": "2022-07-29T19:32:00.7418497+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:23.9681851+00:00",
@@ -37,12 +37,17 @@
       "Time": "2022-07-27T20:01:35.2625465+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 149
+    },
+    {
+      "Time": "2022-07-29T19:32:00.7418498+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 150
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 37
+      "Count": 39
     }
   ]
 }

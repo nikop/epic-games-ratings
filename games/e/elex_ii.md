@@ -1,5 +1,5 @@
 # Elex II
-Rating: 4.17 (72)  
+Rating: 4.18 (74)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -9,3 +9,4 @@ Ratings Per Day: 0.00
 | 2022-07-25 | 4.22 | 67 |
 | 2022-07-27 | 4.20 | 70 |
 | 2022-07-28 | 4.17 | 72 |
+| 2022-07-29 | 4.18 | 74 |

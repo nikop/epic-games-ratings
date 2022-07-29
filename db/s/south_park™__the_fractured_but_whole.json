@@ -3,10 +3,10 @@
   "Name": "South Park\u2122: The Fractured But Whole",
   "ProductSlug": null,
   "Rating": 4.81,
-  "NumberOfRatings": 105,
-  "DailyRatings": 0,
+  "NumberOfRatings": 107,
+  "DailyRatings": 13.69,
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2022-07-29T16:00:16.9138736+00:00",
+  "LastChanged": "2022-07-29T19:30:36.5026911+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:01.7638491+00:00",
@@ -57,12 +57,17 @@
       "Time": "2022-07-29T16:00:16.9138737+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 105
+    },
+    {
+      "Time": "2022-07-29T19:30:36.5026912+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 107
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 22
+      "Count": 23
     }
   ]
 }

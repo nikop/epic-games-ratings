@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
   "Rating": 4.59,
-  "NumberOfRatings": 4963,
-  "DailyRatings": 52.02,
+  "NumberOfRatings": 4974,
+  "DailyRatings": 62,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-07-29T19:02:34.1523901+00:00",
+  "LastChanged": "2022-07-29T19:30:56.7821276+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -297,12 +297,17 @@
       "Time": "2022-07-29T19:02:34.1523903+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 4963
+    },
+    {
+      "Time": "2022-07-29T19:30:56.7821277+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 4974
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1930
+      "Count": 1963
     },
     {
       "Text": "This game is Highly Recommended",
@@ -326,7 +331,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 192
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Characters",
@@ -334,7 +339,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 181
+      "Count": 188
     },
     {
       "Text": "This game has Obsessive Gameplay",
