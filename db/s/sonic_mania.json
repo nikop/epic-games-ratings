@@ -3,10 +3,10 @@
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
   "Rating": 4.8,
-  "NumberOfRatings": 1549,
-  "DailyRatings": 22.18,
+  "NumberOfRatings": 1554,
+  "DailyRatings": 26.41,
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2022-07-28T20:31:16.698636+00:00",
+  "LastChanged": "2022-07-29T00:01:33.5907032+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-07-28T20:31:16.6986361+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 1549
+    },
+    {
+      "Time": "2022-07-29T00:01:33.5907033+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 1554
     }
   ],
   "Tags": [
