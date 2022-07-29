@@ -3,10 +3,10 @@
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon/home",
   "Rating": 4.87,
-  "NumberOfRatings": 4779,
-  "DailyRatings": 80.02,
+  "NumberOfRatings": 4789,
+  "DailyRatings": 86.81,
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2022-07-29T14:31:20.8321157+00:00",
+  "LastChanged": "2022-07-29T15:31:36.0686068+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:04.4908793+00:00",
@@ -287,6 +287,11 @@
       "Time": "2022-07-29T14:31:20.8321158+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 4779
+    },
+    {
+      "Time": "2022-07-29T15:31:36.0686069+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 4789
     }
   ],
   "Tags": [

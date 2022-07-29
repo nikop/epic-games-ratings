@@ -2,11 +2,11 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Rating": 4.68,
-  "NumberOfRatings": 438,
-  "DailyRatings": 2.18,
+  "Rating": 4.67,
+  "NumberOfRatings": 439,
+  "DailyRatings": 3.06,
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "LastChanged": "2022-07-29T14:02:25.6658291+00:00",
+  "LastChanged": "2022-07-29T15:32:24.7896314+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:36.7483718+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-29T14:02:25.6658292+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 438
+    },
+    {
+      "Time": "2022-07-29T15:32:24.7896315+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 439
     }
   ],
   "Tags": [

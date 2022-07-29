@@ -2,11 +2,11 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "Mudrunner",
   "ProductSlug": null,
-  "Rating": 4.62,
-  "NumberOfRatings": 1639,
-  "DailyRatings": 41.48,
+  "Rating": 4.63,
+  "NumberOfRatings": 1655,
+  "DailyRatings": 35.75,
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2022-07-29T03:00:23.2312763+00:00",
+  "LastChanged": "2022-07-29T15:30:42.1176051+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:58.5631344+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-07-29T03:00:23.2312764+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 1639
+    },
+    {
+      "Time": "2022-07-29T15:30:42.1176117+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 1655
     }
   ],
   "Tags": [
@@ -187,7 +192,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Educational",

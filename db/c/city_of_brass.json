@@ -3,10 +3,10 @@
   "Name": "City of Brass",
   "ProductSlug": "city-of-brass/home",
   "Rating": 4.21,
-  "NumberOfRatings": 132,
-  "DailyRatings": 0,
+  "NumberOfRatings": 135,
+  "DailyRatings": 3.06,
   "FirstSeen": "2022-07-22T20:29:59.0353728+00:00",
-  "LastChanged": "2022-07-28T16:02:14.9393752+00:00",
+  "LastChanged": "2022-07-29T15:32:13.8014066+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:59.0353731+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-28T16:02:14.9393753+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 132
+    },
+    {
+      "Time": "2022-07-29T15:32:13.8014066+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 135
     }
   ],
   "Tags": []
