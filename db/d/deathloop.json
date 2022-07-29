@@ -3,10 +3,10 @@
   "Name": "DEATHLOOP",
   "ProductSlug": null,
   "Rating": 4.53,
-  "NumberOfRatings": 591,
-  "DailyRatings": 8.66,
+  "NumberOfRatings": 595,
+  "DailyRatings": 6.68,
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2022-07-28T22:31:00.9094219+00:00",
+  "LastChanged": "2022-07-29T14:31:09.9275065+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.7837123+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-07-28T22:31:00.9094221+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 591
+    },
+    {
+      "Time": "2022-07-29T14:31:09.9275067+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 595
     }
   ],
   "Tags": []

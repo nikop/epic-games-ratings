@@ -3,10 +3,10 @@
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
   "Rating": 4.21,
-  "NumberOfRatings": 6135,
-  "DailyRatings": 92.02,
+  "NumberOfRatings": 6136,
+  "DailyRatings": 94.95,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2022-07-29T14:02:30.6357527+00:00",
+  "LastChanged": "2022-07-29T14:32:14.1128022+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -287,6 +287,11 @@
       "Time": "2022-07-29T14:02:30.6357528+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 6135
+    },
+    {
+      "Time": "2022-07-29T14:32:14.1128023+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 6136
     }
   ],
   "Tags": [

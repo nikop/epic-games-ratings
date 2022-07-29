@@ -2,11 +2,11 @@
   "ID": "94a50905f377470c84c8e4b7c38f9cdd",
   "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
   "ProductSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
-  "Rating": 4.83,
-  "NumberOfRatings": 190,
-  "DailyRatings": 3.43,
+  "Rating": 4.8,
+  "NumberOfRatings": 194,
+  "DailyRatings": 5.49,
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2022-07-28T21:01:08.6462956+00:00",
+  "LastChanged": "2022-07-29T14:30:36.7917998+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.4195291+00:00",
@@ -67,12 +67,17 @@
       "Time": "2022-07-28T21:01:08.6462957+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 190
+    },
+    {
+      "Time": "2022-07-29T14:30:36.7917999+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 194
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 64
+      "Count": 67
     }
   ]
 }

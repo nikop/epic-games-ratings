@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.63,
   "NumberOfRatings": 3123,
-  "DailyRatings": 1607.21,
+  "DailyRatings": 1675.95,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "LastChanged": "2022-07-29T14:01:14.4486864+00:00",
   "RatingHistory": [
@@ -145,6 +145,10 @@
     {
       "Text": "This game is Extremely Fun",
       "Count": 32
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 29
     }
   ]
 }

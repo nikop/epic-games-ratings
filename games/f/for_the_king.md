@@ -1,6 +1,6 @@
 # For The King
 Rating: 4.70 (3 045)  
-Ratings Per Day: 48.01  
+Ratings Per Day: 42.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
