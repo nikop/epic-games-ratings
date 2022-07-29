@@ -1,6 +1,6 @@
 # Hitman 2016
 Rating: 4.65 (3 447)  
-Ratings Per Day: 77.87  
+Ratings Per Day: 79.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
