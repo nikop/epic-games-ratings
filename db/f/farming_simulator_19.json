@@ -3,10 +3,10 @@
   "Name": "Farming Simulator 19",
   "ProductSlug": null,
   "Rating": 4.72,
-  "NumberOfRatings": 9861,
-  "DailyRatings": 210.37,
+  "NumberOfRatings": 9871,
+  "DailyRatings": 165.92,
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2022-07-28T23:00:49.0551909+00:00",
+  "LastChanged": "2022-07-29T05:00:47.890307+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:56.7737017+00:00",
@@ -222,6 +222,11 @@
       "Time": "2022-07-28T23:00:49.0551911+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 9861
+    },
+    {
+      "Time": "2022-07-29T05:00:47.8903138+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 9871
     }
   ],
   "Tags": [
@@ -251,7 +256,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 992
+      "Count": 1022
     },
     {
       "Text": "This game is Extremely Fun",
