@@ -3,10 +3,10 @@
   "Name": "NEO: The World Ends with You",
   "ProductSlug": "neo-the-world-ends-with-you",
   "Rating": 4.86,
-  "NumberOfRatings": 122,
-  "DailyRatings": 0,
+  "NumberOfRatings": 125,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
-  "LastChanged": "2022-07-28T10:01:45.9876102+00:00",
+  "LastChanged": "2022-07-29T10:01:44.2841337+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:59.3741764+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-28T10:01:45.9876103+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 122
+    },
+    {
+      "Time": "2022-07-29T10:01:44.2841338+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 125
     }
   ],
   "Tags": [

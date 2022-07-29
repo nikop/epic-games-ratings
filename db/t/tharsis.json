@@ -2,11 +2,11 @@
   "ID": "be67e141378446cf9399b3db1a22ceb3",
   "Name": "Tharsis",
   "ProductSlug": "tharsis",
-  "Rating": 4.03,
-  "NumberOfRatings": 30,
+  "Rating": 4.06,
+  "NumberOfRatings": 31,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:00.6251674+00:00",
-  "LastChanged": "2022-07-24T14:01:02.9667389+00:00",
+  "LastChanged": "2022-07-29T10:00:45.7830439+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:00.6251678+00:00",
@@ -17,6 +17,11 @@
       "Time": "2022-07-24T14:01:02.966739+00:00",
       "Rating": 4.03,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-29T10:00:45.7830441+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []
