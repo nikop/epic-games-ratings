@@ -2,11 +2,11 @@
   "ID": "1886704a76f94324ab964a4698db3e09",
   "Name": "Among Trees",
   "ProductSlug": "among-trees/home",
-  "Rating": 4.19,
-  "NumberOfRatings": 67,
-  "DailyRatings": 0,
+  "Rating": 4.22,
+  "NumberOfRatings": 69,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:19:39.253901+00:00",
-  "LastChanged": "2022-07-28T08:00:51.6116547+00:00",
+  "LastChanged": "2022-07-29T08:00:32.2878799+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.2539012+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-28T08:00:51.6116548+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 67
+    },
+    {
+      "Time": "2022-07-29T08:00:32.28788+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 69
     }
   ],
   "Tags": []
