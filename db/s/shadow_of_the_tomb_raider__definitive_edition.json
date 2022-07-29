@@ -3,10 +3,10 @@
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "ProductSlug": "shadow-of-the-tomb-raider",
   "Rating": 4.64,
-  "NumberOfRatings": 14734,
-  "DailyRatings": 240.95,
+  "NumberOfRatings": 14768,
+  "DailyRatings": 275.07,
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2022-07-29T21:02:41.6217167+00:00",
+  "LastChanged": "2022-07-29T23:02:14.6260486+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:36.0724993+00:00",
@@ -297,16 +297,21 @@
       "Time": "2022-07-29T21:02:41.6217168+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 14734
+    },
+    {
+      "Time": "2022-07-29T23:02:14.6260491+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 14768
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 3091
+      "Count": 3165
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 101
+      "Count": 105
     },
     {
       "Text": "This game has Amazing Storytelling",
