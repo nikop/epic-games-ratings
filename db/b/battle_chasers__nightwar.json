@@ -2,16 +2,21 @@
   "ID": "bd6437617fc841df8c43800901211059",
   "Name": "Battle Chasers: Nightwar",
   "ProductSlug": "battle-chasers-nightwar",
-  "Rating": 4.55,
-  "NumberOfRatings": 22,
+  "Rating": 4.57,
+  "NumberOfRatings": 23,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:09.2276065+00:00",
-  "LastChanged": "2022-07-22T20:21:09.2276066+00:00",
+  "LastChanged": "2022-07-29T15:00:46.9974364+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:09.2276067+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-07-29T15:00:46.9974365+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []

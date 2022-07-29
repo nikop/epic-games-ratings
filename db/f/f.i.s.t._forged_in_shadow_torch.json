@@ -2,11 +2,11 @@
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T. Forged In Shadow Torch",
   "ProductSlug": "fist-forged-in-shadow-torch",
-  "Rating": 4.6,
-  "NumberOfRatings": 352,
-  "DailyRatings": 5.33,
+  "Rating": 4.59,
+  "NumberOfRatings": 354,
+  "DailyRatings": 6.26,
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2022-07-29T10:01:43.7927664+00:00",
+  "LastChanged": "2022-07-29T15:01:31.8882408+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:53.9715826+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-29T10:01:43.7927666+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 352
+    },
+    {
+      "Time": "2022-07-29T15:01:31.888241+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 354
     }
   ],
   "Tags": [
