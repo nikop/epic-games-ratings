@@ -3,10 +3,10 @@
   "Name": "Salt \u0026 Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
   "Rating": 4.29,
-  "NumberOfRatings": 1634,
-  "DailyRatings": 16.56,
+  "NumberOfRatings": 1641,
+  "DailyRatings": 17.75,
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-07-29T04:31:02.2222073+00:00",
+  "LastChanged": "2022-07-29T13:01:05.8105149+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -132,12 +132,17 @@
       "Time": "2022-07-29T04:31:02.2222074+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 1634
+    },
+    {
+      "Time": "2022-07-29T13:01:05.8105151+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 1641
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 485
+      "Count": 493
     },
     {
       "Text": "This game has Great Boss Battles",

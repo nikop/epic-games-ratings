@@ -2,11 +2,11 @@
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
-  "Rating": 4.81,
-  "NumberOfRatings": 32,
-  "DailyRatings": 0,
+  "Rating": 4.82,
+  "NumberOfRatings": 33,
+  "DailyRatings": 1.04,
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
-  "LastChanged": "2022-07-28T14:02:24.9569581+00:00",
+  "LastChanged": "2022-07-29T13:01:47.543504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:27.1113518+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-28T14:02:24.9569583+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-07-29T13:01:47.5435042+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 33
     }
   ],
   "Tags": []
