@@ -2,11 +2,11 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "Grime",
   "ProductSlug": "grime",
-  "Rating": 4.63,
-  "NumberOfRatings": 30,
+  "Rating": 4.61,
+  "NumberOfRatings": 31,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
-  "LastChanged": "2022-07-26T00:01:34.9760306+00:00",
+  "LastChanged": "2022-07-29T17:01:12.6191039+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:52.5995033+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T00:01:34.9760307+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-29T17:01:12.619104+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []

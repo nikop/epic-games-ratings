@@ -1,6 +1,6 @@
 # Cyberpunk 2077
 Rating: 4.57 (14 631)  
-Ratings Per Day: 238.43  
+Ratings Per Day: 220.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
