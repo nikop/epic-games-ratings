@@ -3,10 +3,10 @@
   "Name": "Ancient Enemy",
   "ProductSlug": "ancient-enemy",
   "Rating": 3.94,
-  "NumberOfRatings": 1629,
-  "DailyRatings": 25.28,
+  "NumberOfRatings": 1644,
+  "DailyRatings": 25.61,
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
-  "LastChanged": "2022-07-28T16:57:45.7349807+00:00",
+  "LastChanged": "2022-07-29T07:00:23.8117132+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.0310517+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-07-28T16:57:45.7349808+00:00",
       "Rating": 3.94,
       "NumberOfRatings": 1629
+    },
+    {
+      "Time": "2022-07-29T07:00:23.8117135+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": 1644
     }
   ],
   "Tags": [
