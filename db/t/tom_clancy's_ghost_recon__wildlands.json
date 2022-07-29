@@ -2,11 +2,11 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon: Wildlands",
   "ProductSlug": null,
-  "Rating": 4.54,
-  "NumberOfRatings": 531,
-  "DailyRatings": 10.28,
+  "Rating": 4.55,
+  "NumberOfRatings": 532,
+  "DailyRatings": 8.4,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2022-07-29T00:01:07.1762965+00:00",
+  "LastChanged": "2022-07-29T06:00:43.8571131+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-07-29T00:01:07.1762967+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 531
+    },
+    {
+      "Time": "2022-07-29T06:00:43.8571132+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 532
     }
   ],
   "Tags": [
@@ -139,7 +144,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 24
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",

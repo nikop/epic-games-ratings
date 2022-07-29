@@ -1,6 +1,6 @@
 # Metro Exodus
-Rating: 4.80 (4 175)  
-Ratings Per Day: 99.11  
+Rating: 4.80 (4 185)  
+Ratings Per Day: 88.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 99.11
 | 2022-07-26 | 4.79 | 4 015 |
 | 2022-07-27 | 4.79 | 4 090 |
 | 2022-07-28 | 4.80 | 4 161 |
-| 2022-07-29 | 4.80 | 4 175 |
+| 2022-07-29 | 4.80 | 4 185 |

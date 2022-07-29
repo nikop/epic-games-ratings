@@ -3,10 +3,10 @@
   "Name": "Metro Exodus",
   "ProductSlug": null,
   "Rating": 4.8,
-  "NumberOfRatings": 4175,
-  "DailyRatings": 99.11,
+  "NumberOfRatings": 4185,
+  "DailyRatings": 88.8,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-07-29T01:30:21.5752515+00:00",
+  "LastChanged": "2022-07-29T06:00:27.2280563+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -222,12 +222,17 @@
       "Time": "2022-07-29T01:30:21.5752516+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 4175
+    },
+    {
+      "Time": "2022-07-29T06:00:27.2280564+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 4185
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1561
+      "Count": 1603
     },
     {
       "Text": "This game is Great for Beginners",
