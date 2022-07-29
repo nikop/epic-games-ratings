@@ -3,10 +3,10 @@
   "Name": "Warface",
   "ProductSlug": "warface",
   "Rating": 3.93,
-  "NumberOfRatings": 1604,
-  "DailyRatings": 33.02,
+  "NumberOfRatings": 1610,
+  "DailyRatings": 28.61,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-07-29T04:01:59.7925212+00:00",
+  "LastChanged": "2022-07-29T11:32:03.3477941+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -202,6 +202,11 @@
       "Time": "2022-07-29T04:01:59.7925213+00:00",
       "Rating": 3.93,
       "NumberOfRatings": 1604
+    },
+    {
+      "Time": "2022-07-29T11:32:03.3477942+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": 1610
     }
   ],
   "Tags": [
@@ -219,7 +224,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 64
+      "Count": 66
     },
     {
       "Text": "This game is Great for Beginners",

@@ -2,11 +2,11 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher/home",
-  "Rating": 4.83,
-  "NumberOfRatings": 2915,
-  "DailyRatings": 49.27,
+  "Rating": 4.82,
+  "NumberOfRatings": 2918,
+  "DailyRatings": 49.18,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-07-29T10:01:14.9895794+00:00",
+  "LastChanged": "2022-07-29T11:31:01.6043805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-07-29T10:01:14.9895794+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 2915
+    },
+    {
+      "Time": "2022-07-29T11:31:01.6043808+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 2918
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Vampire: The Masquerade \u2013 Swansong",
   "ProductSlug": null,
   "Rating": 4.22,
-  "NumberOfRatings": 540,
-  "DailyRatings": 0,
+  "NumberOfRatings": 547,
+  "DailyRatings": 7.15,
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
-  "LastChanged": "2022-07-28T12:00:58.9069578+00:00",
+  "LastChanged": "2022-07-29T11:30:36.2149464+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.8410906+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-28T12:00:58.9069581+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 540
+    },
+    {
+      "Time": "2022-07-29T11:30:36.2149465+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 547
     }
   ],
   "Tags": [
