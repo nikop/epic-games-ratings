@@ -1,6 +1,6 @@
 # Assassin's Creed Syndicate
 Rating: 4.51 (1 525)  
-Ratings Per Day: 19.83  
+Ratings Per Day: 21.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

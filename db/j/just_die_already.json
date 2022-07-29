@@ -3,10 +3,10 @@
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
   "Rating": 4.51,
-  "NumberOfRatings": 1480,
-  "DailyRatings": 22.28,
+  "NumberOfRatings": 1486,
+  "DailyRatings": 15.22,
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2022-07-28T16:01:22.144964+00:00",
+  "LastChanged": "2022-07-29T02:30:52.9476335+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.6792772+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-28T16:01:22.1449641+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 1480
+    },
+    {
+      "Time": "2022-07-29T02:30:52.9476338+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 1486
     }
   ],
   "Tags": [
@@ -164,7 +169,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",

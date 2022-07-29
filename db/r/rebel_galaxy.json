@@ -3,10 +3,10 @@
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy/home",
   "Rating": 4.36,
-  "NumberOfRatings": 406,
-  "DailyRatings": 0,
+  "NumberOfRatings": 413,
+  "DailyRatings": 8.2,
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2022-07-28T06:01:32.8766858+00:00",
+  "LastChanged": "2022-07-29T02:31:25.2461661+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:15.7165482+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-28T06:01:32.8766859+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 406
+    },
+    {
+      "Time": "2022-07-29T02:31:25.2461663+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 413
     }
   ],
   "Tags": []

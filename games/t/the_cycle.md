@@ -1,6 +1,6 @@
 # The Cycle
 Rating: 4.16 (11 577)  
-Ratings Per Day: 78.01  
+Ratings Per Day: 84.02  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
