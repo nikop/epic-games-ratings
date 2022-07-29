@@ -3,10 +3,10 @@
   "Name": "Scavengers",
   "ProductSlug": "scavengers",
   "Rating": 4.25,
-  "NumberOfRatings": 286,
+  "NumberOfRatings": 287,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
-  "LastChanged": "2022-07-28T10:00:30.8736862+00:00",
+  "LastChanged": "2022-07-29T11:00:39.4745143+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:46.6635411+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-28T10:00:30.8736863+00:00",
       "Rating": 4.25,
       "NumberOfRatings": 286
+    },
+    {
+      "Time": "2022-07-29T11:00:39.4745144+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 287
     }
   ],
   "Tags": [
@@ -88,7 +93,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",

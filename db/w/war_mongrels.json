@@ -2,11 +2,17 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4.4,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-29T11:01:05.8328653+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-29T11:01:05.8328656+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

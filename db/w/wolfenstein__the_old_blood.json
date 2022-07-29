@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The Old Blood",
   "ProductSlug": "wolfenstein-the-old-blood",
   "Rating": 4.57,
-  "NumberOfRatings": 123,
-  "DailyRatings": 0,
+  "NumberOfRatings": 126,
+  "DailyRatings": 8,
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
-  "LastChanged": "2022-07-29T02:01:59.0795652+00:00",
+  "LastChanged": "2022-07-29T11:02:12.3719113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:51.0594069+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-07-29T02:01:59.0795653+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 123
+    },
+    {
+      "Time": "2022-07-29T11:02:12.3719114+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 126
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "The Riftbreaker",
   "ProductSlug": null,
   "Rating": 4.72,
-  "NumberOfRatings": 161,
-  "DailyRatings": 4.35,
+  "NumberOfRatings": 162,
+  "DailyRatings": 3.99,
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2022-07-29T04:00:57.4674248+00:00",
+  "LastChanged": "2022-07-29T11:01:09.9057864+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:56.9409055+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-07-29T04:00:57.4674249+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 161
+    },
+    {
+      "Time": "2022-07-29T11:01:09.9057866+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 162
     }
   ],
   "Tags": []
