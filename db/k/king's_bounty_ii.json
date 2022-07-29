@@ -2,11 +2,11 @@
   "ID": "aa4742eef2744a41bdb3115cfeca8b89",
   "Name": "King\u0027s Bounty II",
   "ProductSlug": null,
-  "Rating": 4.13,
-  "NumberOfRatings": 72,
+  "Rating": 4.12,
+  "NumberOfRatings": 73,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
-  "LastChanged": "2022-07-26T14:02:46.2197342+00:00",
+  "LastChanged": "2022-07-29T21:30:48.3632702+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:59.0658277+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T14:02:46.2197343+00:00",
       "Rating": 4.13,
       "NumberOfRatings": 72
+    },
+    {
+      "Time": "2022-07-29T21:30:48.3632704+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": 73
     }
   ],
   "Tags": []

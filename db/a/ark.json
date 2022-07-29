@@ -3,10 +3,10 @@
   "Name": "Ark",
   "ProductSlug": null,
   "Rating": 4.63,
-  "NumberOfRatings": 28089,
-  "DailyRatings": 191.02,
+  "NumberOfRatings": 28115,
+  "DailyRatings": 207.99,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2022-07-29T21:00:58.0947477+00:00",
+  "LastChanged": "2022-07-29T21:30:36.3758738+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -382,6 +382,11 @@
       "Time": "2022-07-29T21:00:58.0947479+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 28089
+    },
+    {
+      "Time": "2022-07-29T21:30:36.375874+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 28115
     }
   ],
   "Tags": [

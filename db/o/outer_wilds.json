@@ -2,11 +2,11 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
-  "Rating": 4.91,
-  "NumberOfRatings": 393,
-  "DailyRatings": 0,
+  "Rating": 4.9,
+  "NumberOfRatings": 396,
+  "DailyRatings": 4.5,
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2022-07-29T05:30:50.9569717+00:00",
+  "LastChanged": "2022-07-29T21:30:54.7582165+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:49.0094839+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-29T05:30:50.9569719+00:00",
       "Rating": 4.91,
       "NumberOfRatings": 393
+    },
+    {
+      "Time": "2022-07-29T21:30:54.7582167+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 396
     }
   ],
   "Tags": []
