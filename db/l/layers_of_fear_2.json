@@ -3,10 +3,10 @@
   "Name": "Layers of Fear 2",
   "ProductSlug": "layers-of-fear-2/home",
   "Rating": 4.21,
-  "NumberOfRatings": 120,
-  "DailyRatings": 0,
+  "NumberOfRatings": 121,
+  "DailyRatings": 1.04,
   "FirstSeen": "2022-07-22T20:31:56.3171366+00:00",
-  "LastChanged": "2022-07-28T04:02:03.5887652+00:00",
+  "LastChanged": "2022-07-29T03:02:03.4343903+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:56.3171368+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-28T04:02:03.5887653+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 120
+    },
+    {
+      "Time": "2022-07-29T03:02:03.4343904+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 121
     }
   ],
   "Tags": []

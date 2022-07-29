@@ -3,10 +3,10 @@
   "Name": "Heavy Rain",
   "ProductSlug": null,
   "Rating": 4.54,
-  "NumberOfRatings": 145,
-  "DailyRatings": 0,
+  "NumberOfRatings": 148,
+  "DailyRatings": 3.13,
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2022-07-28T04:00:17.744917+00:00",
+  "LastChanged": "2022-07-29T03:00:17.5306278+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:18.3925165+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-28T04:00:17.7449233+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 145
+    },
+    {
+      "Time": "2022-07-29T03:00:17.5306279+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 148
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "SOMA",
   "ProductSlug": "soma/home",
   "Rating": 4.7,
-  "NumberOfRatings": 155,
+  "NumberOfRatings": 156,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:55.9508799+00:00",
-  "LastChanged": "2022-07-28T02:01:27.4431937+00:00",
+  "LastChanged": "2022-07-29T03:01:13.9990822+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:55.9508802+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-28T02:01:27.4431938+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 155
+    },
+    {
+      "Time": "2022-07-29T03:01:13.9990824+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 156
     }
   ],
   "Tags": []
