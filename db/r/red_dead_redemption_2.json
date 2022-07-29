@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.9,
   "NumberOfRatings": 62139,
-  "DailyRatings": 1056.93,
+  "DailyRatings": 1077.8,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
   "LastChanged": "2022-07-29T21:31:06.1322874+00:00",
   "RatingHistory": [
@@ -392,7 +392,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 1481
+      "Count": 1541
     },
     {
       "Text": "This game has Realistic Visuals",

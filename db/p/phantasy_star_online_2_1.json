@@ -2,11 +2,11 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "PHANTASY STAR ONLINE 2",
   "ProductSlug": "phantasy-star-online-2",
-  "Rating": 4.51,
-  "NumberOfRatings": 477,
-  "DailyRatings": 1.65,
+  "Rating": 4.5,
+  "NumberOfRatings": 479,
+  "DailyRatings": 4.11,
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2022-07-29T19:02:16.9470132+00:00",
+  "LastChanged": "2022-07-29T22:00:21.0106865+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.1466756+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-07-29T19:02:16.9470134+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 477
+    },
+    {
+      "Time": "2022-07-29T22:00:21.0106867+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 479
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Hello Neighbor",
   "ProductSlug": null,
   "Rating": 4.56,
-  "NumberOfRatings": 567,
-  "DailyRatings": 7.63,
+  "NumberOfRatings": 569,
+  "DailyRatings": 9.39,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-07-29T21:01:21.9235062+00:00",
+  "LastChanged": "2022-07-29T22:01:00.220108+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-07-29T21:01:21.9235064+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 567
+    },
+    {
+      "Time": "2022-07-29T22:01:00.2201081+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 569
     }
   ],
   "Tags": [

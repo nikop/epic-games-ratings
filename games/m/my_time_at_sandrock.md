@@ -1,6 +1,6 @@
 # My Time at Sandrock
-Rating: 4.67 (726)  
-Ratings Per Day: 5.33  
+Rating: 4.67 (728)  
+Ratings Per Day: 11.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 5.33
 | 2022-07-25 | 4.67 | 714 |
 | 2022-07-27 | 4.67 | 720 |
 | 2022-07-28 | 4.67 | 721 |
-| 2022-07-29 | 4.67 | 726 |
+| 2022-07-29 | 4.67 | 728 |

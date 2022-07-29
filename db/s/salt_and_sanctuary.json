@@ -3,10 +3,10 @@
   "Name": "Salt and Sanctuary",
   "ProductSlug": null,
   "Rating": 4.61,
-  "NumberOfRatings": 1851,
-  "DailyRatings": 27.98,
+  "NumberOfRatings": 1865,
+  "DailyRatings": 32.77,
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
-  "LastChanged": "2022-07-29T13:32:24.7523132+00:00",
+  "LastChanged": "2022-07-29T22:02:00.5624812+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:22.098302+00:00",
@@ -247,6 +247,11 @@
       "Time": "2022-07-29T13:32:24.7523134+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 1851
+    },
+    {
+      "Time": "2022-07-29T22:02:00.5624814+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 1865
     }
   ],
   "Tags": [

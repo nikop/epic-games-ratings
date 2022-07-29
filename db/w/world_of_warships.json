@@ -3,10 +3,10 @@
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
   "Rating": 4.44,
-  "NumberOfRatings": 2810,
-  "DailyRatings": 36.25,
+  "NumberOfRatings": 2815,
+  "DailyRatings": 38.61,
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2022-07-29T20:00:48.7783977+00:00",
+  "LastChanged": "2022-07-29T22:00:17.6130008+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-07-29T20:00:48.7783978+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 2810
+    },
+    {
+      "Time": "2022-07-29T22:00:17.6130009+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 2815
     }
   ],
   "Tags": [
@@ -336,7 +341,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 100
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Storytelling",
