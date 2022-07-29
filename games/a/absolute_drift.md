@@ -1,6 +1,6 @@
 # Absolute Drift
 Rating: 4.37 (115)  
-Ratings Per Day: 4.83  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

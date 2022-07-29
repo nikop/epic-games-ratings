@@ -2,11 +2,11 @@
   "ID": "aa5ef9d2f8394731a034504c562e292c",
   "Name": "Bad North",
   "ProductSlug": "bad-north/home",
-  "Rating": 4.67,
-  "NumberOfRatings": 427,
-  "DailyRatings": 0,
+  "Rating": 4.66,
+  "NumberOfRatings": 436,
+  "DailyRatings": 19.62,
   "FirstSeen": "2022-07-22T20:29:59.5016567+00:00",
-  "LastChanged": "2022-07-29T07:01:48.7804101+00:00",
+  "LastChanged": "2022-07-29T18:02:31.9093091+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:59.501657+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-29T07:01:48.7804105+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 427
+    },
+    {
+      "Time": "2022-07-29T18:02:31.9093093+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 436
     }
   ],
   "Tags": []

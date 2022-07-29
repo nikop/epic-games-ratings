@@ -4,7 +4,7 @@
   "ProductSlug": "valorant",
   "Rating": 4.56,
   "NumberOfRatings": 84655,
-  "DailyRatings": 1228.05,
+  "DailyRatings": 1216.3,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
   "LastChanged": "2022-07-29T17:01:57.9153631+00:00",
   "RatingHistory": [
@@ -298,7 +298,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 4679
+      "Count": 4838
     },
     {
       "Text": "This game has Amazing Characters",

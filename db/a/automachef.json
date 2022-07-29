@@ -3,10 +3,10 @@
   "Name": "Automachef",
   "ProductSlug": "automachef",
   "Rating": 4.33,
-  "NumberOfRatings": 276,
-  "DailyRatings": 0,
+  "NumberOfRatings": 279,
+  "DailyRatings": 11.97,
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "LastChanged": "2022-07-29T12:01:51.898255+00:00",
+  "LastChanged": "2022-07-29T18:02:38.0175878+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:48.5612756+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-29T12:01:51.8982551+00:00",
       "Rating": 4.33,
       "NumberOfRatings": 276
+    },
+    {
+      "Time": "2022-07-29T18:02:38.0175879+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 279
     }
   ],
   "Tags": []

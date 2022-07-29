@@ -2,11 +2,11 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher/home",
-  "Rating": 4.82,
-  "NumberOfRatings": 2928,
-  "DailyRatings": 45.44,
+  "Rating": 4.83,
+  "NumberOfRatings": 2938,
+  "DailyRatings": 50.78,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-07-29T15:31:20.8601599+00:00",
+  "LastChanged": "2022-07-29T18:01:40.0370718+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-07-29T15:31:20.86016+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 2928
+    },
+    {
+      "Time": "2022-07-29T18:01:40.0370721+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 2938
     }
   ],
   "Tags": [
@@ -233,7 +238,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has a Kind Community",

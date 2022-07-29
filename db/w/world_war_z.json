@@ -3,10 +3,10 @@
   "Name": "World War Z",
   "ProductSlug": null,
   "Rating": 4.57,
-  "NumberOfRatings": 10428,
-  "DailyRatings": 233.33,
+  "NumberOfRatings": 10434,
+  "DailyRatings": 222.64,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-07-29T16:30:11.5483924+00:00",
+  "LastChanged": "2022-07-29T18:00:53.4772573+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -337,6 +337,11 @@
       "Time": "2022-07-29T16:30:11.5483926+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 10428
+    },
+    {
+      "Time": "2022-07-29T18:00:53.4772575+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 10434
     }
   ],
   "Tags": [
@@ -350,7 +355,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 586
+      "Count": 622
     },
     {
       "Text": "This game is Highly Recommended",
