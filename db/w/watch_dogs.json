@@ -3,10 +3,10 @@
   "Name": "Watch Dogs",
   "ProductSlug": null,
   "Rating": 4.57,
-  "NumberOfRatings": 1032,
-  "DailyRatings": 22.84,
+  "NumberOfRatings": 1038,
+  "DailyRatings": 21.93,
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2022-07-29T14:01:01.2738383+00:00",
+  "LastChanged": "2022-07-29T21:01:02.5787599+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-07-29T14:01:01.2738384+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 1032
+    },
+    {
+      "Time": "2022-07-29T21:01:02.5787602+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 1038
     }
   ],
   "Tags": []

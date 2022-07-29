@@ -3,10 +3,10 @@
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
   "Rating": 4.48,
-  "NumberOfRatings": 524,
-  "DailyRatings": 0,
+  "NumberOfRatings": 525,
+  "DailyRatings": 8.01,
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2022-07-29T18:01:19.5591942+00:00",
+  "LastChanged": "2022-07-29T21:01:05.2656957+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
@@ -57,7 +57,17 @@
       "Time": "2022-07-29T18:01:19.5591944+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 524
+    },
+    {
+      "Time": "2022-07-29T21:01:05.2656963+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 525
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Count": 44
+    }
+  ]
 }

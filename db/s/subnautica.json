@@ -4,7 +4,7 @@
   "ProductSlug": "subnautica",
   "Rating": 4.84,
   "NumberOfRatings": 4360,
-  "DailyRatings": 80.99,
+  "DailyRatings": 80.7,
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
   "LastChanged": "2022-07-29T20:32:01.0131227+00:00",
   "RatingHistory": [
@@ -298,7 +298,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 100
+      "Count": 106
     }
   ]
 }

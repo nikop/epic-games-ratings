@@ -3,10 +3,10 @@
   "Name": "Anno 1404",
   "ProductSlug": "anno-1404/home",
   "Rating": 4.94,
-  "NumberOfRatings": 31,
+  "NumberOfRatings": 32,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
-  "LastChanged": "2022-07-27T22:02:22.8812587+00:00",
+  "LastChanged": "2022-07-29T21:02:35.5992894+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:46.5738435+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-27T22:02:22.8812588+00:00",
       "Rating": 4.94,
       "NumberOfRatings": 31
+    },
+    {
+      "Time": "2022-07-29T21:02:35.5992896+00:00",
+      "Rating": 4.94,
+      "NumberOfRatings": 32
     }
   ],
   "Tags": []

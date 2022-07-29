@@ -3,10 +3,10 @@
   "Name": "The Telltale Batman Shadows Edition",
   "ProductSlug": "the-telltale-batman/home",
   "Rating": 4.77,
-  "NumberOfRatings": 87,
-  "DailyRatings": 0,
+  "NumberOfRatings": 88,
+  "DailyRatings": 1.14,
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
-  "LastChanged": "2022-07-29T00:01:33.3759361+00:00",
+  "LastChanged": "2022-07-29T21:01:36.9167129+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:13.2126103+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-29T00:01:33.3759362+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 87
+    },
+    {
+      "Time": "2022-07-29T21:01:36.9167131+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 88
     }
   ],
   "Tags": []
