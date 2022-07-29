@@ -3,10 +3,10 @@
   "Name": "RimWorld",
   "ProductSlug": "rimworld/home",
   "Rating": 4.89,
-  "NumberOfRatings": 558,
-  "DailyRatings": 12.35,
+  "NumberOfRatings": 560,
+  "DailyRatings": 11.74,
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2022-07-29T05:30:27.6042562+00:00",
+  "LastChanged": "2022-07-29T10:30:22.6288941+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-07-29T05:30:27.6042564+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 558
+    },
+    {
+      "Time": "2022-07-29T10:30:22.6288944+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 560
     }
   ],
   "Tags": [

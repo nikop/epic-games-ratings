@@ -3,10 +3,10 @@
   "Name": "Saint\u0027s Row The Third Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
   "Rating": 4.43,
-  "NumberOfRatings": 2942,
-  "DailyRatings": 70.59,
+  "NumberOfRatings": 2946,
+  "DailyRatings": 70.09,
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2022-07-29T09:02:02.4745493+00:00",
+  "LastChanged": "2022-07-29T10:31:32.0253372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:06.5840638+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-07-29T09:02:02.4745494+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 2942
+    },
+    {
+      "Time": "2022-07-29T10:31:32.0253373+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 2946
     }
   ],
   "Tags": [

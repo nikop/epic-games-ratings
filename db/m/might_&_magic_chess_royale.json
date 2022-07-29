@@ -2,11 +2,11 @@
   "ID": "82225e5cb4714006b335a50d840208c6",
   "Name": "Might \u0026 Magic Chess Royale",
   "ProductSlug": "might-and-magic-chess-royale",
-  "Rating": 4.51,
-  "NumberOfRatings": 158,
+  "Rating": 4.5,
+  "NumberOfRatings": 159,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2022-07-28T00:02:10.5239938+00:00",
+  "LastChanged": "2022-07-29T10:31:26.3277283+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:16.1959449+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-28T00:02:10.523994+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 158
+    },
+    {
+      "Time": "2022-07-29T10:31:26.3277284+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 159
     }
   ],
   "Tags": [
@@ -60,7 +65,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
