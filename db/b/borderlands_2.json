@@ -3,10 +3,10 @@
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
   "Rating": 4.77,
-  "NumberOfRatings": 8736,
-  "DailyRatings": 113.77,
+  "NumberOfRatings": 8743,
+  "DailyRatings": 116.03,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2022-07-29T15:00:23.8082096+00:00",
+  "LastChanged": "2022-07-29T16:00:25.9343642+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-07-29T15:00:23.8082098+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 8736
+    },
+    {
+      "Time": "2022-07-29T16:00:25.9343716+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 8743
     }
   ],
   "Tags": [

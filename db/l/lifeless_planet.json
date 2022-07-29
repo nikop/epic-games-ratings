@@ -2,11 +2,11 @@
   "ID": "9ce4c6f216cf43e7ba5eff1045b6e08d",
   "Name": "Lifeless Planet",
   "ProductSlug": "lifeless-planet-premier-edition/home",
-  "Rating": 3.99,
-  "NumberOfRatings": 152,
-  "DailyRatings": 0,
+  "Rating": 4.01,
+  "NumberOfRatings": 154,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:28:34.0762225+00:00",
-  "LastChanged": "2022-07-28T16:02:03.8191838+00:00",
+  "LastChanged": "2022-07-29T16:01:45.7163988+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:34.0762227+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-28T16:02:03.819184+00:00",
       "Rating": 3.99,
       "NumberOfRatings": 152
+    },
+    {
+      "Time": "2022-07-29T16:01:45.7163989+00:00",
+      "Rating": 4.01,
+      "NumberOfRatings": 154
     }
   ],
   "Tags": []

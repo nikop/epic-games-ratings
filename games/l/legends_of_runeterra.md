@@ -1,6 +1,6 @@
 # Legends of Runeterra
-Rating: 4.64 (250)  
-Ratings Per Day: 3.27  
+Rating: 4.65 (251)  
+Ratings Per Day: 3.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 3.27
 | 2022-07-26 | 4.65 | 234 |
 | 2022-07-27 | 4.65 | 241 |
 | 2022-07-28 | 4.65 | 248 |
-| 2022-07-29 | 4.64 | 250 |
+| 2022-07-29 | 4.65 | 251 |
