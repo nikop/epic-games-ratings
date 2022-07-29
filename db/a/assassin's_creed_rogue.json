@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Rogue",
   "ProductSlug": null,
   "Rating": 4.57,
-  "NumberOfRatings": 84,
-  "DailyRatings": 0,
+  "NumberOfRatings": 87,
+  "DailyRatings": 3.06,
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2022-07-28T16:59:04.425047+00:00",
+  "LastChanged": "2022-07-29T16:31:42.6914277+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:01.011346+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-28T16:59:04.4250472+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 84
+    },
+    {
+      "Time": "2022-07-29T16:31:42.6914278+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 87
     }
   ],
   "Tags": [

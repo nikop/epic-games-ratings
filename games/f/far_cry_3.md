@@ -1,6 +1,6 @@
 # Far Cry 3
 Rating: 4.66 (247)  
-Ratings Per Day: 7.64  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
