@@ -3,10 +3,10 @@
   "Name": "Rogue Legacy",
   "ProductSlug": "rogue-legacy",
   "Rating": 4.6,
-  "NumberOfRatings": 1491,
-  "DailyRatings": 18.48,
+  "NumberOfRatings": 1492,
+  "DailyRatings": 17.04,
   "FirstSeen": "2022-07-22T20:31:08.0747218+00:00",
-  "LastChanged": "2022-07-28T23:01:54.6133336+00:00",
+  "LastChanged": "2022-07-29T01:31:51.9479798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:08.0747221+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-07-28T23:01:54.6133337+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 1491
+    },
+    {
+      "Time": "2022-07-29T01:31:51.94798+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 1492
     }
   ],
   "Tags": [
@@ -151,7 +156,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Challenging Combat",
