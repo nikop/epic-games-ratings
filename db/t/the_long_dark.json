@@ -4,7 +4,7 @@
   "ProductSlug": "the-long-dark",
   "Rating": 4.74,
   "NumberOfRatings": 2545,
-  "DailyRatings": 48.05,
+  "DailyRatings": 44.88,
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
   "LastChanged": "2022-07-29T18:32:14.3548049+00:00",
   "RatingHistory": [
@@ -269,7 +269,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 100
+      "Count": 102
     },
     {
       "Text": "This game is Highly Recommended",

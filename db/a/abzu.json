@@ -3,10 +3,10 @@
   "Name": "ABZU",
   "ProductSlug": "abzu/home",
   "Rating": 4.58,
-  "NumberOfRatings": 64,
-  "DailyRatings": 0,
+  "NumberOfRatings": 65,
+  "DailyRatings": 1.11,
   "FirstSeen": "2022-07-22T20:29:47.8662447+00:00",
-  "LastChanged": "2022-07-28T21:31:46.3055813+00:00",
+  "LastChanged": "2022-07-29T19:03:58.1411689+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:47.8662449+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-28T21:31:46.3055815+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 64
+    },
+    {
+      "Time": "2022-07-29T19:03:58.1411691+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 65
     }
   ],
   "Tags": []

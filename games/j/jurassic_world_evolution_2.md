@@ -1,6 +1,6 @@
 # Jurassic World Evolution 2
-Rating: 4.73 (2 761)  
-Ratings Per Day: 29.25  
+Rating: 4.73 (2 765)  
+Ratings Per Day: 30.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 29.25
 | 2022-07-26 | 4.73 | 2 665 |
 | 2022-07-27 | 4.73 | 2 704 |
 | 2022-07-28 | 4.73 | 2 738 |
-| 2022-07-29 | 4.73 | 2 761 |
+| 2022-07-29 | 4.73 | 2 765 |

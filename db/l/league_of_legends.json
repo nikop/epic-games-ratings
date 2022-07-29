@@ -3,10 +3,10 @@
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
   "Rating": 4.21,
-  "NumberOfRatings": 6154,
-  "DailyRatings": 100.49,
+  "NumberOfRatings": 6168,
+  "DailyRatings": 103.86,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2022-07-29T16:32:06.6186533+00:00",
+  "LastChanged": "2022-07-29T19:04:17.3170447+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -297,6 +297,11 @@
       "Time": "2022-07-29T16:32:06.6186534+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 6154
+    },
+    {
+      "Time": "2022-07-29T19:04:17.3170448+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 6168
     }
   ],
   "Tags": [
@@ -310,7 +315,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 234
+      "Count": 240
     },
     {
       "Text": "This game has Amazing Characters",

@@ -3,10 +3,10 @@
   "Name": "Hades",
   "ProductSlug": null,
   "Rating": 4.92,
-  "NumberOfRatings": 3777,
-  "DailyRatings": 75.82,
+  "NumberOfRatings": 3782,
+  "DailyRatings": 79.89,
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
-  "LastChanged": "2022-07-29T18:30:49.0695245+00:00",
+  "LastChanged": "2022-07-29T19:02:54.4260671+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.7235161+00:00",
@@ -247,6 +247,11 @@
       "Time": "2022-07-29T18:30:49.0695246+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 3777
+    },
+    {
+      "Time": "2022-07-29T19:02:54.4260672+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 3782
     }
   ],
   "Tags": [

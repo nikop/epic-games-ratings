@@ -1,6 +1,6 @@
 # Tom Clancy’s Rainbow Six® Extraction
 Rating: 4.56 (373)  
-Ratings Per Day: 3.34  
+Ratings Per Day: 2.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
