@@ -1,6 +1,6 @@
 # World War Z
-Rating: 4.57 (10 352)  
-Ratings Per Day: 250.13  
+Rating: 4.57 (10 384)  
+Ratings Per Day: 256.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 250.13
 | 2022-07-26 | 4.57 | 9 925 |
 | 2022-07-27 | 4.57 | 10 065 |
 | 2022-07-28 | 4.57 | 10 259 |
-| 2022-07-29 | 4.57 | 10 352 |
+| 2022-07-29 | 4.57 | 10 384 |

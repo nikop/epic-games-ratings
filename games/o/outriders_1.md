@@ -1,6 +1,6 @@
 # Outriders
-Rating: 4.42 (888)  
-Ratings Per Day: 14.28  
+Rating: 4.42 (889)  
+Ratings Per Day: 12.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 14.28
 | 2022-07-26 | 4.41 | 864 |
 | 2022-07-27 | 4.41 | 870 |
 | 2022-07-28 | 4.42 | 886 |
-| 2022-07-29 | 4.42 | 888 |
+| 2022-07-29 | 4.42 | 889 |
