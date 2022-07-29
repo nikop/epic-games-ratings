@@ -3,10 +3,10 @@
   "Name": "Detroit: Become Human",
   "ProductSlug": null,
   "Rating": 4.86,
-  "NumberOfRatings": 2069,
-  "DailyRatings": 35.03,
+  "NumberOfRatings": 2076,
+  "DailyRatings": 34.72,
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2022-07-29T12:30:18.9817538+00:00",
+  "LastChanged": "2022-07-29T17:30:47.2639457+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:06.5181896+00:00",
@@ -107,12 +107,17 @@
       "Time": "2022-07-29T12:30:18.981754+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 2069
+    },
+    {
+      "Time": "2022-07-29T17:30:47.2639458+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 2076
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 388
+      "Count": 405
     }
   ]
 }

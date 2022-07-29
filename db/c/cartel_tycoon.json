@@ -2,11 +2,17 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Rating": 4.05,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
-  "LastChanged": null,
-  "RatingHistory": [],
+  "LastChanged": "2022-07-29T17:30:50.1172995+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-29T17:30:50.1172997+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

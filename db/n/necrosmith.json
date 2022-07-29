@@ -2,11 +2,11 @@
   "ID": "15a8369cd43b4d359d7c547ad81d39e8",
   "Name": "Necrosmith",
   "ProductSlug": null,
-  "Rating": 4.41,
-  "NumberOfRatings": 104,
+  "Rating": 4.43,
+  "NumberOfRatings": 107,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:55.4913885+00:00",
-  "LastChanged": "2022-07-28T17:19:06.7070236+00:00",
+  "LastChanged": "2022-07-29T17:32:23.375752+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:55.4913887+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-07-28T17:19:06.7070237+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 104
+    },
+    {
+      "Time": "2022-07-29T17:32:23.3757521+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 107
     }
   ],
   "Tags": []

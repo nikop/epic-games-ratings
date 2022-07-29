@@ -2,11 +2,11 @@
   "ID": "silene",
   "Name": "Close To The Sun",
   "ProductSlug": "close-to-the-sun/home",
-  "Rating": 4.08,
-  "NumberOfRatings": 79,
+  "Rating": 4.07,
+  "NumberOfRatings": 81,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
-  "LastChanged": "2022-07-28T17:08:36.5204149+00:00",
+  "LastChanged": "2022-07-29T17:32:20.0677321+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:28.4985341+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-28T17:08:36.5204151+00:00",
       "Rating": 4.08,
       "NumberOfRatings": 79
+    },
+    {
+      "Time": "2022-07-29T17:32:20.0677323+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": 81
     }
   ],
   "Tags": []
