@@ -3,10 +3,10 @@
   "Name": "World War Z",
   "ProductSlug": null,
   "Rating": 4.57,
-  "NumberOfRatings": 10434,
-  "DailyRatings": 222.64,
+  "NumberOfRatings": 10445,
+  "DailyRatings": 230.4,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-07-29T18:00:53.4772573+00:00",
+  "LastChanged": "2022-07-29T18:30:11.7416244+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -342,6 +342,11 @@
       "Time": "2022-07-29T18:00:53.4772575+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 10434
+    },
+    {
+      "Time": "2022-07-29T18:30:11.7416245+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 10445
     }
   ],
   "Tags": [
@@ -367,7 +372,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 576
+      "Count": 606
     },
     {
       "Text": "This game has Amazing Storytelling",

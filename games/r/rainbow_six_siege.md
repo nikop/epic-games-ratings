@@ -1,6 +1,6 @@
 # Rainbow Six Siege
-Rating: 4.60 (5 473)  
-Ratings Per Day: 51.98  
+Rating: 4.60 (5 489)  
+Ratings Per Day: 55.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 51.98
 | 2022-07-26 | 4.60 | 5 312 |
 | 2022-07-27 | 4.60 | 5 379 |
 | 2022-07-28 | 4.60 | 5 446 |
-| 2022-07-29 | 4.60 | 5 473 |
+| 2022-07-29 | 4.60 | 5 489 |

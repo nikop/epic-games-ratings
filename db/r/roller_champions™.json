@@ -3,10 +3,10 @@
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
   "Rating": 4.34,
-  "NumberOfRatings": 4521,
-  "DailyRatings": 28.08,
+  "NumberOfRatings": 4524,
+  "DailyRatings": 29.34,
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2022-07-29T17:00:55.3777331+00:00",
+  "LastChanged": "2022-07-29T18:30:47.7564323+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:37.6973742+00:00",
@@ -227,6 +227,11 @@
       "Time": "2022-07-29T17:00:55.3777334+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 4521
+    },
+    {
+      "Time": "2022-07-29T18:30:47.7564325+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 4524
     }
   ],
   "Tags": [
@@ -256,7 +261,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 106
+      "Count": 107
     },
     {
       "Text": "This game has Quickly Understood Controls",

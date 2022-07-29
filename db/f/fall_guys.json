@@ -4,7 +4,7 @@
   "ProductSlug": "fall-guys",
   "Rating": 4.53,
   "NumberOfRatings": 814928,
-  "DailyRatings": 8270.99,
+  "DailyRatings": 7977.79,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "LastChanged": "2022-07-29T18:01:03.2172605+00:00",
   "RatingHistory": [
@@ -264,11 +264,11 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 50272
+      "Count": 51592
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 47842
+      "Count": 49230
     },
     {
       "Text": "This game has Diverse Characters",
@@ -292,7 +292,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 39282
+      "Count": 40385
     }
   ]
 }
