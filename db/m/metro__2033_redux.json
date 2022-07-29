@@ -2,11 +2,11 @@
   "ID": "petunia",
   "Name": "Metro: 2033 Redux",
   "ProductSlug": "metro-2033-redux/home",
-  "Rating": 4.7,
-  "NumberOfRatings": 2949,
-  "DailyRatings": 0,
+  "Rating": 4.71,
+  "NumberOfRatings": 3012,
+  "DailyRatings": 63,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-07-28T22:30:28.1036898+00:00",
+  "LastChanged": "2022-07-29T22:30:32.2061385+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-28T22:30:28.1036899+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2949
+    },
+    {
+      "Time": "2022-07-29T22:30:32.2061386+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 3012
     }
   ],
   "Tags": [

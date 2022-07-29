@@ -2,11 +2,11 @@
   "ID": "oregano",
   "Name": "Anno 1800",
   "ProductSlug": null,
-  "Rating": 4.83,
-  "NumberOfRatings": 2454,
-  "DailyRatings": 40.48,
+  "Rating": 4.84,
+  "NumberOfRatings": 2473,
+  "DailyRatings": 58.1,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-07-29T19:30:43.6541618+00:00",
+  "LastChanged": "2022-07-29T22:30:20.5363186+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-07-29T19:30:43.6541619+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 2454
+    },
+    {
+      "Time": "2022-07-29T22:30:20.5363188+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 2473
     }
   ],
   "Tags": [
@@ -309,7 +314,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 137
+      "Count": 142
     },
     {
       "Text": "This game has Amazing Characters",

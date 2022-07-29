@@ -1,6 +1,6 @@
 # The Walking Dead: The Telltale Definitive Series
-Rating: 4.85 (399)  
-Ratings Per Day: 3.43  
+Rating: 4.85 (400)  
+Ratings Per Day: 4.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 3.43
 | 2022-07-26 | 4.85 | 384 |
 | 2022-07-27 | 4.85 | 388 |
 | 2022-07-28 | 4.85 | 393 |
-| 2022-07-29 | 4.85 | 399 |
+| 2022-07-29 | 4.85 | 400 |

@@ -3,10 +3,10 @@
   "Name": "Vampyr",
   "ProductSlug": "vampyr",
   "Rating": 4.31,
-  "NumberOfRatings": 2932,
-  "DailyRatings": 45.65,
+  "NumberOfRatings": 2937,
+  "DailyRatings": 45.93,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2022-07-29T20:02:27.7986412+00:00",
+  "LastChanged": "2022-07-29T22:31:49.5869944+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:20.353285+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-07-29T20:02:27.7986415+00:00",
       "Rating": 4.31,
       "NumberOfRatings": 2932
+    },
+    {
+      "Time": "2022-07-29T22:31:49.5869945+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 2937
     }
   ],
   "Tags": [
