@@ -2,11 +2,11 @@
   "ID": "puffin",
   "Name": "Axiom Verge",
   "ProductSlug": "axiom-verge/home",
-  "Rating": 4.55,
-  "NumberOfRatings": 58,
+  "Rating": 4.56,
+  "NumberOfRatings": 59,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2022-07-26T20:01:53.4557506+00:00",
+  "LastChanged": "2022-07-29T20:31:36.2464027+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:58.5809407+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-26T20:01:53.4557507+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 58
+    },
+    {
+      "Time": "2022-07-29T20:31:36.2464029+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 59
     }
   ],
   "Tags": []

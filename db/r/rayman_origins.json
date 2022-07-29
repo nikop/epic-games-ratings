@@ -2,16 +2,21 @@
   "ID": "66e9c042d8cd42b7956f5e195e0442de",
   "Name": "Rayman Origins",
   "ProductSlug": "rayman-origins",
-  "Rating": 4.85,
-  "NumberOfRatings": 20,
+  "Rating": 4.81,
+  "NumberOfRatings": 21,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:19.1614924+00:00",
-  "LastChanged": "2022-07-27T22:01:37.6282467+00:00",
+  "LastChanged": "2022-07-29T20:31:30.930137+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T22:01:37.6282468+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-07-29T20:31:30.9301371+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []

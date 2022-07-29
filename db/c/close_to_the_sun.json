@@ -3,10 +3,10 @@
   "Name": "Close To The Sun",
   "ProductSlug": "close-to-the-sun/home",
   "Rating": 4.07,
-  "NumberOfRatings": 81,
-  "DailyRatings": 0,
+  "NumberOfRatings": 82,
+  "DailyRatings": 8.01,
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
-  "LastChanged": "2022-07-29T17:32:20.0677321+00:00",
+  "LastChanged": "2022-07-29T20:32:02.0770325+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:28.4985341+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-29T17:32:20.0677323+00:00",
       "Rating": 4.07,
       "NumberOfRatings": 81
+    },
+    {
+      "Time": "2022-07-29T20:32:02.0770326+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": 82
     }
   ],
   "Tags": []
