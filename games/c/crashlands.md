@@ -1,6 +1,6 @@
 # Crashlands
 Rating: 4.67 (290)  
-Ratings Per Day: 8.00  
+Ratings Per Day: 13.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

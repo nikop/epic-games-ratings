@@ -1,6 +1,6 @@
 # Oxygen Not Included
 Rating: 4.86 (594)  
-Ratings Per Day: 7.31  
+Ratings Per Day: 9.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

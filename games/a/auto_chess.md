@@ -1,6 +1,6 @@
 # Auto Chess
-Rating: 4.53 (1 485)  
-Ratings Per Day: 52.49  
+Rating: 4.53 (1 489)  
+Ratings Per Day: 44.11  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 52.49
 | 2022-07-26 | 4.52 | 1 426 |
 | 2022-07-27 | 4.52 | 1 436 |
 | 2022-07-28 | 4.53 | 1 485 |
+| 2022-07-29 | 4.53 | 1 489 |

@@ -3,10 +3,10 @@
   "Name": "Sid Meiers Civilization Vl",
   "ProductSlug": null,
   "Rating": 4.73,
-  "NumberOfRatings": 34232,
-  "DailyRatings": 509.69,
+  "NumberOfRatings": 34256,
+  "DailyRatings": 569.56,
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2022-07-28T23:30:47.3491358+00:00",
+  "LastChanged": "2022-07-29T00:30:17.0199648+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-07-28T23:30:47.3491359+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 34232
+    },
+    {
+      "Time": "2022-07-29T00:30:17.019965+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 34256
     }
   ],
   "Tags": [
@@ -306,7 +311,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 5484
+      "Count": 5603
     },
     {
       "Text": "This game has Competitive Players",

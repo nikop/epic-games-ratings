@@ -1,6 +1,6 @@
 # Surviving the Aftermath
 Rating: 4.44 (480)  
-Ratings Per Day: 11.28  
+Ratings Per Day: 10.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

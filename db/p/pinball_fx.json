@@ -3,10 +3,10 @@
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
   "Rating": 3.97,
-  "NumberOfRatings": 417,
-  "DailyRatings": 10.8,
+  "NumberOfRatings": 418,
+  "DailyRatings": 10.67,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-07-28T22:00:18.803662+00:00",
+  "LastChanged": "2022-07-29T00:30:12.9280912+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-07-28T22:00:18.8036621+00:00",
       "Rating": 3.97,
       "NumberOfRatings": 417
+    },
+    {
+      "Time": "2022-07-29T00:30:12.9280914+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": 418
     }
   ],
   "Tags": [
