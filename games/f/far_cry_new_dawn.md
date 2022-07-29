@@ -1,6 +1,6 @@
 # Far Cry New Dawn
 Rating: 4.44 (187)  
-Ratings Per Day: 7.06  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

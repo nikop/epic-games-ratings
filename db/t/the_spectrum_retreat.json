@@ -3,10 +3,10 @@
   "Name": "The Spectrum Retreat",
   "ProductSlug": "the-spectrum-retreat",
   "Rating": 4.32,
-  "NumberOfRatings": 122,
+  "NumberOfRatings": 124,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:27.9603268+00:00",
-  "LastChanged": "2022-07-27T12:01:20.6766389+00:00",
+  "LastChanged": "2022-07-29T12:30:51.5421217+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:27.960327+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-27T12:01:20.676639+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 122
+    },
+    {
+      "Time": "2022-07-29T12:30:51.5421219+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 124
     }
   ],
   "Tags": []

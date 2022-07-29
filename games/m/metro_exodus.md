@@ -1,6 +1,6 @@
 # Metro Exodus
 Rating: 4.80 (4 198)  
-Ratings Per Day: 79.32  
+Ratings Per Day: 73.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
