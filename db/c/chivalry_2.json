@@ -4,7 +4,7 @@
   "ProductSlug": null,
   "Rating": 4.63,
   "NumberOfRatings": 14620,
-  "DailyRatings": 93.02,
+  "DailyRatings": 99.64,
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
   "LastChanged": "2022-07-29T08:00:35.9655195+00:00",
   "RatingHistory": [
@@ -301,7 +301,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 976
+      "Count": 1011
     },
     {
       "Text": "This game is Extremely Fun",

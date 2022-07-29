@@ -3,10 +3,10 @@
   "Name": "Mages of Mystralia",
   "ProductSlug": "mages-of-mystralia",
   "Rating": 4.32,
-  "NumberOfRatings": 378,
-  "DailyRatings": 0,
+  "NumberOfRatings": 380,
+  "DailyRatings": 16,
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2022-07-29T05:31:10.1302106+00:00",
+  "LastChanged": "2022-07-29T08:31:11.8034668+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:26.4536754+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-29T05:31:10.1302107+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 378
+    },
+    {
+      "Time": "2022-07-29T08:31:11.803467+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 380
     }
   ],
   "Tags": [
