@@ -3,10 +3,10 @@
   "Name": "Oxenfree",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 49,
-  "DailyRatings": 0.89,
+  "NumberOfRatings": 51,
+  "DailyRatings": 1.21,
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
-  "LastChanged": "2022-07-30T11:32:55.7554542+00:00",
+  "LastChanged": "2022-07-30T15:02:47.708155+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:37.999966+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-30T11:32:55.7554547+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-07-30T15:02:47.7081552+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 51
     }
   ],
   "Tags": []
