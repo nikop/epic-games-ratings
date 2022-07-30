@@ -3,10 +3,10 @@
   "Name": "Century: Age of Ashes",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 1056,
-  "DailyRatings": 24.52,
+  "NumberOfRatings": 1057,
+  "DailyRatings": 24.22,
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2022-07-30T10:30:45.671657+00:00",
+  "LastChanged": "2022-07-30T13:30:29.0630511+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.5645774+00:00",
@@ -187,7 +187,17 @@
       "Time": "2022-07-30T10:30:45.6716571+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 1056
+    },
+    {
+      "Time": "2022-07-30T13:30:29.0630513+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 1057
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 20
+    }
+  ]
 }

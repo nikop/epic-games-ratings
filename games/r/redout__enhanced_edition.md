@@ -1,6 +1,6 @@
 # Redout: Enhanced Edition
-Rating: 4.50 (207)  
-Ratings Per Day: 2.18  
+Rating: 4.51 (212)  
+Ratings Per Day: 2.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 2.18
 | 2022-07-27 | 4.50 | 202 |
 | 2022-07-28 | 4.50 | 203 |
 | 2022-07-29 | 4.50 | 207 |
+| 2022-07-30 | 4.51 | 212 |

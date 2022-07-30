@@ -3,10 +3,10 @@
   "Name": "Darksiders Warmastered Edition",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 392,
-  "DailyRatings": 6.55,
+  "NumberOfRatings": 395,
+  "DailyRatings": 6.32,
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
-  "LastChanged": "2022-07-29T21:01:37.5784405+00:00",
+  "LastChanged": "2022-07-30T13:31:34.8430644+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:18.0300296+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-29T21:01:37.5784406+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 392
+    },
+    {
+      "Time": "2022-07-30T13:31:34.8430647+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 395
     }
   ],
   "Tags": [
@@ -76,7 +81,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
