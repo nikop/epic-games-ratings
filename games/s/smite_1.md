@@ -1,6 +1,6 @@
 # Smite
-Rating: 4.47 (4 842)  
-Ratings Per Day: 33.07  
+Rating: 4.47 (4 848)  
+Ratings Per Day: 38.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,4 +12,4 @@ Ratings Per Day: 33.07
 | 2022-07-27 | 4.47 | 4 734 |
 | 2022-07-28 | 4.47 | 4 805 |
 | 2022-07-29 | 4.47 | 4 839 |
-| 2022-07-30 | 4.47 | 4 842 |
+| 2022-07-30 | 4.47 | 4 848 |

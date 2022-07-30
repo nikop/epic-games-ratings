@@ -1,6 +1,6 @@
 # Tetris® Effect
-Rating: 4.84 (181)  
-Ratings Per Day: 0.00  
+Rating: 4.84 (182)  
+Ratings Per Day: 6.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 0.00
 | 2022-07-24 | 4.84 | 177 |
 | 2022-07-27 | 4.84 | 180 |
 | 2022-07-29 | 4.84 | 181 |
+| 2022-07-30 | 4.84 | 182 |

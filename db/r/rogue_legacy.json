@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-legacy",
   "Rating": 4.6,
   "NumberOfRatings": 1512,
-  "DailyRatings": 20.87,
+  "DailyRatings": 20.21,
   "FirstSeen": "2022-07-22T20:31:08.0747218+00:00",
   "LastChanged": "2022-07-30T00:31:58.0128874+00:00",
   "RatingHistory": [
@@ -162,7 +162,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 462
+      "Count": 470
     },
     {
       "Text": "This game has Amazing Characters",
@@ -170,7 +170,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
