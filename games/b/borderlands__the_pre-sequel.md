@@ -1,6 +1,6 @@
 # Borderlands: The Pre-Sequel
-Rating: 4.48 (1 864)  
-Ratings Per Day: 26.44  
+Rating: 4.48 (1 866)  
+Ratings Per Day: 26.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,4 +12,4 @@ Ratings Per Day: 26.44
 | 2022-07-27 | 4.47 | 1 787 |
 | 2022-07-28 | 4.47 | 1 825 |
 | 2022-07-29 | 4.47 | 1 851 |
-| 2022-07-30 | 4.48 | 1 864 |
+| 2022-07-30 | 4.48 | 1 866 |

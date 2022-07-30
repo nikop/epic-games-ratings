@@ -3,10 +3,10 @@
   "Name": "Supraland",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 22545,
-  "DailyRatings": 95.99,
+  "NumberOfRatings": 22568,
+  "DailyRatings": 96.14,
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2022-07-30T12:31:59.8188363+00:00",
+  "LastChanged": "2022-07-30T18:00:42.9011728+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-07-30T12:31:59.8188365+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 22545
+    },
+    {
+      "Time": "2022-07-30T18:00:42.9011729+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 22568
     }
   ],
   "Tags": [

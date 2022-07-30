@@ -3,10 +3,10 @@
   "Name": "Dying Light Enhanced Edition",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 1919,
-  "DailyRatings": 38.43,
+  "NumberOfRatings": 1924,
+  "DailyRatings": 38.46,
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2022-07-30T15:00:39.3939231+00:00",
+  "LastChanged": "2022-07-30T18:00:28.7084797+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -327,6 +327,11 @@
       "Time": "2022-07-30T15:00:39.3939234+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 1919
+    },
+    {
+      "Time": "2022-07-30T18:00:28.7084799+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 1924
     }
   ],
   "Tags": [
@@ -360,7 +365,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 131
+      "Count": 134
     },
     {
       "Text": "This game has Obsessive Gameplay",
