@@ -2,11 +2,11 @@
   "ID": "newt",
   "Name": "Spellbreak",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 635,
-  "DailyRatings": 8.16,
+  "Rating": 4.59,
+  "NumberOfRatings": 640,
+  "DailyRatings": 8,
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-07-30T05:00:23.1342677+00:00",
+  "LastChanged": "2022-07-30T23:00:23.8556437+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-07-30T05:00:23.1342679+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 635
+    },
+    {
+      "Time": "2022-07-30T23:00:23.8556438+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 640
     }
   ],
   "Tags": [

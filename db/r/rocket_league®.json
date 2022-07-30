@@ -3,10 +3,10 @@
   "Name": "Rocket League\u00AE",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 263569,
-  "DailyRatings": 2297.06,
+  "NumberOfRatings": 263672,
+  "DailyRatings": 2298.1,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2022-07-30T22:00:18.5719256+00:00",
+  "LastChanged": "2022-07-30T23:00:19.5648437+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -342,6 +342,11 @@
       "Time": "2022-07-30T22:00:18.5719258+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 263569
+    },
+    {
+      "Time": "2022-07-30T23:00:19.5648438+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 263672
     }
   ],
   "Tags": [

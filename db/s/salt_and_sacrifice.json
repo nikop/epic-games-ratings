@@ -3,10 +3,10 @@
   "Name": "Salt and Sacrifice",
   "Names": [],
   "Rating": 4.29,
-  "NumberOfRatings": 1671,
-  "DailyRatings": 22.24,
+  "NumberOfRatings": 1680,
+  "DailyRatings": 23.14,
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-07-30T20:01:24.5959294+00:00",
+  "LastChanged": "2022-07-30T23:01:08.8778016+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-07-30T20:01:24.5959295+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 1671
+    },
+    {
+      "Time": "2022-07-30T23:01:08.8778018+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 1680
     }
   ],
   "Tags": [

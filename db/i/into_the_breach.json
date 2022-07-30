@@ -3,10 +3,10 @@
   "Name": "Into the Breach",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 2095,
-  "DailyRatings": 77.49,
+  "NumberOfRatings": 2096,
+  "DailyRatings": 77.17,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2022-07-30T22:01:33.462991+00:00",
+  "LastChanged": "2022-07-30T23:01:32.8933091+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:50.8479512+00:00",
@@ -372,6 +372,11 @@
       "Time": "2022-07-30T22:01:33.4629911+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 2095
+    },
+    {
+      "Time": "2022-07-30T23:01:32.8933092+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 2096
     }
   ],
   "Tags": [
