@@ -3,10 +3,10 @@
   "Name": "Against the Storm",
   "ProductSlug": null,
   "Rating": 4.82,
-  "NumberOfRatings": 1038,
-  "DailyRatings": 74.16,
+  "NumberOfRatings": 1041,
+  "DailyRatings": 66.45,
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
-  "LastChanged": "2022-07-30T04:01:45.5861299+00:00",
+  "LastChanged": "2022-07-30T07:01:42.7872623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:52.7561903+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-07-30T04:01:45.58613+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 1038
+    },
+    {
+      "Time": "2022-07-30T07:01:42.7872625+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 1041
     }
   ],
   "Tags": [
