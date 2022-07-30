@@ -2,11 +2,11 @@
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
   "ProductSlug": "curse-of-the-dead-gods",
-  "Rating": 4.55,
-  "NumberOfRatings": 85,
+  "Rating": 4.53,
+  "NumberOfRatings": 86,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2022-07-28T16:58:43.6421367+00:00",
+  "LastChanged": "2022-07-30T10:01:35.334696+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:59.8576238+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-28T16:58:43.6421369+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 85
+    },
+    {
+      "Time": "2022-07-30T10:01:35.3346963+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 86
     }
   ],
   "Tags": [
