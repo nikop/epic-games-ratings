@@ -1,12 +1,9 @@
 {
   "ID": "0f58cd1c026441f49371d663a710fe83",
   "Name": "Out of Line",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:14.7983748+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

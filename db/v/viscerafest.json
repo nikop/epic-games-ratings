@@ -1,12 +1,9 @@
 {
   "ID": "4288b8f6a5e94449a747efd5e1514fde",
   "Name": "Viscerafest",
-  "ProductSlug": "viscerafest",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:13.7037908+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

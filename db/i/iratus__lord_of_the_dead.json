@@ -1,7 +1,7 @@
 {
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
-  "ProductSlug": null,
+  "Names": [],
   "Rating": 4.37,
   "NumberOfRatings": 8754,
   "DailyRatings": 76.59,
@@ -322,7 +322,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 111
+      "Count": 116
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -1,12 +1,9 @@
 {
   "ID": "41ac9425cf1a4867b2b73c9838dbc6f2",
   "Name": "Nowhere Prophet",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:04.1877716+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "b7898e56fd624636ad56220ed8a7ee67",
   "Name": "Beku",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:43.2136063+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "moose",
   "Name": "Super Meat Boy Forever",
-  "ProductSlug": "super-meat-boy-forever",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "daffodil",
-  "Name": "Omen of Sorrow",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Name": "Omen Of Sorrow",
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:49.2472762+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "333f455592a24f7db42ac87a1d7227c4",
   "Name": "Guardians of Hyelore",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:14.3257673+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

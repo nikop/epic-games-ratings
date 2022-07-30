@@ -1,12 +1,9 @@
 {
   "ID": "ace4435645d9489cacfbb422b7c1c817",
   "Name": "SAMURAI SHODOWN",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:02.6645196+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

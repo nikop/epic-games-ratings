@@ -1,12 +1,9 @@
 {
   "ID": "c7b771d17305491a9962d0c3de75fe8b",
   "Name": "Starsand",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:04.2435884+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "0558e58003aa447a8ace48c3a0d53b54",
   "Name": "Down in Bermuda",
-  "ProductSlug": "down-in-bermuda",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:55.3440934+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

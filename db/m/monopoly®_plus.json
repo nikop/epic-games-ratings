@@ -1,0 +1,68 @@
+{
+  "ID": "7061cd389bdc4c068910da67cd8e154c",
+  "Name": "MONOPOLY\u00AE PLUS",
+  "Names": [],
+  "Rating": 3.79,
+  "NumberOfRatings": 86,
+  "DailyRatings": 1.5,
+  "FirstSeen": "2022-07-22T20:30:40.4652835+00:00",
+  "LastChanged": "2022-07-30T04:31:58.165453+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:30:40.4652838+00:00",
+      "Rating": 4.02,
+      "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-07-23T20:01:56.1454234+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": 55
+    },
+    {
+      "Time": "2022-07-24T20:02:01.1176695+00:00",
+      "Rating": 3.89,
+      "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-07-25T06:02:30.6412074+00:00",
+      "Rating": 3.9,
+      "NumberOfRatings": 63
+    },
+    {
+      "Time": "2022-07-26T06:02:36.8173271+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": 65
+    },
+    {
+      "Time": "2022-07-26T14:04:09.7435669+00:00",
+      "Rating": 3.91,
+      "NumberOfRatings": 67
+    },
+    {
+      "Time": "2022-07-27T14:02:32.2313666+00:00",
+      "Rating": 3.86,
+      "NumberOfRatings": 73
+    },
+    {
+      "Time": "2022-07-28T00:02:35.1554066+00:00",
+      "Rating": 3.86,
+      "NumberOfRatings": 76
+    },
+    {
+      "Time": "2022-07-28T14:02:34.0069959+00:00",
+      "Rating": 3.87,
+      "NumberOfRatings": 78
+    },
+    {
+      "Time": "2022-07-29T12:31:51.9697817+00:00",
+      "Rating": 3.79,
+      "NumberOfRatings": 85
+    },
+    {
+      "Time": "2022-07-30T04:31:58.1654532+00:00",
+      "Rating": 3.79,
+      "NumberOfRatings": 86
+    }
+  ],
+  "Tags": []
+}

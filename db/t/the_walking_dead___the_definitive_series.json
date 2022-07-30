@@ -1,0 +1,118 @@
+{
+  "ID": "b534830f4c524447bfd2266ce70cf8ab",
+  "Name": "The Walking Dead : The Definitive Series",
+  "Names": [],
+  "Rating": 4.85,
+  "NumberOfRatings": 401,
+  "DailyRatings": 3,
+  "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
+  "LastChanged": "2022-07-30T11:31:37.3231607+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:22:07.8066793+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 352
+    },
+    {
+      "Time": "2022-07-23T06:01:54.7375661+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 355
+    },
+    {
+      "Time": "2022-07-23T10:01:25.4067482+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 357
+    },
+    {
+      "Time": "2022-07-23T18:00:54.6403894+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 359
+    },
+    {
+      "Time": "2022-07-24T02:00:51.3394085+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 364
+    },
+    {
+      "Time": "2022-07-24T10:01:02.5251456+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 368
+    },
+    {
+      "Time": "2022-07-24T20:00:58.1049025+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 371
+    },
+    {
+      "Time": "2022-07-25T10:01:21.2430433+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 377
+    },
+    {
+      "Time": "2022-07-25T14:02:06.1169456+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 379
+    },
+    {
+      "Time": "2022-07-26T04:01:29.2406885+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 381
+    },
+    {
+      "Time": "2022-07-26T16:01:26.7916276+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 384
+    },
+    {
+      "Time": "2022-07-27T02:01:45.4577802+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 387
+    },
+    {
+      "Time": "2022-07-27T10:01:16.1651564+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 388
+    },
+    {
+      "Time": "2022-07-28T00:01:31.3319997+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 391
+    },
+    {
+      "Time": "2022-07-28T04:00:53.5904035+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 392
+    },
+    {
+      "Time": "2022-07-28T10:00:59.9698839+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 393
+    },
+    {
+      "Time": "2022-07-29T05:30:53.3537237+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 397
+    },
+    {
+      "Time": "2022-07-29T19:31:18.6229763+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 399
+    },
+    {
+      "Time": "2022-07-29T22:30:54.703602+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 400
+    },
+    {
+      "Time": "2022-07-30T11:31:37.3231608+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 401
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Count": 134
+    }
+  ]
+}

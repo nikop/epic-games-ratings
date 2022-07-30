@@ -1,0 +1,6 @@
+# Stranger Things 3: The Game
+Rating: - (-)  
+Ratings Per Day: 0.00  
+## Ratings History
+| Date | Rating | Number of Ratings |
+| ---- | ------ | ----------------- |

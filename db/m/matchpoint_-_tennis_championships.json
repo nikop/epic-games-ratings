@@ -1,12 +1,9 @@
 {
   "ID": "ccf1eda0e53c4e01ba1a114fdb561cf7",
   "Name": "Matchpoint - Tennis Championships",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:56.5458736+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

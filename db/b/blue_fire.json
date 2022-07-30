@@ -1,12 +1,9 @@
 {
   "ID": "b2c22f02a966425db54645674eeeaee0",
   "Name": "Blue Fire",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:12.9593391+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

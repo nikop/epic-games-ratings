@@ -1,12 +1,9 @@
 {
   "ID": "9dfbab09058d403892a27b96dcb349aa",
   "Name": "A Good Snowman is Hard to Build",
-  "ProductSlug": "a-good-snowman-is-hard-to-build",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:45.7304482+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

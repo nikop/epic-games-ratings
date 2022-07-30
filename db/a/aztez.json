@@ -1,12 +1,9 @@
 {
   "ID": "5b325322a4c04b9e9e780b9a1e9b2d70",
   "Name": "Aztez",
-  "ProductSlug": "aztez/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:45.0438732+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "orchid",
   "Name": "Jackbox Party Pack 3",
-  "ProductSlug": "jackbox-party-pack-3",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:19.1154075+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

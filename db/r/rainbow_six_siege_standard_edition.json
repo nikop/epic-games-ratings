@@ -1,0 +1,378 @@
+{
+  "ID": "carnation",
+  "Name": "Rainbow Six Siege Standard Edition",
+  "Names": [],
+  "Rating": 4.6,
+  "NumberOfRatings": 5553,
+  "DailyRatings": 93.77,
+  "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
+  "LastChanged": "2022-07-30T09:00:36.9523571+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:50.9592709+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5042
+    },
+    {
+      "Time": "2022-07-22T20:40:31.0699051+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5045
+    },
+    {
+      "Time": "2022-07-22T22:01:38.9343175+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5057
+    },
+    {
+      "Time": "2022-07-23T07:24:46.7512123+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5081
+    },
+    {
+      "Time": "2022-07-23T10:00:55.7520622+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5082
+    },
+    {
+      "Time": "2022-07-23T11:47:24.632839+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5091
+    },
+    {
+      "Time": "2022-07-23T16:00:43.520389+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5104
+    },
+    {
+      "Time": "2022-07-23T20:00:36.2092005+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5121
+    },
+    {
+      "Time": "2022-07-24T00:00:37.6748686+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5130
+    },
+    {
+      "Time": "2022-07-24T02:00:34.2301572+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5132
+    },
+    {
+      "Time": "2022-07-24T12:00:39.8642326+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5148
+    },
+    {
+      "Time": "2022-07-24T14:01:08.8530166+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5158
+    },
+    {
+      "Time": "2022-07-24T16:01:29.5305656+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5163
+    },
+    {
+      "Time": "2022-07-24T22:00:38.7150967+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5178
+    },
+    {
+      "Time": "2022-07-25T00:00:54.0603392+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5188
+    },
+    {
+      "Time": "2022-07-25T04:01:00.5668297+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5199
+    },
+    {
+      "Time": "2022-07-25T12:01:31.0506257+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5209
+    },
+    {
+      "Time": "2022-07-25T14:01:47.5984224+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5213
+    },
+    {
+      "Time": "2022-07-25T16:01:17.474499+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5224
+    },
+    {
+      "Time": "2022-07-25T18:00:59.3850899+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5230
+    },
+    {
+      "Time": "2022-07-25T20:01:04.6115813+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5234
+    },
+    {
+      "Time": "2022-07-25T22:00:40.2377152+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5244
+    },
+    {
+      "Time": "2022-07-26T02:00:34.6132791+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5252
+    },
+    {
+      "Time": "2022-07-26T06:01:13.9133272+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5256
+    },
+    {
+      "Time": "2022-07-26T12:01:01.8042562+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5268
+    },
+    {
+      "Time": "2022-07-26T14:02:35.2317729+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5271
+    },
+    {
+      "Time": "2022-07-26T16:01:05.9291333+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5287
+    },
+    {
+      "Time": "2022-07-26T18:01:09.4690179+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5295
+    },
+    {
+      "Time": "2022-07-26T20:00:54.4214551+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5305
+    },
+    {
+      "Time": "2022-07-26T22:00:44.5916206+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5312
+    },
+    {
+      "Time": "2022-07-27T00:00:38.3975893+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5314
+    },
+    {
+      "Time": "2022-07-27T02:01:27.0588012+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5315
+    },
+    {
+      "Time": "2022-07-27T06:00:59.1812404+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5322
+    },
+    {
+      "Time": "2022-07-27T08:00:39.8062171+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5324
+    },
+    {
+      "Time": "2022-07-27T14:01:09.2847543+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5342
+    },
+    {
+      "Time": "2022-07-27T16:01:00.7554494+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5353
+    },
+    {
+      "Time": "2022-07-27T18:00:58.2323643+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5367
+    },
+    {
+      "Time": "2022-07-27T20:00:37.8864024+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5374
+    },
+    {
+      "Time": "2022-07-27T22:00:56.567273+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5379
+    },
+    {
+      "Time": "2022-07-28T00:01:13.7308284+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5388
+    },
+    {
+      "Time": "2022-07-28T02:00:49.4005294+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5394
+    },
+    {
+      "Time": "2022-07-28T04:00:36.8576037+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5395
+    },
+    {
+      "Time": "2022-07-28T06:00:37.4001515+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5397
+    },
+    {
+      "Time": "2022-07-28T10:00:42.4903817+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5401
+    },
+    {
+      "Time": "2022-07-28T14:01:11.0722515+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5411
+    },
+    {
+      "Time": "2022-07-28T16:57:57.4486593+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5420
+    },
+    {
+      "Time": "2022-07-28T17:43:41.6790634+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5427
+    },
+    {
+      "Time": "2022-07-28T18:07:32.534814+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5431
+    },
+    {
+      "Time": "2022-07-28T21:01:10.0045249+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5439
+    },
+    {
+      "Time": "2022-07-28T21:30:35.4996554+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5443
+    },
+    {
+      "Time": "2022-07-28T22:30:31.7500257+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5446
+    },
+    {
+      "Time": "2022-07-29T00:30:31.3427832+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5455
+    },
+    {
+      "Time": "2022-07-29T04:30:34.5726033+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5463
+    },
+    {
+      "Time": "2022-07-29T07:00:35.1655936+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5464
+    },
+    {
+      "Time": "2022-07-29T11:30:37.7313061+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5469
+    },
+    {
+      "Time": "2022-07-29T13:31:03.854921+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5473
+    },
+    {
+      "Time": "2022-07-29T18:30:34.1479258+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5489
+    },
+    {
+      "Time": "2022-07-29T21:01:01.0350622+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5512
+    },
+    {
+      "Time": "2022-07-29T21:30:39.1031779+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5517
+    },
+    {
+      "Time": "2022-07-29T23:00:37.2069942+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5522
+    },
+    {
+      "Time": "2022-07-30T00:30:33.9544565+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5531
+    },
+    {
+      "Time": "2022-07-30T01:30:35.9889063+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5534
+    },
+    {
+      "Time": "2022-07-30T07:30:34.4594714+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5547
+    },
+    {
+      "Time": "2022-07-30T09:00:36.9523572+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5553
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 324
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 318
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 322
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 317
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 317
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 310
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 293
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 281
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 266
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 256
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 265
+    }
+  ]
+}

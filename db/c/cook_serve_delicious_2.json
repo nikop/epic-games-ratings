@@ -1,12 +1,9 @@
 {
   "ID": "17651e1bc15847ca83389e8e5d931183",
   "Name": "Cook Serve Delicious 2",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-23T00:05:30.786501+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

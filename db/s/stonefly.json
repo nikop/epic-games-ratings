@@ -1,12 +1,9 @@
 {
   "ID": "1f436e99203a49479f4a4d5951374fe8",
   "Name": "Stonefly",
-  "ProductSlug": "stonefly",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:52.0142041+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

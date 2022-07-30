@@ -1,12 +1,9 @@
 {
   "ID": "1285dfc03f134184aef8e12eef6b6cd3",
   "Name": "Krita",
-  "ProductSlug": "krita",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:25.3424366+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

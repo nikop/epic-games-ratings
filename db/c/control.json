@@ -1,12 +1,12 @@
 {
   "ID": "calluna",
   "Name": "Control",
-  "ProductSlug": null,
+  "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 8881,
-  "DailyRatings": 186.36,
+  "NumberOfRatings": 8884,
+  "DailyRatings": 181.25,
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2022-07-30T10:30:38.3619694+00:00",
+  "LastChanged": "2022-07-30T11:30:50.7955936+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -332,6 +332,11 @@
       "Time": "2022-07-30T10:30:38.3619696+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 8881
+    },
+    {
+      "Time": "2022-07-30T11:30:50.7955937+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 8884
     }
   ],
   "Tags": [

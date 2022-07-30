@@ -1,12 +1,9 @@
 {
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:53.5861967+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

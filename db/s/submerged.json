@@ -1,12 +1,9 @@
 {
   "ID": "96e94abcf61e4b84b1a771ac53c435e4",
   "Name": "Submerged",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:56.7619059+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "aa54bad47e504fdca79a3eb77be8c465",
   "Name": "Monkey Barrels",
-  "ProductSlug": "monkey-barrels",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:09.9396347+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

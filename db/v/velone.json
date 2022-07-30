@@ -1,12 +1,9 @@
 {
   "ID": "7691acba99d04b8b994ce3c642ec7655",
   "Name": "VELONE",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:41.1845329+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

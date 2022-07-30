@@ -1,7 +1,7 @@
 {
   "ID": "springbok",
   "Name": "Darksiders III",
-  "ProductSlug": null,
+  "Names": [],
   "Rating": 4.44,
   "NumberOfRatings": 73,
   "DailyRatings": 0,
@@ -32,7 +32,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 28
+      "Count": 29
     }
   ]
 }

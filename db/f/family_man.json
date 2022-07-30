@@ -1,12 +1,9 @@
 {
   "ID": "ade60fe8b45645508a77a6667eb8ddb8",
   "Name": "Family Man",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:37.2359816+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

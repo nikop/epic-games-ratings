@@ -1,4 +1,4 @@
-# Darq: Complete Edition
+# DARQ: Complete Edition
 Rating: 4.42 (214)  
 Ratings Per Day: 0.00  
 ## Ratings History

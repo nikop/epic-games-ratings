@@ -1,12 +1,9 @@
 {
   "ID": "c0b9d91377a840718e6869f0cd780a55",
   "Name": "Spacebase Startopia",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:08.5297384+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

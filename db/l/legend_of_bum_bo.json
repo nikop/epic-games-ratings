@@ -1,12 +1,9 @@
 {
   "ID": "ae7464ff84d042a1903ba0b8063e4b52",
   "Name": "Legend of Bum bo",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:49.0354008+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

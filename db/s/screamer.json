@@ -1,12 +1,9 @@
 {
   "ID": "47486ada9a0f47af9693b7b4673f76df",
   "Name": "Screamer",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-24T18:02:15.9734005+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "dd1a1179103041a19c85cee2ca43cd99",
   "Name": "The Count Lucanor",
-  "ProductSlug": "the-count-lucanor",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:13.461276+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

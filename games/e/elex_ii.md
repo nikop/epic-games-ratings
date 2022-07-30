@@ -1,4 +1,4 @@
-# Elex II
+# ELEX II
 Rating: 4.18 (74)  
 Ratings Per Day: 0.00  
 ## Ratings History

@@ -1,12 +1,9 @@
 {
   "ID": "kestrel",
   "Name": "Donut County",
-  "ProductSlug": "donut-county/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:29.5390414+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

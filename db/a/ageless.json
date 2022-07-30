@@ -1,12 +1,9 @@
 {
   "ID": "21e3ba8638c14c6480b076b8eebf95ce",
   "Name": "Ageless",
-  "ProductSlug": "ageless",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:34.5517836+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

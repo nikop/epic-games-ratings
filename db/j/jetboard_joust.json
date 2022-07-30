@@ -1,12 +1,9 @@
 {
   "ID": "4597b41e38064312b67fb8b3cb27f8e0",
   "Name": "Jetboard Joust",
-  "ProductSlug": "jetboard-joust",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:56.2755519+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

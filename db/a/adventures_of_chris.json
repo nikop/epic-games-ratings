@@ -1,12 +1,9 @@
 {
   "ID": "8c689d262be143168e69fdd60d0615cb",
   "Name": "Adventures of Chris",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:48.8567447+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

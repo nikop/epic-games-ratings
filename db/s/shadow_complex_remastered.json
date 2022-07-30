@@ -1,12 +1,9 @@
 {
   "ID": "vpr",
   "Name": "Shadow Complex Remastered",
-  "ProductSlug": "shadow-complex",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:41.1193522+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

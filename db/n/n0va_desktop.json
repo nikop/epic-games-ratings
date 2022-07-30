@@ -1,12 +1,9 @@
 {
   "ID": "591075eb5c4547bd9d490edb66f1dde4",
   "Name": "N0va Desktop",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:36.2794517+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

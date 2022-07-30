@@ -1,12 +1,9 @@
 {
   "ID": "55370026bd804911b3f5e1a9edaadda0",
   "Name": "Ruin Raiders",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:30.7173766+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

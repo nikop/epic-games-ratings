@@ -1,12 +1,9 @@
 {
   "ID": "05cd7449db434e1088b1c72b74849da7",
   "Name": "Air Missions: HIND",
-  "ProductSlug": "air-missions-hind",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:40.1235725+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

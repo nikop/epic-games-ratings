@@ -1,12 +1,9 @@
 {
   "ID": "3ea5e15881be44bda09a0706e51d94ba",
   "Name": "Clouzy",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:40.0772842+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

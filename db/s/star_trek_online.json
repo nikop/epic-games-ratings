@@ -1,7 +1,7 @@
 {
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
-  "ProductSlug": "star-trek-online",
+  "Names": [],
   "Rating": 4.55,
   "NumberOfRatings": 386,
   "DailyRatings": 10.71,
@@ -119,7 +119,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",

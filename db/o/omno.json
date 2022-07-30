@@ -1,12 +1,9 @@
 {
   "ID": "aa7516565e79454f86801110761f8188",
   "Name": "OMNO",
-  "ProductSlug": "omno",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:36.1705622+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

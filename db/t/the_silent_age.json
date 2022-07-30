@@ -1,12 +1,9 @@
 {
   "ID": "46d340566781448ebdc2cb576f91d3b6",
   "Name": "The Silent Age",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:31.9753367+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

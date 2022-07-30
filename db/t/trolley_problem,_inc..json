@@ -1,12 +1,9 @@
 {
   "ID": "cae59d6d2a1341c8b92c89ddf970e1e6",
   "Name": "Trolley Problem, Inc.",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:50.6927722+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

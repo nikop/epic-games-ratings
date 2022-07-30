@@ -1,12 +1,9 @@
 {
   "ID": "5a7b7ab33eb145e99b4a89eccc914753",
   "Name": "Wunderling DX",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:45.6194368+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

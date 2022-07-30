@@ -1,12 +1,9 @@
 {
   "ID": "01d1f832f50747ee97915be1f8fcfa45",
   "Name": "Out There Oceans of Time",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:29.4124937+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

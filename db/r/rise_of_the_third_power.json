@@ -1,12 +1,9 @@
 {
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:22.4007155+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

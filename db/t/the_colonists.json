@@ -1,12 +1,9 @@
 {
   "ID": "efeffab890e0438abe36f643f5da5ca2",
   "Name": "The Colonists",
-  "ProductSlug": "the-colonists",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:16.736578+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

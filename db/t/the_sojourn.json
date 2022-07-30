@@ -1,12 +1,9 @@
 {
   "ID": "ada169f07b81464a9fc06a7d6896101d",
   "Name": "The Sojourn",
-  "ProductSlug": "the-sojourn/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:57.2658625+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

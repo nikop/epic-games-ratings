@@ -1,12 +1,9 @@
 {
   "ID": "713ce40e7239409c8026e6cbeee6bf55",
   "Name": "Re-Legion",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:14.4915623+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:53.4158862+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "09d8b60b834a47d48fb0aba85a6d6a2e",
   "Name": "Backbone",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:12.4596639+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

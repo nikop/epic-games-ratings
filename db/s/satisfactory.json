@@ -1,12 +1,12 @@
 {
   "ID": "crab",
   "Name": "Satisfactory",
-  "ProductSlug": "satisfactory",
+  "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 19686,
-  "DailyRatings": 272.01,
+  "NumberOfRatings": 19700,
+  "DailyRatings": 285.75,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2022-07-30T11:01:00.7499097+00:00",
+  "LastChanged": "2022-07-30T11:31:37.7560646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:11.7040588+00:00",
@@ -377,12 +377,17 @@
       "Time": "2022-07-30T11:01:00.7499099+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 19686
+    },
+    {
+      "Time": "2022-07-30T11:31:37.7560651+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 19700
     }
   ],
   "Tags": [
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 1899
+      "Count": 1955
     },
     {
       "Text": "This game has Quickly Understood Controls",

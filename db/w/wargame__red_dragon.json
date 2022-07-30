@@ -1,12 +1,12 @@
 {
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
-  "ProductSlug": "wargame-red-dragon",
+  "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 1833,
-  "DailyRatings": 33.38,
+  "NumberOfRatings": 1834,
+  "DailyRatings": 32.99,
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2022-07-30T10:30:53.2935059+00:00",
+  "LastChanged": "2022-07-30T11:31:04.6871629+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:18.8189702+00:00",
@@ -257,6 +257,11 @@
       "Time": "2022-07-30T10:30:53.2935061+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 1833
+    },
+    {
+      "Time": "2022-07-30T11:31:04.6871631+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 1834
     }
   ],
   "Tags": [

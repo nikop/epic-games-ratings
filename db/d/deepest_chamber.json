@@ -1,12 +1,9 @@
 {
   "ID": "1d0a0391733c42fb9fd78d74a875c859",
   "Name": "Deepest Chamber",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:03.3456648+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

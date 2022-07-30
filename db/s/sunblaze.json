@@ -1,12 +1,9 @@
 {
   "ID": "c59985e0c23d468ca98440ccad5f6f7f",
   "Name": "Sunblaze",
-  "ProductSlug": "sunblaze",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:19.6902116+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

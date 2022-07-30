@@ -1,0 +1,379 @@
+{
+  "ID": "6009be9994c2409099588cde6f3a5ed0",
+  "Name": "Cities: Skylines",
+  "Names": [],
+  "Rating": 4.67,
+  "NumberOfRatings": 14021,
+  "DailyRatings": 286.87,
+  "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
+  "LastChanged": "2022-07-30T11:31:16.9319772+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:44.6167527+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12027
+    },
+    {
+      "Time": "2022-07-22T23:01:35.8261069+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12061
+    },
+    {
+      "Time": "2022-07-23T00:01:38.1788171+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12069
+    },
+    {
+      "Time": "2022-07-23T01:01:24.8063406+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12078
+    },
+    {
+      "Time": "2022-07-23T03:01:38.5215926+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12092
+    },
+    {
+      "Time": "2022-07-23T05:01:23.5310989+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12104
+    },
+    {
+      "Time": "2022-07-23T08:01:22.2007667+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12133
+    },
+    {
+      "Time": "2022-07-23T10:00:54.366498+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12140
+    },
+    {
+      "Time": "2022-07-23T10:06:44.7149047+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12160
+    },
+    {
+      "Time": "2022-07-23T12:00:30.898235+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12170
+    },
+    {
+      "Time": "2022-07-23T18:00:36.7931929+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12223
+    },
+    {
+      "Time": "2022-07-23T20:00:35.4664633+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12261
+    },
+    {
+      "Time": "2022-07-23T22:00:50.649187+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12304
+    },
+    {
+      "Time": "2022-07-24T00:00:36.8188168+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12325
+    },
+    {
+      "Time": "2022-07-24T02:00:33.5639842+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12335
+    },
+    {
+      "Time": "2022-07-24T04:00:44.9300898+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12352
+    },
+    {
+      "Time": "2022-07-24T06:01:08.8912053+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12367
+    },
+    {
+      "Time": "2022-07-24T10:00:44.2554327+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12403
+    },
+    {
+      "Time": "2022-07-24T12:00:39.1853694+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12434
+    },
+    {
+      "Time": "2022-07-24T14:01:08.0381843+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12450
+    },
+    {
+      "Time": "2022-07-24T20:00:39.9114742+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12563
+    },
+    {
+      "Time": "2022-07-25T00:00:53.2201853+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12606
+    },
+    {
+      "Time": "2022-07-25T02:00:33.9034263+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12633
+    },
+    {
+      "Time": "2022-07-25T04:00:59.8191642+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12639
+    },
+    {
+      "Time": "2022-07-25T06:01:08.5727972+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12646
+    },
+    {
+      "Time": "2022-07-25T10:01:02.8992774+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12676
+    },
+    {
+      "Time": "2022-07-25T12:01:30.193349+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12700
+    },
+    {
+      "Time": "2022-07-25T14:01:46.7315678+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12708
+    },
+    {
+      "Time": "2022-07-25T20:01:03.6913637+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12809
+    },
+    {
+      "Time": "2022-07-26T00:01:03.9203874+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12843
+    },
+    {
+      "Time": "2022-07-26T02:00:33.7765311+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12862
+    },
+    {
+      "Time": "2022-07-26T04:01:10.1758038+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12874
+    },
+    {
+      "Time": "2022-07-26T06:01:13.0883669+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12881
+    },
+    {
+      "Time": "2022-07-26T12:01:00.9288923+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12941
+    },
+    {
+      "Time": "2022-07-26T14:02:34.2116955+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 12955
+    },
+    {
+      "Time": "2022-07-26T22:00:43.68403+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13057
+    },
+    {
+      "Time": "2022-07-27T02:01:26.2794848+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13117
+    },
+    {
+      "Time": "2022-07-27T06:00:58.3865746+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13153
+    },
+    {
+      "Time": "2022-07-27T12:01:00.8344296+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13210
+    },
+    {
+      "Time": "2022-07-27T14:01:08.3689341+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13219
+    },
+    {
+      "Time": "2022-07-27T16:00:59.8574383+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13260
+    },
+    {
+      "Time": "2022-07-28T00:01:12.8194122+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13330
+    },
+    {
+      "Time": "2022-07-28T02:00:48.7109907+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13356
+    },
+    {
+      "Time": "2022-07-28T06:00:36.5278439+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13394
+    },
+    {
+      "Time": "2022-07-28T08:00:52.6967201+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13411
+    },
+    {
+      "Time": "2022-07-28T10:00:41.6719494+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13423
+    },
+    {
+      "Time": "2022-07-28T12:01:00.0119356+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13442
+    },
+    {
+      "Time": "2022-07-28T14:01:10.17188+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13469
+    },
+    {
+      "Time": "2022-07-28T16:57:56.5804908+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13525
+    },
+    {
+      "Time": "2022-07-29T01:00:32.0700271+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13617
+    },
+    {
+      "Time": "2022-07-29T02:00:32.2050345+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13625
+    },
+    {
+      "Time": "2022-07-29T06:30:31.8721977+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13675
+    },
+    {
+      "Time": "2022-07-29T08:30:36.9444795+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13681
+    },
+    {
+      "Time": "2022-07-29T09:01:00.6491727+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13689
+    },
+    {
+      "Time": "2022-07-29T10:30:31.2364484+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13706
+    },
+    {
+      "Time": "2022-07-29T11:30:37.0199194+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13734
+    },
+    {
+      "Time": "2022-07-29T13:31:03.0745893+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13749
+    },
+    {
+      "Time": "2022-07-29T14:00:59.1603716+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13759
+    },
+    {
+      "Time": "2022-07-29T17:30:59.1456174+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13803
+    },
+    {
+      "Time": "2022-07-30T03:00:32.5404099+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13939
+    },
+    {
+      "Time": "2022-07-30T06:30:49.3495323+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13962
+    },
+    {
+      "Time": "2022-07-30T08:00:46.4278898+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13974
+    },
+    {
+      "Time": "2022-07-30T08:30:40.7943763+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 13983
+    },
+    {
+      "Time": "2022-07-30T10:31:05.2861384+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 14007
+    },
+    {
+      "Time": "2022-07-30T11:31:16.9319773+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 14021
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 816
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 779
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 760
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 731
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 699
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 712
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 673
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 565
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 573
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 479
+    }
+  ]
+}

@@ -1,12 +1,9 @@
 {
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

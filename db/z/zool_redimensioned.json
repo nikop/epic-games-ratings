@@ -1,12 +1,9 @@
 {
   "ID": "16d321658b0f4467a9b9ae2d10eb61d3",
   "Name": "Zool Redimensioned",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:08.3324056+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

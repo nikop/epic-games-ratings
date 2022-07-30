@@ -1,12 +1,9 @@
 {
   "ID": "143474ab55ec49e8b9b9d79931cb2512",
-  "Name": "Zombi",
-  "ProductSlug": "zombi/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Name": "ZOMBI",
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:13.2699332+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

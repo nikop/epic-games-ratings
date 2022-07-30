@@ -1,7 +1,7 @@
 {
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
-  "ProductSlug": null,
+  "Names": [],
   "Rating": 4.56,
   "NumberOfRatings": 569,
   "DailyRatings": 17.14,

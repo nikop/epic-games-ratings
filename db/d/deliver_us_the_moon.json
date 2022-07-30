@@ -1,12 +1,9 @@
 {
   "ID": "34f5834b0c404ed09b54af0b5f976c5d",
   "Name": "Deliver Us The Moon",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:05.1274339+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

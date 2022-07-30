@@ -1,12 +1,9 @@
 {
   "ID": "5688a1fee5204ee4968b96e70c75f50b",
   "Name": "Itch.io",
-  "ProductSlug": "itch-io",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:33.6019363+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

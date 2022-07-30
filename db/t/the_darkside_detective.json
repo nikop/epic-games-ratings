@@ -1,12 +1,9 @@
 {
   "ID": "29857990e5434b7db5dd026ef18dbc96",
   "Name": "The Darkside Detective",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:21.5289405+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

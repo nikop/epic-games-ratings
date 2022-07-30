@@ -1,12 +1,9 @@
 {
   "ID": "ec47caf26e574aa882d96fc924afc291",
   "Name": "The Jackbox Party Starter",
-  "ProductSlug": "jackbox-party-starter",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:27:13.3796122+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "c473457eec2f4d31bd98bfc76551443b",
   "Name": "Alchemist Adventure",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:51.4966191+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "c14dd3d3c8214149b27477dd4619f029",
   "Name": "As Far As The Eye",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:36.0025372+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

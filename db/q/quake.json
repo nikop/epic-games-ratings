@@ -1,12 +1,9 @@
 {
   "ID": "f57987ad149c43b3a7a66a7f10828f92",
   "Name": "Quake",
-  "ProductSlug": "quake",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

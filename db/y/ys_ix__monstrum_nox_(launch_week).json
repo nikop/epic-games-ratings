@@ -1,0 +1,23 @@
+{
+  "ID": "e59da5b391d24c05ba6d9115b6e05459",
+  "Name": "Ys IX: Monstrum Nox (Launch Week)",
+  "Names": [],
+  "Rating": 4.52,
+  "NumberOfRatings": 25,
+  "DailyRatings": 0,
+  "FirstSeen": "2022-07-22T20:17:53.4070911+00:00",
+  "LastChanged": "2022-07-28T00:00:59.1929515+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:17:53.4070914+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-07-28T00:00:59.1929516+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 25
+    }
+  ],
+  "Tags": []
+}

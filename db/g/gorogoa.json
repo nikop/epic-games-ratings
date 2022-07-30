@@ -1,12 +1,9 @@
 {
   "ID": "meerkat",
   "Name": "Gorogoa",
-  "ProductSlug": "gorogoa/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:21.698655+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,12 @@
 {
   "ID": "4492ce99b4124b74a0bb83f78b3d70b8",
   "Name": "For The King",
-  "ProductSlug": "for-the-king/home",
+  "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 3084,
-  "DailyRatings": 100.79,
+  "NumberOfRatings": 3119,
+  "DailyRatings": 82.09,
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2022-07-29T23:01:27.3513535+00:00",
+  "LastChanged": "2022-07-30T11:32:12.2240932+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-07-29T23:01:27.3513537+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 3084
+    },
+    {
+      "Time": "2022-07-30T11:32:12.2240933+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 3119
     }
   ],
   "Tags": [
@@ -313,7 +318,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 67
+      "Count": 69
     }
   ]
 }

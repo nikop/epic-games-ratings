@@ -1,12 +1,9 @@
 {
   "ID": "5f3c898b2a3244af99e9900e015717f8",
   "Name": "Discord",
-  "ProductSlug": "discord",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:05.5241686+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

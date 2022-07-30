@@ -1,0 +1,78 @@
+{
+  "ID": "larkspur",
+  "Name": "Far Cry Primal Standard Edition",
+  "Names": [],
+  "Rating": 4.65,
+  "NumberOfRatings": 268,
+  "DailyRatings": 8.02,
+  "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
+  "LastChanged": "2022-07-29T22:31:08.1957505+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:23:55.0433272+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 227
+    },
+    {
+      "Time": "2022-07-23T02:02:52.232997+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 230
+    },
+    {
+      "Time": "2022-07-23T22:01:21.0015478+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 236
+    },
+    {
+      "Time": "2022-07-24T10:01:15.6675688+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 237
+    },
+    {
+      "Time": "2022-07-24T22:01:08.940379+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 239
+    },
+    {
+      "Time": "2022-07-25T22:01:10.6614226+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 245
+    },
+    {
+      "Time": "2022-07-26T22:01:22.8872296+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 251
+    },
+    {
+      "Time": "2022-07-27T14:01:40.5355316+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 253
+    },
+    {
+      "Time": "2022-07-28T14:01:42.4949895+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 260
+    },
+    {
+      "Time": "2022-07-28T19:06:57.7959866+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 262
+    },
+    {
+      "Time": "2022-07-29T19:31:32.1707079+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 267
+    },
+    {
+      "Time": "2022-07-29T22:31:08.1957507+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 268
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 81
+    }
+  ]
+}

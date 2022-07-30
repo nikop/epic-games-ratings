@@ -1,0 +1,6 @@
+# Angry Video Game Nerd 1 and 2 Deluxe
+Rating: - (-)  
+Ratings Per Day: 0.00  
+## Ratings History
+| Date | Rating | Number of Ratings |
+| ---- | ------ | ----------------- |

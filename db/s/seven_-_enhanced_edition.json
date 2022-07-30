@@ -1,12 +1,9 @@
 {
   "ID": "7bea1a7bb34d408e8ea30487237d2fe0",
   "Name": "Seven - Enhanced Edition",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:31.4015667+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

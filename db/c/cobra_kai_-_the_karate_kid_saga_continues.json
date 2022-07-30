@@ -1,12 +1,9 @@
 {
   "ID": "a89ff9c697d64dceb20519213bd50f4c",
   "Name": "Cobra Kai - The Karate Kid Saga Continues",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:00.6407548+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

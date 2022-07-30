@@ -1,12 +1,9 @@
 {
   "ID": "46ab1902884c48bc893964c0094e5ccf",
   "Name": "Mechajammer",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:16:48.1360738+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

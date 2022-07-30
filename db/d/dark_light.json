@@ -1,12 +1,9 @@
 {
   "ID": "69d28f650ce14cb8af5ca19212a4b4b8",
   "Name": "Dark Light",
-  "ProductSlug": "dark-light",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:51.3406723+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

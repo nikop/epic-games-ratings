@@ -1,12 +1,9 @@
 {
   "ID": "0ef87626cd724281b9f8f74c83c54b93",
   "Name": "TOEM",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:28.2732826+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

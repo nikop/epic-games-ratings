@@ -1,0 +1,89 @@
+{
+  "ID": "82225e5cb4714006b335a50d840208c6",
+  "Name": "Might \u0026 Magic: Chess Royale",
+  "Names": [],
+  "Rating": 4.5,
+  "NumberOfRatings": 161,
+  "DailyRatings": 4.37,
+  "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
+  "LastChanged": "2022-07-29T23:01:35.1823426+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:27:16.1959449+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 146
+    },
+    {
+      "Time": "2022-07-23T07:27:15.1988648+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 147
+    },
+    {
+      "Time": "2022-07-24T08:01:33.9865669+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 150
+    },
+    {
+      "Time": "2022-07-24T14:02:05.491516+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 152
+    },
+    {
+      "Time": "2022-07-24T20:01:36.8853887+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 153
+    },
+    {
+      "Time": "2022-07-27T02:02:25.15992+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 155
+    },
+    {
+      "Time": "2022-07-27T12:01:56.0670523+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 157
+    },
+    {
+      "Time": "2022-07-28T00:02:10.523994+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 158
+    },
+    {
+      "Time": "2022-07-29T10:31:26.3277284+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 159
+    },
+    {
+      "Time": "2022-07-29T17:31:56.763044+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 160
+    },
+    {
+      "Time": "2022-07-29T23:01:35.1823428+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 161
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 30
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 25
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 20
+    }
+  ]
+}

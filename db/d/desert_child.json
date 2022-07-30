@@ -1,12 +1,9 @@
 {
   "ID": "c38e2ec7b154418a8249614077b3ad5e",
   "Name": "Desert Child",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:29:39.6122762+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
-  "ProductSlug": "scrapnaut",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:19.6180607+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

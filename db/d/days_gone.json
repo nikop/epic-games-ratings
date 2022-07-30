@@ -1,7 +1,7 @@
 {
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
-  "ProductSlug": "days-gone",
+  "Names": [],
   "Rating": 4.7,
   "NumberOfRatings": 2662,
   "DailyRatings": 42.94,
@@ -332,7 +332,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 77
+      "Count": 79
     },
     {
       "Text": "This game is Extremely Fun",

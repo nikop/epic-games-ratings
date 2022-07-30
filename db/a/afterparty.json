@@ -1,12 +1,9 @@
 {
   "ID": "adenium",
   "Name": "Afterparty",
-  "ProductSlug": "afterparty/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:41.9068524+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

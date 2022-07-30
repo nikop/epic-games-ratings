@@ -1,12 +1,9 @@
 {
   "ID": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
   "Name": "Kill It With Fire",
-  "ProductSlug": "kill-it-with-fire",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:57.0618032+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

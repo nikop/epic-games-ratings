@@ -1,4 +1,4 @@
-# What the Golf?
+# WHAT THE GOLF?
 Rating: 4.86 (21)  
 Ratings Per Day: 0.00  
 ## Ratings History

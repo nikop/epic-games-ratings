@@ -1,12 +1,9 @@
 {
   "ID": "705b9b37d3e747e7b02e835e5ace5c81",
   "Name": "CryoFall",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:02.2265434+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

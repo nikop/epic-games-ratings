@@ -1,12 +1,9 @@
 {
   "ID": "bc00696af836471cbacfd496e9e5f877",
   "Name": "Unspottable",
-  "ProductSlug": "unspottable",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:12.1279935+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "a8b6c2950faf4656afaf8840bab559db",
   "Name": "Firework",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:13.2669751+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "f3ad35f2d71a4369ad0f42741dbab5e8",
   "Name": "Hazel Sky",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-25T16:02:01.0466594+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

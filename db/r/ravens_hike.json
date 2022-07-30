@@ -1,12 +1,9 @@
 {
   "ID": "4d7cfa0547184108b138ebd0b3efdc24",
   "Name": "Ravens Hike",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:38.9033516+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,0 +1,284 @@
+{
+  "ID": "3c06b15a8a2845c0b725d4f952fe00aa",
+  "Name": "HITMAN",
+  "Names": [],
+  "Rating": 4.66,
+  "NumberOfRatings": 3526,
+  "DailyRatings": 74.64,
+  "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
+  "LastChanged": "2022-07-30T06:02:27.9103685+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:32:10.6067818+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3041
+    },
+    {
+      "Time": "2022-07-23T01:06:04.282318+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3058
+    },
+    {
+      "Time": "2022-07-23T04:05:32.2327613+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3064
+    },
+    {
+      "Time": "2022-07-23T10:03:30.4521025+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3069
+    },
+    {
+      "Time": "2022-07-23T16:02:14.0516068+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3096
+    },
+    {
+      "Time": "2022-07-23T20:02:06.2230126+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3113
+    },
+    {
+      "Time": "2022-07-23T22:02:20.8443562+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3115
+    },
+    {
+      "Time": "2022-07-24T02:02:02.7810322+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3125
+    },
+    {
+      "Time": "2022-07-24T08:02:08.4911851+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3135
+    },
+    {
+      "Time": "2022-07-24T12:02:10.0439102+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3145
+    },
+    {
+      "Time": "2022-07-24T16:03:04.4513045+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3160
+    },
+    {
+      "Time": "2022-07-24T18:02:10.5906817+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3166
+    },
+    {
+      "Time": "2022-07-25T00:02:21.5423784+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3179
+    },
+    {
+      "Time": "2022-07-25T04:02:30.1482544+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3186
+    },
+    {
+      "Time": "2022-07-25T06:02:40.9962339+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3190
+    },
+    {
+      "Time": "2022-07-25T12:03:03.1973082+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3204
+    },
+    {
+      "Time": "2022-07-25T18:02:33.323925+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3225
+    },
+    {
+      "Time": "2022-07-25T20:02:40.7448259+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3236
+    },
+    {
+      "Time": "2022-07-26T14:04:22.2086058+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3269
+    },
+    {
+      "Time": "2022-07-26T18:03:15.2756184+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3280
+    },
+    {
+      "Time": "2022-07-26T20:02:49.9697521+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3292
+    },
+    {
+      "Time": "2022-07-26T22:02:39.8427002+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3297
+    },
+    {
+      "Time": "2022-07-27T06:02:27.2527133+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3314
+    },
+    {
+      "Time": "2022-07-27T08:02:08.4053337+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3320
+    },
+    {
+      "Time": "2022-07-27T12:02:29.6205527+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3330
+    },
+    {
+      "Time": "2022-07-27T16:02:30.8796638+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3344
+    },
+    {
+      "Time": "2022-07-27T18:02:28.4350828+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3345
+    },
+    {
+      "Time": "2022-07-27T20:02:08.6963868+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3349
+    },
+    {
+      "Time": "2022-07-28T00:02:45.4569792+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3360
+    },
+    {
+      "Time": "2022-07-28T04:02:05.2522241+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3370
+    },
+    {
+      "Time": "2022-07-28T06:02:06.7706305+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3374
+    },
+    {
+      "Time": "2022-07-28T14:02:45.1367713+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3399
+    },
+    {
+      "Time": "2022-07-28T16:02:30.4740925+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3409
+    },
+    {
+      "Time": "2022-07-28T18:12:37.6446628+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3417
+    },
+    {
+      "Time": "2022-07-29T01:02:02.8033154+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3438
+    },
+    {
+      "Time": "2022-07-29T03:02:05.3885752+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3443
+    },
+    {
+      "Time": "2022-07-29T04:32:01.1889668+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3447
+    },
+    {
+      "Time": "2022-07-29T08:32:06.8469672+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3457
+    },
+    {
+      "Time": "2022-07-29T11:02:14.8665976+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3468
+    },
+    {
+      "Time": "2022-07-29T12:02:00.8962963+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3470
+    },
+    {
+      "Time": "2022-07-29T16:32:05.7438837+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3484
+    },
+    {
+      "Time": "2022-07-29T17:32:39.7739885+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3486
+    },
+    {
+      "Time": "2022-07-29T18:32:09.7452449+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3491
+    },
+    {
+      "Time": "2022-07-29T21:02:38.7202892+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3495
+    },
+    {
+      "Time": "2022-07-29T22:32:10.5001123+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3510
+    },
+    {
+      "Time": "2022-07-30T06:02:27.9103686+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 3526
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 45
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 46
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 41
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 37
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 35
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 37
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 29
+    }
+  ]
+}

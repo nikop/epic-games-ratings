@@ -1,12 +1,9 @@
 {
   "ID": "dd7371cb38ea42469d9ba0df57aa394d",
   "Name": "Carnival Games",
-  "ProductSlug": "carnival-games",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:16.2667128+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

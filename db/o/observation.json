@@ -1,12 +1,9 @@
 {
   "ID": "allium",
   "Name": "Observation",
-  "ProductSlug": "observation/home",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:19:43.1233001+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

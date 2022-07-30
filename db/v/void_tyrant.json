@@ -1,12 +1,9 @@
 {
   "ID": "9c4d0f80d0fc4cd48760ad7355cd3cac",
   "Name": "Void Tyrant",
-  "ProductSlug": "Void-tyrant",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:16:53.2042945+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

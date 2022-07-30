@@ -1,12 +1,9 @@
 {
   "ID": "70b3d7364ae84b559fe3d216860ec5ab",
   "Name": "NAIRI: Tower of Shirin",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:00.304422+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

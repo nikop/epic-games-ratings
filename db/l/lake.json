@@ -1,12 +1,9 @@
 {
   "ID": "b36ca8a7314444e6a6b513729790582d",
   "Name": "Lake",
-  "ProductSlug": "lake",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:48.5356941+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

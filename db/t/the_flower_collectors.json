@@ -1,12 +1,9 @@
 {
   "ID": "7d797218225d48ebbca608e9c214cf95",
   "Name": "The Flower Collectors",
-  "ProductSlug": "the-flower-collectors",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:12.3030687+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

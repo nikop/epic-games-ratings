@@ -1,12 +1,9 @@
 {
   "ID": "58f23bf07f464e558f673cd8755b94a6",
   "Name": "SkyDrift Infinity",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:44.7439272+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

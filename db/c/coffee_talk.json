@@ -1,12 +1,9 @@
 {
   "ID": "6b4c7e0047c048469d8930191422349f",
   "Name": "Coffee Talk",
-  "ProductSlug": "coffee-talk",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:07.7118718+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "adeb98fdbcac49ff926121019948c3c2",
   "Name": "AscendantsRising",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:01.6834009+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

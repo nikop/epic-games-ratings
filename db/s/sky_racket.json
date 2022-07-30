@@ -1,12 +1,9 @@
 {
   "ID": "43c0da4f8c774c23a76a213fb8dfe59b",
   "Name": "Sky Racket",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:01.2061331+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

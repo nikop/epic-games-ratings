@@ -1,12 +1,9 @@
 {
   "ID": "6583533b1cb942238a213a29a2b80624",
   "Name": "Through the Woods",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:32.0314275+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

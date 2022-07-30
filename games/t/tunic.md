@@ -1,4 +1,4 @@
-# Tunic
+# TUNIC
 Rating: 4.85 (75)  
 Ratings Per Day: 0.00  
 ## Ratings History

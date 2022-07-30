@@ -1,12 +1,9 @@
 {
   "ID": "7a1f1500fc504725a76744238e74a7a6",
   "Name": "Before Your Eyes",
-  "ProductSlug": "before-your-eyes",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:31:28.5587079+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

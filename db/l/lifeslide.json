@@ -1,12 +1,9 @@
 {
   "ID": "ff1ca89cef474e6fa402c58c29a6258a",
   "Name": "Lifeslide",
-  "ProductSlug": "lifeslide",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:30.2759488+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

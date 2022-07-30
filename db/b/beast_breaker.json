@@ -1,12 +1,9 @@
 {
   "ID": "6ae065d071d74979ad62236b71dc11c7",
   "Name": "Beast Breaker",
-  "ProductSlug": "beast-breaker",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:30.2954901+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

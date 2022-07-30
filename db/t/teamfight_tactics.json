@@ -1,12 +1,9 @@
 {
   "ID": "ada73cc2d68a46a18f529ebb87328dee",
   "Name": "Teamfight Tactics",
-  "ProductSlug": "teamfight-tactics",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:34.3996217+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "528150dcd4a5462994608939eb783270",
   "Name": "The Last Friend",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:51.4323032+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "362563bfd35c4188acdfda0ed6766683",
   "Name": "Boomerang X",
-  "ProductSlug": "boomerang-x",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:24.6050342+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

@@ -1,12 +1,9 @@
 {
   "ID": "be0b0131d4ba482b99007bdd5f705d9a",
   "Name": "Ikaruga",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:19.8429506+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

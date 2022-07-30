@@ -1,12 +1,9 @@
 {
   "ID": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "Name": "Startup Panic",
-  "ProductSlug": "startup-panic",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:21.1548714+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }

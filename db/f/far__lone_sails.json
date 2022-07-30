@@ -1,12 +1,9 @@
 {
   "ID": "64f6e25cee7441e9967524a50b08dddd",
   "Name": "FAR: Lone Sails",
-  "ProductSlug": "far-lone-sails",
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:14.0049461+00:00",
-  "LastChanged": null,
   "RatingHistory": [],
   "Tags": []
 }
