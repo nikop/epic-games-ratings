@@ -1,6 +1,6 @@
 # Superliminal
 Rating: 4.75 (24)  
-Ratings Per Day: 0.53  
+Ratings Per Day: 1.02  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
