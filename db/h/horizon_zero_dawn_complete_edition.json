@@ -3,10 +3,10 @@
   "Name": "Horizon Zero Dawn Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Rating": 4.77,
-  "NumberOfRatings": 4471,
-  "DailyRatings": 131.75,
+  "NumberOfRatings": 4483,
+  "DailyRatings": 132.79,
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2022-07-30T07:31:21.5702973+00:00",
+  "LastChanged": "2022-07-30T09:31:23.6100237+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:54.5867723+00:00",
@@ -252,6 +252,11 @@
       "Time": "2022-07-30T07:31:21.5702974+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 4471
+    },
+    {
+      "Time": "2022-07-30T09:31:23.6100239+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 4483
     }
   ],
   "Tags": [

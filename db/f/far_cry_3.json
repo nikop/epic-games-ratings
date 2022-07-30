@@ -2,11 +2,11 @@
   "ID": "hellebore",
   "Name": "Far Cry 3",
   "ProductSlug": null,
-  "Rating": 4.66,
-  "NumberOfRatings": 247,
-  "DailyRatings": 0,
+  "Rating": 4.65,
+  "NumberOfRatings": 251,
+  "DailyRatings": 4.92,
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2022-07-29T14:01:36.3493577+00:00",
+  "LastChanged": "2022-07-30T09:31:13.7573717+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-29T14:01:36.3493579+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 247
+    },
+    {
+      "Time": "2022-07-30T09:31:13.7573718+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 251
     }
   ],
   "Tags": [

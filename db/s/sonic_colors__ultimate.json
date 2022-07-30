@@ -2,11 +2,11 @@
   "ID": "d118f9a27e514d98aa25534afd2f35c7",
   "Name": "Sonic Colors: Ultimate",
   "ProductSlug": null,
-  "Rating": 4.46,
-  "NumberOfRatings": 134,
-  "DailyRatings": 0,
+  "Rating": 4.45,
+  "NumberOfRatings": 135,
+  "DailyRatings": 1.6,
   "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
-  "LastChanged": "2022-07-29T18:30:46.4815611+00:00",
+  "LastChanged": "2022-07-30T09:30:49.0303305+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:26.6733332+00:00",
@@ -52,12 +52,17 @@
       "Time": "2022-07-29T18:30:46.4815612+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 134
+    },
+    {
+      "Time": "2022-07-30T09:30:49.0303307+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 135
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 36
+      "Count": 38
     }
   ]
 }

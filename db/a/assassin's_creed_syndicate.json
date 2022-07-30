@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Syndicate",
   "ProductSlug": null,
   "Rating": 4.51,
-  "NumberOfRatings": 1547,
-  "DailyRatings": 32,
+  "NumberOfRatings": 1557,
+  "DailyRatings": 29.22,
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2022-07-30T00:00:15.4670252+00:00",
+  "LastChanged": "2022-07-30T09:30:12.9996648+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.1720532+00:00",
@@ -147,11 +147,20 @@
       "Time": "2022-07-30T00:00:15.4670254+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 1547
+    },
+    {
+      "Time": "2022-07-30T09:30:12.9996649+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 1557
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Educational",
       "Count": 20
     }
   ]
