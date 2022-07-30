@@ -1,6 +1,6 @@
 # Diabotical
-Rating: 4.80 (372)  
-Ratings Per Day: 4.68  
+Rating: 4.79 (373)  
+Ratings Per Day: 5.11  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 4.68
 | 2022-07-27 | 4.79 | 366 |
 | 2022-07-28 | 4.79 | 367 |
 | 2022-07-29 | 4.80 | 372 |
+| 2022-07-30 | 4.79 | 373 |

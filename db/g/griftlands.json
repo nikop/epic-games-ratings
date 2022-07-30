@@ -2,11 +2,11 @@
   "ID": "phlox",
   "Name": "Griftlands",
   "ProductSlug": "griftlands/home",
-  "Rating": 4.81,
-  "NumberOfRatings": 98,
+  "Rating": 4.79,
+  "NumberOfRatings": 102,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
-  "LastChanged": "2022-07-28T21:30:55.4423601+00:00",
+  "LastChanged": "2022-07-30T01:00:59.9159025+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:37.4181636+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-28T21:30:55.4423602+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 98
+    },
+    {
+      "Time": "2022-07-30T01:00:59.9159027+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 102
     }
   ],
   "Tags": []
