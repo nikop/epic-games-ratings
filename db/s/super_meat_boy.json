@@ -3,10 +3,10 @@
   "Name": "Super Meat Boy",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 85,
-  "DailyRatings": 2.63,
+  "NumberOfRatings": 87,
+  "DailyRatings": 2.53,
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
-  "LastChanged": "2022-07-29T18:31:20.1252814+00:00",
+  "LastChanged": "2022-07-30T18:31:34.2854919+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:39.3039476+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-29T18:31:20.1252815+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 85
+    },
+    {
+      "Time": "2022-07-30T18:31:34.2854921+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 87
     }
   ],
   "Tags": []
