@@ -3,10 +3,10 @@
   "Name": "Wilmot\u0027s Warehouse",
   "ProductSlug": "wilmots-warehouse",
   "Rating": 4.6,
-  "NumberOfRatings": 47,
+  "NumberOfRatings": 48,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:20.1616591+00:00",
-  "LastChanged": "2022-07-27T06:02:14.7672079+00:00",
+  "LastChanged": "2022-07-30T06:01:59.4964107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:20.1616597+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-27T06:02:14.7672081+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 47
+    },
+    {
+      "Time": "2022-07-30T06:01:59.4964108+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 48
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Dokken",
   "ProductSlug": null,
   "Rating": 4.63,
-  "NumberOfRatings": 4680,
-  "DailyRatings": 2315.89,
+  "NumberOfRatings": 4792,
+  "DailyRatings": 2275.47,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2022-07-30T04:30:48.9626339+00:00",
+  "LastChanged": "2022-07-30T06:00:52.8834209+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-07-30T04:30:48.962634+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 4680
+    },
+    {
+      "Time": "2022-07-30T06:00:52.883421+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 4792
     }
   ],
   "Tags": [
@@ -204,6 +209,10 @@
     {
       "Text": "This game has Obsessive Gameplay",
       "Count": 32
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 48
     }
   ]
 }

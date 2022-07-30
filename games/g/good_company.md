@@ -1,6 +1,6 @@
 # Good Company
 Rating: 4.44 (62)  
-Ratings Per Day: 2.59  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

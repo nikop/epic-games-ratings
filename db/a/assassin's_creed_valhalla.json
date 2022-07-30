@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Valhalla",
   "ProductSlug": null,
   "Rating": 4.59,
-  "NumberOfRatings": 7843,
-  "DailyRatings": 155.14,
+  "NumberOfRatings": 7849,
+  "DailyRatings": 150.9,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2022-07-30T04:30:45.537425+00:00",
+  "LastChanged": "2022-07-30T06:00:49.1897427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -312,6 +312,11 @@
       "Time": "2022-07-30T04:30:45.5374251+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 7843
+    },
+    {
+      "Time": "2022-07-30T06:00:49.1897429+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 7849
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Uno",
   "ProductSlug": null,
   "Rating": 4.64,
-  "NumberOfRatings": 36,
-  "DailyRatings": 0,
+  "NumberOfRatings": 39,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:16:51.0779321+00:00",
-  "LastChanged": "2022-07-29T06:00:14.6811051+00:00",
+  "LastChanged": "2022-07-30T06:00:14.6493751+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.0779334+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-29T06:00:14.6811053+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-07-30T06:00:14.6493753+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 39
     }
   ],
   "Tags": []
