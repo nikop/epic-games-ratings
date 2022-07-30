@@ -2,11 +2,11 @@
   "ID": "44471bc726304926b6f7da78722c7029",
   "Name": "SpellForce 3 Reforced",
   "Names": [],
-  "Rating": 4.34,
-  "NumberOfRatings": 53,
-  "DailyRatings": 0.52,
+  "Rating": 4.35,
+  "NumberOfRatings": 54,
+  "DailyRatings": 0.36,
   "FirstSeen": "2022-07-22T20:18:19.8156047+00:00",
-  "LastChanged": "2022-07-27T06:00:48.4792786+00:00",
+  "LastChanged": "2022-07-30T22:00:26.9402994+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:19.8156049+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-27T06:00:48.4792788+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 53
+    },
+    {
+      "Time": "2022-07-30T22:00:26.9402996+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 54
     }
   ],
   "Tags": [
