@@ -2,11 +2,11 @@
   "ID": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
   "Name": "Pine",
   "ProductSlug": "pine",
-  "Rating": 4.14,
-  "NumberOfRatings": 362,
-  "DailyRatings": 0,
+  "Rating": 4.13,
+  "NumberOfRatings": 367,
+  "DailyRatings": 5.85,
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
-  "LastChanged": "2022-07-29T14:31:07.8396038+00:00",
+  "LastChanged": "2022-07-30T11:01:11.7330397+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:31.2285522+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-29T14:31:07.839604+00:00",
       "Rating": 4.14,
       "NumberOfRatings": 362
+    },
+    {
+      "Time": "2022-07-30T11:01:11.73304+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": 367
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Supraland",
   "ProductSlug": null,
   "Rating": 4.6,
-  "NumberOfRatings": 22522,
-  "DailyRatings": 109.33,
+  "NumberOfRatings": 22535,
+  "DailyRatings": 111.22,
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2022-07-30T08:30:42.5689222+00:00",
+  "LastChanged": "2022-07-30T11:00:39.5430593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -282,12 +282,17 @@
       "Time": "2022-07-30T08:30:42.5689223+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 22522
+    },
+    {
+      "Time": "2022-07-30T11:00:39.5430595+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 22535
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 5638
+      "Count": 5676
     },
     {
       "Text": "This game has Amazing Characters",

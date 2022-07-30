@@ -3,10 +3,10 @@
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher/home",
   "Rating": 4.83,
-  "NumberOfRatings": 2962,
-  "DailyRatings": 88,
+  "NumberOfRatings": 2977,
+  "DailyRatings": 60.25,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-07-29T23:31:02.3104965+00:00",
+  "LastChanged": "2022-07-30T11:01:08.0380583+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -217,6 +217,11 @@
       "Time": "2022-07-29T23:31:02.3104966+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 2962
+    },
+    {
+      "Time": "2022-07-30T11:01:08.0380585+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 2977
     }
   ],
   "Tags": [
@@ -226,7 +231,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 81
+      "Count": 86
     },
     {
       "Text": "This game is Relaxing",
