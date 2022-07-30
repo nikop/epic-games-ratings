@@ -3,10 +3,10 @@
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2/home",
   "Rating": 4.74,
-  "NumberOfRatings": 3509,
-  "DailyRatings": 48,
+  "NumberOfRatings": 3510,
+  "DailyRatings": 47.99,
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
-  "LastChanged": "2022-07-30T03:00:45.0541455+00:00",
+  "LastChanged": "2022-07-30T05:01:01.2193405+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.7217338+00:00",
@@ -287,6 +287,11 @@
       "Time": "2022-07-30T03:00:45.0541457+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 3509
+    },
+    {
+      "Time": "2022-07-30T05:01:01.2193407+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 3510
     }
   ],
   "Tags": [
@@ -332,7 +337,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 43
+      "Count": 46
     },
     {
       "Text": "This game has Competitive Players",

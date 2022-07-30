@@ -1,6 +1,6 @@
 # PHANTASY STAR ONLINE 2
 Rating: 4.50 (482)  
-Ratings Per Day: 6.86  
+Ratings Per Day: 18.56  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,10 +3,10 @@
   "Name": "Void Bastards",
   "ProductSlug": "void-bastards",
   "Rating": 4.6,
-  "NumberOfRatings": 530,
-  "DailyRatings": 6.86,
+  "NumberOfRatings": 534,
+  "DailyRatings": 8.4,
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2022-07-29T19:31:46.491445+00:00",
+  "LastChanged": "2022-07-30T05:01:35.2283316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:35.6625017+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-07-29T19:31:46.4914451+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 530
+    },
+    {
+      "Time": "2022-07-30T05:01:35.2283317+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 534
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
   "Rating": 4.45,
-  "NumberOfRatings": 792,
-  "DailyRatings": 9.14,
+  "NumberOfRatings": 799,
+  "DailyRatings": 13.2,
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2022-07-29T19:31:47.3360414+00:00",
+  "LastChanged": "2022-07-30T05:01:36.04662+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:41.7165358+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-29T19:31:47.3360416+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 792
+    },
+    {
+      "Time": "2022-07-30T05:01:36.0466202+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 799
     }
   ],
   "Tags": []
