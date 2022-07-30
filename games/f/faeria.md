@@ -1,6 +1,6 @@
 # Faeria
-Rating: 4.49 (120)  
-Ratings Per Day: 1.55  
+Rating: 4.48 (121)  
+Ratings Per Day: 1.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 1.55
 | 2022-07-27 | 4.49 | 117 |
 | 2022-07-28 | 4.50 | 119 |
 | 2022-07-29 | 4.49 | 120 |
+| 2022-07-30 | 4.48 | 121 |

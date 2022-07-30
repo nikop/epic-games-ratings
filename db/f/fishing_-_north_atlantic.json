@@ -2,11 +2,11 @@
   "ID": "db9e3a16b41442c5a35bca0e42db363e",
   "Name": "Fishing - North Atlantic",
   "Names": [],
-  "Rating": 4.28,
-  "NumberOfRatings": 25,
-  "DailyRatings": 1.14,
+  "Rating": 4.33,
+  "NumberOfRatings": 27,
+  "DailyRatings": 0.59,
   "FirstSeen": "2022-07-22T20:24:51.8726986+00:00",
-  "LastChanged": "2022-07-25T18:01:38.8089353+00:00",
+  "LastChanged": "2022-07-30T17:31:31.8286436+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:51.8726988+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-25T18:01:38.8089356+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-07-30T17:31:31.8286438+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []
