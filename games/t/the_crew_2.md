@@ -1,6 +1,6 @@
 # The Crew 2
-Rating: 4.66 (1 040)  
-Ratings Per Day: 14.23  
+Rating: 4.66 (1 042)  
+Ratings Per Day: 10.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 14.23
 | 2022-07-27 | 4.66 | 1 008 |
 | 2022-07-28 | 4.66 | 1 029 |
 | 2022-07-29 | 4.66 | 1 040 |
+| 2022-07-30 | 4.66 | 1 042 |
