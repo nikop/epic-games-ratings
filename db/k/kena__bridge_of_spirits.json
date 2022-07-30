@@ -3,10 +3,10 @@
   "Name": "Kena: Bridge of Spirits",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 1955,
-  "DailyRatings": 34.86,
+  "NumberOfRatings": 1961,
+  "DailyRatings": 34.44,
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
-  "LastChanged": "2022-07-30T14:00:58.6179142+00:00",
+  "LastChanged": "2022-07-30T20:00:46.0066506+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:51.8985807+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-07-30T14:00:58.6179143+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 1955
+    },
+    {
+      "Time": "2022-07-30T20:00:46.0066508+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 1961
     }
   ],
   "Tags": [
