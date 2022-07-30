@@ -3,10 +3,10 @@
   "Name": "FUSER\u2122",
   "ProductSlug": null,
   "Rating": 4.66,
-  "NumberOfRatings": 58,
+  "NumberOfRatings": 59,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2022-07-29T02:00:18.6438767+00:00",
+  "LastChanged": "2022-07-30T08:00:19.4356128+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:53.9357226+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-29T02:00:18.6438768+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 58
+    },
+    {
+      "Time": "2022-07-30T08:00:19.4356129+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 59
     }
   ],
   "Tags": [
