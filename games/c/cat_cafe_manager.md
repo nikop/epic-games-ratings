@@ -1,6 +1,6 @@
 # Cat Cafe Manager
 Rating: 4.59 (29)  
-Ratings Per Day: 0.00  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

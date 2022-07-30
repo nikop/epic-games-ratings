@@ -1,6 +1,6 @@
 # The Caligula Effect 2
 Rating: 4.42 (31)  
-Ratings Per Day: 0.00  
+Ratings Per Day: 0.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

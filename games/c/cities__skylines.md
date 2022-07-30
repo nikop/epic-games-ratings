@@ -1,6 +1,6 @@
 # Cities: Skylines
-Rating: 4.67 (14 021)  
-Ratings Per Day: 296.68  
+Rating: 4.67 (14 043)  
+Ratings Per Day: 268.76  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,4 +12,4 @@ Ratings Per Day: 296.68
 | 2022-07-27 | 4.67 | 13 260 |
 | 2022-07-28 | 4.67 | 13 525 |
 | 2022-07-29 | 4.67 | 13 803 |
-| 2022-07-30 | 4.67 | 14 021 |
+| 2022-07-30 | 4.67 | 14 043 |

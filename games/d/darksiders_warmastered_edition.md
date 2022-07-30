@@ -1,6 +1,6 @@
 # Darksiders Warmastered Edition
 Rating: 4.52 (392)  
-Ratings Per Day: 2.66  
+Ratings Per Day: 6.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
