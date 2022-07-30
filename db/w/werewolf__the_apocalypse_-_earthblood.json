@@ -2,11 +2,11 @@
   "ID": "9c86694776c04893bec691f13f4b60fc",
   "Name": "Werewolf: The Apocalypse - Earthblood",
   "ProductSlug": null,
-  "Rating": 4.17,
-  "NumberOfRatings": 41,
-  "DailyRatings": 0,
+  "Rating": 4.19,
+  "NumberOfRatings": 42,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:25:47.1467743+00:00",
-  "LastChanged": "2022-07-29T00:31:15.3860851+00:00",
+  "LastChanged": "2022-07-30T00:31:18.9971169+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:47.1467746+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-29T00:31:15.3860853+00:00",
       "Rating": 4.17,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-07-30T00:31:18.997117+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 42
     }
   ],
   "Tags": []

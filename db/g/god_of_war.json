@@ -3,10 +3,10 @@
   "Name": "God of War",
   "ProductSlug": "god-of-war",
   "Rating": 4.89,
-  "NumberOfRatings": 3233,
-  "DailyRatings": 51.51,
+  "NumberOfRatings": 3236,
+  "DailyRatings": 52.47,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2022-07-29T23:31:25.4447631+00:00",
+  "LastChanged": "2022-07-30T00:31:20.9149985+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -217,6 +217,11 @@
       "Time": "2022-07-29T23:31:25.4447633+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 3233
+    },
+    {
+      "Time": "2022-07-30T00:31:20.9149987+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 3236
     }
   ],
   "Tags": [
@@ -242,7 +247,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
