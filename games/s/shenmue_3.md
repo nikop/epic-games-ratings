@@ -1,6 +1,6 @@
 # Shenmue 3
-Rating: 4.07 (99)  
-Ratings Per Day: 0.00  
+Rating: 4.08 (101)  
+Ratings Per Day: 3.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.00
 | 2022-07-27 | 4.05 | 97 |
 | 2022-07-28 | 4.06 | 98 |
 | 2022-07-29 | 4.07 | 99 |
+| 2022-07-30 | 4.08 | 101 |

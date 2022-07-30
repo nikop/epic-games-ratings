@@ -3,10 +3,10 @@
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
   "Rating": 4.33,
-  "NumberOfRatings": 870,
-  "DailyRatings": 13.71,
+  "NumberOfRatings": 872,
+  "DailyRatings": 12.52,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2022-07-30T05:00:20.2166437+00:00",
+  "LastChanged": "2022-07-30T10:30:47.1186145+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-30T05:00:20.216644+00:00",
       "Rating": 4.33,
       "NumberOfRatings": 870
+    },
+    {
+      "Time": "2022-07-30T10:30:47.1186146+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 872
     }
   ],
   "Tags": [

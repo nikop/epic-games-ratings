@@ -1,6 +1,6 @@
 # Tom Clancy's The Division 2
 Rating: 4.42 (4 582)  
-Ratings Per Day: 93.62  
+Ratings Per Day: 98.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,10 +3,10 @@
   "Name": "Ark",
   "ProductSlug": null,
   "Rating": 4.63,
-  "NumberOfRatings": 28185,
-  "DailyRatings": 234.13,
+  "NumberOfRatings": 28205,
+  "DailyRatings": 219.91,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2022-07-30T07:00:34.5579092+00:00",
+  "LastChanged": "2022-07-30T10:31:03.2242943+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -407,6 +407,11 @@
       "Time": "2022-07-30T07:00:34.5579094+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 28185
+    },
+    {
+      "Time": "2022-07-30T10:31:03.2242944+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 28205
     }
   ],
   "Tags": [
@@ -444,7 +449,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 5994
+      "Count": 6100
     },
     {
       "Text": "This game has Quickly Understood Controls",
