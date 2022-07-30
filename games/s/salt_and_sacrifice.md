@@ -1,6 +1,6 @@
 # Salt and Sacrifice
 Rating: 4.29 (1 660)  
-Ratings Per Day: 24.00  
+Ratings Per Day: 23.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
