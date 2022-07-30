@@ -1,6 +1,6 @@
 # Magic: The Gathering
-Rating: 4.45 (9 318)  
-Ratings Per Day: 160.00  
+Rating: 4.45 (9 325)  
+Ratings Per Day: 149.46  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,4 +12,4 @@ Ratings Per Day: 160.00
 | 2022-07-27 | 4.44 | 8 972 |
 | 2022-07-28 | 4.44 | 9 141 |
 | 2022-07-29 | 4.44 | 9 300 |
-| 2022-07-30 | 4.45 | 9 318 |
+| 2022-07-30 | 4.45 | 9 325 |
