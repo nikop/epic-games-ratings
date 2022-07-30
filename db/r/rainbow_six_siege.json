@@ -3,10 +3,10 @@
   "Name": "Rainbow Six Siege",
   "ProductSlug": null,
   "Rating": 4.6,
-  "NumberOfRatings": 5531,
-  "DailyRatings": 81.6,
+  "NumberOfRatings": 5534,
+  "DailyRatings": 81.14,
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2022-07-30T00:30:33.9544563+00:00",
+  "LastChanged": "2022-07-30T01:30:35.9888993+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -312,6 +312,11 @@
       "Time": "2022-07-30T00:30:33.9544565+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 5531
+    },
+    {
+      "Time": "2022-07-30T01:30:35.9889063+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5534
     }
   ],
   "Tags": [
@@ -321,7 +326,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 311
+      "Count": 318
     },
     {
       "Text": "This game has Amazing Characters",
@@ -345,7 +350,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 273
+      "Count": 281
     },
     {
       "Text": "This game has a Competitive Community",

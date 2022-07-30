@@ -3,10 +3,10 @@
   "Name": "Evil Dead",
   "ProductSlug": null,
   "Rating": 4.51,
-  "NumberOfRatings": 8053,
-  "DailyRatings": 34.43,
+  "NumberOfRatings": 8059,
+  "DailyRatings": 39.65,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2022-07-30T00:00:31.6897085+00:00",
+  "LastChanged": "2022-07-30T01:30:27.6464534+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -302,6 +302,11 @@
       "Time": "2022-07-30T00:00:31.689715+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 8053
+    },
+    {
+      "Time": "2022-07-30T01:30:27.6464538+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 8059
     }
   ],
   "Tags": [

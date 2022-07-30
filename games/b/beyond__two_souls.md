@@ -1,6 +1,6 @@
 # Beyond: Two Souls
-Rating: 4.69 (202)  
-Ratings Per Day: 0.00  
+Rating: 4.68 (207)  
+Ratings Per Day: 5.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.00
 | 2022-07-27 | 4.68 | 197 |
 | 2022-07-28 | 4.68 | 199 |
 | 2022-07-29 | 4.69 | 202 |
+| 2022-07-30 | 4.68 | 207 |

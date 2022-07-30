@@ -3,10 +3,10 @@
   "Name": "Phoenix Point",
   "ProductSlug": null,
   "Rating": 4.55,
-  "NumberOfRatings": 1235,
-  "DailyRatings": 24.56,
+  "NumberOfRatings": 1239,
+  "DailyRatings": 26.55,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-07-29T23:30:22.0393476+00:00",
+  "LastChanged": "2022-07-30T01:30:19.3975103+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -282,6 +282,11 @@
       "Time": "2022-07-29T23:30:22.0393478+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 1235
+    },
+    {
+      "Time": "2022-07-30T01:30:19.3975105+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 1239
     }
   ],
   "Tags": [
