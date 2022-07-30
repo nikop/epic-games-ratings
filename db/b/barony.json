@@ -3,10 +3,10 @@
   "Name": "Barony",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 393,
-  "DailyRatings": 8.76,
+  "NumberOfRatings": 394,
+  "DailyRatings": 8.83,
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2022-07-30T17:31:22.5220915+00:00",
+  "LastChanged": "2022-07-30T19:01:24.4444238+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:54.550864+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-30T17:31:22.5220917+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 393
+    },
+    {
+      "Time": "2022-07-30T19:01:24.4444243+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 394
     }
   ],
   "Tags": [

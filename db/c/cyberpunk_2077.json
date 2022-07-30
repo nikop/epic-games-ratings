@@ -3,10 +3,10 @@
   "Name": "Cyberpunk 2077",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 14924,
-  "DailyRatings": 247.76,
+  "NumberOfRatings": 14941,
+  "DailyRatings": 248.73,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2022-07-30T18:00:18.0646119+00:00",
+  "LastChanged": "2022-07-30T19:00:16.9017174+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-07-30T18:00:18.0646121+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 14924
+    },
+    {
+      "Time": "2022-07-30T19:00:16.9017176+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 14941
     }
   ],
   "Tags": [
@@ -416,7 +421,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 170
+      "Count": 178
     }
   ]
 }

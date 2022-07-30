@@ -3,10 +3,10 @@
   "Name": "World War Z Aftermath",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 10628,
-  "DailyRatings": 169.26,
+  "NumberOfRatings": 10647,
+  "DailyRatings": 169.46,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-07-30T16:30:16.2959343+00:00",
+  "LastChanged": "2022-07-30T19:00:17.5398406+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -402,6 +402,11 @@
       "Time": "2022-07-30T16:30:16.2959346+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 10628
+    },
+    {
+      "Time": "2022-07-30T19:00:17.5398409+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 10647
     }
   ],
   "Tags": [
@@ -415,7 +420,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 622
+      "Count": 641
     },
     {
       "Text": "This game is Highly Recommended",
