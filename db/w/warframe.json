@@ -3,10 +3,10 @@
   "Name": "Warframe",
   "ProductSlug": "warframe",
   "Rating": 4.67,
-  "NumberOfRatings": 7131,
-  "DailyRatings": 122.06,
+  "NumberOfRatings": 7134,
+  "DailyRatings": 142.49,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2022-07-30T02:30:34.4902774+00:00",
+  "LastChanged": "2022-07-30T04:00:20.9035463+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-07-30T02:30:34.4902777+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 7131
+    },
+    {
+      "Time": "2022-07-30T04:00:20.9035465+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 7134
     }
   ],
   "Tags": [
@@ -344,7 +349,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 468
+      "Count": 496
     },
     {
       "Text": "This game has a Kind Community",

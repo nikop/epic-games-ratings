@@ -2,11 +2,11 @@
   "ID": "92053006068e4aa9b1ad413f72090f5e",
   "Name": "Limbo",
   "ProductSlug": "limbo/home",
-  "Rating": 4.63,
-  "NumberOfRatings": 116,
-  "DailyRatings": 0,
+  "Rating": 4.64,
+  "NumberOfRatings": 118,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
-  "LastChanged": "2022-07-29T04:01:10.6479039+00:00",
+  "LastChanged": "2022-07-30T04:01:28.1531739+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.9421183+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-07-29T04:01:10.6479041+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 116
+    },
+    {
+      "Time": "2022-07-30T04:01:28.1531741+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 118
     }
   ],
   "Tags": []

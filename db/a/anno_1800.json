@@ -3,10 +3,10 @@
   "Name": "Anno 1800",
   "ProductSlug": null,
   "Rating": 4.84,
-  "NumberOfRatings": 2479,
-  "DailyRatings": 60.87,
+  "NumberOfRatings": 2486,
+  "DailyRatings": 66.73,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-07-30T00:00:23.5906755+00:00",
+  "LastChanged": "2022-07-30T04:00:24.0462977+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -287,6 +287,11 @@
       "Time": "2022-07-30T00:00:23.5906758+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 2479
+    },
+    {
+      "Time": "2022-07-30T04:00:24.0462982+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 2486
     }
   ],
   "Tags": [

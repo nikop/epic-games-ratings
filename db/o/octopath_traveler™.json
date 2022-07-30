@@ -2,11 +2,11 @@
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
   "ProductSlug": "octopath-traveler",
-  "Rating": 4.83,
-  "NumberOfRatings": 94,
+  "Rating": 4.82,
+  "NumberOfRatings": 97,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2022-07-29T00:01:11.1334316+00:00",
+  "LastChanged": "2022-07-30T04:01:01.3051593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.1292706+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-29T00:01:11.1334318+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 94
+    },
+    {
+      "Time": "2022-07-30T04:01:01.3051594+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 97
     }
   ],
   "Tags": [
