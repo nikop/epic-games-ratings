@@ -2,11 +2,11 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": null,
-  "Rating": 4.42,
-  "NumberOfRatings": 60,
-  "DailyRatings": 0,
+  "Rating": 4.44,
+  "NumberOfRatings": 62,
+  "DailyRatings": 2.59,
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
-  "LastChanged": "2022-07-29T05:31:35.031493+00:00",
+  "LastChanged": "2022-07-30T00:01:40.7100304+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:54.0503206+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-29T05:31:35.0314932+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 60
+    },
+    {
+      "Time": "2022-07-30T00:01:40.7100305+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 62
     }
   ],
   "Tags": []

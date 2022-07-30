@@ -3,10 +3,10 @@
   "Name": "Medieval Dynasty",
   "ProductSlug": "medieval-dynasty",
   "Rating": 4.62,
-  "NumberOfRatings": 420,
-  "DailyRatings": 2.67,
+  "NumberOfRatings": 422,
+  "DailyRatings": 3.13,
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2022-07-29T10:00:55.9601994+00:00",
+  "LastChanged": "2022-07-30T00:00:43.0854819+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:29.049151+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-29T10:00:55.9601996+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 420
+    },
+    {
+      "Time": "2022-07-30T00:00:43.0854821+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 422
     }
   ],
   "Tags": []

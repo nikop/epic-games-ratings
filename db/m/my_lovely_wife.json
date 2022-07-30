@@ -2,16 +2,21 @@
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
   "ProductSlug": null,
-  "Rating": 4.43,
-  "NumberOfRatings": 23,
+  "Rating": 4.42,
+  "NumberOfRatings": 24,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
-  "LastChanged": "2022-07-22T20:30:06.1147593+00:00",
+  "LastChanged": "2022-07-30T00:01:56.7440041+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:06.1147594+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 23
+    },
+    {
+      "Time": "2022-07-30T00:01:56.7440043+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 24
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Magic: The Gathering
 Rating: 4.44 (9 300)  
-Ratings Per Day: 159.04  
+Ratings Per Day: 153.38  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
