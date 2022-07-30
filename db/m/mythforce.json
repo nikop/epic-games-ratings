@@ -2,11 +2,11 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": null,
-  "Rating": 4.61,
-  "NumberOfRatings": 169,
-  "DailyRatings": 0,
+  "Rating": 4.6,
+  "NumberOfRatings": 170,
+  "DailyRatings": 1.02,
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
-  "LastChanged": "2022-07-29T03:01:45.1506921+00:00",
+  "LastChanged": "2022-07-30T02:32:03.0955226+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.2920773+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-07-29T03:01:45.1506922+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 169
+    },
+    {
+      "Time": "2022-07-30T02:32:03.0955228+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 170
     }
   ],
   "Tags": []
