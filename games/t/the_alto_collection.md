@@ -1,5 +1,5 @@
 # The Alto Collection
-Rating: 4.64 (169)  
+Rating: 4.63 (171)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.00
 | 2022-07-27 | 4.63 | 162 |
 | 2022-07-28 | 4.64 | 167 |
 | 2022-07-29 | 4.64 | 169 |
+| 2022-07-30 | 4.63 | 171 |
