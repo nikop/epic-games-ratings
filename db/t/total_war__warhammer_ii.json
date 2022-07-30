@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
   "Rating": 4.83,
-  "NumberOfRatings": 811,
-  "DailyRatings": 22.32,
+  "NumberOfRatings": 812,
+  "DailyRatings": 21,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-07-30T05:00:14.4612475+00:00",
+  "LastChanged": "2022-07-30T07:30:11.5909637+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -222,6 +222,11 @@
       "Time": "2022-07-30T05:00:14.4612477+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 811
+    },
+    {
+      "Time": "2022-07-30T07:30:11.5909638+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 812
     }
   ],
   "Tags": [
