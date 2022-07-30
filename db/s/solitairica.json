@@ -94,5 +94,10 @@
       "NumberOfRatings": 291
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 20
+    }
+  ]
 }

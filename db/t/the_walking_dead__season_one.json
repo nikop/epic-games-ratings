@@ -2,11 +2,11 @@
   "ID": "bloodroot",
   "Name": "The Walking Dead: Season One",
   "Names": [],
-  "Rating": 4.84,
-  "NumberOfRatings": 45,
-  "DailyRatings": 1.59,
+  "Rating": 4.85,
+  "NumberOfRatings": 46,
+  "DailyRatings": 1.49,
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2022-07-29T22:30:28.3432504+00:00",
+  "LastChanged": "2022-07-30T22:30:34.4918784+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:47.8231951+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-07-29T22:30:28.3432506+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 45
+    },
+    {
+      "Time": "2022-07-30T22:30:34.4918786+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 46
     }
   ],
   "Tags": []
