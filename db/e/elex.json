@@ -3,10 +3,10 @@
   "Name": "ELEX",
   "ProductSlug": "elex",
   "Rating": 4.41,
-  "NumberOfRatings": 27,
-  "DailyRatings": 0,
+  "NumberOfRatings": 29,
+  "DailyRatings": 2,
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "LastChanged": "2022-07-29T06:31:26.7045288+00:00",
+  "LastChanged": "2022-07-30T06:31:49.1268682+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-25T10:01:57.4129818+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-29T06:31:26.7045291+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-07-30T06:31:49.1268684+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 29
     }
   ],
   "Tags": []
