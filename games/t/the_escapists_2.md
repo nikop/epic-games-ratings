@@ -1,6 +1,6 @@
 # The Escapists 2
-Rating: 4.58 (1 111)  
-Ratings Per Day: 23.48  
+Rating: 4.58 (1 113)  
+Ratings Per Day: 23.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,4 +13,4 @@ Ratings Per Day: 23.48
 | 2022-07-28 | 4.58 | 1 052 |
 | 2022-07-29 | 4.58 | 1 071 |
 | 2022-07-30 | 4.58 | 1 108 |
-| 2022-07-31 | 4.58 | 1 111 |
+| 2022-07-31 | 4.58 | 1 113 |
