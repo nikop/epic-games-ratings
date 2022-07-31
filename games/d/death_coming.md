@@ -1,6 +1,6 @@
 # Death Coming
 Rating: 4.44 (61)  
-Ratings Per Day: 1.15  
+Ratings Per Day: 1.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

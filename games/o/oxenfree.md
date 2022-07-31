@@ -1,6 +1,6 @@
 # Oxenfree
 Rating: 4.68 (53)  
-Ratings Per Day: 1.33  
+Ratings Per Day: 1.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

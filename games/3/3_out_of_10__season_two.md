@@ -1,6 +1,6 @@
 # 3 out of 10: Season Two
 Rating: 4.56 (32)  
-Ratings Per Day: 0.58  
+Ratings Per Day: 0.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

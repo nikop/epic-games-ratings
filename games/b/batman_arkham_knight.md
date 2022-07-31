@@ -1,6 +1,6 @@
 # Batman Arkham Knight
 Rating: 4.81 (4 210)  
-Ratings Per Day: 76.02  
+Ratings Per Day: 76.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
