@@ -3,10 +3,10 @@
   "Name": "MultiVersus",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 7473,
-  "DailyRatings": 1589.94,
+  "NumberOfRatings": 7586,
+  "DailyRatings": 1606.93,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2022-07-31T16:31:02.7749494+00:00",
+  "LastChanged": "2022-07-31T17:00:55.6056688+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -247,6 +247,11 @@
       "Time": "2022-07-31T16:31:02.7749496+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 7473
+    },
+    {
+      "Time": "2022-07-31T17:00:55.6056689+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 7586
     }
   ],
   "Tags": [
@@ -276,7 +281,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 63
+      "Count": 111
     },
     {
       "Text": "This game has Amazing Characters",

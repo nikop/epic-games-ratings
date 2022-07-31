@@ -3,10 +3,10 @@
   "Name": "Carcassonne",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 164,
-  "DailyRatings": 2.99,
+  "NumberOfRatings": 165,
+  "DailyRatings": 3.02,
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2022-07-31T10:31:43.5952181+00:00",
+  "LastChanged": "2022-07-31T17:00:30.2426618+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.0160662+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-07-31T10:31:43.5952182+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 164
+    },
+    {
+      "Time": "2022-07-31T17:00:30.2426619+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 165
     }
   ],
   "Tags": [
