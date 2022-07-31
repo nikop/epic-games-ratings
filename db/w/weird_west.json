@@ -3,10 +3,10 @@
   "Name": "Weird West",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 92,
-  "DailyRatings": 1.1,
+  "NumberOfRatings": 93,
+  "DailyRatings": 1.21,
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
-  "LastChanged": "2022-07-31T09:01:53.3271308+00:00",
+  "LastChanged": "2022-07-31T19:02:13.0191773+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:17.206459+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-31T09:01:53.327131+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 92
+    },
+    {
+      "Time": "2022-07-31T19:02:13.0191774+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 93
     }
   ],
   "Tags": []
