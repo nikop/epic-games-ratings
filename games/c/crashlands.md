@@ -1,6 +1,6 @@
 # Crashlands
-Rating: 4.67 (302)  
-Ratings Per Day: 5.66  
+Rating: 4.67 (305)  
+Ratings Per Day: 5.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 5.66
 | 2022-07-28 | 4.67 | 290 |
 | 2022-07-29 | 4.67 | 294 |
 | 2022-07-30 | 4.67 | 302 |
+| 2022-07-31 | 4.67 | 305 |

@@ -1,6 +1,6 @@
 # Chorus
 Rating: 4.51 (37)  
-Ratings Per Day: 0.88  
+Ratings Per Day: 0.85  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
