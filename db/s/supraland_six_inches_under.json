@@ -2,11 +2,11 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "Names": [],
-  "Rating": 4.73,
-  "NumberOfRatings": 135,
-  "DailyRatings": 1.63,
+  "Rating": 4.71,
+  "NumberOfRatings": 136,
+  "DailyRatings": 1.75,
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
-  "LastChanged": "2022-07-31T13:31:03.4348046+00:00",
+  "LastChanged": "2022-07-31T16:31:06.1386494+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:12.2531946+00:00",
@@ -47,12 +47,17 @@
       "Time": "2022-07-31T13:31:03.4348047+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 135
+    },
+    {
+      "Time": "2022-07-31T16:31:06.1386495+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 136
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 31
+      "Count": 32
     }
   ]
 }

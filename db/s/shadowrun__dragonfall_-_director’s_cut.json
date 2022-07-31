@@ -2,11 +2,11 @@
   "ID": "805a1b31b65f4c3db221ab242f894482",
   "Name": "Shadowrun: Dragonfall - Director\u2019s Cut",
   "Names": [],
-  "Rating": 4.55,
-  "NumberOfRatings": 104,
-  "DailyRatings": 1.69,
+  "Rating": 4.54,
+  "NumberOfRatings": 106,
+  "DailyRatings": 1.73,
   "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
-  "LastChanged": "2022-07-30T16:01:59.4029369+00:00",
+  "LastChanged": "2022-07-31T16:31:42.115024+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:02.9464376+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-30T16:01:59.4029371+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 104
+    },
+    {
+      "Time": "2022-07-31T16:31:42.1150241+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 106
     }
   ],
   "Tags": []

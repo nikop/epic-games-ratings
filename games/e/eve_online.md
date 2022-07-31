@@ -1,6 +1,6 @@
 # EVE Online
 Rating: 4.33 (881)  
-Ratings Per Day: 9.08  
+Ratings Per Day: 8.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

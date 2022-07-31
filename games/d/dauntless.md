@@ -1,6 +1,6 @@
 # Dauntless
 Rating: 4.53 (14 070)  
-Ratings Per Day: 266.67  
+Ratings Per Day: 266.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

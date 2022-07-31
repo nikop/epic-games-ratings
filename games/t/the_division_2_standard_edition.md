@@ -1,6 +1,6 @@
 # The Division 2 Standard Edition
 Rating: 4.42 (4 629)  
-Ratings Per Day: 53.52  
+Ratings Per Day: 53.28  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
