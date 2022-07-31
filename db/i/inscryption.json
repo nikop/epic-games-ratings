@@ -3,10 +3,10 @@
   "Name": "Inscryption",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 521,
-  "DailyRatings": 9.35,
+  "NumberOfRatings": 523,
+  "DailyRatings": 9.03,
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2022-07-30T22:31:45.6942254+00:00",
+  "LastChanged": "2022-07-31T09:32:29.1042909+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:28.2210273+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-07-30T22:31:45.6942255+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 521
+    },
+    {
+      "Time": "2022-07-31T09:32:29.1042912+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 523
     }
   ],
   "Tags": [
