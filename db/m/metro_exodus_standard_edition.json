@@ -2,11 +2,11 @@
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
   "Names": [],
-  "Rating": 4.8,
-  "NumberOfRatings": 4351,
-  "DailyRatings": 72.59,
+  "Rating": 4.79,
+  "NumberOfRatings": 4364,
+  "DailyRatings": 73.16,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-07-31T12:00:30.5356702+00:00",
+  "LastChanged": "2022-07-31T15:00:30.3302975+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -327,6 +327,11 @@
       "Time": "2022-07-31T12:00:30.5356703+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 4351
+    },
+    {
+      "Time": "2022-07-31T15:00:30.3302976+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 4364
     }
   ],
   "Tags": [
@@ -364,7 +369,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 131
+      "Count": 136
     },
     {
       "Text": "This game is Relaxing",

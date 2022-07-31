@@ -3,10 +3,10 @@
   "Name": "Train Sim World\u00AE 2",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 1629,
-  "DailyRatings": 28.54,
+  "NumberOfRatings": 1631,
+  "DailyRatings": 28.65,
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2022-07-31T14:00:20.2233174+00:00",
+  "LastChanged": "2022-07-31T15:00:19.1345789+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:00.3136156+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-07-31T14:00:20.2233177+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 1629
+    },
+    {
+      "Time": "2022-07-31T15:00:19.1345791+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 1631
     }
   ],
   "Tags": [
@@ -344,7 +349,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 147
+      "Count": 149
     },
     {
       "Text": "This game has Amazing Storytelling",
