@@ -1,6 +1,6 @@
 # World War Z Aftermath
-Rating: 4.57 (10 740)  
-Ratings Per Day: 163.96  
+Rating: 4.57 (10 759)  
+Ratings Per Day: 165.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,4 +13,4 @@ Ratings Per Day: 163.96
 | 2022-07-28 | 4.57 | 10 259 |
 | 2022-07-29 | 4.57 | 10 481 |
 | 2022-07-30 | 4.57 | 10 671 |
-| 2022-07-31 | 4.57 | 10 740 |
+| 2022-07-31 | 4.57 | 10 759 |

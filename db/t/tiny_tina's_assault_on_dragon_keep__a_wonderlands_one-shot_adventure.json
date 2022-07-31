@@ -3,10 +3,10 @@
   "Name": "Tiny Tina\u0027s Assault on Dragon Keep: A Wonderlands One-shot Adventure",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 756,
-  "DailyRatings": 10.78,
+  "NumberOfRatings": 767,
+  "DailyRatings": 10.82,
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
-  "LastChanged": "2022-07-30T15:33:20.4493382+00:00",
+  "LastChanged": "2022-07-31T15:32:14.1491208+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:16.2350112+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-30T15:33:20.4493383+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 756
+    },
+    {
+      "Time": "2022-07-31T15:32:14.1491213+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 767
     }
   ],
   "Tags": [

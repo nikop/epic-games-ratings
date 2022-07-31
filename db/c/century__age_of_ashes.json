@@ -3,10 +3,10 @@
   "Name": "Century: Age of Ashes",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 1067,
-  "DailyRatings": 22.45,
+  "NumberOfRatings": 1076,
+  "DailyRatings": 22.07,
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2022-07-31T03:00:21.7828192+00:00",
+  "LastChanged": "2022-07-31T15:30:25.4938005+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.5645774+00:00",
@@ -202,6 +202,11 @@
       "Time": "2022-07-31T03:00:21.7828194+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 1067
+    },
+    {
+      "Time": "2022-07-31T15:30:25.4938007+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 1076
     }
   ],
   "Tags": [
