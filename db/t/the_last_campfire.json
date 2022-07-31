@@ -2,11 +2,11 @@
   "ID": "68214aaaa6f94c81a18c99fc2dc208cf",
   "Name": "The Last Campfire",
   "Names": [],
-  "Rating": 4.83,
-  "NumberOfRatings": 30,
-  "DailyRatings": 0.6,
+  "Rating": 4.81,
+  "NumberOfRatings": 31,
+  "DailyRatings": 0.67,
   "FirstSeen": "2022-07-22T20:21:43.218901+00:00",
-  "LastChanged": "2022-07-30T23:30:52.3118344+00:00",
+  "LastChanged": "2022-07-31T23:30:55.9728029+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:43.2189013+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-30T23:30:52.3118349+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-31T23:30:55.9728032+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []
