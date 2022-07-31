@@ -2,16 +2,21 @@
   "ID": "3f97c780915242898209d0e7edf9b1ec",
   "Name": "FAR: Changing Tides",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 22,
+  "Rating": 4.61,
+  "NumberOfRatings": 23,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:44.5991869+00:00",
-  "LastChanged": "2022-07-22T20:17:44.599187+00:00",
+  "LastChanged": "2022-07-31T13:00:37.2330971+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:44.5991871+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-07-31T13:00:37.2330973+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []
