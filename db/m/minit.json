@@ -2,11 +2,11 @@
   "ID": "43605e89e49d438485298819a7ef17b4",
   "Name": "Minit",
   "Names": [],
-  "Rating": 4.39,
-  "NumberOfRatings": 57,
-  "DailyRatings": 1.39,
+  "Rating": 4.41,
+  "NumberOfRatings": 59,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:17:43.6346922+00:00",
-  "LastChanged": "2022-07-29T02:30:15.4990559+00:00",
+  "LastChanged": "2022-07-31T02:30:20.7660151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:43.6346925+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-29T02:30:15.4990562+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 57
+    },
+    {
+      "Time": "2022-07-31T02:30:20.7660152+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 59
     }
   ],
   "Tags": []
