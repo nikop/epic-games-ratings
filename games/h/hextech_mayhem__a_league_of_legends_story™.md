@@ -1,6 +1,6 @@
 # Hextech Mayhem: A League of Legends Story™
 Rating: 4.55 (22)  
-Ratings Per Day: 0.18  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

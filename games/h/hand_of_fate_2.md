@@ -1,6 +1,6 @@
 # Hand of Fate 2
-Rating: 4.58 (424)  
-Ratings Per Day: 6.04  
+Rating: 4.58 (433)  
+Ratings Per Day: 6.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 6.04
 | 2022-07-28 | 4.58 | 413 |
 | 2022-07-29 | 4.58 | 419 |
 | 2022-07-30 | 4.58 | 424 |
+| 2022-07-31 | 4.58 | 433 |
