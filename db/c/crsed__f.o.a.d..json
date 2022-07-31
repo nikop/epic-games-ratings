@@ -3,10 +3,10 @@
   "Name": "CRSED: F.O.A.D.",
   "Names": [],
   "Rating": 4.45,
-  "NumberOfRatings": 299,
-  "DailyRatings": 3.27,
+  "NumberOfRatings": 300,
+  "DailyRatings": 3.46,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-07-31T11:30:34.5781258+00:00",
+  "LastChanged": "2022-07-31T18:30:53.6988008+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-31T11:30:34.578132+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 299
+    },
+    {
+      "Time": "2022-07-31T18:30:53.6988009+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 300
     }
   ],
   "Tags": []
