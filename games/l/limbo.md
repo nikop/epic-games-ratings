@@ -1,6 +1,6 @@
 # Limbo
 Rating: 4.63 (120)  
-Ratings Per Day: 1.75  
+Ratings Per Day: 2.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

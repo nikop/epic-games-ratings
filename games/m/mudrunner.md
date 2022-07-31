@@ -1,6 +1,6 @@
 # MudRunner
 Rating: 4.63 (1 728)  
-Ratings Per Day: 31.38  
+Ratings Per Day: 31.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
