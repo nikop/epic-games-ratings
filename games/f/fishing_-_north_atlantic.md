@@ -1,6 +1,6 @@
 # Fishing - North Atlantic
 Rating: 4.33 (27)  
-Ratings Per Day: 0.59  
+Ratings Per Day: 0.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

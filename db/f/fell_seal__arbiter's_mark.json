@@ -2,11 +2,11 @@
   "ID": "3d4ea555f7954f06b48050b3b821d6d0",
   "Name": "Fell Seal: Arbiter\u0027s Mark",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 24,
-  "DailyRatings": 1.5,
+  "Rating": 4.64,
+  "NumberOfRatings": 25,
+  "DailyRatings": 0.58,
   "FirstSeen": "2022-07-22T20:27:38.543998+00:00",
-  "LastChanged": "2022-07-26T04:02:12.8181212+00:00",
+  "LastChanged": "2022-07-31T00:31:34.4632172+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:38.5439982+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-26T04:02:12.8181214+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-07-31T00:31:34.4632174+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []
