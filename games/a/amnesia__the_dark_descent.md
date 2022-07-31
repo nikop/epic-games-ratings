@@ -1,6 +1,6 @@
 # Amnesia: The Dark Descent
-Rating: 4.63 (169)  
-Ratings Per Day: 3.26  
+Rating: 4.64 (172)  
+Ratings Per Day: 3.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 3.26
 | 2022-07-28 | 4.63 | 161 |
 | 2022-07-29 | 4.62 | 165 |
 | 2022-07-30 | 4.63 | 169 |
+| 2022-07-31 | 4.64 | 172 |
