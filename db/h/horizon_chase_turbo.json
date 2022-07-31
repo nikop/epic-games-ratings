@@ -3,10 +3,10 @@
   "Name": "Horizon Chase Turbo",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 750,
-  "DailyRatings": 14.49,
+  "NumberOfRatings": 751,
+  "DailyRatings": 14.46,
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2022-07-30T22:00:35.2976518+00:00",
+  "LastChanged": "2022-07-31T00:00:37.9468101+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-07-30T22:00:35.2976519+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 750
+    },
+    {
+      "Time": "2022-07-31T00:00:37.9468164+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 751
     }
   ],
   "Tags": [

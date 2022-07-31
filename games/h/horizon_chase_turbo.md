@@ -1,6 +1,6 @@
 # Horizon Chase Turbo
-Rating: 4.59 (750)  
-Ratings Per Day: 14.49  
+Rating: 4.59 (751)  
+Ratings Per Day: 14.46  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 14.49
 | 2022-07-28 | 4.59 | 723 |
 | 2022-07-29 | 4.59 | 736 |
 | 2022-07-30 | 4.59 | 750 |
+| 2022-07-31 | 4.59 | 751 |
