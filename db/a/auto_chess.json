@@ -2,11 +2,11 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "Names": [],
-  "Rating": 4.52,
-  "NumberOfRatings": 1542,
-  "DailyRatings": 21.37,
+  "Rating": 4.53,
+  "NumberOfRatings": 1550,
+  "DailyRatings": 21.5,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2022-07-31T15:00:52.8895492+00:00",
+  "LastChanged": "2022-07-31T23:00:55.1845474+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -287,6 +287,11 @@
       "Time": "2022-07-31T15:00:52.8895494+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 1542
+    },
+    {
+      "Time": "2022-07-31T23:00:55.1845475+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1550
     }
   ],
   "Tags": [
@@ -316,7 +321,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 143
+      "Count": 147
     },
     {
       "Text": "This game is Highly Recommended",
