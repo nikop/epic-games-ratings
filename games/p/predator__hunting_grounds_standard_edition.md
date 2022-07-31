@@ -1,6 +1,6 @@
 # Predator: Hunting Grounds Standard Edition
-Rating: 4.35 (516)  
-Ratings Per Day: 10.85  
+Rating: 4.35 (517)  
+Ratings Per Day: 9.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 10.85
 | 2022-07-28 | 4.37 | 494 |
 | 2022-07-29 | 4.36 | 505 |
 | 2022-07-30 | 4.35 | 516 |
+| 2022-07-31 | 4.35 | 517 |

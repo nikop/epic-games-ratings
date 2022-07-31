@@ -3,10 +3,10 @@
   "Name": "Tiny Tina\u0027s Wonderlands",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 15673,
-  "DailyRatings": 117.87,
+  "NumberOfRatings": 15687,
+  "DailyRatings": 118.13,
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2022-07-31T09:31:37.0178473+00:00",
+  "LastChanged": "2022-07-31T12:00:44.8134867+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.2976404+00:00",
@@ -412,6 +412,11 @@
       "Time": "2022-07-31T09:31:37.0178475+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 15673
+    },
+    {
+      "Time": "2022-07-31T12:00:44.8134868+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 15687
     }
   ],
   "Tags": [
@@ -433,7 +438,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 598
+      "Count": 610
     },
     {
       "Text": "This game has Obsessive Gameplay",
