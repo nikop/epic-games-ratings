@@ -1,6 +1,6 @@
 # Road 96
 Rating: 4.62 (55)  
-Ratings Per Day: 1.57  
+Ratings Per Day: 1.12  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
