@@ -2,11 +2,11 @@
   "ID": "3c52fbac843d4375803187739db84801",
   "Name": "Galactic Civilizations III",
   "Names": [],
-  "Rating": 4.23,
-  "NumberOfRatings": 654,
-  "DailyRatings": 11.11,
+  "Rating": 4.24,
+  "NumberOfRatings": 658,
+  "DailyRatings": 10.86,
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2022-07-31T07:30:18.4374263+00:00",
+  "LastChanged": "2022-07-31T20:00:19.637978+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.7061186+00:00",
@@ -182,6 +182,11 @@
       "Time": "2022-07-31T07:30:18.4374265+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 654
+    },
+    {
+      "Time": "2022-07-31T20:00:19.6379781+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 658
     }
   ],
   "Tags": [
