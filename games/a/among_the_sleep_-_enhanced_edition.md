@@ -1,6 +1,6 @@
 # Among the Sleep - Enhanced Edition
 Rating: 4.38 (197)  
-Ratings Per Day: 3.27  
+Ratings Per Day: 3.02  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
