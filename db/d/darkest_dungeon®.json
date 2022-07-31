@@ -3,10 +3,10 @@
   "Name": "Darkest Dungeon\u00AE",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 3157,
-  "DailyRatings": 44.59,
+  "NumberOfRatings": 3162,
+  "DailyRatings": 44.51,
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2022-07-31T08:00:43.9156176+00:00",
+  "LastChanged": "2022-07-31T11:00:39.5416736+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:59.2764087+00:00",
@@ -377,6 +377,11 @@
       "Time": "2022-07-31T08:00:43.9156177+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 3157
+    },
+    {
+      "Time": "2022-07-31T11:00:39.5416738+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 3162
     }
   ],
   "Tags": [
