@@ -3,10 +3,10 @@
   "Name": "God of War",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 3299,
-  "DailyRatings": 41.37,
+  "NumberOfRatings": 3307,
+  "DailyRatings": 42.14,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2022-07-31T16:31:34.8356497+00:00",
+  "LastChanged": "2022-07-31T18:01:27.1195092+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-07-31T16:31:34.8356498+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 3299
+    },
+    {
+      "Time": "2022-07-31T18:01:27.1195093+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 3307
     }
   ],
   "Tags": [
@@ -281,7 +286,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 484
+      "Count": 493
     },
     {
       "Text": "This game has Obsessive Gameplay",
