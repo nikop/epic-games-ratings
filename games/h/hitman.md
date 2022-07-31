@@ -1,6 +1,6 @@
 # HITMAN
 Rating: 4.66 (3 586)  
-Ratings Per Day: 65.20  
+Ratings Per Day: 65.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
