@@ -1,6 +1,6 @@
 # Shadow of the Tomb Raider: Definitive Edition
-Rating: 4.64 (15 163)  
-Ratings Per Day: 246.59  
+Rating: 4.64 (15 253)  
+Ratings Per Day: 249.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,4 +13,4 @@ Ratings Per Day: 246.59
 | 2022-07-28 | 4.64 | 14 508 |
 | 2022-07-29 | 4.64 | 14 768 |
 | 2022-07-30 | 4.64 | 15 002 |
-| 2022-07-31 | 4.64 | 15 163 |
+| 2022-07-31 | 4.64 | 15 253 |
