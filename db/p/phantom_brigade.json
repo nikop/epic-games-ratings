@@ -3,10 +3,10 @@
   "Name": "Phantom Brigade",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 121,
-  "DailyRatings": 1.8,
+  "NumberOfRatings": 122,
+  "DailyRatings": 1.81,
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
-  "LastChanged": "2022-07-30T12:32:32.1878616+00:00",
+  "LastChanged": "2022-07-31T01:01:05.093654+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:24.5427882+00:00",
@@ -52,12 +52,17 @@
       "Time": "2022-07-30T12:32:32.1878619+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 121
+    },
+    {
+      "Time": "2022-07-31T01:01:05.0936542+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 122
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 26
+      "Count": 27
     }
   ]
 }
