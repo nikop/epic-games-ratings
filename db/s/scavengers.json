@@ -3,10 +3,10 @@
   "Name": "Scavengers",
   "Names": [],
   "Rating": 4.23,
-  "NumberOfRatings": 293,
-  "DailyRatings": 2.81,
+  "NumberOfRatings": 294,
+  "DailyRatings": 2.89,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
-  "LastChanged": "2022-07-31T18:30:48.31821+00:00",
+  "LastChanged": "2022-07-31T22:00:34.7666331+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:46.6635411+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-07-31T18:30:48.3182102+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 293
+    },
+    {
+      "Time": "2022-07-31T22:00:34.7666333+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 294
     }
   ],
   "Tags": [
@@ -101,7 +106,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
