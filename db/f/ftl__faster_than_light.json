@@ -3,10 +3,10 @@
   "Name": "FTL: Faster Than Light",
   "Names": [],
   "Rating": 4.78,
-  "NumberOfRatings": 675,
-  "DailyRatings": 14.91,
+  "NumberOfRatings": 676,
+  "DailyRatings": 15.01,
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2022-07-31T17:01:09.7850883+00:00",
+  "LastChanged": "2022-07-31T17:31:09.831285+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:43.0008395+00:00",
@@ -217,6 +217,11 @@
       "Time": "2022-07-31T17:01:09.7850884+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 675
+    },
+    {
+      "Time": "2022-07-31T17:31:09.8312852+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 676
     }
   ],
   "Tags": [
@@ -255,6 +260,10 @@
     {
       "Text": "This game has Amazing Characters",
       "Count": 30
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 28
     }
   ]
 }
