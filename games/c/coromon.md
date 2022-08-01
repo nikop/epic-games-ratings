@@ -1,6 +1,6 @@
 # Coromon
 Rating: 4.62 (65)  
-Ratings Per Day: 1.01  
+Ratings Per Day: 0.91  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

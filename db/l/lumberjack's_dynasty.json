@@ -2,11 +2,11 @@
   "ID": "fe2b8b6b2b934557a719d104c25623e7",
   "Name": "Lumberjack\u0027s Dynasty",
   "Names": [],
-  "Rating": 4,
-  "NumberOfRatings": 36,
-  "DailyRatings": 1.33,
+  "Rating": 4.08,
+  "NumberOfRatings": 39,
+  "DailyRatings": 1.39,
   "FirstSeen": "2022-07-22T20:25:56.3417334+00:00",
-  "LastChanged": "2022-07-30T16:01:48.7876784+00:00",
+  "LastChanged": "2022-08-01T16:31:43.2461677+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:56.3417337+00:00",
@@ -37,6 +37,11 @@
       "Time": "2022-07-30T16:01:48.7876786+00:00",
       "Rating": 4,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-08-01T16:31:43.2461679+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": 39
     }
   ],
   "Tags": []

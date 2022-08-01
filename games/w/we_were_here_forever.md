@@ -1,6 +1,6 @@
 # We Were Here Forever
 Rating: 4.65 (86)  
-Ratings Per Day: 0.81  
+Ratings Per Day: 0.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
