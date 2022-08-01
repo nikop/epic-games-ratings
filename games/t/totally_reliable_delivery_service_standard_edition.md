@@ -1,6 +1,6 @@
 # Totally Reliable Delivery Service Standard Edition
 Rating: 4.51 (68)  
-Ratings Per Day: 0.75  
+Ratings Per Day: 1.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
