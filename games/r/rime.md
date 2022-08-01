@@ -1,6 +1,6 @@
 # RiME
-Rating: 4.62 (50)  
-Ratings Per Day: 1.17  
+Rating: 4.63 (52)  
+Ratings Per Day: 1.12  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 1.17
 | 2022-07-27 | 4.67 | 48 |
 | 2022-07-28 | 4.61 | 49 |
 | 2022-07-30 | 4.62 | 50 |
+| 2022-08-01 | 4.63 | 52 |

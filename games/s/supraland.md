@@ -1,6 +1,6 @@
 # Supraland
 Rating: 4.60 (22 718)  
-Ratings Per Day: 91.13  
+Ratings Per Day: 92.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

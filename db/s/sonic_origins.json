@@ -2,11 +2,11 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "Names": [],
-  "Rating": 4.51,
-  "NumberOfRatings": 127,
-  "DailyRatings": 1.1,
+  "Rating": 4.52,
+  "NumberOfRatings": 129,
+  "DailyRatings": 1.06,
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
-  "LastChanged": "2022-07-30T17:01:38.4033022+00:00",
+  "LastChanged": "2022-08-01T18:31:23.8595478+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:50.9782297+00:00",
@@ -47,12 +47,17 @@
       "Time": "2022-07-30T17:01:38.4033023+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 127
+    },
+    {
+      "Time": "2022-08-01T18:31:23.859548+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 129
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 74
+      "Count": 76
     }
   ]
 }
