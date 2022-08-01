@@ -1,6 +1,6 @@
 # Amnesia: A Machine for Pigs
-Rating: 4.06 (117)  
-Ratings Per Day: 2.51  
+Rating: 4.06 (120)  
+Ratings Per Day: 2.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 2.51
 | 2022-07-27 | 4.05 | 111 |
 | 2022-07-28 | 4.06 | 114 |
 | 2022-07-30 | 4.06 | 117 |
+| 2022-08-01 | 4.06 | 120 |

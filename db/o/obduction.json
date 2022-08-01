@@ -2,11 +2,11 @@
   "ID": "4ac85017adaf4d228518d64325c4ec65",
   "Name": "Obduction",
   "Names": [],
-  "Rating": 4.09,
-  "NumberOfRatings": 132,
-  "DailyRatings": 2.86,
+  "Rating": 4.1,
+  "NumberOfRatings": 134,
+  "DailyRatings": 2.73,
   "FirstSeen": "2022-07-22T20:24:36.0781179+00:00",
-  "LastChanged": "2022-07-31T18:31:30.4469397+00:00",
+  "LastChanged": "2022-08-01T19:01:57.5465256+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:36.0781184+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-07-31T18:31:30.4469399+00:00",
       "Rating": 4.09,
       "NumberOfRatings": 132
+    },
+    {
+      "Time": "2022-08-01T19:01:57.5465257+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": 134
     }
   ],
   "Tags": []
