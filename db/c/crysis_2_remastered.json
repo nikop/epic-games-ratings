@@ -2,11 +2,11 @@
   "ID": "ac082b5524e94daf9b431ee4cb8a9dd0",
   "Name": "Crysis 2 Remastered",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 328,
-  "DailyRatings": 6.32,
+  "Rating": 4.62,
+  "NumberOfRatings": 333,
+  "DailyRatings": 6.11,
   "FirstSeen": "2022-07-22T20:18:01.1104791+00:00",
-  "LastChanged": "2022-07-31T11:00:25.4213048+00:00",
+  "LastChanged": "2022-08-01T11:00:42.5786756+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:01.1104793+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-07-31T11:00:25.421305+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 328
+    },
+    {
+      "Time": "2022-08-01T11:00:42.5786757+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 333
     }
   ],
   "Tags": [
