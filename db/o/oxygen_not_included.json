@@ -3,10 +3,10 @@
   "Name": "Oxygen Not Included",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 629,
-  "DailyRatings": 9.84,
+  "NumberOfRatings": 634,
+  "DailyRatings": 10.26,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-08-01T15:00:46.7256164+00:00",
+  "LastChanged": "2022-08-01T20:01:07.849951+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-08-01T15:00:46.7256166+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 629
+    },
+    {
+      "Time": "2022-08-01T20:01:07.8499511+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 634
     }
   ],
   "Tags": [
@@ -241,7 +246,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game is Educational",

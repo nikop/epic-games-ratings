@@ -3,10 +3,10 @@
   "Name": "RAYMAN\u00AE LEGENDS",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 209,
-  "DailyRatings": 2.83,
+  "NumberOfRatings": 211,
+  "DailyRatings": 3.08,
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2022-08-01T16:32:21.2231813+00:00",
+  "LastChanged": "2022-08-01T20:02:24.077957+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:21.8622947+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-08-01T16:32:21.2231814+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 209
+    },
+    {
+      "Time": "2022-08-01T20:02:24.0779572+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 211
     }
   ],
   "Tags": [
