@@ -2,11 +2,11 @@
   "ID": "597b081ce3ab4e0bba952ed03d3fe150",
   "Name": "Hero\u0027s Hour",
   "Names": [],
-  "Rating": 4.38,
-  "NumberOfRatings": 26,
-  "DailyRatings": 0,
+  "Rating": 4.32,
+  "NumberOfRatings": 28,
+  "DailyRatings": 0.99,
   "FirstSeen": "2022-07-22T20:25:59.0417581+00:00",
-  "LastChanged": "2022-07-30T04:01:38.9195134+00:00",
+  "LastChanged": "2022-08-01T04:31:25.8362479+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:59.0417584+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-30T04:01:38.9195135+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-08-01T04:31:25.836248+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 28
     }
   ],
   "Tags": []
