@@ -1,6 +1,6 @@
 # Obduction
 Rating: 4.10 (134)  
-Ratings Per Day: 2.73  
+Ratings Per Day: 2.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,10 +3,10 @@
   "Name": "Timberborn",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 293,
-  "DailyRatings": 5.51,
+  "NumberOfRatings": 295,
+  "DailyRatings": 5.52,
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2022-08-01T12:00:55.7314474+00:00",
+  "LastChanged": "2022-08-01T20:31:21.5774081+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:12.1167854+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-08-01T12:00:55.7314475+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 293
+    },
+    {
+      "Time": "2022-08-01T20:31:21.5774083+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 295
     }
   ],
   "Tags": [
@@ -116,7 +121,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 20
+      "Count": 22
     }
   ]
 }

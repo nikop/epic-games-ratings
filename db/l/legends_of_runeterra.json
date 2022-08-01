@@ -3,10 +3,10 @@
   "Name": "Legends of Runeterra",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 259,
-  "DailyRatings": 4.45,
+  "NumberOfRatings": 260,
+  "DailyRatings": 4.35,
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2022-08-01T11:30:40.6985105+00:00",
+  "LastChanged": "2022-08-01T20:31:13.1213797+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:06.6748126+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-08-01T11:30:40.6985107+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 259
+    },
+    {
+      "Time": "2022-08-01T20:31:13.1213799+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 260
     }
   ],
   "Tags": [

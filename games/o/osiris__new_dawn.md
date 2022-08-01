@@ -1,6 +1,6 @@
 # Osiris: New Dawn
 Rating: 3.73 (78)  
-Ratings Per Day: 0.59  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # RUINER
 Rating: 4.63 (84)  
-Ratings Per Day: 2.66  
+Ratings Per Day: 2.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
