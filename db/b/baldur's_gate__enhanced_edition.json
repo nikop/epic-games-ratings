@@ -3,10 +3,10 @@
   "Name": "Baldur\u0027s Gate: Enhanced Edition",
   "Names": [],
   "Rating": 4.81,
-  "NumberOfRatings": 42,
-  "DailyRatings": 1.41,
+  "NumberOfRatings": 43,
+  "DailyRatings": 1.54,
   "FirstSeen": "2022-07-22T20:19:45.8967483+00:00",
-  "LastChanged": "2022-08-01T11:00:55.5230172+00:00",
+  "LastChanged": "2022-08-01T14:01:09.5903197+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:45.8967486+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-01T11:00:55.5230173+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 42
+    },
+    {
+      "Time": "2022-08-01T14:01:09.5903199+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 43
     }
   ],
   "Tags": []

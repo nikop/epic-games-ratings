@@ -3,10 +3,10 @@
   "Name": "Warframe",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 7362,
-  "DailyRatings": 106.15,
+  "NumberOfRatings": 7386,
+  "DailyRatings": 105.15,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2022-08-01T07:00:20.895923+00:00",
+  "LastChanged": "2022-08-01T14:00:51.9722114+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -432,12 +432,17 @@
       "Time": "2022-08-01T07:00:20.8959233+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 7362
+    },
+    {
+      "Time": "2022-08-01T14:00:51.9722115+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 7386
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 4446
+      "Count": 4515
     },
     {
       "Text": "This game has Diverse Characters",

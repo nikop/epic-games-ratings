@@ -1,6 +1,6 @@
 # Baldur's Gate: Enhanced Edition
-Rating: 4.81 (42)  
-Ratings Per Day: 1.41  
+Rating: 4.81 (43)  
+Ratings Per Day: 1.54  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,4 +12,4 @@ Ratings Per Day: 1.41
 | 2022-07-28 | 4.80 | 35 |
 | 2022-07-29 | 4.79 | 38 |
 | 2022-07-30 | 4.80 | 41 |
-| 2022-08-01 | 4.81 | 42 |
+| 2022-08-01 | 4.81 | 43 |
