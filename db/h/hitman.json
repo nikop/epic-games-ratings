@@ -3,10 +3,10 @@
   "Name": "HITMAN",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 3650,
-  "DailyRatings": 65.67,
+  "NumberOfRatings": 3653,
+  "DailyRatings": 65.51,
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2022-08-01T07:02:10.3185192+00:00",
+  "LastChanged": "2022-08-01T08:33:18.3796776+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:10.6067818+00:00",
@@ -302,6 +302,11 @@
       "Time": "2022-08-01T07:02:10.3185194+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 3650
+    },
+    {
+      "Time": "2022-08-01T08:33:18.3796778+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 3653
     }
   ],
   "Tags": [
@@ -331,7 +336,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 37
+      "Count": 40
     },
     {
       "Text": "This game has a Creative Community",
