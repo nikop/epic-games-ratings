@@ -1,12 +1,9 @@
 {
   "ID": "9f0d896b2b99454a815ab2a195c49615",
   "Name": "Retreat To Enen",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-01T22:31:07.1709936+00:00",
   "RatingHistory": [],
   "Tags": []
 }
