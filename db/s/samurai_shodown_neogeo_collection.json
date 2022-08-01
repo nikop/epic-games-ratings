@@ -2,11 +2,11 @@
   "ID": "3e84a6d0684b4f7593e6bf88bee0cbaf",
   "Name": "SAMURAI SHODOWN NEOGEO COLLECTION",
   "Names": [],
-  "Rating": 4.49,
-  "NumberOfRatings": 47,
-  "DailyRatings": 0.54,
+  "Rating": 4.5,
+  "NumberOfRatings": 48,
+  "DailyRatings": 0.45,
   "FirstSeen": "2022-07-22T20:30:17.6868721+00:00",
-  "LastChanged": "2022-07-29T09:31:52.5302609+00:00",
+  "LastChanged": "2022-08-01T09:32:26.7381083+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:17.6868724+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-29T09:31:52.530261+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 47
+    },
+    {
+      "Time": "2022-08-01T09:32:26.7381084+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 48
     }
   ],
   "Tags": []
