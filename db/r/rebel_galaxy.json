@@ -3,10 +3,10 @@
   "Name": "Rebel Galaxy",
   "Names": [],
   "Rating": 4.36,
-  "NumberOfRatings": 442,
-  "DailyRatings": 8.59,
+  "NumberOfRatings": 448,
+  "DailyRatings": 8.91,
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2022-08-01T10:32:44.2800554+00:00",
+  "LastChanged": "2022-08-01T21:01:35.8438988+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:15.7165482+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-01T10:32:44.2800559+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 442
+    },
+    {
+      "Time": "2022-08-01T21:01:35.843899+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 448
     }
   ],
   "Tags": []
