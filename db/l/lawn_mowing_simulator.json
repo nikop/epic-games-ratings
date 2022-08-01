@@ -2,11 +2,11 @@
   "ID": "70d9536d99af4c70a55e4c23989f4225",
   "Name": "Lawn Mowing Simulator",
   "Names": [],
-  "Rating": 4.04,
-  "NumberOfRatings": 1031,
-  "DailyRatings": 421.88,
+  "Rating": 4.05,
+  "NumberOfRatings": 1050,
+  "DailyRatings": 415.25,
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
-  "LastChanged": "2022-08-01T04:31:38.82118+00:00",
+  "LastChanged": "2022-08-01T06:31:42.5084296+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-29T20:02:16.5004662+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-01T04:31:38.8211802+00:00",
       "Rating": 4.04,
       "NumberOfRatings": 1031
+    },
+    {
+      "Time": "2022-08-01T06:31:42.5084297+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": 1050
     }
   ],
   "Tags": []
