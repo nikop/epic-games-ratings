@@ -3,10 +3,10 @@
   "Name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 8298,
-  "DailyRatings": 130.88,
+  "NumberOfRatings": 8310,
+  "DailyRatings": 131.04,
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2022-08-01T12:31:16.0824114+00:00",
+  "LastChanged": "2022-08-01T14:31:13.9970817+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:37.9019951+00:00",
@@ -427,6 +427,11 @@
       "Time": "2022-08-01T12:31:16.0824115+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 8298
+    },
+    {
+      "Time": "2022-08-01T14:31:13.9970818+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 8310
     }
   ],
   "Tags": [
@@ -464,7 +469,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 295
+      "Count": 306
     },
     {
       "Text": "This game has Diverse Characters",
