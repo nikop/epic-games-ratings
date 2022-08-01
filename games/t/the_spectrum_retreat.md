@@ -1,6 +1,6 @@
 # The Spectrum Retreat
-Rating: 4.33 (126)  
-Ratings Per Day: 1.48  
+Rating: 4.33 (129)  
+Ratings Per Day: 1.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 1.48
 | 2022-07-27 | 4.32 | 122 |
 | 2022-07-29 | 4.32 | 124 |
 | 2022-07-30 | 4.33 | 126 |
+| 2022-08-01 | 4.33 | 129 |
