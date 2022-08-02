@@ -3,10 +3,10 @@
   "Name": "Neon Abyss",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 5171,
-  "DailyRatings": 77.84,
+  "NumberOfRatings": 5173,
+  "DailyRatings": 77.66,
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2022-08-02T20:30:48.3577392+00:00",
+  "LastChanged": "2022-08-02T21:30:44.9304514+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:56.870956+00:00",
@@ -452,6 +452,11 @@
       "Time": "2022-08-02T20:30:48.3577394+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 5171
+    },
+    {
+      "Time": "2022-08-02T21:30:44.9304515+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 5173
     }
   ],
   "Tags": [
@@ -485,7 +490,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 139
+      "Count": 144
     },
     {
       "Text": "This game has Playful Visuals",
