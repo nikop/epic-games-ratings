@@ -1,6 +1,6 @@
 # Amnesia: Rebirth
 Rating: 4.26 (1 070)  
-Ratings Per Day: 15.47  
+Ratings Per Day: 15.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

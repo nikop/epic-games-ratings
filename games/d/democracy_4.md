@@ -1,6 +1,6 @@
 # Democracy 4
 Rating: 4.47 (36)  
-Ratings Per Day: 0.59  
+Ratings Per Day: 0.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
