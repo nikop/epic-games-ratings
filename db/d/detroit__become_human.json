@@ -3,10 +3,10 @@
   "Name": "Detroit: Become Human",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 2219,
-  "DailyRatings": 40.48,
+  "NumberOfRatings": 2236,
+  "DailyRatings": 40.08,
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2022-08-02T06:00:28.8041769+00:00",
+  "LastChanged": "2022-08-02T17:30:36.4637241+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:06.5181896+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-08-02T06:00:28.8041774+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 2219
+    },
+    {
+      "Time": "2022-08-02T17:30:36.4637243+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 2236
     }
   ],
   "Tags": [
