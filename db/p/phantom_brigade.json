@@ -3,10 +3,10 @@
   "Name": "Phantom Brigade",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 123,
-  "DailyRatings": 1.78,
+  "NumberOfRatings": 124,
+  "DailyRatings": 1.66,
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
-  "LastChanged": "2022-08-01T01:01:08.59801+00:00",
+  "LastChanged": "2022-08-02T01:01:05.9638722+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:24.5427882+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-01T01:01:08.5980104+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 123
+    },
+    {
+      "Time": "2022-08-02T01:01:05.9638725+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 124
     }
   ],
   "Tags": [
