@@ -1,6 +1,6 @@
 # Cris Tales
 Rating: 4.35 (476)  
-Ratings Per Day: 4.97  
+Ratings Per Day: 5.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
