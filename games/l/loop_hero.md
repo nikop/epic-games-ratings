@@ -1,6 +1,6 @@
 # Loop Hero
 Rating: 4.67 (3 695)  
-Ratings Per Day: 64.77  
+Ratings Per Day: 65.77  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

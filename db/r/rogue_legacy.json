@@ -3,10 +3,10 @@
   "Name": "Rogue Legacy",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 1549,
-  "DailyRatings": 14.39,
+  "NumberOfRatings": 1551,
+  "DailyRatings": 13.89,
   "FirstSeen": "2022-07-22T20:31:08.0747218+00:00",
-  "LastChanged": "2022-08-01T23:32:04.224388+00:00",
+  "LastChanged": "2022-08-02T08:32:05.1262344+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:08.0747221+00:00",
@@ -207,12 +207,17 @@
       "Time": "2022-08-01T23:32:04.2243881+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 1549
+    },
+    {
+      "Time": "2022-08-02T08:32:05.1262345+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 1551
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 479
+      "Count": 487
     },
     {
       "Text": "This game has Amazing Characters",
