@@ -1,6 +1,6 @@
 # South Park™: The Fractured But Whole™ Standard Edition
 Rating: 4.83 (117)  
-Ratings Per Day: 3.51  
+Ratings Per Day: 3.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
