@@ -3,10 +3,10 @@
   "Name": "The Walking Dead: Final Season",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 34,
-  "DailyRatings": 0.34,
+  "NumberOfRatings": 35,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
-  "LastChanged": "2022-07-30T19:30:58.4703659+00:00",
+  "LastChanged": "2022-08-02T19:31:19.4679015+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.1366368+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-30T19:30:58.4703661+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-08-02T19:31:19.4679017+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 35
     }
   ],
   "Tags": []
