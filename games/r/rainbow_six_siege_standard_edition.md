@@ -1,6 +1,6 @@
 # Rainbow Six Siege Standard Edition
 Rating: 4.60 (5 746)  
-Ratings Per Day: 65.57  
+Ratings Per Day: 65.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

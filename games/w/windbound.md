@@ -1,6 +1,6 @@
 # Windbound
 Rating: 4.20 (1 250)  
-Ratings Per Day: 18.74  
+Ratings Per Day: 18.91  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

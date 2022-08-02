@@ -1,12 +1,9 @@
 {
   "ID": "302796b050c241abb91c38539fd1fcc0",
   "Name": "Redneck Rampage",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-02T16:30:52.2822237+00:00",
   "RatingHistory": [],
   "Tags": []
 }
