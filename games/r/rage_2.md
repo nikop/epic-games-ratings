@@ -1,6 +1,6 @@
 # Rage 2
 Rating: 4.29 (2 433)  
-Ratings Per Day: 42.57  
+Ratings Per Day: 42.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
