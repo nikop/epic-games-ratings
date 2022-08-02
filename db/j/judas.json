@@ -1,12 +1,9 @@
 {
   "ID": "8d5b2ba34d58499280b1b08580de3a65",
   "Name": "Judas",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-02T20:01:04.9531706+00:00",
   "RatingHistory": [],
   "Tags": []
 }
