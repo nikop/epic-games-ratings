@@ -3,10 +3,10 @@
   "Name": "Nioh 2 \u2013 The Complete Edition",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 1917,
-  "DailyRatings": 14.83,
+  "NumberOfRatings": 1920,
+  "DailyRatings": 14.86,
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2022-08-02T03:31:30.1921776+00:00",
+  "LastChanged": "2022-08-02T08:01:36.180723+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:13.8820607+00:00",
@@ -317,6 +317,11 @@
       "Time": "2022-08-02T03:31:30.1921777+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 1917
+    },
+    {
+      "Time": "2022-08-02T08:01:36.1807232+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 1920
     }
   ],
   "Tags": [
@@ -358,7 +363,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game is Relaxing",
