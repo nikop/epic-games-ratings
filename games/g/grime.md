@@ -1,6 +1,6 @@
 # GRIME
 Rating: 4.63 (32)  
-Ratings Per Day: 0.30  
+Ratings Per Day: 0.35  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

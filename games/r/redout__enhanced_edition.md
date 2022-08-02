@@ -1,6 +1,6 @@
 # Redout: Enhanced Edition
 Rating: 4.51 (215)  
-Ratings Per Day: 2.39  
+Ratings Per Day: 2.28  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
