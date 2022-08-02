@@ -3,10 +3,10 @@
   "Name": "ARK: Survival Evolved",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 28864,
-  "DailyRatings": 199.23,
+  "NumberOfRatings": 28879,
+  "DailyRatings": 199.01,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2022-08-02T14:01:00.0743101+00:00",
+  "LastChanged": "2022-08-02T16:00:36.7429973+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -597,6 +597,11 @@
       "Time": "2022-08-02T14:01:00.0743102+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 28864
+    },
+    {
+      "Time": "2022-08-02T16:00:36.7429975+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 28879
     }
   ],
   "Tags": [
@@ -606,7 +611,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 6991
+      "Count": 7079
     },
     {
       "Text": "This game is Highly Recommended",
