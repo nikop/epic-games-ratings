@@ -1,6 +1,6 @@
 # Surviving Mars
 Rating: 4.59 (2 006)  
-Ratings Per Day: 33.44  
+Ratings Per Day: 33.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

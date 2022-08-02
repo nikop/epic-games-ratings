@@ -1,6 +1,6 @@
 # Dungeons 3
-Rating: 4.68 (875)  
-Ratings Per Day: 14.31  
+Rating: 4.68 (878)  
+Ratings Per Day: 14.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,4 +15,4 @@ Ratings Per Day: 14.31
 | 2022-07-30 | 4.68 | 845 |
 | 2022-07-31 | 4.68 | 863 |
 | 2022-08-01 | 4.68 | 872 |
-| 2022-08-02 | 4.68 | 875 |
+| 2022-08-02 | 4.68 | 878 |
