@@ -1,6 +1,6 @@
 # Spellbreak
-Rating: 4.60 (654)  
-Ratings Per Day: 7.12  
+Rating: 4.60 (655)  
+Ratings Per Day: 6.92  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,4 +15,4 @@ Ratings Per Day: 7.12
 | 2022-07-30 | 4.59 | 640 |
 | 2022-07-31 | 4.59 | 647 |
 | 2022-08-01 | 4.59 | 649 |
-| 2022-08-02 | 4.60 | 654 |
+| 2022-08-02 | 4.60 | 655 |
