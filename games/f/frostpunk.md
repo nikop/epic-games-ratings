@@ -1,6 +1,6 @@
 # Frostpunk
-Rating: 4.73 (6 424)  
-Ratings Per Day: 107.43  
+Rating: 4.73 (6 435)  
+Ratings Per Day: 107.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,4 +15,4 @@ Ratings Per Day: 107.43
 | 2022-07-30 | 4.73 | 6 150 |
 | 2022-07-31 | 4.73 | 6 261 |
 | 2022-08-01 | 4.73 | 6 377 |
-| 2022-08-02 | 4.73 | 6 424 |
+| 2022-08-02 | 4.73 | 6 435 |

@@ -1,6 +1,6 @@
 # Necrosmith
 Rating: 4.41 (115)  
-Ratings Per Day: 3.32  
+Ratings Per Day: 3.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
