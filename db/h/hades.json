@@ -3,10 +3,10 @@
   "Name": "Hades",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 4030,
-  "DailyRatings": 76.91,
+  "NumberOfRatings": 4048,
+  "DailyRatings": 76.51,
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
-  "LastChanged": "2022-08-01T19:01:37.0538057+00:00",
+  "LastChanged": "2022-08-02T01:30:49.6209705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.7235161+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-08-01T19:01:37.0538059+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 4030
+    },
+    {
+      "Time": "2022-08-02T01:30:49.6209707+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 4048
     }
   ],
   "Tags": [
@@ -396,7 +401,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has Obsessive Gameplay",
