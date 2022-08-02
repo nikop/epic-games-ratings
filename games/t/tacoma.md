@@ -1,6 +1,6 @@
 # Tacoma
 Rating: 4.28 (36)  
-Ratings Per Day: 0.72  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

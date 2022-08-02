@@ -3,10 +3,10 @@
   "Name": "Auto Chess",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 1596,
-  "DailyRatings": 24.29,
+  "NumberOfRatings": 1597,
+  "DailyRatings": 25.44,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2022-08-02T22:01:07.5417333+00:00",
+  "LastChanged": "2022-08-02T22:30:49.0132018+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-08-02T22:01:07.5417335+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 1596
+    },
+    {
+      "Time": "2022-08-02T22:30:49.0132019+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1597
     }
   ],
   "Tags": [
@@ -384,7 +389,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 159
+      "Count": 172
     },
     {
       "Text": "This game is Extremely Fun",

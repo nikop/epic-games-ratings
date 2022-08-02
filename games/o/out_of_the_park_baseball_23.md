@@ -1,6 +1,6 @@
 # Out of the Park Baseball 23
 Rating: 4.64 (33)  
-Ratings Per Day: 0.60  
+Ratings Per Day: 0.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

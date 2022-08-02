@@ -1,6 +1,6 @@
 # League of Legends
-Rating: 4.21 (6 586)  
-Ratings Per Day: 96.87  
+Rating: 4.21 (6 596)  
+Ratings Per Day: 96.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,4 +15,4 @@ Ratings Per Day: 96.87
 | 2022-07-30 | 4.21 | 6 335 |
 | 2022-07-31 | 4.21 | 6 431 |
 | 2022-08-01 | 4.21 | 6 517 |
-| 2022-08-02 | 4.21 | 6 586 |
+| 2022-08-02 | 4.21 | 6 596 |

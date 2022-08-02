@@ -1,6 +1,6 @@
 # LEGO® Star Wars™: The Skywalker Saga
-Rating: 4.80 (2 020)  
-Ratings Per Day: 19.98  
+Rating: 4.80 (2 021)  
+Ratings Per Day: 19.70  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,4 +15,4 @@ Ratings Per Day: 19.98
 | 2022-07-30 | 4.80 | 1 967 |
 | 2022-07-31 | 4.80 | 1 984 |
 | 2022-08-01 | 4.80 | 2 005 |
-| 2022-08-02 | 4.80 | 2 020 |
+| 2022-08-02 | 4.80 | 2 021 |
