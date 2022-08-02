@@ -3,10 +3,10 @@
   "Name": "Killing Floor 2",
   "Names": [],
   "Rating": 4.32,
-  "NumberOfRatings": 14240,
-  "DailyRatings": 208.86,
+  "NumberOfRatings": 14247,
+  "DailyRatings": 207.37,
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2022-08-02T07:01:16.0256885+00:00",
+  "LastChanged": "2022-08-02T09:00:53.8018393+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.1518677+00:00",
@@ -482,6 +482,11 @@
       "Time": "2022-08-02T07:01:16.0256887+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 14240
+    },
+    {
+      "Time": "2022-08-02T09:00:53.8018394+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 14247
     }
   ],
   "Tags": [
