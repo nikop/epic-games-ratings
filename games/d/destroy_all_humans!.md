@@ -1,6 +1,6 @@
 # Destroy All Humans!
-Rating: 4.75 (51)  
-Ratings Per Day: 0.40  
+Rating: 4.71 (52)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.40
 | 2022-07-27 | 4.73 | 49 |
 | 2022-07-28 | 4.74 | 50 |
 | 2022-08-01 | 4.75 | 51 |
+| 2022-08-02 | 4.71 | 52 |

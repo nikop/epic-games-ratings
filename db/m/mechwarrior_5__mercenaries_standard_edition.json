@@ -3,10 +3,10 @@
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 3152,
-  "DailyRatings": 30.22,
+  "NumberOfRatings": 3153,
+  "DailyRatings": 30.09,
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2022-08-02T14:01:01.3331591+00:00",
+  "LastChanged": "2022-08-02T15:30:51.4252546+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.936698+00:00",
@@ -437,6 +437,11 @@
       "Time": "2022-08-02T14:01:01.3331593+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 3152
+    },
+    {
+      "Time": "2022-08-02T15:30:51.4252548+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 3153
     }
   ],
   "Tags": [

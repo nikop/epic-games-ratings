@@ -1,6 +1,6 @@
 # Marvel's Guardians of the Galaxy
-Rating: 4.74 (544)  
-Ratings Per Day: 11.31  
+Rating: 4.74 (546)  
+Ratings Per Day: 11.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,4 +15,4 @@ Ratings Per Day: 11.31
 | 2022-07-30 | 4.74 | 517 |
 | 2022-07-31 | 4.74 | 530 |
 | 2022-08-01 | 4.74 | 539 |
-| 2022-08-02 | 4.74 | 544 |
+| 2022-08-02 | 4.74 | 546 |
