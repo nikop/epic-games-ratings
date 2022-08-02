@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.85,
   "NumberOfRatings": 2235,
-  "DailyRatings": 76,
+  "DailyRatings": 76.1,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
   "LastChanged": "2022-08-02T04:01:27.2726283+00:00",
   "RatingHistory": [
@@ -499,7 +499,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 70
+      "Count": 72
     },
     {
       "Text": "This game is Great for Quick Sessions",
