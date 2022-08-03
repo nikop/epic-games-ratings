@@ -2,11 +2,11 @@
   "ID": "8618da9904ad41ad951fcc470d1873cb",
   "Name": "SuchArt: Genius Artist Simulator",
   "Names": [],
-  "Rating": 4.68,
-  "NumberOfRatings": 66,
-  "DailyRatings": 1.67,
+  "Rating": 4.69,
+  "NumberOfRatings": 68,
+  "DailyRatings": 1.71,
   "FirstSeen": "2022-07-22T20:26:12.7959951+00:00",
-  "LastChanged": "2022-08-02T19:31:56.5340873+00:00",
+  "LastChanged": "2022-08-03T20:01:32.3907838+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:12.7959954+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-08-02T19:31:56.5340875+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 66
+    },
+    {
+      "Time": "2022-08-03T20:01:32.390784+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 68
     }
   ],
   "Tags": []
