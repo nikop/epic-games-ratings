@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.72,
   "NumberOfRatings": 10777,
-  "DailyRatings": 164,
+  "DailyRatings": 163.23,
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
   "LastChanged": "2022-08-03T16:01:02.5315264+00:00",
   "RatingHistory": [
@@ -525,7 +525,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 1282
+      "Count": 1320
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -533,7 +533,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1220
+      "Count": 1255
     },
     {
       "Text": "This game has Amazing Storytelling",

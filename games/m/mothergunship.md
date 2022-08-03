@@ -1,6 +1,6 @@
 # Mothergunship
 Rating: 4.42 (249)  
-Ratings Per Day: 4.11  
+Ratings Per Day: 4.12  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

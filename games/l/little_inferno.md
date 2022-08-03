@@ -1,6 +1,6 @@
 # Little Inferno
 Rating: 4.45 (38)  
-Ratings Per Day: 1.23  
+Ratings Per Day: 1.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
