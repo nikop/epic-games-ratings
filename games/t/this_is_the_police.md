@@ -1,6 +1,6 @@
 # This Is The Police
 Rating: 4.76 (33)  
-Ratings Per Day: 1.56  
+Ratings Per Day: 0.92  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

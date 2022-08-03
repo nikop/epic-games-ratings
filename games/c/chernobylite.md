@@ -1,6 +1,6 @@
 # Chernobylite
 Rating: 4.12 (77)  
-Ratings Per Day: 1.62  
+Ratings Per Day: 1.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

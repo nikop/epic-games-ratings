@@ -3,10 +3,10 @@
   "Name": "while True: learn()",
   "Names": [],
   "Rating": 4.48,
-  "NumberOfRatings": 552,
-  "DailyRatings": 7.52,
+  "NumberOfRatings": 558,
+  "DailyRatings": 7.27,
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2022-08-02T12:30:41.1782587+00:00",
+  "LastChanged": "2022-08-03T12:30:43.9727322+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-02T12:30:41.1782589+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 552
+    },
+    {
+      "Time": "2022-08-03T12:30:43.9727324+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 558
     }
   ],
   "Tags": [

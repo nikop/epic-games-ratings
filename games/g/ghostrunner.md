@@ -1,6 +1,6 @@
 # Ghostrunner
 Rating: 4.71 (519)  
-Ratings Per Day: 10.88  
+Ratings Per Day: 10.41  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
