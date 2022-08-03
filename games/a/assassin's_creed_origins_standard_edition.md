@@ -1,6 +1,6 @@
 # Assassin's Creed Origins Standard Edition
-Rating: 4.69 (2 865)  
-Ratings Per Day: 24.39  
+Rating: 4.69 (2 872)  
+Ratings Per Day: 24.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 24.39
 | 2022-07-31 | 4.69 | 2 829 |
 | 2022-08-01 | 4.69 | 2 856 |
 | 2022-08-02 | 4.69 | 2 865 |
+| 2022-08-03 | 4.69 | 2 872 |

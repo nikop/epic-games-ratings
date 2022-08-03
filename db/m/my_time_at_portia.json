@@ -2,11 +2,11 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 2574,
-  "DailyRatings": 38.46,
+  "Rating": 4.66,
+  "NumberOfRatings": 2575,
+  "DailyRatings": 38.06,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-08-02T22:01:14.9923488+00:00",
+  "LastChanged": "2022-08-03T00:30:54.8144149+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -387,6 +387,11 @@
       "Time": "2022-08-02T22:01:14.992349+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 2574
+    },
+    {
+      "Time": "2022-08-03T00:30:54.814415+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 2575
     }
   ],
   "Tags": [
