@@ -2,11 +2,11 @@
   "ID": "aster",
   "Name": "Heavy Rain",
   "Names": [],
-  "Rating": 4.55,
-  "NumberOfRatings": 159,
-  "DailyRatings": 2.51,
+  "Rating": 4.56,
+  "NumberOfRatings": 161,
+  "DailyRatings": 2.44,
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2022-08-02T03:30:17.0512546+00:00",
+  "LastChanged": "2022-08-03T03:30:16.1224847+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:18.3925165+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-02T03:30:17.0512549+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 159
+    },
+    {
+      "Time": "2022-08-03T03:30:16.122485+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 161
     }
   ],
   "Tags": [
