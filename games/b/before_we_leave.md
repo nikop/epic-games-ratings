@@ -1,6 +1,6 @@
 # Before We Leave
 Rating: 4.60 (45)  
-Ratings Per Day: 0.92  
+Ratings Per Day: 0.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
