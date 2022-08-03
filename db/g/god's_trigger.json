@@ -3,10 +3,10 @@
   "Name": "God\u0027s Trigger",
   "Names": [],
   "Rating": 4.14,
-  "NumberOfRatings": 65,
-  "DailyRatings": 1.25,
+  "NumberOfRatings": 66,
+  "DailyRatings": 1.19,
   "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
-  "LastChanged": "2022-08-02T07:02:08.2721564+00:00",
+  "LastChanged": "2022-08-03T08:31:11.5481767+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:51.7607727+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-02T07:02:08.2721565+00:00",
       "Rating": 4.14,
       "NumberOfRatings": 65
+    },
+    {
+      "Time": "2022-08-03T08:31:11.5481772+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": 66
     }
   ],
   "Tags": []
