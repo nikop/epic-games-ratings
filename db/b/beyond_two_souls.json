@@ -2,11 +2,11 @@
   "ID": "lavender",
   "Name": "Beyond Two Souls",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 217,
-  "DailyRatings": 3.41,
+  "Rating": 4.68,
+  "NumberOfRatings": 219,
+  "DailyRatings": 3.18,
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2022-08-02T10:31:23.1415332+00:00",
+  "LastChanged": "2022-08-03T11:00:15.5721086+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.5955429+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-08-02T10:31:23.1415333+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 217
+    },
+    {
+      "Time": "2022-08-03T11:00:15.572109+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 219
     }
   ],
   "Tags": [
