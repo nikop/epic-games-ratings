@@ -3,10 +3,10 @@
   "Name": "EVE Online",
   "Names": [],
   "Rating": 4.32,
-  "NumberOfRatings": 902,
-  "DailyRatings": 8.4,
+  "NumberOfRatings": 911,
+  "DailyRatings": 8.82,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2022-08-02T20:30:23.6347418+00:00",
+  "LastChanged": "2022-08-03T14:00:35.6252338+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -222,6 +222,11 @@
       "Time": "2022-08-02T20:30:23.6347421+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 902
+    },
+    {
+      "Time": "2022-08-03T14:00:35.6252343+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 911
     }
   ],
   "Tags": [
