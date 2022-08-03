@@ -1,6 +1,6 @@
 # Prison Architect
-Rating: 4.59 (2 711)  
-Ratings Per Day: 38.49  
+Rating: 4.59 (2 712)  
+Ratings Per Day: 38.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,4 +16,4 @@ Ratings Per Day: 38.49
 | 2022-07-31 | 4.59 | 2 644 |
 | 2022-08-01 | 4.59 | 2 674 |
 | 2022-08-02 | 4.59 | 2 700 |
-| 2022-08-03 | 4.59 | 2 711 |
+| 2022-08-03 | 4.59 | 2 712 |
