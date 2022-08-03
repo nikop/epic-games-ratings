@@ -3,10 +3,10 @@
   "Name": "Mutant Year Zero: Road to Eden",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 1187,
-  "DailyRatings": 19.72,
+  "NumberOfRatings": 1196,
+  "DailyRatings": 20.32,
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2022-08-02T21:01:41.2027084+00:00",
+  "LastChanged": "2022-08-03T03:01:35.5766669+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.3944409+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-08-02T21:01:41.2027086+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 1187
+    },
+    {
+      "Time": "2022-08-03T03:01:35.576667+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 1196
     }
   ],
   "Tags": [
