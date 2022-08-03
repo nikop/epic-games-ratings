@@ -1,6 +1,6 @@
 # For The King
-Rating: 4.70 (3 349)  
-Ratings Per Day: 57.78  
+Rating: 4.70 (3 351)  
+Ratings Per Day: 57.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,4 +16,4 @@ Ratings Per Day: 57.78
 | 2022-07-31 | 4.71 | 3 226 |
 | 2022-08-01 | 4.71 | 3 278 |
 | 2022-08-02 | 4.70 | 3 335 |
-| 2022-08-03 | 4.70 | 3 349 |
+| 2022-08-03 | 4.70 | 3 351 |
