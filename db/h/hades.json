@@ -3,10 +3,10 @@
   "Name": "Hades",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 4128,
-  "DailyRatings": 72.79,
+  "NumberOfRatings": 4132,
+  "DailyRatings": 72.65,
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
-  "LastChanged": "2022-08-03T13:31:04.4629407+00:00",
+  "LastChanged": "2022-08-03T14:31:24.7864223+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.7235161+00:00",
@@ -427,6 +427,11 @@
       "Time": "2022-08-03T13:31:04.4629409+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 4128
+    },
+    {
+      "Time": "2022-08-03T14:31:24.7864224+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 4132
     }
   ],
   "Tags": [
@@ -436,7 +441,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 625
+      "Count": 634
     },
     {
       "Text": "This game is Highly Recommended",
