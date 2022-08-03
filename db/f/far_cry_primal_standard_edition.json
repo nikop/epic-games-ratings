@@ -3,10 +3,10 @@
   "Name": "Far Cry Primal Standard Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 281,
-  "DailyRatings": 4.05,
+  "NumberOfRatings": 282,
+  "DailyRatings": 3.56,
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2022-08-02T18:31:12.9891049+00:00",
+  "LastChanged": "2022-08-03T18:31:23.6333265+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-08-02T18:31:12.9891051+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 281
+    },
+    {
+      "Time": "2022-08-03T18:31:23.6333267+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 282
     }
   ],
   "Tags": [

@@ -2,11 +2,11 @@
   "ID": "e4ef0c8c500a41eaa57c53d32410595d",
   "Name": "Citizen Sleeper",
   "Names": [],
-  "Rating": 4.68,
-  "NumberOfRatings": 22,
-  "DailyRatings": 1,
+  "Rating": 4.7,
+  "NumberOfRatings": 23,
+  "DailyRatings": 0.94,
   "FirstSeen": "2022-07-22T20:29:38.6644605+00:00",
-  "LastChanged": "2022-08-02T15:32:06.2053631+00:00",
+  "LastChanged": "2022-08-03T18:32:11.2152554+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T12:01:52.5792342+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-08-02T15:32:06.2053632+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-08-03T18:32:11.2152555+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []

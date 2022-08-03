@@ -1,6 +1,6 @@
 # Necrosmith
-Rating: 4.41 (115)  
-Ratings Per Day: 3.19  
+Rating: 4.41 (116)  
+Ratings Per Day: 1.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 3.19
 | 2022-07-30 | 4.40 | 110 |
 | 2022-07-31 | 4.41 | 112 |
 | 2022-08-01 | 4.41 | 115 |
+| 2022-08-03 | 4.41 | 116 |
