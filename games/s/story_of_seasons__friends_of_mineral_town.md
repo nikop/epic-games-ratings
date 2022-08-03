@@ -1,6 +1,6 @@
 # STORY OF SEASONS: Friends of Mineral Town
-Rating: 4.82 (38)  
-Ratings Per Day: 2.27  
+Rating: 4.82 (39)  
+Ratings Per Day: 1.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 2.27
 | 2022-07-29 | 4.79 | 34 |
 | 2022-07-30 | 4.81 | 37 |
 | 2022-07-31 | 4.82 | 38 |
+| 2022-08-03 | 4.82 | 39 |

@@ -3,10 +3,10 @@
   "Name": "The Long Dark",
   "Names": [],
   "Rating": 4.74,
-  "NumberOfRatings": 2721,
-  "DailyRatings": 45.34,
+  "NumberOfRatings": 2733,
+  "DailyRatings": 45.3,
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2022-08-02T17:32:23.5740115+00:00",
+  "LastChanged": "2022-08-03T00:02:21.6954799+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:46.2160704+00:00",
@@ -407,6 +407,11 @@
       "Time": "2022-08-02T17:32:23.5740116+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 2721
+    },
+    {
+      "Time": "2022-08-03T00:02:21.6954801+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 2733
     }
   ],
   "Tags": [
@@ -416,7 +421,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 121
+      "Count": 128
     },
     {
       "Text": "This game has Amazing Characters",

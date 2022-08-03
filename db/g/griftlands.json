@@ -2,11 +2,11 @@
   "ID": "phlox",
   "Name": "Griftlands",
   "Names": [],
-  "Rating": 4.79,
-  "NumberOfRatings": 106,
-  "DailyRatings": 2.1,
+  "Rating": 4.8,
+  "NumberOfRatings": 108,
+  "DailyRatings": 2.11,
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
-  "LastChanged": "2022-08-02T02:00:57.6356462+00:00",
+  "LastChanged": "2022-08-03T00:01:02.9471875+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:37.4181636+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-02T02:00:57.6356463+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 106
+    },
+    {
+      "Time": "2022-08-03T00:01:02.9471876+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 108
     }
   ],
   "Tags": []
