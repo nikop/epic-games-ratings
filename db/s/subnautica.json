@@ -3,10 +3,10 @@
   "Name": "Subnautica",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 4701,
-  "DailyRatings": 68.84,
+  "NumberOfRatings": 4707,
+  "DailyRatings": 69.16,
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2022-08-03T21:01:58.1194222+00:00",
+  "LastChanged": "2022-08-03T22:31:46.7021258+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.864115+00:00",
@@ -457,6 +457,11 @@
       "Time": "2022-08-03T21:01:58.1194224+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 4701
+    },
+    {
+      "Time": "2022-08-03T22:31:46.702126+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 4707
     }
   ],
   "Tags": [
@@ -494,7 +499,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 132
+      "Count": 136
     },
     {
       "Text": "This game has a Creative Community",
