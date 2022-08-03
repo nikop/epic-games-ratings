@@ -2,11 +2,11 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "Names": [],
-  "Rating": 4.38,
-  "NumberOfRatings": 118,
-  "DailyRatings": 1.8,
+  "Rating": 4.4,
+  "NumberOfRatings": 122,
+  "DailyRatings": 2.13,
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
-  "LastChanged": "2022-08-02T01:30:29.694928+00:00",
+  "LastChanged": "2022-08-03T01:30:32.5551363+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:02.1541899+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-02T01:30:29.6949281+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 118
+    },
+    {
+      "Time": "2022-08-03T01:30:32.5551364+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 122
     }
   ],
   "Tags": []
