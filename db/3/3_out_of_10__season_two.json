@@ -2,11 +2,11 @@
   "ID": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "Name": "3 out of 10: Season Two",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 34,
-  "DailyRatings": 0.99,
+  "Rating": 4.51,
+  "NumberOfRatings": 35,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:24:10.8158493+00:00",
-  "LastChanged": "2022-08-02T19:01:10.0931462+00:00",
+  "LastChanged": "2022-08-03T19:01:33.7324508+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.8158496+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-08-02T19:01:10.0931463+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-08-03T19:01:33.7324509+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 35
     }
   ],
   "Tags": []

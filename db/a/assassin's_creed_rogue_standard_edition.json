@@ -2,11 +2,11 @@
   "ID": "34f7e1e275924bb6a90074920f9c1696",
   "Name": "Assassin\u0027s Creed Rogue Standard Edition",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 153,
-  "DailyRatings": 11.74,
+  "Rating": 4.61,
+  "NumberOfRatings": 159,
+  "DailyRatings": 12.32,
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2022-08-03T14:02:17.3745998+00:00",
+  "LastChanged": "2022-08-03T19:02:12.2795448+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:01.011346+00:00",
@@ -87,12 +87,17 @@
       "Time": "2022-08-03T14:02:17.3746+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 153
+    },
+    {
+      "Time": "2022-08-03T19:02:12.279545+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 159
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 28
+      "Count": 33
     }
   ]
 }
