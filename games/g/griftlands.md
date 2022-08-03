@@ -1,6 +1,6 @@
 # Griftlands
 Rating: 4.80 (109)  
-Ratings Per Day: 2.01  
+Ratings Per Day: 1.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

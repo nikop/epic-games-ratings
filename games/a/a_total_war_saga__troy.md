@@ -1,6 +1,6 @@
 # A Total War Saga: TROY
-Rating: 4.51 (3 754)  
-Ratings Per Day: 67.34  
+Rating: 4.51 (3 757)  
+Ratings Per Day: 66.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,4 +16,4 @@ Ratings Per Day: 67.34
 | 2022-07-31 | 4.51 | 3 579 |
 | 2022-08-01 | 4.51 | 3 638 |
 | 2022-08-02 | 4.51 | 3 707 |
-| 2022-08-03 | 4.51 | 3 754 |
+| 2022-08-03 | 4.51 | 3 757 |

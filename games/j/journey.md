@@ -1,6 +1,6 @@
 # Journey
 Rating: 4.76 (38)  
-Ratings Per Day: 0.58  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
