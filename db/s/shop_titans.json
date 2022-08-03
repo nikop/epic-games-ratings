@@ -3,10 +3,10 @@
   "Name": "Shop Titans",
   "Names": [],
   "Rating": 3.9,
-  "NumberOfRatings": 8582,
-  "DailyRatings": 571.19,
+  "NumberOfRatings": 8614,
+  "DailyRatings": 565.47,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-08-03T02:00:24.3041868+00:00",
+  "LastChanged": "2022-08-03T05:01:23.6331823+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -577,6 +577,11 @@
       "Time": "2022-08-03T02:00:24.3041871+00:00",
       "Rating": 3.9,
       "NumberOfRatings": 8582
+    },
+    {
+      "Time": "2022-08-03T05:01:23.6331825+00:00",
+      "Rating": 3.9,
+      "NumberOfRatings": 8614
     }
   ],
   "Tags": [
@@ -586,7 +591,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 189
+      "Count": 216
     },
     {
       "Text": "This game is Great for Beginners",
