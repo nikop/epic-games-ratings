@@ -1,6 +1,6 @@
 # Dark Deception
-Rating: 4.77 (30)  
-Ratings Per Day: 0.36  
+Rating: 4.77 (31)  
+Ratings Per Day: 0.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 0.36
 | 2022-07-27 | 4.75 | 28 |
 | 2022-07-28 | 4.76 | 29 |
 | 2022-08-01 | 4.77 | 30 |
+| 2022-08-03 | 4.77 | 31 |
