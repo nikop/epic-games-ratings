@@ -2,11 +2,11 @@
   "ID": "buffalo",
   "Name": "Super Meat Boy",
   "Names": [],
-  "Rating": 4.7,
-  "NumberOfRatings": 93,
-  "DailyRatings": 2.64,
+  "Rating": 4.69,
+  "NumberOfRatings": 96,
+  "DailyRatings": 2.71,
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
-  "LastChanged": "2022-08-02T10:32:28.6375861+00:00",
+  "LastChanged": "2022-08-03T09:31:28.5238533+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:39.3039476+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-02T10:32:28.6375863+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 93
+    },
+    {
+      "Time": "2022-08-03T09:31:28.5238535+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 96
     }
   ],
   "Tags": [

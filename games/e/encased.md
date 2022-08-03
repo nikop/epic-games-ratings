@@ -1,6 +1,6 @@
 # Encased
-Rating: 4.31 (35)  
-Ratings Per Day: 0.61  
+Rating: 4.33 (36)  
+Ratings Per Day: 0.62  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.61
 | 2022-07-28 | 4.30 | 33 |
 | 2022-07-31 | 4.29 | 34 |
 | 2022-08-01 | 4.31 | 35 |
+| 2022-08-03 | 4.33 | 36 |
