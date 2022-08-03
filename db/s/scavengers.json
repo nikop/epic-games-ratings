@@ -3,10 +3,10 @@
   "Name": "Scavengers",
   "Names": [],
   "Rating": 4.23,
-  "NumberOfRatings": 297,
-  "DailyRatings": 2.72,
+  "NumberOfRatings": 298,
+  "DailyRatings": 2.67,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
-  "LastChanged": "2022-08-02T19:00:29.6956197+00:00",
+  "LastChanged": "2022-08-03T07:00:31.4942512+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:46.6635411+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-08-02T19:00:29.6956253+00:00",
       "Rating": 4.23,
       "NumberOfRatings": 297
+    },
+    {
+      "Time": "2022-08-03T07:00:31.4942514+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 298
     }
   ],
   "Tags": [
