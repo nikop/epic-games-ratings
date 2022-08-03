@@ -3,10 +3,10 @@
   "Name": "City of Brass",
   "Names": [],
   "Rating": 4.16,
-  "NumberOfRatings": 142,
-  "DailyRatings": 1.84,
+  "NumberOfRatings": 143,
+  "DailyRatings": 1.72,
   "FirstSeen": "2022-07-22T20:29:59.0353728+00:00",
-  "LastChanged": "2022-08-02T15:32:08.5575641+00:00",
+  "LastChanged": "2022-08-03T15:32:36.9997807+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:59.0353731+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-02T15:32:08.5575643+00:00",
       "Rating": 4.16,
       "NumberOfRatings": 142
+    },
+    {
+      "Time": "2022-08-03T15:32:36.9997808+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": 143
     }
   ],
   "Tags": []
