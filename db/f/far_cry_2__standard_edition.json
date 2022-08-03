@@ -3,10 +3,10 @@
   "Name": "Far Cry 2: Standard Edition",
   "Names": [],
   "Rating": 4.21,
-  "NumberOfRatings": 33,
-  "DailyRatings": 0.46,
+  "NumberOfRatings": 34,
+  "DailyRatings": 0.56,
   "FirstSeen": "2022-07-22T20:31:40.0657396+00:00",
-  "LastChanged": "2022-08-02T23:02:11.2719805+00:00",
+  "LastChanged": "2022-08-03T23:02:07.1289598+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:40.0657398+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-02T23:02:11.2719806+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-08-03T23:02:07.1289599+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 34
     }
   ],
   "Tags": []
