@@ -3,10 +3,10 @@
   "Name": "WRC 9 FIA World Rally Championship",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 128,
-  "DailyRatings": 1.95,
+  "NumberOfRatings": 130,
+  "DailyRatings": 2.14,
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2022-08-03T08:00:40.6540784+00:00",
+  "LastChanged": "2022-08-03T17:00:41.669592+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.0984452+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-03T08:00:40.6540786+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 128
+    },
+    {
+      "Time": "2022-08-03T17:00:41.6695921+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 130
     }
   ],
   "Tags": []
