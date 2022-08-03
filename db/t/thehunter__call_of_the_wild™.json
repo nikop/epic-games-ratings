@@ -3,10 +3,10 @@
   "Name": "theHunter: Call of the Wild\u2122",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 8983,
-  "DailyRatings": 130.95,
+  "NumberOfRatings": 8989,
+  "DailyRatings": 129.06,
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2022-08-02T21:30:32.7049807+00:00",
+  "LastChanged": "2022-08-03T01:00:34.6232215+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:14.016107+00:00",
@@ -562,6 +562,11 @@
       "Time": "2022-08-02T21:30:32.7049809+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 8983
+    },
+    {
+      "Time": "2022-08-03T01:00:34.6232216+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 8989
     }
   ],
   "Tags": [

@@ -1,6 +1,6 @@
 # Paradigm
-Rating: 4.50 (165)  
-Ratings Per Day: 1.70  
+Rating: 4.49 (168)  
+Ratings Per Day: 1.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 1.70
 | 2022-07-29 | 4.48 | 161 |
 | 2022-07-30 | 4.49 | 162 |
 | 2022-08-01 | 4.50 | 165 |
+| 2022-08-03 | 4.49 | 168 |
