@@ -1,6 +1,6 @@
 # Darksiders II Deathinitive Edition
-Rating: 4.64 (457)  
-Ratings Per Day: 7.12  
+Rating: 4.64 (459)  
+Ratings Per Day: 7.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,4 +16,4 @@ Ratings Per Day: 7.12
 | 2022-07-31 | 4.64 | 446 |
 | 2022-08-01 | 4.64 | 449 |
 | 2022-08-02 | 4.64 | 454 |
-| 2022-08-03 | 4.64 | 457 |
+| 2022-08-03 | 4.64 | 459 |

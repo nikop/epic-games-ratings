@@ -2,11 +2,11 @@
   "ID": "00b9ec358e1f46daa4f8e1194d5081d8",
   "Name": "Alan Wake",
   "Names": [],
-  "Rating": 4.42,
-  "NumberOfRatings": 234,
-  "DailyRatings": 3.15,
+  "Rating": 4.43,
+  "NumberOfRatings": 237,
+  "DailyRatings": 3.05,
   "FirstSeen": "2022-07-22T20:27:21.5062168+00:00",
-  "LastChanged": "2022-08-02T09:02:16.9552344+00:00",
+  "LastChanged": "2022-08-03T13:02:27.6788067+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:21.506217+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-02T09:02:16.9552346+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 234
+    },
+    {
+      "Time": "2022-08-03T13:02:27.6788068+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 237
     }
   ],
   "Tags": []
