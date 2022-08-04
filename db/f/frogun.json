@@ -1,12 +1,9 @@
 {
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
   "RatingHistory": [],
   "Tags": []
 }
