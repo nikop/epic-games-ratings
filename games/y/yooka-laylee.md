@@ -1,6 +1,6 @@
 # Yooka-Laylee
 Rating: 4.32 (228)  
-Ratings Per Day: 2.46  
+Ratings Per Day: 2.14  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
