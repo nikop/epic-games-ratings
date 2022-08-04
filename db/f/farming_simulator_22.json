@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.72,
   "NumberOfRatings": 5471,
-  "DailyRatings": 64.74,
+  "DailyRatings": 64.19,
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "LastChanged": "2022-08-04T18:30:19.5506645+00:00",
   "RatingHistory": [
@@ -687,7 +687,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 590
+      "Count": 613
     },
     {
       "Text": "This game has Easy Combat",

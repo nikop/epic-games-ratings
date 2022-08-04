@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Knight",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 4444,
-  "DailyRatings": 67.63,
+  "NumberOfRatings": 4457,
+  "DailyRatings": 68.9,
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2022-08-04T17:31:53.0598341+00:00",
+  "LastChanged": "2022-08-04T19:01:53.9335392+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:23.4007296+00:00",
@@ -517,6 +517,11 @@
       "Time": "2022-08-04T17:31:53.0598342+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 4444
+    },
+    {
+      "Time": "2022-08-04T19:01:53.9335393+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 4457
     }
   ],
   "Tags": [
