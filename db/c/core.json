@@ -2,11 +2,11 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "Names": [],
-  "Rating": 4.38,
-  "NumberOfRatings": 1001,
-  "DailyRatings": 14.49,
+  "Rating": 4.39,
+  "NumberOfRatings": 1002,
+  "DailyRatings": 14.29,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-08-04T02:01:07.220668+00:00",
+  "LastChanged": "2022-08-04T06:01:10.820651+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-08-04T02:01:07.2206685+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1001
+    },
+    {
+      "Time": "2022-08-04T06:01:10.8206514+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 1002
     }
   ],
   "Tags": [
@@ -333,7 +338,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",

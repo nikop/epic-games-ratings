@@ -2,11 +2,11 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 505,
-  "DailyRatings": 4.99,
+  "Rating": 4.49,
+  "NumberOfRatings": 506,
+  "DailyRatings": 4.95,
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2022-08-04T00:00:31.7330143+00:00",
+  "LastChanged": "2022-08-04T06:00:21.3152741+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.1466756+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-08-04T00:00:31.7330145+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 505
+    },
+    {
+      "Time": "2022-08-04T06:00:21.3152742+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 506
     }
   ],
   "Tags": [
@@ -238,7 +243,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 52
+      "Count": 55
     }
   ]
 }
