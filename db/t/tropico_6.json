@@ -3,10 +3,10 @@
   "Name": "Tropico 6",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 254,
-  "DailyRatings": 4.27,
+  "NumberOfRatings": 257,
+  "DailyRatings": 4.04,
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
-  "LastChanged": "2022-08-03T17:30:25.2681925+00:00",
+  "LastChanged": "2022-08-04T19:30:52.0816733+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:21.1290303+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-08-03T17:30:25.2681928+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 254
+    },
+    {
+      "Time": "2022-08-04T19:30:52.0816735+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 257
     }
   ],
   "Tags": [

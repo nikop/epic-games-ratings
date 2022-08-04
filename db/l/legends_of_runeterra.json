@@ -3,10 +3,10 @@
   "Name": "Legends of Runeterra",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 268,
-  "DailyRatings": 2.93,
+  "NumberOfRatings": 271,
+  "DailyRatings": 3.27,
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2022-08-04T13:01:01.6418769+00:00",
+  "LastChanged": "2022-08-04T19:31:12.7075483+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:06.6748126+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-08-04T13:01:01.6418771+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 268
+    },
+    {
+      "Time": "2022-08-04T19:31:12.7075484+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 271
     }
   ],
   "Tags": [
@@ -181,7 +186,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",
