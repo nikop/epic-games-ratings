@@ -3,10 +3,10 @@
   "Name": "The Walking Dead : The Definitive Series",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 430,
-  "DailyRatings": 5.62,
+  "NumberOfRatings": 431,
+  "DailyRatings": 5.51,
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2022-08-04T00:01:06.9971708+00:00",
+  "LastChanged": "2022-08-04T07:30:56.0381553+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -152,12 +152,17 @@
       "Time": "2022-08-04T00:01:06.997171+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 430
+    },
+    {
+      "Time": "2022-08-04T07:30:56.0381554+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 431
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 145
+      "Count": 148
     }
   ]
 }
