@@ -1,6 +1,6 @@
 # Saints Row®: The Third™  Remastered
-Rating: 4.42 (3 272)  
-Ratings Per Day: 52.31  
+Rating: 4.42 (3 290)  
+Ratings Per Day: 53.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,4 +17,4 @@ Ratings Per Day: 52.31
 | 2022-08-01 | 4.43 | 3 116 |
 | 2022-08-02 | 4.42 | 3 190 |
 | 2022-08-03 | 4.42 | 3 225 |
-| 2022-08-04 | 4.42 | 3 272 |
+| 2022-08-04 | 4.42 | 3 290 |
