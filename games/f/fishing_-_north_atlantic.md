@@ -1,6 +1,6 @@
 # Fishing - North Atlantic
-Rating: 4.33 (27)  
-Ratings Per Day: 0.00  
+Rating: 4.36 (28)  
+Ratings Per Day: 0.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.00
 | 2022-07-24 | 4.26 | 23 |
 | 2022-07-25 | 4.28 | 25 |
 | 2022-07-30 | 4.33 | 27 |
+| 2022-08-04 | 4.36 | 28 |
