@@ -1,6 +1,6 @@
 # LEGO® Batman™ 3: Beyond Gotham
-Rating: 4.59 (314)  
-Ratings Per Day: 5.64  
+Rating: 4.59 (318)  
+Ratings Per Day: 5.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 5.64
 | 2022-08-01 | 4.58 | 306 |
 | 2022-08-02 | 4.59 | 309 |
 | 2022-08-03 | 4.59 | 314 |
+| 2022-08-04 | 4.59 | 318 |
