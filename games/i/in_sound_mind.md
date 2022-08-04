@@ -1,6 +1,6 @@
 # In Sound Mind
 Rating: 4.61 (1 186)  
-Ratings Per Day: 16.00  
+Ratings Per Day: 16.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

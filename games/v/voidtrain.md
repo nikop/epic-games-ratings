@@ -1,6 +1,6 @@
 # Voidtrain
 Rating: 4.46 (834)  
-Ratings Per Day: 9.02  
+Ratings Per Day: 8.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
