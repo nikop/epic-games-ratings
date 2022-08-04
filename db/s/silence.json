@@ -1,12 +1,9 @@
 {
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-04T10:32:09.0887096+00:00",
   "RatingHistory": [],
   "Tags": []
 }

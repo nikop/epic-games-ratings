@@ -2,11 +2,11 @@
   "ID": "bc81d1e7d1794d3a94e4dbf26e92166d",
   "Name": "Transistor",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 86,
-  "DailyRatings": 1.92,
+  "Rating": 4.68,
+  "NumberOfRatings": 88,
+  "DailyRatings": 1.64,
   "FirstSeen": "2022-07-22T20:25:51.9037164+00:00",
-  "LastChanged": "2022-08-02T10:32:30.1289088+00:00",
+  "LastChanged": "2022-08-04T10:32:24.7338324+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:51.9037167+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-08-02T10:32:30.1289089+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 86
+    },
+    {
+      "Time": "2022-08-04T10:32:24.7338325+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 88
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Maneater
 Rating: 4.49 (76 231)  
-Ratings Per Day: 201.89  
+Ratings Per Day: 201.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
