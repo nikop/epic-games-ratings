@@ -2,11 +2,11 @@
   "ID": "e5decf71f325458b92653616ee98682a",
   "Name": "Deponia: The Complete Journey",
   "Names": [],
-  "Rating": 4.61,
-  "NumberOfRatings": 470,
-  "DailyRatings": 5.91,
+  "Rating": 4.62,
+  "NumberOfRatings": 480,
+  "DailyRatings": 6.6,
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2022-08-03T15:32:36.7925732+00:00",
+  "LastChanged": "2022-08-04T13:31:51.0284957+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.180418+00:00",
@@ -132,12 +132,17 @@
       "Time": "2022-08-03T15:32:36.7925733+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 470
+    },
+    {
+      "Time": "2022-08-04T13:31:51.0284959+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 480
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 100
+      "Count": 102
     }
   ]
 }
