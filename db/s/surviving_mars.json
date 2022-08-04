@@ -3,10 +3,10 @@
   "Name": "Surviving Mars",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 2065,
-  "DailyRatings": 30.46,
+  "NumberOfRatings": 2067,
+  "DailyRatings": 30.38,
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2022-08-04T15:31:38.806388+00:00",
+  "LastChanged": "2022-08-04T17:31:14.9265706+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.5955068+00:00",
@@ -392,12 +392,17 @@
       "Time": "2022-08-04T15:31:38.8063881+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 2065
+    },
+    {
+      "Time": "2022-08-04T17:31:14.9265707+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 2067
     }
   ],
   "Tags": [
     {
       "Text": "This game is Educational",
-      "Count": 86
+      "Count": 88
     },
     {
       "Text": "This game is Extremely Fun",

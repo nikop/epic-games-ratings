@@ -3,10 +3,10 @@
   "Name": "Fortnite",
   "Names": [],
   "Rating": 4.31,
-  "NumberOfRatings": 1679909,
-  "DailyRatings": 10807.06,
+  "NumberOfRatings": 1681005,
+  "DailyRatings": 10816.52,
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2022-08-04T16:00:30.4657928+00:00",
+  "LastChanged": "2022-08-04T17:30:54.3513494+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:41.6739551+00:00",
@@ -732,12 +732,17 @@
       "Time": "2022-08-04T16:00:30.4657931+00:00",
       "Rating": 4.31,
       "NumberOfRatings": 1679909
+    },
+    {
+      "Time": "2022-08-04T17:30:54.3513495+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 1681005
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 198234
+      "Count": 202125
     },
     {
       "Text": "This game is Extremely Fun",

@@ -1,6 +1,6 @@
 # Crayta
 Rating: 4.20 (76)  
-Ratings Per Day: 0.98  
+Ratings Per Day: 0.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

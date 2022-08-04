@@ -1,6 +1,6 @@
 # Close To The Sun
 Rating: 4.05 (88)  
-Ratings Per Day: 1.45  
+Ratings Per Day: 1.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

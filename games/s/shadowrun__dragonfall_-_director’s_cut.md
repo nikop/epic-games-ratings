@@ -1,6 +1,6 @@
 # Shadowrun: Dragonfall - Director’s Cut
-Rating: 4.50 (111)  
-Ratings Per Day: 1.52  
+Rating: 4.49 (115)  
+Ratings Per Day: 1.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 1.52
 | 2022-07-31 | 4.54 | 106 |
 | 2022-08-01 | 4.52 | 108 |
 | 2022-08-03 | 4.50 | 111 |
+| 2022-08-04 | 4.49 | 115 |
