@@ -1,6 +1,6 @@
 # Desperados III
-Rating: 4.87 (241)  
-Ratings Per Day: 3.37  
+Rating: 4.87 (242)  
+Ratings Per Day: 3.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 3.37
 | 2022-07-31 | 4.87 | 237 |
 | 2022-08-01 | 4.87 | 239 |
 | 2022-08-03 | 4.87 | 241 |
+| 2022-08-04 | 4.87 | 242 |
