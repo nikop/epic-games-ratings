@@ -3,10 +3,10 @@
   "Name": "State of Decay 2: Juggernaut Edition",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 807,
-  "DailyRatings": 11.66,
+  "NumberOfRatings": 808,
+  "DailyRatings": 11.35,
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2022-08-03T18:30:50.6999532+00:00",
+  "LastChanged": "2022-08-04T01:00:41.7579737+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:15.4995461+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-08-03T18:30:50.6999534+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 807
+    },
+    {
+      "Time": "2022-08-04T01:00:41.7579741+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 808
     }
   ],
   "Tags": [
@@ -325,7 +330,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Challenging Combat",
