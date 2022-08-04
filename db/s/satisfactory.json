@@ -3,10 +3,10 @@
   "Name": "Satisfactory",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 20847,
-  "DailyRatings": 237.11,
+  "NumberOfRatings": 20860,
+  "DailyRatings": 237.58,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2022-08-04T15:01:59.7785326+00:00",
+  "LastChanged": "2022-08-04T16:01:05.594142+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:11.7040588+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-08-04T15:01:59.7785327+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 20847
+    },
+    {
+      "Time": "2022-08-04T16:01:05.5941421+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 20860
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "My Time at Sandrock",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 741,
-  "DailyRatings": 2.86,
+  "NumberOfRatings": 743,
+  "DailyRatings": 2.99,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2022-08-04T06:02:04.489534+00:00",
+  "LastChanged": "2022-08-04T16:02:19.6709202+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-08-04T06:02:04.4895341+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 741
+    },
+    {
+      "Time": "2022-08-04T16:02:19.6709203+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 743
     }
   ],
   "Tags": [
@@ -106,7 +111,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Obsessive Gameplay",

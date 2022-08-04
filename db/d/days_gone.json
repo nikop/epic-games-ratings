@@ -3,10 +3,10 @@
   "Name": "Days Gone",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 2829,
-  "DailyRatings": 35.06,
+  "NumberOfRatings": 2832,
+  "DailyRatings": 35.29,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2022-08-04T15:02:54.4211368+00:00",
+  "LastChanged": "2022-08-04T16:02:02.099392+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -497,6 +497,11 @@
       "Time": "2022-08-04T15:02:54.421137+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2829
+    },
+    {
+      "Time": "2022-08-04T16:02:02.0993921+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 2832
     }
   ],
   "Tags": [
@@ -518,7 +523,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game has Quickly Understood Controls",

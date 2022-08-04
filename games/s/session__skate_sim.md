@@ -1,6 +1,6 @@
 # Session: Skate Sim
-Rating: 4.53 (64)  
-Ratings Per Day: 1.48  
+Rating: 4.53 (66)  
+Ratings Per Day: 1.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 1.48
 | 2022-07-31 | 4.52 | 61 |
 | 2022-08-01 | 4.52 | 63 |
 | 2022-08-02 | 4.53 | 64 |
+| 2022-08-04 | 4.53 | 66 |
