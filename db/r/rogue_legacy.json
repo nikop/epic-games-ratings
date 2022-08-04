@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.6,
   "NumberOfRatings": 1572,
-  "DailyRatings": 12.46,
+  "DailyRatings": 12.11,
   "FirstSeen": "2022-07-22T20:31:08.0747218+00:00",
   "LastChanged": "2022-08-04T15:33:01.0809711+00:00",
   "RatingHistory": [
@@ -262,7 +262,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 495
+      "Count": 499
     },
     {
       "Text": "This game has Amazing Characters",
@@ -275,6 +275,10 @@
     {
       "Text": "This game has Amazing Storytelling",
       "Count": 22
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
     }
   ]
 }

@@ -3,10 +3,10 @@
   "Name": "Neverwinter",
   "Names": [],
   "Rating": 4.28,
-  "NumberOfRatings": 725,
-  "DailyRatings": 8.87,
+  "NumberOfRatings": 726,
+  "DailyRatings": 8.77,
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2022-08-04T13:00:39.9190082+00:00",
+  "LastChanged": "2022-08-04T16:30:18.4651376+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:12.0635618+00:00",
@@ -262,12 +262,17 @@
       "Time": "2022-08-04T13:00:39.9190084+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 725
+    },
+    {
+      "Time": "2022-08-04T16:30:18.4651378+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 726
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 271
+      "Count": 276
     },
     {
       "Text": "This game is Great for Beginners",

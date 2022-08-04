@@ -1,6 +1,6 @@
 # Stranded Deep
-Rating: 4.22 (1 883)  
-Ratings Per Day: 28.91  
+Rating: 4.23 (1 887)  
+Ratings Per Day: 29.14  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,4 +17,4 @@ Ratings Per Day: 28.91
 | 2022-08-01 | 4.23 | 1 800 |
 | 2022-08-02 | 4.23 | 1 838 |
 | 2022-08-03 | 4.22 | 1 868 |
-| 2022-08-04 | 4.22 | 1 883 |
+| 2022-08-04 | 4.23 | 1 887 |

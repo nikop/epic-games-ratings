@@ -1,6 +1,6 @@
 # Immortals Fenyx Rising Standard Edition
-Rating: 4.60 (527)  
-Ratings Per Day: 8.71  
+Rating: 4.60 (528)  
+Ratings Per Day: 8.73  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,4 +17,4 @@ Ratings Per Day: 8.71
 | 2022-08-01 | 4.59 | 510 |
 | 2022-08-02 | 4.59 | 516 |
 | 2022-08-03 | 4.59 | 522 |
-| 2022-08-04 | 4.60 | 527 |
+| 2022-08-04 | 4.60 | 528 |
