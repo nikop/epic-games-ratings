@@ -2,11 +2,11 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "Names": [],
-  "Rating": 4.89,
-  "NumberOfRatings": 20787,
-  "DailyRatings": 238.7,
+  "Rating": 4.88,
+  "NumberOfRatings": 20797,
+  "DailyRatings": 238,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2022-08-04T08:00:59.5865221+00:00",
+  "LastChanged": "2022-08-04T09:30:56.6150487+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:11.7040588+00:00",
@@ -637,6 +637,11 @@
       "Time": "2022-08-04T08:00:59.5865222+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 20787
+    },
+    {
+      "Time": "2022-08-04T09:30:56.6150489+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 20797
     }
   ],
   "Tags": [
@@ -658,7 +663,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1973
+      "Count": 1998
     },
     {
       "Text": "This game is Great for Beginners",
