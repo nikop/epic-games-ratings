@@ -3,10 +3,10 @@
   "Name": "Just Die Already",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 1595,
-  "DailyRatings": 17.14,
+  "NumberOfRatings": 1600,
+  "DailyRatings": 17.51,
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2022-08-04T09:01:31.9783905+00:00",
+  "LastChanged": "2022-08-04T12:31:00.5606322+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.6792772+00:00",
@@ -297,6 +297,11 @@
       "Time": "2022-08-04T09:01:31.9783905+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 1595
+    },
+    {
+      "Time": "2022-08-04T12:31:00.5606323+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 1600
     }
   ],
   "Tags": [
@@ -322,7 +327,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
