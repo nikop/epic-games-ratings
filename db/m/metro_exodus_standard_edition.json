@@ -3,10 +3,10 @@
   "Name": "Metro Exodus Standard Edition",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 4640,
-  "DailyRatings": 72.34,
+  "NumberOfRatings": 4648,
+  "DailyRatings": 73.07,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-08-04T14:00:43.6238819+00:00",
+  "LastChanged": "2022-08-04T15:01:31.8476471+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -512,6 +512,11 @@
       "Time": "2022-08-04T14:00:43.6238821+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 4640
+    },
+    {
+      "Time": "2022-08-04T15:01:31.8476473+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 4648
     }
   ],
   "Tags": [

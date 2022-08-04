@@ -2,11 +2,11 @@
   "ID": "viola",
   "Name": "Outward",
   "Names": [],
-  "Rating": 4.53,
-  "NumberOfRatings": 212,
-  "DailyRatings": 2.26,
+  "Rating": 4.54,
+  "NumberOfRatings": 213,
+  "DailyRatings": 1.91,
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2022-08-03T03:30:55.4989853+00:00",
+  "LastChanged": "2022-08-04T15:02:01.044186+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-08-03T03:30:55.4989854+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 212
+    },
+    {
+      "Time": "2022-08-04T15:02:01.0441866+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 213
     }
   ],
   "Tags": []
