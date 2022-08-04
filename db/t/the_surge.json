@@ -2,11 +2,11 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "Names": [],
-  "Rating": 4.46,
-  "NumberOfRatings": 41,
-  "DailyRatings": 0,
+  "Rating": 4.4,
+  "NumberOfRatings": 42,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
-  "LastChanged": "2022-08-03T20:00:20.2538491+00:00",
+  "LastChanged": "2022-08-04T20:00:22.6752958+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.6192131+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-08-03T20:00:20.2538493+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-08-04T20:00:22.6752961+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 42
     }
   ],
   "Tags": []

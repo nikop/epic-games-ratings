@@ -3,10 +3,10 @@
   "Name": "Tropico 5",
   "Names": [],
   "Rating": 4.43,
-  "NumberOfRatings": 1154,
-  "DailyRatings": 18.88,
+  "NumberOfRatings": 1156,
+  "DailyRatings": 19.11,
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2022-08-04T19:31:01.648864+00:00",
+  "LastChanged": "2022-08-04T20:00:31.5560134+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:35.4138307+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-08-04T19:31:01.6488642+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 1154
+    },
+    {
+      "Time": "2022-08-04T20:00:31.5560136+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 1156
     }
   ],
   "Tags": [
@@ -340,7 +345,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 25
     }
   ]
 }
