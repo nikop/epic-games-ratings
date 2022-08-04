@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS III \u002B Re Mind",
   "Names": [],
   "Rating": 4.78,
-  "NumberOfRatings": 1214,
-  "DailyRatings": 23.85,
+  "NumberOfRatings": 1215,
+  "DailyRatings": 23.78,
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2022-08-04T14:01:06.1907076+00:00",
+  "LastChanged": "2022-08-04T15:31:47.341061+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-08-04T14:01:06.1907077+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 1214
+    },
+    {
+      "Time": "2022-08-04T15:31:47.3410612+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 1215
     }
   ],
   "Tags": [

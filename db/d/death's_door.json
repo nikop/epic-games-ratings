@@ -3,10 +3,10 @@
   "Name": "Death\u0027s Door",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 81,
-  "DailyRatings": 1.77,
+  "NumberOfRatings": 82,
+  "DailyRatings": 1.01,
   "FirstSeen": "2022-07-22T20:26:20.4430327+00:00",
-  "LastChanged": "2022-08-01T02:31:27.2635842+00:00",
+  "LastChanged": "2022-08-04T15:32:26.0181026+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:20.4430329+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-01T02:31:27.2635843+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 81
+    },
+    {
+      "Time": "2022-08-04T15:32:26.0181028+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 82
     }
   ],
   "Tags": []
