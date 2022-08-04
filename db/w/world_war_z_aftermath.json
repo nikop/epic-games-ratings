@@ -3,10 +3,10 @@
   "Name": "World War Z Aftermath",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 11191,
-  "DailyRatings": 157.53,
+  "NumberOfRatings": 11197,
+  "DailyRatings": 156.98,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-08-04T05:00:18.5309366+00:00",
+  "LastChanged": "2022-08-04T06:30:17.7108863+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -647,12 +647,17 @@
       "Time": "2022-08-04T05:00:18.5309368+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 11191
+    },
+    {
+      "Time": "2022-08-04T06:30:17.7108866+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 11197
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 754
+      "Count": 777
     },
     {
       "Text": "This game is Relaxing",
