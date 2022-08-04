@@ -1,6 +1,6 @@
 # Encased
 Rating: 4.35 (37)  
-Ratings Per Day: 0.61  
+Ratings Per Day: 0.85  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
