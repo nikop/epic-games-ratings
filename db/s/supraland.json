@@ -3,10 +3,10 @@
   "Name": "Supraland",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 22928,
-  "DailyRatings": 80.77,
+  "NumberOfRatings": 22941,
+  "DailyRatings": 80.9,
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2022-08-04T19:01:12.2766062+00:00",
+  "LastChanged": "2022-08-04T22:00:37.3185199+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -502,6 +502,11 @@
       "Time": "2022-08-04T19:01:12.2766063+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 22928
+    },
+    {
+      "Time": "2022-08-04T22:00:37.3185201+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 22941
     }
   ],
   "Tags": [
@@ -535,7 +540,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 153
+      "Count": 155
     },
     {
       "Text": "This game has Quickly Understood Controls",
