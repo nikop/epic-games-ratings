@@ -2,8 +2,18 @@
   "ID": "27d0a607d01545038e7c3ba1b9ad8c80",
   "Name": "Patron",
   "Names": [],
+  "Rating": 3.85,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:15.1770761+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-08-04T14:01:33.7640592+00:00",
+  "LastChanged": "2022-08-04T14:01:33.7640597+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-08-04T14:01:33.7640598+00:00",
+      "Rating": 3.85,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

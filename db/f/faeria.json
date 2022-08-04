@@ -2,11 +2,11 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "Names": [],
-  "Rating": 4.48,
-  "NumberOfRatings": 129,
-  "DailyRatings": 1.91,
+  "Rating": 4.49,
+  "NumberOfRatings": 132,
+  "DailyRatings": 2.04,
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2022-08-03T11:30:26.7366867+00:00",
+  "LastChanged": "2022-08-04T14:00:38.7800548+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.9455285+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-08-03T11:30:26.7366871+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 129
+    },
+    {
+      "Time": "2022-08-04T14:00:38.7800552+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 132
     }
   ],
   "Tags": [

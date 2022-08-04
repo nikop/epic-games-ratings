@@ -1,6 +1,6 @@
 # Heavy Rain
-Rating: 4.56 (162)  
-Ratings Per Day: 2.56  
+Rating: 4.56 (165)  
+Ratings Per Day: 2.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 2.56
 | 2022-08-01 | 4.54 | 155 |
 | 2022-08-02 | 4.55 | 159 |
 | 2022-08-03 | 4.56 | 162 |
+| 2022-08-04 | 4.56 | 165 |
