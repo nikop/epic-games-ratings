@@ -3,10 +3,10 @@
   "Name": "HUMANKIND\u2122 Digital Deluxe Edition",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 378,
-  "DailyRatings": 7.14,
+  "NumberOfRatings": 379,
+  "DailyRatings": 6.9,
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2022-08-03T20:00:28.7646962+00:00",
+  "LastChanged": "2022-08-04T04:30:42.7154181+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:22.8287393+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-08-03T20:00:28.7646963+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 378
+    },
+    {
+      "Time": "2022-08-04T04:30:42.7154183+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 379
     }
   ],
   "Tags": [

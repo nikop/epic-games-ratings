@@ -2,11 +2,11 @@
   "ID": "fe5a2e3e842a4394938a81f3308df2ed",
   "Name": "Solar Ash",
   "Names": [],
-  "Rating": 4.68,
-  "NumberOfRatings": 75,
-  "DailyRatings": 0.66,
+  "Rating": 4.69,
+  "NumberOfRatings": 78,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:26:55.4392125+00:00",
-  "LastChanged": "2022-08-02T04:31:50.9581255+00:00",
+  "LastChanged": "2022-08-04T04:31:46.045375+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:55.4392128+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-08-02T04:31:50.9581257+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 75
+    },
+    {
+      "Time": "2022-08-04T04:31:46.0453752+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 78
     }
   ],
   "Tags": []
