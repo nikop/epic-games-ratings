@@ -1,6 +1,6 @@
 # Elite Dangerous
 Rating: 4.62 (4 283)  
-Ratings Per Day: 53.16  
+Ratings Per Day: 54.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
