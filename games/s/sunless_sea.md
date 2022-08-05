@@ -1,6 +1,6 @@
 # Sunless Sea
-Rating: 4.61 (214)  
-Ratings Per Day: 2.82  
+Rating: 4.62 (217)  
+Ratings Per Day: 3.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,4 +17,4 @@ Ratings Per Day: 2.82
 | 2022-08-02 | 4.62 | 208 |
 | 2022-08-03 | 4.61 | 212 |
 | 2022-08-04 | 4.61 | 213 |
-| 2022-08-05 | 4.61 | 214 |
+| 2022-08-05 | 4.62 | 217 |
