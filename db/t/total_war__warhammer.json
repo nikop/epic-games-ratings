@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.59,
   "NumberOfRatings": 5422,
-  "DailyRatings": 67,
+  "DailyRatings": 66.48,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
   "LastChanged": "2022-08-05T15:30:41.665685+00:00",
   "RatingHistory": [
@@ -645,7 +645,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 220
+      "Count": 232
     },
     {
       "Text": "This game has Competitive Players",
@@ -653,7 +653,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 210
+      "Count": 218
     },
     {
       "Text": "This game has Unique Visuals",
