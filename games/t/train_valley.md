@@ -1,5 +1,5 @@
 # Train Valley
-Rating: 4.38 (24)  
+Rating: 4.42 (26)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -7,3 +7,4 @@ Ratings Per Day: 0.00
 | 2022-07-24 | 4.25 | 20 |
 | 2022-07-25 | 4.29 | 21 |
 | 2022-07-29 | 4.38 | 24 |
+| 2022-08-05 | 4.42 | 26 |

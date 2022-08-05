@@ -1,6 +1,6 @@
 # Universe Sandbox
-Rating: 4.53 (47)  
-Ratings Per Day: 1.18  
+Rating: 4.52 (48)  
+Ratings Per Day: 1.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 1.18
 | 2022-08-01 | 4.53 | 45 |
 | 2022-08-02 | 4.54 | 46 |
 | 2022-08-04 | 4.53 | 47 |
+| 2022-08-05 | 4.52 | 48 |

@@ -3,10 +3,10 @@
   "Name": "My Time At Portia",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 2650,
-  "DailyRatings": 29.71,
+  "NumberOfRatings": 2657,
+  "DailyRatings": 30.45,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-08-05T19:31:02.6372695+00:00",
+  "LastChanged": "2022-08-05T21:01:09.7921782+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -467,6 +467,11 @@
       "Time": "2022-08-05T19:31:02.6372697+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 2650
+    },
+    {
+      "Time": "2022-08-05T21:01:09.7921784+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 2657
     }
   ],
   "Tags": [
@@ -480,7 +485,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game has Easy Combat",
