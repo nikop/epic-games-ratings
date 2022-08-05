@@ -3,10 +3,10 @@
   "Name": "Just Cause 4 Reloaded",
   "Names": [],
   "Rating": 4.29,
-  "NumberOfRatings": 3332,
-  "DailyRatings": 51.24,
+  "NumberOfRatings": 3340,
+  "DailyRatings": 51.01,
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2022-08-05T04:30:28.0462898+00:00",
+  "LastChanged": "2022-08-05T09:00:30.6225904+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.4925825+00:00",
@@ -552,6 +552,11 @@
       "Time": "2022-08-05T04:30:28.0462957+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 3332
+    },
+    {
+      "Time": "2022-08-05T09:00:30.6225906+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 3340
     }
   ],
   "Tags": [
