@@ -1,6 +1,6 @@
 # Hyper Light Drifter
-Rating: 4.73 (209)  
-Ratings Per Day: 3.24  
+Rating: 4.73 (212)  
+Ratings Per Day: 3.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 3.24
 | 2022-08-02 | 4.72 | 202 |
 | 2022-08-03 | 4.72 | 204 |
 | 2022-08-04 | 4.73 | 209 |
+| 2022-08-05 | 4.73 | 212 |

@@ -3,10 +3,10 @@
   "Name": "Among Us",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 17874,
-  "DailyRatings": 189.64,
+  "NumberOfRatings": 17909,
+  "DailyRatings": 187.28,
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2022-08-05T05:30:44.5185844+00:00",
+  "LastChanged": "2022-08-05T11:30:52.3583808+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:02.6618056+00:00",
@@ -647,6 +647,11 @@
       "Time": "2022-08-05T05:30:44.5185846+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 17874
+    },
+    {
+      "Time": "2022-08-05T11:30:52.3583809+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 17909
     }
   ],
   "Tags": [
@@ -680,7 +685,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 558
+      "Count": 569
     },
     {
       "Text": "This game has Competitive Players",

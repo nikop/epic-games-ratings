@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS III \u002B Re Mind",
   "Names": [],
   "Rating": 4.78,
-  "NumberOfRatings": 1227,
-  "DailyRatings": 22.64,
+  "NumberOfRatings": 1231,
+  "DailyRatings": 22.46,
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2022-08-05T06:00:58.723911+00:00",
+  "LastChanged": "2022-08-05T11:30:56.0508564+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
@@ -312,6 +312,11 @@
       "Time": "2022-08-05T06:00:58.7239111+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 1227
+    },
+    {
+      "Time": "2022-08-05T11:30:56.0508566+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 1231
     }
   ],
   "Tags": [
@@ -321,7 +326,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 200
+      "Count": 204
     },
     {
       "Text": "This game is Extremely Fun",
