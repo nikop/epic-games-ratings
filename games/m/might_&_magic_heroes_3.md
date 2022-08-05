@@ -1,6 +1,6 @@
 # Might & Magic Heroes 3
 Rating: 4.76 (95)  
-Ratings Per Day: 2.20  
+Ratings Per Day: 1.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
