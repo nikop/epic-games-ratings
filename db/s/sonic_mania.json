@@ -3,10 +3,10 @@
   "Name": "Sonic Mania",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 1677,
+  "NumberOfRatings": 1679,
   "DailyRatings": 16.1,
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2022-08-05T11:31:16.5455056+00:00",
+  "LastChanged": "2022-08-05T14:31:11.9484968+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -262,6 +262,11 @@
       "Time": "2022-08-05T11:31:16.5455057+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 1677
+    },
+    {
+      "Time": "2022-08-05T14:31:11.948497+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 1679
     }
   ],
   "Tags": [
