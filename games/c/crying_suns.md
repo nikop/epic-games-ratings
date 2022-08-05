@@ -1,6 +1,6 @@
 # Crying Suns
 Rating: 4.48 (600)  
-Ratings Per Day: 8.66  
+Ratings Per Day: 8.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
