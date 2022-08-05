@@ -3,10 +3,10 @@
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
   "Names": [],
   "Rating": 4.84,
-  "NumberOfRatings": 2023,
-  "DailyRatings": 26.16,
+  "NumberOfRatings": 2024,
+  "DailyRatings": 25.15,
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2022-08-05T18:02:08.2129733+00:00",
+  "LastChanged": "2022-08-05T19:31:38.3972162+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -497,6 +497,11 @@
       "Time": "2022-08-05T18:02:08.2129737+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 2023
+    },
+    {
+      "Time": "2022-08-05T19:31:38.3972163+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 2024
     }
   ],
   "Tags": [
@@ -538,7 +543,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Obsessive Gameplay",
