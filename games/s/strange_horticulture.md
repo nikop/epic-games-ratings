@@ -1,6 +1,6 @@
 # Strange Horticulture
 Rating: 4.65 (26)  
-Ratings Per Day: 0.45  
+Ratings Per Day: 0.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

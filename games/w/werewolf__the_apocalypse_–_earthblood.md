@@ -1,6 +1,6 @@
 # Werewolf: The Apocalypse – Earthblood
 Rating: 4.18 (45)  
-Ratings Per Day: 0.57  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
