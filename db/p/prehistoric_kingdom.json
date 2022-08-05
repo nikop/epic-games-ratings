@@ -2,11 +2,11 @@
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
   "Names": [],
-  "Rating": 4.21,
-  "NumberOfRatings": 24,
+  "Rating": 4.24,
+  "NumberOfRatings": 25,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
-  "LastChanged": "2022-07-28T20:31:58.8693383+00:00",
+  "LastChanged": "2022-08-05T20:33:48.7420782+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:08.8557627+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-28T20:31:58.8693385+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-08-05T20:33:48.7420783+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []

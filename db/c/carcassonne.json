@@ -2,11 +2,11 @@
   "ID": "0aaf0617ee0d47df87c0dc93509159dd",
   "Name": "Carcassonne",
   "Names": [],
-  "Rating": 4.74,
-  "NumberOfRatings": 178,
-  "DailyRatings": 3.02,
+  "Rating": 4.73,
+  "NumberOfRatings": 180,
+  "DailyRatings": 3.2,
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2022-08-05T14:30:27.0654345+00:00",
+  "LastChanged": "2022-08-05T20:32:19.8026993+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.0160662+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-08-05T14:30:27.0654348+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 178
+    },
+    {
+      "Time": "2022-08-05T20:32:19.8026995+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 180
     }
   ],
   "Tags": [
@@ -130,6 +135,10 @@
     },
     {
       "Text": "This game is Relaxing",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
       "Count": 20
     }
   ]

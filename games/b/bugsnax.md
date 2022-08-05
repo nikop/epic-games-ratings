@@ -1,5 +1,5 @@
 # Bugsnax
-Rating: 4.82 (281)  
+Rating: 4.82 (282)  
 Ratings Per Day: 4.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -17,4 +17,4 @@ Ratings Per Day: 4.10
 | 2022-08-02 | 4.81 | 273 |
 | 2022-08-03 | 4.81 | 275 |
 | 2022-08-04 | 4.82 | 279 |
-| 2022-08-05 | 4.82 | 281 |
+| 2022-08-05 | 4.82 | 282 |
