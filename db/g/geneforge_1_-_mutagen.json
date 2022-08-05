@@ -3,10 +3,10 @@
   "Name": "Geneforge 1 - Mutagen",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 946,
-  "DailyRatings": 5.59,
+  "NumberOfRatings": 949,
+  "DailyRatings": 5.29,
   "FirstSeen": "2022-07-22T20:31:43.0453732+00:00",
-  "LastChanged": "2022-08-04T22:02:00.9265497+00:00",
+  "LastChanged": "2022-08-05T20:02:11.5659695+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:43.0453736+00:00",
@@ -212,7 +212,17 @@
       "Time": "2022-08-04T22:02:00.9265498+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 946
+    },
+    {
+      "Time": "2022-08-05T20:02:11.5659696+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 949
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 20
+    }
+  ]
 }

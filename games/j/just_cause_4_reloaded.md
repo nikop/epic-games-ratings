@@ -1,6 +1,6 @@
 # Just Cause 4 Reloaded
-Rating: 4.29 (3 350)  
-Ratings Per Day: 48.30  
+Rating: 4.29 (3 363)  
+Ratings Per Day: 48.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,4 +18,4 @@ Ratings Per Day: 48.30
 | 2022-08-02 | 4.30 | 3 236 |
 | 2022-08-03 | 4.29 | 3 269 |
 | 2022-08-04 | 4.29 | 3 321 |
-| 2022-08-05 | 4.29 | 3 350 |
+| 2022-08-05 | 4.29 | 3 363 |

@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.72,
   "NumberOfRatings": 5943,
-  "DailyRatings": 54.73,
+  "DailyRatings": 54.65,
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "LastChanged": "2022-08-05T19:00:49.6281141+00:00",
   "RatingHistory": [
@@ -611,7 +611,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1457
+      "Count": 1481
     },
     {
       "Text": "This game has Diverse Characters",
@@ -643,7 +643,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1141
+      "Count": 1160
     }
   ]
 }
