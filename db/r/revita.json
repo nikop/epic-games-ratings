@@ -2,17 +2,22 @@
   "ID": "d06d0271a51d400c870f668d7e80e980",
   "Name": "Revita",
   "Names": [],
-  "Rating": 4.75,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.76,
+  "NumberOfRatings": 21,
+  "DailyRatings": 0.17,
   "FirstSeen": "2022-07-22T20:23:32.7569046+00:00",
   "FirstSeenRating": "2022-07-30T11:31:49.5619799+00:00",
-  "LastChanged": "2022-07-30T11:31:49.56198+00:00",
+  "LastChanged": "2022-08-05T05:01:09.2460285+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-30T11:31:49.5619802+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-08-05T05:01:09.246029+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []
