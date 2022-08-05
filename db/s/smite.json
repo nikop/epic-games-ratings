@@ -3,10 +3,10 @@
   "Name": "SMITE",
   "Names": [],
   "Rating": 4.47,
-  "NumberOfRatings": 5070,
-  "DailyRatings": 36.64,
+  "NumberOfRatings": 5076,
+  "DailyRatings": 35.86,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-08-05T08:30:30.2012625+00:00",
+  "LastChanged": "2022-08-05T16:30:29.2365098+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -587,12 +587,17 @@
       "Time": "2022-08-05T08:30:30.2012627+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 5070
+    },
+    {
+      "Time": "2022-08-05T16:30:29.23651+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 5076
     }
   ],
   "Tags": [
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 952
+      "Count": 968
     },
     {
       "Text": "This game has Diverse Characters",

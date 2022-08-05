@@ -1,6 +1,6 @@
 # The Lion's Song
 Rating: 4.43 (40)  
-Ratings Per Day: 1.13  
+Ratings Per Day: 0.77  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
