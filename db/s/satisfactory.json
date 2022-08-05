@@ -3,10 +3,10 @@
   "Name": "Satisfactory",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 21173,
-  "DailyRatings": 229.4,
+  "NumberOfRatings": 21198,
+  "DailyRatings": 232.29,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2022-08-05T21:31:04.0135418+00:00",
+  "LastChanged": "2022-08-05T22:00:59.9171998+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:11.7040588+00:00",
@@ -727,6 +727,11 @@
       "Time": "2022-08-05T21:31:04.0135419+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 21173
+    },
+    {
+      "Time": "2022-08-05T22:00:59.9171999+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 21198
     }
   ],
   "Tags": [
@@ -740,7 +745,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 2092
+      "Count": 2138
     },
     {
       "Text": "This game is Highly Recommended",
