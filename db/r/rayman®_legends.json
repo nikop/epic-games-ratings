@@ -2,11 +2,11 @@
   "ID": "fc8d1547232045f6a23257cfd04ef3e8",
   "Name": "RAYMAN\u00AE LEGENDS",
   "Names": [],
-  "Rating": 4.69,
-  "NumberOfRatings": 219,
-  "DailyRatings": 2.96,
+  "Rating": 4.7,
+  "NumberOfRatings": 222,
+  "DailyRatings": 3.33,
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2022-08-05T18:02:39.0615508+00:00",
+  "LastChanged": "2022-08-05T22:32:34.5086462+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:21.8622947+00:00",
@@ -97,12 +97,17 @@
       "Time": "2022-08-05T18:02:39.061551+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 219
+    },
+    {
+      "Time": "2022-08-05T22:32:34.5086464+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 222
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 50
+      "Count": 53
     }
   ]
 }

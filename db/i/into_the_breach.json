@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.85,
   "NumberOfRatings": 2472,
-  "DailyRatings": 64.33,
+  "DailyRatings": 63.9,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
   "LastChanged": "2022-08-05T21:31:38.7897985+00:00",
   "RatingHistory": [
@@ -685,7 +685,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 42
+      "Count": 45
     }
   ]
 }
