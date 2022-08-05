@@ -1,6 +1,6 @@
 # Fall Guys
-Rating: 4.53 (858 994)  
-Ratings Per Day: 7268.62  
+Rating: 4.53 (861 129)  
+Ratings Per Day: 7184.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 7268.62
 | 2022-08-02 | 4.53 | 846 753 |
 | 2022-08-03 | 4.53 | 852 768 |
 | 2022-08-04 | 4.53 | 858 994 |
+| 2022-08-05 | 4.53 | 861 129 |
