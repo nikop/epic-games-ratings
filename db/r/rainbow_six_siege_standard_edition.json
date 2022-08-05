@@ -2,11 +2,11 @@
   "ID": "carnation",
   "Name": "Rainbow Six Siege Standard Edition",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 5903,
-  "DailyRatings": 62.54,
+  "Rating": 4.59,
+  "NumberOfRatings": 5909,
+  "DailyRatings": 62.66,
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2022-08-05T10:31:43.0716956+00:00",
+  "LastChanged": "2022-08-05T12:30:40.9587052+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -612,6 +612,11 @@
       "Time": "2022-08-05T10:31:43.0716958+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 5903
+    },
+    {
+      "Time": "2022-08-05T12:30:40.9587053+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 5909
     }
   ],
   "Tags": [
@@ -637,7 +642,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 352
+      "Count": 362
     },
     {
       "Text": "This game is Extremely Fun",
