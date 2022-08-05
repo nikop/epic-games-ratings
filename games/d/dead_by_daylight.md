@@ -1,6 +1,6 @@
 # Dead by Daylight
 Rating: 4.53 (51 651)  
-Ratings Per Day: 403.40  
+Ratings Per Day: 403.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
