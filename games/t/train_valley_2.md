@@ -1,6 +1,6 @@
 # Train Valley 2
-Rating: 3.96 (67)  
-Ratings Per Day: 0.79  
+Rating: 3.93 (69)  
+Ratings Per Day: 0.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.79
 | 2022-07-28 | 3.97 | 65 |
 | 2022-07-30 | 3.95 | 66 |
 | 2022-07-31 | 3.96 | 67 |
+| 2022-08-05 | 3.93 | 69 |

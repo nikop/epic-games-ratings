@@ -3,10 +3,10 @@
   "Name": "Dead Cells",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 898,
-  "DailyRatings": 11.1,
+  "NumberOfRatings": 899,
+  "DailyRatings": 11.08,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2022-08-05T19:00:49.8791224+00:00",
+  "LastChanged": "2022-08-05T21:30:28.3280781+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -297,6 +297,11 @@
       "Time": "2022-08-05T19:00:49.8791226+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 898
+    },
+    {
+      "Time": "2022-08-05T21:30:28.3280783+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 899
     }
   ],
   "Tags": [
