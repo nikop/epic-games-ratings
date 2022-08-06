@@ -1,6 +1,6 @@
 # theHunter: Call of the Wild™
 Rating: 4.61 (9 405)  
-Ratings Per Day: 117.86  
+Ratings Per Day: 118.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
