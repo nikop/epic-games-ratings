@@ -3,10 +3,10 @@
   "Name": "Cris Tales",
   "Names": [],
   "Rating": 4.36,
-  "NumberOfRatings": 487,
-  "DailyRatings": 3.79,
+  "NumberOfRatings": 490,
+  "DailyRatings": 3.95,
   "FirstSeen": "2022-07-22T20:17:17.9085392+00:00",
-  "LastChanged": "2022-08-05T13:30:20.8255672+00:00",
+  "LastChanged": "2022-08-06T01:30:17.6563928+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:17.9085397+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-08-05T13:30:20.8255674+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 487
+    },
+    {
+      "Time": "2022-08-06T01:30:17.656393+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 490
     }
   ],
   "Tags": [

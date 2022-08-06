@@ -3,10 +3,10 @@
   "Name": "Core",
   "Names": [],
   "Rating": 4.39,
-  "NumberOfRatings": 1025,
-  "DailyRatings": 13.63,
+  "NumberOfRatings": 1029,
+  "DailyRatings": 13.67,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-08-05T19:01:42.0276163+00:00",
+  "LastChanged": "2022-08-06T01:31:09.8633158+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -342,6 +342,11 @@
       "Time": "2022-08-05T19:01:42.0276165+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 1025
+    },
+    {
+      "Time": "2022-08-06T01:31:09.863316+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 1029
     }
   ],
   "Tags": [
@@ -375,7 +380,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 25
+      "Count": 28
     },
     {
       "Text": "This game is Great for Quick Sessions",
