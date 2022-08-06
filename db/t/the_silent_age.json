@@ -2,17 +2,22 @@
   "ID": "46d340566781448ebdc2cb576f91d3b6",
   "Name": "The Silent Age",
   "Names": [],
-  "Rating": 4.7,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.67,
+  "NumberOfRatings": 21,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:29:31.9753367+00:00",
   "FirstSeenRating": "2022-08-05T17:31:55.1060737+00:00",
-  "LastChanged": "2022-08-05T17:31:55.1060738+00:00",
+  "LastChanged": "2022-08-06T17:31:56.5058834+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T17:31:55.106074+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-08-06T17:31:56.5058835+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []

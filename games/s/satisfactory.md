@@ -1,6 +1,6 @@
 # Satisfactory
 Rating: 4.88 (21 360)  
-Ratings Per Day: 227.64  
+Ratings Per Day: 226.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
