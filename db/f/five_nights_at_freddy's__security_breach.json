@@ -3,10 +3,10 @@
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 99,
-  "DailyRatings": 1.81,
+  "NumberOfRatings": 100,
+  "DailyRatings": 1.43,
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2022-08-04T20:00:36.1270065+00:00",
+  "LastChanged": "2022-08-06T20:00:34.1191142+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:10.1176225+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-04T20:00:36.1270066+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 99
+    },
+    {
+      "Time": "2022-08-06T20:00:34.1191143+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 100
     }
   ],
   "Tags": []
