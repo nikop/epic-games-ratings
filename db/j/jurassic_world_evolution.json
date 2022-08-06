@@ -3,10 +3,10 @@
   "Name": "Jurassic World Evolution",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 6688,
-  "DailyRatings": 77.32,
+  "NumberOfRatings": 6690,
+  "DailyRatings": 76.88,
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2022-08-06T22:00:30.491264+00:00",
+  "LastChanged": "2022-08-06T23:30:49.0024036+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.0085436+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-08-06T22:00:30.4912642+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 6688
+    },
+    {
+      "Time": "2022-08-06T23:30:49.0024037+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 6690
     }
   ],
   "Tags": [
@@ -678,7 +683,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 199
+      "Count": 204
     },
     {
       "Text": "This game has Diverse Characters",
