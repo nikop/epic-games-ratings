@@ -2,11 +2,11 @@
   "ID": "ae248f67a46f47a6bcf8a45b2b4fdd10",
   "Name": "Warhammer 40000: Battlesector",
   "Names": [],
-  "Rating": 4.61,
-  "NumberOfRatings": 28,
-  "DailyRatings": 0,
+  "Rating": 4.63,
+  "NumberOfRatings": 30,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:22:10.2455747+00:00",
-  "LastChanged": "2022-07-31T05:00:59.0679601+00:00",
+  "LastChanged": "2022-08-06T06:00:54.8909504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.245575+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-07-31T05:00:59.0679603+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-08-06T06:00:54.8909505+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []
