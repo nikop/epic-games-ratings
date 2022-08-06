@@ -3,10 +3,10 @@
   "Name": "The Dungeon of Naheulbeuk",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 77,
-  "DailyRatings": 0.47,
+  "NumberOfRatings": 79,
+  "DailyRatings": 0.76,
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
-  "LastChanged": "2022-08-05T04:30:25.4519474+00:00",
+  "LastChanged": "2022-08-06T04:30:27.1604832+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:10.3058595+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-05T04:30:25.4519476+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 77
+    },
+    {
+      "Time": "2022-08-06T04:30:27.1604834+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 79
     }
   ],
   "Tags": []
