@@ -1,6 +1,6 @@
 # Tony Hawk's™ Pro Skater™ 1 + 2
-Rating: 4.82 (833)  
-Ratings Per Day: 13.23  
+Rating: 4.82 (834)  
+Ratings Per Day: 12.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,4 +19,4 @@ Ratings Per Day: 13.23
 | 2022-08-03 | 4.82 | 803 |
 | 2022-08-04 | 4.82 | 816 |
 | 2022-08-05 | 4.82 | 821 |
-| 2022-08-06 | 4.82 | 833 |
+| 2022-08-06 | 4.82 | 834 |
