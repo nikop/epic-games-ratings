@@ -3,10 +3,10 @@
   "Name": "Genshin Impact",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 154946,
-  "DailyRatings": 1617.76,
+  "NumberOfRatings": 155020,
+  "DailyRatings": 1628.95,
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2022-08-06T20:01:08.0426609+00:00",
+  "LastChanged": "2022-08-06T20:31:10.106712+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -847,6 +847,11 @@
       "Time": "2022-08-06T20:01:08.0426611+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 154946
+    },
+    {
+      "Time": "2022-08-06T20:31:10.1067121+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 155020
     }
   ],
   "Tags": [
@@ -880,7 +885,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 15226
+      "Count": 15772
     },
     {
       "Text": "This game has Quickly Understood Controls",

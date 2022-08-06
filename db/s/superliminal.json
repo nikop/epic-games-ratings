@@ -2,11 +2,11 @@
   "ID": "6cec00f8934146508b884b0f139d55d0",
   "Name": "Superliminal",
   "Names": [],
-  "Rating": 4.75,
-  "NumberOfRatings": 24,
+  "Rating": 4.76,
+  "NumberOfRatings": 25,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:46.1254178+00:00",
-  "LastChanged": "2022-07-29T09:00:46.2593657+00:00",
+  "LastChanged": "2022-08-06T20:30:24.2964664+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:46.1254181+00:00",
@@ -32,6 +32,11 @@
       "Time": "2022-07-29T09:00:46.259366+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-08-06T20:30:24.2964666+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []
