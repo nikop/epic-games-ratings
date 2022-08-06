@@ -3,10 +3,10 @@
   "Name": "Supraland Six Inches Under",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 146,
-  "DailyRatings": 2.06,
+  "NumberOfRatings": 148,
+  "DailyRatings": 2.05,
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
-  "LastChanged": "2022-08-05T21:31:04.06311+00:00",
+  "LastChanged": "2022-08-06T22:01:00.0534641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:12.2531946+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-05T21:31:04.0631103+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 146
+    },
+    {
+      "Time": "2022-08-06T22:01:00.0534642+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 148
     }
   ],
   "Tags": [
