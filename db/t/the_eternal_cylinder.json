@@ -3,10 +3,10 @@
   "Name": "The Eternal Cylinder",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 92,
-  "DailyRatings": 2.84,
+  "NumberOfRatings": 93,
+  "DailyRatings": 1.71,
   "FirstSeen": "2022-07-22T20:17:08.6088333+00:00",
-  "LastChanged": "2022-08-04T01:30:17.2414764+00:00",
+  "LastChanged": "2022-08-06T12:30:17.0612278+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.6088335+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-08-04T01:30:17.2414766+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 92
+    },
+    {
+      "Time": "2022-08-06T12:30:17.0612281+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 93
     }
   ],
   "Tags": []
