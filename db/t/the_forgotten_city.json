@@ -2,11 +2,11 @@
   "ID": "fd990d1478724f3faa938e519c2835a5",
   "Name": "The Forgotten City",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 27,
-  "DailyRatings": 0.5,
+  "Rating": 4.62,
+  "NumberOfRatings": 29,
+  "DailyRatings": 0.75,
   "FirstSeen": "2022-07-22T20:18:49.2138104+00:00",
-  "LastChanged": "2022-08-04T16:00:39.0278581+00:00",
+  "LastChanged": "2022-08-06T16:00:31.4693918+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.2138107+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-08-04T16:00:39.0278586+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-08-06T16:00:31.469392+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 29
     }
   ],
   "Tags": []

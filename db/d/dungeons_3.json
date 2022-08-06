@@ -3,10 +3,10 @@
   "Name": "Dungeons 3",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 926,
-  "DailyRatings": 11.48,
+  "NumberOfRatings": 927,
+  "DailyRatings": 11.53,
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
-  "LastChanged": "2022-08-06T14:30:14.3549192+00:00",
+  "LastChanged": "2022-08-06T16:00:15.2894306+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:48.6100156+00:00",
@@ -317,6 +317,11 @@
       "Time": "2022-08-06T14:30:14.3549194+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 926
+    },
+    {
+      "Time": "2022-08-06T16:00:15.2894308+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 927
     }
   ],
   "Tags": [
@@ -358,7 +363,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 50
+      "Count": 53
     },
     {
       "Text": "This game has a Silly Community",
