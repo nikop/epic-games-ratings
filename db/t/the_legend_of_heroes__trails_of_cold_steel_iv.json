@@ -2,8 +2,18 @@
   "ID": "08142466e4104a018e149441d35dbabc",
   "Name": "The Legend of Heroes: Trails of Cold Steel IV",
   "Names": [],
+  "Rating": 5,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:41.6572311+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-08-06T05:30:42.8443438+00:00",
+  "LastChanged": "2022-08-06T05:30:42.8444155+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-08-06T05:30:42.8444158+00:00",
+      "Rating": 5,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }
