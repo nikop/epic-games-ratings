@@ -1,6 +1,6 @@
 # The Tenants
-Rating: 4.53 (47)  
-Ratings Per Day: 2.55  
+Rating: 4.52 (48)  
+Ratings Per Day: 1.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 2.55
 | 2022-08-01 | 4.66 | 38 |
 | 2022-08-02 | 4.58 | 43 |
 | 2022-08-04 | 4.53 | 47 |
+| 2022-08-06 | 4.52 | 48 |

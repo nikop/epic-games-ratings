@@ -2,11 +2,11 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "Names": [],
-  "Rating": 4.64,
-  "NumberOfRatings": 1165,
-  "DailyRatings": 16.1,
+  "Rating": 4.63,
+  "NumberOfRatings": 1177,
+  "DailyRatings": 17.32,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-08-05T19:01:15.9562526+00:00",
+  "LastChanged": "2022-08-06T00:30:44.7716252+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -237,6 +237,11 @@
       "Time": "2022-08-05T19:01:15.9562528+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 1165
+    },
+    {
+      "Time": "2022-08-06T00:30:44.7716254+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 1177
     }
   ],
   "Tags": [
