@@ -1,6 +1,6 @@
 # Shenmue III - Standard Edition
 Rating: 4.12 (107)  
-Ratings Per Day: 0.95  
+Ratings Per Day: 0.88  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

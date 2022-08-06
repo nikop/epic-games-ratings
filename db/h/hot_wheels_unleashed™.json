@@ -3,10 +3,10 @@
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 257,
-  "DailyRatings": 1.54,
+  "NumberOfRatings": 259,
+  "DailyRatings": 1.62,
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
-  "LastChanged": "2022-08-05T17:00:30.7923287+00:00",
+  "LastChanged": "2022-08-06T17:00:27.0393171+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.8982998+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-08-05T17:00:30.792329+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 257
+    },
+    {
+      "Time": "2022-08-06T17:00:27.0393175+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 259
     }
   ],
   "Tags": [
