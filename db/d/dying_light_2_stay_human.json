@@ -3,10 +3,10 @@
   "Name": "Dying Light 2 Stay Human",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 5186,
-  "DailyRatings": 48.59,
+  "NumberOfRatings": 5193,
+  "DailyRatings": 48.73,
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2022-08-06T15:30:32.6289985+00:00",
+  "LastChanged": "2022-08-06T18:30:33.3833787+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -627,6 +627,11 @@
       "Time": "2022-08-06T15:30:32.6289987+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 5186
+    },
+    {
+      "Time": "2022-08-06T18:30:33.3833788+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5193
     }
   ],
   "Tags": [
@@ -644,7 +649,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game is Great for Beginners",
