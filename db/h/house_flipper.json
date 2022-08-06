@@ -2,11 +2,11 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "Names": [],
-  "Rating": 4.74,
-  "NumberOfRatings": 701,
-  "DailyRatings": 6.92,
+  "Rating": 4.73,
+  "NumberOfRatings": 704,
+  "DailyRatings": 7.15,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "LastChanged": "2022-08-06T00:02:05.9827356+00:00",
+  "LastChanged": "2022-08-06T05:01:01.0779268+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -282,6 +282,11 @@
       "Time": "2022-08-06T00:02:05.9827358+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 701
+    },
+    {
+      "Time": "2022-08-06T05:01:01.077927+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 704
     }
   ],
   "Tags": [
@@ -311,7 +316,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 67
+      "Count": 70
     },
     {
       "Text": "This game is Educational",
