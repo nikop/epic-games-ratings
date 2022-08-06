@@ -3,10 +3,10 @@
   "Name": "Hades",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 4266,
-  "DailyRatings": 63.95,
+  "NumberOfRatings": 4281,
+  "DailyRatings": 63.62,
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
-  "LastChanged": "2022-08-06T01:00:53.8868582+00:00",
+  "LastChanged": "2022-08-06T07:30:54.7139954+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.7235161+00:00",
@@ -542,6 +542,11 @@
       "Time": "2022-08-06T01:00:53.8868583+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 4266
+    },
+    {
+      "Time": "2022-08-06T07:30:54.7139955+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 4281
     }
   ],
   "Tags": [

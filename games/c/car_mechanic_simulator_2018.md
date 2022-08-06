@@ -1,6 +1,6 @@
 # Car Mechanic Simulator 2018
-Rating: 4.48 (34 159)  
-Ratings Per Day: 150.90  
+Rating: 4.48 (34 196)  
+Ratings Per Day: 151.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,4 +19,4 @@ Ratings Per Day: 150.90
 | 2022-08-03 | 4.48 | 33 842 |
 | 2022-08-04 | 4.48 | 33 981 |
 | 2022-08-05 | 4.48 | 34 145 |
-| 2022-08-06 | 4.48 | 34 159 |
+| 2022-08-06 | 4.48 | 34 196 |
