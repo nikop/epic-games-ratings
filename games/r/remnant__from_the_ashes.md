@@ -1,6 +1,6 @@
 # Remnant: From the Ashes
-Rating: 4.57 (7 351)  
-Ratings Per Day: 115.72  
+Rating: 4.57 (7 355)  
+Ratings Per Day: 115.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,4 +19,4 @@ Ratings Per Day: 115.72
 | 2022-08-03 | 4.57 | 7 108 |
 | 2022-08-04 | 4.57 | 7 229 |
 | 2022-08-05 | 4.57 | 7 342 |
-| 2022-08-06 | 4.57 | 7 351 |
+| 2022-08-06 | 4.57 | 7 355 |
