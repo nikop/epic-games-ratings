@@ -1,6 +1,6 @@
 # Pillars of Eternity - Definitive Edition
-Rating: 4.64 (1 828)  
-Ratings Per Day: 27.18  
+Rating: 4.64 (1 830)  
+Ratings Per Day: 27.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,4 +19,4 @@ Ratings Per Day: 27.18
 | 2022-08-03 | 4.64 | 1 742 |
 | 2022-08-04 | 4.64 | 1 771 |
 | 2022-08-05 | 4.64 | 1 797 |
-| 2022-08-06 | 4.64 | 1 828 |
+| 2022-08-06 | 4.64 | 1 830 |
