@@ -3,10 +3,10 @@
   "Name": "Figment",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 61,
-  "DailyRatings": 1.33,
+  "NumberOfRatings": 63,
+  "DailyRatings": 0.8,
   "FirstSeen": "2022-07-22T20:26:25.7495486+00:00",
-  "LastChanged": "2022-08-02T01:31:24.6009865+00:00",
+  "LastChanged": "2022-08-06T02:01:25.8399448+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:25.7495489+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-02T01:31:24.6009866+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 61
+    },
+    {
+      "Time": "2022-08-06T02:01:25.839945+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 63
     }
   ],
   "Tags": []
