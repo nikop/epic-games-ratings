@@ -2,11 +2,11 @@
   "ID": "400cc6605aee41de88f976b587a48aa0",
   "Name": "The Talos Principle",
   "Names": [],
-  "Rating": 4.73,
-  "NumberOfRatings": 172,
-  "DailyRatings": 1.35,
+  "Rating": 4.74,
+  "NumberOfRatings": 178,
+  "DailyRatings": 2.02,
   "FirstSeen": "2022-07-22T20:29:14.4566709+00:00",
-  "LastChanged": "2022-08-05T22:32:19.5404648+00:00",
+  "LastChanged": "2022-08-06T22:32:47.3385968+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:14.4566711+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-08-05T22:32:19.540465+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 172
+    },
+    {
+      "Time": "2022-08-06T22:32:47.338597+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 178
     }
   ],
   "Tags": []

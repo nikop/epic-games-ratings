@@ -2,17 +2,22 @@
   "ID": "a63ab7da00fe46ecb7714998234c14a0",
   "Name": "Blazing Beaks",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.43,
+  "NumberOfRatings": 21,
+  "DailyRatings": 0.59,
   "FirstSeen": "2022-07-22T20:24:48.7089035+00:00",
   "FirstSeenRating": "2022-08-05T05:31:11.9314661+00:00",
-  "LastChanged": "2022-08-05T05:31:11.9314662+00:00",
+  "LastChanged": "2022-08-06T22:32:13.8897334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T05:31:11.9314663+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-08-06T22:32:13.8897336+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []
