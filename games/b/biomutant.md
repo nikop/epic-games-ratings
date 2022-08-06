@@ -1,6 +1,6 @@
 # BIOMUTANT
-Rating: 4.42 (149)  
-Ratings Per Day: 1.37  
+Rating: 4.41 (152)  
+Ratings Per Day: 1.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 1.37
 | 2022-08-02 | 4.40 | 146 |
 | 2022-08-03 | 4.41 | 147 |
 | 2022-08-05 | 4.42 | 149 |
+| 2022-08-06 | 4.41 | 152 |
