@@ -1,6 +1,6 @@
 # VALORANT
-Rating: 4.56 (94 277)  
-Ratings Per Day: 1292.94  
+Rating: 4.56 (94 433)  
+Ratings Per Day: 1299.76  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,3 +19,4 @@ Ratings Per Day: 1292.94
 | 2022-08-03 | 4.56 | 91 516 |
 | 2022-08-04 | 4.56 | 92 736 |
 | 2022-08-05 | 4.56 | 94 277 |
+| 2022-08-06 | 4.56 | 94 433 |
