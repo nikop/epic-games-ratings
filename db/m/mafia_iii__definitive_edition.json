@@ -3,10 +3,10 @@
   "Name": "Mafia III: Definitive Edition",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 854,
-  "DailyRatings": 9.6,
+  "NumberOfRatings": 862,
+  "DailyRatings": 10.35,
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2022-08-06T08:32:42.2558838+00:00",
+  "LastChanged": "2022-08-06T15:30:36.5150014+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:34.9657605+00:00",
@@ -202,12 +202,17 @@
       "Time": "2022-08-06T08:32:42.255884+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 854
+    },
+    {
+      "Time": "2022-08-06T15:30:36.5150015+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 862
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Great Boss Battles",

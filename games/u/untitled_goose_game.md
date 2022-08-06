@@ -1,6 +1,6 @@
 # Untitled Goose Game
 Rating: 4.77 (79)  
-Ratings Per Day: 1.46  
+Ratings Per Day: 1.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
