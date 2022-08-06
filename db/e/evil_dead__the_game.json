@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.51,
   "NumberOfRatings": 8237,
-  "DailyRatings": 23.14,
+  "DailyRatings": 22.53,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
   "LastChanged": "2022-08-06T14:30:30.9003529+00:00",
   "RatingHistory": [
@@ -625,11 +625,11 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 792
+      "Count": 810
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 780
+      "Count": 792
     },
     {
       "Text": "This game has Quickly Understood Controls",

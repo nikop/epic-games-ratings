@@ -3,10 +3,10 @@
   "Name": "Chivalry 2",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 15380,
-  "DailyRatings": 89.97,
+  "NumberOfRatings": 15384,
+  "DailyRatings": 90,
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2022-08-06T14:00:42.0250191+00:00",
+  "LastChanged": "2022-08-06T15:00:40.6546592+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.5003133+00:00",
@@ -752,6 +752,11 @@
       "Time": "2022-08-06T14:00:42.0250192+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 15380
+    },
+    {
+      "Time": "2022-08-06T15:00:40.6546593+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 15384
     }
   ],
   "Tags": [
@@ -761,7 +766,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 1176
+      "Count": 1206
     },
     {
       "Text": "This game is Extremely Fun",
@@ -777,7 +782,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1113
+      "Count": 1136
     },
     {
       "Text": "This game is Highly Recommended",
