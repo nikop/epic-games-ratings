@@ -3,10 +3,10 @@
   "Name": "Arcadegeddon",
   "Names": [],
   "Rating": 4.48,
-  "NumberOfRatings": 665,
-  "DailyRatings": 6,
+  "NumberOfRatings": 672,
+  "DailyRatings": 6.47,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-08-05T15:30:47.3184295+00:00",
+  "LastChanged": "2022-08-06T06:30:41.3574132+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -247,12 +247,17 @@
       "Time": "2022-08-05T15:30:47.3184298+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 665
+    },
+    {
+      "Time": "2022-08-06T06:30:41.3574133+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 672
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
