@@ -2,11 +2,11 @@
   "ID": "d0545b136bb042fb9014e72b6af748f6",
   "Name": "Ghostbusters: The Video Game Remastered",
   "Names": [],
-  "Rating": 4.41,
-  "NumberOfRatings": 252,
-  "DailyRatings": 2.88,
+  "Rating": 4.42,
+  "NumberOfRatings": 258,
+  "DailyRatings": 3.38,
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
-  "LastChanged": "2022-08-06T10:00:54.3764482+00:00",
+  "LastChanged": "2022-08-07T10:01:05.0561073+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:54.530597+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-08-06T10:00:54.3764484+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 252
+    },
+    {
+      "Time": "2022-08-07T10:01:05.0561074+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 258
     }
   ],
   "Tags": [
