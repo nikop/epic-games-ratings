@@ -3,10 +3,10 @@
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 5137,
-  "DailyRatings": 77.06,
+  "NumberOfRatings": 5142,
+  "DailyRatings": 77.09,
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2022-08-07T20:01:27.2711744+00:00",
+  "LastChanged": "2022-08-07T21:31:22.1515573+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:54.5867723+00:00",
@@ -557,6 +557,11 @@
       "Time": "2022-08-07T20:01:27.2711745+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 5137
+    },
+    {
+      "Time": "2022-08-07T21:31:22.1515575+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 5142
     }
   ],
   "Tags": [
@@ -574,7 +579,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Beautiful Visuals",

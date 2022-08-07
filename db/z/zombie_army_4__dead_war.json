@@ -3,10 +3,10 @@
   "Name": "Zombie Army 4: Dead War",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 533,
-  "DailyRatings": 6.04,
+  "NumberOfRatings": 534,
+  "DailyRatings": 6.1,
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
-  "LastChanged": "2022-08-07T20:00:21.1395526+00:00",
+  "LastChanged": "2022-08-07T21:30:19.5044231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.2322254+00:00",
@@ -337,6 +337,11 @@
       "Time": "2022-08-07T20:00:21.1395528+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 533
+    },
+    {
+      "Time": "2022-08-07T21:30:19.5044233+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 534
     }
   ],
   "Tags": [
@@ -366,7 +371,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 61
+      "Count": 64
     },
     {
       "Text": "This game has Quickly Understood Controls",

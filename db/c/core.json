@@ -3,10 +3,10 @@
   "Name": "Core",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 1056,
-  "DailyRatings": 15.09,
+  "NumberOfRatings": 1057,
+  "DailyRatings": 14.88,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-08-07T20:01:13.9317927+00:00",
+  "LastChanged": "2022-08-07T21:31:09.4008761+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -387,6 +387,11 @@
       "Time": "2022-08-07T20:01:13.9317928+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1056
+    },
+    {
+      "Time": "2022-08-07T21:31:09.4008761+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 1057
     }
   ],
   "Tags": [
@@ -412,7 +417,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 30
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
