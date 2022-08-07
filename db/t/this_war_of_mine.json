@@ -2,11 +2,11 @@
   "ID": "91189432bbad4478afd611edff7f0339",
   "Name": "This War of Mine",
   "Names": [],
-  "Rating": 4.74,
-  "NumberOfRatings": 692,
-  "DailyRatings": 11.2,
+  "Rating": 4.73,
+  "NumberOfRatings": 698,
+  "DailyRatings": 11.23,
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
-  "LastChanged": "2022-08-06T15:30:44.8085978+00:00",
+  "LastChanged": "2022-08-07T04:00:45.7516203+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:40.6803203+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-08-06T15:30:44.808598+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 692
+    },
+    {
+      "Time": "2022-08-07T04:00:45.7516204+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 698
     }
   ],
   "Tags": [
