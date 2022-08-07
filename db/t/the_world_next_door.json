@@ -2,11 +2,11 @@
   "ID": "b258cb25f6cc4031914256c2d42b2188",
   "Name": "The World Next Door",
   "Names": [],
-  "Rating": 4.25,
-  "NumberOfRatings": 24,
+  "Rating": 4.2,
+  "NumberOfRatings": 25,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:32:16.7067769+00:00",
-  "LastChanged": "2022-07-30T22:32:22.7129126+00:00",
+  "LastChanged": "2022-08-07T23:02:24.5611089+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-23T22:02:21.531877+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-07-30T22:32:22.712913+00:00",
       "Rating": 4.25,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-08-07T23:02:24.5611091+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []

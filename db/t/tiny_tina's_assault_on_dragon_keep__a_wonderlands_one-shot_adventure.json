@@ -3,10 +3,10 @@
   "Name": "Tiny Tina\u0027s Assault on Dragon Keep: A Wonderlands One-shot Adventure",
   "Names": [],
   "Rating": 4.45,
-  "NumberOfRatings": 850,
-  "DailyRatings": 12.38,
+  "NumberOfRatings": 855,
+  "DailyRatings": 12.82,
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
-  "LastChanged": "2022-08-07T19:02:18.4684518+00:00",
+  "LastChanged": "2022-08-07T23:02:24.4387588+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:16.2350112+00:00",
@@ -142,12 +142,17 @@
       "Time": "2022-08-07T19:02:18.468452+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 850
+    },
+    {
+      "Time": "2022-08-07T23:02:24.438759+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 855
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 125
+      "Count": 130
     }
   ]
 }
