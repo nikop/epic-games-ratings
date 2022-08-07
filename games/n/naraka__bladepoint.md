@@ -1,6 +1,6 @@
 # NARAKA: BLADEPOINT
-Rating: 4.20 (104 054)  
-Ratings Per Day: 577.80  
+Rating: 4.20 (104 076)  
+Ratings Per Day: 578.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,4 +20,4 @@ Ratings Per Day: 577.80
 | 2022-08-04 | 4.20 | 102 402 |
 | 2022-08-05 | 4.20 | 103 126 |
 | 2022-08-06 | 4.20 | 103 687 |
-| 2022-08-07 | 4.20 | 104 054 |
+| 2022-08-07 | 4.20 | 104 076 |
