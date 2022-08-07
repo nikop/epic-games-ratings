@@ -3,10 +3,10 @@
   "Name": "Video Horror Society",
   "Names": [],
   "Rating": 4.24,
-  "NumberOfRatings": 328,
-  "DailyRatings": 13.2,
+  "NumberOfRatings": 330,
+  "DailyRatings": 13.21,
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2022-08-07T04:01:24.8088948+00:00",
+  "LastChanged": "2022-08-07T07:31:27.7747238+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:40.6568694+00:00",
@@ -347,6 +347,11 @@
       "Time": "2022-08-07T04:01:24.808895+00:00",
       "Rating": 4.24,
       "NumberOfRatings": 328
+    },
+    {
+      "Time": "2022-08-07T07:31:27.774724+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 330
     }
   ],
   "Tags": [
