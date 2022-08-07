@@ -1,6 +1,6 @@
 # Tom Clancy's Ghost Recon Wildlands Standard Edition
-Rating: 4.55 (587)  
-Ratings Per Day: 5.51  
+Rating: 4.55 (588)  
+Ratings Per Day: 5.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,4 +20,4 @@ Ratings Per Day: 5.51
 | 2022-08-04 | 4.55 | 561 |
 | 2022-08-05 | 4.55 | 568 |
 | 2022-08-06 | 4.55 | 579 |
-| 2022-08-07 | 4.55 | 587 |
+| 2022-08-07 | 4.55 | 588 |
