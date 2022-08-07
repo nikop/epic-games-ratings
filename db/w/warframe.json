@@ -3,10 +3,10 @@
   "Name": "Warframe",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 7964,
-  "DailyRatings": 96.86,
+  "NumberOfRatings": 7969,
+  "DailyRatings": 96.72,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2022-08-07T16:30:19.9555358+00:00",
+  "LastChanged": "2022-08-07T17:00:21.3201699+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -742,6 +742,11 @@
       "Time": "2022-08-07T16:30:19.955536+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 7964
+    },
+    {
+      "Time": "2022-08-07T17:00:21.3201701+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 7969
     }
   ],
   "Tags": [

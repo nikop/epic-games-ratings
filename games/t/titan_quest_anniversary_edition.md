@@ -1,6 +1,6 @@
 # Titan Quest Anniversary Edition
-Rating: 4.70 (71)  
-Ratings Per Day: 2.05  
+Rating: 4.71 (72)  
+Ratings Per Day: 1.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 2.05
 | 2022-08-02 | 4.73 | 66 |
 | 2022-08-04 | 4.71 | 68 |
 | 2022-08-05 | 4.70 | 71 |
+| 2022-08-07 | 4.71 | 72 |
