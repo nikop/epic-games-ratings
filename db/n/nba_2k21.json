@@ -3,10 +3,10 @@
   "Name": "NBA 2K21",
   "Names": [],
   "Rating": 4.41,
-  "NumberOfRatings": 33826,
-  "DailyRatings": 271.32,
+  "NumberOfRatings": 33854,
+  "DailyRatings": 272.06,
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2022-08-07T08:31:38.9937819+00:00",
+  "LastChanged": "2022-08-07T10:32:42.4753436+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:01.1099603+00:00",
@@ -757,6 +757,11 @@
       "Time": "2022-08-07T08:31:38.9937821+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 33826
+    },
+    {
+      "Time": "2022-08-07T10:32:42.4753438+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 33854
     }
   ],
   "Tags": [
@@ -794,7 +799,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 2200
+      "Count": 2251
     }
   ]
 }
