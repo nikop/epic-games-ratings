@@ -1,6 +1,6 @@
 # SMITE
 Rating: 4.47 (5 168)  
-Ratings Per Day: 35.50  
+Ratings Per Day: 35.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
