@@ -1,6 +1,6 @@
 # Black Book
 Rating: 4.87 (69)  
-Ratings Per Day: 1.03  
+Ratings Per Day: 0.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

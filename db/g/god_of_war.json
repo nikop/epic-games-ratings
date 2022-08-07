@@ -3,10 +3,10 @@
   "Name": "God of War",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 3548,
-  "DailyRatings": 36.78,
+  "NumberOfRatings": 3556,
+  "DailyRatings": 36.93,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2022-08-07T11:01:40.6654385+00:00",
+  "LastChanged": "2022-08-07T15:31:39.8940034+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -467,12 +467,17 @@
       "Time": "2022-08-07T11:01:40.6654387+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 3548
+    },
+    {
+      "Time": "2022-08-07T15:31:39.8940035+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 3556
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 999
+      "Count": 1017
     },
     {
       "Text": "This game has Great Boss Battles",

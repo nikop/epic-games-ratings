@@ -1,6 +1,6 @@
 # State of Decay 2: Juggernaut Edition
-Rating: 4.73 (863)  
-Ratings Per Day: 12.65  
+Rating: 4.73 (864)  
+Ratings Per Day: 12.64  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,4 +20,4 @@ Ratings Per Day: 12.65
 | 2022-08-04 | 4.73 | 815 |
 | 2022-08-05 | 4.72 | 843 |
 | 2022-08-06 | 4.73 | 857 |
-| 2022-08-07 | 4.73 | 863 |
+| 2022-08-07 | 4.73 | 864 |
