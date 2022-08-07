@@ -1,6 +1,6 @@
 # Kena: Bridge of Spirits
-Rating: 4.68 (2 193)  
-Ratings Per Day: 31.80  
+Rating: 4.68 (2 201)  
+Ratings Per Day: 31.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,4 +20,4 @@ Ratings Per Day: 31.80
 | 2022-08-04 | 4.68 | 2 115 |
 | 2022-08-05 | 4.68 | 2 154 |
 | 2022-08-06 | 4.68 | 2 185 |
-| 2022-08-07 | 4.68 | 2 193 |
+| 2022-08-07 | 4.68 | 2 201 |
