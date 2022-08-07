@@ -3,10 +3,10 @@
   "Name": "STORY OF SEASONS: Friends of Mineral Town",
   "Names": [],
   "Rating": 4.81,
-  "NumberOfRatings": 42,
-  "DailyRatings": 0.72,
+  "NumberOfRatings": 43,
+  "DailyRatings": 0.76,
   "FirstSeen": "2022-07-22T20:17:23.2339147+00:00",
-  "LastChanged": "2022-08-06T12:30:19.0118243+00:00",
+  "LastChanged": "2022-08-07T12:30:22.1472067+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:23.233915+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-06T12:30:19.0118246+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 42
+    },
+    {
+      "Time": "2022-08-07T12:30:22.1472069+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 43
     }
   ],
   "Tags": []

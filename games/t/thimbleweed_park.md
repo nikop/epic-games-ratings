@@ -1,6 +1,6 @@
 # Thimbleweed Park
-Rating: 4.64 (70)  
-Ratings Per Day: 1.74  
+Rating: 4.65 (71)  
+Ratings Per Day: 1.26  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 1.74
 | 2022-08-03 | 4.62 | 66 |
 | 2022-08-04 | 4.63 | 68 |
 | 2022-08-05 | 4.64 | 70 |
+| 2022-08-07 | 4.65 | 71 |
