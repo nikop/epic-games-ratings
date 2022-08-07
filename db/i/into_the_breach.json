@@ -3,10 +3,10 @@
   "Name": "Into the Breach",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 2576,
-  "DailyRatings": 63.56,
+  "NumberOfRatings": 2579,
+  "DailyRatings": 63.42,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2022-08-07T13:01:48.2992293+00:00",
+  "LastChanged": "2022-08-07T14:31:49.374497+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:50.8479512+00:00",
@@ -692,6 +692,11 @@
       "Time": "2022-08-07T13:01:48.2992294+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 2576
+    },
+    {
+      "Time": "2022-08-07T14:31:49.3744971+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 2579
     }
   ],
   "Tags": [
@@ -705,7 +710,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 111
+      "Count": 114
     },
     {
       "Text": "This game is Highly Recommended",
