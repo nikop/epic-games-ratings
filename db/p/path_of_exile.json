@@ -3,10 +3,10 @@
   "Name": "Path of Exile",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 1846,
-  "DailyRatings": 16.97,
+  "NumberOfRatings": 1847,
+  "DailyRatings": 16.81,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-08-06T23:30:36.0919266+00:00",
+  "LastChanged": "2022-08-07T02:30:15.9876821+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -552,6 +552,11 @@
       "Time": "2022-08-06T23:30:36.091927+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 1846
+    },
+    {
+      "Time": "2022-08-07T02:30:15.9876823+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 1847
     }
   ],
   "Tags": [
@@ -605,7 +610,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 121
+      "Count": 125
     }
   ]
 }

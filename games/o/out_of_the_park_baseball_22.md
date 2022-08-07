@@ -1,6 +1,6 @@
 # Out of the Park Baseball 22
 Rating: 4.40 (25)  
-Ratings Per Day: 0.32  
+Ratings Per Day: 0.46  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
