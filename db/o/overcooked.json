@@ -3,10 +3,10 @@
   "Name": "Overcooked",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 373,
-  "DailyRatings": 6.61,
+  "NumberOfRatings": 376,
+  "DailyRatings": 6.58,
   "FirstSeen": "2022-07-22T20:32:20.7350058+00:00",
-  "LastChanged": "2022-08-07T05:02:15.5045046+00:00",
+  "LastChanged": "2022-08-07T21:02:07.4675916+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:20.735006+00:00",
@@ -107,12 +107,17 @@
       "Time": "2022-08-07T05:02:15.5045048+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 373
+    },
+    {
+      "Time": "2022-08-07T21:02:07.467592+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 376
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 45
+      "Count": 46
     }
   ]
 }
