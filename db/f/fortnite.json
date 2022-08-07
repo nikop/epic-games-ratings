@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.31,
   "NumberOfRatings": 1713552,
-  "DailyRatings": 10557.04,
+  "DailyRatings": 10498,
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
   "LastChanged": "2022-08-07T17:30:22.373716+00:00",
   "RatingHistory": [
@@ -916,7 +916,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 213206
+      "Count": 213505
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -932,7 +932,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 196162
+      "Count": 199790
     },
     {
       "Text": "This game has Amazing Characters",
@@ -940,7 +940,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 169843
+      "Count": 170009
     }
   ]
 }
