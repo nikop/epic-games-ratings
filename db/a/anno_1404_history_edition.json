@@ -2,11 +2,11 @@
   "ID": "590c37a9443d46ce84be415b96b1a3e6",
   "Name": "Anno 1404 History Edition",
   "Names": [],
-  "Rating": 4.92,
-  "NumberOfRatings": 39,
-  "DailyRatings": 0.5,
+  "Rating": 4.93,
+  "NumberOfRatings": 40,
+  "DailyRatings": 0.57,
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
-  "LastChanged": "2022-08-06T20:32:12.1575445+00:00",
+  "LastChanged": "2022-08-07T20:32:06.372106+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:46.5738435+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-06T20:32:12.1575447+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-08-07T20:32:06.3721062+00:00",
+      "Rating": 4.93,
+      "NumberOfRatings": 40
     }
   ],
   "Tags": []
