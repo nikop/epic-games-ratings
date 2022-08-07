@@ -3,10 +3,10 @@
   "Name": "Galactic Civilizations IV",
   "Names": [],
   "Rating": 4.25,
-  "NumberOfRatings": 323,
-  "DailyRatings": 3.27,
+  "NumberOfRatings": 324,
+  "DailyRatings": 3.3,
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
-  "LastChanged": "2022-08-07T03:01:01.3026351+00:00",
+  "LastChanged": "2022-08-07T09:01:55.4702225+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.6509479+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-08-07T03:01:01.3026353+00:00",
       "Rating": 4.25,
       "NumberOfRatings": 323
+    },
+    {
+      "Time": "2022-08-07T09:01:55.4702226+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 324
     }
   ],
   "Tags": [
@@ -186,7 +191,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Characters",
