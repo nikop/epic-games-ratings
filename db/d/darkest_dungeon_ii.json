@@ -3,10 +3,10 @@
   "Name": "Darkest Dungeon II",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 5560,
-  "DailyRatings": 67.26,
+  "NumberOfRatings": 5567,
+  "DailyRatings": 67,
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
-  "LastChanged": "2022-08-07T16:01:03.0723848+00:00",
+  "LastChanged": "2022-08-07T17:30:54.4689378+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:45.4172839+00:00",
@@ -697,6 +697,11 @@
       "Time": "2022-08-07T16:01:03.0723849+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 5560
+    },
+    {
+      "Time": "2022-08-07T17:30:54.4689379+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 5567
     }
   ],
   "Tags": [

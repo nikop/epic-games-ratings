@@ -3,10 +3,10 @@
   "Name": "The Binding of Isaac: Repentance",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 1490,
-  "DailyRatings": 13.12,
+  "NumberOfRatings": 1492,
+  "DailyRatings": 13.33,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2022-08-07T16:30:31.4591404+00:00",
+  "LastChanged": "2022-08-07T17:30:29.184098+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:34.9311335+00:00",
@@ -537,6 +537,11 @@
       "Time": "2022-08-07T16:30:31.4591405+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 1490
+    },
+    {
+      "Time": "2022-08-07T17:30:29.1840982+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 1492
     }
   ],
   "Tags": [
@@ -546,7 +551,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 774
+      "Count": 784
     },
     {
       "Text": "This game is Highly Recommended",
