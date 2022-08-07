@@ -1,6 +1,6 @@
 # Port Royale 4
-Rating: 3.97 (32)  
-Ratings Per Day: 0.44  
+Rating: 3.97 (33)  
+Ratings Per Day: 0.54  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.44
 | 2022-08-01 | 4.00 | 30 |
 | 2022-08-04 | 3.97 | 31 |
 | 2022-08-06 | 3.97 | 32 |
+| 2022-08-07 | 3.97 | 33 |
