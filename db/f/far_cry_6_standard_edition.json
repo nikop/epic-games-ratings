@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.42,
   "NumberOfRatings": 7945,
-  "DailyRatings": 136,
+  "DailyRatings": 136.24,
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
   "LastChanged": "2022-08-07T22:00:27.6350601+00:00",
   "RatingHistory": [
@@ -728,7 +728,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 153
+      "Count": 158
     },
     {
       "Text": "This game is Relaxing",

@@ -1,6 +1,6 @@
 # Lawn Mowing Simulator
-Rating: 4.06 (3 330)  
-Ratings Per Day: 343.78  
+Rating: 4.06 (3 347)  
+Ratings Per Day: 342.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,4 +13,4 @@ Ratings Per Day: 343.78
 | 2022-08-04 | 4.04 | 2 471 |
 | 2022-08-05 | 4.04 | 2 921 |
 | 2022-08-06 | 4.05 | 3 160 |
-| 2022-08-07 | 4.06 | 3 330 |
+| 2022-08-07 | 4.06 | 3 347 |
