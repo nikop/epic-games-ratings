@@ -1,6 +1,6 @@
 # Weird West
 Rating: 4.41 (99)  
-Ratings Per Day: 1.08  
+Ratings Per Day: 1.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

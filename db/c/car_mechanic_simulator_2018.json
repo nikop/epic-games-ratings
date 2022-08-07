@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.49,
   "NumberOfRatings": 34430,
-  "DailyRatings": 144.29,
+  "DailyRatings": 144,
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
   "LastChanged": "2022-08-07T19:01:30.868455+00:00",
   "RatingHistory": [
@@ -765,7 +765,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 994
+      "Count": 1006
     },
     {
       "Text": "This game has Amazing Characters",
