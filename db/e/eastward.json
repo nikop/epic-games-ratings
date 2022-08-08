@@ -2,12 +2,12 @@
   "ID": "656bd7c2e76b46d2a1b9b4f247e813f5",
   "Name": "Eastward",
   "Names": [],
-  "Rating": 4.64,
-  "NumberOfRatings": 25,
-  "DailyRatings": 0.75,
+  "Rating": 4.62,
+  "NumberOfRatings": 26,
+  "DailyRatings": 0.8,
   "FirstSeen": "2022-07-22T20:29:13.9885092+00:00",
   "FirstSeenRating": "2022-07-31T06:31:42.9533956+00:00",
-  "LastChanged": "2022-08-07T20:31:48.5970698+00:00",
+  "LastChanged": "2022-08-08T20:32:16.5348489+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-31T06:31:42.9533958+00:00",
@@ -28,6 +28,11 @@
       "Time": "2022-08-07T20:31:48.5970699+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-08-08T20:32:16.534849+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 26
     }
   ],
   "Tags": []
