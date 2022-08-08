@@ -1,6 +1,6 @@
 # Doki Doki Literature Club Plus!
 Rating: 4.80 (30)  
-Ratings Per Day: 0.20  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
