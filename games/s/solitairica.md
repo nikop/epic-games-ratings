@@ -1,6 +1,6 @@
 # Solitairica
-Rating: 4.48 (328)  
-Ratings Per Day: 4.01  
+Rating: 4.48 (330)  
+Ratings Per Day: 4.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,4 +20,4 @@ Ratings Per Day: 4.01
 | 2022-08-05 | 4.47 | 315 |
 | 2022-08-06 | 4.47 | 318 |
 | 2022-08-07 | 4.47 | 325 |
-| 2022-08-08 | 4.48 | 328 |
+| 2022-08-08 | 4.48 | 330 |
