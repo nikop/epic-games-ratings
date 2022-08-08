@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.74,
   "NumberOfRatings": 2070,
-  "DailyRatings": 14.61,
+  "DailyRatings": 14.21,
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "LastChanged": "2022-08-08T14:30:28.0408773+00:00",
   "RatingHistory": [
@@ -622,7 +622,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1247
+      "Count": 1263
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -670,7 +670,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 120
+      "Count": 123
     }
   ]
 }

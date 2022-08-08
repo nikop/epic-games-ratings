@@ -3,10 +3,10 @@
   "Name": "BioShock 2 Remastered",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 9849,
-  "DailyRatings": 76.28,
+  "NumberOfRatings": 9855,
+  "DailyRatings": 76,
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2022-08-08T12:32:10.2877135+00:00",
+  "LastChanged": "2022-08-08T15:02:19.1784651+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:15.5533474+00:00",
@@ -527,6 +527,11 @@
       "Time": "2022-08-08T12:32:10.2877137+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 9849
+    },
+    {
+      "Time": "2022-08-08T15:02:19.1784653+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 9855
     }
   ],
   "Tags": [
@@ -564,7 +569,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has a Creative Community",
