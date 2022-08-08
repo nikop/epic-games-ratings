@@ -1,6 +1,6 @@
 # Kingdom Come: Deliverance
-Rating: 4.71 (6 204)  
-Ratings Per Day: 82.64  
+Rating: 4.71 (6 209)  
+Ratings Per Day: 82.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,4 +21,4 @@ Ratings Per Day: 82.64
 | 2022-08-05 | 4.71 | 6 002 |
 | 2022-08-06 | 4.71 | 6 089 |
 | 2022-08-07 | 4.71 | 6 167 |
-| 2022-08-08 | 4.71 | 6 204 |
+| 2022-08-08 | 4.71 | 6 209 |
