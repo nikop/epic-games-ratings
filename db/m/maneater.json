@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 76925,
-  "DailyRatings": 166.99,
+  "NumberOfRatings": 76930,
+  "DailyRatings": 166.2,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-08-08T11:01:18.4477536+00:00",
+  "LastChanged": "2022-08-08T12:31:39.0106124+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -502,12 +502,17 @@
       "Time": "2022-08-08T11:01:18.4477538+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 76925
+    },
+    {
+      "Time": "2022-08-08T12:31:39.0106125+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 76930
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 11319
+      "Count": 11355
     },
     {
       "Text": "This game has Great Boss Battles",
