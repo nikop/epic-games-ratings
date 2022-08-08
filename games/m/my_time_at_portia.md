@@ -1,6 +1,6 @@
 # My Time At Portia
 Rating: 4.67 (2 754)  
-Ratings Per Day: 28.71  
+Ratings Per Day: 29.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
