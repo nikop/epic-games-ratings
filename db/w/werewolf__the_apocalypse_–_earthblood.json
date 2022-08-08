@@ -2,11 +2,11 @@
   "ID": "9c86694776c04893bec691f13f4b60fc",
   "Name": "Werewolf: The Apocalypse \u2013 Earthblood",
   "Names": [],
-  "Rating": 4.17,
-  "NumberOfRatings": 46,
-  "DailyRatings": 0.4,
+  "Rating": 4.2,
+  "NumberOfRatings": 49,
+  "DailyRatings": 0.83,
   "FirstSeen": "2022-07-22T20:25:47.1467743+00:00",
-  "LastChanged": "2022-08-07T00:31:26.0740408+00:00",
+  "LastChanged": "2022-08-08T01:01:25.8947595+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:47.1467746+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-07T00:31:26.074041+00:00",
       "Rating": 4.17,
       "NumberOfRatings": 46
+    },
+    {
+      "Time": "2022-08-08T01:01:25.8947602+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 49
     }
   ],
   "Tags": []

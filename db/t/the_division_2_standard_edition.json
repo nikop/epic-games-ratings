@@ -3,10 +3,10 @@
   "Name": "The Division 2 Standard Edition",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 4958,
-  "DailyRatings": 43.43,
+  "NumberOfRatings": 4962,
+  "DailyRatings": 43.49,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-08-07T23:01:11.3588904+00:00",
+  "LastChanged": "2022-08-08T01:00:57.4696384+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -757,6 +757,11 @@
       "Time": "2022-08-07T23:01:11.3588905+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 4958
+    },
+    {
+      "Time": "2022-08-08T01:00:57.4696386+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 4962
     }
   ],
   "Tags": [
