@@ -3,10 +3,10 @@
   "Name": "Control",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 10251,
-  "DailyRatings": 143.09,
+  "NumberOfRatings": 10256,
+  "DailyRatings": 142.7,
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2022-08-08T18:00:25.0477601+00:00",
+  "LastChanged": "2022-08-08T19:16:44.1170798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -747,6 +747,11 @@
       "Time": "2022-08-08T18:00:25.0477604+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 10251
+    },
+    {
+      "Time": "2022-08-08T19:16:44.11708+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 10256
     }
   ],
   "Tags": [
