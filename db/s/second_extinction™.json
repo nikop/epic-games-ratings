@@ -2,11 +2,11 @@
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
   "Names": [],
-  "Rating": 4.05,
-  "NumberOfRatings": 366,
-  "DailyRatings": 4.58,
+  "Rating": 4.04,
+  "NumberOfRatings": 369,
+  "DailyRatings": 4.57,
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "LastChanged": "2022-08-07T19:02:24.5528406+00:00",
+  "LastChanged": "2022-08-08T11:02:16.6877269+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -122,12 +122,17 @@
       "Time": "2022-08-07T19:02:24.5528408+00:00",
       "Rating": 4.05,
       "NumberOfRatings": 366
+    },
+    {
+      "Time": "2022-08-08T11:02:16.687727+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 369
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 76
+      "Count": 77
     }
   ]
 }

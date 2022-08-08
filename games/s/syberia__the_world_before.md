@@ -1,6 +1,6 @@
 # Syberia: The World Before
-Rating: 4.64 (87)  
-Ratings Per Day: 1.99  
+Rating: 4.65 (88)  
+Ratings Per Day: 1.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 1.99
 | 2022-08-04 | 4.64 | 85 |
 | 2022-08-05 | 4.64 | 86 |
 | 2022-08-06 | 4.64 | 87 |
+| 2022-08-08 | 4.65 | 88 |
