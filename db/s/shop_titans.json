@@ -3,10 +3,10 @@
   "Name": "Shop Titans",
   "Names": [],
   "Rating": 3.91,
-  "NumberOfRatings": 10001,
-  "DailyRatings": 273.3,
+  "NumberOfRatings": 10004,
+  "DailyRatings": 271.86,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-08-08T09:30:25.7957235+00:00",
+  "LastChanged": "2022-08-08T10:00:27.3392064+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -872,6 +872,11 @@
       "Time": "2022-08-08T09:30:25.7957237+00:00",
       "Rating": 3.91,
       "NumberOfRatings": 10001
+    },
+    {
+      "Time": "2022-08-08T10:00:27.3392066+00:00",
+      "Rating": 3.91,
+      "NumberOfRatings": 10004
     }
   ],
   "Tags": [

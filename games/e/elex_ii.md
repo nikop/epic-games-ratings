@@ -1,6 +1,6 @@
 # ELEX II
-Rating: 4.20 (94)  
-Ratings Per Day: 1.53  
+Rating: 4.21 (95)  
+Ratings Per Day: 1.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 1.53
 | 2022-08-05 | 4.18 | 91 |
 | 2022-08-06 | 4.18 | 92 |
 | 2022-08-07 | 4.20 | 94 |
+| 2022-08-08 | 4.21 | 95 |

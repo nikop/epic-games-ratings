@@ -2,11 +2,11 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "Names": [],
-  "Rating": 4.19,
-  "NumberOfRatings": 78,
-  "DailyRatings": 0.44,
+  "Rating": 4.2,
+  "NumberOfRatings": 79,
+  "DailyRatings": 0.45,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-08-06T09:01:07.8719344+00:00",
+  "LastChanged": "2022-08-08T10:01:07.9192789+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-08-06T09:01:07.8719345+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 78
+    },
+    {
+      "Time": "2022-08-08T10:01:07.9192791+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 79
     }
   ],
   "Tags": []
