@@ -2,11 +2,11 @@
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
   "Names": [],
-  "Rating": 4.88,
-  "NumberOfRatings": 625,
-  "DailyRatings": 5.96,
+  "Rating": 4.89,
+  "NumberOfRatings": 628,
+  "DailyRatings": 6.04,
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2022-08-07T20:30:29.7742657+00:00",
+  "LastChanged": "2022-08-08T06:30:29.16331+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -372,6 +372,11 @@
       "Time": "2022-08-07T20:30:29.7742658+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 625
+    },
+    {
+      "Time": "2022-08-08T06:30:29.1633102+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 628
     }
   ],
   "Tags": [
@@ -401,7 +406,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 84
+      "Count": 88
     },
     {
       "Text": "This game has Unique Visuals",
