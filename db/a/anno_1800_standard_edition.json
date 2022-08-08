@@ -3,10 +3,10 @@
   "Name": "Anno 1800 Standard Edition",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 2878,
-  "DailyRatings": 39.04,
+  "NumberOfRatings": 2879,
+  "DailyRatings": 38.63,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-08-08T00:00:23.604608+00:00",
+  "LastChanged": "2022-08-08T02:30:23.4036764+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -652,6 +652,11 @@
       "Time": "2022-08-08T00:00:23.6046082+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 2878
+    },
+    {
+      "Time": "2022-08-08T02:30:23.4036767+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 2879
     }
   ],
   "Tags": [
@@ -677,7 +682,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 188
+      "Count": 193
     },
     {
       "Text": "This game is Relaxing",
