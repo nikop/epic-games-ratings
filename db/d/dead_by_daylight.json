@@ -3,10 +3,10 @@
   "Name": "Dead by Daylight",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 52873,
-  "DailyRatings": 411.82,
+  "NumberOfRatings": 52900,
+  "DailyRatings": 412,
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
-  "LastChanged": "2022-08-07T22:30:20.3982865+00:00",
+  "LastChanged": "2022-08-08T00:00:22.1392404+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:36.44586+00:00",
@@ -812,6 +812,11 @@
       "Time": "2022-08-07T22:30:20.3982868+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 52873
+    },
+    {
+      "Time": "2022-08-08T00:00:22.1392406+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 52900
     }
   ],
   "Tags": [
@@ -829,7 +834,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 6183
+      "Count": 6286
     },
     {
       "Text": "This game is Extremely Fun",
