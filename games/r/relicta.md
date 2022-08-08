@@ -1,6 +1,6 @@
 # Relicta
-Rating: 4.15 (278)  
-Ratings Per Day: 3.71  
+Rating: 4.15 (281)  
+Ratings Per Day: 3.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,3 +19,4 @@ Ratings Per Day: 3.71
 | 2022-08-05 | 4.13 | 267 |
 | 2022-08-06 | 4.14 | 270 |
 | 2022-08-07 | 4.15 | 278 |
+| 2022-08-08 | 4.15 | 281 |
