@@ -1,6 +1,6 @@
 # Warface
-Rating: 3.93 (1 897)  
-Ratings Per Day: 30.13  
+Rating: 3.93 (1 902)  
+Ratings Per Day: 29.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 30.13
 | 2022-08-05 | 3.93 | 1 816 |
 | 2022-08-06 | 3.93 | 1 869 |
 | 2022-08-07 | 3.93 | 1 897 |
+| 2022-08-08 | 3.93 | 1 902 |
