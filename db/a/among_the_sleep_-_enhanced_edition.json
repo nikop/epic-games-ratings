@@ -2,11 +2,11 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "Names": [],
-  "Rating": 4.36,
-  "NumberOfRatings": 221,
-  "DailyRatings": 2.83,
+  "Rating": 4.37,
+  "NumberOfRatings": 224,
+  "DailyRatings": 2.86,
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
-  "LastChanged": "2022-08-07T08:31:06.2066437+00:00",
+  "LastChanged": "2022-08-08T08:30:56.9097595+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:15.2545478+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-07T08:31:06.2066438+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 221
+    },
+    {
+      "Time": "2022-08-08T08:30:56.9097596+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 224
     }
   ],
   "Tags": []
