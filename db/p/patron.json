@@ -2,12 +2,12 @@
   "ID": "27d0a607d01545038e7c3ba1b9ad8c80",
   "Name": "Patron",
   "Names": [],
-  "Rating": 3.82,
-  "NumberOfRatings": 22,
-  "DailyRatings": 0.66,
+  "Rating": 3.83,
+  "NumberOfRatings": 23,
+  "DailyRatings": 0.73,
   "FirstSeen": "2022-07-22T20:25:15.1770761+00:00",
   "FirstSeenRating": "2022-08-04T14:01:33.7640592+00:00",
-  "LastChanged": "2022-08-07T14:31:34.7783453+00:00",
+  "LastChanged": "2022-08-08T16:02:26.5342672+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-04T14:01:33.7640598+00:00",
@@ -23,6 +23,11 @@
       "Time": "2022-08-07T14:31:34.7783455+00:00",
       "Rating": 3.82,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-08-08T16:02:26.5342674+00:00",
+      "Rating": 3.83,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []
