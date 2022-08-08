@@ -1,5 +1,5 @@
 # Townsmen - A Kingdom Rebuilt
-Rating: 4.31 (26)  
+Rating: 4.32 (28)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.00
 | 2022-07-28 | 4.29 | 24 |
 | 2022-07-29 | 4.32 | 25 |
 | 2022-07-31 | 4.31 | 26 |
+| 2022-08-08 | 4.32 | 28 |
