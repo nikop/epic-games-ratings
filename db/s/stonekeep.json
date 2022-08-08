@@ -1,12 +1,9 @@
 {
   "ID": "0c8249575cc6448ca4e8cde590057431",
   "Name": "Stonekeep",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-08T01:31:26.9462721+00:00",
   "RatingHistory": [],
   "Tags": []
 }

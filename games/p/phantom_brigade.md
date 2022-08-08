@@ -1,6 +1,6 @@
 # Phantom Brigade
 Rating: 4.66 (132)  
-Ratings Per Day: 1.38  
+Ratings Per Day: 1.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
