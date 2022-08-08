@@ -3,10 +3,10 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "Names": [],
   "Rating": 4.19,
-  "NumberOfRatings": 2159,
-  "DailyRatings": 10.29,
+  "NumberOfRatings": 2161,
+  "DailyRatings": 9.69,
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
-  "LastChanged": "2022-08-07T14:31:55.1128847+00:00",
+  "LastChanged": "2022-08-08T04:31:31.9150244+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.9241682+00:00",
@@ -312,6 +312,11 @@
       "Time": "2022-08-07T14:31:55.1128849+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 2159
+    },
+    {
+      "Time": "2022-08-08T04:31:31.9150245+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 2161
     }
   ],
   "Tags": [
