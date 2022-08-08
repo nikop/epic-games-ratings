@@ -1,6 +1,6 @@
 # Crysis Remastered
-Rating: 4.39 (414)  
-Ratings Per Day: 6.83  
+Rating: 4.38 (421)  
+Ratings Per Day: 7.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 6.83
 | 2022-08-05 | 4.37 | 393 |
 | 2022-08-06 | 4.38 | 402 |
 | 2022-08-07 | 4.39 | 414 |
+| 2022-08-08 | 4.38 | 421 |
