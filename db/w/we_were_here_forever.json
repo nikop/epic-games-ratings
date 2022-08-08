@@ -3,10 +3,10 @@
   "Name": "We Were Here Forever",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 90,
-  "DailyRatings": 0.5,
+  "NumberOfRatings": 91,
+  "DailyRatings": 0.57,
   "FirstSeen": "2022-07-22T20:17:15.5524229+00:00",
-  "LastChanged": "2022-08-07T19:30:19.2031933+00:00",
+  "LastChanged": "2022-08-08T19:30:14.3994646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:15.5524233+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-07T19:30:19.2031934+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 90
+    },
+    {
+      "Time": "2022-08-08T19:30:14.3994648+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 91
     }
   ],
   "Tags": []
