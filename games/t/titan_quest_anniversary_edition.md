@@ -1,6 +1,6 @@
 # Titan Quest Anniversary Edition
 Rating: 4.71 (75)  
-Ratings Per Day: 1.91  
+Ratings Per Day: 1.79  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
