@@ -3,10 +3,10 @@
   "Name": "Animation Throwdown: The Quest for Cards",
   "Names": [],
   "Rating": 4.31,
-  "NumberOfRatings": 690,
+  "NumberOfRatings": 691,
   "DailyRatings": 6.02,
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2022-08-08T20:01:03.671256+00:00",
+  "LastChanged": "2022-08-09T00:00:58.854695+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.5721147+00:00",
@@ -327,6 +327,11 @@
       "Time": "2022-08-08T20:01:03.6712563+00:00",
       "Rating": 4.31,
       "NumberOfRatings": 690
+    },
+    {
+      "Time": "2022-08-09T00:00:58.8546952+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 691
     }
   ],
   "Tags": [
@@ -348,7 +353,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 111
+      "Count": 114
     },
     {
       "Text": "This game is Highly Recommended",
