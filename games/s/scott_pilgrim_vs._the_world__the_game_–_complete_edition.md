@@ -1,6 +1,6 @@
 # Scott Pilgrim vs. The World: The Game – Complete Edition
-Rating: 4.76 (66)  
-Ratings Per Day: 0.83  
+Rating: 4.76 (67)  
+Ratings Per Day: 0.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.83
 | 2022-08-04 | 4.75 | 64 |
 | 2022-08-05 | 4.75 | 65 |
 | 2022-08-06 | 4.76 | 66 |
+| 2022-08-09 | 4.76 | 67 |
