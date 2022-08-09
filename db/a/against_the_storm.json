@@ -3,10 +3,10 @@
   "Name": "Against the Storm",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 1373,
-  "DailyRatings": 33.78,
+  "NumberOfRatings": 1380,
+  "DailyRatings": 33.54,
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
-  "LastChanged": "2022-08-09T08:31:52.3970206+00:00",
+  "LastChanged": "2022-08-09T15:02:36.9611802+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:52.7561903+00:00",
@@ -702,12 +702,17 @@
       "Time": "2022-08-09T08:31:52.3970207+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 1373
+    },
+    {
+      "Time": "2022-08-09T15:02:36.9611804+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 1380
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 111
+      "Count": 116
     },
     {
       "Text": "This game is Relaxing",

@@ -1,6 +1,6 @@
 # DEATHLOOP
-Rating: 4.53 (648)  
-Ratings Per Day: 5.02  
+Rating: 4.53 (649)  
+Ratings Per Day: 4.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 5.02
 | 2022-08-06 | 4.53 | 639 |
 | 2022-08-07 | 4.53 | 646 |
 | 2022-08-08 | 4.53 | 648 |
+| 2022-08-09 | 4.53 | 649 |
