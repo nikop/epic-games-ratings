@@ -3,10 +3,10 @@
   "Name": "Control",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 10303,
-  "DailyRatings": 143.55,
+  "NumberOfRatings": 10337,
+  "DailyRatings": 142.4,
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2022-08-09T03:30:13.5794085+00:00",
+  "LastChanged": "2022-08-09T10:31:22.3351797+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -762,6 +762,11 @@
       "Time": "2022-08-09T03:30:13.5794087+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 10303
+    },
+    {
+      "Time": "2022-08-09T10:31:22.3351802+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 10337
     }
   ],
   "Tags": [
@@ -771,7 +776,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 148
+      "Count": 153
     },
     {
       "Text": "This game has Diverse Characters",
