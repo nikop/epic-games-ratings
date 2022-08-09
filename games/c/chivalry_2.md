@@ -1,6 +1,6 @@
 # Chivalry 2
 Rating: 4.63 (15 608)  
-Ratings Per Day: 79.52  
+Ratings Per Day: 77.92  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
