@@ -1,6 +1,6 @@
 # Core
-Rating: 4.38 (1 073)  
-Ratings Per Day: 16.20  
+Rating: 4.38 (1 074)  
+Ratings Per Day: 15.71  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 16.20
 | 2022-08-06 | 4.39 | 1 039 |
 | 2022-08-07 | 4.38 | 1 058 |
 | 2022-08-08 | 4.38 | 1 073 |
+| 2022-08-09 | 4.38 | 1 074 |
