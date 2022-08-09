@@ -2,11 +2,11 @@
   "ID": "92053006068e4aa9b1ad413f72090f5e",
   "Name": "Limbo",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 140,
-  "DailyRatings": 2.48,
+  "Rating": 4.64,
+  "NumberOfRatings": 143,
+  "DailyRatings": 2.2,
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
-  "LastChanged": "2022-08-07T22:31:13.044661+00:00",
+  "LastChanged": "2022-08-09T22:31:46.6456502+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.9421183+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-08-07T22:31:13.0446611+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 140
+    },
+    {
+      "Time": "2022-08-09T22:31:46.6456503+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 143
     }
   ],
   "Tags": []
