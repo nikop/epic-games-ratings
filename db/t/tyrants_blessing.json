@@ -1,12 +1,9 @@
 {
   "ID": "221c4f10ac5d4e818008b97bcfee6cab",
   "Name": "Tyrants Blessing",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-09T05:01:43.0367169+00:00",
   "RatingHistory": [],
   "Tags": []
 }

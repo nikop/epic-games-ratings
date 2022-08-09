@@ -1,6 +1,6 @@
 # Alien: Isolation 
 Rating: 4.59 (3 267)  
-Ratings Per Day: 48.86  
+Ratings Per Day: 49.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
