@@ -3,10 +3,10 @@
   "Name": "Watch Dogs: Legion Standard Edition",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 937,
-  "DailyRatings": 9.92,
+  "NumberOfRatings": 938,
+  "DailyRatings": 10.01,
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2022-08-09T15:01:31.952068+00:00",
+  "LastChanged": "2022-08-09T16:01:02.757192+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -342,6 +342,11 @@
       "Time": "2022-08-09T15:01:31.9520752+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 937
+    },
+    {
+      "Time": "2022-08-09T16:01:02.7571922+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 938
     }
   ],
   "Tags": [
