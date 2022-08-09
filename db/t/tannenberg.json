@@ -3,10 +3,10 @@
   "Name": "Tannenberg",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 10915,
-  "DailyRatings": 244.66,
+  "NumberOfRatings": 10932,
+  "DailyRatings": 243.44,
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
-  "LastChanged": "2022-08-09T06:31:15.2334754+00:00",
+  "LastChanged": "2022-08-09T09:01:33.2099449+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.24863+00:00",
@@ -802,6 +802,11 @@
       "Time": "2022-08-09T06:31:15.2334756+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 10915
+    },
+    {
+      "Time": "2022-08-09T09:01:33.2099451+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 10932
     }
   ],
   "Tags": [
@@ -815,7 +820,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 51
+      "Count": 57
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -855,7 +860,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 70
+      "Count": 78
     }
   ]
 }
