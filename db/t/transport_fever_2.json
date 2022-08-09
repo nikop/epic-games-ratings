@@ -2,11 +2,11 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 135,
-  "DailyRatings": 0.28,
+  "Rating": 4.68,
+  "NumberOfRatings": 136,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
-  "LastChanged": "2022-08-08T20:31:00.7481943+00:00",
+  "LastChanged": "2022-08-09T07:30:34.8012316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:50.1070656+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-08T20:31:00.7481944+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 135
+    },
+    {
+      "Time": "2022-08-09T07:30:34.8012318+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 136
     }
   ],
   "Tags": []
