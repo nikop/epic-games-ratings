@@ -2,11 +2,11 @@
   "ID": "6af58339c2424644988e0fb83dfd9bd5",
   "Name": "FUSER\u2122",
   "Names": [],
-  "Rating": 4.69,
-  "NumberOfRatings": 65,
-  "DailyRatings": 0.75,
+  "Rating": 4.7,
+  "NumberOfRatings": 66,
+  "DailyRatings": 0.82,
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2022-08-09T03:00:22.8564161+00:00",
+  "LastChanged": "2022-08-09T21:00:32.4807928+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:53.9357226+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-08-09T03:00:22.8564162+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 65
+    },
+    {
+      "Time": "2022-08-09T21:00:32.480793+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 66
     }
   ],
   "Tags": [

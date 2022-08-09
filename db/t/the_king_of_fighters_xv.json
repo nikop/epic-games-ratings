@@ -2,11 +2,11 @@
   "ID": "168fc558aeef44a5b9cba5f25b5bb93f",
   "Name": "THE KING OF FIGHTERS XV",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 147,
-  "DailyRatings": 1.57,
+  "Rating": 4.61,
+  "NumberOfRatings": 148,
+  "DailyRatings": 1.48,
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2022-08-08T21:01:14.5349315+00:00",
+  "LastChanged": "2022-08-09T21:00:55.4942437+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:01.2233815+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-08-08T21:01:14.5349388+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 147
+    },
+    {
+      "Time": "2022-08-09T21:00:55.4942439+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 148
     }
   ],
   "Tags": [

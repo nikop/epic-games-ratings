@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.86,
   "NumberOfRatings": 5639,
-  "DailyRatings": 73,
+  "DailyRatings": 72.36,
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
   "LastChanged": "2022-08-09T20:31:57.3226392+00:00",
   "RatingHistory": [
@@ -827,7 +827,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2823
+      "Count": 2874
     },
     {
       "Text": "This game is Extremely Fun",
@@ -867,7 +867,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 194
+      "Count": 200
     }
   ]
 }
