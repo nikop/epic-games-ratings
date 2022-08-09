@@ -2,12 +2,12 @@
   "ID": "9fce8233852f4940acde233a87bb41ce",
   "Name": "Baldur\u0027s Gate II: Enhanced Edition",
   "Names": [],
-  "Rating": 4.9,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0.98,
+  "Rating": 4.91,
+  "NumberOfRatings": 22,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:18:50.9338623+00:00",
   "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
-  "LastChanged": "2022-08-06T18:30:32.3464257+00:00",
+  "LastChanged": "2022-08-09T18:31:21.4154095+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T18:01:05.4325183+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-08-06T18:30:32.3464259+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-08-09T18:31:21.4154097+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []
