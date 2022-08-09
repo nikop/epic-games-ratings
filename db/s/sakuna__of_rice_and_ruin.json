@@ -2,12 +2,12 @@
   "ID": "956dba7018ff4aa287cdeed7cdd1ddce",
   "Name": "Sakuna: Of Rice and Ruin",
   "Names": [],
-  "Rating": 4.71,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0.36,
+  "Rating": 4.73,
+  "NumberOfRatings": 22,
+  "DailyRatings": 0.38,
   "FirstSeen": "2022-07-22T20:26:20.9236376+00:00",
   "FirstSeenRating": "2022-08-04T03:01:25.5848955+00:00",
-  "LastChanged": "2022-08-06T22:01:32.5883797+00:00",
+  "LastChanged": "2022-08-09T08:31:48.8893633+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-04T03:01:25.5848956+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-08-06T22:01:32.5883798+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-08-09T08:31:48.8893634+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []

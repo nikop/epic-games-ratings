@@ -1,6 +1,6 @@
 # Alan Wake’s American Nightmare
 Rating: 4.27 (49)  
-Ratings Per Day: 0.33  
+Ratings Per Day: 0.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
