@@ -1,6 +1,6 @@
 # Where The Water Tastes Like Wine
 Rating: 4.48 (25)  
-Ratings Per Day: 0.50  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
