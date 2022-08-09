@@ -1,6 +1,6 @@
 # NEO: The World Ends with You
-Rating: 4.86 (154)  
-Ratings Per Day: 2.62  
+Rating: 4.85 (155)  
+Ratings Per Day: 2.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 2.62
 | 2022-08-06 | 4.85 | 150 |
 | 2022-08-07 | 4.86 | 153 |
 | 2022-08-08 | 4.86 | 154 |
+| 2022-08-09 | 4.85 | 155 |

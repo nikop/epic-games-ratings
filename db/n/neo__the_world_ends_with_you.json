@@ -2,11 +2,11 @@
   "ID": "9c8ca95368b84b6fb5f2192e7f7484a3",
   "Name": "NEO: The World Ends with You",
   "Names": [],
-  "Rating": 4.86,
-  "NumberOfRatings": 154,
-  "DailyRatings": 2.62,
+  "Rating": 4.85,
+  "NumberOfRatings": 155,
+  "DailyRatings": 2.36,
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
-  "LastChanged": "2022-08-08T12:31:54.3292948+00:00",
+  "LastChanged": "2022-08-09T14:02:09.7148318+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:59.3741764+00:00",
@@ -127,12 +127,17 @@
       "Time": "2022-08-08T12:31:54.3292949+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 154
+    },
+    {
+      "Time": "2022-08-09T14:02:09.714832+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 155
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 33
+      "Count": 36
     },
     {
       "Text": "This game has Great Boss Battles",
