@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS Melody of Memory",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 58,
-  "DailyRatings": 1.52,
+  "NumberOfRatings": 59,
+  "DailyRatings": 1.43,
   "FirstSeen": "2022-07-22T20:24:47.7088275+00:00",
-  "LastChanged": "2022-08-08T18:01:25.9966773+00:00",
+  "LastChanged": "2022-08-09T18:01:21.3982849+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:47.7088277+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-08T18:01:25.9966776+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 58
+    },
+    {
+      "Time": "2022-08-09T18:01:21.398285+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 59
     }
   ],
   "Tags": []
