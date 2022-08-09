@@ -1,6 +1,6 @@
 # Second Extinction™
-Rating: 4.04 (369)  
-Ratings Per Day: 4.00  
+Rating: 4.05 (372)  
+Ratings Per Day: 3.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 4.00
 | 2022-08-06 | 4.06 | 364 |
 | 2022-08-07 | 4.05 | 366 |
 | 2022-08-08 | 4.04 | 369 |
+| 2022-08-09 | 4.05 | 372 |
