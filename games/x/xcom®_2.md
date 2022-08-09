@@ -1,6 +1,6 @@
 # XCOM® 2
-Rating: 4.56 (5 271)  
-Ratings Per Day: 51.42  
+Rating: 4.56 (5 288)  
+Ratings Per Day: 52.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 51.42
 | 2022-08-06 | 4.56 | 5 165 |
 | 2022-08-07 | 4.56 | 5 226 |
 | 2022-08-08 | 4.56 | 5 271 |
+| 2022-08-09 | 4.56 | 5 288 |
