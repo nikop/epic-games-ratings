@@ -3,10 +3,10 @@
   "Name": "Windbound",
   "Names": [],
   "Rating": 4.19,
-  "NumberOfRatings": 1385,
-  "DailyRatings": 20.38,
+  "NumberOfRatings": 1389,
+  "DailyRatings": 20.04,
   "FirstSeen": "2022-07-22T20:20:10.910936+00:00",
-  "LastChanged": "2022-08-09T05:30:43.2894603+00:00",
+  "LastChanged": "2022-08-09T13:01:01.5839618+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.9109364+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-08-09T05:30:43.2894605+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 1385
+    },
+    {
+      "Time": "2022-08-09T13:01:01.5839619+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 1389
     }
   ],
   "Tags": []
