@@ -3,10 +3,10 @@
   "Name": "Metro 2033 Redux",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 3542,
-  "DailyRatings": 53.16,
+  "NumberOfRatings": 3564,
+  "DailyRatings": 53.63,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-08-08T18:00:44.5990491+00:00",
+  "LastChanged": "2022-08-09T02:30:59.0280706+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -217,12 +217,17 @@
       "Time": "2022-08-08T18:00:44.5990493+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 3542
+    },
+    {
+      "Time": "2022-08-09T02:30:59.0280707+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 3564
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 391
+      "Count": 399
     }
   ]
 }
