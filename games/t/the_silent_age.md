@@ -1,5 +1,5 @@
 # The Silent Age
-Rating: 4.65 (23)  
+Rating: 4.67 (24)  
 Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -8,3 +8,4 @@ Ratings Per Day: 1.00
 | 2022-08-06 | 4.67 | 21 |
 | 2022-08-07 | 4.68 | 22 |
 | 2022-08-08 | 4.65 | 23 |
+| 2022-08-09 | 4.67 | 24 |
