@@ -1,6 +1,6 @@
 # Moonlighter
-Rating: 4.71 (692)  
-Ratings Per Day: 11.01  
+Rating: 4.71 (694)  
+Ratings Per Day: 10.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,4 +22,4 @@ Ratings Per Day: 11.01
 | 2022-08-06 | 4.72 | 664 |
 | 2022-08-07 | 4.72 | 672 |
 | 2022-08-08 | 4.71 | 684 |
-| 2022-08-09 | 4.71 | 692 |
+| 2022-08-09 | 4.71 | 694 |

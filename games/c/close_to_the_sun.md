@@ -1,6 +1,6 @@
 # Close To The Sun
-Rating: 4.04 (93)  
-Ratings Per Day: 1.18  
+Rating: 4.05 (95)  
+Ratings Per Day: 1.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 1.18
 | 2022-08-03 | 4.05 | 88 |
 | 2022-08-06 | 4.06 | 89 |
 | 2022-08-08 | 4.04 | 93 |
+| 2022-08-09 | 4.05 | 95 |

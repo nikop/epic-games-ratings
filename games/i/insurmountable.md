@@ -1,6 +1,6 @@
 # Insurmountable
-Rating: 4.18 (476)  
-Ratings Per Day: 5.05  
+Rating: 4.18 (483)  
+Ratings Per Day: 5.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 5.05
 | 2022-08-06 | 4.18 | 465 |
 | 2022-08-07 | 4.18 | 472 |
 | 2022-08-08 | 4.18 | 476 |
+| 2022-08-09 | 4.18 | 483 |
