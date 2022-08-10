@@ -1,6 +1,6 @@
 # The Vanishing of Ethan Carter
-Rating: 4.23 (326)  
-Ratings Per Day: 5.50  
+Rating: 4.23 (327)  
+Ratings Per Day: 4.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,3 +23,4 @@ Ratings Per Day: 5.50
 | 2022-08-07 | 4.23 | 312 |
 | 2022-08-08 | 4.23 | 317 |
 | 2022-08-09 | 4.23 | 326 |
+| 2022-08-10 | 4.23 | 327 |

@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.82,
   "NumberOfRatings": 927,
-  "DailyRatings": 7.59,
+  "DailyRatings": 7,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
   "LastChanged": "2022-08-10T19:00:50.0569273+00:00",
   "RatingHistory": [
@@ -558,7 +558,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 147
+      "Count": 151
     },
     {
       "Text": "This game has a Creative Community",

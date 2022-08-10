@@ -1,6 +1,6 @@
 # Oddworld Soulstorm
 Rating: 4.65 (46)  
-Ratings Per Day: 0.58  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
