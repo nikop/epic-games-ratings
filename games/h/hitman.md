@@ -1,6 +1,6 @@
 # HITMAN
-Rating: 4.64 (4 109)  
-Ratings Per Day: 53.98  
+Rating: 4.64 (4 134)  
+Ratings Per Day: 54.02  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,3 +23,4 @@ Ratings Per Day: 53.98
 | 2022-08-07 | 4.65 | 4 010 |
 | 2022-08-08 | 4.64 | 4 076 |
 | 2022-08-09 | 4.64 | 4 109 |
+| 2022-08-10 | 4.64 | 4 134 |
