@@ -1,6 +1,6 @@
 # Verdun
 Rating: 4.51 (1 469)  
-Ratings Per Day: 15.38  
+Ratings Per Day: 15.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

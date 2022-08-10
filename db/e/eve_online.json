@@ -3,10 +3,10 @@
   "Name": "EVE Online",
   "Names": [],
   "Rating": 4.32,
-  "NumberOfRatings": 981,
-  "DailyRatings": 9.87,
+  "NumberOfRatings": 983,
+  "DailyRatings": 9.8,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2022-08-10T13:31:07.8385936+00:00",
+  "LastChanged": "2022-08-10T19:30:56.8360603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -382,6 +382,11 @@
       "Time": "2022-08-10T13:31:07.8385939+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 981
+    },
+    {
+      "Time": "2022-08-10T19:30:56.8360605+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 983
     }
   ],
   "Tags": [
@@ -395,7 +400,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 39
+      "Count": 41
     },
     {
       "Text": "This game is Extremely Fun",

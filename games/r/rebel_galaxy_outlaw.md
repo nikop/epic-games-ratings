@@ -1,6 +1,6 @@
 # Rebel Galaxy Outlaw
-Rating: 4.43 (103)  
-Ratings Per Day: 1.03  
+Rating: 4.43 (104)  
+Ratings Per Day: 1.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,4 +16,4 @@ Ratings Per Day: 1.03
 | 2022-08-05 | 4.41 | 98 |
 | 2022-08-08 | 4.41 | 99 |
 | 2022-08-09 | 4.42 | 101 |
-| 2022-08-10 | 4.43 | 103 |
+| 2022-08-10 | 4.43 | 104 |
