@@ -2,11 +2,11 @@
   "ID": "37e6d41ce91e44988190c2f10108d4e9",
   "Name": "Tales of the Neon Sea",
   "Names": [],
-  "Rating": 4.57,
-  "NumberOfRatings": 151,
-  "DailyRatings": 2.4,
+  "Rating": 4.58,
+  "NumberOfRatings": 153,
+  "DailyRatings": 2.33,
   "FirstSeen": "2022-07-22T20:18:14.4267103+00:00",
-  "LastChanged": "2022-08-09T09:30:52.6498721+00:00",
+  "LastChanged": "2022-08-10T10:00:42.2604868+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:14.4267106+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-08-09T09:30:52.6498723+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 151
+    },
+    {
+      "Time": "2022-08-10T10:00:42.260487+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 153
     }
   ],
   "Tags": []
