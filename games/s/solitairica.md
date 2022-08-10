@@ -1,6 +1,6 @@
 # Solitairica
 Rating: 4.49 (339)  
-Ratings Per Day: 4.67  
+Ratings Per Day: 4.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
