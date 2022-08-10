@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s The Division",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 176,
-  "DailyRatings": 1.57,
+  "NumberOfRatings": 177,
+  "DailyRatings": 1.7,
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2022-08-10T17:31:12.6855113+00:00",
+  "LastChanged": "2022-08-10T20:31:09.2665643+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -117,12 +117,17 @@
       "Time": "2022-08-10T17:31:12.6855242+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 176
+    },
+    {
+      "Time": "2022-08-10T20:31:09.2665648+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 177
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Great Boss Battles",
