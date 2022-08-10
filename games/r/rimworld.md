@@ -1,6 +1,6 @@
 # RimWorld
-Rating: 4.89 (642)  
-Ratings Per Day: 6.30  
+Rating: 4.89 (644)  
+Ratings Per Day: 6.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,4 +23,4 @@ Ratings Per Day: 6.30
 | 2022-08-07 | 4.88 | 625 |
 | 2022-08-08 | 4.89 | 632 |
 | 2022-08-09 | 4.89 | 636 |
-| 2022-08-10 | 4.89 | 642 |
+| 2022-08-10 | 4.89 | 644 |

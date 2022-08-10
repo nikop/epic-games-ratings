@@ -3,10 +3,10 @@
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 3346,
-  "DailyRatings": 24,
+  "NumberOfRatings": 3347,
+  "DailyRatings": 23.19,
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2022-08-10T16:01:28.5845788+00:00",
+  "LastChanged": "2022-08-10T17:31:24.4977581+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.936698+00:00",
@@ -722,6 +722,11 @@
       "Time": "2022-08-10T16:01:28.584579+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 3346
+    },
+    {
+      "Time": "2022-08-10T17:31:24.4977583+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 3347
     }
   ],
   "Tags": [
@@ -755,7 +760,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 171
+      "Count": 175
     },
     {
       "Text": "This game is Great for Beginners",
