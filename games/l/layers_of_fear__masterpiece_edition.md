@@ -1,6 +1,6 @@
 # Layers of Fear: Masterpiece Edition
-Rating: 4.42 (90)  
-Ratings Per Day: 1.33  
+Rating: 4.42 (91)  
+Ratings Per Day: 1.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 1.33
 | 2022-08-07 | 4.41 | 88 |
 | 2022-08-08 | 4.42 | 89 |
 | 2022-08-09 | 4.42 | 90 |
+| 2022-08-10 | 4.42 | 91 |
