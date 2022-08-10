@@ -1,6 +1,6 @@
 # Assassin's Creed® III: Remastered
-Rating: 4.43 (138)  
-Ratings Per Day: 0.51  
+Rating: 4.40 (141)  
+Ratings Per Day: 0.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 0.51
 | 2022-08-03 | 4.41 | 135 |
 | 2022-08-08 | 4.42 | 136 |
 | 2022-08-09 | 4.43 | 138 |
+| 2022-08-10 | 4.40 | 141 |
