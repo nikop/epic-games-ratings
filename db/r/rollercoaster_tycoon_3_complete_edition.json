@@ -3,10 +3,10 @@
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 396,
-  "DailyRatings": 8.21,
+  "NumberOfRatings": 398,
+  "DailyRatings": 8.05,
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2022-08-10T04:01:22.5580851+00:00",
+  "LastChanged": "2022-08-10T13:01:50.9858313+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:06.1047426+00:00",
@@ -217,6 +217,11 @@
       "Time": "2022-08-10T04:01:22.5580856+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 396
+    },
+    {
+      "Time": "2022-08-10T13:01:50.9858314+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 398
     }
   ],
   "Tags": []
