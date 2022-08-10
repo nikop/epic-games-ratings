@@ -3,10 +3,10 @@
   "Name": "HITMAN 3",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 15163,
-  "DailyRatings": 198.27,
+  "NumberOfRatings": 15183,
+  "DailyRatings": 197.87,
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
-  "LastChanged": "2022-08-10T06:30:24.3226317+00:00",
+  "LastChanged": "2022-08-10T10:31:49.3239539+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.80996+00:00",
@@ -942,6 +942,11 @@
       "Time": "2022-08-10T06:30:24.3226319+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 15163
+    },
+    {
+      "Time": "2022-08-10T10:31:49.3239541+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 15183
     }
   ],
   "Tags": [
@@ -955,7 +960,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 3058
+      "Count": 3105
     },
     {
       "Text": "This game has Amazing Storytelling",
