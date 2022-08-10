@@ -1,6 +1,6 @@
 # Speed Brawl
-Rating: 4.26 (76)  
-Ratings Per Day: 1.40  
+Rating: 4.27 (77)  
+Ratings Per Day: 1.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 1.40
 | 2022-08-06 | 4.25 | 71 |
 | 2022-08-07 | 4.27 | 75 |
 | 2022-08-09 | 4.26 | 76 |
+| 2022-08-10 | 4.27 | 77 |

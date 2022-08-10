@@ -2,11 +2,11 @@
   "ID": "3dd7b519d7ab4631ae96d3efa8588514",
   "Name": "Halcyon 6 Starbase Commander",
   "Names": [],
-  "Rating": 4.49,
-  "NumberOfRatings": 99,
-  "DailyRatings": 1.98,
+  "Rating": 4.48,
+  "NumberOfRatings": 100,
+  "DailyRatings": 1.81,
   "FirstSeen": "2022-07-22T20:18:35.8946593+00:00",
-  "LastChanged": "2022-08-09T00:30:27.8622823+00:00",
+  "LastChanged": "2022-08-10T00:30:32.4516598+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:35.8946599+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-09T00:30:27.8622826+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 99
+    },
+    {
+      "Time": "2022-08-10T00:30:32.45166+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 100
     }
   ],
   "Tags": []
