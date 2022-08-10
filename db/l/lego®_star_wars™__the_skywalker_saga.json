@@ -3,10 +3,10 @@
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 2109,
-  "DailyRatings": 12.15,
+  "NumberOfRatings": 2112,
+  "DailyRatings": 12.21,
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
-  "LastChanged": "2022-08-10T10:31:42.0431911+00:00",
+  "LastChanged": "2022-08-10T15:30:49.405545+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:57.6637815+00:00",
@@ -607,6 +607,11 @@
       "Time": "2022-08-10T10:31:42.0431913+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 2109
+    },
+    {
+      "Time": "2022-08-10T15:30:49.4055451+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 2112
     }
   ],
   "Tags": [
