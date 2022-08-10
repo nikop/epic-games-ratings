@@ -3,10 +3,10 @@
   "Name": "Hades",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 4501,
-  "DailyRatings": 52.92,
+  "NumberOfRatings": 4504,
+  "DailyRatings": 52.71,
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
-  "LastChanged": "2022-08-10T14:30:54.1841369+00:00",
+  "LastChanged": "2022-08-10T16:30:55.3334724+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.7235161+00:00",
@@ -697,6 +697,11 @@
       "Time": "2022-08-10T14:30:54.1841371+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 4501
+    },
+    {
+      "Time": "2022-08-10T16:30:55.3334728+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 4504
     }
   ],
   "Tags": [
@@ -750,7 +755,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Great for Beginners",

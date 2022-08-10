@@ -3,10 +3,10 @@
   "Name": "Ironcast",
   "Names": [],
   "Rating": 3.89,
-  "NumberOfRatings": 166,
-  "DailyRatings": 1.9,
+  "NumberOfRatings": 168,
+  "DailyRatings": 1.91,
   "FirstSeen": "2022-07-22T20:23:19.8161901+00:00",
-  "LastChanged": "2022-08-09T16:31:03.7408144+00:00",
+  "LastChanged": "2022-08-10T16:31:06.9711561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.8161904+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-08-09T16:31:03.7408145+00:00",
       "Rating": 3.89,
       "NumberOfRatings": 166
+    },
+    {
+      "Time": "2022-08-10T16:31:06.9711563+00:00",
+      "Rating": 3.89,
+      "NumberOfRatings": 168
     }
   ],
   "Tags": [

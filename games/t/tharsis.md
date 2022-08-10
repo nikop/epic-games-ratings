@@ -1,6 +1,6 @@
 # Tharsis
-Rating: 4.11 (38)  
-Ratings Per Day: 0.74  
+Rating: 4.13 (39)  
+Ratings Per Day: 0.79  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.74
 | 2022-08-06 | 4.06 | 36 |
 | 2022-08-07 | 4.08 | 37 |
 | 2022-08-09 | 4.11 | 38 |
+| 2022-08-10 | 4.13 | 39 |
