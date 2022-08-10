@@ -2,11 +2,11 @@
   "ID": "091d95ea332843498122beee1a786d71",
   "Name": "Darksiders II Deathinitive Edition",
   "Names": [],
-  "Rating": 4.65,
-  "NumberOfRatings": 510,
-  "DailyRatings": 8.18,
+  "Rating": 4.64,
+  "NumberOfRatings": 514,
+  "DailyRatings": 8.17,
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
-  "LastChanged": "2022-08-09T16:31:05.0219352+00:00",
+  "LastChanged": "2022-08-10T04:31:08.6166357+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:32.2059197+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-08-09T16:31:05.0219353+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 510
+    },
+    {
+      "Time": "2022-08-10T04:31:08.6167017+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 514
     }
   ],
   "Tags": [
