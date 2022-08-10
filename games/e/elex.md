@@ -1,6 +1,6 @@
 # ELEX
 Rating: 4.41 (41)  
-Ratings Per Day: 0.71  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

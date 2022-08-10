@@ -2,11 +2,11 @@
   "ID": "138c9362d8ff4c239076bc556e18cdac",
   "Name": "Ancient Enemy",
   "Names": [],
-  "Rating": 3.95,
-  "NumberOfRatings": 1784,
-  "DailyRatings": 9.1,
+  "Rating": 3.94,
+  "NumberOfRatings": 1786,
+  "DailyRatings": 8.74,
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
-  "LastChanged": "2022-08-10T07:30:39.7494065+00:00",
+  "LastChanged": "2022-08-10T19:01:01.2816403+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.0310517+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-08-10T07:30:39.7494067+00:00",
       "Rating": 3.95,
       "NumberOfRatings": 1784
+    },
+    {
+      "Time": "2022-08-10T19:01:01.2816404+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": 1786
     }
   ],
   "Tags": [

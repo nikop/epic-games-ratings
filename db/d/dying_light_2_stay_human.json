@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.6,
   "NumberOfRatings": 5351,
-  "DailyRatings": 45,
+  "DailyRatings": 45.32,
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "LastChanged": "2022-08-10T18:30:42.2123837+00:00",
   "RatingHistory": [
@@ -819,7 +819,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 78
+      "Count": 82
     },
     {
       "Text": "This game has Obsessive Gameplay",
