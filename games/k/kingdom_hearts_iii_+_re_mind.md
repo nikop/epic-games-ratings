@@ -1,6 +1,6 @@
 # KINGDOM HEARTS III + Re Mind
-Rating: 4.79 (1 331)  
-Ratings Per Day: 20.91  
+Rating: 4.79 (1 340)  
+Ratings Per Day: 20.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,4 +23,4 @@ Ratings Per Day: 20.91
 | 2022-08-07 | 4.79 | 1 299 |
 | 2022-08-08 | 4.79 | 1 310 |
 | 2022-08-09 | 4.79 | 1 324 |
-| 2022-08-10 | 4.79 | 1 331 |
+| 2022-08-10 | 4.79 | 1 340 |

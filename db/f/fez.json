@@ -3,10 +3,10 @@
   "Name": "Fez",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 70,
-  "DailyRatings": 0.5,
+  "NumberOfRatings": 71,
+  "DailyRatings": 0.57,
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
-  "LastChanged": "2022-08-09T22:01:44.1345227+00:00",
+  "LastChanged": "2022-08-10T22:01:42.2290798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:13.4186643+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-08-09T22:01:44.1345229+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 70
+    },
+    {
+      "Time": "2022-08-10T22:01:42.22908+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 71
     }
   ],
   "Tags": []
