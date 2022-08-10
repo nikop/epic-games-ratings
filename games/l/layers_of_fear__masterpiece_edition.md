@@ -1,6 +1,6 @@
 # Layers of Fear: Masterpiece Edition
 Rating: 4.42 (91)  
-Ratings Per Day: 1.29  
+Ratings Per Day: 1.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

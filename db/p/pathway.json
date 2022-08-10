@@ -2,11 +2,11 @@
   "ID": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
   "Name": "Pathway",
   "Names": [],
-  "Rating": 4.4,
-  "NumberOfRatings": 287,
-  "DailyRatings": 5,
+  "Rating": 4.41,
+  "NumberOfRatings": 292,
+  "DailyRatings": 4.87,
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
-  "LastChanged": "2022-08-09T14:32:09.9475678+00:00",
+  "LastChanged": "2022-08-10T15:01:57.0393646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.5183297+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-08-09T14:32:09.9475679+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 287
+    },
+    {
+      "Time": "2022-08-10T15:01:57.0393648+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 292
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Verdun",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 1462,
-  "DailyRatings": 15.14,
+  "NumberOfRatings": 1467,
+  "DailyRatings": 15.37,
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
-  "LastChanged": "2022-08-10T09:31:31.2811666+00:00",
+  "LastChanged": "2022-08-10T15:01:38.2666059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:07.9846698+00:00",
@@ -352,6 +352,11 @@
       "Time": "2022-08-10T09:31:31.2811667+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 1462
+    },
+    {
+      "Time": "2022-08-10T15:01:38.2666061+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 1467
     }
   ],
   "Tags": [
