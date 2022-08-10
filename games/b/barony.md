@@ -1,6 +1,6 @@
 # Barony
-Rating: 4.72 (459)  
-Ratings Per Day: 6.46  
+Rating: 4.72 (460)  
+Ratings Per Day: 6.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,4 +23,4 @@ Ratings Per Day: 6.46
 | 2022-08-07 | 4.72 | 437 |
 | 2022-08-08 | 4.72 | 446 |
 | 2022-08-09 | 4.72 | 454 |
-| 2022-08-10 | 4.72 | 459 |
+| 2022-08-10 | 4.72 | 460 |
