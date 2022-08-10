@@ -1,6 +1,6 @@
 # Skul: The Hero Slayer
-Rating: 4.69 (465)  
-Ratings Per Day: 2.57  
+Rating: 4.69 (467)  
+Ratings Per Day: 2.78  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,4 +20,4 @@ Ratings Per Day: 2.57
 | 2022-08-07 | 4.68 | 459 |
 | 2022-08-08 | 4.68 | 460 |
 | 2022-08-09 | 4.69 | 464 |
-| 2022-08-10 | 4.69 | 465 |
+| 2022-08-10 | 4.69 | 467 |
