@@ -3,10 +3,10 @@
   "Name": "Elite Dangerous",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 4650,
-  "DailyRatings": 67.62,
+  "NumberOfRatings": 4653,
+  "DailyRatings": 67.02,
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2022-08-10T05:00:46.9107909+00:00",
+  "LastChanged": "2022-08-10T07:30:55.6959918+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -842,6 +842,11 @@
       "Time": "2022-08-10T05:00:46.910791+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 4650
+    },
+    {
+      "Time": "2022-08-10T07:30:55.695992+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 4653
     }
   ],
   "Tags": [
