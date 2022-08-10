@@ -1,6 +1,6 @@
 # Fez
 Rating: 4.70 (71)  
-Ratings Per Day: 0.57  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
