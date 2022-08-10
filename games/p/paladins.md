@@ -1,6 +1,6 @@
 # Paladins
 Rating: 4.35 (8 719)  
-Ratings Per Day: 81.25  
+Ratings Per Day: 81.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

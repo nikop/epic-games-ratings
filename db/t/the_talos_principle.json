@@ -3,10 +3,10 @@
   "Name": "The Talos Principle",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 185,
-  "DailyRatings": 2.93,
+  "NumberOfRatings": 187,
+  "DailyRatings": 2.79,
   "FirstSeen": "2022-07-22T20:29:14.4566709+00:00",
-  "LastChanged": "2022-08-09T21:31:50.219928+00:00",
+  "LastChanged": "2022-08-10T21:31:54.5922572+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:14.4566711+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-08-09T21:31:50.2199281+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 185
+    },
+    {
+      "Time": "2022-08-10T21:31:54.5922573+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 187
     }
   ],
   "Tags": []
