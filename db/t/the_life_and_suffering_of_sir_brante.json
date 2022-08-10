@@ -2,17 +2,22 @@
   "ID": "45bd0f6fc2704e22a3c1933f7bb972bf",
   "Name": "The Life and Suffering of Sir Brante",
   "Names": [],
-  "Rating": 4.8,
-  "NumberOfRatings": 20,
+  "Rating": 4.81,
+  "NumberOfRatings": 21,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:20.7872128+00:00",
   "FirstSeenRating": "2022-08-01T11:01:07.2774148+00:00",
-  "LastChanged": "2022-08-01T11:01:07.2774149+00:00",
+  "LastChanged": "2022-08-10T01:00:57.1014423+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-01T11:01:07.277415+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-08-10T01:00:57.1014512+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []
