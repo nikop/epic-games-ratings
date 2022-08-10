@@ -3,10 +3,10 @@
   "Name": "Shadow Tactics - Aiko\u0027s Choice",
   "Names": [],
   "Rating": 4.79,
-  "NumberOfRatings": 38,
+  "NumberOfRatings": 39,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
-  "LastChanged": "2022-08-02T03:01:53.6750369+00:00",
+  "LastChanged": "2022-08-10T00:01:58.8805279+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:07.8581551+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-08-02T03:01:53.675037+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 38
+    },
+    {
+      "Time": "2022-08-10T00:01:58.880528+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 39
     }
   ],
   "Tags": []
