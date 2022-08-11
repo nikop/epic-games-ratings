@@ -3,10 +3,10 @@
   "Name": "Deponia: The Complete Journey",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 512,
-  "DailyRatings": 4.87,
+  "NumberOfRatings": 519,
+  "DailyRatings": 5.55,
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2022-08-11T09:32:42.3001465+00:00",
+  "LastChanged": "2022-08-11T23:32:35.9087838+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.180418+00:00",
@@ -182,6 +182,11 @@
       "Time": "2022-08-11T09:32:42.3001467+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 512
+    },
+    {
+      "Time": "2022-08-11T23:32:35.908784+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 519
     }
   ],
   "Tags": [
