@@ -3,10 +3,10 @@
   "Name": "World of Warships",
   "Names": [],
   "Rating": 4.43,
-  "NumberOfRatings": 3195,
-  "DailyRatings": 35.27,
+  "NumberOfRatings": 3198,
+  "DailyRatings": 35.49,
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2022-08-11T00:30:17.2244538+00:00",
+  "LastChanged": "2022-08-11T01:30:19.1289193+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -822,6 +822,11 @@
       "Time": "2022-08-11T00:30:17.2244542+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 3195
+    },
+    {
+      "Time": "2022-08-11T01:30:19.1289198+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 3198
     }
   ],
   "Tags": [
