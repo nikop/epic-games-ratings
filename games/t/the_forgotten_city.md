@@ -1,6 +1,6 @@
 # The Forgotten City
-Rating: 4.57 (30)  
-Ratings Per Day: 1.00  
+Rating: 4.58 (31)  
+Ratings Per Day: 0.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 1.00
 | 2022-08-04 | 4.59 | 27 |
 | 2022-08-06 | 4.62 | 29 |
 | 2022-08-07 | 4.57 | 30 |
+| 2022-08-11 | 4.58 | 31 |
