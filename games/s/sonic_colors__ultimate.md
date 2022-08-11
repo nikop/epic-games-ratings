@@ -1,6 +1,6 @@
 # Sonic Colors: Ultimate
-Rating: 4.44 (148)  
-Ratings Per Day: 1.48  
+Rating: 4.43 (149)  
+Ratings Per Day: 0.74  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,3 +19,4 @@ Ratings Per Day: 1.48
 | 2022-08-04 | 4.45 | 144 |
 | 2022-08-06 | 4.43 | 146 |
 | 2022-08-07 | 4.44 | 148 |
+| 2022-08-11 | 4.43 | 149 |

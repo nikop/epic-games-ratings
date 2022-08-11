@@ -3,10 +3,10 @@
   "Name": "20XX",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 262,
-  "DailyRatings": 1.36,
+  "NumberOfRatings": 267,
+  "DailyRatings": 1.89,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-08-10T03:00:56.6360965+00:00",
+  "LastChanged": "2022-08-11T17:30:46.6037738+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-08-10T03:00:56.6360967+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 262
+    },
+    {
+      "Time": "2022-08-11T17:30:46.6037747+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 267
     }
   ],
   "Tags": []

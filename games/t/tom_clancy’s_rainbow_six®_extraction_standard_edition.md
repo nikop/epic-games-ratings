@@ -1,6 +1,6 @@
 # Tom Clancy’s Rainbow Six® Extraction Standard Edition
-Rating: 4.56 (424)  
-Ratings Per Day: 3.52  
+Rating: 4.56 (427)  
+Ratings Per Day: 3.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 3.52
 | 2022-08-07 | 4.56 | 420 |
 | 2022-08-09 | 4.56 | 421 |
 | 2022-08-10 | 4.56 | 424 |
+| 2022-08-11 | 4.56 | 427 |
