@@ -3,10 +3,10 @@
   "Name": "Star Trek Online",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 426,
-  "DailyRatings": 3.52,
+  "NumberOfRatings": 427,
+  "DailyRatings": 3.45,
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2022-08-10T14:01:48.7206635+00:00",
+  "LastChanged": "2022-08-11T00:00:20.9695296+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:13.4550296+00:00",
@@ -227,6 +227,11 @@
       "Time": "2022-08-10T14:01:48.7206637+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 426
+    },
+    {
+      "Time": "2022-08-11T00:00:20.9695298+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 427
     }
   ],
   "Tags": [
@@ -244,7 +249,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 45
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Characters",
