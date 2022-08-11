@@ -1,6 +1,6 @@
 # Patron
 Rating: 3.83 (23)  
-Ratings Per Day: 0.73  
+Ratings Per Day: 0.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
