@@ -1,6 +1,6 @@
 # A Short Hike
 Rating: 4.79 (121)  
-Ratings Per Day: 2.14  
+Ratings Per Day: 2.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
