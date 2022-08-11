@@ -3,10 +3,10 @@
   "Name": "The Witness",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 332,
-  "DailyRatings": 4.87,
+  "NumberOfRatings": 335,
+  "DailyRatings": 4.59,
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2022-08-10T12:01:14.9605593+00:00",
+  "LastChanged": "2022-08-11T12:01:17.4003886+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:54.428207+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-08-10T12:01:14.9605595+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 332
+    },
+    {
+      "Time": "2022-08-11T12:01:17.4003887+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 335
     }
   ],
   "Tags": [

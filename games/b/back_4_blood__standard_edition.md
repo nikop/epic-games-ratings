@@ -1,6 +1,6 @@
 # Back 4 Blood: Standard Edition
-Rating: 4.47 (1 979)  
-Ratings Per Day: 15.31  
+Rating: 4.47 (1 984)  
+Ratings Per Day: 15.71  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,4 +24,4 @@ Ratings Per Day: 15.31
 | 2022-08-08 | 4.47 | 1 946 |
 | 2022-08-09 | 4.47 | 1 960 |
 | 2022-08-10 | 4.47 | 1 975 |
-| 2022-08-11 | 4.47 | 1 979 |
+| 2022-08-11 | 4.47 | 1 984 |
