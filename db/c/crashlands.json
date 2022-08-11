@@ -3,10 +3,10 @@
   "Name": "Crashlands",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 349,
-  "DailyRatings": 4.42,
+  "NumberOfRatings": 351,
+  "DailyRatings": 4.64,
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2022-08-11T16:31:27.2092107+00:00",
+  "LastChanged": "2022-08-11T19:01:53.2457899+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:11.0234057+00:00",
@@ -187,6 +187,11 @@
       "Time": "2022-08-11T16:31:27.2092108+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 349
+    },
+    {
+      "Time": "2022-08-11T19:01:53.24579+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 351
     }
   ],
   "Tags": [
@@ -196,7 +201,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 32
+      "Count": 33
     }
   ]
 }
