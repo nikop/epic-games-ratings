@@ -3,10 +3,10 @@
   "Name": "Timberborn",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 338,
-  "DailyRatings": 5.14,
+  "NumberOfRatings": 344,
+  "DailyRatings": 5.3,
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2022-08-10T03:31:22.4692548+00:00",
+  "LastChanged": "2022-08-11T02:31:30.6658751+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:12.1167854+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-08-10T03:31:22.4692549+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 338
+    },
+    {
+      "Time": "2022-08-11T02:31:30.6658753+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 344
     }
   ],
   "Tags": [
