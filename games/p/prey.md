@@ -1,6 +1,6 @@
 # Prey
 Rating: 4.61 (9 671)  
-Ratings Per Day: 101.70  
+Ratings Per Day: 100.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

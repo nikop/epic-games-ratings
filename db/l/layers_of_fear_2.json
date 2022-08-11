@@ -3,10 +3,10 @@
   "Name": "Layers of Fear 2",
   "Names": [],
   "Rating": 4.24,
-  "NumberOfRatings": 152,
-  "DailyRatings": 2.6,
+  "NumberOfRatings": 154,
+  "DailyRatings": 2.64,
   "FirstSeen": "2022-07-22T20:31:56.3171366+00:00",
-  "LastChanged": "2022-08-10T21:02:10.9698676+00:00",
+  "LastChanged": "2022-08-11T13:32:31.358737+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:56.3171368+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-08-10T21:02:10.9698677+00:00",
       "Rating": 4.24,
       "NumberOfRatings": 152
+    },
+    {
+      "Time": "2022-08-11T13:32:31.3587372+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 154
     }
   ],
   "Tags": []

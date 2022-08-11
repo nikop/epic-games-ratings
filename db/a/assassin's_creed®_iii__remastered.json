@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed\u00AE III: Remastered",
   "Names": [],
   "Rating": 4.4,
-  "NumberOfRatings": 141,
-  "DailyRatings": 2.5,
+  "NumberOfRatings": 146,
+  "DailyRatings": 3.33,
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2022-08-10T13:32:17.3105425+00:00",
+  "LastChanged": "2022-08-11T13:31:45.4785398+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:27.0025151+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-10T13:32:17.3105426+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 141
+    },
+    {
+      "Time": "2022-08-11T13:31:45.4785399+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 146
     }
   ],
   "Tags": [
