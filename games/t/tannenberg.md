@@ -1,6 +1,6 @@
 # Tannenberg
-Rating: 4.38 (11 164)  
-Ratings Per Day: 196.53  
+Rating: 4.38 (11 166)  
+Ratings Per Day: 193.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,4 +24,4 @@ Ratings Per Day: 196.53
 | 2022-08-08 | 4.38 | 10 876 |
 | 2022-08-09 | 4.38 | 11 006 |
 | 2022-08-10 | 4.38 | 11 127 |
-| 2022-08-11 | 4.38 | 11 164 |
+| 2022-08-11 | 4.38 | 11 166 |
