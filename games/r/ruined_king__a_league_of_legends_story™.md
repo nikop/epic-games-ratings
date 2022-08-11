@@ -1,6 +1,6 @@
 # Ruined King: A League of Legends Story™
-Rating: 4.60 (461)  
-Ratings Per Day: 3.67  
+Rating: 4.60 (462)  
+Ratings Per Day: 3.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 3.67
 | 2022-08-08 | 4.59 | 455 |
 | 2022-08-09 | 4.59 | 456 |
 | 2022-08-10 | 4.60 | 461 |
+| 2022-08-11 | 4.60 | 462 |
