@@ -2,11 +2,11 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "Names": [],
-  "Rating": 3.97,
-  "NumberOfRatings": 34,
-  "DailyRatings": 0.74,
+  "Rating": 3.94,
+  "NumberOfRatings": 35,
+  "DailyRatings": 0.56,
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
-  "LastChanged": "2022-08-09T01:00:53.8125235+00:00",
+  "LastChanged": "2022-08-11T17:01:30.7778012+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T16:01:41.0420803+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-08-09T01:00:53.8125336+00:00",
       "Rating": 3.97,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-08-11T17:01:30.7778014+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": 35
     }
   ],
   "Tags": []
