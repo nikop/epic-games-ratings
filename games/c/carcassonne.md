@@ -1,6 +1,6 @@
 # Carcassonne
-Rating: 4.73 (187)  
-Ratings Per Day: 2.03  
+Rating: 4.73 (189)  
+Ratings Per Day: 2.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 2.03
 | 2022-08-08 | 4.73 | 184 |
 | 2022-08-09 | 4.73 | 185 |
 | 2022-08-10 | 4.73 | 187 |
+| 2022-08-11 | 4.73 | 189 |
