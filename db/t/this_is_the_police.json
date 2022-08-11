@@ -3,10 +3,10 @@
   "Name": "This Is The Police",
   "Names": [],
   "Rating": 4.78,
-  "NumberOfRatings": 36,
-  "DailyRatings": 0.66,
+  "NumberOfRatings": 37,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:22:17.2330735+00:00",
-  "LastChanged": "2022-08-08T10:00:58.1676519+00:00",
+  "LastChanged": "2022-08-11T10:01:16.9502636+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:17.2330737+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-08T10:00:58.167652+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-08-11T10:01:16.9502638+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 37
     }
   ],
   "Tags": []
