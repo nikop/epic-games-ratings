@@ -2,11 +2,11 @@
   "ID": "c50f4a5c796e4abdbf8025cfbf5cff21",
   "Name": "Pikuniku",
   "Names": [],
-  "Rating": 4.68,
-  "NumberOfRatings": 304,
-  "DailyRatings": 3.68,
+  "Rating": 4.69,
+  "NumberOfRatings": 306,
+  "DailyRatings": 3.66,
   "FirstSeen": "2022-07-22T20:25:30.6223242+00:00",
-  "LastChanged": "2022-08-10T19:01:58.4470439+00:00",
+  "LastChanged": "2022-08-11T09:01:42.6199412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:30.6223245+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-08-10T19:01:58.4470442+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 304
+    },
+    {
+      "Time": "2022-08-11T09:01:42.6199413+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 306
     }
   ],
   "Tags": []
