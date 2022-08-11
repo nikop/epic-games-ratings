@@ -3,10 +3,10 @@
   "Name": "OUTRIDERS",
   "Names": [],
   "Rating": 4.43,
-  "NumberOfRatings": 988,
-  "DailyRatings": 5.83,
+  "NumberOfRatings": 990,
+  "DailyRatings": 5.98,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-08-11T16:01:15.8713281+00:00",
+  "LastChanged": "2022-08-11T20:30:40.8817762+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -427,6 +427,11 @@
       "Time": "2022-08-11T16:01:15.8713283+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 988
+    },
+    {
+      "Time": "2022-08-11T20:30:40.8817763+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 990
     }
   ],
   "Tags": [
@@ -468,7 +473,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 62
+      "Count": 64
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -3,10 +3,10 @@
   "Name": "Surviving Mars",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 2295,
-  "DailyRatings": 32.05,
+  "NumberOfRatings": 2300,
+  "DailyRatings": 32,
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2022-08-11T16:30:47.2468269+00:00",
+  "LastChanged": "2022-08-11T20:30:42.118947+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.5955068+00:00",
@@ -612,6 +612,11 @@
       "Time": "2022-08-11T16:30:47.246827+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 2295
+    },
+    {
+      "Time": "2022-08-11T20:30:42.1189471+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 2300
     }
   ],
   "Tags": [
@@ -653,7 +658,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 61
+      "Count": 64
     }
   ]
 }

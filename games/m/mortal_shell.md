@@ -1,6 +1,6 @@
 # Mortal Shell
-Rating: 4.40 (139)  
-Ratings Per Day: 3.12  
+Rating: 4.39 (142)  
+Ratings Per Day: 3.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 3.12
 | 2022-08-08 | 4.40 | 128 |
 | 2022-08-09 | 4.39 | 133 |
 | 2022-08-10 | 4.40 | 139 |
+| 2022-08-11 | 4.39 | 142 |
