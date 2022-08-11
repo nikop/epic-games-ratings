@@ -3,10 +3,10 @@
   "Name": "NBA 2K21",
   "Names": [],
   "Rating": 4.41,
-  "NumberOfRatings": 34834,
-  "DailyRatings": 261.58,
+  "NumberOfRatings": 34851,
+  "DailyRatings": 262.27,
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2022-08-11T15:02:08.1577142+00:00",
+  "LastChanged": "2022-08-11T15:32:23.5739169+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:01.1099603+00:00",
@@ -967,6 +967,11 @@
       "Time": "2022-08-11T15:02:08.1577143+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 34834
+    },
+    {
+      "Time": "2022-08-11T15:32:23.5739171+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 34851
     }
   ],
   "Tags": [

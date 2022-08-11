@@ -3,10 +3,10 @@
   "Name": "Sherlock Holmes: Crimes and Punishments",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 297,
-  "DailyRatings": 4.14,
+  "NumberOfRatings": 302,
+  "DailyRatings": 4.28,
   "FirstSeen": "2022-07-22T20:25:12.9656224+00:00",
-  "LastChanged": "2022-08-10T15:31:53.9373509+00:00",
+  "LastChanged": "2022-08-11T15:32:15.8812526+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:12.9656226+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-08-10T15:31:53.9373511+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 297
+    },
+    {
+      "Time": "2022-08-11T15:32:15.8812527+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 302
     }
   ],
   "Tags": []

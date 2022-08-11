@@ -3,10 +3,10 @@
   "Name": "Unrailed!",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 11148,
-  "DailyRatings": 1660.46,
+  "NumberOfRatings": 11242,
+  "DailyRatings": 1664.09,
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
-  "LastChanged": "2022-08-11T14:31:24.6008549+00:00",
+  "LastChanged": "2022-08-11T15:31:57.3093843+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-23T20:01:02.5294037+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-08-11T14:31:24.6008549+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 11148
+    },
+    {
+      "Time": "2022-08-11T15:31:57.3093845+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 11242
     }
   ],
   "Tags": []
