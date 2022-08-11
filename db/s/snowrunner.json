@@ -3,10 +3,10 @@
   "Name": "SnowRunner",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 14956,
-  "DailyRatings": 142.68,
+  "NumberOfRatings": 14974,
+  "DailyRatings": 143.13,
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2022-08-11T19:30:41.485817+00:00",
+  "LastChanged": "2022-08-11T22:00:25.8907387+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -997,6 +997,11 @@
       "Time": "2022-08-11T19:30:41.4858172+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 14956
+    },
+    {
+      "Time": "2022-08-11T22:00:25.890739+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 14974
     }
   ],
   "Tags": [

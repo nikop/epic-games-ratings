@@ -1,4 +1,4 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 3 825 | 196.34 |
-| 2 | [MultiVersus](games/m/multiversus.md) | 4.59 | 32 971 | 2277.27 |
+| 1 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 3 836 | 195.00 |
+| 2 | [MultiVersus](games/m/multiversus.md) | 4.59 | 32 971 | 2269.74 |
