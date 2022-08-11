@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Knight",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 4860,
-  "DailyRatings": 64.67,
+  "NumberOfRatings": 4866,
+  "DailyRatings": 65.15,
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2022-08-11T02:32:01.8079494+00:00",
+  "LastChanged": "2022-08-11T03:31:24.8475832+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:23.4007296+00:00",
@@ -827,12 +827,17 @@
       "Time": "2022-08-11T02:32:01.8079496+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 4860
+    },
+    {
+      "Time": "2022-08-11T03:31:24.8475835+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 4866
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1932
+      "Count": 1965
     },
     {
       "Text": "This game has Amazing Storytelling",
