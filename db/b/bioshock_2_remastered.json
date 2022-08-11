@@ -3,10 +3,10 @@
   "Name": "BioShock 2 Remastered",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 10088,
-  "DailyRatings": 74.42,
+  "NumberOfRatings": 10096,
+  "DailyRatings": 74.45,
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2022-08-11T17:31:59.3584233+00:00",
+  "LastChanged": "2022-08-11T20:02:14.3602595+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:15.5533474+00:00",
@@ -652,12 +652,17 @@
       "Time": "2022-08-11T17:31:59.3584234+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 10088
+    },
+    {
+      "Time": "2022-08-11T20:02:14.3602597+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 10096
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2471
+      "Count": 2492
     },
     {
       "Text": "This game is Highly Recommended",

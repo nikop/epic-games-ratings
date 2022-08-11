@@ -1,6 +1,6 @@
 # Torchlight II
 Rating: 4.56 (1 489)  
-Ratings Per Day: 20.36  
+Ratings Per Day: 21.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
