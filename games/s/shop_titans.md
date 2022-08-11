@@ -1,6 +1,6 @@
 # Shop Titans
-Rating: 3.92 (10 382)  
-Ratings Per Day: 222.11  
+Rating: 3.92 (10 401)  
+Ratings Per Day: 219.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 222.11
 | 2022-08-08 | 3.91 | 10 080 |
 | 2022-08-09 | 3.91 | 10 218 |
 | 2022-08-10 | 3.92 | 10 382 |
+| 2022-08-11 | 3.92 | 10 401 |
