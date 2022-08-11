@@ -3,10 +3,10 @@
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "Names": [],
   "Rating": 4.74,
-  "NumberOfRatings": 632,
-  "DailyRatings": 9.33,
+  "NumberOfRatings": 633,
+  "DailyRatings": 9.31,
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2022-08-11T15:01:50.3837992+00:00",
+  "LastChanged": "2022-08-11T18:01:42.5451127+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:01.0577718+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-08-11T15:01:50.3837993+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 632
+    },
+    {
+      "Time": "2022-08-11T18:01:42.5451129+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 633
     }
   ],
   "Tags": [
