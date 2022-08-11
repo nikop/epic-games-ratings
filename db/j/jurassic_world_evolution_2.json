@@ -3,10 +3,10 @@
   "Name": "Jurassic World Evolution 2",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 3034,
-  "DailyRatings": 19.08,
+  "NumberOfRatings": 3035,
+  "DailyRatings": 18.75,
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2022-08-10T22:01:33.468453+00:00",
+  "LastChanged": "2022-08-11T02:00:43.8758661+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.4170437+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-08-10T22:01:33.4684531+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 3034
+    },
+    {
+      "Time": "2022-08-11T02:00:43.8758664+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 3035
     }
   ],
   "Tags": [

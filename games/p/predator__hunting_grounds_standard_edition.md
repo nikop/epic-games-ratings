@@ -1,6 +1,6 @@
 # Predator: Hunting Grounds Standard Edition
 Rating: 4.38 (614)  
-Ratings Per Day: 10.89  
+Ratings Per Day: 11.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
