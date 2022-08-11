@@ -3,10 +3,10 @@
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 13275,
-  "DailyRatings": 65.25,
+  "NumberOfRatings": 13281,
+  "DailyRatings": 65.53,
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2022-08-11T20:01:15.8376369+00:00",
+  "LastChanged": "2022-08-11T21:30:49.7004805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:16.7757902+00:00",
@@ -927,6 +927,11 @@
       "Time": "2022-08-11T20:01:15.837637+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 13275
+    },
+    {
+      "Time": "2022-08-11T21:30:49.7004807+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 13281
     }
   ],
   "Tags": [
@@ -956,7 +961,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 168
+      "Count": 170
     },
     {
       "Text": "This game has Amazing Characters",
