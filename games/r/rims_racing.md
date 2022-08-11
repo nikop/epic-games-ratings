@@ -1,5 +1,5 @@
 # RiMS Racing
-Rating: 4.39 (28)  
+Rating: 4.41 (29)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.00
 | 2022-07-26 | 4.42 | 26 |
 | 2022-07-31 | 4.37 | 27 |
 | 2022-08-01 | 4.39 | 28 |
+| 2022-08-11 | 4.41 | 29 |
