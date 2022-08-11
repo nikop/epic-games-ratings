@@ -3,10 +3,10 @@
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 3587,
-  "DailyRatings": 47.7,
+  "NumberOfRatings": 3607,
+  "DailyRatings": 48.43,
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2022-08-11T07:31:58.5135611+00:00",
+  "LastChanged": "2022-08-11T15:02:25.7435874+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:06.5840638+00:00",
@@ -512,6 +512,11 @@
       "Time": "2022-08-11T07:31:58.5135613+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 3587
+    },
+    {
+      "Time": "2022-08-11T15:02:25.7435876+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 3607
     }
   ],
   "Tags": [
@@ -549,7 +554,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game has Diverse Characters",

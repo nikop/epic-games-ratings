@@ -3,10 +3,10 @@
   "Name": "Steep Standard Edition",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 235,
-  "DailyRatings": 9.95,
+  "NumberOfRatings": 245,
+  "DailyRatings": 9.96,
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2022-08-10T15:01:09.1354935+00:00",
+  "LastChanged": "2022-08-11T15:01:37.4259287+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:40.9407936+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-08-10T15:01:09.1354937+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 235
+    },
+    {
+      "Time": "2022-08-11T15:01:37.4259288+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 245
     }
   ],
   "Tags": []
