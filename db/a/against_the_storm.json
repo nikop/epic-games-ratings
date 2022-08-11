@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.82,
   "NumberOfRatings": 1408,
-  "DailyRatings": 33.73,
+  "DailyRatings": 33.33,
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "LastChanged": "2022-08-11T03:31:36.1508862+00:00",
   "RatingHistory": [
@@ -788,7 +788,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 108
+      "Count": 114
     },
     {
       "Text": "This game is Great for Beginners",
