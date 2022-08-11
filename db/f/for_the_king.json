@@ -3,10 +3,10 @@
   "Name": "For The King",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 3794,
-  "DailyRatings": 53.07,
+  "NumberOfRatings": 3802,
+  "DailyRatings": 52.43,
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2022-08-11T20:01:53.6532715+00:00",
+  "LastChanged": "2022-08-11T23:01:33.3834683+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -782,6 +782,11 @@
       "Time": "2022-08-11T20:01:53.6532717+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 3794
+    },
+    {
+      "Time": "2022-08-11T23:01:33.3834685+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 3802
     }
   ],
   "Tags": [
@@ -823,7 +828,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 94
+      "Count": 98
     }
   ]
 }
