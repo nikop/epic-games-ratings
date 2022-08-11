@@ -3,10 +3,10 @@
   "Name": "Rage 2",
   "Names": [],
   "Rating": 4.29,
-  "NumberOfRatings": 2762,
-  "DailyRatings": 34.01,
+  "NumberOfRatings": 2776,
+  "DailyRatings": 35.31,
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
-  "LastChanged": "2022-08-11T15:01:31.7623593+00:00",
+  "LastChanged": "2022-08-11T18:31:38.3346467+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.0256753+00:00",
@@ -557,6 +557,11 @@
       "Time": "2022-08-11T15:01:31.7623594+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 2762
+    },
+    {
+      "Time": "2022-08-11T18:31:38.3346468+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 2776
     }
   ],
   "Tags": [
@@ -586,7 +591,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has Quickly Understood Controls",

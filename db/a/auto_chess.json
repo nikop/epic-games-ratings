@@ -3,10 +3,10 @@
   "Name": "Auto Chess",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 1714,
-  "DailyRatings": 12.77,
+  "NumberOfRatings": 1715,
+  "DailyRatings": 12.76,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2022-08-11T16:30:56.3008059+00:00",
+  "LastChanged": "2022-08-11T18:31:34.2204659+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -637,6 +637,11 @@
       "Time": "2022-08-11T16:30:56.3008061+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 1714
+    },
+    {
+      "Time": "2022-08-11T18:31:34.220466+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1715
     }
   ],
   "Tags": [

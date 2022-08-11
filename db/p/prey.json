@@ -3,10 +3,10 @@
   "Name": "Prey",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 9680,
-  "DailyRatings": 99.61,
+  "NumberOfRatings": 9698,
+  "DailyRatings": 100.16,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2022-08-11T15:33:15.6177775+00:00",
+  "LastChanged": "2022-08-11T18:32:59.0605954+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -787,6 +787,11 @@
       "Time": "2022-08-11T15:33:15.6177778+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 9680
+    },
+    {
+      "Time": "2022-08-11T18:32:59.0605955+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 9698
     }
   ],
   "Tags": [
@@ -812,7 +817,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 107
+      "Count": 110
     },
     {
       "Text": "This game has Amazing Storytelling",
