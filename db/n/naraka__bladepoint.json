@@ -3,10 +3,10 @@
   "Name": "NARAKA: BLADEPOINT",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 105734,
-  "DailyRatings": 601.25,
+  "NumberOfRatings": 105751,
+  "DailyRatings": 591.62,
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2022-08-11T02:30:58.0698925+00:00",
+  "LastChanged": "2022-08-11T04:00:23.9734908+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:04.1152304+00:00",
@@ -847,6 +847,11 @@
       "Time": "2022-08-11T02:30:58.0698926+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 105734
+    },
+    {
+      "Time": "2022-08-11T04:00:23.9734915+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 105751
     }
   ],
   "Tags": [
@@ -856,7 +861,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 15786
+      "Count": 16091
     },
     {
       "Text": "This game has Diverse Characters",
