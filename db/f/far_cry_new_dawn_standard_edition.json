@@ -2,11 +2,11 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "Names": [],
-  "Rating": 4.46,
-  "NumberOfRatings": 237,
-  "DailyRatings": 2.54,
+  "Rating": 4.45,
+  "NumberOfRatings": 238,
+  "DailyRatings": 2.64,
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2022-08-12T18:01:11.5975761+00:00",
+  "LastChanged": "2022-08-12T21:30:54.0432842+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -167,12 +167,17 @@
       "Time": "2022-08-12T18:01:11.5975763+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 237
+    },
+    {
+      "Time": "2022-08-12T21:30:54.0432845+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 238
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 66
+      "Count": 67
     }
   ]
 }

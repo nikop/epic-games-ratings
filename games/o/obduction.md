@@ -1,6 +1,6 @@
 # Obduction
-Rating: 4.14 (160)  
-Ratings Per Day: 2.68  
+Rating: 4.15 (162)  
+Ratings Per Day: 2.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 2.68
 | 2022-08-09 | 4.14 | 154 |
 | 2022-08-10 | 4.14 | 156 |
 | 2022-08-11 | 4.14 | 160 |
+| 2022-08-12 | 4.15 | 162 |

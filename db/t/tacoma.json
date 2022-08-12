@@ -3,10 +3,10 @@
   "Name": "Tacoma",
   "Names": [],
   "Rating": 4.29,
-  "NumberOfRatings": 41,
-  "DailyRatings": 0.5,
+  "NumberOfRatings": 42,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
-  "LastChanged": "2022-08-08T21:31:29.8014889+00:00",
+  "LastChanged": "2022-08-12T21:31:20.3909835+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.2049997+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-08T21:31:29.801489+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-08-12T21:31:20.3909838+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 42
     }
   ],
   "Tags": []
