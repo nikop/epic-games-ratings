@@ -1,6 +1,6 @@
 # Northgard
 Rating: 4.78 (54)  
-Ratings Per Day: 1.12  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
