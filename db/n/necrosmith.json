@@ -2,11 +2,11 @@
   "ID": "15a8369cd43b4d359d7c547ad81d39e8",
   "Name": "Necrosmith",
   "Names": [],
-  "Rating": 4.41,
-  "NumberOfRatings": 121,
-  "DailyRatings": 0.75,
+  "Rating": 4.42,
+  "NumberOfRatings": 122,
+  "DailyRatings": 0.57,
   "FirstSeen": "2022-07-22T20:29:55.4913885+00:00",
-  "LastChanged": "2022-08-09T19:32:36.5330867+00:00",
+  "LastChanged": "2022-08-12T18:32:04.7694645+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:55.4913887+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-08-09T19:32:36.5330868+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 121
+    },
+    {
+      "Time": "2022-08-12T18:32:04.7694647+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 122
     }
   ],
   "Tags": []

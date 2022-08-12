@@ -3,10 +3,10 @@
   "Name": "BioShock Remastered",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 20011,
-  "DailyRatings": 135.86,
+  "NumberOfRatings": 20028,
+  "DailyRatings": 136.27,
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2022-08-12T16:02:21.0246153+00:00",
+  "LastChanged": "2022-08-12T18:32:29.8946231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:07.4798795+00:00",
@@ -667,6 +667,11 @@
       "Time": "2022-08-12T16:02:21.0246154+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 20011
+    },
+    {
+      "Time": "2022-08-12T18:32:29.8946232+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 20028
     }
   ],
   "Tags": [
