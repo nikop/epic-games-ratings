@@ -1,6 +1,6 @@
 # Animation Throwdown: The Quest for Cards
 Rating: 4.32 (705)  
-Ratings Per Day: 5.60  
+Ratings Per Day: 5.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
