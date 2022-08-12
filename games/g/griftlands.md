@@ -1,6 +1,6 @@
 # Griftlands
-Rating: 4.80 (113)  
-Ratings Per Day: 4.00  
+Rating: 4.80 (114)  
+Ratings Per Day: 0.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 4.00
 | 2022-08-02 | 4.79 | 106 |
 | 2022-08-03 | 4.79 | 111 |
 | 2022-08-07 | 4.80 | 113 |
+| 2022-08-12 | 4.80 | 114 |
