@@ -1,6 +1,6 @@
 # Iron Harvest
 Rating: 4.40 (124)  
-Ratings Per Day: 0.81  
+Ratings Per Day: 0.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
