@@ -1,6 +1,6 @@
 # FAR CRY 4
-Rating: 4.69 (453)  
-Ratings Per Day: 4.54  
+Rating: 4.69 (454)  
+Ratings Per Day: 4.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,4 +23,4 @@ Ratings Per Day: 4.54
 | 2022-08-09 | 4.68 | 437 |
 | 2022-08-10 | 4.68 | 445 |
 | 2022-08-11 | 4.68 | 449 |
-| 2022-08-12 | 4.69 | 453 |
+| 2022-08-12 | 4.69 | 454 |

@@ -3,10 +3,10 @@
   "Name": "Frostpunk",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 7425,
-  "DailyRatings": 96.43,
+  "NumberOfRatings": 7443,
+  "DailyRatings": 97,
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2022-08-12T20:01:17.9979519+00:00",
+  "LastChanged": "2022-08-12T23:30:55.4188029+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -927,6 +927,11 @@
       "Time": "2022-08-12T20:01:17.997952+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 7425
+    },
+    {
+      "Time": "2022-08-12T23:30:55.4188031+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 7443
     }
   ],
   "Tags": [
@@ -948,7 +953,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 210
+      "Count": 215
     },
     {
       "Text": "This game is Educational",
