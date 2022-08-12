@@ -2,11 +2,11 @@
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
   "Names": [],
-  "Rating": 4.73,
-  "NumberOfRatings": 7350,
-  "DailyRatings": 99.9,
+  "Rating": 4.72,
+  "NumberOfRatings": 7367,
+  "DailyRatings": 97.02,
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2022-08-12T00:00:50.0249153+00:00",
+  "LastChanged": "2022-08-12T08:02:17.4137095+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -882,6 +882,11 @@
       "Time": "2022-08-12T00:00:50.0249155+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 7350
+    },
+    {
+      "Time": "2022-08-12T08:02:17.4137096+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 7367
     }
   ],
   "Tags": [
@@ -927,7 +932,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 169
+      "Count": 171
     }
   ]
 }
