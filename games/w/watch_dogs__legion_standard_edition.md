@@ -1,6 +1,6 @@
 # Watch Dogs: Legion Standard Edition
-Rating: 4.38 (962)  
-Ratings Per Day: 8.91  
+Rating: 4.38 (966)  
+Ratings Per Day: 8.93  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,4 +25,4 @@ Ratings Per Day: 8.91
 | 2022-08-09 | 4.38 | 941 |
 | 2022-08-10 | 4.37 | 945 |
 | 2022-08-11 | 4.38 | 957 |
-| 2022-08-12 | 4.38 | 962 |
+| 2022-08-12 | 4.38 | 966 |

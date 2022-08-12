@@ -1,6 +1,6 @@
 # Voidtrain
-Rating: 4.46 (893)  
-Ratings Per Day: 6.55  
+Rating: 4.46 (902)  
+Ratings Per Day: 6.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 6.55
 | 2022-08-09 | 4.46 | 883 |
 | 2022-08-10 | 4.46 | 887 |
 | 2022-08-11 | 4.46 | 893 |
+| 2022-08-12 | 4.46 | 902 |

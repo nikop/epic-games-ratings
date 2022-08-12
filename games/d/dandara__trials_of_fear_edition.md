@@ -1,6 +1,6 @@
 # Dandara: Trials of Fear Edition
-Rating: 4.58 (118)  
-Ratings Per Day: 1.50  
+Rating: 4.58 (119)  
+Ratings Per Day: 1.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 1.50
 | 2022-08-08 | 4.57 | 115 |
 | 2022-08-09 | 4.57 | 117 |
 | 2022-08-11 | 4.58 | 118 |
+| 2022-08-12 | 4.58 | 119 |
