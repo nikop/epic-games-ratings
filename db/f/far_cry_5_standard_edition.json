@@ -3,10 +3,10 @@
   "Name": "Far Cry 5 Standard Edition",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 1271,
-  "DailyRatings": 16.34,
+  "NumberOfRatings": 1272,
+  "DailyRatings": 16.41,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-08-12T05:00:48.3903227+00:00",
+  "LastChanged": "2022-08-12T07:30:47.5764329+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -362,12 +362,17 @@
       "Time": "2022-08-12T05:00:48.3903231+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 1271
+    },
+    {
+      "Time": "2022-08-12T07:30:47.576433+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 1272
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 354
+      "Count": 361
     },
     {
       "Text": "This game is Relaxing",

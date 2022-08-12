@@ -2,17 +2,22 @@
   "ID": "d74efb08c7f449928fcdfdba1dcbda48",
   "Name": "Let\u0027s Build A Zoo",
   "Names": [],
-  "Rating": 4,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.05,
+  "NumberOfRatings": 21,
+  "DailyRatings": 0.25,
   "FirstSeen": "2022-07-22T20:28:30.4243035+00:00",
   "FirstSeenRating": "2022-08-08T07:31:42.1612375+00:00",
-  "LastChanged": "2022-08-08T07:31:42.1612376+00:00",
+  "LastChanged": "2022-08-12T07:31:44.5727419+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-08T07:31:42.1612377+00:00",
       "Rating": 4,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-08-12T07:31:44.5727421+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []

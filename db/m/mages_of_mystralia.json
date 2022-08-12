@@ -3,10 +3,10 @@
   "Name": "Mages of Mystralia",
   "Names": [],
   "Rating": 4.33,
-  "NumberOfRatings": 464,
-  "DailyRatings": 6.27,
+  "NumberOfRatings": 467,
+  "DailyRatings": 6.47,
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2022-08-12T01:01:18.9314662+00:00",
+  "LastChanged": "2022-08-12T07:31:15.9043017+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:26.4536754+00:00",
@@ -147,12 +147,17 @@
       "Time": "2022-08-12T01:01:18.9314665+00:00",
       "Rating": 4.33,
       "NumberOfRatings": 464
+    },
+    {
+      "Time": "2022-08-12T07:31:15.9043018+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 467
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 51
+      "Count": 53
     }
   ]
 }

@@ -1,6 +1,6 @@
 # KID A MNESIA EXHIBITION
-Rating: 4.63 (27)  
-Ratings Per Day: 0.75  
+Rating: 4.64 (28)  
+Ratings Per Day: 0.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.75
 | 2022-08-06 | 4.64 | 25 |
 | 2022-08-08 | 4.65 | 26 |
 | 2022-08-09 | 4.63 | 27 |
+| 2022-08-12 | 4.64 | 28 |
