@@ -2,11 +2,11 @@
   "ID": "04467b70295342a79381467353f23955",
   "Name": "Layers of Fear: Masterpiece Edition",
   "Names": [],
-  "Rating": 4.42,
-  "NumberOfRatings": 93,
-  "DailyRatings": 1.67,
+  "Rating": 4.43,
+  "NumberOfRatings": 94,
+  "DailyRatings": 1.49,
   "FirstSeen": "2022-07-22T20:26:29.1807297+00:00",
-  "LastChanged": "2022-08-11T14:31:55.5150824+00:00",
+  "LastChanged": "2022-08-12T15:02:02.2945655+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:29.1807304+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-11T14:31:55.5150825+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 93
+    },
+    {
+      "Time": "2022-08-12T15:02:02.2945656+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 94
     }
   ],
   "Tags": []
