@@ -2,11 +2,11 @@
   "ID": "5645a537b6a44f6f82d122729f3253ed",
   "Name": "Mutazione",
   "Names": [],
-  "Rating": 4.69,
-  "NumberOfRatings": 51,
-  "DailyRatings": 0.5,
+  "Rating": 4.67,
+  "NumberOfRatings": 52,
+  "DailyRatings": 0.4,
   "FirstSeen": "2022-07-22T20:26:44.0004019+00:00",
-  "LastChanged": "2022-08-09T16:31:29.0614605+00:00",
+  "LastChanged": "2022-08-12T16:31:31.7569286+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:44.0004039+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-09T16:31:29.0614607+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-08-12T16:31:31.7569288+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 52
     }
   ],
   "Tags": []

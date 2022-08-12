@@ -1,5 +1,5 @@
 # Totally Reliable Delivery Service Standard Edition
-Rating: 4.51 (78)  
+Rating: 4.52 (79)  
 Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -17,3 +17,4 @@ Ratings Per Day: 1.00
 | 2022-08-09 | 4.53 | 75 |
 | 2022-08-10 | 4.54 | 76 |
 | 2022-08-11 | 4.51 | 78 |
+| 2022-08-12 | 4.52 | 79 |
