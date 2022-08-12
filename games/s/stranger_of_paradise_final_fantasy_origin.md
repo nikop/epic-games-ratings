@@ -1,6 +1,6 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
-Rating: 4.46 (1 557)  
-Ratings Per Day: 16.85  
+Rating: 4.46 (1 559)  
+Ratings Per Day: 16.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,4 +25,4 @@ Ratings Per Day: 16.85
 | 2022-08-09 | 4.46 | 1 523 |
 | 2022-08-10 | 4.46 | 1 531 |
 | 2022-08-11 | 4.47 | 1 545 |
-| 2022-08-12 | 4.46 | 1 557 |
+| 2022-08-12 | 4.46 | 1 559 |

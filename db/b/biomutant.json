@@ -2,11 +2,11 @@
   "ID": "f7dc2f3c915444f1a6ba4105bc00d592",
   "Name": "BIOMUTANT",
   "Names": [],
-  "Rating": 4.38,
-  "NumberOfRatings": 159,
-  "DailyRatings": 1.2,
+  "Rating": 4.39,
+  "NumberOfRatings": 161,
+  "DailyRatings": 1.43,
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
-  "LastChanged": "2022-08-12T07:30:53.2052672+00:00",
+  "LastChanged": "2022-08-12T18:01:27.76238+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.6090067+00:00",
@@ -102,12 +102,17 @@
       "Time": "2022-08-12T07:30:53.2052674+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 159
+    },
+    {
+      "Time": "2022-08-12T18:01:27.7623802+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 161
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 46
+      "Count": 47
     }
   ]
 }

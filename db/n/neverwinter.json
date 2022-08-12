@@ -3,10 +3,10 @@
   "Name": "Neverwinter",
   "Names": [],
   "Rating": 4.28,
-  "NumberOfRatings": 793,
-  "DailyRatings": 8.32,
+  "NumberOfRatings": 794,
+  "DailyRatings": 8.39,
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2022-08-12T16:30:18.0086935+00:00",
+  "LastChanged": "2022-08-12T18:00:54.8185195+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:12.0635618+00:00",
@@ -422,6 +422,11 @@
       "Time": "2022-08-12T16:30:18.0086938+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 793
+    },
+    {
+      "Time": "2022-08-12T18:00:54.8185197+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 794
     }
   ],
   "Tags": [
@@ -443,7 +448,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game is Extremely Fun",
