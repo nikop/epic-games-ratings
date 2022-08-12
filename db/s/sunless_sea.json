@@ -3,10 +3,10 @@
   "Name": "Sunless Sea",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 245,
-  "DailyRatings": 4.74,
+  "NumberOfRatings": 247,
+  "DailyRatings": 4.73,
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
-  "LastChanged": "2022-08-11T22:00:48.5943103+00:00",
+  "LastChanged": "2022-08-12T08:30:51.576831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:36.9352359+00:00",
@@ -182,6 +182,11 @@
       "Time": "2022-08-11T22:00:48.5943104+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 245
+    },
+    {
+      "Time": "2022-08-12T08:30:51.5768311+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 247
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "League of Legends",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 7383,
-  "DailyRatings": 90.2,
+  "NumberOfRatings": 7385,
+  "DailyRatings": 89.95,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2022-08-12T07:32:13.2537123+00:00",
+  "LastChanged": "2022-08-12T08:32:18.3130334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -1042,12 +1042,17 @@
       "Time": "2022-08-12T07:32:13.2537124+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 7383
+    },
+    {
+      "Time": "2022-08-12T08:32:18.3130336+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 7385
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 3341
+      "Count": 3379
     },
     {
       "Text": "This game has Diverse Characters",
