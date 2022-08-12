@@ -1,6 +1,6 @@
 # Breathedge
-Rating: 4.61 (36)  
-Ratings Per Day: 2.00  
+Rating: 4.62 (37)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 2.00
 | 2022-08-04 | 4.64 | 33 |
 | 2022-08-06 | 4.62 | 34 |
 | 2022-08-07 | 4.61 | 36 |
+| 2022-08-12 | 4.62 | 37 |
