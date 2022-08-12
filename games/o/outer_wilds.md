@@ -1,6 +1,6 @@
 # Outer Wilds
 Rating: 4.91 (466)  
-Ratings Per Day: 6.55  
+Ratings Per Day: 6.14  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

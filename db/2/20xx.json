@@ -2,11 +2,11 @@
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 267,
-  "DailyRatings": 1.89,
+  "Rating": 4.64,
+  "NumberOfRatings": 269,
+  "DailyRatings": 2.14,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-08-11T17:30:46.6037738+00:00",
+  "LastChanged": "2022-08-12T01:00:48.2624003+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-08-11T17:30:46.6037747+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 267
+    },
+    {
+      "Time": "2022-08-12T01:00:48.2624006+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 269
     }
   ],
   "Tags": []

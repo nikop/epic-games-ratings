@@ -3,10 +3,10 @@
   "Name": "Rainbow Six Siege Standard Edition",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 6310,
-  "DailyRatings": 61.16,
+  "NumberOfRatings": 6314,
+  "DailyRatings": 61.37,
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2022-08-12T00:00:44.3724443+00:00",
+  "LastChanged": "2022-08-12T01:00:44.9923832+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -972,6 +972,11 @@
       "Time": "2022-08-12T00:00:44.3724445+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 6310
+    },
+    {
+      "Time": "2022-08-12T01:00:44.9923835+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 6314
     }
   ],
   "Tags": [
@@ -985,7 +990,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 431
+      "Count": 438
     },
     {
       "Text": "This game has Diverse Characters",
