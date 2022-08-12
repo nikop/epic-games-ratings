@@ -1,6 +1,6 @@
 # Idle Champions of the Forgotten Realms
-Rating: 4.04 (8 094)  
-Ratings Per Day: 45.40  
+Rating: 4.04 (8 100)  
+Ratings Per Day: 45.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,4 +25,4 @@ Ratings Per Day: 45.40
 | 2022-08-09 | 4.04 | 7 999 |
 | 2022-08-10 | 4.04 | 8 024 |
 | 2022-08-11 | 4.04 | 8 068 |
-| 2022-08-12 | 4.04 | 8 094 |
+| 2022-08-12 | 4.04 | 8 100 |
