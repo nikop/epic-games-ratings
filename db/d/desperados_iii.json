@@ -3,10 +3,10 @@
   "Name": "Desperados III",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 262,
-  "DailyRatings": 3.12,
+  "NumberOfRatings": 263,
+  "DailyRatings": 2.88,
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2022-08-11T14:01:35.1206038+00:00",
+  "LastChanged": "2022-08-12T10:31:52.5742323+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:02.5074384+00:00",
@@ -157,7 +157,17 @@
       "Time": "2022-08-11T14:01:35.1206039+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 262
+    },
+    {
+      "Time": "2022-08-12T10:31:52.5742325+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 263
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Count": 20
+    }
+  ]
 }
