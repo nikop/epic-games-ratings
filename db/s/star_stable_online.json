@@ -2,11 +2,11 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "Names": [],
-  "Rating": 4.27,
-  "NumberOfRatings": 193,
-  "DailyRatings": 4.18,
+  "Rating": 4.28,
+  "NumberOfRatings": 194,
+  "DailyRatings": 4.11,
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2022-08-12T00:30:24.9431387+00:00",
+  "LastChanged": "2022-08-12T09:00:55.7864798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -187,6 +187,11 @@
       "Time": "2022-08-12T00:30:24.9431391+00:00",
       "Rating": 4.27,
       "NumberOfRatings": 193
+    },
+    {
+      "Time": "2022-08-12T09:00:55.78648+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 194
     }
   ],
   "Tags": []
