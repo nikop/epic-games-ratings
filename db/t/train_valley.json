@@ -2,11 +2,11 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "Names": [],
-  "Rating": 4.42,
-  "NumberOfRatings": 26,
-  "DailyRatings": 0,
+  "Rating": 4.41,
+  "NumberOfRatings": 27,
+  "DailyRatings": 0.14,
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
-  "LastChanged": "2022-08-05T21:01:08.3196295+00:00",
+  "LastChanged": "2022-08-12T19:01:01.6171938+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T18:00:59.0035372+00:00",
@@ -27,6 +27,11 @@
       "Time": "2022-08-05T21:01:08.3196297+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-08-12T19:01:01.6171939+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []
