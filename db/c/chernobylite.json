@@ -2,11 +2,11 @@
   "ID": "640854c119af44d39a5bcf98edb6cd60",
   "Name": "Chernobylite",
   "Names": [],
-  "Rating": 4.01,
-  "NumberOfRatings": 99,
-  "DailyRatings": 2.72,
+  "Rating": 4.02,
+  "NumberOfRatings": 100,
+  "DailyRatings": 2.41,
   "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
-  "LastChanged": "2022-08-11T17:30:37.9343404+00:00",
+  "LastChanged": "2022-08-12T20:31:28.4418337+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:09.6414616+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-08-11T17:30:37.9343405+00:00",
       "Rating": 4.01,
       "NumberOfRatings": 99
+    },
+    {
+      "Time": "2022-08-12T20:31:28.4418338+00:00",
+      "Rating": 4.02,
+      "NumberOfRatings": 100
     }
   ],
   "Tags": []
