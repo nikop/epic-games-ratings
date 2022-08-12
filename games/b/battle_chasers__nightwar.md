@@ -1,6 +1,6 @@
 # Battle Chasers: Nightwar
-Rating: 4.56 (25)  
-Ratings Per Day: 0.00  
+Rating: 4.54 (26)  
+Ratings Per Day: 0.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.00
 | 2022-07-29 | 4.57 | 23 |
 | 2022-08-03 | 4.54 | 24 |
 | 2022-08-07 | 4.56 | 25 |
+| 2022-08-12 | 4.54 | 26 |
