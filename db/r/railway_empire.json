@@ -3,10 +3,10 @@
   "Name": "Railway Empire",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 1363,
-  "DailyRatings": 19.17,
+  "NumberOfRatings": 1364,
+  "DailyRatings": 19.26,
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2022-08-12T22:31:06.1891114+00:00",
+  "LastChanged": "2022-08-12T23:01:21.9715236+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -587,6 +587,11 @@
       "Time": "2022-08-12T22:31:06.1891116+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 1363
+    },
+    {
+      "Time": "2022-08-12T23:01:21.9715237+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1364
     }
   ],
   "Tags": [
