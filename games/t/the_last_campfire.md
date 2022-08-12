@@ -1,6 +1,6 @@
 # The Last Campfire
 Rating: 4.83 (36)  
-Ratings Per Day: 0.50  
+Ratings Per Day: 0.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
