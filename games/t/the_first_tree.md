@@ -1,6 +1,6 @@
 # The First Tree
 Rating: 4.13 (38)  
-Ratings Per Day: 0.57  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
