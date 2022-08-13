@@ -2,11 +2,11 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "Names": [],
-  "Rating": 4.91,
-  "NumberOfRatings": 476,
-  "DailyRatings": 6.34,
+  "Rating": 4.9,
+  "NumberOfRatings": 479,
+  "DailyRatings": 5.85,
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2022-08-12T14:00:58.8994926+00:00",
+  "LastChanged": "2022-08-13T14:00:52.9222202+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:49.0094839+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-08-12T14:00:58.8994928+00:00",
       "Rating": 4.91,
       "NumberOfRatings": 476
+    },
+    {
+      "Time": "2022-08-13T14:00:52.9222203+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 479
     }
   ],
   "Tags": []

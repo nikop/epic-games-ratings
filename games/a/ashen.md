@@ -1,6 +1,6 @@
 # Ashen
-Rating: 4.17 (70)  
-Ratings Per Day: 1.32  
+Rating: 4.18 (71)  
+Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 1.32
 | 2022-08-08 | 4.16 | 67 |
 | 2022-08-09 | 4.18 | 68 |
 | 2022-08-10 | 4.17 | 70 |
+| 2022-08-13 | 4.18 | 71 |
