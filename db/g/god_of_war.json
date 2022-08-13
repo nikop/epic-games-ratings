@@ -3,10 +3,10 @@
   "Name": "God of War",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 3738,
-  "DailyRatings": 33.32,
+  "NumberOfRatings": 3739,
+  "DailyRatings": 33.16,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2022-08-12T23:31:37.5337647+00:00",
+  "LastChanged": "2022-08-13T01:01:31.8223663+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -602,6 +602,11 @@
       "Time": "2022-08-12T23:31:37.5337648+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 3738
+    },
+    {
+      "Time": "2022-08-13T01:01:31.8223665+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 3739
     }
   ],
   "Tags": [

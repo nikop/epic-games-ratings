@@ -2,11 +2,11 @@
   "ID": "78473822f724474d8e436f6bde735623",
   "Name": "Cave Story\u002B",
   "Names": [],
-  "Rating": 4.81,
-  "NumberOfRatings": 191,
-  "DailyRatings": 2,
+  "Rating": 4.8,
+  "NumberOfRatings": 193,
+  "DailyRatings": 2.05,
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2022-08-12T05:01:58.1599791+00:00",
+  "LastChanged": "2022-08-13T01:02:04.5172001+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:31.253973+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-08-12T05:01:58.1599793+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 191
+    },
+    {
+      "Time": "2022-08-13T01:02:04.5172002+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 193
     }
   ],
   "Tags": [
