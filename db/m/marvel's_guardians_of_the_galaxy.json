@@ -3,10 +3,10 @@
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "Names": [],
   "Rating": 4.74,
-  "NumberOfRatings": 649,
-  "DailyRatings": 7.95,
+  "NumberOfRatings": 650,
+  "DailyRatings": 7.74,
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2022-08-13T16:01:10.3504017+00:00",
+  "LastChanged": "2022-08-13T23:31:15.4975243+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:01.0577718+00:00",
@@ -302,12 +302,17 @@
       "Time": "2022-08-13T16:01:10.3504019+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 649
+    },
+    {
+      "Time": "2022-08-13T23:31:15.4975245+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 650
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 232
+      "Count": 236
     }
   ]
 }

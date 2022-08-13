@@ -3,10 +3,10 @@
   "Name": "Swords of Legends Online",
   "Names": [],
   "Rating": 4.32,
-  "NumberOfRatings": 197,
-  "DailyRatings": 2.09,
+  "NumberOfRatings": 199,
+  "DailyRatings": 1.96,
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2022-08-12T15:31:42.7732198+00:00",
+  "LastChanged": "2022-08-13T23:31:10.6277487+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:20.3020948+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-08-12T15:31:42.77322+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 197
+    },
+    {
+      "Time": "2022-08-13T23:31:10.6277488+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 199
     }
   ],
   "Tags": [
