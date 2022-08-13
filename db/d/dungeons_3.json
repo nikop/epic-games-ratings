@@ -2,11 +2,11 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "Names": [],
-  "Rating": 4.66,
-  "NumberOfRatings": 1029,
-  "DailyRatings": 15.04,
+  "Rating": 4.67,
+  "NumberOfRatings": 1034,
+  "DailyRatings": 15.13,
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
-  "LastChanged": "2022-08-13T10:00:17.7348408+00:00",
+  "LastChanged": "2022-08-13T17:00:22.8208748+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:48.6100156+00:00",
@@ -492,6 +492,11 @@
       "Time": "2022-08-13T10:00:17.734841+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 1029
+    },
+    {
+      "Time": "2022-08-13T17:00:22.820875+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 1034
     }
   ],
   "Tags": [

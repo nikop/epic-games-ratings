@@ -1,6 +1,6 @@
 # Expeditions: Rome
 Rating: 4.71 (52)  
-Ratings Per Day: 0.32  
+Ratings Per Day: 0.23  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
