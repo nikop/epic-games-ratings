@@ -3,10 +3,10 @@
   "Name": "Expeditions: Rome",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 51,
-  "DailyRatings": 0.5,
+  "NumberOfRatings": 52,
+  "DailyRatings": 0.32,
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
-  "LastChanged": "2022-08-08T16:30:25.4530425+00:00",
+  "LastChanged": "2022-08-13T00:01:26.7469375+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:55.9100451+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-08T16:30:25.4530427+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-08-13T00:01:26.7469378+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 52
     }
   ],
   "Tags": []

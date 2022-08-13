@@ -3,10 +3,10 @@
   "Name": "Atomicrops",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 116,
-  "DailyRatings": 1.59,
+  "NumberOfRatings": 118,
+  "DailyRatings": 1.65,
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2022-08-11T23:31:39.9873504+00:00",
+  "LastChanged": "2022-08-13T00:01:59.3215522+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:16.7457187+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-11T23:31:39.9873506+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 116
+    },
+    {
+      "Time": "2022-08-13T00:01:59.3215524+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 118
     }
   ],
   "Tags": [
