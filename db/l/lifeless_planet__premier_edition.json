@@ -2,11 +2,11 @@
   "ID": "9ce4c6f216cf43e7ba5eff1045b6e08d",
   "Name": "Lifeless Planet: Premier Edition",
   "Names": [],
-  "Rating": 3.99,
-  "NumberOfRatings": 191,
-  "DailyRatings": 3,
+  "Rating": 3.98,
+  "NumberOfRatings": 193,
+  "DailyRatings": 2.86,
   "FirstSeen": "2022-07-22T20:28:34.0762225+00:00",
-  "LastChanged": "2022-08-12T16:01:47.1888629+00:00",
+  "LastChanged": "2022-08-13T16:01:43.2217651+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:34.0762227+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-12T16:01:47.188863+00:00",
       "Rating": 3.99,
       "NumberOfRatings": 191
+    },
+    {
+      "Time": "2022-08-13T16:01:43.2217652+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": 193
     }
   ],
   "Tags": []
