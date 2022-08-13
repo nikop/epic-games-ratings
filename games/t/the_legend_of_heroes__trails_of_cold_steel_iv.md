@@ -1,6 +1,6 @@
 # The Legend of Heroes: Trails of Cold Steel IV
 Rating: 5.00 (22)  
-Ratings Per Day: 0.32  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
