@@ -3,10 +3,10 @@
   "Name": "MultiVersus",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 35644,
-  "DailyRatings": 2070.09,
+  "NumberOfRatings": 35821,
+  "DailyRatings": 2070.72,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2022-08-13T12:30:52.1735197+00:00",
+  "LastChanged": "2022-08-13T14:30:56.2079646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -887,6 +887,11 @@
       "Time": "2022-08-13T12:30:52.1735198+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 35644
+    },
+    {
+      "Time": "2022-08-13T14:30:56.2079649+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 35821
     }
   ],
   "Tags": [
