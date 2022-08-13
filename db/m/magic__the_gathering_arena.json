@@ -3,10 +3,10 @@
   "Name": "Magic: The Gathering Arena",
   "Names": [],
   "Rating": 4.45,
-  "NumberOfRatings": 10890,
-  "DailyRatings": 104.95,
+  "NumberOfRatings": 10905,
+  "DailyRatings": 104.28,
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2022-08-13T08:30:44.5583369+00:00",
+  "LastChanged": "2022-08-13T13:01:14.4173865+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.803641+00:00",
@@ -1067,6 +1067,11 @@
       "Time": "2022-08-13T08:30:44.5583371+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 10890
+    },
+    {
+      "Time": "2022-08-13T13:01:14.41746+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 10905
     }
   ],
   "Tags": [
@@ -1100,7 +1105,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1818
+      "Count": 1854
     },
     {
       "Text": "This game has Amazing Characters",

@@ -1,6 +1,6 @@
 # Yes, Your Grace
 Rating: 4.50 (42)  
-Ratings Per Day: 2.91  
+Ratings Per Day: 2.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
