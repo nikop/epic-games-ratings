@@ -3,10 +3,10 @@
   "Name": "Ooblets",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 530,
-  "DailyRatings": 5.46,
+  "NumberOfRatings": 533,
+  "DailyRatings": 5.33,
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-08-13T02:02:08.2163172+00:00",
+  "LastChanged": "2022-08-13T19:02:13.4306365+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -262,6 +262,11 @@
       "Time": "2022-08-13T02:02:08.2163173+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 530
+    },
+    {
+      "Time": "2022-08-13T19:02:13.4306367+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 533
     }
   ],
   "Tags": [

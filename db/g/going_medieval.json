@@ -3,10 +3,10 @@
   "Name": "Going Medieval",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 572,
-  "DailyRatings": 5.84,
+  "NumberOfRatings": 573,
+  "DailyRatings": 5.73,
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
-  "LastChanged": "2022-08-13T15:02:11.9588266+00:00",
+  "LastChanged": "2022-08-13T19:02:18.7656276+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:43.3022236+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-08-13T15:02:11.9588267+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 572
+    },
+    {
+      "Time": "2022-08-13T19:02:18.7656279+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 573
     }
   ],
   "Tags": [
@@ -340,7 +345,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Unique Visuals",
