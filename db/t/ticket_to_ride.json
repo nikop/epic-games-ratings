@@ -3,10 +3,10 @@
   "Name": "Ticket to Ride",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 107,
-  "DailyRatings": 1.44,
+  "NumberOfRatings": 110,
+  "DailyRatings": 1.64,
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
-  "LastChanged": "2022-08-12T14:00:52.0524061+00:00",
+  "LastChanged": "2022-08-13T18:00:48.7774749+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:53.9949816+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-08-12T14:00:52.0524065+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 107
+    },
+    {
+      "Time": "2022-08-13T18:00:48.777475+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 110
     }
   ],
   "Tags": []

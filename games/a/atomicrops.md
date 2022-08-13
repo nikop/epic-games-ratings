@@ -1,6 +1,6 @@
 # Atomicrops
-Rating: 4.87 (118)  
-Ratings Per Day: 1.65  
+Rating: 4.87 (119)  
+Ratings Per Day: 1.62  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,4 +19,4 @@ Ratings Per Day: 1.65
 | 2022-08-09 | 4.87 | 113 |
 | 2022-08-10 | 4.87 | 114 |
 | 2022-08-11 | 4.87 | 116 |
-| 2022-08-13 | 4.87 | 118 |
+| 2022-08-13 | 4.87 | 119 |
