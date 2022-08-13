@@ -3,10 +3,10 @@
   "Name": "Moving Out",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 355,
-  "DailyRatings": 4.82,
+  "NumberOfRatings": 359,
+  "DailyRatings": 4.7,
   "FirstSeen": "2022-07-22T20:18:42.4467794+00:00",
-  "LastChanged": "2022-08-12T15:31:07.713859+00:00",
+  "LastChanged": "2022-08-13T15:30:29.6994561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:42.4467799+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-08-12T15:31:07.7138593+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 355
+    },
+    {
+      "Time": "2022-08-13T15:30:29.6994563+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 359
     }
   ],
   "Tags": []
