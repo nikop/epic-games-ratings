@@ -1,6 +1,6 @@
 # This War of Mine
 Rating: 4.74 (752)  
-Ratings Per Day: 10.01  
+Ratings Per Day: 10.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
