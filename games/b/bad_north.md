@@ -1,6 +1,6 @@
 # Bad North
-Rating: 4.65 (564)  
-Ratings Per Day: 8.11  
+Rating: 4.65 (580)  
+Ratings Per Day: 9.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 8.11
 | 2022-08-10 | 4.65 | 549 |
 | 2022-08-11 | 4.65 | 553 |
 | 2022-08-12 | 4.65 | 564 |
+| 2022-08-13 | 4.65 | 580 |
