@@ -1,6 +1,6 @@
 # Scrapnaut
 Rating: 4.41 (32)  
-Ratings Per Day: 1.50  
+Ratings Per Day: 1.92  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
