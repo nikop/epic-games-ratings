@@ -1,6 +1,6 @@
 # House Party
-Rating: 4.46 (136)  
-Ratings Per Day: 1.35  
+Rating: 4.44 (139)  
+Ratings Per Day: 1.70  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,3 +23,4 @@ Ratings Per Day: 1.35
 | 2022-08-09 | 4.48 | 133 |
 | 2022-08-11 | 4.49 | 134 |
 | 2022-08-12 | 4.46 | 136 |
+| 2022-08-13 | 4.44 | 139 |
