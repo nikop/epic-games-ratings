@@ -1,6 +1,6 @@
 # The Witcher 3: Wild Hunt - Game of the Year Edition
-Rating: 4.90 (9 899)  
-Ratings Per Day: 142.28  
+Rating: 4.90 (9 905)  
+Ratings Per Day: 142.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,4 +26,4 @@ Ratings Per Day: 142.28
 | 2022-08-10 | 4.90 | 9 310 |
 | 2022-08-11 | 4.90 | 9 483 |
 | 2022-08-12 | 4.90 | 9 682 |
-| 2022-08-13 | 4.90 | 9 899 |
+| 2022-08-13 | 4.90 | 9 905 |

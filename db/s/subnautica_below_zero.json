@@ -2,11 +2,11 @@
   "ID": "foxglove",
   "Name": "Subnautica Below Zero",
   "Names": [],
-  "Rating": 4.77,
-  "NumberOfRatings": 1268,
-  "DailyRatings": 13.41,
+  "Rating": 4.78,
+  "NumberOfRatings": 1273,
+  "DailyRatings": 13.61,
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2022-08-13T15:00:59.9294608+00:00",
+  "LastChanged": "2022-08-13T21:30:35.3486363+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:53.9147297+00:00",
@@ -382,6 +382,11 @@
       "Time": "2022-08-13T15:00:59.9294609+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 1268
+    },
+    {
+      "Time": "2022-08-13T21:30:35.3486423+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 1273
     }
   ],
   "Tags": [
