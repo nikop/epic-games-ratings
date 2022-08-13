@@ -2,11 +2,11 @@
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
   "Names": [],
-  "Rating": 4.1,
-  "NumberOfRatings": 322,
-  "DailyRatings": 2.91,
+  "Rating": 4.11,
+  "NumberOfRatings": 323,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2022-08-12T23:30:26.8954526+00:00",
+  "LastChanged": "2022-08-13T03:00:16.7384175+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-08-12T23:30:26.8954528+00:00",
       "Rating": 4.1,
       "NumberOfRatings": 322
+    },
+    {
+      "Time": "2022-08-13T03:00:16.7384178+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": 323
     }
   ],
   "Tags": [
