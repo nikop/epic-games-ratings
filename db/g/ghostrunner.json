@@ -3,10 +3,10 @@
   "Name": "Ghostrunner",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 602,
-  "DailyRatings": 8.65,
+  "NumberOfRatings": 604,
+  "DailyRatings": 8.31,
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
-  "LastChanged": "2022-08-13T00:01:48.6040728+00:00",
+  "LastChanged": "2022-08-13T11:30:48.2051124+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:51.2324113+00:00",
@@ -222,12 +222,17 @@
       "Time": "2022-08-13T00:01:48.604073+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 602
+    },
+    {
+      "Time": "2022-08-13T11:30:48.2051125+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 604
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 129
+      "Count": 133
     }
   ]
 }

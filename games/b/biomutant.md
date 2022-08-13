@@ -1,6 +1,6 @@
 # BIOMUTANT
 Rating: 4.39 (161)  
-Ratings Per Day: 1.43  
+Ratings Per Day: 1.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
