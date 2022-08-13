@@ -3,10 +3,10 @@
   "Name": "Salt and Sacrifice",
   "Names": [],
   "Rating": 4.29,
-  "NumberOfRatings": 1872,
-  "DailyRatings": 12.22,
+  "NumberOfRatings": 1874,
+  "DailyRatings": 12.33,
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-08-13T00:02:10.4100205+00:00",
+  "LastChanged": "2022-08-13T02:31:13.2151671+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -422,12 +422,17 @@
       "Time": "2022-08-13T00:02:10.4100206+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 1872
+    },
+    {
+      "Time": "2022-08-13T02:31:13.2151673+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 1874
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 587
+      "Count": 594
     },
     {
       "Text": "This game has Great Boss Battles",
