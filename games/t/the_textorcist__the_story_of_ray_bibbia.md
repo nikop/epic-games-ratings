@@ -1,6 +1,6 @@
 # The Textorcist: The Story of Ray Bibbia
-Rating: 4.62 (60)  
-Ratings Per Day: 0.25  
+Rating: 4.61 (61)  
+Ratings Per Day: 0.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 0.25
 | 2022-08-05 | 4.62 | 58 |
 | 2022-08-06 | 4.63 | 59 |
 | 2022-08-10 | 4.62 | 60 |
+| 2022-08-13 | 4.61 | 61 |
