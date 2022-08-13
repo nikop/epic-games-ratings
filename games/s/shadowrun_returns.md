@@ -1,6 +1,6 @@
 # Shadowrun Returns
 Rating: 4.45 (219)  
-Ratings Per Day: 4.09  
+Ratings Per Day: 3.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

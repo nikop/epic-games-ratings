@@ -3,10 +3,10 @@
   "Name": "Paladins",
   "Names": [],
   "Rating": 4.35,
-  "NumberOfRatings": 8951,
-  "DailyRatings": 75.92,
+  "NumberOfRatings": 8957,
+  "DailyRatings": 75.88,
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2022-08-13T13:00:48.9952993+00:00",
+  "LastChanged": "2022-08-13T15:00:45.9989474+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -1047,12 +1047,17 @@
       "Time": "2022-08-13T13:00:48.9952995+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 8951
+    },
+    {
+      "Time": "2022-08-13T15:00:45.9989477+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 8957
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 1125
+      "Count": 1152
     },
     {
       "Text": "This game has Diverse Characters",
