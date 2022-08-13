@@ -1,6 +1,6 @@
 # Sonic Origins
 Rating: 4.53 (137)  
-Ratings Per Day: 1.03  
+Ratings Per Day: 1.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

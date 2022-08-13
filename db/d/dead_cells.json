@@ -3,10 +3,10 @@
   "Name": "Dead Cells",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 974,
-  "DailyRatings": 10.71,
+  "NumberOfRatings": 975,
+  "DailyRatings": 10.63,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2022-08-13T00:01:22.4999214+00:00",
+  "LastChanged": "2022-08-13T03:31:01.9656595+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -462,6 +462,11 @@
       "Time": "2022-08-13T00:01:22.4999216+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 974
+    },
+    {
+      "Time": "2022-08-13T03:31:01.9656596+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 975
     }
   ],
   "Tags": [
@@ -479,7 +484,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 73
+      "Count": 75
     },
     {
       "Text": "This game is Great for Beginners",

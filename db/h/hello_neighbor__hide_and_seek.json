@@ -2,11 +2,11 @@
   "ID": "morpho",
   "Name": "Hello Neighbor: Hide and Seek",
   "Names": [],
-  "Rating": 4.45,
-  "NumberOfRatings": 55,
+  "Rating": 4.47,
+  "NumberOfRatings": 57,
   "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
-  "LastChanged": "2022-08-11T03:30:33.3451008+00:00",
+  "LastChanged": "2022-08-13T03:31:10.8183472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.5841662+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-11T03:30:33.345101+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 55
+    },
+    {
+      "Time": "2022-08-13T03:31:10.8183473+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 57
     }
   ],
   "Tags": []
