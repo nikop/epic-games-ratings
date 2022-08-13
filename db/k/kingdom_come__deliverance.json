@@ -3,10 +3,10 @@
   "Name": "Kingdom Come: Deliverance",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 6554,
-  "DailyRatings": 76.36,
+  "NumberOfRatings": 6567,
+  "DailyRatings": 75.82,
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
-  "LastChanged": "2022-08-13T06:00:12.6764605+00:00",
+  "LastChanged": "2022-08-13T09:30:22.2659435+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.2310156+00:00",
@@ -1117,6 +1117,11 @@
       "Time": "2022-08-13T06:00:12.6764609+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 6554
+    },
+    {
+      "Time": "2022-08-13T09:30:22.2659437+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 6567
     }
   ],
   "Tags": [
@@ -1154,7 +1159,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 549
+      "Count": 565
     },
     {
       "Text": "This game has Realistic Visuals",

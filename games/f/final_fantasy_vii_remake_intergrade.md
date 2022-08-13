@@ -1,6 +1,6 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
-Rating: 4.85 (13 370)  
-Ratings Per Day: 63.13  
+Rating: 4.85 (13 373)  
+Ratings Per Day: 62.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,4 +26,4 @@ Ratings Per Day: 63.13
 | 2022-08-10 | 4.85 | 13 226 |
 | 2022-08-11 | 4.85 | 13 284 |
 | 2022-08-12 | 4.85 | 13 342 |
-| 2022-08-13 | 4.85 | 13 370 |
+| 2022-08-13 | 4.85 | 13 373 |
