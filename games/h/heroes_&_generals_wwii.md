@@ -1,6 +1,6 @@
 # Heroes & Generals WWII
-Rating: 4.22 (3 352)  
-Ratings Per Day: 33.61  
+Rating: 4.22 (3 358)  
+Ratings Per Day: 33.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,4 +26,4 @@ Ratings Per Day: 33.61
 | 2022-08-10 | 4.21 | 3 262 |
 | 2022-08-11 | 4.21 | 3 294 |
 | 2022-08-12 | 4.22 | 3 332 |
-| 2022-08-13 | 4.22 | 3 352 |
+| 2022-08-13 | 4.22 | 3 358 |
