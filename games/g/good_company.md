@@ -1,6 +1,6 @@
 # Good Company
-Rating: 4.45 (67)  
-Ratings Per Day: 0.00  
+Rating: 4.46 (68)  
+Ratings Per Day: 0.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.00
 | 2022-08-02 | 4.43 | 65 |
 | 2022-08-04 | 4.44 | 66 |
 | 2022-08-12 | 4.45 | 67 |
+| 2022-08-13 | 4.46 | 68 |

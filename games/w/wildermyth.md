@@ -1,6 +1,6 @@
 # Wildermyth
 Rating: 4.74 (35)  
-Ratings Per Day: 0.34  
+Ratings Per Day: 0.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
