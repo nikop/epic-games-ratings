@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The New Order",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 54374,
-  "DailyRatings": 214.28,
+  "NumberOfRatings": 54384,
+  "DailyRatings": 215.07,
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2022-08-14T14:01:28.9264868+00:00",
+  "LastChanged": "2022-08-14T14:31:26.7118099+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -907,6 +907,11 @@
       "Time": "2022-08-14T14:01:28.9264875+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 54374
+    },
+    {
+      "Time": "2022-08-14T14:31:26.7118102+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 54384
     }
   ],
   "Tags": [
@@ -932,11 +937,11 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 192
+      "Count": 195
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 202
+      "Count": 203
     },
     {
       "Text": "This game has Quickly Understood Controls",
