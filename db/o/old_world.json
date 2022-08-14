@@ -3,10 +3,10 @@
   "Name": "Old World",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 1034,
+  "NumberOfRatings": 1035,
   "DailyRatings": 12.43,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "LastChanged": "2022-08-14T12:01:09.951428+00:00",
+  "LastChanged": "2022-08-14T14:01:09.1242695+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.0865852+00:00",
@@ -507,12 +507,17 @@
       "Time": "2022-08-14T12:01:09.9514281+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 1034
+    },
+    {
+      "Time": "2022-08-14T14:01:09.1242696+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 1035
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game is Extremely Fun",
@@ -528,7 +533,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 86
+      "Count": 88
     },
     {
       "Text": "This game is Highly Recommended",
