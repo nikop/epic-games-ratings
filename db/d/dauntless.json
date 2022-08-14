@@ -2,11 +2,11 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "Names": [],
-  "Rating": 4.52,
-  "NumberOfRatings": 17246,
-  "DailyRatings": 231.9,
+  "Rating": 4.53,
+  "NumberOfRatings": 17260,
+  "DailyRatings": 231.83,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-08-14T10:30:47.09055+00:00",
+  "LastChanged": "2022-08-14T12:00:48.8220623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -1197,6 +1197,11 @@
       "Time": "2022-08-14T10:30:47.0905502+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 17246
+    },
+    {
+      "Time": "2022-08-14T12:00:48.8220625+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 17260
     }
   ],
   "Tags": [
@@ -1218,7 +1223,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 760
+      "Count": 773
     },
     {
       "Text": "This game has Quickly Understood Controls",
