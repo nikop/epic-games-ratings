@@ -2,11 +2,11 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "Names": [],
-  "Rating": 4.62,
-  "NumberOfRatings": 1324,
-  "DailyRatings": 15.71,
+  "Rating": 4.61,
+  "NumberOfRatings": 1326,
+  "DailyRatings": 15.86,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-08-14T18:30:53.8100555+00:00",
+  "LastChanged": "2022-08-14T20:00:54.7876157+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -422,6 +422,11 @@
       "Time": "2022-08-14T18:30:53.8100557+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 1324
+    },
+    {
+      "Time": "2022-08-14T20:00:54.7876159+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 1326
     }
   ],
   "Tags": [
@@ -431,7 +436,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 25
+      "Count": 26
     }
   ]
 }
