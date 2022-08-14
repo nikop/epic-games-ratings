@@ -1,6 +1,6 @@
 # House Party
 Rating: 4.43 (143)  
-Ratings Per Day: 2.01  
+Ratings Per Day: 2.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
