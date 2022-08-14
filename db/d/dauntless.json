@@ -2,11 +2,11 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "Names": [],
-  "Rating": 4.53,
-  "NumberOfRatings": 17193,
-  "DailyRatings": 234.38,
+  "Rating": 4.52,
+  "NumberOfRatings": 17202,
+  "DailyRatings": 234.27,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-08-14T00:00:41.5508903+00:00",
+  "LastChanged": "2022-08-14T01:00:43.1753072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -1172,12 +1172,17 @@
       "Time": "2022-08-14T00:00:41.5508906+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 17193
+    },
+    {
+      "Time": "2022-08-14T01:00:43.1753077+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 17202
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 8056
+      "Count": 8155
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1197,7 +1202,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 674
+      "Count": 698
     },
     {
       "Text": "This game is Highly Recommended",

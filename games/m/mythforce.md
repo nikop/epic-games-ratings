@@ -1,6 +1,6 @@
 # MythForce
 Rating: 4.55 (216)  
-Ratings Per Day: 3.44  
+Ratings Per Day: 3.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

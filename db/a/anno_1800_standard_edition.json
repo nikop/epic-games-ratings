@@ -3,10 +3,10 @@
   "Name": "Anno 1800 Standard Edition",
   "Names": [],
   "Rating": 4.84,
-  "NumberOfRatings": 3066,
-  "DailyRatings": 32.99,
+  "NumberOfRatings": 3076,
+  "DailyRatings": 33.14,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-08-13T18:30:26.7426492+00:00",
+  "LastChanged": "2022-08-14T01:00:25.5101063+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -882,6 +882,11 @@
       "Time": "2022-08-13T18:30:26.7426494+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 3066
+    },
+    {
+      "Time": "2022-08-14T01:00:25.5101065+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 3076
     }
   ],
   "Tags": [
@@ -927,7 +932,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 119
+      "Count": 124
     }
   ]
 }

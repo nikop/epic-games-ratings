@@ -1,6 +1,6 @@
 # Cartel Tycoon
-Rating: 4.39 (76)  
-Ratings Per Day: 3.18  
+Rating: 4.40 (77)  
+Ratings Per Day: 3.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,3 +20,4 @@ Ratings Per Day: 3.18
 | 2022-08-11 | 4.35 | 71 |
 | 2022-08-12 | 4.36 | 72 |
 | 2022-08-13 | 4.39 | 76 |
+| 2022-08-14 | 4.40 | 77 |

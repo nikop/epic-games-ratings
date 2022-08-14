@@ -1,6 +1,6 @@
 # Figment
-Rating: 4.52 (67)  
-Ratings Per Day: 1.15  
+Rating: 4.50 (68)  
+Ratings Per Day: 0.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 1.15
 | 2022-08-09 | 4.52 | 64 |
 | 2022-08-10 | 4.52 | 65 |
 | 2022-08-11 | 4.52 | 67 |
+| 2022-08-14 | 4.50 | 68 |
