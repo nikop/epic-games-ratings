@@ -3,10 +3,10 @@
   "Name": "Relicta",
   "Names": [],
   "Rating": 4.14,
-  "NumberOfRatings": 298,
-  "DailyRatings": 3.09,
+  "NumberOfRatings": 300,
+  "DailyRatings": 3.08,
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2022-08-13T23:31:52.08455+00:00",
+  "LastChanged": "2022-08-14T15:31:48.9395384+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
@@ -152,12 +152,17 @@
       "Time": "2022-08-13T23:31:52.0845501+00:00",
       "Rating": 4.14,
       "NumberOfRatings": 298
+    },
+    {
+      "Time": "2022-08-14T15:31:48.9395386+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": 300
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 73
+      "Count": 76
     }
   ]
 }

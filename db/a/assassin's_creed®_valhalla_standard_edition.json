@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 9094,
-  "DailyRatings": 76.77,
+  "NumberOfRatings": 9097,
+  "DailyRatings": 76.51,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2022-08-14T14:00:57.1992389+00:00",
+  "LastChanged": "2022-08-14T15:30:50.9148883+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -1107,6 +1107,11 @@
       "Time": "2022-08-14T14:00:57.1992392+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 9094
+    },
+    {
+      "Time": "2022-08-14T15:30:50.9148884+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 9097
     }
   ],
   "Tags": [
