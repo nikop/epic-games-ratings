@@ -2,11 +2,11 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "Names": [],
-  "Rating": 4.74,
-  "NumberOfRatings": 42393,
-  "DailyRatings": 474.05,
+  "Rating": 4.73,
+  "NumberOfRatings": 42425,
+  "DailyRatings": 472.98,
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2022-08-14T21:00:23.7772073+00:00",
+  "LastChanged": "2022-08-14T23:00:24.5815605+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -1247,6 +1247,11 @@
       "Time": "2022-08-14T21:00:23.7772077+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 42393
+    },
+    {
+      "Time": "2022-08-14T23:00:24.581561+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 42425
     }
   ],
   "Tags": [

@@ -1,6 +1,6 @@
 # Othercide
-Rating: 4.31 (32)  
-Ratings Per Day: 0.00  
+Rating: 4.33 (33)  
+Ratings Per Day: 0.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.00
 | 2022-08-03 | 4.27 | 30 |
 | 2022-08-05 | 4.29 | 31 |
 | 2022-08-09 | 4.31 | 32 |
+| 2022-08-14 | 4.33 | 33 |

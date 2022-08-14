@@ -3,10 +3,10 @@
   "Name": "Limbo",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 146,
-  "DailyRatings": 1,
+  "NumberOfRatings": 149,
+  "DailyRatings": 1.2,
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
-  "LastChanged": "2022-08-13T23:01:16.0649041+00:00",
+  "LastChanged": "2022-08-14T23:01:18.6213299+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.9421183+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-08-13T23:01:16.0649043+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 146
+    },
+    {
+      "Time": "2022-08-14T23:01:18.62133+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 149
     }
   ],
   "Tags": []
