@@ -1,6 +1,6 @@
 # MechWarrior 5: Mercenaries Standard Edition
-Rating: 4.60 (3 460)  
-Ratings Per Day: 22.85  
+Rating: 4.60 (3 462)  
+Ratings Per Day: 23.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,4 +27,4 @@ Ratings Per Day: 22.85
 | 2022-08-11 | 4.60 | 3 367 |
 | 2022-08-12 | 4.60 | 3 401 |
 | 2022-08-13 | 4.60 | 3 441 |
-| 2022-08-14 | 4.60 | 3 460 |
+| 2022-08-14 | 4.60 | 3 462 |
