@@ -1,6 +1,6 @@
 # Zombie Army 4: Dead War
 Rating: 4.66 (564)  
-Ratings Per Day: 5.98  
+Ratings Per Day: 5.70  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

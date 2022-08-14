@@ -1,5 +1,5 @@
 # GRIME
-Rating: 4.56 (39)  
+Rating: 4.58 (40)  
 Ratings Per Day: 0.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.98
 | 2022-08-03 | 4.64 | 36 |
 | 2022-08-11 | 4.58 | 38 |
 | 2022-08-13 | 4.56 | 39 |
+| 2022-08-14 | 4.58 | 40 |
