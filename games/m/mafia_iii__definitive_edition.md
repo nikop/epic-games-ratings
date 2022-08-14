@@ -1,6 +1,6 @@
 # Mafia III: Definitive Edition
 Rating: 4.18 (922)  
-Ratings Per Day: 7.85  
+Ratings Per Day: 7.93  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

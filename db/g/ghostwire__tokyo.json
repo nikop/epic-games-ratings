@@ -3,10 +3,10 @@
   "Name": "Ghostwire: Tokyo",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 929,
-  "DailyRatings": 4.66,
+  "NumberOfRatings": 931,
+  "DailyRatings": 4.64,
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2022-08-13T16:30:38.8884306+00:00",
+  "LastChanged": "2022-08-14T03:31:39.6865146+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.0109804+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-08-13T16:30:38.8884307+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 929
+    },
+    {
+      "Time": "2022-08-14T03:31:39.6865147+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 931
     }
   ],
   "Tags": [
