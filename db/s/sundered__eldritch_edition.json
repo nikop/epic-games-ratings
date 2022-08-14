@@ -2,11 +2,11 @@
   "ID": "ca8077d80493497188e0ca5bca3ebe60",
   "Name": "Sundered: Eldritch Edition",
   "Names": [],
-  "Rating": 4.49,
-  "NumberOfRatings": 121,
-  "DailyRatings": 1.09,
+  "Rating": 4.48,
+  "NumberOfRatings": 124,
+  "DailyRatings": 1.4,
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2022-08-13T18:32:18.7673992+00:00",
+  "LastChanged": "2022-08-14T16:02:21.5981825+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:53.2112199+00:00",
@@ -92,12 +92,17 @@
       "Time": "2022-08-13T18:32:18.7673993+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 121
+    },
+    {
+      "Time": "2022-08-14T16:02:21.5981826+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 124
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 30
+      "Count": 31
     }
   ]
 }
