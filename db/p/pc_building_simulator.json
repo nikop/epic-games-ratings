@@ -3,10 +3,10 @@
   "Name": "PC Building Simulator",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 8843,
-  "DailyRatings": 92.26,
+  "NumberOfRatings": 8848,
+  "DailyRatings": 92.43,
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
-  "LastChanged": "2022-08-14T12:00:57.2456099+00:00",
+  "LastChanged": "2022-08-14T13:01:05.4785507+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:06.3204439+00:00",
@@ -1032,6 +1032,11 @@
       "Time": "2022-08-14T12:00:57.2456101+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 8843
+    },
+    {
+      "Time": "2022-08-14T13:01:05.4785509+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 8848
     }
   ],
   "Tags": [
@@ -1049,7 +1054,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 345
+      "Count": 359
     },
     {
       "Text": "This game is Extremely Fun",
