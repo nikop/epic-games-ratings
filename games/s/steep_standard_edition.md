@@ -1,6 +1,6 @@
 # Steep Standard Edition
 Rating: 4.62 (268)  
-Ratings Per Day: 9.98  
+Ratings Per Day: 8.79  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

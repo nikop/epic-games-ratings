@@ -2,11 +2,11 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "Names": [],
-  "Rating": 4.22,
-  "NumberOfRatings": 96,
-  "DailyRatings": 1.09,
+  "Rating": 4.23,
+  "NumberOfRatings": 98,
+  "DailyRatings": 0.58,
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
-  "LastChanged": "2022-08-09T17:01:21.8296634+00:00",
+  "LastChanged": "2022-08-14T17:31:20.238117+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:52.8123952+00:00",
@@ -97,12 +97,17 @@
       "Time": "2022-08-09T17:01:21.8296635+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 96
+    },
+    {
+      "Time": "2022-08-14T17:31:20.2381172+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 98
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has Great Boss Battles",
