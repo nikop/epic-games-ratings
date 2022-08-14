@@ -3,10 +3,10 @@
   "Name": "Tyranny - Gold Edition",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 909,
-  "DailyRatings": 11.36,
+  "NumberOfRatings": 911,
+  "DailyRatings": 11.18,
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2022-08-14T11:01:49.2085372+00:00",
+  "LastChanged": "2022-08-14T18:01:47.2078383+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:41.6168654+00:00",
@@ -437,12 +437,17 @@
       "Time": "2022-08-14T11:01:49.2085373+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 909
+    },
+    {
+      "Time": "2022-08-14T18:01:47.2078387+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 911
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 276
+      "Count": 280
     },
     {
       "Text": "This game has Great Boss Battles",

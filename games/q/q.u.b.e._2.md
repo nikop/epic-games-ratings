@@ -1,6 +1,6 @@
 # Q.U.B.E. 2
-Rating: 4.45 (67)  
-Ratings Per Day: 2.00  
+Rating: 4.46 (68)  
+Ratings Per Day: 0.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 2.00
 | 2022-08-07 | 4.45 | 64 |
 | 2022-08-09 | 4.46 | 65 |
 | 2022-08-10 | 4.45 | 67 |
+| 2022-08-14 | 4.46 | 68 |
