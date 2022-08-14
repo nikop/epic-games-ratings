@@ -3,10 +3,10 @@
   "Name": "Rebel Galaxy Outlaw",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 105,
-  "DailyRatings": 1.23,
+  "NumberOfRatings": 106,
+  "DailyRatings": 1.18,
   "FirstSeen": "2022-07-22T20:23:57.7523989+00:00",
-  "LastChanged": "2022-08-13T02:01:33.3388733+00:00",
+  "LastChanged": "2022-08-14T03:01:11.3517073+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.7523992+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-13T02:01:33.3388735+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 105
+    },
+    {
+      "Time": "2022-08-14T03:01:11.3517074+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 106
     }
   ],
   "Tags": []
