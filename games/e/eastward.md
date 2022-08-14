@@ -1,6 +1,6 @@
 # Eastward
-Rating: 4.63 (27)  
-Ratings Per Day: 0.67  
+Rating: 4.61 (28)  
+Ratings Per Day: 0.47  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.67
 | 2022-08-07 | 4.64 | 25 |
 | 2022-08-08 | 4.62 | 26 |
 | 2022-08-10 | 4.63 | 27 |
+| 2022-08-14 | 4.61 | 28 |
