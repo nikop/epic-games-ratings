@@ -1,6 +1,6 @@
 # Verdun
-Rating: 4.50 (1 533)  
-Ratings Per Day: 15.01  
+Rating: 4.50 (1 536)  
+Ratings Per Day: 15.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,4 +27,4 @@ Ratings Per Day: 15.01
 | 2022-08-11 | 4.50 | 1 498 |
 | 2022-08-12 | 4.50 | 1 515 |
 | 2022-08-13 | 4.50 | 1 526 |
-| 2022-08-14 | 4.50 | 1 533 |
+| 2022-08-14 | 4.50 | 1 536 |
