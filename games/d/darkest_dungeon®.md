@@ -1,6 +1,6 @@
 # Darkest Dungeon®
 Rating: 4.75 (3 817)  
-Ratings Per Day: 44.67  
+Ratings Per Day: 45.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

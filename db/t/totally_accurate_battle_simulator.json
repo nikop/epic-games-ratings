@@ -3,10 +3,10 @@
   "Name": "Totally Accurate Battle Simulator",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 1499,
-  "DailyRatings": 18.93,
+  "NumberOfRatings": 1503,
+  "DailyRatings": 18.43,
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2022-08-14T04:01:24.4274014+00:00",
+  "LastChanged": "2022-08-14T13:31:26.4668233+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:14.6922179+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-08-14T04:01:24.4274015+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 1499
+    },
+    {
+      "Time": "2022-08-14T13:31:26.4668235+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 1503
     }
   ],
   "Tags": [
@@ -690,11 +695,11 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 60
+      "Count": 64
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 45
+      "Count": 48
     },
     {
       "Text": "This game has a Creative Community",
