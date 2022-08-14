@@ -2,11 +2,11 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "Names": [],
-  "Rating": 4.53,
-  "NumberOfRatings": 17215,
-  "DailyRatings": 234.83,
+  "Rating": 4.52,
+  "NumberOfRatings": 17236,
+  "DailyRatings": 232.18,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-08-14T04:30:39.383412+00:00",
+  "LastChanged": "2022-08-14T08:32:14.7145213+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -1187,6 +1187,11 @@
       "Time": "2022-08-14T04:30:39.3834122+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 17215
+    },
+    {
+      "Time": "2022-08-14T08:32:14.7145215+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 17236
     }
   ],
   "Tags": [
@@ -1196,7 +1201,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 4997
+      "Count": 5082
     },
     {
       "Text": "This game has Obsessive Gameplay",
