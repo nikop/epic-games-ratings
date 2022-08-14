@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.56,
   "NumberOfRatings": 1551,
-  "DailyRatings": 17.84,
+  "DailyRatings": 17.85,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
   "LastChanged": "2022-08-14T04:30:23.3819694+00:00",
   "RatingHistory": [
@@ -852,7 +852,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 788
+      "Count": 804
     },
     {
       "Text": "This game is Highly Recommended",
@@ -888,7 +888,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 91
+      "Count": 93
     }
   ]
 }
