@@ -1,6 +1,6 @@
 # Salt and Sanctuary
 Rating: 4.61 (2 290)  
-Ratings Per Day: 26.43  
+Ratings Per Day: 26.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

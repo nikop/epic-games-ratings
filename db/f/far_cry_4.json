@@ -3,10 +3,10 @@
   "Name": "FAR CRY 4",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 459,
-  "DailyRatings": 4.78,
+  "NumberOfRatings": 460,
+  "DailyRatings": 4.56,
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2022-08-13T22:01:32.480139+00:00",
+  "LastChanged": "2022-08-14T10:31:36.390712+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-08-13T22:01:32.4801391+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 459
+    },
+    {
+      "Time": "2022-08-14T10:31:36.3907123+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 460
     }
   ],
   "Tags": [

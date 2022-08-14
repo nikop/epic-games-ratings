@@ -1,6 +1,6 @@
 # Baldur's Gate Dark Alliance II
 Rating: 4.42 (24)  
-Ratings Per Day: 0.66  
+Ratings Per Day: 0.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
