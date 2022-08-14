@@ -1,6 +1,6 @@
 # Mutant Year Zero: Road to Eden
-Rating: 4.51 (1 367)  
-Ratings Per Day: 15.14  
+Rating: 4.51 (1 372)  
+Ratings Per Day: 15.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,4 +27,4 @@ Ratings Per Day: 15.14
 | 2022-08-11 | 4.50 | 1 332 |
 | 2022-08-12 | 4.51 | 1 351 |
 | 2022-08-13 | 4.51 | 1 366 |
-| 2022-08-14 | 4.51 | 1 367 |
+| 2022-08-14 | 4.51 | 1 372 |
