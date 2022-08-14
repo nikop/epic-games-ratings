@@ -2,11 +2,11 @@
   "ID": "ff8c96d781824ba1ae62d18d207fc52e",
   "Name": "Mortal Shell",
   "Names": [],
-  "Rating": 4.4,
-  "NumberOfRatings": 149,
-  "DailyRatings": 3.49,
+  "Rating": 4.39,
+  "NumberOfRatings": 150,
+  "DailyRatings": 3.3,
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2022-08-14T01:30:52.6344284+00:00",
+  "LastChanged": "2022-08-14T17:00:39.7792357+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:45.0826325+00:00",
@@ -142,12 +142,17 @@
       "Time": "2022-08-14T01:30:52.6344285+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 149
+    },
+    {
+      "Time": "2022-08-14T17:00:39.7792358+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 150
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 25
+      "Count": 26
     }
   ]
 }

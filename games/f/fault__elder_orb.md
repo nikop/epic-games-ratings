@@ -1,6 +1,6 @@
 # Fault: Elder Orb
 Rating: 3.86 (496)  
-Ratings Per Day: 12.15  
+Ratings Per Day: 12.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
