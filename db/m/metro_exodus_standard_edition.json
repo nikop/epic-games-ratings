@@ -3,10 +3,10 @@
   "Name": "Metro Exodus Standard Edition",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 5338,
-  "DailyRatings": 57.83,
+  "NumberOfRatings": 5349,
+  "DailyRatings": 58.2,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-08-15T15:00:33.9587784+00:00",
+  "LastChanged": "2022-08-15T18:30:27.7798501+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -1042,6 +1042,11 @@
       "Time": "2022-08-15T15:00:33.9587787+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 5338
+    },
+    {
+      "Time": "2022-08-15T18:30:27.7798503+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 5349
     }
   ],
   "Tags": [
@@ -1079,7 +1084,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 179
+      "Count": 184
     },
     {
       "Text": "This game is Relaxing",
