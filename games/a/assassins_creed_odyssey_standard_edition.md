@@ -1,6 +1,6 @@
 # Assassins Creed Odyssey Standard Edition
-Rating: 4.75 (4 003)  
-Ratings Per Day: 30.53  
+Rating: 4.75 (4 009)  
+Ratings Per Day: 30.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,4 +28,4 @@ Ratings Per Day: 30.53
 | 2022-08-12 | 4.75 | 3 927 |
 | 2022-08-13 | 4.75 | 3 959 |
 | 2022-08-14 | 4.75 | 3 993 |
-| 2022-08-15 | 4.75 | 4 003 |
+| 2022-08-15 | 4.75 | 4 009 |

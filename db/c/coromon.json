@@ -3,10 +3,10 @@
   "Name": "Coromon",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 72,
-  "DailyRatings": 0.5,
+  "NumberOfRatings": 73,
+  "DailyRatings": 0.66,
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
-  "LastChanged": "2022-08-15T15:01:55.436773+00:00",
+  "LastChanged": "2022-08-15T15:32:25.6984659+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:42.756351+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-08-15T15:01:55.4367732+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 72
+    },
+    {
+      "Time": "2022-08-15T15:32:25.6984661+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 73
     }
   ],
   "Tags": []
