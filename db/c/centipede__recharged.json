@@ -3,10 +3,10 @@
   "Name": "Centipede: Recharged",
   "Names": [],
   "Rating": 4.33,
-  "NumberOfRatings": 54,
-  "DailyRatings": 0.38,
+  "NumberOfRatings": 55,
+  "DailyRatings": 0.53,
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
-  "LastChanged": "2022-08-15T03:03:00.2717776+00:00",
+  "LastChanged": "2022-08-15T10:32:17.0331575+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:18.65273+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-08-15T03:03:00.2717778+00:00",
       "Rating": 4.33,
       "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-08-15T10:32:17.0331577+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 55
     }
   ],
   "Tags": []
