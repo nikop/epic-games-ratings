@@ -1,6 +1,6 @@
 # MONOPOLY® PLUS
-Rating: 3.84 (111)  
-Ratings Per Day: 1.00  
+Rating: 3.86 (114)  
+Ratings Per Day: 1.41  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 1.00
 | 2022-08-12 | 3.86 | 109 |
 | 2022-08-13 | 3.84 | 110 |
 | 2022-08-14 | 3.84 | 111 |
+| 2022-08-15 | 3.86 | 114 |
