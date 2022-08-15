@@ -2,11 +2,11 @@
   "ID": "c4a39e8e304c4356afcddd79820b223d",
   "Name": "DEMON\u0027S TILT",
   "Names": [],
-  "Rating": 4.49,
-  "NumberOfRatings": 207,
-  "DailyRatings": 2.62,
+  "Rating": 4.5,
+  "NumberOfRatings": 206,
+  "DailyRatings": 2.45,
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
-  "LastChanged": "2022-08-15T06:00:30.8781899+00:00",
+  "LastChanged": "2022-08-15T06:30:31.4953277+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:30.3918216+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-08-15T06:00:30.8781902+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 207
+    },
+    {
+      "Time": "2022-08-15T06:30:31.495328+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 206
     }
   ],
   "Tags": []
