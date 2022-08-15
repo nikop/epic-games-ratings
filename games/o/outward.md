@@ -1,6 +1,6 @@
 # Outward
-Rating: 4.53 (233)  
-Ratings Per Day: 1.80  
+Rating: 4.53 (234)  
+Ratings Per Day: 1.85  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,3 +27,4 @@ Ratings Per Day: 1.80
 | 2022-08-11 | 4.54 | 226 |
 | 2022-08-13 | 4.55 | 230 |
 | 2022-08-14 | 4.53 | 233 |
+| 2022-08-15 | 4.53 | 234 |
