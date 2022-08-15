@@ -3,10 +3,10 @@
   "Name": "A Plague Tale: Innocence",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 7629,
-  "DailyRatings": 88.69,
+  "NumberOfRatings": 7685,
+  "DailyRatings": 88.23,
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
-  "LastChanged": "2022-08-14T13:01:12.7024302+00:00",
+  "LastChanged": "2022-08-15T05:00:57.8880178+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:00.8447802+00:00",
@@ -367,12 +367,17 @@
       "Time": "2022-08-14T13:01:12.7024304+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 7629
+    },
+    {
+      "Time": "2022-08-15T05:00:57.8880179+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 7685
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1086
+      "Count": 1106
     }
   ]
 }

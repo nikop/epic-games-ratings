@@ -150,5 +150,10 @@
       "NumberOfRatings": 5491
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Count": 21
+    }
+  ]
 }
