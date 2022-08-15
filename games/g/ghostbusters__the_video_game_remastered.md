@@ -1,6 +1,6 @@
 # Ghostbusters: The Video Game Remastered
-Rating: 4.42 (278)  
-Ratings Per Day: 3.07  
+Rating: 4.42 (281)  
+Ratings Per Day: 3.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 3.07
 | 2022-08-12 | 4.43 | 270 |
 | 2022-08-13 | 4.43 | 271 |
 | 2022-08-14 | 4.42 | 278 |
+| 2022-08-15 | 4.42 | 281 |
