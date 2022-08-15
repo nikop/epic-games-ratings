@@ -3,10 +3,10 @@
   "Name": "Path of Exile",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 1969,
-  "DailyRatings": 15.83,
+  "NumberOfRatings": 1971,
+  "DailyRatings": 15.59,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-08-15T10:30:17.029812+00:00",
+  "LastChanged": "2022-08-15T16:00:19.7815268+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -807,12 +807,17 @@
       "Time": "2022-08-15T10:30:17.0298123+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 1969
+    },
+    {
+      "Time": "2022-08-15T16:00:19.7815271+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 1971
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 985
+      "Count": 993
     },
     {
       "Text": "This game has Great Boss Battles",

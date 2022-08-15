@@ -3,10 +3,10 @@
   "Name": "Wargame: Red Dragon",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 2200,
-  "DailyRatings": 22.75,
+  "NumberOfRatings": 2202,
+  "DailyRatings": 22.56,
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2022-08-15T12:30:28.3587258+00:00",
+  "LastChanged": "2022-08-15T16:00:31.9027802+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:18.8189702+00:00",
@@ -847,6 +847,11 @@
       "Time": "2022-08-15T12:30:28.358726+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 2200
+    },
+    {
+      "Time": "2022-08-15T16:00:31.9027804+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 2202
     }
   ],
   "Tags": [
