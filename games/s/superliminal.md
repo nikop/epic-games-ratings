@@ -1,6 +1,6 @@
 # Superliminal
-Rating: 4.74 (27)  
-Ratings Per Day: 0.00  
+Rating: 4.68 (28)  
+Ratings Per Day: 0.23  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.00
 | 2022-08-06 | 4.76 | 25 |
 | 2022-08-07 | 4.77 | 26 |
 | 2022-08-11 | 4.74 | 27 |
+| 2022-08-15 | 4.68 | 28 |
