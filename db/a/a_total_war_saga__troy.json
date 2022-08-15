@@ -3,10 +3,10 @@
   "Name": "A Total War Saga: TROY",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 4386,
-  "DailyRatings": 51.83,
+  "NumberOfRatings": 4392,
+  "DailyRatings": 51.33,
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2022-08-15T00:30:41.5439428+00:00",
+  "LastChanged": "2022-08-15T06:00:46.5422809+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.5035153+00:00",
@@ -1097,6 +1097,11 @@
       "Time": "2022-08-15T00:30:41.5439429+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 4386
+    },
+    {
+      "Time": "2022-08-15T06:00:46.5422811+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 4392
     }
   ],
   "Tags": [
@@ -1134,7 +1139,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 455
+      "Count": 467
     }
   ]
 }

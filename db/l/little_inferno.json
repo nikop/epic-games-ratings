@@ -3,10 +3,10 @@
   "Name": "Little Inferno",
   "Names": [],
   "Rating": 4.35,
-  "NumberOfRatings": 49,
-  "DailyRatings": 1.19,
+  "NumberOfRatings": 51,
+  "DailyRatings": 1.32,
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
-  "LastChanged": "2022-08-14T06:01:51.4926902+00:00",
+  "LastChanged": "2022-08-15T06:02:00.8626151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:23.1362484+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-14T06:01:51.4926903+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-08-15T06:02:00.8626153+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 51
     }
   ],
   "Tags": []
