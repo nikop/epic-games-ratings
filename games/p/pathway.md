@@ -1,6 +1,6 @@
 # Pathway
 Rating: 4.42 (308)  
-Ratings Per Day: 3.45  
+Ratings Per Day: 3.71  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
