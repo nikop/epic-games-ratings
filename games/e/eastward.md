@@ -1,6 +1,6 @@
 # Eastward
 Rating: 4.61 (28)  
-Ratings Per Day: 0.37  
+Ratings Per Day: 0.30  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

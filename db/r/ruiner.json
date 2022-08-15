@@ -2,11 +2,11 @@
   "ID": "74d82b28ab424956ac24407229fe6faa",
   "Name": "RUINER",
   "Names": [],
-  "Rating": 4.64,
-  "NumberOfRatings": 97,
-  "DailyRatings": 0.67,
+  "Rating": 4.62,
+  "NumberOfRatings": 101,
+  "DailyRatings": 1.14,
   "FirstSeen": "2022-07-22T20:24:12.7413327+00:00",
-  "LastChanged": "2022-08-14T21:01:14.7493837+00:00",
+  "LastChanged": "2022-08-15T21:01:45.8448112+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:12.7413329+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-14T21:01:14.7493838+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 97
+    },
+    {
+      "Time": "2022-08-15T21:01:45.8448113+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 101
     }
   ],
   "Tags": []
