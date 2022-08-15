@@ -3,10 +3,10 @@
   "Name": "Sheltered",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 604,
-  "DailyRatings": 10.24,
+  "NumberOfRatings": 608,
+  "DailyRatings": 9.9,
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
-  "LastChanged": "2022-08-15T07:30:18.4414282+00:00",
+  "LastChanged": "2022-08-15T22:00:39.5458272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.2392679+00:00",
@@ -237,12 +237,17 @@
       "Time": "2022-08-15T07:30:18.4414284+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 604
+    },
+    {
+      "Time": "2022-08-15T22:00:39.5458274+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 608
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 121
+      "Count": 123
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Stories Untold
-Rating: 4.40 (20)  
-Ratings Per Day: -48.71  
+Rating: 4.43 (21)  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

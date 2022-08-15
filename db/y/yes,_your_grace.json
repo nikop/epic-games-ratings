@@ -2,12 +2,12 @@
   "ID": "41cd36dc3662428193f02f0f947bbe5e",
   "Name": "Yes, Your Grace",
   "Names": [],
-  "Rating": 4.49,
-  "NumberOfRatings": 47,
-  "DailyRatings": 1.73,
+  "Rating": 4.54,
+  "NumberOfRatings": 52,
+  "DailyRatings": 2.26,
   "FirstSeen": "2022-07-22T20:32:08.8231498+00:00",
   "FirstSeenRating": "2022-08-05T14:32:08.7916569+00:00",
-  "LastChanged": "2022-08-14T22:02:15.3994685+00:00",
+  "LastChanged": "2022-08-15T22:02:28.2559557+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T14:32:08.7916571+00:00",
@@ -63,6 +63,11 @@
       "Time": "2022-08-14T22:02:15.3994687+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 47
+    },
+    {
+      "Time": "2022-08-15T22:02:28.2559558+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 52
     }
   ],
   "Tags": []
