@@ -1,6 +1,6 @@
 # The Vanishing of Ethan Carter
 Rating: 4.25 (353)  
-Ratings Per Day: 5.40  
+Ratings Per Day: 4.76  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
