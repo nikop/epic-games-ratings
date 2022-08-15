@@ -3,10 +3,10 @@
   "Name": "Mafia : Definitive Edition",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 1373,
-  "DailyRatings": 16.59,
+  "NumberOfRatings": 1375,
+  "DailyRatings": 15.65,
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2022-08-14T20:31:03.5308363+00:00",
+  "LastChanged": "2022-08-15T08:31:18.9700552+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.9426234+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-08-14T20:31:03.5308365+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 1373
+    },
+    {
+      "Time": "2022-08-15T08:31:18.9700554+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 1375
     }
   ],
   "Tags": [
