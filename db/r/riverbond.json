@@ -3,10 +3,10 @@
   "Name": "Riverbond",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 485,
-  "DailyRatings": 4.97,
+  "NumberOfRatings": 487,
+  "DailyRatings": 4.85,
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
-  "LastChanged": "2022-08-14T15:02:12.8302544+00:00",
+  "LastChanged": "2022-08-15T04:32:23.0280932+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:42.544323+00:00",
@@ -162,6 +162,11 @@
       "Time": "2022-08-14T15:02:12.8302545+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 485
+    },
+    {
+      "Time": "2022-08-15T04:32:23.0280934+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 487
     }
   ],
   "Tags": []

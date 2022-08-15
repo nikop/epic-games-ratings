@@ -1,6 +1,6 @@
 # Neon Abyss
-Rating: 4.69 (5 990)  
-Ratings Per Day: 64.44  
+Rating: 4.69 (5 997)  
+Ratings Per Day: 63.90  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,4 +28,4 @@ Ratings Per Day: 64.44
 | 2022-08-12 | 4.68 | 5 844 |
 | 2022-08-13 | 4.68 | 5 921 |
 | 2022-08-14 | 4.69 | 5 989 |
-| 2022-08-15 | 4.69 | 5 990 |
+| 2022-08-15 | 4.69 | 5 997 |
