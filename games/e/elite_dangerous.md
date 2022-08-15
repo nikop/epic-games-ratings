@@ -1,6 +1,6 @@
 # Elite Dangerous
-Rating: 4.63 (4 941)  
-Ratings Per Day: 70.88  
+Rating: 4.63 (4 944)  
+Ratings Per Day: 70.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 70.88
 | 2022-08-12 | 4.63 | 4 823 |
 | 2022-08-13 | 4.63 | 4 885 |
 | 2022-08-14 | 4.63 | 4 941 |
+| 2022-08-15 | 4.63 | 4 944 |
