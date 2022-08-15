@@ -1,6 +1,6 @@
 # The Outer Worlds
 Rating: 4.64 (1 768)  
-Ratings Per Day: 15.66  
+Ratings Per Day: 15.05  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

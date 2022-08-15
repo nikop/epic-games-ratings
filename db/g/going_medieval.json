@@ -3,10 +3,10 @@
   "Name": "Going Medieval",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 579,
-  "DailyRatings": 5.31,
+  "NumberOfRatings": 581,
+  "DailyRatings": 5.2,
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
-  "LastChanged": "2022-08-15T05:31:59.1321097+00:00",
+  "LastChanged": "2022-08-15T18:02:16.6063864+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:43.3022236+00:00",
@@ -322,6 +322,11 @@
       "Time": "2022-08-15T05:31:59.1321099+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 579
+    },
+    {
+      "Time": "2022-08-15T18:02:16.6063866+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 581
     }
   ],
   "Tags": [
