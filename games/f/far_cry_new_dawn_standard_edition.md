@@ -1,6 +1,6 @@
 # Far Cry New Dawn Standard Edition
 Rating: 4.45 (239)  
-Ratings Per Day: 1.96  
+Ratings Per Day: 2.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

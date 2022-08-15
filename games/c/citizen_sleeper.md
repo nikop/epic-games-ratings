@@ -1,6 +1,6 @@
 # Citizen Sleeper
 Rating: 4.74 (27)  
-Ratings Per Day: 0.40  
+Ratings Per Day: 0.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
