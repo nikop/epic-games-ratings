@@ -1,6 +1,6 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
-Rating: 4.58 (330)  
-Ratings Per Day: 1.13  
+Rating: 4.58 (331)  
+Ratings Per Day: 1.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 1.13
 | 2022-08-09 | 4.59 | 325 |
 | 2022-08-10 | 4.58 | 326 |
 | 2022-08-13 | 4.58 | 330 |
+| 2022-08-15 | 4.58 | 331 |
