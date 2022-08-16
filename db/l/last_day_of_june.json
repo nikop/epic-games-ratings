@@ -2,12 +2,12 @@
   "ID": "4fd85a772cd5471aa5e38efcaa0d6f24",
   "Name": "Last Day of June",
   "Names": [],
-  "Rating": 4.68,
-  "NumberOfRatings": 22,
-  "DailyRatings": 0.5,
+  "Rating": 4.63,
+  "NumberOfRatings": 24,
+  "DailyRatings": 0.6,
   "FirstSeen": "2022-07-22T20:23:53.547299+00:00",
   "FirstSeenRating": "2022-08-09T02:31:32.2864337+00:00",
-  "LastChanged": "2022-08-13T03:01:10.6545409+00:00",
+  "LastChanged": "2022-08-16T03:01:06.6834161+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-09T02:31:32.286434+00:00",
@@ -23,6 +23,11 @@
       "Time": "2022-08-13T03:01:10.654541+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-08-16T03:01:06.6834162+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 24
     }
   ],
   "Tags": []
