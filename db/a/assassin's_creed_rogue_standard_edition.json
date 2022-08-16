@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Rogue Standard Edition",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 236,
-  "DailyRatings": 4.35,
+  "NumberOfRatings": 238,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2022-08-15T15:32:28.6026647+00:00",
+  "LastChanged": "2022-08-16T16:02:19.2730801+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:01.011346+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-08-15T15:32:28.6026649+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 236
+    },
+    {
+      "Time": "2022-08-16T16:02:19.2730806+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 238
     }
   ],
   "Tags": [
