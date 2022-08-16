@@ -2,11 +2,11 @@
   "ID": "615659ff36244d258ef6c6a827e32c5d",
   "Name": "Brothers - A Tale of Two Sons",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 494,
-  "DailyRatings": 5.71,
+  "Rating": 4.51,
+  "NumberOfRatings": 496,
+  "DailyRatings": 5.12,
   "FirstSeen": "2022-07-22T20:27:20.1977225+00:00",
-  "LastChanged": "2022-08-15T22:31:31.4165212+00:00",
+  "LastChanged": "2022-08-16T22:31:35.263303+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:20.1977228+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-08-15T22:31:31.4165213+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 494
+    },
+    {
+      "Time": "2022-08-16T22:31:35.2633032+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 496
     }
   ],
   "Tags": []
