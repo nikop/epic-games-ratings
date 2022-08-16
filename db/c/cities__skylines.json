@@ -3,10 +3,10 @@
   "Name": "Cities: Skylines",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 17659,
-  "DailyRatings": 209.06,
+  "NumberOfRatings": 17702,
+  "DailyRatings": 207.08,
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
-  "LastChanged": "2022-08-15T18:30:37.1293479+00:00",
+  "LastChanged": "2022-08-16T01:00:42.1286619+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:44.6167527+00:00",
@@ -1152,12 +1152,17 @@
       "Time": "2022-08-15T18:30:37.129348+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 17659
+    },
+    {
+      "Time": "2022-08-16T01:00:42.1286626+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 17702
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1141
+      "Count": 1160
     },
     {
       "Text": "This game is Relaxing",
