@@ -1,6 +1,6 @@
 # The Eternal Cylinder
-Rating: 4.83 (101)  
-Ratings Per Day: 0.66  
+Rating: 4.80 (102)  
+Ratings Per Day: 0.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 0.66
 | 2022-08-11 | 4.83 | 99 |
 | 2022-08-12 | 4.83 | 100 |
 | 2022-08-14 | 4.83 | 101 |
+| 2022-08-16 | 4.80 | 102 |

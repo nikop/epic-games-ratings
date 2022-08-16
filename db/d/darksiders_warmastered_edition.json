@@ -3,10 +3,10 @@
   "Name": "Darksiders Warmastered Edition",
   "Names": [],
   "Rating": 4.54,
-  "NumberOfRatings": 497,
-  "DailyRatings": 6.17,
+  "NumberOfRatings": 504,
+  "DailyRatings": 6.29,
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
-  "LastChanged": "2022-08-15T18:31:11.2723782+00:00",
+  "LastChanged": "2022-08-16T18:31:13.7946334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:18.0300296+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-08-15T18:31:11.2723784+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 497
+    },
+    {
+      "Time": "2022-08-16T18:31:13.7946336+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 504
     }
   ],
   "Tags": [
