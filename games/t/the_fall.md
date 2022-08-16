@@ -1,6 +1,6 @@
 # The Fall
-Rating: 4.14 (76)  
-Ratings Per Day: 1.00  
+Rating: 4.14 (78)  
+Ratings Per Day: 1.14  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 1.00
 | 2022-08-12 | 4.14 | 71 |
 | 2022-08-14 | 4.14 | 74 |
 | 2022-08-15 | 4.14 | 76 |
+| 2022-08-16 | 4.14 | 78 |
