@@ -3,10 +3,10 @@
   "Name": "Dead by Daylight",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 56404,
-  "DailyRatings": 403.99,
+  "NumberOfRatings": 56424,
+  "DailyRatings": 405.52,
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
-  "LastChanged": "2022-08-16T19:31:19.668237+00:00",
+  "LastChanged": "2022-08-16T20:00:26.0599563+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:36.44586+00:00",
@@ -1292,6 +1292,11 @@
       "Time": "2022-08-16T19:31:19.6682371+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 56404
+    },
+    {
+      "Time": "2022-08-16T20:00:26.0599567+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 56424
     }
   ],
   "Tags": [
@@ -1317,7 +1322,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 7125
+      "Count": 7240
     },
     {
       "Text": "This game is Highly Recommended",
