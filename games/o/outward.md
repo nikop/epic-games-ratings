@@ -1,6 +1,6 @@
 # Outward
 Rating: 4.53 (234)  
-Ratings Per Day: 1.81  
+Ratings Per Day: 2.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

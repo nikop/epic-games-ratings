@@ -3,10 +3,10 @@
   "Name": "Heavy Rain",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 185,
-  "DailyRatings": 1.11,
+  "NumberOfRatings": 187,
+  "DailyRatings": 1.27,
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2022-08-15T02:30:36.0963833+00:00",
+  "LastChanged": "2022-08-16T02:30:43.4906419+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:18.3925165+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-08-15T02:30:36.0963836+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 185
+    },
+    {
+      "Time": "2022-08-16T02:30:43.4906421+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 187
     }
   ],
   "Tags": [
