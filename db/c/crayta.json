@@ -94,5 +94,10 @@
       "NumberOfRatings": 80
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 20
+    }
+  ]
 }

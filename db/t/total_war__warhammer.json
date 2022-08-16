@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 6049,
-  "DailyRatings": 58.6,
+  "NumberOfRatings": 6050,
+  "DailyRatings": 58.18,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-08-16T11:30:35.7216315+00:00",
+  "LastChanged": "2022-08-16T12:30:34.3807178+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -1082,12 +1082,17 @@
       "Time": "2022-08-16T11:30:35.7216319+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 6049
+    },
+    {
+      "Time": "2022-08-16T12:30:34.3807178+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 6050
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2546
+      "Count": 2579
     },
     {
       "Text": "This game is Highly Recommended",
