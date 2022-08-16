@@ -2,11 +2,11 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "Names": [],
-  "Rating": 4.35,
-  "NumberOfRatings": 37,
-  "DailyRatings": 0.3,
+  "Rating": 4.37,
+  "NumberOfRatings": 38,
+  "DailyRatings": 0.31,
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
-  "LastChanged": "2022-08-13T13:02:47.8733639+00:00",
+  "LastChanged": "2022-08-16T13:32:29.4244078+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:53.8130913+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-13T13:02:47.8733641+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-08-16T13:32:29.4244079+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 38
     }
   ],
   "Tags": []

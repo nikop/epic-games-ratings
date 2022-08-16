@@ -2,11 +2,11 @@
   "ID": "755d1aa0a0154fe7a602caaec1f18c10",
   "Name": "Road 96",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 70,
-  "DailyRatings": 0,
+  "Rating": 4.59,
+  "NumberOfRatings": 71,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:25:33.5631582+00:00",
-  "LastChanged": "2022-08-13T13:01:54.5021724+00:00",
+  "LastChanged": "2022-08-16T13:31:35.9642961+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:33.5631588+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-08-13T13:01:54.5021725+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 70
+    },
+    {
+      "Time": "2022-08-16T13:31:35.9642962+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 71
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Tropico 6
-Rating: 4.67 (281)  
-Ratings Per Day: 1.65  
+Rating: 4.67 (285)  
+Ratings Per Day: 1.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 1.65
 | 2022-08-12 | 4.67 | 278 |
 | 2022-08-13 | 4.67 | 280 |
 | 2022-08-14 | 4.67 | 281 |
+| 2022-08-16 | 4.67 | 285 |

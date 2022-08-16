@@ -3,10 +3,10 @@
   "Name": "Fall Guys",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 923463,
-  "DailyRatings": 5140.4,
+  "NumberOfRatings": 924488,
+  "DailyRatings": 5195.04,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
-  "LastChanged": "2022-08-16T10:30:39.8123829+00:00",
+  "LastChanged": "2022-08-16T13:30:39.7343761+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.4977602+00:00",
@@ -1062,6 +1062,11 @@
       "Time": "2022-08-16T10:30:39.8123832+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 923463
+    },
+    {
+      "Time": "2022-08-16T13:30:39.7343764+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 924488
     }
   ],
   "Tags": [
@@ -1075,7 +1080,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 70185
+      "Count": 71277
     },
     {
       "Text": "This game has Competitive Players",
