@@ -1,6 +1,6 @@
 # Diplomacy is Not an Option
-Rating: 4.56 (39)  
-Ratings Per Day: 0.50  
+Rating: 4.56 (41)  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.50
 | 2022-08-03 | 4.57 | 37 |
 | 2022-08-12 | 4.55 | 38 |
 | 2022-08-14 | 4.56 | 39 |
+| 2022-08-16 | 4.56 | 41 |

@@ -3,10 +3,10 @@
   "Name": "Neon Abyss",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 6077,
-  "DailyRatings": 65.95,
+  "NumberOfRatings": 6091,
+  "DailyRatings": 66.57,
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2022-08-16T09:30:46.8201655+00:00",
+  "LastChanged": "2022-08-16T13:01:19.4229408+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:56.870956+00:00",
@@ -1062,6 +1062,11 @@
       "Time": "2022-08-16T09:30:46.8201661+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 6077
+    },
+    {
+      "Time": "2022-08-16T13:01:19.422941+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 6091
     }
   ],
   "Tags": [
