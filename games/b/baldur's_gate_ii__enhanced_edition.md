@@ -1,6 +1,6 @@
 # Baldur's Gate II: Enhanced Edition
 Rating: 4.91 (23)  
-Ratings Per Day: 0.21  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

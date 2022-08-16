@@ -1,6 +1,6 @@
 # Slime Rancher
 Rating: 4.83 (3 748)  
-Ratings Per Day: 46.00  
+Ratings Per Day: 46.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

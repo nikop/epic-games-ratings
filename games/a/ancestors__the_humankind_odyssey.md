@@ -1,6 +1,6 @@
 # Ancestors: The Humankind Odyssey
-Rating: 4.63 (312)  
-Ratings Per Day: 2.98  
+Rating: 4.62 (316)  
+Ratings Per Day: 3.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,3 +27,4 @@ Ratings Per Day: 2.98
 | 2022-08-12 | 4.63 | 301 |
 | 2022-08-13 | 4.63 | 308 |
 | 2022-08-15 | 4.63 | 312 |
+| 2022-08-16 | 4.62 | 316 |
