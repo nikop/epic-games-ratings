@@ -2,11 +2,11 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
   "Names": [],
-  "Rating": 4.56,
-  "NumberOfRatings": 448,
-  "DailyRatings": 4.44,
+  "Rating": 4.57,
+  "NumberOfRatings": 449,
+  "DailyRatings": 4.45,
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2022-08-15T19:01:10.4249251+00:00",
+  "LastChanged": "2022-08-16T00:00:59.6994428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -312,6 +312,11 @@
       "Time": "2022-08-15T19:01:10.4249253+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 448
+    },
+    {
+      "Time": "2022-08-16T00:00:59.6994429+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 449
     }
   ],
   "Tags": [
@@ -341,7 +346,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
