@@ -1,6 +1,6 @@
 # WRC 9 FIA World Rally Championship
-Rating: 4.58 (149)  
-Ratings Per Day: 1.50  
+Rating: 4.58 (150)  
+Ratings Per Day: 1.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 1.50
 | 2022-08-12 | 4.58 | 145 |
 | 2022-08-13 | 4.58 | 147 |
 | 2022-08-15 | 4.58 | 149 |
+| 2022-08-16 | 4.58 | 150 |
