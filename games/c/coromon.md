@@ -1,6 +1,6 @@
 # Coromon
-Rating: 4.64 (73)  
-Ratings Per Day: 0.75  
+Rating: 4.65 (74)  
+Ratings Per Day: 0.76  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 0.75
 | 2022-08-11 | 4.63 | 70 |
 | 2022-08-14 | 4.64 | 72 |
 | 2022-08-15 | 4.64 | 73 |
+| 2022-08-16 | 4.65 | 74 |
