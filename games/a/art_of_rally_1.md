@@ -1,6 +1,6 @@
 # Art of Rally
-Rating: 4.90 (39)  
-Ratings Per Day: 1.85  
+Rating: 4.90 (40)  
+Ratings Per Day: 0.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 1.85
 | 2022-08-08 | 4.92 | 37 |
 | 2022-08-11 | 4.89 | 38 |
 | 2022-08-12 | 4.90 | 39 |
+| 2022-08-16 | 4.90 | 40 |
