@@ -1,6 +1,6 @@
 # Barony
 Rating: 4.71 (484)  
-Ratings Per Day: 4.68  
+Ratings Per Day: 4.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

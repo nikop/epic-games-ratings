@@ -3,10 +3,10 @@
   "Name": "Zombie Army 4: Dead War",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 581,
-  "DailyRatings": 6.04,
+  "NumberOfRatings": 582,
+  "DailyRatings": 6.11,
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
-  "LastChanged": "2022-08-16T19:01:19.9896295+00:00",
+  "LastChanged": "2022-08-16T21:00:52.5971816+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.2322254+00:00",
@@ -487,6 +487,11 @@
       "Time": "2022-08-16T19:01:19.9896297+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 581
+    },
+    {
+      "Time": "2022-08-16T21:00:52.5971819+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 582
     }
   ],
   "Tags": [

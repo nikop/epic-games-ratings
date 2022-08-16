@@ -2,11 +2,11 @@
   "ID": "f697ab7aa6af41f880e1489818e2720d",
   "Name": "Wilmot\u0027s Warehouse",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 63,
-  "DailyRatings": 1.75,
+  "Rating": 4.6,
+  "NumberOfRatings": 65,
+  "DailyRatings": 1.8,
   "FirstSeen": "2022-07-22T20:30:20.1616591+00:00",
-  "LastChanged": "2022-08-15T21:02:29.3201906+00:00",
+  "LastChanged": "2022-08-16T21:02:33.3989016+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:20.1616597+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-15T21:02:29.3201908+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 63
+    },
+    {
+      "Time": "2022-08-16T21:02:33.3989017+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 65
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Paradigm
 Rating: 4.48 (198)  
-Ratings Per Day: 1.83  
+Ratings Per Day: 1.79  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
