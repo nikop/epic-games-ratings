@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 3206,
-  "DailyRatings": 36.44,
+  "NumberOfRatings": 3210,
+  "DailyRatings": 36.46,
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2022-08-16T12:01:39.2780627+00:00",
+  "LastChanged": "2022-08-16T14:33:20.363603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:56.8065491+00:00",
@@ -1007,6 +1007,11 @@
       "Time": "2022-08-16T12:01:39.2780629+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 3206
+    },
+    {
+      "Time": "2022-08-16T14:33:20.3636034+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 3210
     }
   ],
   "Tags": [
