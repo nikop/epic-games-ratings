@@ -3,10 +3,10 @@
   "Name": "Path of Exile",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 2005,
-  "DailyRatings": 18.36,
+  "NumberOfRatings": 2009,
+  "DailyRatings": 18.77,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-08-16T21:30:29.0250071+00:00",
+  "LastChanged": "2022-08-16T23:00:57.9802582+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -852,6 +852,11 @@
       "Time": "2022-08-16T21:30:29.0250073+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 2005
+    },
+    {
+      "Time": "2022-08-16T23:00:57.9802583+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 2009
     }
   ],
   "Tags": [

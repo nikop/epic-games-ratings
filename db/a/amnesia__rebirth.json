@@ -3,10 +3,10 @@
   "Name": "Amnesia: Rebirth",
   "Names": [],
   "Rating": 4.27,
-  "NumberOfRatings": 1270,
-  "DailyRatings": 13.04,
+  "NumberOfRatings": 1272,
+  "DailyRatings": 12.93,
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
-  "LastChanged": "2022-08-16T18:02:21.7500057+00:00",
+  "LastChanged": "2022-08-16T23:02:23.8207021+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:30.9158171+00:00",
@@ -242,6 +242,11 @@
       "Time": "2022-08-16T18:02:21.7500058+00:00",
       "Rating": 4.27,
       "NumberOfRatings": 1270
+    },
+    {
+      "Time": "2022-08-16T23:02:23.8207022+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 1272
     }
   ],
   "Tags": []
