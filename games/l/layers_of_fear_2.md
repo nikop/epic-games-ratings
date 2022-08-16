@@ -1,6 +1,6 @@
 # Layers of Fear 2
-Rating: 4.26 (163)  
-Ratings Per Day: 2.60  
+Rating: 4.26 (166)  
+Ratings Per Day: 2.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,3 +27,4 @@ Ratings Per Day: 2.60
 | 2022-08-12 | 4.24 | 156 |
 | 2022-08-13 | 4.25 | 160 |
 | 2022-08-14 | 4.26 | 163 |
+| 2022-08-16 | 4.26 | 166 |
