@@ -1,6 +1,6 @@
 # DARQ: Complete Edition
-Rating: 4.44 (270)  
-Ratings Per Day: 3.08  
+Rating: 4.44 (274)  
+Ratings Per Day: 3.23  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 3.08
 | 2022-08-13 | 4.44 | 265 |
 | 2022-08-14 | 4.44 | 267 |
 | 2022-08-15 | 4.44 | 270 |
+| 2022-08-16 | 4.44 | 274 |
