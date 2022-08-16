@@ -2,11 +2,11 @@
   "ID": "cbbb7e8728a3476f97e44f3856c3cb13",
   "Name": "Anno 2205 - Standard Edition",
   "Names": [],
-  "Rating": 4.45,
-  "NumberOfRatings": 49,
+  "Rating": 4.46,
+  "NumberOfRatings": 50,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:21:07.0175172+00:00",
-  "LastChanged": "2022-08-07T23:01:04.0999987+00:00",
+  "LastChanged": "2022-08-16T09:30:48.0720256+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:07.0175175+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-08-07T23:01:04.099999+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-08-16T09:30:48.0720259+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 50
     }
   ],
   "Tags": []

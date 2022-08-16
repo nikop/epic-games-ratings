@@ -1,6 +1,6 @@
 # Jurassic World Evolution
-Rating: 4.63 (7 287)  
-Ratings Per Day: 60.71  
+Rating: 4.63 (7 292)  
+Ratings Per Day: 60.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,4 +29,4 @@ Ratings Per Day: 60.71
 | 2022-08-13 | 4.63 | 7 156 |
 | 2022-08-14 | 4.63 | 7 203 |
 | 2022-08-15 | 4.63 | 7 271 |
-| 2022-08-16 | 4.63 | 7 287 |
+| 2022-08-16 | 4.63 | 7 292 |
