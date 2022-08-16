@@ -1,6 +1,6 @@
 # Unexplored 2: The Wayfarer's Legacy
 Rating: 4.41 (27)  
-Ratings Per Day: 0.49  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
