@@ -3,10 +3,10 @@
   "Name": "SnowRunner",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 15558,
-  "DailyRatings": 133.45,
+  "NumberOfRatings": 15569,
+  "DailyRatings": 132.25,
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2022-08-16T01:31:11.4659032+00:00",
+  "LastChanged": "2022-08-16T05:00:26.4752628+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -1232,6 +1232,11 @@
       "Time": "2022-08-16T01:31:11.4659035+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 15558
+    },
+    {
+      "Time": "2022-08-16T05:00:26.4752632+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 15569
     }
   ],
   "Tags": [
@@ -1265,7 +1270,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1096
+      "Count": 1110
     },
     {
       "Text": "This game has Amazing Characters",
