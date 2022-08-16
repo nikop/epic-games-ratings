@@ -2,11 +2,11 @@
   "ID": "ae58ba11e4ef46d18a0418db045212e1",
   "Name": "Slipways",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 24,
+  "Rating": 4.6,
+  "NumberOfRatings": 25,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:23:00.0993046+00:00",
-  "LastChanged": "2022-08-07T03:01:20.4045393+00:00",
+  "LastChanged": "2022-08-16T04:31:00.6191974+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:00.0993049+00:00",
@@ -22,6 +22,11 @@
       "Time": "2022-08-07T03:01:20.4045395+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-08-16T04:31:00.6191976+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []

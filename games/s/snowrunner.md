@@ -1,6 +1,6 @@
 # SnowRunner
 Rating: 4.75 (15 558)  
-Ratings Per Day: 132.97  
+Ratings Per Day: 133.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
