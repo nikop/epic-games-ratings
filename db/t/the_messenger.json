@@ -3,10 +3,10 @@
   "Name": "The Messenger",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 391,
-  "DailyRatings": 3.25,
+  "NumberOfRatings": 392,
+  "DailyRatings": 3.11,
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2022-08-16T00:00:35.3646717+00:00",
+  "LastChanged": "2022-08-16T14:01:04.1689634+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.3850649+00:00",
@@ -247,12 +247,17 @@
       "Time": "2022-08-16T00:00:35.3646772+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 391
+    },
+    {
+      "Time": "2022-08-16T14:01:04.1689635+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 392
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 133
+      "Count": 135
     }
   ]
 }
