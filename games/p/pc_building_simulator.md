@@ -1,6 +1,6 @@
 # PC Building Simulator
 Rating: 4.67 (9 011)  
-Ratings Per Day: 91.71  
+Ratings Per Day: 91.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

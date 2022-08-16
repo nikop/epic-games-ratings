@@ -2,8 +2,18 @@
   "ID": "a15e35cda898480d8fed214dc889f199",
   "Name": "Trials Evolution: Gold Edition",
   "Names": [],
+  "Rating": 4.48,
+  "NumberOfRatings": 21,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:28:52.9839346+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-08-16T12:02:15.8329553+00:00",
+  "LastChanged": "2022-08-16T12:02:15.8329554+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-08-16T12:02:15.8329555+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 21
+    }
+  ],
   "Tags": []
 }
