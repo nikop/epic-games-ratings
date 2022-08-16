@@ -3,10 +3,10 @@
   "Name": "Metro Last Light Redux",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 4431,
-  "DailyRatings": 63.8,
+  "NumberOfRatings": 4449,
+  "DailyRatings": 62.56,
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2022-08-15T23:01:04.346557+00:00",
+  "LastChanged": "2022-08-16T09:01:10.007327+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:11.2145131+00:00",
@@ -422,6 +422,11 @@
       "Time": "2022-08-15T23:01:04.3465572+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 4431
+    },
+    {
+      "Time": "2022-08-16T09:01:10.0073272+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 4449
     }
   ],
   "Tags": [
