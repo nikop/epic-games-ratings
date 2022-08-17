@@ -1,6 +1,6 @@
 # Disciples: Liberation
 Rating: 4.36 (118)  
-Ratings Per Day: 0.91  
+Ratings Per Day: 1.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

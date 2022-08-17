@@ -1,6 +1,6 @@
 # Death Coming
-Rating: 4.46 (70)  
-Ratings Per Day: 0.50  
+Rating: 4.46 (71)  
+Ratings Per Day: 0.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,3 +20,4 @@ Ratings Per Day: 0.50
 | 2022-08-12 | 4.46 | 68 |
 | 2022-08-13 | 4.46 | 69 |
 | 2022-08-16 | 4.46 | 70 |
+| 2022-08-17 | 4.46 | 71 |
