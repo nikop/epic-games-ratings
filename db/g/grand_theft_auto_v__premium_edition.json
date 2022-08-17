@@ -3,10 +3,10 @@
   "Name": "Grand Theft Auto V: Premium Edition",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 441749,
-  "DailyRatings": 4950.32,
+  "NumberOfRatings": 443505,
+  "DailyRatings": 4965.21,
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2022-08-17T06:30:29.6462897+00:00",
+  "LastChanged": "2022-08-17T14:30:57.9460867+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.5868983+00:00",
@@ -1477,6 +1477,11 @@
       "Time": "2022-08-17T06:30:29.6462899+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 441749
+    },
+    {
+      "Time": "2022-08-17T14:30:57.9460868+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 443505
     }
   ],
   "Tags": [
