@@ -3,10 +3,10 @@
   "Name": "Tannenberg",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 11781,
-  "DailyRatings": 108.44,
+  "NumberOfRatings": 11786,
+  "DailyRatings": 107.2,
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
-  "LastChanged": "2022-08-17T01:01:35.6902576+00:00",
+  "LastChanged": "2022-08-17T04:01:32.2091238+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.24863+00:00",
@@ -1167,6 +1167,11 @@
       "Time": "2022-08-17T01:01:35.6902578+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 11781
+    },
+    {
+      "Time": "2022-08-17T04:01:32.209124+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 11786
     }
   ],
   "Tags": [
