@@ -1,5 +1,5 @@
 # Weird West
-Rating: 4.43 (101)  
+Rating: 4.43 (103)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.00
 | 2022-08-06 | 4.41 | 99 |
 | 2022-08-08 | 4.42 | 100 |
 | 2022-08-09 | 4.43 | 101 |
+| 2022-08-17 | 4.43 | 103 |
