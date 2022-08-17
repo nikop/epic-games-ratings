@@ -2,11 +2,11 @@
   "ID": "7c6d889f36124ae4b6269f8e1698a547",
   "Name": "CARRION",
   "Names": [],
-  "Rating": 4.69,
-  "NumberOfRatings": 36,
-  "DailyRatings": 0.59,
+  "Rating": 4.68,
+  "NumberOfRatings": 37,
+  "DailyRatings": 0.66,
   "FirstSeen": "2022-07-22T20:25:03.1794316+00:00",
-  "LastChanged": "2022-08-16T17:32:29.5614248+00:00",
+  "LastChanged": "2022-08-17T17:31:54.8371317+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:03.1794318+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-16T17:32:29.5614253+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-08-17T17:31:54.8371319+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 37
     }
   ],
   "Tags": []

@@ -2,8 +2,18 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "Names": [],
+  "Rating": 4.57,
+  "NumberOfRatings": 21,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
+  "LastChanged": "2022-08-17T17:32:36.2989751+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-08-17T17:32:36.2989753+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 21
+    }
+  ],
   "Tags": []
 }

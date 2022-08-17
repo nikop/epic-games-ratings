@@ -1,6 +1,6 @@
 # CARRION
-Rating: 4.69 (36)  
-Ratings Per Day: 0.59  
+Rating: 4.68 (37)  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 0.59
 | 2022-08-11 | 4.70 | 33 |
 | 2022-08-15 | 4.69 | 35 |
 | 2022-08-16 | 4.69 | 36 |
+| 2022-08-17 | 4.68 | 37 |

@@ -1,6 +1,6 @@
 # Wonder Boy The Dragons Trap
-Rating: 4.46 (2 724)  
-Ratings Per Day: 15.67  
+Rating: 4.46 (2 735)  
+Ratings Per Day: 15.28  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Ratings Per Day: 15.67
 | 2022-08-14 | 4.46 | 2 690 |
 | 2022-08-15 | 4.46 | 2 703 |
 | 2022-08-16 | 4.46 | 2 724 |
+| 2022-08-17 | 4.46 | 2 735 |
