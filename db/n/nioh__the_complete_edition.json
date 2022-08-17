@@ -3,10 +3,10 @@
   "Name": "Nioh: The Complete Edition",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 7588,
-  "DailyRatings": 74.08,
+  "NumberOfRatings": 7589,
+  "DailyRatings": 73.32,
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2022-08-17T11:31:42.7099635+00:00",
+  "LastChanged": "2022-08-17T13:32:02.2030109+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:37.2904326+00:00",
@@ -1242,6 +1242,11 @@
       "Time": "2022-08-17T11:31:42.7099637+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 7588
+    },
+    {
+      "Time": "2022-08-17T13:32:02.203011+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 7589
     }
   ],
   "Tags": [
