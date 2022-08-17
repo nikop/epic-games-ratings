@@ -3,10 +3,10 @@
   "Name": "Crashlands",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 380,
-  "DailyRatings": 5.01,
+  "NumberOfRatings": 381,
+  "DailyRatings": 5.06,
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2022-08-17T17:31:55.8234+00:00",
+  "LastChanged": "2022-08-17T20:31:23.3375884+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:11.0234057+00:00",
@@ -227,12 +227,17 @@
       "Time": "2022-08-17T17:31:55.8234002+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 380
+    },
+    {
+      "Time": "2022-08-17T20:31:23.3375885+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 381
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 78
+      "Count": 81
     },
     {
       "Text": "This game has Great Boss Battles",
