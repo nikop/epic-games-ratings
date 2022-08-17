@@ -3,10 +3,10 @@
   "Name": "Risk of Rain 2",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 1166,
-  "DailyRatings": 5.21,
+  "NumberOfRatings": 1167,
+  "DailyRatings": 5.3,
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2022-08-17T21:02:01.7972682+00:00",
+  "LastChanged": "2022-08-17T23:01:33.6593343+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:31.4387687+00:00",
@@ -557,6 +557,11 @@
       "Time": "2022-08-17T21:02:01.7972683+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 1166
+    },
+    {
+      "Time": "2022-08-17T23:01:33.6593345+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 1167
     }
   ],
   "Tags": [
