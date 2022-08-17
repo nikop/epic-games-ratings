@@ -3,10 +3,10 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 4043,
-  "DailyRatings": 30.17,
+  "NumberOfRatings": 4046,
+  "DailyRatings": 29.87,
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2022-08-16T20:31:03.1495738+00:00",
+  "LastChanged": "2022-08-17T00:30:58.2831697+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:24.6932881+00:00",
@@ -1022,6 +1022,11 @@
       "Time": "2022-08-16T20:31:03.1495739+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 4043
+    },
+    {
+      "Time": "2022-08-17T00:30:58.2831699+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 4046
     }
   ],
   "Tags": [
@@ -1031,7 +1036,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 941
+      "Count": 950
     },
     {
       "Text": "This game is Educational",
