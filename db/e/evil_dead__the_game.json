@@ -3,10 +3,10 @@
   "Name": "Evil Dead: The Game",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 8399,
-  "DailyRatings": 13.9,
+  "NumberOfRatings": 8400,
+  "DailyRatings": 13.92,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2022-08-17T08:30:31.1388152+00:00",
+  "LastChanged": "2022-08-17T10:01:02.6082504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -932,12 +932,17 @@
       "Time": "2022-08-17T08:30:31.1388159+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 8399
+    },
+    {
+      "Time": "2022-08-17T10:01:02.6082508+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 8400
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 5111
+      "Count": 5124
     },
     {
       "Text": "This game is Extremely Fun",
