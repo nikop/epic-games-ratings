@@ -1,6 +1,6 @@
 # Jotun: Valhalla Edition
-Rating: 4.41 (605)  
-Ratings Per Day: 6.12  
+Rating: 4.41 (606)  
+Ratings Per Day: 5.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,4 +30,4 @@ Ratings Per Day: 6.12
 | 2022-08-14 | 4.39 | 588 |
 | 2022-08-15 | 4.40 | 597 |
 | 2022-08-16 | 4.40 | 599 |
-| 2022-08-17 | 4.41 | 605 |
+| 2022-08-17 | 4.41 | 606 |

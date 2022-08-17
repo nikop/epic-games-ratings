@@ -3,10 +3,10 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 4052,
-  "DailyRatings": 29.64,
+  "NumberOfRatings": 4053,
+  "DailyRatings": 29.7,
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2022-08-17T10:01:29.1221263+00:00",
+  "LastChanged": "2022-08-17T10:31:01.3119475+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:24.6932881+00:00",
@@ -1032,6 +1032,11 @@
       "Time": "2022-08-17T10:01:29.1221282+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 4052
+    },
+    {
+      "Time": "2022-08-17T10:31:01.3119476+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 4053
     }
   ],
   "Tags": [
@@ -1049,7 +1054,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 92
+      "Count": 96
     },
     {
       "Text": "This game has Diverse Characters",
