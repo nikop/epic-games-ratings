@@ -1,6 +1,6 @@
 # The Talos Principle
-Rating: 4.75 (197)  
-Ratings Per Day: 1.86  
+Rating: 4.75 (198)  
+Ratings Per Day: 1.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,3 +26,4 @@ Ratings Per Day: 1.86
 | 2022-08-14 | 4.74 | 194 |
 | 2022-08-15 | 4.74 | 196 |
 | 2022-08-16 | 4.75 | 197 |
+| 2022-08-17 | 4.75 | 198 |
