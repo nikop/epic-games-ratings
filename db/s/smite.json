@@ -3,10 +3,10 @@
   "Name": "SMITE",
   "Names": [],
   "Rating": 4.47,
-  "NumberOfRatings": 5501,
-  "DailyRatings": 32.82,
+  "NumberOfRatings": 5505,
+  "DailyRatings": 33,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-08-17T17:31:05.5585724+00:00",
+  "LastChanged": "2022-08-17T19:30:40.1268512+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -1167,6 +1167,11 @@
       "Time": "2022-08-17T17:31:05.5585726+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 5501
+    },
+    {
+      "Time": "2022-08-17T19:30:40.1268513+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 5505
     }
   ],
   "Tags": [
@@ -1204,7 +1209,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 720
+      "Count": 727
     }
   ]
 }

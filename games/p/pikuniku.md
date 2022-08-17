@@ -1,6 +1,6 @@
 # Pikuniku
 Rating: 4.68 (321)  
-Ratings Per Day: 2.76  
+Ratings Per Day: 2.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

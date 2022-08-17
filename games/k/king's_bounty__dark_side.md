@@ -1,6 +1,6 @@
 # King's Bounty: Dark Side
 Rating: 4.44 (36)  
-Ratings Per Day: 0.49  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
