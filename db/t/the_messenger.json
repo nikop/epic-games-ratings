@@ -3,10 +3,10 @@
   "Name": "The Messenger",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 392,
-  "DailyRatings": 3.1,
+  "NumberOfRatings": 397,
+  "DailyRatings": 3.38,
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2022-08-16T14:01:04.1689634+00:00",
+  "LastChanged": "2022-08-17T14:01:26.0551353+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.3850649+00:00",
@@ -252,6 +252,11 @@
       "Time": "2022-08-16T14:01:04.1689635+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 392
+    },
+    {
+      "Time": "2022-08-17T14:01:26.0551355+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 397
     }
   ],
   "Tags": [
