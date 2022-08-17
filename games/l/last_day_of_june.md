@@ -1,6 +1,6 @@
 # Last Day of June
-Rating: 4.63 (24)  
-Ratings Per Day: 0.60  
+Rating: 4.64 (25)  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.60
 | 2022-08-11 | 4.67 | 21 |
 | 2022-08-13 | 4.68 | 22 |
 | 2022-08-16 | 4.63 | 24 |
+| 2022-08-17 | 4.64 | 25 |
