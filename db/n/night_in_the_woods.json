@@ -3,10 +3,10 @@
   "Name": "Night in the Woods",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 422,
-  "DailyRatings": 3.93,
+  "NumberOfRatings": 429,
+  "DailyRatings": 4.38,
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
-  "LastChanged": "2022-08-16T07:32:34.5053636+00:00",
+  "LastChanged": "2022-08-17T08:02:07.2192006+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:36.368674+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-08-16T07:32:34.505364+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 422
+    },
+    {
+      "Time": "2022-08-17T08:02:07.2192008+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 429
     }
   ],
   "Tags": [
