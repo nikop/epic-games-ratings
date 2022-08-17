@@ -1,6 +1,6 @@
 # Wargame: Red Dragon
 Rating: 4.69 (2 239)  
-Ratings Per Day: 21.20  
+Ratings Per Day: 21.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

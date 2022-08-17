@@ -1,6 +1,6 @@
 # Mutazione
-Rating: 4.69 (54)  
-Ratings Per Day: 0.50  
+Rating: 4.69 (55)  
+Ratings Per Day: 0.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.50
 | 2022-08-12 | 4.67 | 52 |
 | 2022-08-14 | 4.68 | 53 |
 | 2022-08-16 | 4.69 | 54 |
+| 2022-08-17 | 4.69 | 55 |
