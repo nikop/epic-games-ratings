@@ -3,10 +3,10 @@
   "Name": "LEGO\u00AE Batman\u2122 3: Beyond Gotham",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 382,
-  "DailyRatings": 6.37,
+  "NumberOfRatings": 385,
+  "DailyRatings": 6.2,
   "FirstSeen": "2022-07-22T20:28:16.9494589+00:00",
-  "LastChanged": "2022-08-17T06:01:45.4296767+00:00",
+  "LastChanged": "2022-08-17T21:32:27.2033067+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.9494591+00:00",
@@ -182,12 +182,17 @@
       "Time": "2022-08-17T06:01:45.4296768+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 382
+    },
+    {
+      "Time": "2022-08-17T21:32:27.2033069+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 385
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 105
+      "Count": 106
     }
   ]
 }
