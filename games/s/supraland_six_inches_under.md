@@ -1,6 +1,6 @@
 # Supraland Six Inches Under
 Rating: 4.75 (171)  
-Ratings Per Day: 2.04  
+Ratings Per Day: 2.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
