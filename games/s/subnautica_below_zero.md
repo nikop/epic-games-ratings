@@ -1,6 +1,6 @@
 # Subnautica Below Zero
 Rating: 4.78 (1 315)  
-Ratings Per Day: 12.78  
+Ratings Per Day: 12.11  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
