@@ -1,12 +1,9 @@
 {
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "RatingHistory": [],
   "Tags": []
 }
