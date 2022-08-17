@@ -1,6 +1,6 @@
 # Phoenix Point: Complete Edition
-Rating: 4.55 (1 602)  
-Ratings Per Day: 18.11  
+Rating: 4.55 (1 604)  
+Ratings Per Day: 18.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,4 +30,4 @@ Ratings Per Day: 18.11
 | 2022-08-14 | 4.55 | 1 561 |
 | 2022-08-15 | 4.55 | 1 584 |
 | 2022-08-16 | 4.55 | 1 599 |
-| 2022-08-17 | 4.55 | 1 602 |
+| 2022-08-17 | 4.55 | 1 604 |
