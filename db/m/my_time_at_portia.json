@@ -3,10 +3,10 @@
   "Name": "My Time At Portia",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 3013,
-  "DailyRatings": 29.63,
+  "NumberOfRatings": 3015,
+  "DailyRatings": 29.21,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-08-18T02:30:57.7484294+00:00",
+  "LastChanged": "2022-08-18T06:30:59.0456418+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -872,6 +872,11 @@
       "Time": "2022-08-18T02:30:57.7484295+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 3013
+    },
+    {
+      "Time": "2022-08-18T06:30:59.0456421+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 3015
     }
   ],
   "Tags": [
