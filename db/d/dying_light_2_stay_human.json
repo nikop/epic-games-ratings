@@ -3,10 +3,10 @@
   "Name": "Dying Light 2 Stay Human",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 5643,
-  "DailyRatings": 37.05,
+  "NumberOfRatings": 5649,
+  "DailyRatings": 36.58,
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2022-08-18T15:00:36.8312133+00:00",
+  "LastChanged": "2022-08-18T21:00:37.4354942+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -1087,6 +1087,11 @@
       "Time": "2022-08-18T15:00:36.8312134+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 5643
+    },
+    {
+      "Time": "2022-08-18T21:00:37.4354944+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5649
     }
   ],
   "Tags": [
