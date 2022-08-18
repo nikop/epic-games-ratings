@@ -1,6 +1,6 @@
 # UnMetal
 Rating: 4.59 (27)  
-Ratings Per Day: 0.33  
+Ratings Per Day: 0.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
