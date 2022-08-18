@@ -1,6 +1,6 @@
 # KINGDOM HEARTS Melody of Memory
-Rating: 4.67 (67)  
-Ratings Per Day: 1.21  
+Rating: 4.68 (68)  
+Ratings Per Day: 1.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 1.21
 | 2022-08-15 | 4.70 | 63 |
 | 2022-08-16 | 4.68 | 66 |
 | 2022-08-17 | 4.67 | 67 |
+| 2022-08-18 | 4.68 | 68 |
