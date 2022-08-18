@@ -3,10 +3,10 @@
   "Name": "Wargame: Red Dragon",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 2259,
-  "DailyRatings": 21.32,
+  "NumberOfRatings": 2261,
+  "DailyRatings": 21.41,
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2022-08-18T15:30:28.0154835+00:00",
+  "LastChanged": "2022-08-18T17:00:29.0324007+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:18.8189702+00:00",
@@ -957,6 +957,11 @@
       "Time": "2022-08-18T15:30:28.0154836+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 2259
+    },
+    {
+      "Time": "2022-08-18T17:00:29.0324009+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 2261
     }
   ],
   "Tags": [
@@ -966,7 +971,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 266
+      "Count": 269
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -978,7 +983,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 277
+      "Count": 278
     },
     {
       "Text": "This game has Diverse Characters",
