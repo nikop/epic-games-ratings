@@ -3,10 +3,10 @@
   "Name": "Sonic Mania",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 1838,
-  "DailyRatings": 12.73,
+  "NumberOfRatings": 1846,
+  "DailyRatings": 12.55,
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2022-08-18T08:02:40.2325824+00:00",
+  "LastChanged": "2022-08-18T20:01:58.6770798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -492,6 +492,11 @@
       "Time": "2022-08-18T08:02:40.2325826+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 1838
+    },
+    {
+      "Time": "2022-08-18T20:01:58.67708+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 1846
     }
   ],
   "Tags": [
@@ -505,7 +510,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Beautiful Visuals",
