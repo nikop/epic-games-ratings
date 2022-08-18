@@ -2,11 +2,11 @@
   "ID": "66e9c042d8cd42b7956f5e195e0442de",
   "Name": "Rayman Origins",
   "Names": [],
-  "Rating": 4.81,
-  "NumberOfRatings": 27,
-  "DailyRatings": 0,
+  "Rating": 4.82,
+  "NumberOfRatings": 28,
+  "DailyRatings": 0.16,
   "FirstSeen": "2022-07-22T20:25:19.1614924+00:00",
-  "LastChanged": "2022-08-11T21:31:19.873251+00:00",
+  "LastChanged": "2022-08-18T01:01:39.6815118+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T22:01:37.6282468+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-11T21:31:19.8732511+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-08-18T01:01:39.681512+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 28
     }
   ],
   "Tags": []
