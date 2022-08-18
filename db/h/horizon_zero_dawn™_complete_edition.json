@@ -3,10 +3,10 @@
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 5682,
-  "DailyRatings": 53.42,
+  "NumberOfRatings": 5688,
+  "DailyRatings": 50.96,
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2022-08-18T00:01:30.2795527+00:00",
+  "LastChanged": "2022-08-18T09:01:30.216861+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:54.5867723+00:00",
@@ -927,6 +927,11 @@
       "Time": "2022-08-18T00:01:30.2795529+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 5682
+    },
+    {
+      "Time": "2022-08-18T09:01:30.2168611+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 5688
     }
   ],
   "Tags": [
