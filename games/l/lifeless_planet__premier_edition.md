@@ -1,6 +1,6 @@
 # Lifeless Planet: Premier Edition
-Rating: 3.99 (206)  
-Ratings Per Day: 2.85  
+Rating: 3.99 (207)  
+Ratings Per Day: 2.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 2.85
 | 2022-08-15 | 3.98 | 200 |
 | 2022-08-16 | 3.99 | 204 |
 | 2022-08-17 | 3.99 | 206 |
+| 2022-08-18 | 3.99 | 207 |
