@@ -1,6 +1,6 @@
 # Shadow Tactics - Aiko's Choice
-Rating: 4.80 (46)  
-Ratings Per Day: 1.16  
+Rating: 4.78 (49)  
+Ratings Per Day: 1.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 1.16
 | 2022-08-15 | 4.80 | 41 |
 | 2022-08-16 | 4.80 | 44 |
 | 2022-08-17 | 4.80 | 46 |
+| 2022-08-18 | 4.78 | 49 |
