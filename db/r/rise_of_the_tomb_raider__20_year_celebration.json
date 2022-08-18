@@ -3,10 +3,10 @@
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 19148,
-  "DailyRatings": 239.06,
+  "NumberOfRatings": 19216,
+  "DailyRatings": 233,
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2022-08-17T23:00:52.7140899+00:00",
+  "LastChanged": "2022-08-18T10:00:54.91824+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:10.6439258+00:00",
@@ -1042,6 +1042,11 @@
       "Time": "2022-08-17T23:00:52.7140901+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 19148
+    },
+    {
+      "Time": "2022-08-18T10:00:54.9182402+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 19216
     }
   ],
   "Tags": [

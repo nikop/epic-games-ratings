@@ -3,10 +3,10 @@
   "Name": "Spiritfarer\u00AE: Farewell Edition",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 148,
-  "DailyRatings": 2.08,
+  "NumberOfRatings": 149,
+  "DailyRatings": 1.89,
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
-  "LastChanged": "2022-08-17T10:01:53.5209079+00:00",
+  "LastChanged": "2022-08-18T10:01:28.9469323+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:28.7454676+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-08-17T10:01:53.5209081+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 148
+    },
+    {
+      "Time": "2022-08-18T10:01:28.9469325+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 149
     }
   ],
   "Tags": []
