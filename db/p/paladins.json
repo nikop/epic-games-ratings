@@ -3,10 +3,10 @@
   "Name": "Paladins",
   "Names": [],
   "Rating": 4.36,
-  "NumberOfRatings": 9343,
-  "DailyRatings": 87.01,
+  "NumberOfRatings": 9352,
+  "DailyRatings": 88.94,
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2022-08-17T23:00:21.882291+00:00",
+  "LastChanged": "2022-08-18T02:00:17.7000177+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -1282,6 +1282,11 @@
       "Time": "2022-08-17T23:00:21.8822912+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 9343
+    },
+    {
+      "Time": "2022-08-18T02:00:17.7000178+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 9352
     }
   ],
   "Tags": [
@@ -1323,7 +1328,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 843
+      "Count": 876
     }
   ]
 }
