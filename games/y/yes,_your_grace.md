@@ -1,6 +1,6 @@
 # Yes, Your Grace
-Rating: 4.57 (58)  
-Ratings Per Day: 3.07  
+Rating: 4.55 (60)  
+Ratings Per Day: 2.90  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 3.07
 | 2022-08-15 | 4.54 | 52 |
 | 2022-08-16 | 4.56 | 54 |
 | 2022-08-17 | 4.57 | 58 |
+| 2022-08-18 | 4.55 | 60 |
