@@ -2,11 +2,11 @@
   "ID": "917551a8060244469eb4e6ab8a99cf24",
   "Name": "Amnesia: The Dark Descent",
   "Names": [],
-  "Rating": 4.62,
-  "NumberOfRatings": 205,
-  "DailyRatings": 1.52,
+  "Rating": 4.63,
+  "NumberOfRatings": 208,
+  "DailyRatings": 1.51,
   "FirstSeen": "2022-07-22T20:20:24.3819232+00:00",
-  "LastChanged": "2022-08-16T07:00:44.1142275+00:00",
+  "LastChanged": "2022-08-18T07:00:46.2874633+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:24.3819234+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-08-16T07:00:44.1142277+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 205
+    },
+    {
+      "Time": "2022-08-18T07:00:46.2874635+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 208
     }
   ],
   "Tags": []
