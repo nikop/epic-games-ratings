@@ -1,6 +1,6 @@
 # Tomb Raider GAME OF THE YEAR EDITION
-Rating: 4.66 (14 261)  
-Ratings Per Day: 163.99  
+Rating: 4.66 (14 286)  
+Ratings Per Day: 165.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,4 +31,4 @@ Ratings Per Day: 163.99
 | 2022-08-15 | 4.66 | 13 857 |
 | 2022-08-16 | 4.66 | 14 001 |
 | 2022-08-17 | 4.66 | 14 105 |
-| 2022-08-18 | 4.66 | 14 261 |
+| 2022-08-18 | 4.66 | 14 286 |
