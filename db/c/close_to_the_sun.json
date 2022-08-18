@@ -3,10 +3,10 @@
   "Name": "Close To The Sun",
   "Names": [],
   "Rating": 4.06,
-  "NumberOfRatings": 105,
-  "DailyRatings": 1.6,
+  "NumberOfRatings": 106,
+  "DailyRatings": 1.5,
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
-  "LastChanged": "2022-08-17T00:31:51.7953061+00:00",
+  "LastChanged": "2022-08-18T00:31:48.3684976+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:28.4985341+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-08-17T00:31:51.7953063+00:00",
       "Rating": 4.06,
       "NumberOfRatings": 105
+    },
+    {
+      "Time": "2022-08-18T00:31:48.368498+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": 106
     }
   ],
   "Tags": []

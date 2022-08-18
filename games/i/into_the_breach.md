@@ -1,6 +1,6 @@
 # Into the Breach
 Rating: 4.85 (3 014)  
-Ratings Per Day: 40.00  
+Ratings Per Day: 39.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

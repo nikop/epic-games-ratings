@@ -2,11 +2,11 @@
   "ID": "d118f9a27e514d98aa25534afd2f35c7",
   "Name": "Sonic Colors: Ultimate",
   "Names": [],
-  "Rating": 4.43,
-  "NumberOfRatings": 150,
-  "DailyRatings": 2,
+  "Rating": 4.45,
+  "NumberOfRatings": 155,
+  "DailyRatings": 0.95,
   "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
-  "LastChanged": "2022-08-12T05:30:50.3560495+00:00",
+  "LastChanged": "2022-08-18T00:30:49.7611668+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:26.6733332+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-12T05:30:50.3560499+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 150
+    },
+    {
+      "Time": "2022-08-18T00:30:49.761167+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 155
     }
   ],
   "Tags": [
