@@ -1,6 +1,6 @@
 # Conan Exiles - Standard Edition
-Rating: 4.58 (855)  
-Ratings Per Day: 3.31  
+Rating: 4.58 (856)  
+Ratings Per Day: 3.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Ratings Per Day: 3.31
 | 2022-08-15 | 4.57 | 846 |
 | 2022-08-16 | 4.58 | 853 |
 | 2022-08-17 | 4.58 | 855 |
+| 2022-08-18 | 4.58 | 856 |
