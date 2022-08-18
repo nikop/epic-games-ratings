@@ -1,6 +1,6 @@
 # Core
 Rating: 4.38 (1 154)  
-Ratings Per Day: 8.45  
+Ratings Per Day: 8.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
