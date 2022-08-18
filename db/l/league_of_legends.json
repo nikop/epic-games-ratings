@@ -3,10 +3,10 @@
   "Name": "League of Legends",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 7989,
-  "DailyRatings": 92.8,
+  "NumberOfRatings": 7990,
+  "DailyRatings": 92.39,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2022-08-18T20:32:51.5375726+00:00",
+  "LastChanged": "2022-08-18T21:32:51.9719127+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -1367,6 +1367,11 @@
       "Time": "2022-08-18T20:32:51.5375728+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 7989
+    },
+    {
+      "Time": "2022-08-18T21:32:51.9719128+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 7990
     }
   ],
   "Tags": [
