@@ -259,5 +259,10 @@
       "NumberOfRatings": 341
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 20
+    }
+  ]
 }

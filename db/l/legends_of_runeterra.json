@@ -2,11 +2,11 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 316,
-  "DailyRatings": 2.98,
+  "Rating": 4.62,
+  "NumberOfRatings": 317,
+  "DailyRatings": 3.07,
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2022-08-18T11:30:44.1847224+00:00",
+  "LastChanged": "2022-08-18T14:31:26.166532+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:06.6748126+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-08-18T11:30:44.1847225+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 316
+    },
+    {
+      "Time": "2022-08-18T14:31:26.1665322+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 317
     }
   ],
   "Tags": [
@@ -321,7 +326,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game is Highly Recommended",
