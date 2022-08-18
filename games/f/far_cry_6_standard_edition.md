@@ -1,6 +1,6 @@
 # Far Cry 6 Standard Edition
-Rating: 4.42 (9 198)  
-Ratings Per Day: 99.23  
+Rating: 4.42 (9 204)  
+Ratings Per Day: 98.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,4 +31,4 @@ Ratings Per Day: 99.23
 | 2022-08-15 | 4.42 | 9 040 |
 | 2022-08-16 | 4.42 | 9 113 |
 | 2022-08-17 | 4.42 | 9 182 |
-| 2022-08-18 | 4.42 | 9 198 |
+| 2022-08-18 | 4.42 | 9 204 |
