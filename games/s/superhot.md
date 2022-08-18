@@ -1,6 +1,6 @@
 # SUPERHOT
-Rating: 4.62 (106)  
-Ratings Per Day: 2.00  
+Rating: 4.63 (109)  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,3 +23,4 @@ Ratings Per Day: 2.00
 | 2022-08-11 | 4.64 | 102 |
 | 2022-08-12 | 4.62 | 105 |
 | 2022-08-13 | 4.62 | 106 |
+| 2022-08-18 | 4.63 | 109 |
