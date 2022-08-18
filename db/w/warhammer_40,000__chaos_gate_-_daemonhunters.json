@@ -3,10 +3,10 @@
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 331,
-  "DailyRatings": 0.94,
+  "NumberOfRatings": 333,
+  "DailyRatings": 0.67,
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
-  "LastChanged": "2022-08-15T03:32:21.3434749+00:00",
+  "LastChanged": "2022-08-18T23:01:32.070246+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:10.4681648+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-08-15T03:32:21.343475+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 331
+    },
+    {
+      "Time": "2022-08-18T23:01:32.0702461+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 333
     }
   ],
   "Tags": [

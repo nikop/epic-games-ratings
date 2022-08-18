@@ -2,11 +2,11 @@
   "ID": "aster",
   "Name": "Heavy Rain",
   "Names": [],
-  "Rating": 4.58,
-  "NumberOfRatings": 190,
-  "DailyRatings": 1.77,
+  "Rating": 4.59,
+  "NumberOfRatings": 191,
+  "DailyRatings": 1.67,
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2022-08-18T02:30:18.3377454+00:00",
+  "LastChanged": "2022-08-18T23:00:25.8668176+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:18.3925165+00:00",
@@ -157,12 +157,17 @@
       "Time": "2022-08-18T02:30:18.3377456+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 190
+    },
+    {
+      "Time": "2022-08-18T23:00:25.8668179+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 191
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 26
+      "Count": 27
     }
   ]
 }

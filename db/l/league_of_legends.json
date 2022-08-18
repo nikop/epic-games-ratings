@@ -3,10 +3,10 @@
   "Name": "League of Legends",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 7990,
-  "DailyRatings": 92.39,
+  "NumberOfRatings": 7998,
+  "DailyRatings": 92.71,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2022-08-18T21:32:51.9719127+00:00",
+  "LastChanged": "2022-08-18T23:02:30.8392486+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -1372,6 +1372,11 @@
       "Time": "2022-08-18T21:32:51.9719128+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 7990
+    },
+    {
+      "Time": "2022-08-18T23:02:30.8392488+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 7998
     }
   ],
   "Tags": [
@@ -1409,7 +1414,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 237
+      "Count": 381
     }
   ]
 }

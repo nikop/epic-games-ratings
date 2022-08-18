@@ -1,6 +1,6 @@
 # Shadow Tactics: Blades of the Shogun
-Rating: 4.77 (341)  
-Ratings Per Day: 6.25  
+Rating: 4.77 (344)  
+Ratings Per Day: 6.30  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,4 +30,4 @@ Ratings Per Day: 6.25
 | 2022-08-15 | 4.77 | 324 |
 | 2022-08-16 | 4.77 | 331 |
 | 2022-08-17 | 4.77 | 334 |
-| 2022-08-18 | 4.77 | 341 |
+| 2022-08-18 | 4.77 | 344 |
