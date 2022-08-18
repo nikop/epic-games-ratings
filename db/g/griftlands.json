@@ -3,10 +3,10 @@
   "Name": "Griftlands",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 114,
-  "DailyRatings": 0,
+  "NumberOfRatings": 115,
+  "DailyRatings": 0.16,
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
-  "LastChanged": "2022-08-12T11:01:45.3545094+00:00",
+  "LastChanged": "2022-08-18T14:01:27.9497986+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:37.4181636+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-08-12T11:01:45.3545096+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 114
+    },
+    {
+      "Time": "2022-08-18T14:01:27.9497988+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 115
     }
   ],
   "Tags": []
