@@ -1,6 +1,6 @@
 # EVE Online
-Rating: 4.31 (1 056)  
-Ratings Per Day: 10.68  
+Rating: 4.31 (1 057)  
+Ratings Per Day: 10.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,4 +31,4 @@ Ratings Per Day: 10.68
 | 2022-08-15 | 4.31 | 1 035 |
 | 2022-08-16 | 4.32 | 1 045 |
 | 2022-08-17 | 4.31 | 1 054 |
-| 2022-08-18 | 4.31 | 1 056 |
+| 2022-08-18 | 4.31 | 1 057 |
