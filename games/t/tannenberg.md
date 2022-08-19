@@ -1,6 +1,6 @@
 # Tannenberg
 Rating: 4.38 (11 969)  
-Ratings Per Day: 89.81  
+Ratings Per Day: 88.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
