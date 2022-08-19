@@ -1,6 +1,6 @@
 # Vampyr
-Rating: 4.31 (3 773)  
-Ratings Per Day: 42.04  
+Rating: 4.31 (3 789)  
+Ratings Per Day: 41.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 42.04
 | 2022-08-16 | 4.31 | 3 669 |
 | 2022-08-17 | 4.31 | 3 716 |
 | 2022-08-18 | 4.31 | 3 773 |
+| 2022-08-19 | 4.31 | 3 789 |

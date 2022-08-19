@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS III \u002B Re Mind",
   "Names": [],
   "Rating": 4.79,
-  "NumberOfRatings": 1485,
-  "DailyRatings": 16.55,
+  "NumberOfRatings": 1489,
+  "DailyRatings": 16.48,
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2022-08-19T02:31:00.0748474+00:00",
+  "LastChanged": "2022-08-19T09:01:48.2843127+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
@@ -612,12 +612,17 @@
       "Time": "2022-08-19T02:31:00.0748476+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 1485
+    },
+    {
+      "Time": "2022-08-19T09:01:48.2843128+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 1489
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 334
+      "Count": 339
     },
     {
       "Text": "This game has Great Boss Battles",

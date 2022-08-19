@@ -3,10 +3,10 @@
   "Name": "My Time at Sandrock",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 770,
-  "DailyRatings": 1.17,
+  "NumberOfRatings": 771,
+  "DailyRatings": 1.21,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2022-08-18T17:02:17.4712719+00:00",
+  "LastChanged": "2022-08-19T09:03:22.0233232+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-08-18T17:02:17.471272+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 770
+    },
+    {
+      "Time": "2022-08-19T09:03:22.0233234+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 771
     }
   ],
   "Tags": [
