@@ -3,10 +3,10 @@
   "Name": "Jurassic World Evolution 2",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 3186,
-  "DailyRatings": 17.36,
+  "NumberOfRatings": 3191,
+  "DailyRatings": 17.71,
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2022-08-19T19:01:46.0411038+00:00",
+  "LastChanged": "2022-08-19T22:31:18.9610992+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.4170437+00:00",
@@ -942,6 +942,11 @@
       "Time": "2022-08-19T19:01:46.0411039+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 3186
+    },
+    {
+      "Time": "2022-08-19T22:31:18.9610994+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 3191
     }
   ],
   "Tags": [
@@ -963,7 +968,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 229
+      "Count": 231
     },
     {
       "Text": "This game is Great for Beginners",

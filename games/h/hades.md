@@ -1,6 +1,6 @@
 # Hades
-Rating: 4.92 (4 935)  
-Ratings Per Day: 50.84  
+Rating: 4.92 (4 954)  
+Ratings Per Day: 52.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,4 +32,4 @@ Ratings Per Day: 50.84
 | 2022-08-16 | 4.92 | 4 789 |
 | 2022-08-17 | 4.92 | 4 836 |
 | 2022-08-18 | 4.92 | 4 886 |
-| 2022-08-19 | 4.92 | 4 935 |
+| 2022-08-19 | 4.92 | 4 954 |
