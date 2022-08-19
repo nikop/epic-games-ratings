@@ -1,6 +1,6 @@
 # Europa Universalis IV
-Rating: 4.71 (6 658)  
-Ratings Per Day: 48.44  
+Rating: 4.71 (6 661)  
+Ratings Per Day: 48.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,4 +32,4 @@ Ratings Per Day: 48.44
 | 2022-08-16 | 4.71 | 6 533 |
 | 2022-08-17 | 4.71 | 6 579 |
 | 2022-08-18 | 4.71 | 6 611 |
-| 2022-08-19 | 4.71 | 6 658 |
+| 2022-08-19 | 4.71 | 6 661 |
