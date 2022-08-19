@@ -1,6 +1,6 @@
 # Pathfinder: Kingmaker - Enhanced Plus Edition
-Rating: 4.56 (2 966)  
-Ratings Per Day: 31.85  
+Rating: 4.56 (2 979)  
+Ratings Per Day: 32.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,4 +32,4 @@ Ratings Per Day: 31.85
 | 2022-08-16 | 4.56 | 2 902 |
 | 2022-08-17 | 4.56 | 2 924 |
 | 2022-08-18 | 4.56 | 2 960 |
-| 2022-08-19 | 4.56 | 2 966 |
+| 2022-08-19 | 4.56 | 2 979 |

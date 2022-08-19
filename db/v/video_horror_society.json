@@ -2,11 +2,11 @@
   "ID": "90487cf458a143ff921d3ca365ad4fd6",
   "Name": "Video Horror Society",
   "Names": [],
-  "Rating": 4.27,
-  "NumberOfRatings": 427,
-  "DailyRatings": 7.42,
+  "Rating": 4.28,
+  "NumberOfRatings": 428,
+  "DailyRatings": 7.43,
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2022-08-19T08:02:38.5097573+00:00",
+  "LastChanged": "2022-08-19T11:02:42.6538686+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:40.6568694+00:00",
@@ -567,6 +567,11 @@
       "Time": "2022-08-19T08:02:38.5097575+00:00",
       "Rating": 4.27,
       "NumberOfRatings": 427
+    },
+    {
+      "Time": "2022-08-19T11:02:42.6538687+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 428
     }
   ],
   "Tags": [
@@ -580,7 +585,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Highly Recommended",

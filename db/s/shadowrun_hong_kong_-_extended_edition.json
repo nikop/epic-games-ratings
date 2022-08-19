@@ -2,11 +2,11 @@
   "ID": "0d66818e2304485f8dc3ae90c8b622b4",
   "Name": "Shadowrun Hong Kong - Extended Edition",
   "Names": [],
-  "Rating": 4.61,
-  "NumberOfRatings": 168,
-  "DailyRatings": 1.23,
+  "Rating": 4.62,
+  "NumberOfRatings": 169,
+  "DailyRatings": 1.32,
   "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
-  "LastChanged": "2022-08-19T04:01:18.7753468+00:00",
+  "LastChanged": "2022-08-19T11:02:23.0225523+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:38.1146489+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-08-19T04:01:18.775347+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 168
+    },
+    {
+      "Time": "2022-08-19T11:02:23.0225525+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 169
     }
   ],
   "Tags": [

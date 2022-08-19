@@ -1,7 +1,6 @@
-# Card Shark
-Rating: 4.55 (20)  
+# A Hero's Rest
+Rating: - (-)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-08-19 | 4.55 | 20 |
