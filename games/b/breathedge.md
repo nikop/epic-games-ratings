@@ -1,6 +1,6 @@
 # Breathedge
 Rating: 4.62 (39)  
-Ratings Per Day: 0.47  
+Ratings Per Day: 0.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

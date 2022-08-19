@@ -1,6 +1,6 @@
 # Godfall
-Rating: 4.13 (620)  
-Ratings Per Day: 5.43  
+Rating: 4.13 (618)  
+Ratings Per Day: 5.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
