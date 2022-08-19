@@ -1,6 +1,6 @@
 # Souldiers
-Rating: 4.53 (62)  
-Ratings Per Day: 0.00  
+Rating: 4.54 (63)  
+Ratings Per Day: 0.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Ratings Per Day: 0.00
 | 2022-08-02 | 4.53 | 60 |
 | 2022-08-09 | 4.52 | 61 |
 | 2022-08-13 | 4.53 | 62 |
+| 2022-08-19 | 4.54 | 63 |

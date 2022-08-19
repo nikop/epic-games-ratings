@@ -1,6 +1,6 @@
 # Blazing Beaks
 Rating: 4.42 (26)  
-Ratings Per Day: 0.99  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
