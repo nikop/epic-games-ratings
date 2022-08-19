@@ -1,6 +1,6 @@
 # Mutazione
 Rating: 4.69 (55)  
-Ratings Per Day: 0.60  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
