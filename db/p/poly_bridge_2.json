@@ -2,11 +2,11 @@
   "ID": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "Name": "Poly Bridge 2",
   "Names": [],
-  "Rating": 4.35,
-  "NumberOfRatings": 37,
-  "DailyRatings": 0.77,
+  "Rating": 4.34,
+  "NumberOfRatings": 38,
+  "DailyRatings": 0.59,
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
-  "LastChanged": "2022-08-16T16:30:43.9042099+00:00",
+  "LastChanged": "2022-08-19T13:00:35.1597461+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.1339205+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-16T16:30:43.9042103+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-08-19T13:00:35.1597463+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 38
     }
   ],
   "Tags": []
