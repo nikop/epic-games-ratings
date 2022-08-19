@@ -2,11 +2,11 @@
   "ID": "cinnamon",
   "Name": "Sherlock Holmes: The Devil\u0027s Daughter",
   "Names": [],
-  "Rating": 4.45,
-  "NumberOfRatings": 47,
-  "DailyRatings": 0.36,
+  "Rating": 4.46,
+  "NumberOfRatings": 48,
+  "DailyRatings": 0.46,
   "FirstSeen": "2022-07-22T20:27:15.2288345+00:00",
-  "LastChanged": "2022-08-18T16:02:23.559737+00:00",
+  "LastChanged": "2022-08-19T16:02:13.0628753+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:15.2288347+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-08-18T16:02:23.5597372+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 47
+    },
+    {
+      "Time": "2022-08-19T16:02:13.0628754+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 48
     }
   ],
   "Tags": []
