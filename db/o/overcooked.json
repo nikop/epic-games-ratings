@@ -3,10 +3,10 @@
   "Name": "Overcooked",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 441,
-  "DailyRatings": 5.59,
+  "NumberOfRatings": 442,
+  "DailyRatings": 5.7,
   "FirstSeen": "2022-07-22T20:32:20.7350058+00:00",
-  "LastChanged": "2022-08-19T16:32:10.1812143+00:00",
+  "LastChanged": "2022-08-19T17:32:54.3644049+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:20.735006+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-08-19T16:32:10.1812145+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 441
+    },
+    {
+      "Time": "2022-08-19T17:32:54.364405+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 442
     }
   ],
   "Tags": [
