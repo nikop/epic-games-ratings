@@ -3,10 +3,10 @@
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "Names": [],
   "Rating": 4.74,
-  "NumberOfRatings": 4316,
-  "DailyRatings": 41.12,
+  "NumberOfRatings": 4319,
+  "DailyRatings": 41.43,
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
-  "LastChanged": "2022-08-19T13:01:13.0123187+00:00",
+  "LastChanged": "2022-08-19T13:30:52.7801359+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.7217338+00:00",
@@ -1182,6 +1182,11 @@
       "Time": "2022-08-19T13:01:13.0123188+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 4316
+    },
+    {
+      "Time": "2022-08-19T13:30:52.780136+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 4319
     }
   ],
   "Tags": [
@@ -1223,7 +1228,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 110
+      "Count": 118
     },
     {
       "Text": "This game has a Creative Community",
