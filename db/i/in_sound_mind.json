@@ -3,10 +3,10 @@
   "Name": "In Sound Mind",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 1453,
-  "DailyRatings": 18.46,
+  "NumberOfRatings": 1454,
+  "DailyRatings": 18.56,
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
-  "LastChanged": "2022-08-19T01:01:54.4476715+00:00",
+  "LastChanged": "2022-08-19T01:32:12.463454+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:02.4787934+00:00",
@@ -377,6 +377,11 @@
       "Time": "2022-08-19T01:01:54.4476717+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 1453
+    },
+    {
+      "Time": "2022-08-19T01:32:12.4634542+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 1454
     }
   ],
   "Tags": [

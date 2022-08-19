@@ -1,6 +1,6 @@
 # Werewolf: The Apocalypse – Earthblood
-Rating: 4.20 (54)  
-Ratings Per Day: 0.66  
+Rating: 4.20 (55)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 0.66
 | 2022-08-09 | 4.18 | 51 |
 | 2022-08-13 | 4.19 | 52 |
 | 2022-08-16 | 4.20 | 54 |
+| 2022-08-19 | 4.20 | 55 |
