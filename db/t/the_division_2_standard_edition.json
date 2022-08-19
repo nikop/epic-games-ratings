@@ -2,11 +2,11 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "Names": [],
-  "Rating": 4.43,
-  "NumberOfRatings": 5363,
-  "DailyRatings": 35.42,
+  "Rating": 4.42,
+  "NumberOfRatings": 5371,
+  "DailyRatings": 35.82,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-08-19T11:31:04.3789139+00:00",
+  "LastChanged": "2022-08-19T15:01:24.1345305+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -1302,6 +1302,11 @@
       "Time": "2022-08-19T11:31:04.378914+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 5363
+    },
+    {
+      "Time": "2022-08-19T15:01:24.1345307+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 5371
     }
   ],
   "Tags": [
@@ -1343,7 +1348,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 270
+      "Count": 275
     },
     {
       "Text": "This game has Obsessive Gameplay",

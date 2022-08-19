@@ -2,11 +2,11 @@
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
   "Names": [],
-  "Rating": 4.47,
-  "NumberOfRatings": 95,
-  "DailyRatings": 1.45,
+  "Rating": 4.48,
+  "NumberOfRatings": 96,
+  "DailyRatings": 1.07,
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
-  "LastChanged": "2022-08-17T11:31:45.103136+00:00",
+  "LastChanged": "2022-08-19T15:01:39.6639719+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.2645227+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-08-17T11:31:45.1031361+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 95
+    },
+    {
+      "Time": "2022-08-19T15:01:39.6639721+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 96
     }
   ],
   "Tags": []
