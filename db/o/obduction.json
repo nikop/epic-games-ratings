@@ -2,11 +2,11 @@
   "ID": "4ac85017adaf4d228518d64325c4ec65",
   "Name": "Obduction",
   "Names": [],
-  "Rating": 4.12,
-  "NumberOfRatings": 172,
-  "DailyRatings": 1.76,
+  "Rating": 4.11,
+  "NumberOfRatings": 175,
+  "DailyRatings": 2.09,
   "FirstSeen": "2022-07-22T20:24:36.0781179+00:00",
-  "LastChanged": "2022-08-18T14:01:43.9417438+00:00",
+  "LastChanged": "2022-08-19T03:01:34.5820115+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:36.0781184+00:00",
@@ -137,12 +137,17 @@
       "Time": "2022-08-18T14:01:43.941744+00:00",
       "Rating": 4.12,
       "NumberOfRatings": 172
+    },
+    {
+      "Time": "2022-08-19T03:01:34.5820116+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": 175
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 21
+      "Count": 22
     }
   ]
 }
