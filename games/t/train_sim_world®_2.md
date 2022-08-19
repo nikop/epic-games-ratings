@@ -1,6 +1,6 @@
 # Train Sim World® 2
 Rating: 4.42 (2 056)  
-Ratings Per Day: 21.91  
+Ratings Per Day: 22.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

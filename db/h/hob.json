@@ -3,10 +3,10 @@
   "Name": "Hob",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 344,
-  "DailyRatings": 4.58,
+  "NumberOfRatings": 347,
+  "DailyRatings": 4.35,
   "FirstSeen": "2022-07-22T20:18:19.3157268+00:00",
-  "LastChanged": "2022-08-18T23:00:34.9043973+00:00",
+  "LastChanged": "2022-08-19T23:03:20.9388672+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:19.3157273+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-08-18T23:00:34.9043975+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 344
+    },
+    {
+      "Time": "2022-08-19T23:03:20.9388722+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 347
     }
   ],
   "Tags": []
