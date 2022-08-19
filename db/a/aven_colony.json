@@ -3,10 +3,10 @@
   "Name": "Aven Colony",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 1557,
-  "DailyRatings": 21.13,
+  "NumberOfRatings": 1559,
+  "DailyRatings": 20.78,
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2022-08-19T17:01:39.7183924+00:00",
+  "LastChanged": "2022-08-19T22:02:15.7251409+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:59.6890426+00:00",
@@ -577,6 +577,11 @@
       "Time": "2022-08-19T17:01:39.7183925+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 1557
+    },
+    {
+      "Time": "2022-08-19T22:02:15.725141+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 1559
     }
   ],
   "Tags": [
@@ -611,6 +616,10 @@
     {
       "Text": "This game has Easy Combat",
       "Count": 28
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 20
     }
   ]
 }
