@@ -3,10 +3,10 @@
   "Name": "Super Meat Boy",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 107,
-  "DailyRatings": 0.71,
+  "NumberOfRatings": 108,
+  "DailyRatings": 0.78,
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
-  "LastChanged": "2022-08-18T12:01:24.838755+00:00",
+  "LastChanged": "2022-08-19T05:31:37.7378617+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:39.3039476+00:00",
@@ -107,12 +107,17 @@
       "Time": "2022-08-18T12:01:24.8387552+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 107
+    },
+    {
+      "Time": "2022-08-19T05:31:37.7378618+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 108
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 28
+      "Count": 29
     }
   ]
 }
