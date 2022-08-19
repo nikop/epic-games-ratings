@@ -3,10 +3,10 @@
   "Name": "HUMANKIND\u2122 Digital Deluxe Edition",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 452,
-  "DailyRatings": 5.57,
+  "NumberOfRatings": 453,
+  "DailyRatings": 5.4,
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2022-08-18T21:30:57.1130713+00:00",
+  "LastChanged": "2022-08-19T07:01:36.3488136+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:22.8287393+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-08-18T21:30:57.1130773+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 452
+    },
+    {
+      "Time": "2022-08-19T07:01:36.3488138+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 453
     }
   ],
   "Tags": [
@@ -405,6 +410,10 @@
     {
       "Text": "This game has Quickly Understood Controls",
       "Count": 24
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Count": 22
     }
   ]
 }
