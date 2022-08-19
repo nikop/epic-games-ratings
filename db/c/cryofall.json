@@ -2,12 +2,12 @@
   "ID": "705b9b37d3e747e7b02e835e5ace5c81",
   "Name": "CryoFall",
   "Names": [],
-  "Rating": 4.37,
-  "NumberOfRatings": 30,
-  "DailyRatings": 1.44,
+  "Rating": 4.29,
+  "NumberOfRatings": 31,
+  "DailyRatings": 1.55,
   "FirstSeen": "2022-07-22T20:30:02.2265434+00:00",
   "FirstSeenRating": "2022-08-07T18:02:06.4816935+00:00",
-  "LastChanged": "2022-08-19T01:02:09.6443939+00:00",
+  "LastChanged": "2022-08-19T05:02:19.982179+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-07T18:02:06.4816937+00:00",
@@ -43,6 +43,11 @@
       "Time": "2022-08-19T01:02:09.6443941+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-08-19T05:02:19.9821797+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []
