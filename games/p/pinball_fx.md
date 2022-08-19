@@ -1,6 +1,6 @@
 # Pinball FX
-Rating: 3.97 (577)  
-Ratings Per Day: 5.40  
+Rating: 3.97 (579)  
+Ratings Per Day: 5.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 5.40
 | 2022-08-16 | 3.98 | 564 |
 | 2022-08-17 | 3.98 | 568 |
 | 2022-08-18 | 3.97 | 577 |
+| 2022-08-19 | 3.97 | 579 |
