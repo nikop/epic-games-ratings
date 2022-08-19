@@ -1,6 +1,6 @@
 # Roguebook
 Rating: 4.57 (56)  
-Ratings Per Day: 0.44  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
