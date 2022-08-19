@@ -1,6 +1,6 @@
 # Sheltered
 Rating: 4.43 (627)  
-Ratings Per Day: 9.53  
+Ratings Per Day: 7.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
