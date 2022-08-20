@@ -1,6 +1,6 @@
 # Necromunda: Hired Gun
 Rating: 4.27 (79)  
-Ratings Per Day: 1.23  
+Ratings Per Day: 1.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
