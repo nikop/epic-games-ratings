@@ -1,6 +1,6 @@
 # Conarium
-Rating: 4.08 (36)  
-Ratings Per Day: 0.60  
+Rating: 4.05 (38)  
+Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.60
 | 2022-08-14 | 4.03 | 33 |
 | 2022-08-15 | 4.06 | 35 |
 | 2022-08-19 | 4.08 | 36 |
+| 2022-08-20 | 4.05 | 38 |

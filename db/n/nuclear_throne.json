@@ -3,10 +3,10 @@
   "Name": "Nuclear Throne",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 471,
-  "DailyRatings": 6.08,
+  "NumberOfRatings": 472,
+  "DailyRatings": 5.87,
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2022-08-20T03:31:32.6804616+00:00",
+  "LastChanged": "2022-08-20T13:01:46.3698242+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
@@ -377,6 +377,11 @@
       "Time": "2022-08-20T03:31:32.6804617+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 471
+    },
+    {
+      "Time": "2022-08-20T13:01:46.3698243+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 472
     }
   ],
   "Tags": [
