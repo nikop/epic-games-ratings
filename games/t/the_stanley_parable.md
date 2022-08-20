@@ -1,6 +1,6 @@
 # The Stanley Parable
-Rating: 4.74 (152)  
-Ratings Per Day: 1.99  
+Rating: 4.73 (154)  
+Ratings Per Day: 1.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Ratings Per Day: 1.99
 | 2022-08-17 | 4.74 | 148 |
 | 2022-08-18 | 4.74 | 151 |
 | 2022-08-19 | 4.74 | 152 |
+| 2022-08-20 | 4.73 | 154 |
