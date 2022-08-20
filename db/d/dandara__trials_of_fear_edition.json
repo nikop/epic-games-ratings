@@ -2,11 +2,11 @@
   "ID": "73b62f4875a248d8acc95966ce94c80f",
   "Name": "Dandara: Trials of Fear Edition",
   "Names": [],
-  "Rating": 4.58,
-  "NumberOfRatings": 129,
-  "DailyRatings": 1.39,
+  "Rating": 4.59,
+  "NumberOfRatings": 132,
+  "DailyRatings": 1.57,
   "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
-  "LastChanged": "2022-08-18T18:30:30.1075654+00:00",
+  "LastChanged": "2022-08-20T02:30:31.9843936+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:00.1334632+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-08-18T18:30:30.1075656+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 129
+    },
+    {
+      "Time": "2022-08-20T02:30:31.9843939+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 132
     }
   ],
   "Tags": [
