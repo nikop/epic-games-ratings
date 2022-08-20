@@ -3,10 +3,10 @@
   "Name": "Phoenix Point: Complete Edition",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 1662,
-  "DailyRatings": 16.72,
+  "NumberOfRatings": 1663,
+  "DailyRatings": 16.71,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-08-20T20:01:23.5973044+00:00",
+  "LastChanged": "2022-08-20T21:30:28.1047575+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -1112,6 +1112,11 @@
       "Time": "2022-08-20T20:01:23.5973106+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 1662
+    },
+    {
+      "Time": "2022-08-20T21:30:28.1047578+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 1663
     }
   ],
   "Tags": [
@@ -1153,7 +1158,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 102
+      "Count": 104
     }
   ]
 }
