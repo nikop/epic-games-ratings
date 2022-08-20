@@ -1,6 +1,6 @@
 # Assassin's Creed Rogue Standard Edition
-Rating: 4.56 (243)  
-Ratings Per Day: 1.91  
+Rating: 4.55 (247)  
+Ratings Per Day: 2.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Ratings Per Day: 1.91
 | 2022-08-17 | 4.55 | 240 |
 | 2022-08-18 | 4.55 | 242 |
 | 2022-08-19 | 4.56 | 243 |
+| 2022-08-20 | 4.55 | 247 |
