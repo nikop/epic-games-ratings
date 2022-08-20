@@ -2,11 +2,11 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "Names": [],
-  "Rating": 4.54,
-  "NumberOfRatings": 54,
-  "DailyRatings": 0.91,
+  "Rating": 4.55,
+  "NumberOfRatings": 55,
+  "DailyRatings": 0.48,
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
-  "LastChanged": "2022-08-16T10:30:50.3249377+00:00",
+  "LastChanged": "2022-08-20T11:00:50.5582788+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.918021+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-08-16T10:30:50.3249379+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-08-20T11:00:50.558279+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 55
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Anno 1800 Standard Edition",
   "Names": [],
   "Rating": 4.84,
-  "NumberOfRatings": 3227,
-  "DailyRatings": 27.26,
+  "NumberOfRatings": 3231,
+  "DailyRatings": 27.18,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-08-20T07:00:25.959785+00:00",
+  "LastChanged": "2022-08-20T11:00:36.9582132+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -1147,6 +1147,11 @@
       "Time": "2022-08-20T07:00:25.9597851+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 3227
+    },
+    {
+      "Time": "2022-08-20T11:00:36.9582136+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 3231
     }
   ],
   "Tags": [
