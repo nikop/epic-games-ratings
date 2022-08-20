@@ -1,6 +1,6 @@
 # Starship Troopers: Terran Command
 Rating: 4.16 (79)  
-Ratings Per Day: 0.73  
+Ratings Per Day: 0.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

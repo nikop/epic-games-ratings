@@ -1,6 +1,6 @@
 # Brothers - A Tale of Two Sons
-Rating: 4.50 (508)  
-Ratings Per Day: 4.41  
+Rating: 4.50 (513)  
+Ratings Per Day: 4.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 4.41
 | 2022-08-17 | 4.50 | 499 |
 | 2022-08-18 | 4.51 | 504 |
 | 2022-08-19 | 4.50 | 508 |
+| 2022-08-20 | 4.50 | 513 |

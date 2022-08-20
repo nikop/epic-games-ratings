@@ -3,10 +3,10 @@
   "Name": "Beyond Two Souls",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 256,
-  "DailyRatings": 2.19,
+  "NumberOfRatings": 257,
+  "DailyRatings": 2.01,
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2022-08-19T14:01:30.11937+00:00",
+  "LastChanged": "2022-08-20T14:01:21.9931282+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.5955429+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-08-19T14:01:30.1193702+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 256
+    },
+    {
+      "Time": "2022-08-20T14:01:21.9931284+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 257
     }
   ],
   "Tags": [

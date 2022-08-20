@@ -1,6 +1,6 @@
 # Neverwinter
-Rating: 4.29 (856)  
-Ratings Per Day: 7.46  
+Rating: 4.29 (858)  
+Ratings Per Day: 7.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,4 +33,4 @@ Ratings Per Day: 7.46
 | 2022-08-17 | 4.29 | 840 |
 | 2022-08-18 | 4.29 | 849 |
 | 2022-08-19 | 4.29 | 854 |
-| 2022-08-20 | 4.29 | 856 |
+| 2022-08-20 | 4.29 | 858 |
