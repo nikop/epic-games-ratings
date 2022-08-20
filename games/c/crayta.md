@@ -1,6 +1,6 @@
 # Crayta
-Rating: 4.22 (82)  
-Ratings Per Day: 0.75  
+Rating: 4.22 (83)  
+Ratings Per Day: 0.74  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 0.75
 | 2022-08-09 | 4.20 | 80 |
 | 2022-08-17 | 4.21 | 81 |
 | 2022-08-18 | 4.22 | 82 |
+| 2022-08-20 | 4.22 | 83 |

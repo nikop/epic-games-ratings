@@ -3,10 +3,10 @@
   "Name": "Crayta",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 82,
-  "DailyRatings": 0.75,
+  "NumberOfRatings": 83,
+  "DailyRatings": 0.74,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-08-18T23:01:18.0135562+00:00",
+  "LastChanged": "2022-08-20T07:31:13.016989+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -102,11 +102,20 @@
       "Time": "2022-08-18T23:01:18.0135563+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 82
+    },
+    {
+      "Time": "2022-08-20T07:31:13.0169892+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 83
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Educational",
       "Count": 21
     }
   ]
