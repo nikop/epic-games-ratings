@@ -2,11 +2,11 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "Names": [],
-  "Rating": 4.11,
-  "NumberOfRatings": 62,
-  "DailyRatings": 2.17,
+  "Rating": 4.09,
+  "NumberOfRatings": 64,
+  "DailyRatings": 2.14,
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
-  "LastChanged": "2022-08-19T15:30:58.9267907+00:00",
+  "LastChanged": "2022-08-20T15:30:56.0410072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:58.0342445+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-19T15:30:58.9267909+00:00",
       "Rating": 4.11,
       "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-08-20T15:30:56.0410074+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": 64
     }
   ],
   "Tags": []
