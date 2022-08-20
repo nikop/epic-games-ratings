@@ -3,10 +3,10 @@
   "Name": "Yooka-Laylee",
   "Names": [],
   "Rating": 4.3,
-  "NumberOfRatings": 283,
-  "DailyRatings": 3.58,
+  "NumberOfRatings": 285,
+  "DailyRatings": 3.5,
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2022-08-20T04:00:24.7334532+00:00",
+  "LastChanged": "2022-08-20T21:00:22.9692913+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.930045+00:00",
@@ -182,6 +182,11 @@
       "Time": "2022-08-20T04:00:24.7334534+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 283
+    },
+    {
+      "Time": "2022-08-20T21:00:22.9692916+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 285
     }
   ],
   "Tags": []

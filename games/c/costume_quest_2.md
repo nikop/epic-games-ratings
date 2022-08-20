@@ -1,6 +1,6 @@
 # Costume Quest 2
-Rating: 4.36 (33)  
-Ratings Per Day: 0.40  
+Rating: 4.38 (34)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.40
 | 2022-08-09 | 4.40 | 30 |
 | 2022-08-13 | 4.35 | 31 |
 | 2022-08-18 | 4.36 | 33 |
+| 2022-08-20 | 4.38 | 34 |

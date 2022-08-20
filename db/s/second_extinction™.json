@@ -2,11 +2,11 @@
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
   "Names": [],
-  "Rating": 4.05,
-  "NumberOfRatings": 424,
-  "DailyRatings": 5.46,
+  "Rating": 4.06,
+  "NumberOfRatings": 427,
+  "DailyRatings": 5.33,
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "LastChanged": "2022-08-20T04:02:17.5406827+00:00",
+  "LastChanged": "2022-08-20T21:02:16.2703781+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-08-20T04:02:17.5406829+00:00",
       "Rating": 4.05,
       "NumberOfRatings": 424
+    },
+    {
+      "Time": "2022-08-20T21:02:16.2703782+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": 427
     }
   ],
   "Tags": [
