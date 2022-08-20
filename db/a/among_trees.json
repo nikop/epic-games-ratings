@@ -2,11 +2,11 @@
   "ID": "1886704a76f94324ab964a4698db3e09",
   "Name": "Among Trees",
   "Names": [],
-  "Rating": 4.26,
-  "NumberOfRatings": 91,
-  "DailyRatings": 0.47,
+  "Rating": 4.27,
+  "NumberOfRatings": 92,
+  "DailyRatings": 0.48,
   "FirstSeen": "2022-07-22T20:19:39.253901+00:00",
-  "LastChanged": "2022-08-18T01:00:55.4659975+00:00",
+  "LastChanged": "2022-08-20T01:30:37.252471+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.2539012+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-08-18T01:00:55.4659977+00:00",
       "Rating": 4.26,
       "NumberOfRatings": 91
+    },
+    {
+      "Time": "2022-08-20T01:30:37.2524712+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 92
     }
   ],
   "Tags": []
