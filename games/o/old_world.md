@@ -1,6 +1,6 @@
 # Old World
-Rating: 4.64 (1 078)  
-Ratings Per Day: 7.34  
+Rating: 4.64 (1 079)  
+Ratings Per Day: 7.46  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,4 +33,4 @@ Ratings Per Day: 7.34
 | 2022-08-17 | 4.65 | 1 057 |
 | 2022-08-18 | 4.65 | 1 063 |
 | 2022-08-19 | 4.64 | 1 073 |
-| 2022-08-20 | 4.64 | 1 078 |
+| 2022-08-20 | 4.64 | 1 079 |

@@ -3,10 +3,10 @@
   "Name": "Oxygen Not Included",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 733,
-  "DailyRatings": 4.98,
+  "NumberOfRatings": 734,
+  "DailyRatings": 5,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-08-20T12:30:44.625406+00:00",
+  "LastChanged": "2022-08-20T16:30:45.4784271+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -527,6 +527,11 @@
       "Time": "2022-08-20T12:30:44.6254062+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 733
+    },
+    {
+      "Time": "2022-08-20T16:30:45.4784276+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 734
     }
   ],
   "Tags": [
@@ -540,7 +545,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 79
+      "Count": 82
     },
     {
       "Text": "This game has Amazing Characters",

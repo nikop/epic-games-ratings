@@ -1,6 +1,6 @@
 # Fault: Elder Orb
-Rating: 3.87 (541)  
-Ratings Per Day: 9.00  
+Rating: 3.87 (544)  
+Ratings Per Day: 8.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,4 +33,4 @@ Ratings Per Day: 9.00
 | 2022-08-17 | 3.86 | 521 |
 | 2022-08-18 | 3.86 | 527 |
 | 2022-08-19 | 3.87 | 537 |
-| 2022-08-20 | 3.87 | 541 |
+| 2022-08-20 | 3.87 | 544 |

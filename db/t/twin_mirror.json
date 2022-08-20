@@ -2,11 +2,11 @@
   "ID": "f7d5c4e850874d2c9fa043e9516a7a49",
   "Name": "Twin Mirror",
   "Names": [],
-  "Rating": 4.3,
-  "NumberOfRatings": 33,
-  "DailyRatings": 0,
+  "Rating": 4.32,
+  "NumberOfRatings": 34,
+  "DailyRatings": 0.25,
   "FirstSeen": "2022-07-22T20:21:33.1438666+00:00",
-  "LastChanged": "2022-08-16T16:31:22.1367156+00:00",
+  "LastChanged": "2022-08-20T16:30:51.4417727+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.1438668+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-16T16:31:22.1367157+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-08-20T16:30:51.4417729+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 34
     }
   ],
   "Tags": []
