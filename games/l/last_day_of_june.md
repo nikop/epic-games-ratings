@@ -1,6 +1,6 @@
 # Last Day of June
 Rating: 4.63 (27)  
-Ratings Per Day: 0.71  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
