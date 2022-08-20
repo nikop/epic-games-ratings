@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Asylum Game of the Year Edition",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 1515,
-  "DailyRatings": 20.52,
+  "NumberOfRatings": 1528,
+  "DailyRatings": 19.35,
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2022-08-19T00:30:37.8067015+00:00",
+  "LastChanged": "2022-08-20T00:30:35.4292315+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:33.3768871+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-08-19T00:30:37.8067017+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 1515
+    },
+    {
+      "Time": "2022-08-20T00:30:35.4292316+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 1528
     }
   ],
   "Tags": [
