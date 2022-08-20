@@ -3,10 +3,10 @@
   "Name": "My Time At Portia",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 3089,
-  "DailyRatings": 26.89,
+  "NumberOfRatings": 3090,
+  "DailyRatings": 26.71,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-08-20T20:01:59.8735436+00:00",
+  "LastChanged": "2022-08-20T22:00:59.2512755+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -972,12 +972,17 @@
       "Time": "2022-08-20T20:01:59.8735437+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 3089
+    },
+    {
+      "Time": "2022-08-20T22:00:59.2512757+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 3090
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1108
+      "Count": 1120
     },
     {
       "Text": "This game is Relaxing",
