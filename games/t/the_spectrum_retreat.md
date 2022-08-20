@@ -1,6 +1,6 @@
 # The Spectrum Retreat
 Rating: 4.35 (173)  
-Ratings Per Day: 2.81  
+Ratings Per Day: 2.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

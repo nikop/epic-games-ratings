@@ -2,11 +2,11 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "Names": [],
-  "Rating": 4.2,
-  "NumberOfRatings": 2411,
-  "DailyRatings": 35.81,
+  "Rating": 4.21,
+  "NumberOfRatings": 2421,
+  "DailyRatings": 35.85,
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2022-08-20T12:01:57.3685118+00:00",
+  "LastChanged": "2022-08-20T18:32:36.9105716+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:37.8027765+00:00",
@@ -832,12 +832,17 @@
       "Time": "2022-08-20T12:01:57.368512+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 2411
+    },
+    {
+      "Time": "2022-08-20T18:32:36.9105718+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 2421
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Amazing Storytelling",
