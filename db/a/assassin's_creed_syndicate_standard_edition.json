@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 2043,
-  "DailyRatings": 20.99,
+  "NumberOfRatings": 2048,
+  "DailyRatings": 20.68,
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2022-08-20T11:30:15.3219973+00:00",
+  "LastChanged": "2022-08-20T19:30:20.4595907+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.1720532+00:00",
@@ -592,6 +592,11 @@
       "Time": "2022-08-20T11:30:15.3219975+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 2043
+    },
+    {
+      "Time": "2022-08-20T19:30:20.4595909+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 2048
     }
   ],
   "Tags": [
