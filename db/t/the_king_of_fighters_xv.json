@@ -3,10 +3,10 @@
   "Name": "THE KING OF FIGHTERS XV",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 165,
-  "DailyRatings": 3.08,
+  "NumberOfRatings": 166,
+  "DailyRatings": 1.88,
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2022-08-17T20:01:22.9842521+00:00",
+  "LastChanged": "2022-08-20T10:31:14.8602644+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:01.2233815+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-08-17T20:01:22.9842523+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 165
+    },
+    {
+      "Time": "2022-08-20T10:31:14.8602646+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 166
     }
   ],
   "Tags": [
@@ -168,7 +173,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 23
+      "Count": 24
     }
   ]
 }
