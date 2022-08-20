@@ -1,6 +1,6 @@
 # BioShock Infinite: Complete Edition
-Rating: 4.69 (15 363)  
-Ratings Per Day: 97.12  
+Rating: 4.69 (15 391)  
+Ratings Per Day: 94.64  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,3 +33,4 @@ Ratings Per Day: 97.12
 | 2022-08-17 | 4.69 | 15 151 |
 | 2022-08-18 | 4.69 | 15 250 |
 | 2022-08-19 | 4.69 | 15 363 |
+| 2022-08-20 | 4.69 | 15 391 |

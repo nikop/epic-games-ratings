@@ -3,10 +3,10 @@
   "Name": "Celeste",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 1909,
-  "DailyRatings": 17.73,
+  "NumberOfRatings": 1911,
+  "DailyRatings": 17.43,
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2022-08-20T03:31:18.5157414+00:00",
+  "LastChanged": "2022-08-20T09:01:26.3363521+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -767,6 +767,11 @@
       "Time": "2022-08-20T03:31:18.5157415+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 1909
+    },
+    {
+      "Time": "2022-08-20T09:01:26.3363522+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 1911
     }
   ],
   "Tags": [
@@ -808,7 +813,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 40
+      "Count": 45
     }
   ]
 }
