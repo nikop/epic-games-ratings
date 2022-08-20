@@ -3,10 +3,10 @@
   "Name": "Beyond Two Souls",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 257,
-  "DailyRatings": 2.01,
+  "NumberOfRatings": 258,
+  "DailyRatings": 2.09,
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2022-08-20T14:01:21.9931282+00:00",
+  "LastChanged": "2022-08-20T19:00:16.0034243+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.5955429+00:00",
@@ -182,12 +182,17 @@
       "Time": "2022-08-20T14:01:21.9931284+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 257
+    },
+    {
+      "Time": "2022-08-20T19:00:16.0034248+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 258
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 34
+      "Count": 35
     }
   ]
 }
