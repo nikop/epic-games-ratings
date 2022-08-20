@@ -3,10 +3,10 @@
   "Name": "The Tenants",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 58,
-  "DailyRatings": 0.56,
+  "NumberOfRatings": 61,
+  "DailyRatings": 0.95,
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
-  "LastChanged": "2022-08-19T01:32:18.056115+00:00",
+  "LastChanged": "2022-08-20T02:01:42.5853394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.0535217+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-08-19T01:32:18.0561152+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 58
+    },
+    {
+      "Time": "2022-08-20T02:01:42.5853395+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 61
     }
   ],
   "Tags": []
