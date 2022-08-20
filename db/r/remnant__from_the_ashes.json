@@ -3,10 +3,10 @@
   "Name": "Remnant: From the Ashes",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 8672,
-  "DailyRatings": 93.67,
+  "NumberOfRatings": 8683,
+  "DailyRatings": 91.47,
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2022-08-19T21:01:19.8217601+00:00",
+  "LastChanged": "2022-08-20T01:01:23.2372412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:00.6523641+00:00",
@@ -1317,6 +1317,11 @@
       "Time": "2022-08-19T21:01:19.8217603+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 8672
+    },
+    {
+      "Time": "2022-08-20T01:01:23.2372416+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 8683
     }
   ],
   "Tags": [
@@ -1338,7 +1343,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 196
+      "Count": 200
     },
     {
       "Text": "This game has Quickly Understood Controls",
