@@ -1,6 +1,6 @@
 # Sonic Mania
-Rating: 4.80 (1 897)  
-Ratings Per Day: 13.96  
+Rating: 4.80 (1 898)  
+Ratings Per Day: 13.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -34,4 +34,4 @@ Ratings Per Day: 13.96
 | 2022-08-18 | 4.80 | 1 850 |
 | 2022-08-19 | 4.80 | 1 862 |
 | 2022-08-20 | 4.80 | 1 879 |
-| 2022-08-21 | 4.80 | 1 897 |
+| 2022-08-21 | 4.80 | 1 898 |

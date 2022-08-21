@@ -1,6 +1,6 @@
 # Five Nights at Freddy's: Security Breach
 Rating: 4.54 (122)  
-Ratings Per Day: 1.20  
+Ratings Per Day: 1.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
