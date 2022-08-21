@@ -1,6 +1,6 @@
 # HITMAN 3
 Rating: 4.80 (16 872)  
-Ratings Per Day: 147.43  
+Ratings Per Day: 147.46  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
