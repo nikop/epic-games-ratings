@@ -1,6 +1,6 @@
 # HUMANKIND™ Digital Deluxe Edition
-Rating: 4.52 (467)  
-Ratings Per Day: 6.13  
+Rating: 4.52 (468)  
+Ratings Per Day: 6.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,4 +33,4 @@ Ratings Per Day: 6.13
 | 2022-08-18 | 4.51 | 452 |
 | 2022-08-19 | 4.51 | 453 |
 | 2022-08-20 | 4.52 | 463 |
-| 2022-08-21 | 4.52 | 467 |
+| 2022-08-21 | 4.52 | 468 |

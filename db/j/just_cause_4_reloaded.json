@@ -3,10 +3,10 @@
   "Name": "Just Cause 4 Reloaded",
   "Names": [],
   "Rating": 4.29,
-  "NumberOfRatings": 3980,
-  "DailyRatings": 36.19,
+  "NumberOfRatings": 3999,
+  "DailyRatings": 37.41,
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2022-08-21T07:00:45.7243774+00:00",
+  "LastChanged": "2022-08-21T14:01:32.1047088+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.4925825+00:00",
@@ -1202,6 +1202,11 @@
       "Time": "2022-08-21T07:00:45.7243777+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 3980
+    },
+    {
+      "Time": "2022-08-21T14:01:32.104709+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 3999
     }
   ],
   "Tags": [
@@ -1219,7 +1224,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 163
+      "Count": 165
     },
     {
       "Text": "This game is Highly Recommended",
