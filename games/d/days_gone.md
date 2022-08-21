@@ -1,6 +1,6 @@
 # Days Gone
-Rating: 4.70 (3 220)  
-Ratings Per Day: 19.38  
+Rating: 4.70 (3 221)  
+Ratings Per Day: 19.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -34,4 +34,4 @@ Ratings Per Day: 19.38
 | 2022-08-18 | 4.70 | 3 174 |
 | 2022-08-19 | 4.70 | 3 192 |
 | 2022-08-20 | 4.70 | 3 215 |
-| 2022-08-21 | 4.70 | 3 220 |
+| 2022-08-21 | 4.70 | 3 221 |

@@ -1,6 +1,6 @@
 # Watch Dogs Standard Edition
-Rating: 4.54 (1 415)  
-Ratings Per Day: 17.29  
+Rating: 4.54 (1 419)  
+Ratings Per Day: 16.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -34,3 +34,4 @@ Ratings Per Day: 17.29
 | 2022-08-18 | 4.53 | 1 382 |
 | 2022-08-19 | 4.54 | 1 403 |
 | 2022-08-20 | 4.54 | 1 415 |
+| 2022-08-21 | 4.54 | 1 419 |
