@@ -3,10 +3,10 @@
   "Name": "The Outer Worlds",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 1888,
-  "DailyRatings": 18.93,
+  "NumberOfRatings": 1891,
+  "DailyRatings": 18.62,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-08-21T17:01:28.8460866+00:00",
+  "LastChanged": "2022-08-21T23:31:25.7538062+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -827,6 +827,11 @@
       "Time": "2022-08-21T17:01:28.8460867+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 1888
+    },
+    {
+      "Time": "2022-08-21T23:31:25.7538064+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 1891
     }
   ],
   "Tags": [
@@ -860,7 +865,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Unique Visuals",
