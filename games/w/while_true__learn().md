@@ -1,6 +1,6 @@
 # while True: learn()
 Rating: 4.49 (686)  
-Ratings Per Day: 5.64  
+Ratings Per Day: 5.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
