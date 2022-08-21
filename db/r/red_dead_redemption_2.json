@@ -3,10 +3,10 @@
   "Name": "Red Dead Redemption 2",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 79525,
-  "DailyRatings": 656.74,
+  "NumberOfRatings": 79604,
+  "DailyRatings": 648.58,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2022-08-21T11:31:09.2246184+00:00",
+  "LastChanged": "2022-08-21T13:31:06.4604428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -1802,6 +1802,11 @@
       "Time": "2022-08-21T11:31:09.2246186+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 79525
+    },
+    {
+      "Time": "2022-08-21T13:31:06.460443+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 79604
     }
   ],
   "Tags": [
@@ -1811,7 +1816,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 21327
+      "Count": 21612
     },
     {
       "Text": "This game is Extremely Fun",
