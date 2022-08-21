@@ -2,11 +2,11 @@
   "ID": "5e834b926aa547029903e0ae4f649a70",
   "Name": "Axiom Verge 2",
   "Names": [],
-  "Rating": 4.47,
-  "NumberOfRatings": 30,
-  "DailyRatings": 0,
+  "Rating": 4.48,
+  "NumberOfRatings": 31,
+  "DailyRatings": 0.2,
   "FirstSeen": "2022-07-22T20:25:37.6251124+00:00",
-  "LastChanged": "2022-08-16T10:31:36.7903559+00:00",
+  "LastChanged": "2022-08-21T11:31:28.2255104+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T16:01:44.7427819+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-16T10:31:36.790356+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-08-21T11:31:28.2255105+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []
