@@ -2,11 +2,11 @@
   "ID": "df37f065c3f14eadbf011177396e2966",
   "Name": "Alien: Isolation ",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 3832,
-  "DailyRatings": 43.02,
+  "Rating": 4.59,
+  "NumberOfRatings": 3845,
+  "DailyRatings": 44.28,
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2022-08-21T15:00:31.920719+00:00",
+  "LastChanged": "2022-08-21T17:30:51.0383795+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.3145859+00:00",
@@ -877,6 +877,11 @@
       "Time": "2022-08-21T15:00:31.9207191+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 3832
+    },
+    {
+      "Time": "2022-08-21T17:30:51.0383797+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 3845
     }
   ],
   "Tags": [
@@ -890,7 +895,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game is Highly Recommended",
