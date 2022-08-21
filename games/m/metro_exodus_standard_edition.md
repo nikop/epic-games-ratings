@@ -1,6 +1,6 @@
 # Metro Exodus Standard Edition
-Rating: 4.80 (5 664)  
-Ratings Per Day: 60.25  
+Rating: 4.80 (5 673)  
+Ratings Per Day: 61.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -34,4 +34,4 @@ Ratings Per Day: 60.25
 | 2022-08-18 | 4.80 | 5 529 |
 | 2022-08-19 | 4.80 | 5 578 |
 | 2022-08-20 | 4.80 | 5 641 |
-| 2022-08-21 | 4.80 | 5 664 |
+| 2022-08-21 | 4.80 | 5 673 |
