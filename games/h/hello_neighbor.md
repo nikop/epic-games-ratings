@@ -1,6 +1,6 @@
 # Hello Neighbor
-Rating: 4.56 (785)  
-Ratings Per Day: 8.47  
+Rating: 4.55 (787)  
+Ratings Per Day: 8.02  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -34,3 +34,4 @@ Ratings Per Day: 8.47
 | 2022-08-18 | 4.56 | 767 |
 | 2022-08-19 | 4.56 | 777 |
 | 2022-08-20 | 4.56 | 785 |
+| 2022-08-21 | 4.55 | 787 |
