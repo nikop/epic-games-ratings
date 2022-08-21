@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 2054,
-  "DailyRatings": 20.05,
+  "NumberOfRatings": 2059,
+  "DailyRatings": 19.75,
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2022-08-21T07:30:19.9283444+00:00",
+  "LastChanged": "2022-08-21T16:00:21.0504505+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.1720532+00:00",
@@ -607,6 +607,11 @@
       "Time": "2022-08-21T07:30:19.9283446+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 2054
+    },
+    {
+      "Time": "2022-08-21T16:00:21.0504508+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 2059
     }
   ],
   "Tags": [
@@ -628,7 +633,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Quickly Understood Controls",
