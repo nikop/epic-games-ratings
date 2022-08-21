@@ -2,11 +2,11 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "Names": [],
-  "Rating": 4.7,
-  "NumberOfRatings": 133565,
-  "DailyRatings": 567.06,
+  "Rating": 4.69,
+  "NumberOfRatings": 133788,
+  "DailyRatings": 566.86,
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2022-08-21T05:00:27.7205774+00:00",
+  "LastChanged": "2022-08-21T14:30:22.949951+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:32.2549883+00:00",
@@ -1547,6 +1547,11 @@
       "Time": "2022-08-21T05:00:27.7205777+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 133565
+    },
+    {
+      "Time": "2022-08-21T14:30:22.9499511+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 133788
     }
   ],
   "Tags": [
@@ -1584,7 +1589,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 12675
+      "Count": 12777
     },
     {
       "Text": "This game has Unique Visuals",

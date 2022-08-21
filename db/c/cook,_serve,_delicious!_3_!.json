@@ -3,11 +3,11 @@
   "Name": "Cook, Serve, Delicious! 3?!",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 1176,
-  "DailyRatings": 122.02,
+  "NumberOfRatings": 1181,
+  "DailyRatings": 122.01,
   "FirstSeen": "2022-08-11T18:01:43.0387462+00:00",
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
-  "LastChanged": "2022-08-21T13:31:12.8031921+00:00",
+  "LastChanged": "2022-08-21T14:31:13.6361412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T08:02:43.200719+00:00",
@@ -183,6 +183,11 @@
       "Time": "2022-08-21T13:31:12.8031923+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 1176
+    },
+    {
+      "Time": "2022-08-21T14:31:13.6361413+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 1181
     }
   ],
   "Tags": []

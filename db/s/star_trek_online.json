@@ -3,10 +3,10 @@
   "Name": "Star Trek Online",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 462,
-  "DailyRatings": 3.28,
+  "NumberOfRatings": 463,
+  "DailyRatings": 3.36,
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2022-08-21T11:00:23.5056752+00:00",
+  "LastChanged": "2022-08-21T14:30:20.1706135+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:13.4550296+00:00",
@@ -362,12 +362,17 @@
       "Time": "2022-08-21T11:00:23.5056755+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 462
+    },
+    {
+      "Time": "2022-08-21T14:30:20.1706138+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 463
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 259
+      "Count": 260
     },
     {
       "Text": "This game has Quickly Understood Controls",
