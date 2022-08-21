@@ -1,6 +1,6 @@
 # The Wolf Among Us
-Rating: 4.83 (388)  
-Ratings Per Day: 3.49  
+Rating: 4.83 (391)  
+Ratings Per Day: 3.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 3.49
 | 2022-08-18 | 4.83 | 383 |
 | 2022-08-19 | 4.83 | 387 |
 | 2022-08-20 | 4.83 | 388 |
+| 2022-08-21 | 4.83 | 391 |

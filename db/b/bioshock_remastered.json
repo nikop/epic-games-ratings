@@ -3,10 +3,10 @@
   "Name": "BioShock Remastered",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 20968,
-  "DailyRatings": 104.28,
+  "NumberOfRatings": 20980,
+  "DailyRatings": 104.02,
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2022-08-21T06:02:20.9733121+00:00",
+  "LastChanged": "2022-08-21T09:02:21.0656963+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:07.4798795+00:00",
@@ -917,6 +917,11 @@
       "Time": "2022-08-21T06:02:20.9733122+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 20968
+    },
+    {
+      "Time": "2022-08-21T09:02:21.0656964+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 20980
     }
   ],
   "Tags": [
@@ -938,7 +943,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game is Great for Beginners",

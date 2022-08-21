@@ -1,6 +1,6 @@
 # Satisfactory
-Rating: 4.88 (23 932)  
-Ratings Per Day: 165.37  
+Rating: 4.88 (23 953)  
+Ratings Per Day: 161.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -34,4 +34,4 @@ Ratings Per Day: 165.37
 | 2022-08-18 | 4.88 | 23 546 |
 | 2022-08-19 | 4.88 | 23 727 |
 | 2022-08-20 | 4.88 | 23 907 |
-| 2022-08-21 | 4.88 | 23 932 |
+| 2022-08-21 | 4.88 | 23 953 |

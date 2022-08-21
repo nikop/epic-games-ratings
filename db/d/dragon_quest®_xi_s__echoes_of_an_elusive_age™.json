@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.83,
   "NumberOfRatings": 245,
-  "DailyRatings": 2.76,
+  "DailyRatings": 2.88,
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
   "LastChanged": "2022-08-21T06:00:42.5498897+00:00",
   "RatingHistory": [
@@ -222,7 +222,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 100
+      "Count": 104
     }
   ]
 }
