@@ -1,6 +1,6 @@
 # Hue
 Rating: 4.54 (327)  
-Ratings Per Day: 3.69  
+Ratings Per Day: 3.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
