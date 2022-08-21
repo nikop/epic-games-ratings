@@ -2,11 +2,11 @@
   "ID": "amaranth",
   "Name": "Ancestors: The Humankind Odyssey",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 339,
-  "DailyRatings": 4.85,
+  "Rating": 4.62,
+  "NumberOfRatings": 340,
+  "DailyRatings": 4.91,
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2022-08-21T11:30:54.8851428+00:00",
+  "LastChanged": "2022-08-21T15:00:56.725654+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:27.1808232+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-08-21T11:30:54.8851431+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 339
+    },
+    {
+      "Time": "2022-08-21T15:00:56.7256541+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 340
     }
   ],
   "Tags": []

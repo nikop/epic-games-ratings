@@ -1,6 +1,6 @@
 # World of Goo
-Rating: 4.61 (31)  
-Ratings Per Day: 0.25  
+Rating: 4.63 (32)  
+Ratings Per Day: 0.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.25
 | 2022-08-13 | 4.66 | 29 |
 | 2022-08-16 | 4.67 | 30 |
 | 2022-08-20 | 4.61 | 31 |
+| 2022-08-21 | 4.63 | 32 |

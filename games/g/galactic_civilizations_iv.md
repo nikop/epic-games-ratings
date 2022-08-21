@@ -1,6 +1,6 @@
 # Galactic Civilizations IV
 Rating: 4.25 (361)  
-Ratings Per Day: 2.07  
+Ratings Per Day: 2.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
