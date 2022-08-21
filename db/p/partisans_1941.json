@@ -3,10 +3,10 @@
   "Name": "Partisans 1941",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 77,
-  "DailyRatings": 2.06,
+  "NumberOfRatings": 80,
+  "DailyRatings": 2.19,
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
-  "LastChanged": "2022-08-20T18:31:28.3858218+00:00",
+  "LastChanged": "2022-08-21T18:32:14.4036735+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:38.7033824+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-20T18:31:28.3858219+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 77
+    },
+    {
+      "Time": "2022-08-21T18:32:14.4036736+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 80
     }
   ],
   "Tags": []
