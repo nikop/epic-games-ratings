@@ -1,6 +1,6 @@
 # Rebel Galaxy
 Rating: 4.39 (580)  
-Ratings Per Day: 6.52  
+Ratings Per Day: 6.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
