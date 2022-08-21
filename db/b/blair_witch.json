@@ -3,10 +3,10 @@
   "Name": "Blair Witch",
   "Names": [],
   "Rating": 4.21,
-  "NumberOfRatings": 463,
-  "DailyRatings": 6.78,
+  "NumberOfRatings": 468,
+  "DailyRatings": 6.5,
   "FirstSeen": "2022-07-22T20:28:46.0898805+00:00",
-  "LastChanged": "2022-08-20T01:01:48.9284784+00:00",
+  "LastChanged": "2022-08-21T01:01:50.5829101+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:46.0898808+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-08-20T01:01:48.9284785+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 463
+    },
+    {
+      "Time": "2022-08-21T01:01:50.5829102+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 468
     }
   ],
   "Tags": []
