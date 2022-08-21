@@ -3,10 +3,10 @@
   "Name": "Blasphemous",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 173,
-  "DailyRatings": 1.16,
+  "NumberOfRatings": 174,
+  "DailyRatings": 1.19,
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2022-08-21T04:30:46.3114089+00:00",
+  "LastChanged": "2022-08-21T21:00:43.6610515+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:14.5456168+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-08-21T04:30:46.311409+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 173
+    },
+    {
+      "Time": "2022-08-21T21:00:43.6610516+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 174
     }
   ],
   "Tags": [
