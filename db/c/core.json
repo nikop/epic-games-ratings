@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.38,
   "NumberOfRatings": 1173,
-  "DailyRatings": 7.88,
+  "DailyRatings": 7.75,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
   "LastChanged": "2022-08-21T03:31:13.6171304+00:00",
   "RatingHistory": [
@@ -711,7 +711,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 39
+      "Count": 40
     }
   ]
 }
