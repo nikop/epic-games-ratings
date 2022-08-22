@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 9574,
-  "DailyRatings": 67.57,
+  "NumberOfRatings": 9601,
+  "DailyRatings": 67.4,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2022-08-21T15:30:54.9778482+00:00",
+  "LastChanged": "2022-08-22T01:30:52.2671891+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -1457,6 +1457,11 @@
       "Time": "2022-08-21T15:30:54.9778483+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 9574
+    },
+    {
+      "Time": "2022-08-22T01:30:52.2671892+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 9601
     }
   ],
   "Tags": [
@@ -1478,7 +1483,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 246
+      "Count": 251
     },
     {
       "Text": "This game is Relaxing",
