@@ -3,10 +3,10 @@
   "Name": "ABZU",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 106,
-  "DailyRatings": 1.33,
+  "NumberOfRatings": 107,
+  "DailyRatings": 1.29,
   "FirstSeen": "2022-07-22T20:29:47.8662447+00:00",
-  "LastChanged": "2022-08-21T12:31:54.4863094+00:00",
+  "LastChanged": "2022-08-22T12:31:56.6447081+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:47.8662449+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-08-21T12:31:54.4863096+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 106
+    },
+    {
+      "Time": "2022-08-22T12:31:56.6447083+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 107
     }
   ],
   "Tags": []
