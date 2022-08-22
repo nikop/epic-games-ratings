@@ -1,6 +1,6 @@
 # Minit
 Rating: 4.49 (83)  
-Ratings Per Day: 0.86  
+Ratings Per Day: 0.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
