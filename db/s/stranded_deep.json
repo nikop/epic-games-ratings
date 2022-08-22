@@ -3,10 +3,10 @@
   "Name": "Stranded Deep",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 2466,
-  "DailyRatings": 36.22,
+  "NumberOfRatings": 2468,
+  "DailyRatings": 36.08,
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2022-08-22T00:02:17.1064535+00:00",
+  "LastChanged": "2022-08-22T02:02:00.3155145+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:37.8027765+00:00",
@@ -882,6 +882,11 @@
       "Time": "2022-08-22T00:02:17.1064536+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 2466
+    },
+    {
+      "Time": "2022-08-22T02:02:00.3155149+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 2468
     }
   ],
   "Tags": [
@@ -899,7 +904,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 74
+      "Count": 77
     },
     {
       "Text": "This game is Highly Recommended",
