@@ -1,6 +1,6 @@
 # NARAKA: BLADEPOINT
 Rating: 4.21 (112 803)  
-Ratings Per Day: 705.16  
+Ratings Per Day: 706.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
