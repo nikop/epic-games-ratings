@@ -3,10 +3,10 @@
   "Name": "Offworld Trading Company",
   "Names": [],
   "Rating": 4.34,
-  "NumberOfRatings": 329,
-  "DailyRatings": 4.11,
+  "NumberOfRatings": 330,
+  "DailyRatings": 4.21,
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2022-08-22T08:30:44.2411068+00:00",
+  "LastChanged": "2022-08-22T10:31:21.584344+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-08-22T08:30:44.241107+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 329
+    },
+    {
+      "Time": "2022-08-22T10:31:21.5843442+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 330
     }
   ],
   "Tags": [
