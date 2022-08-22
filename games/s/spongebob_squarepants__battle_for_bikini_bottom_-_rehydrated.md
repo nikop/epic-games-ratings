@@ -1,6 +1,6 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 Rating: 4.71 (68)  
-Ratings Per Day: 1.09  
+Ratings Per Day: 3.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
