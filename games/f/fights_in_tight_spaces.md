@@ -1,6 +1,6 @@
 # Fights in Tight Spaces
 Rating: 4.58 (33)  
-Ratings Per Day: 0.81  
+Ratings Per Day: 2.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
