@@ -2,12 +2,12 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 26,
-  "DailyRatings": 1.29,
+  "Rating": 4.52,
+  "NumberOfRatings": 27,
+  "DailyRatings": 1.23,
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
-  "LastChanged": "2022-08-21T14:32:03.5114091+00:00",
+  "LastChanged": "2022-08-22T14:32:07.8968297+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-17T17:32:36.2989753+00:00",
@@ -28,6 +28,11 @@
       "Time": "2022-08-21T14:32:03.5114092+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-08-22T14:32:07.8968299+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 27
     }
   ],
   "Tags": []

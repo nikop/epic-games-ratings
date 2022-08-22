@@ -3,10 +3,10 @@
   "Name": "Terraforming Mars",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 2321,
-  "DailyRatings": 14.62,
+  "NumberOfRatings": 2322,
+  "DailyRatings": 14.41,
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
-  "LastChanged": "2022-08-22T10:32:34.9784651+00:00",
+  "LastChanged": "2022-08-22T14:32:01.0035617+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:50.3990272+00:00",
@@ -912,6 +912,11 @@
       "Time": "2022-08-22T10:32:34.9784653+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 2321
+    },
+    {
+      "Time": "2022-08-22T14:32:01.0035618+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 2322
     }
   ],
   "Tags": [
