@@ -3,11 +3,11 @@
   "Name": "Rumbleverse\u2122",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 26232,
-  "DailyRatings": 2960.79,
+  "NumberOfRatings": 26327,
+  "DailyRatings": 2956.72,
   "FirstSeen": "2022-08-11T14:30:37.6010339+00:00",
   "FirstSeenRating": "2022-08-12T04:30:28.6505316+00:00",
-  "LastChanged": "2022-08-22T07:30:48.5704971+00:00",
+  "LastChanged": "2022-08-22T08:30:28.473691+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T04:30:28.6505321+00:00",
@@ -533,6 +533,11 @@
       "Time": "2022-08-22T07:30:48.5704974+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 26232
+    },
+    {
+      "Time": "2022-08-22T08:30:28.4736913+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 26327
     }
   ],
   "Tags": [
@@ -550,7 +555,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 176
+      "Count": 225
     },
     {
       "Text": "This game has Competitive Players",
