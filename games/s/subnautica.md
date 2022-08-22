@@ -1,6 +1,6 @@
 # Subnautica
 Rating: 4.83 (5 982)  
-Ratings Per Day: 64.34  
+Ratings Per Day: 63.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

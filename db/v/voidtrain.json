@@ -3,10 +3,10 @@
   "Name": "Voidtrain",
   "Names": [],
   "Rating": 4.47,
-  "NumberOfRatings": 984,
-  "DailyRatings": 8.15,
+  "NumberOfRatings": 988,
+  "DailyRatings": 8.14,
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2022-08-22T07:01:26.4614921+00:00",
+  "LastChanged": "2022-08-22T19:02:14.610928+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:41.7165358+00:00",
@@ -322,6 +322,11 @@
       "Time": "2022-08-22T07:01:26.4614923+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 984
+    },
+    {
+      "Time": "2022-08-22T19:02:14.6109281+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 988
     }
   ],
   "Tags": []
