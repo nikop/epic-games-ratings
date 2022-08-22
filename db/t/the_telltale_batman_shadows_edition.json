@@ -3,10 +3,10 @@
   "Name": "The Telltale Batman Shadows Edition",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 113,
-  "DailyRatings": 1.11,
+  "NumberOfRatings": 114,
+  "DailyRatings": 1.15,
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
-  "LastChanged": "2022-08-21T23:31:13.311291+00:00",
+  "LastChanged": "2022-08-22T15:31:46.7110599+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:13.2126103+00:00",
@@ -142,12 +142,17 @@
       "Time": "2022-08-21T23:31:13.3112912+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 113
+    },
+    {
+      "Time": "2022-08-22T15:31:46.7110601+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 114
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
