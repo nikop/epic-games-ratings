@@ -3,10 +3,10 @@
   "Name": "Horizon Chase Turbo",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 1012,
-  "DailyRatings": 11.55,
+  "NumberOfRatings": 1014,
+  "DailyRatings": 10.98,
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2022-08-22T09:30:40.6958973+00:00",
+  "LastChanged": "2022-08-22T18:00:43.8535923+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -527,12 +527,17 @@
       "Time": "2022-08-22T09:30:40.6958976+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 1012
+    },
+    {
+      "Time": "2022-08-22T18:00:43.8535924+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 1014
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 39
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",
