@@ -3,10 +3,10 @@
   "Name": "Slime Rancher",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 4011,
-  "DailyRatings": 45.06,
+  "NumberOfRatings": 4014,
+  "DailyRatings": 44.42,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-08-22T16:02:15.8684081+00:00",
+  "LastChanged": "2022-08-22T20:01:52.4268432+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -1062,6 +1062,11 @@
       "Time": "2022-08-22T16:02:15.8684082+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 4011
+    },
+    {
+      "Time": "2022-08-22T20:01:52.4268433+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 4014
     }
   ],
   "Tags": [
@@ -1103,7 +1108,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has a Kind Community",
