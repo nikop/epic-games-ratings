@@ -1,6 +1,6 @@
 # Riverbond
 Rating: 4.50 (516)  
-Ratings Per Day: 4.16  
+Ratings Per Day: 4.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

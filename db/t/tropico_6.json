@@ -3,10 +3,10 @@
   "Name": "Tropico 6",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 302,
-  "DailyRatings": 3.23,
+  "NumberOfRatings": 303,
+  "DailyRatings": 3.19,
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
-  "LastChanged": "2022-08-21T20:00:38.487633+00:00",
+  "LastChanged": "2022-08-22T05:00:19.4771829+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:21.1290303+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-08-21T20:00:38.4876333+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 302
+    },
+    {
+      "Time": "2022-08-22T05:00:19.4771832+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 303
     }
   ],
   "Tags": [
@@ -333,7 +338,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 24
+      "Count": 25
     }
   ]
 }
