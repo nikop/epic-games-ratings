@@ -1,6 +1,6 @@
 # Total War: WARHAMMER II
 Rating: 4.82 (976)  
-Ratings Per Day: 4.26  
+Ratings Per Day: 4.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
