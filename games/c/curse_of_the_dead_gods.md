@@ -1,6 +1,6 @@
 # Curse of the Dead Gods
 Rating: 4.58 (104)  
-Ratings Per Day: 0.76  
+Ratings Per Day: 0.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
