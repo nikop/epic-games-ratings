@@ -1,12 +1,9 @@
 {
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "RatingHistory": [],
   "Tags": []
 }

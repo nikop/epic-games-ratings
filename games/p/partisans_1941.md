@@ -1,6 +1,6 @@
 # Partisans 1941
-Rating: 4.61 (80)  
-Ratings Per Day: 2.40  
+Rating: 4.61 (82)  
+Ratings Per Day: 2.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,3 +20,4 @@ Ratings Per Day: 2.40
 | 2022-08-19 | 4.60 | 75 |
 | 2022-08-20 | 4.61 | 77 |
 | 2022-08-21 | 4.61 | 80 |
+| 2022-08-22 | 4.61 | 82 |

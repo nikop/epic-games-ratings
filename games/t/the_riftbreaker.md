@@ -1,6 +1,6 @@
 # The Riftbreaker
-Rating: 4.72 (232)  
-Ratings Per Day: 1.18  
+Rating: 4.72 (233)  
+Ratings Per Day: 1.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Ratings Per Day: 1.18
 | 2022-08-17 | 4.71 | 226 |
 | 2022-08-19 | 4.71 | 227 |
 | 2022-08-21 | 4.72 | 232 |
+| 2022-08-22 | 4.72 | 233 |
