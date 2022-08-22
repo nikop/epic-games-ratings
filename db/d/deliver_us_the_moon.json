@@ -2,17 +2,22 @@
   "ID": "34f5834b0c404ed09b54af0b5f976c5d",
   "Name": "Deliver Us The Moon",
   "Names": [],
-  "Rating": 4.45,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.48,
+  "NumberOfRatings": 21,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:26:05.1274339+00:00",
   "FirstSeenRating": "2022-08-21T07:01:44.7037763+00:00",
-  "LastChanged": "2022-08-21T07:01:44.7037764+00:00",
+  "LastChanged": "2022-08-22T07:01:29.6665179+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T07:01:44.7037765+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-08-22T07:01:29.6665184+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []

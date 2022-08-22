@@ -1,6 +1,6 @@
 # Just Die Already
 Rating: 4.52 (1 890)  
-Ratings Per Day: 13.76  
+Ratings Per Day: 13.58  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
