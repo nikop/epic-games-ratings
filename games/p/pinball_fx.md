@@ -1,6 +1,6 @@
 # Pinball FX
 Rating: 3.97 (599)  
-Ratings Per Day: 5.76  
+Ratings Per Day: 5.85  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

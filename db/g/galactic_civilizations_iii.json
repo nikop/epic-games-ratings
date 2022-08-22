@@ -3,10 +3,10 @@
   "Name": "Galactic Civilizations III",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 845,
-  "DailyRatings": 9.1,
+  "NumberOfRatings": 848,
+  "DailyRatings": 8.9,
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2022-08-22T02:30:23.1830336+00:00",
+  "LastChanged": "2022-08-22T14:01:35.1909386+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.7061186+00:00",
@@ -582,6 +582,11 @@
       "Time": "2022-08-22T02:30:23.1830337+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 845
+    },
+    {
+      "Time": "2022-08-22T14:01:35.1909389+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 848
     }
   ],
   "Tags": [
@@ -599,7 +604,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Highly Recommended",
