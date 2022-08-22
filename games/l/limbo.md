@@ -1,6 +1,6 @@
 # Limbo
-Rating: 4.63 (158)  
-Ratings Per Day: 1.20  
+Rating: 4.62 (159)  
+Ratings Per Day: 1.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,3 +27,4 @@ Ratings Per Day: 1.20
 | 2022-08-18 | 4.63 | 155 |
 | 2022-08-19 | 4.63 | 156 |
 | 2022-08-20 | 4.63 | 158 |
+| 2022-08-22 | 4.62 | 159 |

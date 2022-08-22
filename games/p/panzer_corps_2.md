@@ -1,6 +1,6 @@
 # Panzer Corps 2
 Rating: 4.56 (32)  
-Ratings Per Day: 0.67  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
