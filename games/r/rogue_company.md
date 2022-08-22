@@ -1,6 +1,6 @@
 # Rogue Company
-Rating: 4.36 (17 255)  
-Ratings Per Day: 145.43  
+Rating: 4.36 (17 260)  
+Ratings Per Day: 145.88  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -35,4 +35,4 @@ Ratings Per Day: 145.43
 | 2022-08-19 | 4.36 | 16 938 |
 | 2022-08-20 | 4.36 | 17 072 |
 | 2022-08-21 | 4.36 | 17 189 |
-| 2022-08-22 | 4.36 | 17 255 |
+| 2022-08-22 | 4.36 | 17 260 |

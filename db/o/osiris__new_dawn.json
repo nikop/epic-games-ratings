@@ -2,11 +2,11 @@
   "ID": "09549be3e1f44e449841a8fad7950138",
   "Name": "Osiris: New Dawn",
   "Names": [],
-  "Rating": 3.77,
-  "NumberOfRatings": 88,
-  "DailyRatings": 1.03,
+  "Rating": 3.76,
+  "NumberOfRatings": 89,
+  "DailyRatings": 0.95,
   "FirstSeen": "2022-07-22T20:30:53.5869447+00:00",
-  "LastChanged": "2022-08-21T07:02:20.25571+00:00",
+  "LastChanged": "2022-08-22T16:32:09.1459214+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:53.586945+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-08-21T07:02:20.2557101+00:00",
       "Rating": 3.77,
       "NumberOfRatings": 88
+    },
+    {
+      "Time": "2022-08-22T16:32:09.1459215+00:00",
+      "Rating": 3.76,
+      "NumberOfRatings": 89
     }
   ],
   "Tags": []

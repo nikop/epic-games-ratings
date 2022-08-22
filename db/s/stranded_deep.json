@@ -3,10 +3,10 @@
   "Name": "Stranded Deep",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 2476,
-  "DailyRatings": 36.59,
+  "NumberOfRatings": 2479,
+  "DailyRatings": 36.04,
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2022-08-22T12:02:50.9263921+00:00",
+  "LastChanged": "2022-08-22T16:32:07.1754166+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:37.8027765+00:00",
@@ -897,6 +897,11 @@
       "Time": "2022-08-22T12:02:50.9263922+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 2476
+    },
+    {
+      "Time": "2022-08-22T16:32:07.1754168+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 2479
     }
   ],
   "Tags": [
