@@ -3,10 +3,10 @@
   "Name": "Martha Is Dead",
   "Names": [],
   "Rating": 4.19,
-  "NumberOfRatings": 31,
-  "DailyRatings": 0,
+  "NumberOfRatings": 32,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:18:17.5021839+00:00",
-  "LastChanged": "2022-08-20T05:30:31.9380696+00:00",
+  "LastChanged": "2022-08-22T05:30:35.4657768+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.5021842+00:00",
@@ -42,6 +42,11 @@
       "Time": "2022-08-20T05:30:31.9380697+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 31
+    },
+    {
+      "Time": "2022-08-22T05:30:35.4657772+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 32
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Martha Is Dead
-Rating: 4.19 (31)  
-Ratings Per Day: 0.00  
+Rating: 4.19 (32)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.00
 | 2022-08-05 | 4.24 | 29 |
 | 2022-08-12 | 4.20 | 30 |
 | 2022-08-20 | 4.19 | 31 |
+| 2022-08-22 | 4.19 | 32 |

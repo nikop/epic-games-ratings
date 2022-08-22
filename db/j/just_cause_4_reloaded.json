@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.29,
   "NumberOfRatings": 4020,
-  "DailyRatings": 38.11,
+  "DailyRatings": 37.81,
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
   "LastChanged": "2022-08-22T04:30:36.7577122+00:00",
   "RatingHistory": [
@@ -1227,7 +1227,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1584
+      "Count": 1592
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1259,7 +1259,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 115
+      "Count": 117
     }
   ]
 }

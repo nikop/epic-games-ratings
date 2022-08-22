@@ -1,6 +1,6 @@
 # Slipways
-Rating: 4.63 (27)  
-Ratings Per Day: 0.67  
+Rating: 4.67 (30)  
+Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.67
 | 2022-08-16 | 4.60 | 25 |
 | 2022-08-17 | 4.62 | 26 |
 | 2022-08-19 | 4.63 | 27 |
+| 2022-08-22 | 4.67 | 30 |
