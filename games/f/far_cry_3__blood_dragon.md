@@ -1,6 +1,6 @@
 # Far Cry 3: Blood Dragon
-Rating: 4.61 (41)  
-Ratings Per Day: 0.50  
+Rating: 4.60 (42)  
+Ratings Per Day: 0.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,3 +19,4 @@ Ratings Per Day: 0.50
 | 2022-08-16 | 4.62 | 39 |
 | 2022-08-18 | 4.60 | 40 |
 | 2022-08-20 | 4.61 | 41 |
+| 2022-08-22 | 4.60 | 42 |
