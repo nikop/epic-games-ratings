@@ -1,6 +1,6 @@
 # Far Cry 5 Standard Edition
-Rating: 4.62 (1 416)  
-Ratings Per Day: 10.86  
+Rating: 4.62 (1 417)  
+Ratings Per Day: 10.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -36,4 +36,4 @@ Ratings Per Day: 10.86
 | 2022-08-20 | 4.62 | 1 379 |
 | 2022-08-21 | 4.61 | 1 384 |
 | 2022-08-22 | 4.62 | 1 402 |
-| 2022-08-23 | 4.62 | 1 416 |
+| 2022-08-23 | 4.62 | 1 417 |

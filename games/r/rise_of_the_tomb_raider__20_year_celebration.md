@@ -1,6 +1,6 @@
 # Rise of the Tomb Raider: 20 Year Celebration
-Rating: 4.69 (20 427)  
-Ratings Per Day: 216.93  
+Rating: 4.69 (20 446)  
+Ratings Per Day: 217.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -36,4 +36,4 @@ Ratings Per Day: 216.93
 | 2022-08-20 | 4.69 | 19 778 |
 | 2022-08-21 | 4.69 | 20 014 |
 | 2022-08-22 | 4.69 | 20 248 |
-| 2022-08-23 | 4.69 | 20 427 |
+| 2022-08-23 | 4.69 | 20 446 |
