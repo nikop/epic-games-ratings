@@ -3,10 +3,10 @@
   "Name": "Torchlight II",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 1703,
-  "DailyRatings": 18.64,
+  "NumberOfRatings": 1711,
+  "DailyRatings": 18.85,
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-08-23T02:02:09.8550288+00:00",
+  "LastChanged": "2022-08-23T10:32:04.3445331+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -622,6 +622,11 @@
       "Time": "2022-08-23T02:02:09.8550292+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 1703
+    },
+    {
+      "Time": "2022-08-23T10:32:04.3445333+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 1711
     }
   ],
   "Tags": [

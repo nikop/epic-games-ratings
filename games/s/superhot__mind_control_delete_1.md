@@ -1,6 +1,6 @@
 # SUPERHOT: Mind Control Delete
 Rating: 4.50 (22)  
-Ratings Per Day: 0.20  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

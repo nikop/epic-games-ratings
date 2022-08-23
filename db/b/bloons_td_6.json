@@ -2,12 +2,12 @@
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
   "Names": [],
-  "Rating": 4.54,
-  "NumberOfRatings": 24,
-  "DailyRatings": 3.2,
+  "Rating": 4.56,
+  "NumberOfRatings": 25,
+  "DailyRatings": 3.04,
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2022-08-23T01:00:20.4415416+00:00",
+  "LastChanged": "2022-08-23T10:30:23.9579498+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T19:00:52.0889936+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-08-23T01:00:20.4415421+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-08-23T10:30:23.9579502+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 25
     }
   ],
   "Tags": []
