@@ -3,10 +3,10 @@
   "Name": "Iratus: Lord of the Dead",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 9529,
-  "DailyRatings": 26.13,
+  "NumberOfRatings": 9532,
+  "DailyRatings": 26.09,
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
-  "LastChanged": "2022-08-22T22:31:07.8142883+00:00",
+  "LastChanged": "2022-08-23T01:30:41.6988335+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:38.7739807+00:00",
@@ -1087,6 +1087,11 @@
       "Time": "2022-08-22T22:31:07.8142886+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 9529
+    },
+    {
+      "Time": "2022-08-23T01:30:41.6988338+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 9532
     }
   ],
   "Tags": [
