@@ -3,10 +3,10 @@
   "Name": "Pillars of Eternity - Definitive Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 2191,
-  "DailyRatings": 17.04,
+  "NumberOfRatings": 2195,
+  "DailyRatings": 16.74,
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
-  "LastChanged": "2022-08-23T09:31:55.3583591+00:00",
+  "LastChanged": "2022-08-23T16:02:36.7911023+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:19.0250265+00:00",
@@ -1062,6 +1062,11 @@
       "Time": "2022-08-23T09:31:55.3583593+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 2191
+    },
+    {
+      "Time": "2022-08-23T16:02:36.7911025+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 2195
     }
   ],
   "Tags": [
