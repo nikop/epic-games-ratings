@@ -2,12 +2,12 @@
   "ID": "argyle",
   "Name": "Trials Rising Standard Edition",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 62,
-  "DailyRatings": 1.18,
+  "Rating": 4.62,
+  "NumberOfRatings": 63,
+  "DailyRatings": 0.79,
   "FirstSeen": "2022-07-22T20:21:00.7497016+00:00",
   "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
-  "LastChanged": "2022-08-21T05:00:54.8372323+00:00",
+  "LastChanged": "2022-08-23T17:01:26.0583006+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-06T00:01:51.7192822+00:00",
@@ -98,6 +98,11 @@
       "Time": "2022-08-21T05:00:54.8372325+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-08-23T17:01:26.0583007+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 63
     }
   ],
   "Tags": []
