@@ -1,6 +1,6 @@
 # Bridge Constructor The Walking Dead
 Rating: 3.95 (83)  
-Ratings Per Day: 0.59  
+Ratings Per Day: 0.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

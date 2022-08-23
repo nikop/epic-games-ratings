@@ -1,6 +1,6 @@
 # OCTOPATH TRAVELER™
-Rating: 4.82 (129)  
-Ratings Per Day: 0.84  
+Rating: 4.82 (130)  
+Ratings Per Day: 0.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Ratings Per Day: 0.84
 | 2022-08-17 | 4.82 | 125 |
 | 2022-08-20 | 4.82 | 128 |
 | 2022-08-22 | 4.82 | 129 |
+| 2022-08-23 | 4.82 | 130 |
