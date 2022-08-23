@@ -1,6 +1,6 @@
 # Frostpunk
 Rating: 4.72 (8 420)  
-Ratings Per Day: 93.55  
+Ratings Per Day: 94.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
