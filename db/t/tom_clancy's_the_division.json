@@ -2,11 +2,11 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "Names": [],
-  "Rating": 4.53,
-  "NumberOfRatings": 190,
-  "DailyRatings": 0.93,
+  "Rating": 4.52,
+  "NumberOfRatings": 192,
+  "DailyRatings": 1.11,
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2022-08-22T23:30:29.3929854+00:00",
+  "LastChanged": "2022-08-23T21:01:11.8434913+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-08-22T23:30:29.3929858+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 190
+    },
+    {
+      "Time": "2022-08-23T21:01:11.8434916+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 192
     }
   ],
   "Tags": [
@@ -181,7 +186,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 47
+      "Count": 48
     }
   ]
 }
