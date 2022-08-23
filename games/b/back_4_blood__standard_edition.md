@@ -1,6 +1,6 @@
 # Back 4 Blood: Standard Edition
 Rating: 4.47 (2 126)  
-Ratings Per Day: 10.71  
+Ratings Per Day: 10.76  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

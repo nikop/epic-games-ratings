@@ -1,6 +1,6 @@
 # Trials Evolution: Gold Edition
 Rating: 4.54 (24)  
-Ratings Per Day: 0.45  
+Ratings Per Day: 0.74  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
