@@ -1,6 +1,6 @@
 # Divine Knockout
-Rating: 4.76 (45)  
-Ratings Per Day: 2.61  
+Rating: 4.73 (48)  
+Ratings Per Day: 2.74  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 2.61
 | 2022-08-20 | 4.74 | 43 |
 | 2022-08-21 | 4.75 | 44 |
 | 2022-08-22 | 4.76 | 45 |
+| 2022-08-23 | 4.73 | 48 |

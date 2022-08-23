@@ -1,6 +1,6 @@
 # Ironcast
 Rating: 3.90 (186)  
-Ratings Per Day: 1.46  
+Ratings Per Day: 1.35  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # The Escapists
 Rating: 4.46 (438)  
-Ratings Per Day: 4.27  
+Ratings Per Day: 4.13  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
