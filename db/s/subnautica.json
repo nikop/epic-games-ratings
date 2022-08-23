@@ -3,10 +3,10 @@
   "Name": "Subnautica",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 6029,
-  "DailyRatings": 63.17,
+  "NumberOfRatings": 6038,
+  "DailyRatings": 63.14,
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2022-08-23T11:02:09.1730671+00:00",
+  "LastChanged": "2022-08-23T14:32:22.5622345+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.864115+00:00",
@@ -1317,6 +1317,11 @@
       "Time": "2022-08-23T11:02:09.1730675+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 6029
+    },
+    {
+      "Time": "2022-08-23T14:32:22.5622346+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 6038
     }
   ],
   "Tags": [

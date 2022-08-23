@@ -1,6 +1,6 @@
 # Diabotical
 Rating: 4.80 (444)  
-Ratings Per Day: 2.58  
+Ratings Per Day: 2.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

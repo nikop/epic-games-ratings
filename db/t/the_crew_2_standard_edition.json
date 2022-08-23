@@ -3,10 +3,10 @@
   "Name": "The Crew 2 Standard Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 1586,
-  "DailyRatings": 19.59,
+  "NumberOfRatings": 1591,
+  "DailyRatings": 19.72,
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2022-08-23T09:31:34.3567172+00:00",
+  "LastChanged": "2022-08-23T14:31:42.6858642+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:02.2131055+00:00",
@@ -912,6 +912,11 @@
       "Time": "2022-08-23T09:31:34.3567174+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 1586
+    },
+    {
+      "Time": "2022-08-23T14:31:42.6858643+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 1591
     }
   ],
   "Tags": [

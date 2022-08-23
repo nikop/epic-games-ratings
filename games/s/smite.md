@@ -1,6 +1,6 @@
 # SMITE
-Rating: 4.47 (5 660)  
-Ratings Per Day: 29.83  
+Rating: 4.47 (5 681)  
+Ratings Per Day: 30.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -36,4 +36,4 @@ Ratings Per Day: 29.83
 | 2022-08-20 | 4.47 | 5 592 |
 | 2022-08-21 | 4.47 | 5 631 |
 | 2022-08-22 | 4.47 | 5 650 |
-| 2022-08-23 | 4.47 | 5 660 |
+| 2022-08-23 | 4.47 | 5 681 |
