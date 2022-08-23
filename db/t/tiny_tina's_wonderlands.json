@@ -3,10 +3,10 @@
   "Name": "Tiny Tina\u0027s Wonderlands",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 18331,
-  "DailyRatings": 121.07,
+  "NumberOfRatings": 18340,
+  "DailyRatings": 121.28,
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2022-08-23T18:31:31.5421154+00:00",
+  "LastChanged": "2022-08-23T20:01:20.5407074+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.2976404+00:00",
@@ -1697,6 +1697,11 @@
       "Time": "2022-08-23T18:31:31.5421155+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 18331
+    },
+    {
+      "Time": "2022-08-23T20:01:20.5407075+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 18340
     }
   ],
   "Tags": [
