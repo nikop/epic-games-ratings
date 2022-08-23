@@ -1,6 +1,6 @@
 # Unrailed!
-Rating: 4.64 (19 019)  
-Ratings Per Day: 373.29  
+Rating: 4.64 (19 053)  
+Ratings Per Day: 365.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 373.29
 | 2022-08-20 | 4.64 | 18 520 |
 | 2022-08-21 | 4.64 | 18 791 |
 | 2022-08-22 | 4.64 | 19 019 |
+| 2022-08-23 | 4.64 | 19 053 |
