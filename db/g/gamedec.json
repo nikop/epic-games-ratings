@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec",
   "Names": [],
-  "Rating": 4.38,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0,
+  "Rating": 4.35,
+  "NumberOfRatings": 20,
+  "DailyRatings": -46.7,
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
-  "LastChanged": "2022-08-23T07:00:46.3466205+00:00",
+  "LastChanged": "2022-08-23T07:31:36.4403082+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-13T10:30:34.4977327+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-08-23T07:00:46.3466206+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-08-23T07:31:36.440397+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 20
     }
   ],
   "Tags": []

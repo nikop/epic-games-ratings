@@ -1,12 +1,9 @@
 {
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "RatingHistory": [],
   "Tags": []
 }
