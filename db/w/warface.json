@@ -3,10 +3,10 @@
   "Name": "Warface",
   "Names": [],
   "Rating": 3.94,
-  "NumberOfRatings": 2307,
+  "NumberOfRatings": 2309,
   "DailyRatings": 24.22,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-08-23T18:32:56.6232242+00:00",
+  "LastChanged": "2022-08-23T20:32:41.812624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -1032,6 +1032,11 @@
       "Time": "2022-08-23T18:32:56.6232243+00:00",
       "Rating": 3.94,
       "NumberOfRatings": 2307
+    },
+    {
+      "Time": "2022-08-23T20:32:41.8126242+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": 2309
     }
   ],
   "Tags": [
@@ -1065,7 +1070,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game has a Competitive Community",

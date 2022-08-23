@@ -3,10 +3,10 @@
   "Name": "Verdun",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 1628,
-  "DailyRatings": 9.75,
+  "NumberOfRatings": 1630,
+  "DailyRatings": 9.87,
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
-  "LastChanged": "2022-08-23T17:32:35.873091+00:00",
+  "LastChanged": "2022-08-23T20:32:03.2595503+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:07.9846698+00:00",
@@ -627,6 +627,11 @@
       "Time": "2022-08-23T17:32:35.8730913+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 1628
+    },
+    {
+      "Time": "2022-08-23T20:32:03.2595526+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 1630
     }
   ],
   "Tags": [
@@ -668,7 +673,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",

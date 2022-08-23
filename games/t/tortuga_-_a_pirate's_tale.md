@@ -1,7 +1,6 @@
-# Saints Row
-Rating: 3.75 (876)  
-Ratings Per Day: 1801.04  
+# Tortuga - A Pirate's Tale
+Rating: - (-)  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-08-23 | 3.75 | 876 |
