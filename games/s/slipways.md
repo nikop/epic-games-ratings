@@ -1,6 +1,6 @@
 # Slipways
 Rating: 4.67 (30)  
-Ratings Per Day: 0.83  
+Ratings Per Day: 0.79  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,10 +3,10 @@
   "Name": "Core",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 1192,
-  "DailyRatings": 8.67,
+  "NumberOfRatings": 1193,
+  "DailyRatings": 8.74,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-08-23T03:31:26.4310488+00:00",
+  "LastChanged": "2022-08-23T05:01:29.7047999+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -707,6 +707,11 @@
       "Time": "2022-08-23T03:31:26.431049+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1192
+    },
+    {
+      "Time": "2022-08-23T05:01:29.7048+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 1193
     }
   ],
   "Tags": [
@@ -724,7 +729,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 45
+      "Count": 48
     },
     {
       "Text": "This game is Extremely Fun",
@@ -732,7 +737,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
