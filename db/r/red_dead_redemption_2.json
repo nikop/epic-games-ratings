@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.9,
   "NumberOfRatings": 80576,
-  "DailyRatings": 644.7,
+  "DailyRatings": 644.04,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
   "LastChanged": "2022-08-23T06:01:22.6584816+00:00",
   "RatingHistory": [
@@ -1931,7 +1931,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 2664
+      "Count": 2705
     },
     {
       "Text": "This game has Diverse Characters",

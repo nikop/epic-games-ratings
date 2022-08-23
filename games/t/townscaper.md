@@ -1,6 +1,6 @@
 # Townscaper
-Rating: 4.69 (32)  
-Ratings Per Day: 0.16  
+Rating: 4.71 (34)  
+Ratings Per Day: 0.47  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

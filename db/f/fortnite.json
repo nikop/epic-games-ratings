@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.31,
   "NumberOfRatings": 1902315,
-  "DailyRatings": 14935.68,
+  "DailyRatings": 14991.6,
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
   "LastChanged": "2022-08-23T06:00:27.3111133+00:00",
   "RatingHistory": [
@@ -1785,7 +1785,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 225157
+      "Count": 227206
     }
   ]
 }
