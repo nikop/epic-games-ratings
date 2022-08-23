@@ -2,11 +2,11 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "Names": [],
-  "Rating": 4.56,
-  "NumberOfRatings": 13455,
-  "DailyRatings": 112.89,
+  "Rating": 4.57,
+  "NumberOfRatings": 13467,
+  "DailyRatings": 111.57,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-08-22T20:31:01.540386+00:00",
+  "LastChanged": "2022-08-23T01:00:20.2007011+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -1652,6 +1652,11 @@
       "Time": "2022-08-22T20:31:01.5403862+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 13455
+    },
+    {
+      "Time": "2022-08-23T01:00:20.2007014+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 13467
     }
   ],
   "Tags": [
