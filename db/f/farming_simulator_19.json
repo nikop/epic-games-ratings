@@ -3,10 +3,10 @@
   "Name": "Farming Simulator 19",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 13517,
-  "DailyRatings": 130.52,
+  "NumberOfRatings": 13523,
+  "DailyRatings": 130.59,
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2022-08-23T10:31:04.4842728+00:00",
+  "LastChanged": "2022-08-23T11:31:28.0623839+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:56.7737017+00:00",
@@ -1432,6 +1432,11 @@
       "Time": "2022-08-23T10:31:04.4842729+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 13517
+    },
+    {
+      "Time": "2022-08-23T11:31:28.062384+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 13523
     }
   ],
   "Tags": [
@@ -1477,7 +1482,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 1451
+      "Count": 1472
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Trigon: Space Story
-Rating: 4.18 (33)  
-Ratings Per Day: 0.00  
+Rating: 4.21 (34)  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.00
 | 2022-08-03 | 4.26 | 31 |
 | 2022-08-14 | 4.16 | 32 |
 | 2022-08-20 | 4.18 | 33 |
+| 2022-08-23 | 4.21 | 34 |

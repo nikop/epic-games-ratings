@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 6437,
-  "DailyRatings": 56.26,
+  "NumberOfRatings": 6440,
+  "DailyRatings": 55.85,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-08-23T09:00:53.3077093+00:00",
+  "LastChanged": "2022-08-23T11:31:07.8099749+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -1397,6 +1397,11 @@
       "Time": "2022-08-23T09:00:53.3077096+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 6437
+    },
+    {
+      "Time": "2022-08-23T11:31:07.809975+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 6440
     }
   ],
   "Tags": [
@@ -1426,7 +1431,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 343
+      "Count": 347
     },
     {
       "Text": "This game has Amazing Characters",
