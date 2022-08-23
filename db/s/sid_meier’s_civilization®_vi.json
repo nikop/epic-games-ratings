@@ -3,10 +3,10 @@
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "Names": [],
   "Rating": 4.74,
-  "NumberOfRatings": 45995,
-  "DailyRatings": 411.45,
+  "NumberOfRatings": 46017,
+  "DailyRatings": 413.43,
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2022-08-23T16:01:30.9530403+00:00",
+  "LastChanged": "2022-08-23T16:30:23.8907534+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -1682,12 +1682,17 @@
       "Time": "2022-08-23T16:01:30.9530405+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 45995
+    },
+    {
+      "Time": "2022-08-23T16:30:23.8907536+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 46017
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 9553
+      "Count": 9676
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1703,7 +1708,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 8601
+      "Count": 8688
     },
     {
       "Text": "This game has Quickly Understood Controls",
