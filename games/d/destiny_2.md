@@ -1,7 +1,6 @@
-# Saints Row
-Rating: 3.73 (612)  
-Ratings Per Day: 1665.79  
+# Destiny 2
+Rating: - (-)  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-08-23 | 3.73 | 612 |

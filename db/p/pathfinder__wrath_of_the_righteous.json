@@ -3,10 +3,10 @@
   "Name": "Pathfinder: Wrath of the Righteous",
   "Names": [],
   "Rating": 4.76,
-  "NumberOfRatings": 1057,
-  "DailyRatings": 11.53,
+  "NumberOfRatings": 1058,
+  "DailyRatings": 11.03,
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
-  "LastChanged": "2022-08-23T08:30:41.07211+00:00",
+  "LastChanged": "2022-08-23T17:31:41.4323439+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:10.6085612+00:00",
@@ -767,6 +767,11 @@
       "Time": "2022-08-23T08:30:41.0721101+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 1057
+    },
+    {
+      "Time": "2022-08-23T17:31:41.4323441+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 1058
     }
   ],
   "Tags": [
