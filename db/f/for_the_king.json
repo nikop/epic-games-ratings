@@ -3,10 +3,10 @@
   "Name": "For The King",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 4298,
-  "DailyRatings": 40.59,
+  "NumberOfRatings": 4306,
+  "DailyRatings": 40.9,
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2022-08-23T16:02:36.1750857+00:00",
+  "LastChanged": "2022-08-23T19:31:34.3407506+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -1182,6 +1182,11 @@
       "Time": "2022-08-23T16:02:36.1750859+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 4298
+    },
+    {
+      "Time": "2022-08-23T19:31:34.3407507+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 4306
     }
   ],
   "Tags": [
@@ -1211,7 +1216,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game has Diverse Characters",

@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.78,
   "NumberOfRatings": 1408,
-  "DailyRatings": 14.29,
+  "DailyRatings": 14.27,
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
   "LastChanged": "2022-08-23T19:01:05.515656+00:00",
   "RatingHistory": [
@@ -552,7 +552,7 @@
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game is Great for Beginners",
@@ -588,7 +588,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 27
+      "Count": 29
     }
   ]
 }
