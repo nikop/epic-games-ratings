@@ -1,6 +1,6 @@
 # Townscaper
-Rating: 4.69 (32)  
-Ratings Per Day: 0.50  
+Rating: 4.71 (34)  
+Ratings Per Day: 0.47  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.50
 | 2022-08-14 | 4.67 | 30 |
 | 2022-08-16 | 4.68 | 31 |
 | 2022-08-18 | 4.69 | 32 |
+| 2022-08-23 | 4.71 | 34 |
