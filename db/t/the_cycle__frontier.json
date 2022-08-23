@@ -3,10 +3,10 @@
   "Name": "The Cycle: Frontier",
   "Names": [],
   "Rating": 4.13,
-  "NumberOfRatings": 14053,
-  "DailyRatings": 90.78,
+  "NumberOfRatings": 14069,
+  "DailyRatings": 88.39,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2022-08-23T05:30:39.4203425+00:00",
+  "LastChanged": "2022-08-23T13:00:40.8001344+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -1637,6 +1637,11 @@
       "Time": "2022-08-23T05:30:39.4203428+00:00",
       "Rating": 4.13,
       "NumberOfRatings": 14053
+    },
+    {
+      "Time": "2022-08-23T13:00:40.8001347+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": 14069
     }
   ],
   "Tags": [
