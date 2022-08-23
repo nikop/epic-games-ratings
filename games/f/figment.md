@@ -1,6 +1,6 @@
 # Figment
 Rating: 4.43 (83)  
-Ratings Per Day: 1.77  
+Ratings Per Day: 1.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
