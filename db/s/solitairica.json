@@ -3,10 +3,10 @@
   "Name": "Solitairica",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 385,
-  "DailyRatings": 2.7,
+  "NumberOfRatings": 386,
+  "DailyRatings": 2.81,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2022-08-24T21:01:29.9324225+00:00",
+  "LastChanged": "2022-08-24T23:30:53.6333973+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:54.478513+00:00",
@@ -352,6 +352,11 @@
       "Time": "2022-08-24T21:01:29.9324227+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 385
+    },
+    {
+      "Time": "2022-08-24T23:30:53.6333975+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 386
     }
   ],
   "Tags": [
@@ -373,7 +378,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Diverse Characters",
