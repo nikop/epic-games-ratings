@@ -1,12 +1,9 @@
 {
   "ID": "dfb15b4fd0834720a774605c028fcefa",
   "Name": "NERO",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-08-24T07:02:08.0773665+00:00",
   "RatingHistory": [],
   "Tags": []
 }
