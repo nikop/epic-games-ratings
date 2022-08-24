@@ -1,6 +1,6 @@
 # Dying Light 2 Stay Human
-Rating: 4.60 (5 857)  
-Ratings Per Day: 38.96  
+Rating: 4.60 (5 859)  
+Ratings Per Day: 39.13  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -37,4 +37,4 @@ Ratings Per Day: 38.96
 | 2022-08-21 | 4.60 | 5 763 |
 | 2022-08-22 | 4.60 | 5 798 |
 | 2022-08-23 | 4.60 | 5 845 |
-| 2022-08-24 | 4.60 | 5 857 |
+| 2022-08-24 | 4.60 | 5 859 |

@@ -1,6 +1,6 @@
 # Horace
-Rating: 4.61 (36)  
-Ratings Per Day: 2.00  
+Rating: 4.62 (37)  
+Ratings Per Day: 1.26  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 2.00
 | 2022-08-14 | 4.61 | 33 |
 | 2022-08-21 | 4.62 | 34 |
 | 2022-08-22 | 4.61 | 36 |
+| 2022-08-24 | 4.62 | 37 |
