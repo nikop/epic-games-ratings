@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.58,
   "NumberOfRatings": 21417,
-  "DailyRatings": 181.7,
+  "DailyRatings": 181.23,
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
   "LastChanged": "2022-08-24T08:01:24.6985648+00:00",
   "RatingHistory": [
@@ -1552,7 +1552,7 @@
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 887
+      "Count": 919
     },
     {
       "Text": "This game is Great for Quick Sessions",
