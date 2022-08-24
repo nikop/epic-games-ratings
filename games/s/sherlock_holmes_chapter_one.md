@@ -1,6 +1,6 @@
 # Sherlock Holmes Chapter One
-Rating: 4.50 (150)  
-Ratings Per Day: 1.00  
+Rating: 4.50 (152)  
+Ratings Per Day: 1.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 1.00
 | 2022-08-17 | 4.50 | 144 |
 | 2022-08-22 | 4.50 | 149 |
 | 2022-08-23 | 4.50 | 150 |
+| 2022-08-24 | 4.50 | 152 |
