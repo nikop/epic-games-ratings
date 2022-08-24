@@ -3,10 +3,10 @@
   "Name": "Kingdom New Lands",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 1377,
-  "DailyRatings": 11.44,
+  "NumberOfRatings": 1385,
+  "DailyRatings": 11.21,
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2022-08-23T23:01:37.6948984+00:00",
+  "LastChanged": "2022-08-24T16:31:34.3801011+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-08-23T23:01:37.6948986+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 1377
+    },
+    {
+      "Time": "2022-08-24T16:31:34.3801012+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 1385
     }
   ],
   "Tags": [
