@@ -3,10 +3,10 @@
   "Name": "Ghostrunner",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 677,
-  "DailyRatings": 6.08,
+  "NumberOfRatings": 679,
+  "DailyRatings": 5.98,
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
-  "LastChanged": "2022-08-24T02:30:46.9671497+00:00",
+  "LastChanged": "2022-08-24T13:01:34.0176042+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:51.2324113+00:00",
@@ -297,6 +297,11 @@
       "Time": "2022-08-24T02:30:46.9671499+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 677
+    },
+    {
+      "Time": "2022-08-24T13:01:34.0176044+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 679
     }
   ],
   "Tags": [

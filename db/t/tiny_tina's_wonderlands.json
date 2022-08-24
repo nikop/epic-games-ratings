@@ -3,10 +3,10 @@
   "Name": "Tiny Tina\u0027s Wonderlands",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 18406,
-  "DailyRatings": 119.22,
+  "NumberOfRatings": 18415,
+  "DailyRatings": 119.43,
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2022-08-24T11:30:47.808638+00:00",
+  "LastChanged": "2022-08-24T13:01:30.2775949+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.2976404+00:00",
@@ -1732,12 +1732,17 @@
       "Time": "2022-08-24T11:30:47.8086381+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 18406
+    },
+    {
+      "Time": "2022-08-24T13:01:30.2775952+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 18415
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 10322
+      "Count": 10401
     },
     {
       "Text": "This game has Amazing Storytelling",

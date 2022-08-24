@@ -1,6 +1,6 @@
 # DEATH STRANDING DIRECTOR'S CUT
-Rating: 4.84 (2 360)  
-Ratings Per Day: 16.70  
+Rating: 4.84 (2 366)  
+Ratings Per Day: 16.71  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -37,4 +37,4 @@ Ratings Per Day: 16.70
 | 2022-08-21 | 4.84 | 2 324 |
 | 2022-08-22 | 4.84 | 2 343 |
 | 2022-08-23 | 4.84 | 2 356 |
-| 2022-08-24 | 4.84 | 2 360 |
+| 2022-08-24 | 4.84 | 2 366 |
