@@ -3,10 +3,10 @@
   "Name": "My Time at Sandrock",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 778,
-  "DailyRatings": 1.66,
+  "NumberOfRatings": 779,
+  "DailyRatings": 1.73,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2022-08-23T19:02:40.3695011+00:00",
+  "LastChanged": "2022-08-24T03:32:04.3052107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -232,12 +232,17 @@
       "Time": "2022-08-23T19:02:40.3695013+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 778
+    },
+    {
+      "Time": "2022-08-24T03:32:04.3052108+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 779
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 273
+      "Count": 274
     },
     {
       "Text": "This game is Great for Beginners",

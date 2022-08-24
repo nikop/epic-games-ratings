@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The New Order",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 56164,
-  "DailyRatings": 192.73,
+  "NumberOfRatings": 56233,
+  "DailyRatings": 196.95,
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2022-08-23T21:02:07.1674773+00:00",
+  "LastChanged": "2022-08-24T03:31:18.8828924+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -1292,6 +1292,11 @@
       "Time": "2022-08-23T21:02:07.1674774+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 56164
+    },
+    {
+      "Time": "2022-08-24T03:31:18.8828925+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 56233
     }
   ],
   "Tags": [
