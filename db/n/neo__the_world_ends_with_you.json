@@ -2,11 +2,11 @@
   "ID": "9c8ca95368b84b6fb5f2192e7f7484a3",
   "Name": "NEO: The World Ends with You",
   "Names": [],
-  "Rating": 4.86,
-  "NumberOfRatings": 176,
-  "DailyRatings": 1.21,
+  "Rating": 4.85,
+  "NumberOfRatings": 177,
+  "DailyRatings": 1.32,
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
-  "LastChanged": "2022-08-23T15:31:40.2244706+00:00",
+  "LastChanged": "2022-08-24T01:31:32.7442462+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:59.3741764+00:00",
@@ -187,6 +187,11 @@
       "Time": "2022-08-23T15:31:40.2244708+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 176
+    },
+    {
+      "Time": "2022-08-24T01:31:32.7442463+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 177
     }
   ],
   "Tags": [
@@ -196,7 +201,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 28
+      "Count": 29
     }
   ]
 }
