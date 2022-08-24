@@ -2,11 +2,11 @@
   "ID": "d79920221de24b448e24516a7810804e",
   "Name": "Relicta",
   "Names": [],
-  "Rating": 4.15,
-  "NumberOfRatings": 323,
-  "DailyRatings": 2.03,
+  "Rating": 4.14,
+  "NumberOfRatings": 327,
+  "DailyRatings": 2.34,
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2022-08-23T15:31:52.7727457+00:00",
+  "LastChanged": "2022-08-24T15:32:01.7825646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-08-23T15:31:52.7727458+00:00",
       "Rating": 4.15,
       "NumberOfRatings": 323
+    },
+    {
+      "Time": "2022-08-24T15:32:01.7825647+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": 327
     }
   ],
   "Tags": [
@@ -216,7 +221,7 @@
     },
     {
       "Text": "In this game, your choices Don\u0027t Impact the Story",
-      "Count": 25
+      "Count": 26
     }
   ]
 }

@@ -1,6 +1,6 @@
 # The Suicide of Rachel Foster
-Rating: 4.06 (66)  
-Ratings Per Day: 0.83  
+Rating: 4.07 (67)  
+Ratings Per Day: 0.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 0.83
 | 2022-08-20 | 4.09 | 64 |
 | 2022-08-22 | 4.08 | 65 |
 | 2022-08-23 | 4.06 | 66 |
+| 2022-08-24 | 4.07 | 67 |
