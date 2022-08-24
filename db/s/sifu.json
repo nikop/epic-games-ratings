@@ -3,10 +3,10 @@
   "Name": "Sifu",
   "Names": [],
   "Rating": 4.81,
-  "NumberOfRatings": 7057,
-  "DailyRatings": 51.73,
+  "NumberOfRatings": 7060,
+  "DailyRatings": 51.06,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-08-24T01:01:12.9843241+00:00",
+  "LastChanged": "2022-08-24T04:31:15.2251017+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -1347,6 +1347,11 @@
       "Time": "2022-08-24T01:01:12.9843244+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 7057
+    },
+    {
+      "Time": "2022-08-24T04:31:15.2251018+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 7060
     }
   ],
   "Tags": [
@@ -1388,7 +1393,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 136
+      "Count": 138
     },
     {
       "Text": "This game is Highly Recommended",

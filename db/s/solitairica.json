@@ -3,10 +3,10 @@
   "Name": "Solitairica",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 383,
-  "DailyRatings": 3.22,
+  "NumberOfRatings": 384,
+  "DailyRatings": 2.93,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2022-08-23T16:30:46.9487775+00:00",
+  "LastChanged": "2022-08-24T04:30:50.7292603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:54.478513+00:00",
@@ -342,12 +342,17 @@
       "Time": "2022-08-23T16:30:46.9487776+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 383
+    },
+    {
+      "Time": "2022-08-24T04:30:50.7292672+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 384
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",

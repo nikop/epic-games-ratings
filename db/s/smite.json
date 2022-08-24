@@ -3,10 +3,10 @@
   "Name": "SMITE",
   "Names": [],
   "Rating": 4.47,
-  "NumberOfRatings": 5744,
-  "DailyRatings": 37.12,
+  "NumberOfRatings": 5746,
+  "DailyRatings": 37.3,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-08-24T04:00:27.9168018+00:00",
+  "LastChanged": "2022-08-24T04:30:32.8934627+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -1427,6 +1427,11 @@
       "Time": "2022-08-24T04:00:27.9168086+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 5744
+    },
+    {
+      "Time": "2022-08-24T04:30:32.8934631+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 5746
     }
   ],
   "Tags": [
