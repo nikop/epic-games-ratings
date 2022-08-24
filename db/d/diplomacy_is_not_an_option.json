@@ -2,11 +2,11 @@
   "ID": "9a66c93dabb74d3aaf910fa7f23c64fd",
   "Name": "Diplomacy is Not an Option",
   "Names": [],
-  "Rating": 4.56,
-  "NumberOfRatings": 43,
-  "DailyRatings": 0.98,
+  "Rating": 4.57,
+  "NumberOfRatings": 44,
+  "DailyRatings": 0.38,
   "FirstSeen": "2022-07-22T20:30:41.4347718+00:00",
-  "LastChanged": "2022-08-20T09:02:04.6729795+00:00",
+  "LastChanged": "2022-08-24T15:02:08.2507321+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:41.434772+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-08-20T09:02:04.6729797+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-08-24T15:02:08.2507323+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 44
     }
   ],
   "Tags": []
