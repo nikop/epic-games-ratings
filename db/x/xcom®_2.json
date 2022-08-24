@@ -3,10 +3,10 @@
   "Name": "XCOM\u00AE 2",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 6007,
-  "DailyRatings": 49.45,
+  "NumberOfRatings": 6018,
+  "DailyRatings": 50.44,
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2022-08-24T15:00:28.3153766+00:00",
+  "LastChanged": "2022-08-24T17:31:07.0757311+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
@@ -1532,6 +1532,11 @@
       "Time": "2022-08-24T15:00:28.3153769+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 6007
+    },
+    {
+      "Time": "2022-08-24T17:31:07.0757313+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 6018
     }
   ],
   "Tags": [

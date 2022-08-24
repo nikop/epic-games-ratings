@@ -1,6 +1,6 @@
 # Rising Storm 2: Vietnam
-Rating: 4.63 (2 293)  
-Ratings Per Day: 19.70  
+Rating: 4.63 (2 297)  
+Ratings Per Day: 19.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -37,4 +37,4 @@ Ratings Per Day: 19.70
 | 2022-08-21 | 4.63 | 2 241 |
 | 2022-08-22 | 4.63 | 2 264 |
 | 2022-08-23 | 4.63 | 2 280 |
-| 2022-08-24 | 4.63 | 2 293 |
+| 2022-08-24 | 4.63 | 2 297 |
