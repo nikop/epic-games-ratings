@@ -1,6 +1,6 @@
 # Trackmania
-Rating: 4.68 (5 602)  
-Ratings Per Day: 41.42  
+Rating: 4.68 (5 609)  
+Ratings Per Day: 41.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -37,4 +37,4 @@ Ratings Per Day: 41.42
 | 2022-08-21 | 4.68 | 5 523 |
 | 2022-08-22 | 4.68 | 5 563 |
 | 2022-08-23 | 4.68 | 5 592 |
-| 2022-08-24 | 4.68 | 5 602 |
+| 2022-08-24 | 4.68 | 5 609 |
