@@ -1,6 +1,6 @@
 # Sherlock Holmes: Crimes and Punishments
 Rating: 4.41 (352)  
-Ratings Per Day: 4.18  
+Ratings Per Day: 3.54  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
