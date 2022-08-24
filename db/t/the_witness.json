@@ -2,11 +2,11 @@
   "ID": "magnolia",
   "Name": "The Witness",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 396,
-  "DailyRatings": 3.76,
+  "Rating": 4.68,
+  "NumberOfRatings": 400,
+  "DailyRatings": 3.79,
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2022-08-23T19:00:58.1133096+00:00",
+  "LastChanged": "2022-08-24T19:01:01.4255737+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:54.428207+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-08-23T19:00:58.1133097+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 396
+    },
+    {
+      "Time": "2022-08-24T19:01:01.4255739+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 400
     }
   ],
   "Tags": [

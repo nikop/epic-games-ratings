@@ -3,10 +3,10 @@
   "Name": "Wonder Boy The Dragons Trap",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 2817,
-  "DailyRatings": 12.18,
+  "NumberOfRatings": 2822,
+  "DailyRatings": 12.04,
   "FirstSeen": "2022-07-22T20:30:29.5801015+00:00",
-  "LastChanged": "2022-08-24T07:32:05.9148668+00:00",
+  "LastChanged": "2022-08-24T19:02:37.1970054+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:29.5801017+00:00",
@@ -687,6 +687,11 @@
       "Time": "2022-08-24T07:32:05.914867+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 2817
+    },
+    {
+      "Time": "2022-08-24T19:02:37.1970056+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 2822
     }
   ],
   "Tags": [
