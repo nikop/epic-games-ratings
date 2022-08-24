@@ -3,10 +3,10 @@
   "Name": "Outward",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 237,
-  "DailyRatings": 4.8,
+  "NumberOfRatings": 238,
+  "DailyRatings": 0.29,
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2022-08-18T04:00:56.3099966+00:00",
+  "LastChanged": "2022-08-24T18:02:27.5699354+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -222,6 +222,11 @@
       "Time": "2022-08-18T04:00:56.3099967+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 237
+    },
+    {
+      "Time": "2022-08-24T18:02:27.5699356+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 238
     }
   ],
   "Tags": []
