@@ -1,6 +1,6 @@
 # Absolute Drift
-Rating: 4.39 (156)  
-Ratings Per Day: 1.63  
+Rating: 4.39 (157)  
+Ratings Per Day: 1.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 1.63
 | 2022-08-21 | 4.38 | 152 |
 | 2022-08-22 | 4.38 | 154 |
 | 2022-08-23 | 4.39 | 156 |
+| 2022-08-24 | 4.39 | 157 |

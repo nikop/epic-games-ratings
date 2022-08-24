@@ -1,6 +1,6 @@
 # Fall Guys
 Rating: 4.53 (961 080)  
-Ratings Per Day: 4387.93  
+Ratings Per Day: 4369.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
