@@ -3,10 +3,10 @@
   "Name": "This War of Mine",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 839,
-  "DailyRatings": 7.07,
+  "NumberOfRatings": 840,
+  "DailyRatings": 7.02,
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
-  "LastChanged": "2022-08-23T19:30:51.1036913+00:00",
+  "LastChanged": "2022-08-24T00:02:33.23492+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:40.6803203+00:00",
@@ -507,6 +507,11 @@
       "Time": "2022-08-23T19:30:51.1036914+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 839
+    },
+    {
+      "Time": "2022-08-24T00:02:33.2349202+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 840
     }
   ],
   "Tags": [
@@ -516,7 +521,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",
@@ -536,7 +541,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Relaxing",
