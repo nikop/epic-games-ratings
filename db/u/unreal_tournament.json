@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.69,
   "NumberOfRatings": 888,
-  "DailyRatings": 7.2,
+  "DailyRatings": 7.11,
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
   "LastChanged": "2022-08-24T02:00:49.1112889+00:00",
   "RatingHistory": [
@@ -805,7 +805,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 108
+      "Count": 113
     }
   ]
 }
