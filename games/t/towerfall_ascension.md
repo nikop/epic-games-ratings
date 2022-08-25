@@ -1,6 +1,6 @@
 # TowerFall Ascension
 Rating: 4.76 (25)  
-Ratings Per Day: 0.71  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
