@@ -1,6 +1,6 @@
 # Days Gone
 Rating: 4.70 (3 293)  
-Ratings Per Day: 18.18  
+Ratings Per Day: 18.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
