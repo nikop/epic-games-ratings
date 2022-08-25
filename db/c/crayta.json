@@ -117,7 +117,7 @@
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Educational",
@@ -126,6 +126,10 @@
     {
       "Text": "This game has Diverse Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 21
     }
   ]
 }
