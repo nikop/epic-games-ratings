@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 3273,
-  "DailyRatings": 14.34,
+  "NumberOfRatings": 3278,
+  "DailyRatings": 14.98,
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2022-08-25T19:00:27.8639472+00:00",
+  "LastChanged": "2022-08-25T20:01:32.8193177+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.6567849+00:00",
@@ -997,6 +997,11 @@
       "Time": "2022-08-25T19:00:27.8639475+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 3273
+    },
+    {
+      "Time": "2022-08-25T20:01:32.8193232+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 3278
     }
   ],
   "Tags": [
@@ -1022,7 +1027,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game has Obsessive Gameplay",
