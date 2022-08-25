@@ -3,10 +3,10 @@
   "Name": "The Division 2 Standard Edition",
   "Names": [],
   "Rating": 4.43,
-  "NumberOfRatings": 5547,
-  "DailyRatings": 29.98,
+  "NumberOfRatings": 5551,
+  "DailyRatings": 30.38,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-08-25T15:31:56.2263866+00:00",
+  "LastChanged": "2022-08-25T16:31:00.8579023+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -1597,12 +1597,17 @@
       "Time": "2022-08-25T15:31:56.2263868+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 5547
+    },
+    {
+      "Time": "2022-08-25T16:31:00.8579025+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 5551
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 2824
+      "Count": 2838
     },
     {
       "Text": "This game has Great Boss Battles",

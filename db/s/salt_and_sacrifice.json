@@ -3,10 +3,10 @@
   "Name": "Salt and Sacrifice",
   "Names": [],
   "Rating": 4.3,
-  "NumberOfRatings": 1986,
-  "DailyRatings": 9.18,
+  "NumberOfRatings": 1988,
+  "DailyRatings": 8.69,
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-08-25T02:31:20.6305233+00:00",
+  "LastChanged": "2022-08-25T16:31:14.303679+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -622,6 +622,11 @@
       "Time": "2022-08-25T02:31:20.6305234+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 1986
+    },
+    {
+      "Time": "2022-08-25T16:31:14.3036791+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 1988
     }
   ],
   "Tags": [
@@ -639,7 +644,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Challenging Combat",
