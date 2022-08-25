@@ -3,10 +3,10 @@
   "Name": "HITMAN 3",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 17361,
-  "DailyRatings": 132,
+  "NumberOfRatings": 17371,
+  "DailyRatings": 131.57,
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
-  "LastChanged": "2022-08-25T00:30:26.0058247+00:00",
+  "LastChanged": "2022-08-25T03:01:00.2389654+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.80996+00:00",
@@ -1897,6 +1897,11 @@
       "Time": "2022-08-25T00:30:26.0058249+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 17361
+    },
+    {
+      "Time": "2022-08-25T03:01:00.2389659+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 17371
     }
   ],
   "Tags": [
