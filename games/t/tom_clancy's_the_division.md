@@ -1,6 +1,6 @@
 # Tom Clancy's The Division
-Rating: 4.52 (192)  
-Ratings Per Day: 1.25  
+Rating: 4.52 (193)  
+Ratings Per Day: 1.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,3 +26,4 @@ Ratings Per Day: 1.25
 | 2022-08-20 | 4.52 | 189 |
 | 2022-08-22 | 4.53 | 190 |
 | 2022-08-23 | 4.52 | 192 |
+| 2022-08-25 | 4.52 | 193 |
