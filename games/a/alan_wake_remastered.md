@@ -1,6 +1,6 @@
 # Alan Wake Remastered
 Rating: 4.56 (400)  
-Ratings Per Day: 2.68  
+Ratings Per Day: 2.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
