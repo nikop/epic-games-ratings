@@ -1,6 +1,6 @@
 # Darkest Dungeon II
 Rating: 4.68 (6 505)  
-Ratings Per Day: 51.37  
+Ratings Per Day: 51.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

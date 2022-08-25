@@ -1,7 +1,7 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Destiny 2](games/d/destiny_2.md) | 4.52 | 720 | 690.99 |
-| 2 | [Saints Row](games/s/saints_row.md) | 3.76 | 3 870 | 2165.60 |
+| 2 | [Saints Row](games/s/saints_row.md) | 3.76 | 3 962 | 2141.68 |
 | 3 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.48 | 21 | 0.00 |
 | 4 | [DOOM 64](games/d/doom_64.md) | 4.65 | 1 716 | 322.00 |
 | 5 | [Aragami 2](games/a/aragami_2.md) | 4.37 | 46 | 4.50 |
