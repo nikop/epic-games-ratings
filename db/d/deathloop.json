@@ -344,5 +344,10 @@
       "NumberOfRatings": 743
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 20
+    }
+  ]
 }
