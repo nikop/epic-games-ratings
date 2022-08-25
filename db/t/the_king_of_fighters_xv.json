@@ -2,11 +2,11 @@
   "ID": "168fc558aeef44a5b9cba5f25b5bb93f",
   "Name": "THE KING OF FIGHTERS XV",
   "Names": [],
-  "Rating": 4.64,
-  "NumberOfRatings": 171,
-  "DailyRatings": 1.5,
+  "Rating": 4.65,
+  "NumberOfRatings": 172,
+  "DailyRatings": 1.24,
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2022-08-23T18:31:36.4937634+00:00",
+  "LastChanged": "2022-08-25T06:30:52.2697417+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:01.2233815+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-08-23T18:31:36.4937636+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 171
+    },
+    {
+      "Time": "2022-08-25T06:30:52.269742+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 172
     }
   ],
   "Tags": [
@@ -160,7 +165,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
