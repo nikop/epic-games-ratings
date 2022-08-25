@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.53,
   "NumberOfRatings": 59567,
-  "DailyRatings": 341.41,
+  "DailyRatings": 341.09,
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "LastChanged": "2022-08-25T22:30:57.0079403+00:00",
   "RatingHistory": [
@@ -1790,7 +1790,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 8374
+      "Count": 8484
     },
     {
       "Text": "This game has Competitive Players",
@@ -1822,7 +1822,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 6701
+      "Count": 6786
     }
   ]
 }
