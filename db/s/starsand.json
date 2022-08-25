@@ -2,12 +2,12 @@
   "ID": "c7b771d17305491a9962d0c3de75fe8b",
   "Name": "Starsand",
   "Names": [],
-  "Rating": 4.36,
-  "NumberOfRatings": 22,
-  "DailyRatings": 0,
+  "Rating": 4.35,
+  "NumberOfRatings": 23,
+  "DailyRatings": 0.17,
   "FirstSeen": "2022-07-22T20:32:04.2435884+00:00",
   "FirstSeenRating": "2022-08-09T00:02:49.020419+00:00",
-  "LastChanged": "2022-08-19T01:32:46.0112923+00:00",
+  "LastChanged": "2022-08-25T02:02:11.1834781+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-09T00:02:49.0204193+00:00",
@@ -23,6 +23,11 @@
       "Time": "2022-08-19T01:32:46.0112925+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-08-25T02:02:11.1834782+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []
