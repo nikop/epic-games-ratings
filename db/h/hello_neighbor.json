@@ -3,10 +3,10 @@
   "Name": "Hello Neighbor",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 834,
-  "DailyRatings": 10.16,
+  "NumberOfRatings": 838,
+  "DailyRatings": 10.43,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-08-25T03:01:34.7667284+00:00",
+  "LastChanged": "2022-08-25T08:01:02.9916295+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -617,12 +617,17 @@
       "Time": "2022-08-25T03:01:34.7667286+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 834
+    },
+    {
+      "Time": "2022-08-25T08:01:02.9916296+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 838
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Extremely Fun",
