@@ -1,6 +1,6 @@
 # Prehistoric Kingdom
 Rating: 4.34 (32)  
-Ratings Per Day: 0.33  
+Ratings Per Day: 0.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
