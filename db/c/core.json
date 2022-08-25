@@ -3,10 +3,10 @@
   "Name": "Core",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 1210,
-  "DailyRatings": 8.05,
+  "NumberOfRatings": 1212,
+  "DailyRatings": 7.9,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-08-25T05:31:13.3806307+00:00",
+  "LastChanged": "2022-08-25T14:31:51.5302187+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -747,12 +747,17 @@
       "Time": "2022-08-25T05:31:13.3806309+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1210
+    },
+    {
+      "Time": "2022-08-25T14:31:51.5302188+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 1212
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 441
+      "Count": 445
     },
     {
       "Text": "This game is Great for Beginners",
