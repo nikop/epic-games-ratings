@@ -1,6 +1,6 @@
 # Airborne Kingdom
 Rating: 4.68 (47)  
-Ratings Per Day: 1.00  
+Ratings Per Day: 0.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
