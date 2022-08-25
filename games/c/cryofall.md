@@ -1,6 +1,6 @@
 # CryoFall
-Rating: 4.33 (39)  
-Ratings Per Day: 1.53  
+Rating: 4.37 (41)  
+Ratings Per Day: 1.64  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 1.53
 | 2022-08-22 | 4.33 | 36 |
 | 2022-08-23 | 4.35 | 37 |
 | 2022-08-24 | 4.33 | 39 |
+| 2022-08-25 | 4.37 | 41 |

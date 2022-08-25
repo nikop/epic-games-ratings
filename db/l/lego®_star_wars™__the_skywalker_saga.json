@@ -3,10 +3,10 @@
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 2257,
-  "DailyRatings": 10.01,
+  "NumberOfRatings": 2258,
+  "DailyRatings": 10.12,
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
-  "LastChanged": "2022-08-25T17:00:49.0458187+00:00",
+  "LastChanged": "2022-08-25T17:30:26.5962719+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:57.6637815+00:00",
@@ -952,12 +952,17 @@
       "Time": "2022-08-25T17:00:49.0458192+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 2257
+    },
+    {
+      "Time": "2022-08-25T17:30:26.5962722+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 2258
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1449
+      "Count": 1457
     },
     {
       "Text": "This game is Highly Recommended",

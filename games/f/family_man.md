@@ -1,6 +1,6 @@
 # Family Man
 Rating: 4.24 (25)  
-Ratings Per Day: 0.66  
+Ratings Per Day: 0.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

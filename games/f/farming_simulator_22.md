@@ -1,6 +1,6 @@
 # Farming Simulator 22
 Rating: 4.72 (6 577)  
-Ratings Per Day: 55.76  
+Ratings Per Day: 54.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
