@@ -3,10 +3,10 @@
   "Name": "Shadowrun: Dragonfall - Director\u2019s Cut",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 175,
-  "DailyRatings": 2.47,
+  "NumberOfRatings": 176,
+  "DailyRatings": 2.33,
   "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
-  "LastChanged": "2022-08-25T03:02:11.1392122+00:00",
+  "LastChanged": "2022-08-25T21:31:40.2561119+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:02.9464376+00:00",
@@ -182,12 +182,17 @@
       "Time": "2022-08-25T03:02:11.1392124+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 175
+    },
+    {
+      "Time": "2022-08-25T21:31:40.256112+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 176
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 31
+      "Count": 32
     }
   ]
 }

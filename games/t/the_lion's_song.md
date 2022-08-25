@@ -1,6 +1,6 @@
 # The Lion's Song
-Rating: 4.41 (51)  
-Ratings Per Day: 0.50  
+Rating: 4.42 (53)  
+Ratings Per Day: 0.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,3 +23,4 @@ Ratings Per Day: 0.50
 | 2022-08-15 | 4.49 | 49 |
 | 2022-08-20 | 4.42 | 50 |
 | 2022-08-22 | 4.41 | 51 |
+| 2022-08-25 | 4.42 | 53 |
