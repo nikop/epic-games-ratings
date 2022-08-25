@@ -3,10 +3,10 @@
   "Name": "Shop Titans",
   "Names": [],
   "Rating": 3.94,
-  "NumberOfRatings": 11700,
-  "DailyRatings": 69.68,
+  "NumberOfRatings": 11712,
+  "DailyRatings": 68.29,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-08-25T03:01:02.6128614+00:00",
+  "LastChanged": "2022-08-25T10:30:28.3861881+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -1892,6 +1892,11 @@
       "Time": "2022-08-25T03:01:02.6128615+00:00",
       "Rating": 3.94,
       "NumberOfRatings": 11700
+    },
+    {
+      "Time": "2022-08-25T10:30:28.3861883+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": 11712
     }
   ],
   "Tags": [
@@ -1909,7 +1914,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 1046
+      "Count": 1091
     },
     {
       "Text": "This game has Quickly Understood Controls",

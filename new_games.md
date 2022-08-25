@@ -1,11 +1,11 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Destiny 2](games/d/destiny_2.md) | 4.53 | 956 | 766.66 |
-| 2 | [Saints Row](games/s/saints_row.md) | 3.76 | 3 962 | 2141.68 |
+| 2 | [Saints Row](games/s/saints_row.md) | 3.77 | 4 379 | 2127.08 |
 | 3 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.48 | 21 | 0.00 |
 | 4 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1 865 | 318.73 |
 | 5 | [Aragami 2](games/a/aragami_2.md) | 4.41 | 49 | 4.17 |
-| 6 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 9 218 | 510.00 |
+| 6 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 9 218 | 512.60 |
 | 7 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.45 | 1 388 | 80.98 |
 | 8 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 33 218 | 2535.28 |
 | 9 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 585 | 37.59 |

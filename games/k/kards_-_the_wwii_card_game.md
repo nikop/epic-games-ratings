@@ -1,6 +1,6 @@
 # KARDS - The WWII Card Game
-Rating: 4.37 (1 290)  
-Ratings Per Day: 8.00  
+Rating: 4.37 (1 291)  
+Ratings Per Day: 8.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -38,4 +38,4 @@ Ratings Per Day: 8.00
 | 2022-08-22 | 4.37 | 1 277 |
 | 2022-08-23 | 4.37 | 1 280 |
 | 2022-08-24 | 4.37 | 1 285 |
-| 2022-08-25 | 4.37 | 1 290 |
+| 2022-08-25 | 4.37 | 1 291 |
