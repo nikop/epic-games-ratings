@@ -3,10 +3,10 @@
   "Name": "DEATHLOOP",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 740,
-  "DailyRatings": 6.71,
+  "NumberOfRatings": 741,
+  "DailyRatings": 6.79,
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2022-08-25T12:31:09.8001473+00:00",
+  "LastChanged": "2022-08-25T14:02:29.0107512+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.7837123+00:00",
@@ -332,6 +332,11 @@
       "Time": "2022-08-25T12:31:09.8001475+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 740
+    },
+    {
+      "Time": "2022-08-25T14:02:29.0107513+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 741
     }
   ],
   "Tags": []
