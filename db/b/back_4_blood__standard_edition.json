@@ -3,10 +3,10 @@
   "Name": "Back 4 Blood: Standard Edition",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 2145,
-  "DailyRatings": 12.07,
+  "NumberOfRatings": 2146,
+  "DailyRatings": 12.04,
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2022-08-25T02:31:20.6456419+00:00",
+  "LastChanged": "2022-08-25T05:01:09.0062193+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.3101252+00:00",
@@ -1042,12 +1042,17 @@
       "Time": "2022-08-25T02:31:20.6456424+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 2145
+    },
+    {
+      "Time": "2022-08-25T05:01:09.0062194+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 2146
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1330
+      "Count": 1348
     },
     {
       "Text": "This game is Relaxing",
