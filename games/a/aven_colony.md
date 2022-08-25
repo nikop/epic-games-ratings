@@ -1,6 +1,6 @@
 # Aven Colony
-Rating: 4.19 (1 664)  
-Ratings Per Day: 17.98  
+Rating: 4.20 (1 666)  
+Ratings Per Day: 18.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -38,4 +38,4 @@ Ratings Per Day: 17.98
 | 2022-08-22 | 4.19 | 1 617 |
 | 2022-08-23 | 4.19 | 1 623 |
 | 2022-08-24 | 4.19 | 1 653 |
-| 2022-08-25 | 4.19 | 1 664 |
+| 2022-08-25 | 4.20 | 1 666 |
