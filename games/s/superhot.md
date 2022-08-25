@@ -1,6 +1,6 @@
 # SUPERHOT
 Rating: 4.64 (112)  
-Ratings Per Day: 1.17  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
