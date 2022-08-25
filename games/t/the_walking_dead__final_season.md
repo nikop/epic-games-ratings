@@ -1,6 +1,6 @@
 # The Walking Dead: Final Season
-Rating: 4.75 (44)  
-Ratings Per Day: 0.49  
+Rating: 4.76 (45)  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 0.49
 | 2022-08-16 | 4.73 | 41 |
 | 2022-08-18 | 4.74 | 43 |
 | 2022-08-20 | 4.75 | 44 |
+| 2022-08-25 | 4.76 | 45 |
