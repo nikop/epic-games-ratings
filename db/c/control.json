@@ -3,10 +3,10 @@
   "Name": "Control",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 12455,
-  "DailyRatings": 123.12,
+  "NumberOfRatings": 12456,
+  "DailyRatings": 122.51,
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2022-08-26T06:00:16.5768007+00:00",
+  "LastChanged": "2022-08-26T07:01:23.2463326+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -1527,6 +1527,11 @@
       "Time": "2022-08-26T06:00:16.576801+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 12455
+    },
+    {
+      "Time": "2022-08-26T07:01:23.2463329+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 12456
     }
   ],
   "Tags": [
@@ -1564,7 +1569,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 92
+      "Count": 94
     },
     {
       "Text": "This game has Challenging Combat",

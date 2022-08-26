@@ -2,11 +2,11 @@
   "ID": "8965024015f5467699f4a497c7c016e8",
   "Name": "Train Life: A Railway Simulator",
   "Names": [],
-  "Rating": 3.77,
-  "NumberOfRatings": 31,
-  "DailyRatings": 0.25,
+  "Rating": 3.75,
+  "NumberOfRatings": 32,
+  "DailyRatings": 0.37,
   "FirstSeen": "2022-07-22T20:30:34.3889134+00:00",
-  "LastChanged": "2022-08-24T20:32:00.1009468+00:00",
+  "LastChanged": "2022-08-26T07:02:43.0030723+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:34.3889136+00:00",
@@ -47,6 +47,11 @@
       "Time": "2022-08-24T20:32:00.1009469+00:00",
       "Rating": 3.77,
       "NumberOfRatings": 31
+    },
+    {
+      "Time": "2022-08-26T07:02:43.0030725+00:00",
+      "Rating": 3.75,
+      "NumberOfRatings": 32
     }
   ],
   "Tags": []
