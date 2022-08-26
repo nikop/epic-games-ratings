@@ -1,6 +1,6 @@
 # Grand Theft Auto V: Premium Edition
-Rating: 4.69 (476 944)  
-Ratings Per Day: 3902.55  
+Rating: 4.69 (477 174)  
+Ratings Per Day: 3877.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,4 +39,4 @@ Ratings Per Day: 3902.55
 | 2022-08-23 | 4.69 | 469 034 |
 | 2022-08-24 | 4.69 | 472 969 |
 | 2022-08-25 | 4.69 | 476 596 |
-| 2022-08-26 | 4.69 | 476 944 |
+| 2022-08-26 | 4.69 | 477 174 |
