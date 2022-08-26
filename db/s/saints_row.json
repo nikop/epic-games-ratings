@@ -3,11 +3,11 @@
   "Name": "Saints Row",
   "Names": [],
   "Rating": 3.77,
-  "NumberOfRatings": 5630,
-  "DailyRatings": 2183.37,
+  "NumberOfRatings": 5712,
+  "DailyRatings": 2162.75,
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
-  "LastChanged": "2022-08-25T23:01:28.7876312+00:00",
+  "LastChanged": "2022-08-26T00:30:41.1333181+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-23T10:30:45.3809934+00:00",
@@ -163,6 +163,11 @@
       "Time": "2022-08-25T23:01:28.7876372+00:00",
       "Rating": 3.77,
       "NumberOfRatings": 5630
+    },
+    {
+      "Time": "2022-08-26T00:30:41.1333182+00:00",
+      "Rating": 3.77,
+      "NumberOfRatings": 5712
     }
   ],
   "Tags": [

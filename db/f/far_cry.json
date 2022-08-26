@@ -2,11 +2,11 @@
   "ID": "71f938f91f0a4ccfaba0be708a930e8a",
   "Name": "Far Cry",
   "Names": [],
-  "Rating": 4.33,
-  "NumberOfRatings": 33,
+  "Rating": 4.35,
+  "NumberOfRatings": 34,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:40.9407197+00:00",
-  "LastChanged": "2022-08-18T21:32:07.4226348+00:00",
+  "LastChanged": "2022-08-26T00:31:46.9095934+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:40.94072+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-08-18T21:32:07.4226352+00:00",
       "Rating": 4.33,
       "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-08-26T00:31:46.9095936+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 34
     }
   ],
   "Tags": []
