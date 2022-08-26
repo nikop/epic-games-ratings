@@ -3,10 +3,10 @@
   "Name": "Watch Dogs 2 Standard Edition",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 5050,
-  "DailyRatings": 50.76,
+  "NumberOfRatings": 5064,
+  "DailyRatings": 51.5,
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2022-08-26T19:31:32.2400738+00:00",
+  "LastChanged": "2022-08-26T23:01:10.1486433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -1317,6 +1317,11 @@
       "Time": "2022-08-26T19:31:32.240074+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 5050
+    },
+    {
+      "Time": "2022-08-26T23:01:10.1486434+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 5064
     }
   ],
   "Tags": [
@@ -1334,7 +1339,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Relaxing",
@@ -1354,7 +1359,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 77
+      "Count": 79
     },
     {
       "Text": "This game is Highly Recommended",

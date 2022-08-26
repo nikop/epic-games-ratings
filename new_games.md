@@ -1,8 +1,8 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Ring of Pain](games/r/ring_of_pain.md) | 4.49 | 410 | 463.08 |
-| 2 | [Destiny 2](games/d/destiny_2.md) | 4.54 | 3 896 | 1395.22 |
-| 3 | [Saints Row](games/s/saints_row.md) | 3.74 | 7 218 | 2038.29 |
+| 2 | [Destiny 2](games/d/destiny_2.md) | 4.54 | 3 970 | 1401.20 |
+| 3 | [Saints Row](games/s/saints_row.md) | 3.74 | 7 295 | 2036.42 |
 | 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.49 | 41 | 14.30 |
 | 5 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.56 | 34 | 7.43 |
 | 6 | [DOOM (1993)](games/d/doom_(1993).md) | 4.89 | 28 | 0.00 |
@@ -13,4 +13,4 @@
 | 11 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.45 | 1 484 | 59.33 |
 | 12 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 36 005 | 2280.67 |
 | 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 629 | 32.60 |
-| 14 | [MultiVersus](games/m/multiversus.md) | 4.58 | 48 601 | 654.21 |
+| 14 | [MultiVersus](games/m/multiversus.md) | 4.58 | 48 601 | 652.91 |

@@ -3,10 +3,10 @@
   "Name": "Hell is other demons",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 261,
-  "DailyRatings": 2.97,
+  "NumberOfRatings": 262,
+  "DailyRatings": 2.65,
   "FirstSeen": "2022-07-22T20:20:36.4695159+00:00",
-  "LastChanged": "2022-08-25T23:01:35.7548266+00:00",
+  "LastChanged": "2022-08-26T23:00:58.9517963+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:36.4695162+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-08-25T23:01:35.7548268+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 261
+    },
+    {
+      "Time": "2022-08-26T23:00:58.9517967+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 262
     }
   ],
   "Tags": []
