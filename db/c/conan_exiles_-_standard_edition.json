@@ -3,10 +3,10 @@
   "Name": "Conan Exiles - Standard Edition",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 902,
-  "DailyRatings": 5.21,
+  "NumberOfRatings": 903,
+  "DailyRatings": 5.05,
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2022-08-25T23:30:18.2549602+00:00",
+  "LastChanged": "2022-08-26T09:30:28.6984236+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -672,6 +672,11 @@
       "Time": "2022-08-25T23:30:18.2549605+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 902
+    },
+    {
+      "Time": "2022-08-26T09:30:28.6984239+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 903
     }
   ],
   "Tags": [
@@ -681,7 +686,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 282
+      "Count": 285
     },
     {
       "Text": "This game is Highly Recommended",
@@ -693,7 +698,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 256
+      "Count": 261
     },
     {
       "Text": "This game has Amazing Storytelling",

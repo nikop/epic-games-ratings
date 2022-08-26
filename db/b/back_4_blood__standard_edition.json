@@ -3,10 +3,10 @@
   "Name": "Back 4 Blood: Standard Edition",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 2149,
-  "DailyRatings": 11.89,
+  "NumberOfRatings": 2151,
+  "DailyRatings": 11.17,
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2022-08-26T00:31:16.1208337+00:00",
+  "LastChanged": "2022-08-26T09:31:24.185963+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.3101252+00:00",
@@ -1062,6 +1062,11 @@
       "Time": "2022-08-26T00:31:16.1208338+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 2149
+    },
+    {
+      "Time": "2022-08-26T09:31:24.1859631+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 2151
     }
   ],
   "Tags": [
