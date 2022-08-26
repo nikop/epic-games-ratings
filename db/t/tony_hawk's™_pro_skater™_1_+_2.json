@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.82,
   "NumberOfRatings": 1005,
-  "DailyRatings": 9.48,
+  "DailyRatings": 9.51,
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
   "LastChanged": "2022-08-26T12:30:51.855652+00:00",
   "RatingHistory": [
@@ -614,7 +614,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 24
+      "Count": 26
     }
   ]
 }
