@@ -3,10 +3,10 @@
   "Name": "Roller Champions\u2122",
   "Names": [],
   "Rating": 4.34,
-  "NumberOfRatings": 5255,
-  "DailyRatings": 16.63,
+  "NumberOfRatings": 5256,
+  "DailyRatings": 16.57,
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2022-08-26T20:01:05.110509+00:00",
+  "LastChanged": "2022-08-26T22:02:05.0528472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:37.6973742+00:00",
@@ -1057,6 +1057,11 @@
       "Time": "2022-08-26T20:01:05.1105093+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 5255
+    },
+    {
+      "Time": "2022-08-26T22:02:05.0528473+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 5256
     }
   ],
   "Tags": [
@@ -1094,11 +1099,11 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 115
+      "Count": 118
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 110
+      "Count": 112
     }
   ]
 }
