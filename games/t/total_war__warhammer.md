@@ -1,6 +1,6 @@
 # Total War: WARHAMMER
 Rating: 4.59 (6 623)  
-Ratings Per Day: 61.82  
+Ratings Per Day: 62.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
