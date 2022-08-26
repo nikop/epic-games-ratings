@@ -3,10 +3,10 @@
   "Name": "Gods Will Fall",
   "Names": [],
   "Rating": 3.87,
-  "NumberOfRatings": 172,
-  "DailyRatings": 1.73,
+  "NumberOfRatings": 173,
+  "DailyRatings": 1.46,
   "FirstSeen": "2022-07-22T20:20:39.1659104+00:00",
-  "LastChanged": "2022-08-24T21:30:50.8716004+00:00",
+  "LastChanged": "2022-08-26T10:01:34.1005182+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:39.1659106+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-08-24T21:30:50.8716005+00:00",
       "Rating": 3.87,
       "NumberOfRatings": 172
+    },
+    {
+      "Time": "2022-08-26T10:01:34.1005183+00:00",
+      "Rating": 3.87,
+      "NumberOfRatings": 173
     }
   ],
   "Tags": []

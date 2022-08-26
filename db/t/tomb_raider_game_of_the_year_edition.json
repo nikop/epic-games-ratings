@@ -3,10 +3,10 @@
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 15387,
-  "DailyRatings": 142.96,
+  "NumberOfRatings": 15398,
+  "DailyRatings": 141.5,
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2022-08-26T06:30:49.1340361+00:00",
+  "LastChanged": "2022-08-26T10:01:37.2937427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:04.7609199+00:00",
@@ -947,6 +947,11 @@
       "Time": "2022-08-26T06:30:49.1340363+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 15387
+    },
+    {
+      "Time": "2022-08-26T10:01:37.2937429+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 15398
     }
   ],
   "Tags": [
@@ -972,7 +977,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Relaxing",

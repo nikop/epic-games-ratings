@@ -1,5 +1,5 @@
 # The Drone Racing League®
-Rating: 4.69 (26)  
+Rating: 4.70 (27)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.00
 | 2022-08-07 | 4.65 | 23 |
 | 2022-08-16 | 4.68 | 25 |
 | 2022-08-17 | 4.69 | 26 |
+| 2022-08-26 | 4.70 | 27 |
