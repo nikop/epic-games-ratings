@@ -1,6 +1,6 @@
 # LEGO® Batman™: The Videogame
-Rating: 4.51 (437)  
-Ratings Per Day: 3.74  
+Rating: 4.51 (438)  
+Ratings Per Day: 3.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,4 +39,4 @@ Ratings Per Day: 3.74
 | 2022-08-23 | 4.52 | 427 |
 | 2022-08-24 | 4.52 | 428 |
 | 2022-08-25 | 4.52 | 434 |
-| 2022-08-26 | 4.51 | 437 |
+| 2022-08-26 | 4.51 | 438 |

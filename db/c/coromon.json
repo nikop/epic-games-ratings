@@ -2,11 +2,11 @@
   "ID": "9aa3fab4ed5447d5b27e34d6aea7f259",
   "Name": "Coromon",
   "Names": [],
-  "Rating": 4.65,
-  "NumberOfRatings": 75,
-  "DailyRatings": 0,
+  "Rating": 4.66,
+  "NumberOfRatings": 76,
+  "DailyRatings": 1.14,
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
-  "LastChanged": "2022-08-25T22:32:21.931156+00:00",
+  "LastChanged": "2022-08-26T19:32:30.0572272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:42.756351+00:00",
@@ -92,7 +92,17 @@
       "Time": "2022-08-25T22:32:21.9311561+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 75
+    },
+    {
+      "Time": "2022-08-26T19:32:30.0572276+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 76
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 21
+    }
+  ]
 }

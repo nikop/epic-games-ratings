@@ -1,6 +1,6 @@
 # Riders Republic
-Rating: 4.73 (2 697)  
-Ratings Per Day: 23.86  
+Rating: 4.73 (2 702)  
+Ratings Per Day: 24.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,4 +39,4 @@ Ratings Per Day: 23.86
 | 2022-08-23 | 4.73 | 2 615 |
 | 2022-08-24 | 4.73 | 2 649 |
 | 2022-08-25 | 4.73 | 2 672 |
-| 2022-08-26 | 4.73 | 2 697 |
+| 2022-08-26 | 4.73 | 2 702 |

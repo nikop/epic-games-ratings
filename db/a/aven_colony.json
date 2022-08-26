@@ -3,10 +3,10 @@
   "Name": "Aven Colony",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 1678,
-  "DailyRatings": 17.52,
+  "NumberOfRatings": 1683,
+  "DailyRatings": 17.98,
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2022-08-26T17:01:43.9067766+00:00",
+  "LastChanged": "2022-08-26T19:31:51.2834686+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:59.6890426+00:00",
@@ -717,6 +717,11 @@
       "Time": "2022-08-26T17:01:43.9067769+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 1678
+    },
+    {
+      "Time": "2022-08-26T19:31:51.2834687+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 1683
     }
   ],
   "Tags": [
