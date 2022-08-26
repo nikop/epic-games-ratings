@@ -3,10 +3,10 @@
   "Name": "Predator: Hunting Grounds Standard Edition",
   "Names": [],
   "Rating": 4.39,
-  "NumberOfRatings": 935,
-  "DailyRatings": 22.56,
+  "NumberOfRatings": 937,
+  "DailyRatings": 21.9,
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2022-08-26T06:00:36.1468438+00:00",
+  "LastChanged": "2022-08-26T13:00:51.6600768+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -882,6 +882,11 @@
       "Time": "2022-08-26T06:00:36.146844+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 935
+    },
+    {
+      "Time": "2022-08-26T13:00:51.6600822+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 937
     }
   ],
   "Tags": [
@@ -915,7 +920,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 61
+      "Count": 65
     },
     {
       "Text": "This game is Great for Quick Sessions",
