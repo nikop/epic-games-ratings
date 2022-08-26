@@ -3,10 +3,10 @@
   "Name": "Video Horror Society",
   "Names": [],
   "Rating": 4.28,
-  "NumberOfRatings": 460,
-  "DailyRatings": 4.02,
+  "NumberOfRatings": 461,
+  "DailyRatings": 4.04,
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2022-08-26T17:01:58.148161+00:00",
+  "LastChanged": "2022-08-26T22:32:24.7978347+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:40.6568694+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-08-26T17:01:58.1481612+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 460
+    },
+    {
+      "Time": "2022-08-26T22:32:24.7978351+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 461
     }
   ],
   "Tags": [
@@ -702,7 +707,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 27
+      "Count": 29
     }
   ]
 }
