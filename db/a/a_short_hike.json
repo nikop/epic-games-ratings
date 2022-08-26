@@ -2,11 +2,11 @@
   "ID": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
   "Name": "A Short Hike",
   "Names": [],
-  "Rating": 4.81,
-  "NumberOfRatings": 140,
-  "DailyRatings": 1.85,
+  "Rating": 4.82,
+  "NumberOfRatings": 141,
+  "DailyRatings": 1.73,
   "FirstSeen": "2022-07-22T20:29:23.6184484+00:00",
-  "LastChanged": "2022-08-25T11:02:25.1761096+00:00",
+  "LastChanged": "2022-08-26T11:02:01.6987221+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:23.6184486+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-08-25T11:02:25.1761098+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 140
+    },
+    {
+      "Time": "2022-08-26T11:02:01.6987223+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 141
     }
   ],
   "Tags": []
