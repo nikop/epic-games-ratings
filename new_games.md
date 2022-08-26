@@ -1,9 +1,9 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Ring of Pain](games/r/ring_of_pain.md) | 4.50 | 217 | 360.10 |
-| 2 | [Destiny 2](games/d/destiny_2.md) | 4.55 | 3 107 | 1273.64 |
+| 1 | [Ring of Pain](games/r/ring_of_pain.md) | 4.48 | 242 | 384.03 |
+| 2 | [Destiny 2](games/d/destiny_2.md) | 4.54 | 3 184 | 1283.34 |
 | 3 | [Saints Row](games/s/saints_row.md) | 3.76 | 6 478 | 2046.53 |
-| 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.44 | 34 | 24.00 |
+| 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.46 | 39 | 15.16 |
 | 5 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.57 | 30 | 6.00 |
 | 6 | [DOOM (1993)](games/d/doom_(1993).md) | 4.89 | 28 | 0.00 |
 | 7 | [DOOM 64](games/d/doom_64.md) | 4.67 | 2 284 | 324.64 |
@@ -12,5 +12,5 @@
 | 10 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 9 753 | 468.80 |
 | 11 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 450 | 67.33 |
 | 12 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 35 344 | 2298.09 |
-| 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 621 | 34.57 |
+| 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 621 | 34.45 |
 | 14 | [MultiVersus](games/m/multiversus.md) | 4.58 | 48 289 | 654.00 |

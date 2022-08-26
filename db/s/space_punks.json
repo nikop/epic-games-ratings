@@ -3,10 +3,10 @@
   "Name": "Space Punks",
   "Names": [],
   "Rating": 4.17,
-  "NumberOfRatings": 1625,
-  "DailyRatings": 10.24,
+  "NumberOfRatings": 1627,
+  "DailyRatings": 9.98,
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
-  "LastChanged": "2022-08-26T05:30:45.5278956+00:00",
+  "LastChanged": "2022-08-26T14:30:55.8022043+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.1353749+00:00",
@@ -952,6 +952,11 @@
       "Time": "2022-08-26T05:30:45.5278958+00:00",
       "Rating": 4.17,
       "NumberOfRatings": 1625
+    },
+    {
+      "Time": "2022-08-26T14:30:55.8022044+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": 1627
     }
   ],
   "Tags": [
