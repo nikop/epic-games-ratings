@@ -3,10 +3,10 @@
   "Name": "Prey",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 11023,
-  "DailyRatings": 86.01,
+  "NumberOfRatings": 11041,
+  "DailyRatings": 86.8,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2022-08-26T20:02:36.4926214+00:00",
+  "LastChanged": "2022-08-26T23:32:44.0664411+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -1407,6 +1407,11 @@
       "Time": "2022-08-26T20:02:36.4926217+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 11023
+    },
+    {
+      "Time": "2022-08-26T23:32:44.0664413+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 11041
     }
   ],
   "Tags": [
