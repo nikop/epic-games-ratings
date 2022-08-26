@@ -1,6 +1,6 @@
 # Transistor
 Rating: 4.66 (104)  
-Ratings Per Day: 0.95  
+Ratings Per Day: 1.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
