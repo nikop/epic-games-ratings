@@ -3,10 +3,10 @@
   "Name": "The Long Dark",
   "Names": [],
   "Rating": 4.74,
-  "NumberOfRatings": 3683,
-  "DailyRatings": 41.14,
+  "NumberOfRatings": 3684,
+  "DailyRatings": 41.04,
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2022-08-26T11:32:21.8336754+00:00",
+  "LastChanged": "2022-08-26T12:32:25.1608427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:46.2160704+00:00",
@@ -1367,6 +1367,11 @@
       "Time": "2022-08-26T11:32:21.8336755+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 3683
+    },
+    {
+      "Time": "2022-08-26T12:32:25.1608428+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 3684
     }
   ],
   "Tags": [
