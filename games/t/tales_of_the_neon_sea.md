@@ -1,6 +1,6 @@
 # Tales of the Neon Sea
-Rating: 4.54 (187)  
-Ratings Per Day: 2.40  
+Rating: 4.54 (189)  
+Ratings Per Day: 2.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,3 +33,4 @@ Ratings Per Day: 2.40
 | 2022-08-22 | 4.53 | 180 |
 | 2022-08-23 | 4.54 | 183 |
 | 2022-08-24 | 4.54 | 187 |
+| 2022-08-26 | 4.54 | 189 |
