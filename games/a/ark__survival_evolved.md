@@ -1,6 +1,6 @@
 # ARK: Survival Evolved
 Rating: 4.62 (32 628)  
-Ratings Per Day: 152.57  
+Ratings Per Day: 154.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
