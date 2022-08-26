@@ -1,6 +1,6 @@
 # Supraland Six Inches Under
-Rating: 4.77 (183)  
-Ratings Per Day: 1.58  
+Rating: 4.77 (185)  
+Ratings Per Day: 1.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Ratings Per Day: 1.58
 | 2022-08-22 | 4.76 | 177 |
 | 2022-08-24 | 4.76 | 178 |
 | 2022-08-25 | 4.77 | 183 |
+| 2022-08-26 | 4.77 | 185 |

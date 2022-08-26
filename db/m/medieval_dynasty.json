@@ -2,11 +2,11 @@
   "ID": "c556d22537ed4a14a454813c9faedd3a",
   "Name": "Medieval Dynasty",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 572,
-  "DailyRatings": 7.35,
+  "Rating": 4.61,
+  "NumberOfRatings": 575,
+  "DailyRatings": 6.57,
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2022-08-25T18:31:42.852356+00:00",
+  "LastChanged": "2022-08-26T16:00:51.509101+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:29.049151+00:00",
@@ -422,6 +422,11 @@
       "Time": "2022-08-25T18:31:42.8523561+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 572
+    },
+    {
+      "Time": "2022-08-26T16:00:51.5091013+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 575
     }
   ],
   "Tags": []
