@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.88,
   "NumberOfRatings": 24752,
-  "DailyRatings": 153.14,
+  "DailyRatings": 152.74,
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "LastChanged": "2022-08-26T18:01:11.1223166+00:00",
   "RatingHistory": [
@@ -1851,7 +1851,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 2538
+      "Count": 2563
     },
     {
       "Text": "This game has Easy Combat",

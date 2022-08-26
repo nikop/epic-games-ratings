@@ -1,6 +1,6 @@
 # Roller Champions™
 Rating: 4.34 (5 252)  
-Ratings Per Day: 17.62  
+Ratings Per Day: 17.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
