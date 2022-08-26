@@ -1,6 +1,6 @@
 # Cris Tales
-Rating: 4.35 (594)  
-Ratings Per Day: 6.28  
+Rating: 4.35 (598)  
+Ratings Per Day: 6.14  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -36,3 +36,4 @@ Ratings Per Day: 6.28
 | 2022-08-23 | 4.36 | 578 |
 | 2022-08-24 | 4.35 | 587 |
 | 2022-08-25 | 4.35 | 594 |
+| 2022-08-26 | 4.35 | 598 |
