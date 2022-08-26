@@ -2,11 +2,11 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "Names": [],
-  "Rating": 4.82,
-  "NumberOfRatings": 4188,
-  "DailyRatings": 52.12,
+  "Rating": 4.83,
+  "NumberOfRatings": 4209,
+  "DailyRatings": 51.46,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-08-25T23:01:54.8020824+00:00",
+  "LastChanged": "2022-08-26T10:31:10.3480016+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -1177,12 +1177,17 @@
       "Time": "2022-08-25T23:01:54.8020826+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 4188
+    },
+    {
+      "Time": "2022-08-26T10:31:10.3480018+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 4209
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 129
+      "Count": 132
     },
     {
       "Text": "This game has Easy Combat",
