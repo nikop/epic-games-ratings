@@ -3,10 +3,10 @@
   "Name": "Hue",
   "Names": [],
   "Rating": 4.54,
-  "NumberOfRatings": 344,
-  "DailyRatings": 3.29,
+  "NumberOfRatings": 348,
+  "DailyRatings": 3.4,
   "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
-  "LastChanged": "2022-08-25T19:00:33.9381397+00:00",
+  "LastChanged": "2022-08-26T19:00:33.4828068+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:29.47486+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-08-25T19:00:33.938145+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 344
+    },
+    {
+      "Time": "2022-08-26T19:00:33.4828071+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 348
     }
   ],
   "Tags": [
