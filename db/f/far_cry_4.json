@@ -3,10 +3,10 @@
   "Name": "FAR CRY 4",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 495,
-  "DailyRatings": 3.38,
+  "NumberOfRatings": 496,
+  "DailyRatings": 3.44,
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2022-08-26T13:01:51.5540711+00:00",
+  "LastChanged": "2022-08-26T17:32:02.5567481+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -297,12 +297,17 @@
       "Time": "2022-08-26T13:01:51.5540713+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 495
+    },
+    {
+      "Time": "2022-08-26T17:32:02.5567482+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 496
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 184
+      "Count": 187
     }
   ]
 }
