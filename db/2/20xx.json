@@ -244,5 +244,10 @@
       "NumberOfRatings": 306
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
+    }
+  ]
 }
