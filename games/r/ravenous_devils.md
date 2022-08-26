@@ -1,6 +1,6 @@
 # Ravenous Devils
 Rating: 4.45 (40)  
-Ratings Per Day: 0.31  
+Ratings Per Day: 0.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
