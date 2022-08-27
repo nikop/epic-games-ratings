@@ -3,10 +3,10 @@
   "Name": "RimWorld",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 735,
-  "DailyRatings": 5.53,
+  "NumberOfRatings": 736,
+  "DailyRatings": 5.16,
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2022-08-26T20:00:38.6035654+00:00",
+  "LastChanged": "2022-08-27T11:30:35.4041347+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -712,6 +712,11 @@
       "Time": "2022-08-26T20:00:38.6035656+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 735
+    },
+    {
+      "Time": "2022-08-27T11:30:35.4041349+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 736
     }
   ],
   "Tags": [

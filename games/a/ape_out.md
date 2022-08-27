@@ -1,6 +1,6 @@
 # APE OUT
 Rating: 4.60 (25)  
-Ratings Per Day: 0.33  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
