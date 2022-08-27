@@ -3,11 +3,11 @@
   "Name": "Quake",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 33,
-  "DailyRatings": 0.77,
+  "NumberOfRatings": 34,
+  "DailyRatings": 0.65,
   "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
   "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
-  "LastChanged": "2022-08-25T12:01:46.076632+00:00",
+  "LastChanged": "2022-08-27T17:31:16.5002774+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T13:31:10.1842868+00:00",
@@ -68,6 +68,11 @@
       "Time": "2022-08-25T12:01:46.0766325+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-08-27T17:31:16.5002775+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 34
     }
   ],
   "Tags": []

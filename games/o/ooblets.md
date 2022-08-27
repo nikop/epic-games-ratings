@@ -1,6 +1,6 @@
 # Ooblets
-Rating: 4.88 (613)  
-Ratings Per Day: 6.13  
+Rating: 4.88 (614)  
+Ratings Per Day: 6.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,4 +39,4 @@ Ratings Per Day: 6.13
 | 2022-08-24 | 4.87 | 593 |
 | 2022-08-25 | 4.87 | 600 |
 | 2022-08-26 | 4.87 | 607 |
-| 2022-08-27 | 4.88 | 613 |
+| 2022-08-27 | 4.88 | 614 |
