@@ -1,6 +1,6 @@
 # BioShock Remastered
 Rating: 4.64 (21 525)  
-Ratings Per Day: 99.07  
+Ratings Per Day: 100.11  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
