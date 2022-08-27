@@ -1,6 +1,6 @@
 # Riders Republic
 Rating: 4.73 (2 744)  
-Ratings Per Day: 27.99  
+Ratings Per Day: 28.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

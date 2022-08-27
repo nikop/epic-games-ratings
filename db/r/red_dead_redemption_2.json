@@ -3,10 +3,10 @@
   "Name": "Red Dead Redemption 2",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 83712,
-  "DailyRatings": 655.18,
+  "NumberOfRatings": 83744,
+  "DailyRatings": 651.94,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2022-08-27T21:31:04.0685368+00:00",
+  "LastChanged": "2022-08-27T23:31:06.0405936+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -2142,6 +2142,11 @@
       "Time": "2022-08-27T21:31:04.0685369+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 83712
+    },
+    {
+      "Time": "2022-08-27T23:31:06.0405938+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 83744
     }
   ],
   "Tags": [

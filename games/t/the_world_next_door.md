@@ -1,6 +1,6 @@
 # The World Next Door
-Rating: 4.00 (30)  
-Ratings Per Day: 0.50  
+Rating: 4.03 (31)  
+Ratings Per Day: 0.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.50
 | 2022-08-19 | 4.07 | 28 |
 | 2022-08-20 | 4.07 | 29 |
 | 2022-08-22 | 4.00 | 30 |
+| 2022-08-27 | 4.03 | 31 |
