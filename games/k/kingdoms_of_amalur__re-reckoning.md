@@ -1,6 +1,6 @@
 # Kingdoms of Amalur: Re-Reckoning
 Rating: 4.59 (114)  
-Ratings Per Day: 1.61  
+Ratings Per Day: 1.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

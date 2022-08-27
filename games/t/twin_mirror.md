@@ -1,6 +1,6 @@
 # Twin Mirror
 Rating: 4.33 (36)  
-Ratings Per Day: 0.50  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

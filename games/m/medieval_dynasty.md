@@ -1,6 +1,6 @@
 # Medieval Dynasty
-Rating: 4.61 (576)  
-Ratings Per Day: 5.98  
+Rating: 4.61 (581)  
+Ratings Per Day: 5.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,3 +39,4 @@ Ratings Per Day: 5.98
 | 2022-08-24 | 4.60 | 566 |
 | 2022-08-25 | 4.60 | 572 |
 | 2022-08-26 | 4.61 | 576 |
+| 2022-08-27 | 4.61 | 581 |
