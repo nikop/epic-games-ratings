@@ -3,10 +3,10 @@
   "Name": "Dishonored - Definitive Edition",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 150,
-  "DailyRatings": 7.4,
+  "NumberOfRatings": 157,
+  "DailyRatings": 7.94,
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2022-08-27T04:03:48.6421383+00:00",
+  "LastChanged": "2022-08-27T16:02:17.9095819+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:28.8932125+00:00",
@@ -182,7 +182,17 @@
       "Time": "2022-08-27T04:03:48.6421385+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 150
+    },
+    {
+      "Time": "2022-08-27T16:02:17.9095821+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 157
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 32
+    }
+  ]
 }

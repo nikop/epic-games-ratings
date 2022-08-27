@@ -1,6 +1,6 @@
 # Death's Door
 Rating: 4.63 (102)  
-Ratings Per Day: 0.88  
+Ratings Per Day: 0.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
