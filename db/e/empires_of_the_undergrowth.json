@@ -3,10 +3,10 @@
   "Name": "Empires of the Undergrowth",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 170,
-  "DailyRatings": 1.97,
+  "NumberOfRatings": 173,
+  "DailyRatings": 2.31,
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2022-08-27T03:32:48.0116779+00:00",
+  "LastChanged": "2022-08-27T11:02:28.9353319+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:38.7992192+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-08-27T03:32:48.011678+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 170
+    },
+    {
+      "Time": "2022-08-27T11:02:28.9353321+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 173
     }
   ],
   "Tags": []
