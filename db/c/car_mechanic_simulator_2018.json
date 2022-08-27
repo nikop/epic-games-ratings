@@ -3,10 +3,10 @@
   "Name": "Car Mechanic Simulator 2018",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 36465,
-  "DailyRatings": 87.38,
+  "NumberOfRatings": 36467,
+  "DailyRatings": 87.14,
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2022-08-27T12:01:33.627665+00:00",
+  "LastChanged": "2022-08-27T13:01:32.5160549+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:04.6520017+00:00",
@@ -1702,6 +1702,11 @@
       "Time": "2022-08-27T12:01:33.6276652+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 36465
+    },
+    {
+      "Time": "2022-08-27T13:01:32.516055+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 36467
     }
   ],
   "Tags": [
@@ -1711,7 +1716,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1390
+      "Count": 1400
     },
     {
       "Text": "This game is Educational",
@@ -1731,7 +1736,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 1253
+      "Count": 1262
     },
     {
       "Text": "This game has Amazing Storytelling",
