@@ -1,6 +1,6 @@
 # Yooka-Laylee and the Impossible Lair
-Rating: 4.42 (280)  
-Ratings Per Day: 1.83  
+Rating: 4.42 (281)  
+Ratings Per Day: 1.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,4 +39,4 @@ Ratings Per Day: 1.83
 | 2022-08-24 | 4.41 | 277 |
 | 2022-08-25 | 4.41 | 278 |
 | 2022-08-26 | 4.42 | 279 |
-| 2022-08-27 | 4.42 | 280 |
+| 2022-08-27 | 4.42 | 281 |
