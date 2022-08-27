@@ -3,10 +3,10 @@
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
   "Names": [],
   "Rating": 4.84,
-  "NumberOfRatings": 2429,
-  "DailyRatings": 18.9,
+  "NumberOfRatings": 2433,
+  "DailyRatings": 18.42,
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2022-08-27T09:01:46.8487399+00:00",
+  "LastChanged": "2022-08-27T15:01:33.9418454+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -1137,6 +1137,11 @@
       "Time": "2022-08-27T09:01:46.84874+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 2429
+    },
+    {
+      "Time": "2022-08-27T15:01:33.9418456+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 2433
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "OCTOPATH TRAVELER\u2122",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 135,
-  "DailyRatings": 1.55,
+  "NumberOfRatings": 136,
+  "DailyRatings": 1.42,
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2022-08-26T14:02:03.1695214+00:00",
+  "LastChanged": "2022-08-27T15:00:49.3820391+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.1292706+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-08-26T14:02:03.1695215+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 135
+    },
+    {
+      "Time": "2022-08-27T15:00:49.3820393+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 136
     }
   ],
   "Tags": [

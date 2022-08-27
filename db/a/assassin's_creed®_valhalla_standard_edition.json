@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 9920,
-  "DailyRatings": 61.37,
+  "NumberOfRatings": 9941,
+  "DailyRatings": 62,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2022-08-27T08:30:57.0909048+00:00",
+  "LastChanged": "2022-08-27T15:00:49.6318228+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -1727,12 +1727,17 @@
       "Time": "2022-08-27T08:30:57.090905+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 9920
+    },
+    {
+      "Time": "2022-08-27T15:00:49.6318229+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 9941
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 4096
+      "Count": 4131
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1752,7 +1757,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 266
+      "Count": 270
     },
     {
       "Text": "This game has Amazing Characters",
