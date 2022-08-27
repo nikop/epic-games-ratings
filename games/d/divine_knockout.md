@@ -1,6 +1,6 @@
 # Divine Knockout
 Rating: 4.75 (51)  
-Ratings Per Day: 1.59  
+Ratings Per Day: 1.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

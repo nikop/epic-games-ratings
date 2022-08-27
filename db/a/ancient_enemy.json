@@ -2,11 +2,11 @@
   "ID": "138c9362d8ff4c239076bc556e18cdac",
   "Name": "Ancient Enemy",
   "Names": [],
-  "Rating": 3.95,
-  "NumberOfRatings": 1921,
-  "DailyRatings": 7.09,
+  "Rating": 3.96,
+  "NumberOfRatings": 1929,
+  "DailyRatings": 7.37,
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
-  "LastChanged": "2022-08-26T06:30:27.8183949+00:00",
+  "LastChanged": "2022-08-27T03:00:40.5913567+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.0310517+00:00",
@@ -472,6 +472,11 @@
       "Time": "2022-08-26T06:30:27.8184012+00:00",
       "Rating": 3.95,
       "NumberOfRatings": 1921
+    },
+    {
+      "Time": "2022-08-27T03:00:40.591357+00:00",
+      "Rating": 3.96,
+      "NumberOfRatings": 1929
     }
   ],
   "Tags": [
@@ -489,7 +494,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Great for Quick Sessions",
