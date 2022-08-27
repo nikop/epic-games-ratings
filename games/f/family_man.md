@@ -1,6 +1,6 @@
 # Family Man
-Rating: 4.24 (25)  
-Ratings Per Day: 0.66  
+Rating: 4.27 (26)  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.66
 | 2022-08-21 | 4.17 | 23 |
 | 2022-08-22 | 4.21 | 24 |
 | 2022-08-24 | 4.24 | 25 |
+| 2022-08-27 | 4.27 | 26 |

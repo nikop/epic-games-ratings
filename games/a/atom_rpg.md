@@ -1,6 +1,6 @@
 # ATOM RPG
 Rating: 4.32 (44)  
-Ratings Per Day: 0.29  
+Ratings Per Day: 0.35  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
