@@ -1,6 +1,6 @@
 # Celeste
-Rating: 4.92 (2 036)  
-Ratings Per Day: 17.89  
+Rating: 4.92 (2 038)  
+Ratings Per Day: 17.91  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -40,4 +40,4 @@ Ratings Per Day: 17.89
 | 2022-08-24 | 4.92 | 1 991 |
 | 2022-08-25 | 4.92 | 2 011 |
 | 2022-08-26 | 4.92 | 2 027 |
-| 2022-08-27 | 4.92 | 2 036 |
+| 2022-08-27 | 4.92 | 2 038 |
