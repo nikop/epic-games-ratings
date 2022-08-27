@@ -3,10 +3,10 @@
   "Name": "Borderlands: The Pre-Sequel",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 2423,
-  "DailyRatings": 17.43,
+  "NumberOfRatings": 2426,
+  "DailyRatings": 17.39,
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2022-08-27T03:01:21.7140226+00:00",
+  "LastChanged": "2022-08-27T07:31:03.6775632+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:28.4538343+00:00",
@@ -1172,12 +1172,17 @@
       "Time": "2022-08-27T03:01:21.7140227+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 2423
+    },
+    {
+      "Time": "2022-08-27T07:31:03.6775633+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 2426
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 185
+      "Count": 190
     },
     {
       "Text": "This game is Highly Recommended",

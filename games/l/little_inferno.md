@@ -1,5 +1,5 @@
 # Little Inferno
-Rating: 4.36 (55)  
+Rating: 4.34 (56)  
 Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -24,3 +24,4 @@ Ratings Per Day: 1.00
 | 2022-08-23 | 4.37 | 52 |
 | 2022-08-24 | 4.39 | 54 |
 | 2022-08-26 | 4.36 | 55 |
+| 2022-08-27 | 4.34 | 56 |

@@ -3,10 +3,10 @@
   "Name": "Metro Exodus Standard Edition",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 6028,
-  "DailyRatings": 66.92,
+  "NumberOfRatings": 6043,
+  "DailyRatings": 64.67,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-08-26T20:31:05.2014954+00:00",
+  "LastChanged": "2022-08-27T07:30:30.9444603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -1517,6 +1517,11 @@
       "Time": "2022-08-26T20:31:05.2014959+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 6028
+    },
+    {
+      "Time": "2022-08-27T07:30:30.9444604+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 6043
     }
   ],
   "Tags": [
@@ -1526,7 +1531,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 234
+      "Count": 240
     },
     {
       "Text": "This game is Extremely Fun",
