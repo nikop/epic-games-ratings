@@ -2,12 +2,12 @@
   "ID": "8e66d3f552b448afb1889c32ac855fc9",
   "Name": "TowerFall Ascension",
   "Names": [],
-  "Rating": 4.76,
-  "NumberOfRatings": 25,
-  "DailyRatings": 1,
+  "Rating": 4.77,
+  "NumberOfRatings": 26,
+  "DailyRatings": 0.38,
   "FirstSeen": "2022-07-22T20:20:19.2112419+00:00",
   "FirstSeenRating": "2022-08-10T22:30:46.7475035+00:00",
-  "LastChanged": "2022-08-23T05:00:52.0682836+00:00",
+  "LastChanged": "2022-08-27T10:01:03.7946483+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-10T22:30:46.7475038+00:00",
@@ -38,6 +38,11 @@
       "Time": "2022-08-23T05:00:52.0682839+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-08-27T10:01:03.7946487+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 26
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Dead Cells
 Rating: 4.87 (1 121)  
-Ratings Per Day: 9.54  
+Ratings Per Day: 9.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

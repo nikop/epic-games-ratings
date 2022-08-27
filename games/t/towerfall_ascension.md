@@ -1,6 +1,6 @@
 # TowerFall Ascension
-Rating: 4.76 (25)  
-Ratings Per Day: 1.00  
+Rating: 4.77 (26)  
+Ratings Per Day: 0.38  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 1.00
 | 2022-08-20 | 4.78 | 23 |
 | 2022-08-22 | 4.79 | 24 |
 | 2022-08-23 | 4.76 | 25 |
+| 2022-08-27 | 4.77 | 26 |

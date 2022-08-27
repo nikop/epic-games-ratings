@@ -1,6 +1,6 @@
 # Never Alone (Kisima Ingitchuna)
-Rating: 4.04 (127)  
-Ratings Per Day: 0.83  
+Rating: 4.04 (130)  
+Ratings Per Day: 1.14  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Ratings Per Day: 0.83
 | 2022-08-23 | 4.02 | 124 |
 | 2022-08-24 | 4.02 | 125 |
 | 2022-08-26 | 4.04 | 127 |
+| 2022-08-27 | 4.04 | 130 |
