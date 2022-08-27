@@ -2,11 +2,11 @@
   "ID": "0f86606a1622460898a7874d488f288a",
   "Name": "Kingdoms of Amalur: Re-Reckoning",
   "Names": [],
-  "Rating": 4.58,
-  "NumberOfRatings": 113,
-  "DailyRatings": 2.1,
+  "Rating": 4.59,
+  "NumberOfRatings": 114,
+  "DailyRatings": 1.61,
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
-  "LastChanged": "2022-08-25T11:01:39.8162156+00:00",
+  "LastChanged": "2022-08-27T12:31:06.1359675+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.3365421+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-08-25T11:01:39.8162157+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 113
+    },
+    {
+      "Time": "2022-08-27T12:31:06.1359676+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 114
     }
   ],
   "Tags": [
