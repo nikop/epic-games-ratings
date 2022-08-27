@@ -1,6 +1,6 @@
 # Watch Dogs 2 Standard Edition
-Rating: 4.58 (5 064)  
-Ratings Per Day: 51.50  
+Rating: 4.58 (5 072)  
+Ratings Per Day: 51.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -40,3 +40,4 @@ Ratings Per Day: 51.50
 | 2022-08-24 | 4.58 | 4 957 |
 | 2022-08-25 | 4.58 | 4 995 |
 | 2022-08-26 | 4.58 | 5 064 |
+| 2022-08-27 | 4.58 | 5 072 |
