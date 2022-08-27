@@ -1,6 +1,6 @@
 # Rogue Legacy 2
-Rating: 4.85 (1 219)  
-Ratings Per Day: 3.56  
+Rating: 4.86 (1 221)  
+Ratings Per Day: 3.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -40,4 +40,4 @@ Ratings Per Day: 3.56
 | 2022-08-24 | 4.85 | 1 208 |
 | 2022-08-25 | 4.85 | 1 211 |
 | 2022-08-26 | 4.85 | 1 217 |
-| 2022-08-27 | 4.85 | 1 219 |
+| 2022-08-27 | 4.86 | 1 221 |

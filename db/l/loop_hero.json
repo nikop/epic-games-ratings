@@ -3,10 +3,10 @@
   "Name": "Loop Hero",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 5033,
-  "DailyRatings": 42.05,
+  "NumberOfRatings": 5046,
+  "DailyRatings": 43.38,
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2022-08-27T11:02:22.9577323+00:00",
+  "LastChanged": "2022-08-27T18:02:09.1233428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:49.2794884+00:00",
@@ -1407,6 +1407,11 @@
       "Time": "2022-08-27T11:02:22.9577325+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 5033
+    },
+    {
+      "Time": "2022-08-27T18:02:09.1233429+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 5046
     }
   ],
   "Tags": [
@@ -1444,7 +1449,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 162
+      "Count": 164
     },
     {
       "Text": "This game has a Creative Community",
