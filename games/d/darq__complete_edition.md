@@ -1,6 +1,6 @@
 # DARQ: Complete Edition
 Rating: 4.40 (311)  
-Ratings Per Day: 3.29  
+Ratings Per Day: 3.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

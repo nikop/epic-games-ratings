@@ -1,6 +1,6 @@
 # Killing Floor 2
 Rating: 4.35 (16 853)  
-Ratings Per Day: 73.96  
+Ratings Per Day: 73.90  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
