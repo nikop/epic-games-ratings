@@ -1,6 +1,6 @@
 # Empires of the Undergrowth
-Rating: 4.75 (174)  
-Ratings Per Day: 2.31  
+Rating: 4.75 (175)  
+Ratings Per Day: 2.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -34,4 +34,4 @@ Ratings Per Day: 2.31
 | 2022-08-23 | 4.75 | 163 |
 | 2022-08-25 | 4.74 | 166 |
 | 2022-08-26 | 4.74 | 168 |
-| 2022-08-27 | 4.75 | 174 |
+| 2022-08-27 | 4.75 | 175 |
