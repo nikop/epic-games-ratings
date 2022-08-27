@@ -3,10 +3,10 @@
   "Name": "Torchlight II",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 1780,
-  "DailyRatings": 18.33,
+  "NumberOfRatings": 1783,
+  "DailyRatings": 18.55,
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-08-27T03:02:23.6307764+00:00",
+  "LastChanged": "2022-08-27T05:02:19.1660231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -702,6 +702,11 @@
       "Time": "2022-08-27T03:02:23.6307765+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 1780
+    },
+    {
+      "Time": "2022-08-27T05:02:19.1660232+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 1783
     }
   ],
   "Tags": [
@@ -711,7 +716,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 194
+      "Count": 196
     },
     {
       "Text": "This game is Extremely Fun",

@@ -1,6 +1,6 @@
 # The Messenger
 Rating: 4.81 (439)  
-Ratings Per Day: 4.06  
+Ratings Per Day: 4.35  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
