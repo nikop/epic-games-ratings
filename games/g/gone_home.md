@@ -1,6 +1,6 @@
 # Gone Home
-Rating: 4.13 (47)  
-Ratings Per Day: 0.40  
+Rating: 4.15 (48)  
+Ratings Per Day: 0.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 0.40
 | 2022-08-20 | 4.11 | 45 |
 | 2022-08-23 | 4.13 | 46 |
 | 2022-08-25 | 4.13 | 47 |
+| 2022-08-27 | 4.15 | 48 |
