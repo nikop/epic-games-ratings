@@ -3,10 +3,10 @@
   "Name": "Yooka-Laylee and the Impossible Lair",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 279,
-  "DailyRatings": 2,
+  "NumberOfRatings": 280,
+  "DailyRatings": 1.83,
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2022-08-26T19:32:12.1112891+00:00",
+  "LastChanged": "2022-08-27T19:31:27.9291077+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:15.7946919+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-08-26T19:32:12.1112892+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 279
+    },
+    {
+      "Time": "2022-08-27T19:31:27.9291079+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 280
     }
   ],
   "Tags": []

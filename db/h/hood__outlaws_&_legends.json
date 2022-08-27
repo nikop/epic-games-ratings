@@ -3,10 +3,10 @@
   "Name": "Hood: Outlaws \u0026 Legends",
   "Names": [],
   "Rating": 3.98,
-  "NumberOfRatings": 12143,
-  "DailyRatings": 18.47,
+  "NumberOfRatings": 12151,
+  "DailyRatings": 18.97,
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2022-08-27T13:30:36.9275528+00:00",
+  "LastChanged": "2022-08-27T19:30:21.4447665+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:31.7735863+00:00",
@@ -1447,6 +1447,11 @@
       "Time": "2022-08-27T13:30:36.927553+00:00",
       "Rating": 3.98,
       "NumberOfRatings": 12143
+    },
+    {
+      "Time": "2022-08-27T19:30:21.4447671+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": 12151
     }
   ],
   "Tags": [

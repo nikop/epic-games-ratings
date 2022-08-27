@@ -3,10 +3,10 @@
   "Name": "Control",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 12645,
-  "DailyRatings": 125.89,
+  "NumberOfRatings": 12672,
+  "DailyRatings": 126.39,
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2022-08-27T15:00:15.3706022+00:00",
+  "LastChanged": "2022-08-27T19:30:15.2571722+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -1582,6 +1582,11 @@
       "Time": "2022-08-27T15:00:15.3706027+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 12645
+    },
+    {
+      "Time": "2022-08-27T19:30:15.2571724+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 12672
     }
   ],
   "Tags": [
@@ -1599,7 +1604,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 182
+      "Count": 184
     },
     {
       "Text": "This game is Extremely Fun",
