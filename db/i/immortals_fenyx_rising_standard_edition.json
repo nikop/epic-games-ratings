@@ -3,10 +3,10 @@
   "Name": "Immortals Fenyx Rising Standard Edition",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 641,
-  "DailyRatings": 4.78,
+  "NumberOfRatings": 644,
+  "DailyRatings": 4.57,
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2022-08-26T23:01:21.3323391+00:00",
+  "LastChanged": "2022-08-27T21:01:06.6882428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:58.8142391+00:00",
@@ -382,6 +382,11 @@
       "Time": "2022-08-26T23:01:21.3323393+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 641
+    },
+    {
+      "Time": "2022-08-27T21:01:06.6882429+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 644
     }
   ],
   "Tags": [
@@ -395,7 +400,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
