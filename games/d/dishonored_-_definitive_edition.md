@@ -1,6 +1,6 @@
 # Dishonored - Definitive Edition
 Rating: 4.77 (150)  
-Ratings Per Day: 6.73  
+Ratings Per Day: 7.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

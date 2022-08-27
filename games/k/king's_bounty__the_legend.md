@@ -1,5 +1,5 @@
 # King's Bounty: The Legend
-Rating: 4.58 (33)  
+Rating: 4.59 (34)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.00
 | 2022-07-31 | 4.55 | 31 |
 | 2022-08-12 | 4.56 | 32 |
 | 2022-08-19 | 4.58 | 33 |
+| 2022-08-27 | 4.59 | 34 |
