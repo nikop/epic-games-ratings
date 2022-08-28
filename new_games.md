@@ -11,6 +11,6 @@
 | 9 | [Aragami 2](games/a/aragami_2.md) | 4.46 | 56 | 4.23 |
 | 10 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 10 375 | 393.76 |
 | 11 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 542 | 52.03 |
-| 12 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 38 722 | 2013.37 |
+| 12 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 38 813 | 2014.41 |
 | 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 665 | 28.47 |
 | 14 | [MultiVersus](games/m/multiversus.md) | 4.58 | 49 448 | 620.95 |
