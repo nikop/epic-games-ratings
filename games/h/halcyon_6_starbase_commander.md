@@ -1,6 +1,6 @@
 # Halcyon 6 Starbase Commander
 Rating: 4.45 (120)  
-Ratings Per Day: 1.32  
+Ratings Per Day: 1.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

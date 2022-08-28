@@ -6,7 +6,7 @@
 | 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.44 | 57 | 14.26 |
 | 5 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.66 | 56 | 10.06 |
 | 6 | [DOOM (1993)](games/d/doom_(1993).md) | 4.89 | 46 | 7.38 |
-| 7 | [DOOM 64](games/d/doom_64.md) | 4.67 | 2 805 | 347.31 |
+| 7 | [DOOM 64](games/d/doom_64.md) | 4.66 | 2 871 | 337.14 |
 | 8 | [DOOM 3](games/d/doom_3.md) | 4.61 | 31 | 3.38 |
 | 9 | [Aragami 2](games/a/aragami_2.md) | 4.46 | 56 | 4.23 |
 | 10 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 10 317 | 408.73 |

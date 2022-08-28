@@ -1,6 +1,6 @@
 # Tales of the Neon Sea
 Rating: 4.54 (191)  
-Ratings Per Day: 2.16  
+Ratings Per Day: 2.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

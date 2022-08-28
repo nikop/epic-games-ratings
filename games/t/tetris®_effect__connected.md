@@ -1,6 +1,6 @@
 # Tetris® Effect: Connected
 Rating: 4.86 (233)  
-Ratings Per Day: 1.25  
+Ratings Per Day: 1.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
