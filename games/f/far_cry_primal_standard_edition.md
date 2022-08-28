@@ -1,6 +1,6 @@
 # Far Cry Primal Standard Edition
-Rating: 4.66 (350)  
-Ratings Per Day: 2.01  
+Rating: 4.66 (352)  
+Ratings Per Day: 2.11  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -40,3 +40,4 @@ Ratings Per Day: 2.01
 | 2022-08-25 | 4.66 | 346 |
 | 2022-08-26 | 4.66 | 349 |
 | 2022-08-27 | 4.66 | 350 |
+| 2022-08-28 | 4.66 | 352 |
