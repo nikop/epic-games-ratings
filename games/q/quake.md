@@ -1,6 +1,6 @@
 # Quake
-Rating: 4.85 (34)  
-Ratings Per Day: 0.56  
+Rating: 4.83 (36)  
+Ratings Per Day: 0.88  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 0.56
 | 2022-08-24 | 4.84 | 32 |
 | 2022-08-25 | 4.85 | 33 |
 | 2022-08-27 | 4.85 | 34 |
+| 2022-08-28 | 4.83 | 36 |
