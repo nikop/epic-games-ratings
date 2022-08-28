@@ -2,11 +2,11 @@
   "ID": "3eaafa8c26094cb483cba27d360a443b",
   "Name": "King\u0027s Bounty: The Legend",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 34,
-  "DailyRatings": 0,
+  "Rating": 4.6,
+  "NumberOfRatings": 35,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:23:22.2011944+00:00",
-  "LastChanged": "2022-08-27T15:31:10.4345664+00:00",
+  "LastChanged": "2022-08-28T15:31:10.179777+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:22.2011946+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-08-27T15:31:10.4345665+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-08-28T15:31:10.1797772+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 35
     }
   ],
   "Tags": []
