@@ -1,6 +1,6 @@
 # Auto Chess
 Rating: 4.51 (1 932)  
-Ratings Per Day: 10.84  
+Ratings Per Day: 10.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
