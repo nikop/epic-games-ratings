@@ -254,5 +254,10 @@
       "NumberOfRatings": 244
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 20
+    }
+  ]
 }

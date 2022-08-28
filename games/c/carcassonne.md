@@ -1,6 +1,6 @@
 # Carcassonne
 Rating: 4.71 (227)  
-Ratings Per Day: 2.47  
+Ratings Per Day: 2.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

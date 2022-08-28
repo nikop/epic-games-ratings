@@ -3,10 +3,10 @@
   "Name": "Heavy Rain",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 211,
-  "DailyRatings": 1.49,
+  "NumberOfRatings": 212,
+  "DailyRatings": 1.43,
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2022-08-27T23:30:21.4833178+00:00",
+  "LastChanged": "2022-08-28T22:30:24.1583101+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:18.3925165+00:00",
@@ -207,12 +207,17 @@
       "Time": "2022-08-27T23:30:21.4833181+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 211
+    },
+    {
+      "Time": "2022-08-28T22:30:24.1583104+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 212
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 27
+      "Count": 28
     }
   ]
 }
