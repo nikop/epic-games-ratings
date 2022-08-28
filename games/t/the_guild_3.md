@@ -1,6 +1,6 @@
 # The Guild 3
-Rating: 4.03 (69)  
-Ratings Per Day: 0.50  
+Rating: 4.06 (71)  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 0.50
 | 2022-08-24 | 4.07 | 67 |
 | 2022-08-26 | 4.03 | 68 |
 | 2022-08-27 | 4.03 | 69 |
+| 2022-08-28 | 4.06 | 71 |
