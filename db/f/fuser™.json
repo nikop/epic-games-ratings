@@ -3,10 +3,10 @@
   "Name": "FUSER\u2122",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 76,
-  "DailyRatings": 3,
+  "NumberOfRatings": 77,
+  "DailyRatings": 0.51,
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2022-08-22T20:31:08.1056698+00:00",
+  "LastChanged": "2022-08-28T02:30:25.4600792+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:53.9357226+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-08-22T20:31:08.1056699+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 76
+    },
+    {
+      "Time": "2022-08-28T02:30:25.4600795+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 77
     }
   ],
   "Tags": [
@@ -124,7 +129,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Great for Beginners",
