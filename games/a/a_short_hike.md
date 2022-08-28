@@ -1,6 +1,6 @@
 # A Short Hike
-Rating: 4.82 (144)  
-Ratings Per Day: 1.99  
+Rating: 4.82 (147)  
+Ratings Per Day: 2.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,3 +33,4 @@ Ratings Per Day: 1.99
 | 2022-08-25 | 4.81 | 140 |
 | 2022-08-26 | 4.82 | 141 |
 | 2022-08-27 | 4.82 | 144 |
+| 2022-08-28 | 4.82 | 147 |
