@@ -2,11 +2,11 @@
   "ID": "52b90f9a982a404781b189f6a7903226",
   "Name": "Totally Reliable Delivery Service Standard Edition",
   "Names": [],
-  "Rating": 4.54,
-  "NumberOfRatings": 95,
-  "DailyRatings": 1.75,
+  "Rating": 4.52,
+  "NumberOfRatings": 96,
+  "DailyRatings": 1.61,
   "FirstSeen": "2022-07-22T20:20:09.4036127+00:00",
-  "LastChanged": "2022-08-27T05:31:03.6047367+00:00",
+  "LastChanged": "2022-08-28T05:30:57.7541752+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:09.403613+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-08-27T05:31:03.6047487+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 95
+    },
+    {
+      "Time": "2022-08-28T05:30:57.7541754+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 96
     }
   ],
   "Tags": []
