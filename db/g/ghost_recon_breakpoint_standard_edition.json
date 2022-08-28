@@ -3,10 +3,10 @@
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "Names": [],
   "Rating": 4.54,
-  "NumberOfRatings": 3870,
-  "DailyRatings": 28.92,
+  "NumberOfRatings": 3873,
+  "DailyRatings": 28.86,
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2022-08-28T18:30:31.0175288+00:00",
+  "LastChanged": "2022-08-28T21:00:28.3621641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:01.6049159+00:00",
@@ -1347,12 +1347,17 @@
       "Time": "2022-08-28T18:30:31.017529+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 3870
+    },
+    {
+      "Time": "2022-08-28T21:00:28.3621643+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 3873
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 257
+      "Count": 262
     },
     {
       "Text": "This game is Great for Beginners",

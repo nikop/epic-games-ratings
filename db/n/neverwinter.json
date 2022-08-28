@@ -3,10 +3,10 @@
   "Name": "Neverwinter",
   "Names": [],
   "Rating": 4.3,
-  "NumberOfRatings": 910,
-  "DailyRatings": 7.18,
+  "NumberOfRatings": 911,
+  "DailyRatings": 7.15,
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2022-08-28T17:00:27.8930219+00:00",
+  "LastChanged": "2022-08-28T21:00:21.4072666+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:12.0635618+00:00",
@@ -742,6 +742,11 @@
       "Time": "2022-08-28T17:00:27.8930222+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 910
+    },
+    {
+      "Time": "2022-08-28T21:00:21.4072669+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 911
     }
   ],
   "Tags": [
