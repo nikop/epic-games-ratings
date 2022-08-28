@@ -2,11 +2,11 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "Names": [],
-  "Rating": 4.43,
-  "NumberOfRatings": 5647,
-  "DailyRatings": 32.68,
+  "Rating": 4.44,
+  "NumberOfRatings": 5648,
+  "DailyRatings": 32.53,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-08-28T05:00:57.9443542+00:00",
+  "LastChanged": "2022-08-28T06:30:58.6326177+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -1732,6 +1732,11 @@
       "Time": "2022-08-28T05:00:57.9443544+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 5647
+    },
+    {
+      "Time": "2022-08-28T06:30:58.6326179+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 5648
     }
   ],
   "Tags": [
