@@ -3,10 +3,10 @@
   "Name": "League of Legends",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 8786,
-  "DailyRatings": 82.79,
+  "NumberOfRatings": 8788,
+  "DailyRatings": 82.33,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2022-08-28T20:32:16.9617253+00:00",
+  "LastChanged": "2022-08-28T22:02:14.1734388+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -1922,6 +1922,11 @@
       "Time": "2022-08-28T20:32:16.9617255+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 8786
+    },
+    {
+      "Time": "2022-08-28T22:02:14.173439+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 8788
     }
   ],
   "Tags": [
@@ -1935,7 +1940,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 490
+      "Count": 500
     },
     {
       "Text": "This game has Amazing Characters",

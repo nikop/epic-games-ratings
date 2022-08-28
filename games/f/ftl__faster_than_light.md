@@ -1,6 +1,6 @@
 # FTL: Faster Than Light
-Rating: 4.79 (966)  
-Ratings Per Day: 9.08  
+Rating: 4.79 (967)  
+Ratings Per Day: 8.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -41,4 +41,4 @@ Ratings Per Day: 9.08
 | 2022-08-25 | 4.79 | 942 |
 | 2022-08-26 | 4.79 | 959 |
 | 2022-08-27 | 4.79 | 965 |
-| 2022-08-28 | 4.79 | 966 |
+| 2022-08-28 | 4.79 | 967 |
