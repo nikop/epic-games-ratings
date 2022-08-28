@@ -1,6 +1,6 @@
 # Hand of Fate 2
 Rating: 4.56 (626)  
-Ratings Per Day: 7.41  
+Ratings Per Day: 8.12  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

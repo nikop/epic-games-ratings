@@ -3,10 +3,10 @@
   "Name": "Stubbs the Zombie in Rebel Without a Pulse",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 202,
-  "DailyRatings": 2.09,
+  "NumberOfRatings": 205,
+  "DailyRatings": 2.22,
   "FirstSeen": "2022-07-22T20:32:41.8050293+00:00",
-  "LastChanged": "2022-08-27T23:32:13.7016878+00:00",
+  "LastChanged": "2022-08-28T23:32:18.5013105+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:41.8050299+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-08-27T23:32:13.701688+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 202
+    },
+    {
+      "Time": "2022-08-28T23:32:18.5013107+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 205
     }
   ],
   "Tags": [

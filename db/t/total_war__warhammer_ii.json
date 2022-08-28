@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER II",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 1012,
-  "DailyRatings": 6.18,
+  "NumberOfRatings": 1013,
+  "DailyRatings": 6.16,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-08-28T19:00:17.6547205+00:00",
+  "LastChanged": "2022-08-28T23:30:20.2496153+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -832,6 +832,11 @@
       "Time": "2022-08-28T19:00:17.6547206+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 1012
+    },
+    {
+      "Time": "2022-08-28T23:30:20.2496156+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 1013
     }
   ],
   "Tags": [
@@ -885,7 +890,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 222
+      "Count": 227
     }
   ]
 }
