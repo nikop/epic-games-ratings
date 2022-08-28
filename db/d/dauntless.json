@@ -2,11 +2,11 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "Names": [],
-  "Rating": 4.52,
-  "NumberOfRatings": 19574,
-  "DailyRatings": 166.17,
+  "Rating": 4.53,
+  "NumberOfRatings": 19598,
+  "DailyRatings": 167.64,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-08-28T17:30:47.8086384+00:00",
+  "LastChanged": "2022-08-28T19:30:46.7444343+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -2007,6 +2007,11 @@
       "Time": "2022-08-28T17:30:47.8086385+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 19574
+    },
+    {
+      "Time": "2022-08-28T19:30:46.7444346+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 19598
     }
   ],
   "Tags": [
@@ -2052,7 +2057,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 767
+      "Count": 880
     }
   ]
 }

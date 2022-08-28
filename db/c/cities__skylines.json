@@ -3,10 +3,10 @@
   "Name": "Cities: Skylines",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 20119,
-  "DailyRatings": 179.76,
+  "NumberOfRatings": 20128,
+  "DailyRatings": 179.16,
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
-  "LastChanged": "2022-08-28T18:02:24.6251759+00:00",
+  "LastChanged": "2022-08-28T19:30:44.5786641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:44.6167527+00:00",
@@ -1842,6 +1842,11 @@
       "Time": "2022-08-28T18:02:24.625176+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 20119
+    },
+    {
+      "Time": "2022-08-28T19:30:44.5786643+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 20128
     }
   ],
   "Tags": [

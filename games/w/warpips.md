@@ -1,5 +1,5 @@
 # Warpips
-Rating: 4.48 (29)  
+Rating: 4.50 (30)  
 Ratings Per Day: 0.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.48
 | 2022-08-21 | 4.50 | 26 |
 | 2022-08-22 | 4.52 | 27 |
 | 2022-08-26 | 4.48 | 29 |
+| 2022-08-28 | 4.50 | 30 |

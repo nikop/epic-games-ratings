@@ -3,10 +3,10 @@
   "Name": "Overcooked! 2",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 4201,
-  "DailyRatings": 41.16,
+  "NumberOfRatings": 4208,
+  "DailyRatings": 41.55,
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2022-08-28T17:00:25.6692876+00:00",
+  "LastChanged": "2022-08-28T19:30:22.6747458+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:55.1110044+00:00",
@@ -1117,6 +1117,11 @@
       "Time": "2022-08-28T17:00:25.6692879+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 4201
+    },
+    {
+      "Time": "2022-08-28T19:30:22.674746+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 4208
     }
   ],
   "Tags": [
