@@ -2,11 +2,11 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "Names": [],
-  "Rating": 4.43,
-  "NumberOfRatings": 5669,
-  "DailyRatings": 32.72,
+  "Rating": 4.44,
+  "NumberOfRatings": 5671,
+  "DailyRatings": 32.48,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-08-28T17:01:07.1416652+00:00",
+  "LastChanged": "2022-08-28T19:00:57.5077114+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -1757,12 +1757,17 @@
       "Time": "2022-08-28T17:01:07.1416653+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 5669
+    },
+    {
+      "Time": "2022-08-28T19:00:57.5077116+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 5671
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 2887
+      "Count": 2910
     },
     {
       "Text": "This game has Great Boss Battles",
