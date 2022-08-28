@@ -1,6 +1,6 @@
 # Rebel Galaxy Outlaw
 Rating: 4.48 (120)  
-Ratings Per Day: 1.08  
+Ratings Per Day: 1.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

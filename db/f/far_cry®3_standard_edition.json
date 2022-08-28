@@ -3,10 +3,10 @@
   "Name": "Far Cry\u00AE3 Standard Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 357,
-  "DailyRatings": 4,
+  "NumberOfRatings": 359,
+  "DailyRatings": 4.04,
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2022-08-27T23:31:17.0649085+00:00",
+  "LastChanged": "2022-08-28T10:01:44.4110139+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -262,12 +262,17 @@
       "Time": "2022-08-27T23:31:17.0649086+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 357
+    },
+    {
+      "Time": "2022-08-28T10:01:44.411014+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 359
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 113
+      "Count": 116
     }
   ]
 }
