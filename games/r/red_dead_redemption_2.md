@@ -1,6 +1,6 @@
 # Red Dead Redemption 2
 Rating: 4.90 (83 923)  
-Ratings Per Day: 659.99  
+Ratings Per Day: 657.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

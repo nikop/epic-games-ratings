@@ -1,7 +1,7 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Ring of Pain](games/r/ring_of_pain.md) | 4.50 | 1 359 | 638.53 |
-| 2 | [Destiny 2](games/d/destiny_2.md) | 4.52 | 6 491 | 1590.63 |
+| 2 | [Destiny 2](games/d/destiny_2.md) | 4.52 | 6 591 | 1598.84 |
 | 3 | [Saints Row](games/s/saints_row.md) | 3.75 | 9 581 | 1990.74 |
 | 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.44 | 57 | 14.26 |
 | 5 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.64 | 55 | 10.88 |
