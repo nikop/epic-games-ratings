@@ -1,5 +1,5 @@
 # Hero's Hour
-Rating: 4.39 (33)  
+Rating: 4.35 (34)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.00
 | 2022-08-08 | 4.35 | 31 |
 | 2022-08-09 | 4.38 | 32 |
 | 2022-08-14 | 4.39 | 33 |
+| 2022-08-28 | 4.35 | 34 |
