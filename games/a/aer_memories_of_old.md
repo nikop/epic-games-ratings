@@ -1,6 +1,6 @@
 # AER Memories of Old
 Rating: 4.47 (143)  
-Ratings Per Day: 1.44  
+Ratings Per Day: 1.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

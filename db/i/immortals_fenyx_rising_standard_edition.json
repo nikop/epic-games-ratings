@@ -3,10 +3,10 @@
   "Name": "Immortals Fenyx Rising Standard Edition",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 648,
-  "DailyRatings": 5.11,
+  "NumberOfRatings": 650,
+  "DailyRatings": 5.24,
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2022-08-28T09:31:08.9049973+00:00",
+  "LastChanged": "2022-08-28T15:01:09.7603979+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:58.8142391+00:00",
@@ -392,12 +392,17 @@
       "Time": "2022-08-28T09:31:08.9049974+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 648
+    },
+    {
+      "Time": "2022-08-28T15:01:09.760398+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 650
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 255
+      "Count": 258
     },
     {
       "Text": "This game is Highly Recommended",

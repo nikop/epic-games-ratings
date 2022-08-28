@@ -2,11 +2,11 @@
   "ID": "1311a5735ed844c0b3c47027cab321f0",
   "Name": "Doki Doki Literature Club Plus!",
   "Names": [],
-  "Rating": 4.82,
-  "NumberOfRatings": 39,
-  "DailyRatings": 0.64,
+  "Rating": 4.83,
+  "NumberOfRatings": 40,
+  "DailyRatings": 0.59,
   "FirstSeen": "2022-07-22T20:27:25.5906311+00:00",
-  "LastChanged": "2022-08-26T15:01:51.1351175+00:00",
+  "LastChanged": "2022-08-28T15:01:43.9580617+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:25.5906314+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-08-26T15:01:51.1351176+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-08-28T15:01:43.958062+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 40
     }
   ],
   "Tags": []
