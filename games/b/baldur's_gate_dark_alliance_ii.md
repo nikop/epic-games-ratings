@@ -1,6 +1,6 @@
 # Baldur's Gate Dark Alliance II
-Rating: 4.43 (28)  
-Ratings Per Day: 0.21  
+Rating: 4.45 (29)  
+Ratings Per Day: 0.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.21
 | 2022-08-14 | 4.42 | 26 |
 | 2022-08-22 | 4.44 | 27 |
 | 2022-08-27 | 4.43 | 28 |
+| 2022-08-28 | 4.45 | 29 |
