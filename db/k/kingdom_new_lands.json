@@ -3,10 +3,10 @@
   "Name": "Kingdom New Lands",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 1426,
-  "DailyRatings": 11.64,
+  "NumberOfRatings": 1427,
+  "DailyRatings": 11.13,
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2022-08-27T19:01:33.4536208+00:00",
+  "LastChanged": "2022-08-28T04:01:34.286566+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -717,6 +717,11 @@
       "Time": "2022-08-27T19:01:33.453621+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 1426
+    },
+    {
+      "Time": "2022-08-28T04:01:34.2865661+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 1427
     }
   ],
   "Tags": [
@@ -726,7 +731,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game is Relaxing",
