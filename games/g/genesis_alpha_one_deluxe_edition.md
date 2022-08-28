@@ -1,6 +1,6 @@
 # Genesis Alpha One Deluxe Edition
 Rating: 4.33 (39)  
-Ratings Per Day: 0.75  
+Ratings Per Day: 0.65  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

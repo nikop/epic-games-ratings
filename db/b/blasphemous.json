@@ -3,10 +3,10 @@
   "Name": "Blasphemous",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 183,
-  "DailyRatings": 1.46,
+  "NumberOfRatings": 184,
+  "DailyRatings": 1.5,
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2022-08-28T01:00:47.1544136+00:00",
+  "LastChanged": "2022-08-28T13:30:55.4381798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:14.5456168+00:00",
@@ -217,12 +217,17 @@
       "Time": "2022-08-28T01:00:47.1544139+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 183
+    },
+    {
+      "Time": "2022-08-28T13:30:55.43818+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 184
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 68
+      "Count": 71
     }
   ]
 }
