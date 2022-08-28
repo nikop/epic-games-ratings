@@ -3,10 +3,10 @@
   "Name": "The First Tree",
   "Names": [],
   "Rating": 4.14,
-  "NumberOfRatings": 43,
-  "DailyRatings": 0.5,
+  "NumberOfRatings": 44,
+  "DailyRatings": 0.2,
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
-  "LastChanged": "2022-08-23T00:31:55.4659331+00:00",
+  "LastChanged": "2022-08-28T01:01:49.1861849+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.3923771+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-08-23T00:31:55.4659332+00:00",
       "Rating": 4.14,
       "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-08-28T01:01:49.1861852+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": 44
     }
   ],
   "Tags": []
