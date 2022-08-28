@@ -2,11 +2,11 @@
   "ID": "ad59318740674cb3adad80949d0bcc88",
   "Name": "Syberia: The World Before",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 106,
-  "DailyRatings": 1,
+  "Rating": 4.68,
+  "NumberOfRatings": 108,
+  "DailyRatings": 0.66,
   "FirstSeen": "2022-07-22T20:23:03.7209999+00:00",
-  "LastChanged": "2022-08-26T02:01:23.7972963+00:00",
+  "LastChanged": "2022-08-28T02:02:17.2395245+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:03.7210001+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-08-26T02:01:23.7972965+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 106
+    },
+    {
+      "Time": "2022-08-28T02:02:17.2395247+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 108
     }
   ],
   "Tags": []
