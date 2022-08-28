@@ -3,10 +3,10 @@
   "Name": "theHunter: Call of the Wild\u2122",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 11731,
-  "DailyRatings": 110.95,
+  "NumberOfRatings": 11745,
+  "DailyRatings": 111.66,
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2022-08-28T18:02:21.1361111+00:00",
+  "LastChanged": "2022-08-28T20:00:39.4308271+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:14.016107+00:00",
@@ -1877,6 +1877,11 @@
       "Time": "2022-08-28T18:02:21.1361112+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 11731
+    },
+    {
+      "Time": "2022-08-28T20:00:39.4308275+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 11745
     }
   ],
   "Tags": [
@@ -1906,7 +1911,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 1087
+      "Count": 1094
     },
     {
       "Text": "This game has Realistic Visuals",
