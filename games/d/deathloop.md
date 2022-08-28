@@ -1,6 +1,6 @@
 # DEATHLOOP
 Rating: 4.50 (754)  
-Ratings Per Day: 6.92  
+Ratings Per Day: 5.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
