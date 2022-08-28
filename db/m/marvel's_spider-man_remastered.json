@@ -3,11 +3,11 @@
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 10249,
-  "DailyRatings": 416.73,
+  "NumberOfRatings": 10293,
+  "DailyRatings": 412.44,
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2022-08-28T00:02:02.0778144+00:00",
+  "LastChanged": "2022-08-28T03:01:14.51059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T21:01:33.6251935+00:00",
@@ -813,6 +813,11 @@
       "Time": "2022-08-28T00:02:02.0778145+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 10249
+    },
+    {
+      "Time": "2022-08-28T03:01:14.5105901+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 10293
     }
   ],
   "Tags": [
@@ -830,11 +835,11 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 149
+      "Count": 162
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 174
+      "Count": 192
     },
     {
       "Text": "This game has Quickly Understood Controls",
