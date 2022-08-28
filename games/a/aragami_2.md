@@ -1,6 +1,6 @@
 # Aragami 2
-Rating: 4.46 (56)  
-Ratings Per Day: 4.23  
+Rating: 4.48 (58)  
+Ratings Per Day: 3.90  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 4.23
 | 2022-08-25 | 4.41 | 49 |
 | 2022-08-26 | 4.42 | 52 |
 | 2022-08-27 | 4.46 | 56 |
+| 2022-08-28 | 4.48 | 58 |

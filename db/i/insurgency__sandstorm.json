@@ -3,10 +3,10 @@
   "Name": "Insurgency: Sandstorm",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 1100,
-  "DailyRatings": 7.64,
+  "NumberOfRatings": 1101,
+  "DailyRatings": 7.77,
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2022-08-28T17:00:36.7927414+00:00",
+  "LastChanged": "2022-08-28T17:30:34.6812461+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -757,6 +757,11 @@
       "Time": "2022-08-28T17:00:36.7927416+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 1100
+    },
+    {
+      "Time": "2022-08-28T17:30:34.6812464+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 1101
     }
   ],
   "Tags": [
@@ -778,7 +783,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 115
+      "Count": 117
     },
     {
       "Text": "This game is Highly Recommended",
