@@ -3,10 +3,10 @@
   "Name": "Ghostbusters: The Video Game Remastered",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 342,
-  "DailyRatings": 5.29,
+  "NumberOfRatings": 346,
+  "DailyRatings": 5.12,
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
-  "LastChanged": "2022-08-28T02:02:08.0491629+00:00",
+  "LastChanged": "2022-08-29T01:01:01.89589+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:54.530597+00:00",
@@ -227,12 +227,17 @@
       "Time": "2022-08-28T02:02:08.049163+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 342
+    },
+    {
+      "Time": "2022-08-29T01:01:01.8958905+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 346
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 48
+      "Count": 50
     }
   ]
 }
