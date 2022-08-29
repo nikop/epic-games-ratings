@@ -1,9 +1,9 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Ring of Pain](games/r/ring_of_pain.md) | 4.51 | 2 292 | 741.86 |
-| 2 | [Destiny 2](games/d/destiny_2.md) | 4.52 | 8 890 | 1736.03 |
+| 1 | [Ring of Pain](games/r/ring_of_pain.md) | 4.52 | 2 409 | 754.73 |
+| 2 | [Destiny 2](games/d/destiny_2.md) | 4.52 | 8 978 | 1746.12 |
 | 3 | [Saints Row](games/s/saints_row.md) | 3.74 | 11 114 | 1904.26 |
-| 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 65 | 12.16 |
+| 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 69 | 12.14 |
 | 5 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.68 | 57 | 9.93 |
 | 6 | [DOOM (1993)](games/d/doom_(1993).md) | 4.89 | 46 | 7.38 |
 | 7 | [DOOM 64](games/d/doom_64.md) | 4.67 | 3 049 | 324.15 |

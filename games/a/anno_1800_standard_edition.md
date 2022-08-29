@@ -1,6 +1,6 @@
 # Anno 1800 Standard Edition
 Rating: 4.84 (3 488)  
-Ratings Per Day: 30.23  
+Ratings Per Day: 30.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
