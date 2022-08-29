@@ -3,10 +3,10 @@
   "Name": "Auto Chess",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 1947,
-  "DailyRatings": 10.68,
+  "NumberOfRatings": 1948,
+  "DailyRatings": 10.57,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2022-08-29T17:01:27.6889358+00:00",
+  "LastChanged": "2022-08-29T21:00:58.4810184+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -1152,6 +1152,11 @@
       "Time": "2022-08-29T17:01:27.688936+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 1947
+    },
+    {
+      "Time": "2022-08-29T21:00:58.4810185+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 1948
     }
   ],
   "Tags": [
@@ -1161,7 +1166,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 309
+      "Count": 315
     },
     {
       "Text": "This game has Diverse Characters",
