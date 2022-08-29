@@ -1,6 +1,6 @@
 # ATOM RPG
-Rating: 4.33 (45)  
-Ratings Per Day: 0.52  
+Rating: 4.34 (47)  
+Ratings Per Day: 0.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,3 +19,4 @@ Ratings Per Day: 0.52
 | 2022-08-24 | 4.30 | 43 |
 | 2022-08-27 | 4.32 | 44 |
 | 2022-08-28 | 4.33 | 45 |
+| 2022-08-29 | 4.34 | 47 |
