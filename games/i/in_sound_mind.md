@@ -1,6 +1,6 @@
 # In Sound Mind
-Rating: 4.60 (1 603)  
-Ratings Per Day: 15.54  
+Rating: 4.60 (1 605)  
+Ratings Per Day: 15.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,4 +42,4 @@ Ratings Per Day: 15.54
 | 2022-08-26 | 4.60 | 1 562 |
 | 2022-08-27 | 4.60 | 1 585 |
 | 2022-08-28 | 4.60 | 1 598 |
-| 2022-08-29 | 4.60 | 1 603 |
+| 2022-08-29 | 4.60 | 1 605 |
