@@ -2,11 +2,11 @@
   "ID": "buffalo",
   "Name": "Super Meat Boy",
   "Names": [],
-  "Rating": 4.65,
-  "NumberOfRatings": 118,
-  "DailyRatings": 1.03,
+  "Rating": 4.66,
+  "NumberOfRatings": 120,
+  "DailyRatings": 1.31,
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
-  "LastChanged": "2022-08-29T12:31:27.594345+00:00",
+  "LastChanged": "2022-08-29T15:32:07.7909565+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:39.3039476+00:00",
@@ -152,12 +152,17 @@
       "Time": "2022-08-29T12:31:27.5943452+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 118
+    },
+    {
+      "Time": "2022-08-29T15:32:07.7909566+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 120
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 31
+      "Count": 33
     }
   ]
 }

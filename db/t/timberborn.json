@@ -3,10 +3,10 @@
   "Name": "Timberborn",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 428,
-  "DailyRatings": 3.99,
+  "NumberOfRatings": 431,
+  "DailyRatings": 4,
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2022-08-28T22:00:50.4462893+00:00",
+  "LastChanged": "2022-08-29T15:31:32.2640888+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:12.1167854+00:00",
@@ -372,6 +372,11 @@
       "Time": "2022-08-28T22:00:50.4462894+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 428
+    },
+    {
+      "Time": "2022-08-29T15:31:32.264089+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 431
     }
   ],
   "Tags": [
@@ -393,7 +398,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Characters",
