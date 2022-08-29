@@ -1,6 +1,6 @@
 # Trials Rising Standard Edition
-Rating: 4.63 (65)  
-Ratings Per Day: 0.71  
+Rating: 4.64 (67)  
+Ratings Per Day: 0.65  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 0.71
 | 2022-08-23 | 4.62 | 63 |
 | 2022-08-25 | 4.63 | 64 |
 | 2022-08-26 | 4.63 | 65 |
+| 2022-08-29 | 4.64 | 67 |
