@@ -2,11 +2,11 @@
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
   "Names": [],
-  "Rating": 4.86,
-  "NumberOfRatings": 570,
-  "DailyRatings": 6.1,
+  "Rating": 4.85,
+  "NumberOfRatings": 572,
+  "DailyRatings": 5.62,
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2022-08-28T19:00:57.9390909+00:00",
+  "LastChanged": "2022-08-29T16:01:26.9040533+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -357,6 +357,11 @@
       "Time": "2022-08-28T19:00:57.9390911+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 570
+    },
+    {
+      "Time": "2022-08-29T16:01:26.9040534+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 572
     }
   ],
   "Tags": [
