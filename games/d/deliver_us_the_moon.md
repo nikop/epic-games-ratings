@@ -1,6 +1,6 @@
 # Deliver Us The Moon
 Rating: 4.50 (24)  
-Ratings Per Day: 0.50  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
