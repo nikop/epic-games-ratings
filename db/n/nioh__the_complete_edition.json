@@ -3,10 +3,10 @@
   "Name": "Nioh: The Complete Edition",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 8513,
-  "DailyRatings": 77.24,
+  "NumberOfRatings": 8528,
+  "DailyRatings": 78.26,
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2022-08-29T16:01:38.3204964+00:00",
+  "LastChanged": "2022-08-29T18:31:09.8769187+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:37.2904326+00:00",
@@ -1842,12 +1842,17 @@
       "Time": "2022-08-29T16:01:38.3204965+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 8513
+    },
+    {
+      "Time": "2022-08-29T18:31:09.8769188+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 8528
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 3048
+      "Count": 3092
     },
     {
       "Text": "This game has Great Boss Battles",
