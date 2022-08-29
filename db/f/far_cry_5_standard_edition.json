@@ -3,10 +3,10 @@
   "Name": "Far Cry 5 Standard Edition",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 1489,
-  "DailyRatings": 14.48,
+  "NumberOfRatings": 1493,
+  "DailyRatings": 13.98,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-08-28T22:00:47.2851388+00:00",
+  "LastChanged": "2022-08-29T09:00:53.1752478+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -627,6 +627,11 @@
       "Time": "2022-08-28T22:00:47.2851389+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 1489
+    },
+    {
+      "Time": "2022-08-29T09:00:53.175248+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 1493
     }
   ],
   "Tags": [
