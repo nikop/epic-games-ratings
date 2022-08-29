@@ -1,6 +1,6 @@
 # Overcooked
 Rating: 4.69 (487)  
-Ratings Per Day: 4.10  
+Ratings Per Day: 4.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
