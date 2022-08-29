@@ -3,10 +3,10 @@
   "Name": "MudRunner",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 2453,
-  "DailyRatings": 26.77,
+  "NumberOfRatings": 2454,
+  "DailyRatings": 26.58,
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2022-08-29T12:00:35.5090034+00:00",
+  "LastChanged": "2022-08-29T14:01:46.6836116+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:58.5631344+00:00",
@@ -1012,6 +1012,11 @@
       "Time": "2022-08-29T12:00:35.5090037+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 2453
+    },
+    {
+      "Time": "2022-08-29T14:01:46.6836119+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 2454
     }
   ],
   "Tags": [
@@ -1033,7 +1038,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game is Extremely Fun",
