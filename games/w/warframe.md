@@ -1,6 +1,6 @@
 # Warframe
-Rating: 4.65 (9 542)  
-Ratings Per Day: 71.26  
+Rating: 4.65 (9 550)  
+Ratings Per Day: 69.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,3 +42,4 @@ Ratings Per Day: 71.26
 | 2022-08-26 | 4.66 | 9 390 |
 | 2022-08-27 | 4.65 | 9 462 |
 | 2022-08-28 | 4.65 | 9 542 |
+| 2022-08-29 | 4.65 | 9 550 |
