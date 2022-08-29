@@ -1,6 +1,6 @@
 # Minit
-Rating: 4.49 (86)  
-Ratings Per Day: 0.75  
+Rating: 4.49 (87)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Ratings Per Day: 0.75
 | 2022-08-23 | 4.50 | 84 |
 | 2022-08-25 | 4.49 | 85 |
 | 2022-08-26 | 4.49 | 86 |
+| 2022-08-29 | 4.49 | 87 |
