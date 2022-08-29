@@ -1,6 +1,6 @@
 # FUSER™
 Rating: 4.71 (77)  
-Ratings Per Day: 0.37  
+Ratings Per Day: 0.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
