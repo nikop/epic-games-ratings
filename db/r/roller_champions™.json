@@ -3,10 +3,10 @@
   "Name": "Roller Champions\u2122",
   "Names": [],
   "Rating": 4.34,
-  "NumberOfRatings": 5311,
-  "DailyRatings": 17.12,
+  "NumberOfRatings": 5315,
+  "DailyRatings": 17.44,
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2022-08-29T15:01:05.3684699+00:00",
+  "LastChanged": "2022-08-29T17:30:55.9396645+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:37.6973742+00:00",
@@ -1132,6 +1132,11 @@
       "Time": "2022-08-29T15:01:05.3684701+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 5311
+    },
+    {
+      "Time": "2022-08-29T17:30:55.9396646+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 5315
     }
   ],
   "Tags": [
@@ -1149,7 +1154,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 150
+      "Count": 153
     },
     {
       "Text": "This game is Relaxing",

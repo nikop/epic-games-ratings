@@ -2,11 +2,11 @@
   "ID": "6af58339c2424644988e0fb83dfd9bd5",
   "Name": "FUSER\u2122",
   "Names": [],
-  "Rating": 4.71,
-  "NumberOfRatings": 77,
-  "DailyRatings": 0.19,
+  "Rating": 4.72,
+  "NumberOfRatings": 78,
+  "DailyRatings": 0.29,
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2022-08-28T02:30:25.4600792+00:00",
+  "LastChanged": "2022-08-29T17:30:27.5086947+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:53.9357226+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-08-28T02:30:25.4600795+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 77
+    },
+    {
+      "Time": "2022-08-29T17:30:27.5086951+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 78
     }
   ],
   "Tags": [
@@ -133,7 +138,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
