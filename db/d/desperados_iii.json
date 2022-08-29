@@ -3,10 +3,10 @@
   "Name": "Desperados III",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 296,
-  "DailyRatings": 2.93,
+  "NumberOfRatings": 297,
+  "DailyRatings": 2.72,
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2022-08-28T17:31:03.2914803+00:00",
+  "LastChanged": "2022-08-29T12:30:59.2856257+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:02.5074384+00:00",
@@ -237,6 +237,11 @@
       "Time": "2022-08-28T17:31:03.2914804+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 296
+    },
+    {
+      "Time": "2022-08-29T12:30:59.2856262+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 297
     }
   ],
   "Tags": [
