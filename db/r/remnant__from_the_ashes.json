@@ -3,10 +3,10 @@
   "Name": "Remnant: From the Ashes",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 9701,
-  "DailyRatings": 107.33,
+  "NumberOfRatings": 9725,
+  "DailyRatings": 107.57,
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2022-08-29T17:01:56.1958482+00:00",
+  "LastChanged": "2022-08-29T22:01:27.1320542+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:00.6523641+00:00",
@@ -1772,6 +1772,11 @@
       "Time": "2022-08-29T17:01:56.1958483+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 9701
+    },
+    {
+      "Time": "2022-08-29T22:01:27.1320544+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 9725
     }
   ],
   "Tags": [
