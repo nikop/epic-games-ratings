@@ -2,11 +2,11 @@
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
   "Names": [],
-  "Rating": 4.37,
-  "NumberOfRatings": 52,
-  "DailyRatings": 0.17,
+  "Rating": 4.36,
+  "NumberOfRatings": 53,
+  "DailyRatings": 0.29,
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "LastChanged": "2022-08-28T10:02:01.4480422+00:00",
+  "LastChanged": "2022-08-29T10:31:33.8003045+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-25T10:01:57.4129818+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-08-28T10:02:01.4480424+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 52
+    },
+    {
+      "Time": "2022-08-29T10:31:33.8003047+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 53
     }
   ],
   "Tags": []

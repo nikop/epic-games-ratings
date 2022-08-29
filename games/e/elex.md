@@ -1,6 +1,6 @@
 # ELEX
-Rating: 4.37 (52)  
-Ratings Per Day: 0.17  
+Rating: 4.36 (53)  
+Ratings Per Day: 0.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 0.17
 | 2022-08-18 | 4.38 | 50 |
 | 2022-08-22 | 4.37 | 51 |
 | 2022-08-28 | 4.37 | 52 |
+| 2022-08-29 | 4.36 | 53 |
