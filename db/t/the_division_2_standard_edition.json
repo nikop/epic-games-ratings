@@ -2,11 +2,11 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "Names": [],
-  "Rating": 4.44,
-  "NumberOfRatings": 5685,
-  "DailyRatings": 33.53,
+  "Rating": 4.43,
+  "NumberOfRatings": 5687,
+  "DailyRatings": 33.41,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-08-29T03:31:08.7162058+00:00",
+  "LastChanged": "2022-08-29T05:31:05.4040466+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -1787,6 +1787,11 @@
       "Time": "2022-08-29T03:31:08.7162061+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 5685
+    },
+    {
+      "Time": "2022-08-29T05:31:05.4040544+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 5687
     }
   ],
   "Tags": [
@@ -1796,7 +1801,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1940
+      "Count": 1949
     },
     {
       "Text": "This game is Great for Beginners",
