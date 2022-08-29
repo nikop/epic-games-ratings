@@ -2,11 +2,11 @@
   "ID": "aa4742eef2744a41bdb3115cfeca8b89",
   "Name": "King\u0027s Bounty II",
   "Names": [],
-  "Rating": 4.17,
-  "NumberOfRatings": 95,
-  "DailyRatings": 0.67,
+  "Rating": 4.18,
+  "NumberOfRatings": 96,
+  "DailyRatings": 0.35,
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
-  "LastChanged": "2022-08-25T04:01:07.5338888+00:00",
+  "LastChanged": "2022-08-29T09:31:20.788007+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:59.0658277+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-08-25T04:01:07.533889+00:00",
       "Rating": 4.17,
       "NumberOfRatings": 95
+    },
+    {
+      "Time": "2022-08-29T09:31:20.7880072+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": 96
     }
   ],
   "Tags": []
