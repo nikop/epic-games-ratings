@@ -2,11 +2,11 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "Names": [],
-  "Rating": 4.43,
-  "NumberOfRatings": 5692,
-  "DailyRatings": 34.2,
+  "Rating": 4.44,
+  "NumberOfRatings": 5699,
+  "DailyRatings": 34.59,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-08-29T08:30:56.3714141+00:00",
+  "LastChanged": "2022-08-29T11:31:02.3767371+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -1802,6 +1802,11 @@
       "Time": "2022-08-29T08:30:56.3714142+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 5692
+    },
+    {
+      "Time": "2022-08-29T11:31:02.3767373+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 5699
     }
   ],
   "Tags": [
@@ -1851,7 +1856,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 316
+      "Count": 324
     }
   ]
 }
