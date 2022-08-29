@@ -1,5 +1,5 @@
 # Forgive Me Father
-Rating: 4.56 (32)  
+Rating: 4.52 (33)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.00
 | 2022-08-11 | 4.55 | 29 |
 | 2022-08-17 | 4.58 | 31 |
 | 2022-08-21 | 4.56 | 32 |
+| 2022-08-29 | 4.52 | 33 |
