@@ -1,6 +1,6 @@
 # Evil Dead: The Game
 Rating: 4.50 (8 589)  
-Ratings Per Day: 16.48  
+Ratings Per Day: 16.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
