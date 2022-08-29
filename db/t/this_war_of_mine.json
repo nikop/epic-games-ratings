@@ -3,10 +3,10 @@
   "Name": "This War of Mine",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 876,
-  "DailyRatings": 6.86,
+  "NumberOfRatings": 879,
+  "DailyRatings": 6.64,
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
-  "LastChanged": "2022-08-29T04:30:47.1221935+00:00",
+  "LastChanged": "2022-08-29T20:00:51.0245678+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:40.6803203+00:00",
@@ -562,6 +562,11 @@
       "Time": "2022-08-29T04:30:47.1221937+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 876
+    },
+    {
+      "Time": "2022-08-29T20:00:51.024568+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 879
     }
   ],
   "Tags": [
