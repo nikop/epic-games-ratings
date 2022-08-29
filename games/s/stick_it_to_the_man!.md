@@ -1,6 +1,6 @@
 # Stick It To The Man!
 Rating: 4.59 (56)  
-Ratings Per Day: 0.66  
+Ratings Per Day: 0.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
