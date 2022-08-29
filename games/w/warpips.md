@@ -1,6 +1,6 @@
 # Warpips
 Rating: 4.50 (30)  
-Ratings Per Day: 0.48  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

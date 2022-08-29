@@ -3,10 +3,10 @@
   "Name": "Crysis 3 Remastered",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 396,
-  "DailyRatings": 5.43,
+  "NumberOfRatings": 401,
+  "DailyRatings": 5.37,
   "FirstSeen": "2022-07-22T20:32:55.830928+00:00",
-  "LastChanged": "2022-08-28T15:02:23.8818894+00:00",
+  "LastChanged": "2022-08-29T15:02:31.8713647+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:55.8309283+00:00",
@@ -242,6 +242,11 @@
       "Time": "2022-08-28T15:02:23.8818895+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 396
+    },
+    {
+      "Time": "2022-08-29T15:02:31.8713649+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 401
     }
   ],
   "Tags": [
