@@ -1,6 +1,6 @@
 # Control
 Rating: 4.60 (12 917)  
-Ratings Per Day: 121.88  
+Ratings Per Day: 121.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
