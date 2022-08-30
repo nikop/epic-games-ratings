@@ -2,12 +2,12 @@
   "ID": "b6aa6a98bb394a53870bd6b026fefd1d",
   "Name": "The Drone Racing League\u00AE",
   "Names": [],
-  "Rating": 4.7,
-  "NumberOfRatings": 27,
-  "DailyRatings": 0,
+  "Rating": 4.71,
+  "NumberOfRatings": 28,
+  "DailyRatings": 0.25,
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2022-08-26T10:01:31.7747176+00:00",
+  "LastChanged": "2022-08-30T10:00:59.3706101+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-30T13:30:57.2183099+00:00",
@@ -48,6 +48,11 @@
       "Time": "2022-08-26T10:01:31.7747177+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-08-30T10:00:59.3706102+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 28
     }
   ],
   "Tags": []
