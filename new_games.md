@@ -6,11 +6,11 @@
 | 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.30 | 83 | 13.24 |
 | 5 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.76 | 72 | 9.34 |
 | 6 | [DOOM (1993)](games/d/doom_(1993).md) | 4.88 | 52 | 5.65 |
-| 7 | [DOOM 64](games/d/doom_64.md) | 4.67 | 3 248 | 292.79 |
+| 7 | [DOOM 64](games/d/doom_64.md) | 4.67 | 3 257 | 289.60 |
 | 8 | [DOOM 3](games/d/doom_3.md) | 4.63 | 35 | 3.55 |
 | 9 | [Aragami 2](games/a/aragami_2.md) | 4.47 | 59 | 2.54 |
-| 10 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 10 846 | 345.82 |
-| 11 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 600 | 46.49 |
-| 12 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 41 617 | 1795.53 |
-| 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 705 | 26.55 |
+| 10 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 10 873 | 342.42 |
+| 11 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 604 | 45.24 |
+| 12 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 41 709 | 1797.95 |
+| 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 705 | 25.85 |
 | 14 | [MultiVersus](games/m/multiversus.md) | 4.58 | 50 201 | 568.55 |
