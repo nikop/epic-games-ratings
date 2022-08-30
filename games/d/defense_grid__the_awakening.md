@@ -1,6 +1,6 @@
 # Defense Grid: The Awakening
 Rating: 4.44 (1 020)  
-Ratings Per Day: 8.37  
+Ratings Per Day: 8.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

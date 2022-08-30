@@ -3,10 +3,10 @@
   "Name": "SOMA",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 235,
-  "DailyRatings": 1.83,
+  "NumberOfRatings": 237,
+  "DailyRatings": 2.24,
   "FirstSeen": "2022-07-22T20:24:55.9508799+00:00",
-  "LastChanged": "2022-08-29T12:01:29.2660183+00:00",
+  "LastChanged": "2022-08-30T12:01:37.7510226+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:55.9508802+00:00",
@@ -187,6 +187,11 @@
       "Time": "2022-08-29T12:01:29.2660184+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 235
+    },
+    {
+      "Time": "2022-08-30T12:01:37.7510227+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 237
     }
   ],
   "Tags": []
