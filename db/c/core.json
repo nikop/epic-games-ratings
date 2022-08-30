@@ -3,10 +3,10 @@
   "Name": "Core",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 1254,
-  "DailyRatings": 8.2,
+  "NumberOfRatings": 1258,
+  "DailyRatings": 8.62,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-08-30T15:01:53.8846776+00:00",
+  "LastChanged": "2022-08-30T18:02:16.9166328+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -867,6 +867,11 @@
       "Time": "2022-08-30T15:01:53.8846777+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1254
+    },
+    {
+      "Time": "2022-08-30T18:02:16.916633+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 1258
     }
   ],
   "Tags": [
@@ -916,7 +921,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 47
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",

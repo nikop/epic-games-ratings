@@ -3,11 +3,11 @@
   "Name": "DOOM 64",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 3267,
-  "DailyRatings": 289.32,
+  "NumberOfRatings": 3302,
+  "DailyRatings": 289.14,
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
-  "LastChanged": "2022-08-30T15:02:02.0142478+00:00",
+  "LastChanged": "2022-08-30T18:02:25.0154292+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-19T16:01:55.9057826+00:00",
@@ -293,6 +293,11 @@
       "Time": "2022-08-30T15:02:02.0142479+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 3267
+    },
+    {
+      "Time": "2022-08-30T18:02:25.0154293+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 3302
     }
   ],
   "Tags": [
