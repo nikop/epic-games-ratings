@@ -3,10 +3,10 @@
   "Name": "House Flipper",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 868,
-  "DailyRatings": 7.8,
+  "NumberOfRatings": 870,
+  "DailyRatings": 7.98,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "LastChanged": "2022-08-30T13:02:00.268804+00:00",
+  "LastChanged": "2022-08-30T15:31:49.4895736+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -677,12 +677,17 @@
       "Time": "2022-08-30T13:02:00.2688042+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 868
+    },
+    {
+      "Time": "2022-08-30T15:31:49.4895738+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 870
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 128
+      "Count": 130
     },
     {
       "Text": "This game is Extremely Fun",
