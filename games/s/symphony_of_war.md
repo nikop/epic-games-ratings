@@ -1,6 +1,6 @@
 # Symphony of War
 Rating: 4.63 (174)  
-Ratings Per Day: 0.85  
+Ratings Per Day: 0.91  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
