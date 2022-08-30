@@ -1,6 +1,6 @@
 # FAR: Lone Sails
 Rating: 4.90 (21)  
-Ratings Per Day: 0.20  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
