@@ -1,6 +1,6 @@
 # The Cycle: Frontier
 Rating: 4.13 (14 631)  
-Ratings Per Day: 77.09  
+Ratings Per Day: 77.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
