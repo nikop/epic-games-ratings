@@ -2,11 +2,11 @@
   "ID": "ba1596b29e8b4b1199058fad440366a5",
   "Name": "Starship Troopers: Terran Command",
   "Names": [],
-  "Rating": 4.14,
-  "NumberOfRatings": 85,
-  "DailyRatings": 0.34,
+  "Rating": 4.15,
+  "NumberOfRatings": 87,
+  "DailyRatings": 0.59,
   "FirstSeen": "2022-07-22T20:30:10.1660332+00:00",
-  "LastChanged": "2022-08-29T18:31:59.5522845+00:00",
+  "LastChanged": "2022-08-30T18:32:45.4623201+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:10.1660334+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-08-29T18:31:59.5522846+00:00",
       "Rating": 4.14,
       "NumberOfRatings": 85
+    },
+    {
+      "Time": "2022-08-30T18:32:45.4623203+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": 87
     }
   ],
   "Tags": []
