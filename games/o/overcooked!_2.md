@@ -1,6 +1,6 @@
 # Overcooked! 2
 Rating: 4.75 (4 256)  
-Ratings Per Day: 40.22  
+Ratings Per Day: 40.05  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
