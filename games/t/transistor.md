@@ -1,6 +1,6 @@
 # Transistor
-Rating: 4.66 (107)  
-Ratings Per Day: 0.75  
+Rating: 4.65 (109)  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 0.75
 | 2022-08-25 | 4.66 | 104 |
 | 2022-08-26 | 4.67 | 105 |
 | 2022-08-29 | 4.66 | 107 |
+| 2022-08-30 | 4.65 | 109 |

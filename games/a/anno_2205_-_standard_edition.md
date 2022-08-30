@@ -1,6 +1,6 @@
 # Anno 2205 - Standard Edition
 Rating: 4.47 (59)  
-Ratings Per Day: 0.25  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
