@@ -1,6 +1,6 @@
 # Farming Simulator 19
-Rating: 4.72 (14 388)  
-Ratings Per Day: 112.59  
+Rating: 4.72 (14 410)  
+Ratings Per Day: 114.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -43,4 +43,4 @@ Ratings Per Day: 112.59
 | 2022-08-27 | 4.72 | 14 045 |
 | 2022-08-28 | 4.72 | 14 183 |
 | 2022-08-29 | 4.72 | 14 301 |
-| 2022-08-30 | 4.72 | 14 388 |
+| 2022-08-30 | 4.72 | 14 410 |

@@ -3,10 +3,10 @@
   "Name": "Path of Exile",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 2595,
-  "DailyRatings": 40.36,
+  "NumberOfRatings": 2596,
+  "DailyRatings": 40.26,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-08-30T18:01:09.3352878+00:00",
+  "LastChanged": "2022-08-30T19:00:23.9998576+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -1532,6 +1532,11 @@
       "Time": "2022-08-30T18:01:09.3352884+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 2595
+    },
+    {
+      "Time": "2022-08-30T19:00:23.9998578+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 2596
     }
   ],
   "Tags": [
@@ -1573,7 +1578,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 198
+      "Count": 205
     },
     {
       "Text": "This game has Unique Visuals",
