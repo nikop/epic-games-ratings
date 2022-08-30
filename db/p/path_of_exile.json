@@ -3,10 +3,10 @@
   "Name": "Path of Exile",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 2585,
-  "DailyRatings": 42.2,
+  "NumberOfRatings": 2586,
+  "DailyRatings": 42.22,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-08-30T06:31:01.075813+00:00",
+  "LastChanged": "2022-08-30T07:00:17.9476781+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -1507,6 +1507,11 @@
       "Time": "2022-08-30T06:31:01.0758132+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 2585
+    },
+    {
+      "Time": "2022-08-30T07:00:17.9476783+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 2586
     }
   ],
   "Tags": [
@@ -1516,7 +1521,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1079
+      "Count": 1098
     },
     {
       "Text": "This game has Quickly Understood Controls",
