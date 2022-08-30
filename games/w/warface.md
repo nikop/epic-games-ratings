@@ -1,6 +1,6 @@
 # Warface
 Rating: 3.94 (2 453)  
-Ratings Per Day: 23.21  
+Ratings Per Day: 23.62  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

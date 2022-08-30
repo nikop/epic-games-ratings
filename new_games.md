@@ -12,5 +12,5 @@
 | 10 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 10 722 | 351.66 |
 | 11 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 590 | 48.29 |
 | 12 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 40 760 | 1857.33 |
-| 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 695 | 27.26 |
-| 14 | [MultiVersus](games/m/multiversus.md) | 4.58 | 50 000 | 576.14 |
+| 13 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 695 | 27.58 |
+| 14 | [MultiVersus](games/m/multiversus.md) | 4.58 | 50 000 | 578.05 |
