@@ -2,11 +2,11 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "Names": [],
-  "Rating": 4.53,
-  "NumberOfRatings": 19736,
-  "DailyRatings": 161.76,
+  "Rating": 4.52,
+  "NumberOfRatings": 19751,
+  "DailyRatings": 162.47,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-08-29T23:00:47.5741261+00:00",
+  "LastChanged": "2022-08-30T00:30:40.9232734+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -2077,6 +2077,11 @@
       "Time": "2022-08-29T23:00:47.5741314+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 19736
+    },
+    {
+      "Time": "2022-08-30T00:30:40.9232735+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 19751
     }
   ],
   "Tags": [

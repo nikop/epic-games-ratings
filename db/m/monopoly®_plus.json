@@ -3,10 +3,10 @@
   "Name": "MONOPOLY\u00AE PLUS",
   "Names": [],
   "Rating": 3.87,
-  "NumberOfRatings": 115,
-  "DailyRatings": 0,
+  "NumberOfRatings": 117,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:30:40.4652835+00:00",
-  "LastChanged": "2022-08-28T00:32:02.2671673+00:00",
+  "LastChanged": "2022-08-30T00:32:01.813321+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:40.4652838+00:00",
@@ -137,6 +137,11 @@
       "Time": "2022-08-28T00:32:02.2671674+00:00",
       "Rating": 3.87,
       "NumberOfRatings": 115
+    },
+    {
+      "Time": "2022-08-30T00:32:01.8133212+00:00",
+      "Rating": 3.87,
+      "NumberOfRatings": 117
     }
   ],
   "Tags": []
