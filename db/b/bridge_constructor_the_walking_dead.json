@@ -2,11 +2,11 @@
   "ID": "39697c68e46b48d2b75e17bdc417d859",
   "Name": "Bridge Constructor The Walking Dead",
   "Names": [],
-  "Rating": 3.96,
-  "NumberOfRatings": 85,
-  "DailyRatings": 0.25,
+  "Rating": 3.97,
+  "NumberOfRatings": 86,
+  "DailyRatings": 0.4,
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
-  "LastChanged": "2022-08-29T10:31:47.3684909+00:00",
+  "LastChanged": "2022-08-30T10:31:53.8739045+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:51.0308351+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-08-29T10:31:47.3684911+00:00",
       "Rating": 3.96,
       "NumberOfRatings": 85
+    },
+    {
+      "Time": "2022-08-30T10:31:53.8739047+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": 86
     }
   ],
   "Tags": []
