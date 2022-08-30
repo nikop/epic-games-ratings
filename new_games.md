@@ -2,7 +2,7 @@
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Ring of Pain](games/r/ring_of_pain.md) | 4.53 | 3 403 | 813.24 |
 | 2 | [Destiny 2](games/d/destiny_2.md) | 4.52 | 11 276 | 1830.01 |
-| 3 | [Saints Row](games/s/saints_row.md) | 3.74 | 12 157 | 1755.45 |
+| 3 | [Saints Row](games/s/saints_row.md) | 3.74 | 12 189 | 1749.45 |
 | 4 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.30 | 83 | 13.24 |
 | 5 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.76 | 67 | 9.28 |
 | 6 | [DOOM (1993)](games/d/doom_(1993).md) | 4.88 | 52 | 5.65 |
