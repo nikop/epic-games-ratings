@@ -3,10 +3,10 @@
   "Name": "Train Valley 2",
   "Names": [],
   "Rating": 3.93,
-  "NumberOfRatings": 75,
-  "DailyRatings": 0.24,
+  "NumberOfRatings": 76,
+  "DailyRatings": 0.31,
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
-  "LastChanged": "2022-08-28T12:30:26.0099659+00:00",
+  "LastChanged": "2022-08-30T17:00:56.5664894+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:19.351746+00:00",
@@ -77,12 +77,17 @@
       "Time": "2022-08-28T12:30:26.0099661+00:00",
       "Rating": 3.93,
       "NumberOfRatings": 75
+    },
+    {
+      "Time": "2022-08-30T17:00:56.5664898+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": 76
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 42
+      "Count": 43
     }
   ]
 }
