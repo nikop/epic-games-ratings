@@ -2,11 +2,11 @@
   "ID": "908bed122ba84c4a908ee1e14da401c3",
   "Name": "SUPERHOT",
   "Names": [],
-  "Rating": 4.65,
-  "NumberOfRatings": 117,
-  "DailyRatings": 1.32,
+  "Rating": 4.64,
+  "NumberOfRatings": 118,
+  "DailyRatings": 1.24,
   "FirstSeen": "2022-07-22T20:24:12.2504299+00:00",
-  "LastChanged": "2022-08-29T02:31:13.3373231+00:00",
+  "LastChanged": "2022-08-30T02:31:15.6925446+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:12.2504301+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-08-29T02:31:13.3373232+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 117
+    },
+    {
+      "Time": "2022-08-30T02:31:15.6925447+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 118
     }
   ],
   "Tags": []
