@@ -1,8 +1,8 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 23 | 0.00 |
-| 2 | [Ring of Pain](games/r/ring_of_pain.md) | 4.53 | 4 137 | 853.58 |
-| 3 | [Destiny 2](games/d/destiny_2.md) | 4.52 | 12 896 | 1900.01 |
+| 2 | [Ring of Pain](games/r/ring_of_pain.md) | 4.53 | 4 173 | 853.72 |
+| 3 | [Destiny 2](games/d/destiny_2.md) | 4.51 | 13 004 | 1898.68 |
 | 4 | [Saints Row](games/s/saints_row.md) | 3.74 | 12 702 | 1662.00 |
 | 5 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.18 | 88 | 12.10 |
 | 6 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.82 | 79 | 9.87 |
