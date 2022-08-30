@@ -3,11 +3,11 @@
   "Name": "DOOM (1993)",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 51,
-  "DailyRatings": 5.94,
+  "NumberOfRatings": 52,
+  "DailyRatings": 5.65,
   "FirstSeen": "2022-08-19T14:31:30.8251329+00:00",
   "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
-  "LastChanged": "2022-08-29T21:30:57.435063+00:00",
+  "LastChanged": "2022-08-30T06:31:36.5286487+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T00:30:55.830679+00:00",
@@ -38,6 +38,11 @@
       "Time": "2022-08-29T21:30:57.4350631+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-08-30T06:31:36.5286491+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 52
     }
   ],
   "Tags": []
