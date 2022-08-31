@@ -3,10 +3,10 @@
   "Name": "Insurgency: Sandstorm",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 1121,
-  "DailyRatings": 7.75,
+  "NumberOfRatings": 1127,
+  "DailyRatings": 8.31,
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2022-08-31T11:30:31.1881118+00:00",
+  "LastChanged": "2022-08-31T18:01:06.0788118+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -812,6 +812,11 @@
       "Time": "2022-08-31T11:30:31.188112+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 1121
+    },
+    {
+      "Time": "2022-08-31T18:01:06.0788119+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 1127
     }
   ],
   "Tags": [
@@ -853,7 +858,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game has Diverse Characters",
