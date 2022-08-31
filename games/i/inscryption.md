@@ -1,6 +1,6 @@
 # Inscryption
-Rating: 4.85 (673)  
-Ratings Per Day: 4.30  
+Rating: 4.85 (676)  
+Ratings Per Day: 4.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -43,3 +43,4 @@ Ratings Per Day: 4.30
 | 2022-08-28 | 4.85 | 666 |
 | 2022-08-29 | 4.85 | 669 |
 | 2022-08-30 | 4.85 | 673 |
+| 2022-08-31 | 4.85 | 676 |
