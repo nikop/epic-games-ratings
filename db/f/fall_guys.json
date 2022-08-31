@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.53,
   "NumberOfRatings": 985912,
-  "DailyRatings": 3519.78,
+  "DailyRatings": 3486.34,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "LastChanged": "2022-08-31T19:01:41.1681923+00:00",
   "RatingHistory": [
@@ -1778,7 +1778,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 78655
+      "Count": 79231
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1794,7 +1794,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 70891
+      "Count": 71468
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1802,7 +1802,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 64263
+      "Count": 64777
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Sundered: Eldritch Edition
-Rating: 4.48 (149)  
-Ratings Per Day: 1.34  
+Rating: 4.49 (152)  
+Ratings Per Day: 1.58  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -36,3 +36,4 @@ Ratings Per Day: 1.34
 | 2022-08-28 | 4.49 | 146 |
 | 2022-08-29 | 4.48 | 147 |
 | 2022-08-30 | 4.48 | 149 |
+| 2022-08-31 | 4.49 | 152 |

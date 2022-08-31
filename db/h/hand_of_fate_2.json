@@ -3,10 +3,10 @@
   "Name": "Hand of Fate 2",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 648,
-  "DailyRatings": 7.21,
+  "NumberOfRatings": 649,
+  "DailyRatings": 7.34,
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "LastChanged": "2022-08-31T19:02:12.7190453+00:00",
+  "LastChanged": "2022-08-31T19:31:04.8457612+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:25.6908042+00:00",
@@ -427,6 +427,11 @@
       "Time": "2022-08-31T19:02:12.7190454+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 648
+    },
+    {
+      "Time": "2022-08-31T19:31:04.8457614+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 649
     }
   ],
   "Tags": [
