@@ -1,6 +1,6 @@
 # Untitled Goose Game
-Rating: 4.80 (89)  
-Ratings Per Day: 0.40  
+Rating: 4.80 (90)  
+Ratings Per Day: 0.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 0.40
 | 2022-08-24 | 4.79 | 87 |
 | 2022-08-26 | 4.80 | 88 |
 | 2022-08-29 | 4.80 | 89 |
+| 2022-08-31 | 4.80 | 90 |

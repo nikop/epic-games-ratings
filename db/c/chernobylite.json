@@ -3,10 +3,10 @@
   "Name": "Chernobylite",
   "Names": [],
   "Rating": 4.04,
-  "NumberOfRatings": 131,
-  "DailyRatings": 1.17,
+  "NumberOfRatings": 132,
+  "DailyRatings": 1.14,
   "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
-  "LastChanged": "2022-08-30T03:01:09.8895441+00:00",
+  "LastChanged": "2022-08-31T03:01:29.862183+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:09.6414616+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-08-30T03:01:09.8895443+00:00",
       "Rating": 4.04,
       "NumberOfRatings": 131
+    },
+    {
+      "Time": "2022-08-31T03:01:29.8621883+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 132
     }
   ],
   "Tags": []

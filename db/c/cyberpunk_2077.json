@@ -3,10 +3,10 @@
   "Name": "Cyberpunk 2077",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 20776,
-  "DailyRatings": 152.67,
+  "NumberOfRatings": 20783,
+  "DailyRatings": 152.3,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2022-08-31T01:30:18.9094539+00:00",
+  "LastChanged": "2022-08-31T03:01:07.197709+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -2082,6 +2082,11 @@
       "Time": "2022-08-31T01:30:18.9094541+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 20776
+    },
+    {
+      "Time": "2022-08-31T03:01:07.1977091+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 20783
     }
   ],
   "Tags": [
