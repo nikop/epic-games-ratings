@@ -1,6 +1,6 @@
 # The Riftbreaker
 Rating: 4.72 (246)  
-Ratings Per Day: 1.52  
+Ratings Per Day: 1.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
