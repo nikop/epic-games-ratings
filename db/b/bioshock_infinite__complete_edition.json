@@ -3,10 +3,10 @@
   "Name": "BioShock Infinite: Complete Edition",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 16351,
-  "DailyRatings": 87.52,
+  "NumberOfRatings": 16412,
+  "DailyRatings": 88.21,
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2022-08-31T00:30:53.6104363+00:00",
+  "LastChanged": "2022-08-31T16:01:36.3877154+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.6159256+00:00",
@@ -1092,6 +1092,11 @@
       "Time": "2022-08-31T00:30:53.6104365+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 16351
+    },
+    {
+      "Time": "2022-08-31T16:01:36.3877155+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 16412
     }
   ],
   "Tags": [
@@ -1133,7 +1138,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Educational",
