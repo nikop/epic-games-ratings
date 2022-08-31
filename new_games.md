@@ -1,8 +1,8 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 23 | 0.00 |
+| 1 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.61 | 38 | 55.39 |
 | 2 | [Ring of Pain](games/r/ring_of_pain.md) | 4.53 | 4 301 | 850.89 |
-| 3 | [Destiny 2](games/d/destiny_2.md) | 4.51 | 13 287 | 1905.30 |
+| 3 | [Destiny 2](games/d/destiny_2.md) | 4.51 | 13 375 | 1923.93 |
 | 4 | [Saints Row](games/s/saints_row.md) | 3.74 | 12 956 | 1631.85 |
 | 5 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.18 | 88 | 11.71 |
 | 6 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.91 | 86 | 10.54 |
@@ -14,4 +14,4 @@
 | 12 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 621 | 42.62 |
 | 13 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 42 589 | 1791.00 |
 | 14 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 727 | 26.60 |
-| 15 | [MultiVersus](games/m/multiversus.md) | 4.58 | 50 504 | 500.29 |
+| 15 | [MultiVersus](games/m/multiversus.md) | 4.58 | 50 523 | 496.95 |
