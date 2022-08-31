@@ -2,16 +2,16 @@
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 52 | 42.13 |
 | 2 | [Ring of Pain](games/r/ring_of_pain.md) | 4.54 | 5 017 | 887.15 |
-| 3 | [Destiny 2](games/d/destiny_2.md) | 4.51 | 14 556 | 2083.76 |
-| 4 | [Saints Row](games/s/saints_row.md) | 3.74 | 13 385 | 1537.12 |
+| 3 | [Destiny 2](games/d/destiny_2.md) | 4.51 | 14 721 | 2095.25 |
+| 4 | [Saints Row](games/s/saints_row.md) | 3.74 | 13 385 | 1531.89 |
 | 5 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 93 | 11.19 |
 | 6 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.91 | 91 | 10.44 |
 | 7 | [DOOM (1993)](games/d/doom_(1993).md) | 4.89 | 56 | 5.33 |
 | 8 | [DOOM 64](games/d/doom_64.md) | 4.67 | 3 448 | 250.42 |
 | 9 | [DOOM 3](games/d/doom_3.md) | 4.61 | 41 | 3.22 |
 | 10 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 66 | 2.68 |
-| 11 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 11 120 | 308.24 |
+| 11 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 11 120 | 307.22 |
 | 12 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 634 | 39.49 |
-| 13 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 43 343 | 1657.48 |
+| 13 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 43 720 | 1676.61 |
 | 14 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 740 | 25.16 |
 | 15 | [MultiVersus](games/m/multiversus.md) | 4.58 | 50 675 | 468.21 |
