@@ -2,11 +2,11 @@
   "ID": "ee8802651a004c48999169fa32eb4903",
   "Name": "Mafia : Definitive Edition",
   "Names": [],
-  "Rating": 4.61,
-  "NumberOfRatings": 1590,
-  "DailyRatings": 16,
+  "Rating": 4.62,
+  "NumberOfRatings": 1604,
+  "DailyRatings": 16.19,
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2022-08-30T10:31:06.6450302+00:00",
+  "LastChanged": "2022-08-31T05:31:53.856396+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.9426234+00:00",
@@ -402,12 +402,17 @@
       "Time": "2022-08-30T10:31:06.6450303+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 1590
+    },
+    {
+      "Time": "2022-08-31T05:31:53.8563962+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 1604
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 269
+      "Count": 272
     }
   ]
 }
