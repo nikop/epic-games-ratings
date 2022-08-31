@@ -3,10 +3,10 @@
   "Name": "Cartel Tycoon",
   "Names": [],
   "Rating": 4.35,
-  "NumberOfRatings": 92,
-  "DailyRatings": 2.29,
+  "NumberOfRatings": 93,
+  "DailyRatings": 0.67,
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
-  "LastChanged": "2022-08-28T08:30:46.2452431+00:00",
+  "LastChanged": "2022-08-31T23:00:35.7152567+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-29T17:30:50.1172997+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-08-28T08:30:46.2452433+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 92
+    },
+    {
+      "Time": "2022-08-31T23:00:35.7152569+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 93
     }
   ],
   "Tags": []

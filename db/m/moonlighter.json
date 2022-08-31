@@ -3,10 +3,10 @@
   "Name": "Moonlighter",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 908,
-  "DailyRatings": 9.98,
+  "NumberOfRatings": 915,
+  "DailyRatings": 9.8,
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
-  "LastChanged": "2022-08-31T03:30:57.8377735+00:00",
+  "LastChanged": "2022-08-31T23:00:53.4149791+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.3946093+00:00",
@@ -337,6 +337,11 @@
       "Time": "2022-08-31T03:30:57.8377737+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 908
+    },
+    {
+      "Time": "2022-08-31T23:00:53.4149793+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 915
     }
   ],
   "Tags": []
