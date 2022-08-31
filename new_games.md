@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.65 | 83 | 61.25 |
+| 1 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.64 | 90 | 64.32 |
 | 2 | [Ring of Pain](games/r/ring_of_pain.md) | 4.54 | 5 143 | 889.82 |
 | 3 | [Destiny 2](games/d/destiny_2.md) | 4.51 | 14 721 | 2095.25 |
 | 4 | [Saints Row](games/s/saints_row.md) | 3.74 | 13 505 | 1481.68 |
