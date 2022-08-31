@@ -3,10 +3,10 @@
   "Name": "Roller Champions\u2122",
   "Names": [],
   "Rating": 4.34,
-  "NumberOfRatings": 5338,
-  "DailyRatings": 18.89,
+  "NumberOfRatings": 5347,
+  "DailyRatings": 19.05,
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2022-08-30T17:31:27.8153065+00:00",
+  "LastChanged": "2022-08-31T03:31:04.4442524+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:37.6973742+00:00",
@@ -1152,6 +1152,11 @@
       "Time": "2022-08-30T17:31:27.8153066+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 5338
+    },
+    {
+      "Time": "2022-08-31T03:31:04.4442525+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 5347
     }
   ],
   "Tags": [
