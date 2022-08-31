@@ -2,11 +2,11 @@
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall",
   "Names": [],
-  "Rating": 4.11,
-  "NumberOfRatings": 694,
-  "DailyRatings": 6.07,
+  "Rating": 4.12,
+  "NumberOfRatings": 695,
+  "DailyRatings": 6.17,
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2022-08-31T03:01:11.7124478+00:00",
+  "LastChanged": "2022-08-31T04:30:22.3619393+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -482,6 +482,11 @@
       "Time": "2022-08-31T03:01:11.7124481+00:00",
       "Rating": 4.11,
       "NumberOfRatings": 694
+    },
+    {
+      "Time": "2022-08-31T04:30:22.3619395+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": 695
     }
   ],
   "Tags": [
