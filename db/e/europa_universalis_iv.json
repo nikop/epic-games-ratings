@@ -3,10 +3,10 @@
   "Name": "Europa Universalis IV",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 7213,
-  "DailyRatings": 49.04,
+  "NumberOfRatings": 7214,
+  "DailyRatings": 48.44,
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
-  "LastChanged": "2022-08-31T04:00:18.9839557+00:00",
+  "LastChanged": "2022-08-31T06:30:18.5974007+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.709272+00:00",
@@ -1787,6 +1787,11 @@
       "Time": "2022-08-31T04:00:18.9839559+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 7213
+    },
+    {
+      "Time": "2022-08-31T06:30:18.5974009+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 7214
     }
   ],
   "Tags": [
