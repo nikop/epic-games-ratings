@@ -1,7 +1,7 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.61 | 38 | 55.39 |
-| 2 | [Ring of Pain](games/r/ring_of_pain.md) | 4.53 | 4 532 | 857.80 |
+| 2 | [Ring of Pain](games/r/ring_of_pain.md) | 4.53 | 4 621 | 857.79 |
 | 3 | [Destiny 2](games/d/destiny_2.md) | 4.51 | 13 920 | 2079.46 |
 | 4 | [Saints Row](games/s/saints_row.md) | 3.74 | 13 137 | 1574.58 |
 | 5 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 91 | 11.42 |
@@ -11,7 +11,7 @@
 | 9 | [DOOM 3](games/d/doom_3.md) | 4.58 | 38 | 3.27 |
 | 10 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 63 | 2.33 |
 | 11 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 11 066 | 316.96 |
-| 12 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 632 | 41.69 |
-| 13 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 42 875 | 1751.29 |
+| 12 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 634 | 41.48 |
+| 13 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 43 011 | 1750.93 |
 | 14 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 732 | 25.80 |
 | 15 | [MultiVersus](games/m/multiversus.md) | 4.58 | 50 562 | 484.61 |
