@@ -1,6 +1,6 @@
 # SuchArt: Genius Artist Simulator
-Rating: 4.75 (97)  
-Ratings Per Day: 1.45  
+Rating: 4.76 (98)  
+Ratings Per Day: 1.05  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -35,3 +35,4 @@ Ratings Per Day: 1.45
 | 2022-08-27 | 4.74 | 94 |
 | 2022-08-28 | 4.75 | 96 |
 | 2022-08-29 | 4.75 | 97 |
+| 2022-08-31 | 4.76 | 98 |
