@@ -3,10 +3,10 @@
   "Name": "Spellbreak",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 842,
-  "DailyRatings": 4.88,
+  "NumberOfRatings": 846,
+  "DailyRatings": 5.14,
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-08-30T21:00:33.0087465+00:00",
+  "LastChanged": "2022-08-31T08:00:57.8861754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -392,6 +392,11 @@
       "Time": "2022-08-30T21:00:33.0087467+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 842
+    },
+    {
+      "Time": "2022-08-31T08:00:57.8861756+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 846
     }
   ],
   "Tags": [

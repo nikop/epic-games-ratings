@@ -3,10 +3,10 @@
   "Name": "VALORANT",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 127398,
-  "DailyRatings": 1333.9,
+  "NumberOfRatings": 127484,
+  "DailyRatings": 1326.08,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2022-08-31T05:33:00.601745+00:00",
+  "LastChanged": "2022-08-31T08:02:38.2259032+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -1927,6 +1927,11 @@
       "Time": "2022-08-31T05:33:00.6017451+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 127398
+    },
+    {
+      "Time": "2022-08-31T08:02:38.2259033+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 127484
     }
   ],
   "Tags": [
