@@ -2,11 +2,11 @@
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
   "Names": [],
-  "Rating": 4.77,
-  "NumberOfRatings": 172,
-  "DailyRatings": 6.55,
+  "Rating": 4.78,
+  "NumberOfRatings": 178,
+  "DailyRatings": 6.46,
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2022-08-30T21:02:49.857596+00:00",
+  "LastChanged": "2022-08-31T21:02:46.474263+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:28.8932125+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-08-30T21:02:49.8575964+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 172
+    },
+    {
+      "Time": "2022-08-31T21:02:46.4742631+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 178
     }
   ],
   "Tags": [

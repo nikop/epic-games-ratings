@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.56,
   "NumberOfRatings": 3311,
-  "DailyRatings": 24.43,
+  "DailyRatings": 24.22,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
   "LastChanged": "2022-08-31T20:31:47.3018493+00:00",
   "RatingHistory": [
@@ -1555,7 +1555,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 123
+      "Count": 125
     },
     {
       "Text": "This game has Challenging Combat",
