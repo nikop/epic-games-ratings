@@ -3,10 +3,10 @@
   "Name": "Bad North",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 689,
-  "DailyRatings": 5.09,
+  "NumberOfRatings": 694,
+  "DailyRatings": 5.27,
   "FirstSeen": "2022-07-22T20:29:59.5016567+00:00",
-  "LastChanged": "2022-08-30T23:07:03.4363408+00:00",
+  "LastChanged": "2022-08-31T17:02:17.1772055+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:59.501657+00:00",
@@ -307,12 +307,17 @@
       "Time": "2022-08-30T23:07:03.436341+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 689
+    },
+    {
+      "Time": "2022-08-31T17:02:17.1772057+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 694
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 77
+      "Count": 80
     }
   ]
 }
