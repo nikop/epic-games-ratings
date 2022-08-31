@@ -1,5 +1,5 @@
 # Twin Mirror
-Rating: 4.33 (36)  
+Rating: 4.27 (37)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.00
 | 2022-08-20 | 4.32 | 34 |
 | 2022-08-21 | 4.34 | 35 |
 | 2022-08-24 | 4.33 | 36 |
+| 2022-08-31 | 4.27 | 37 |

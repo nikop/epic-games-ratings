@@ -3,10 +3,10 @@
   "Name": "Fall Guys",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 985501,
-  "DailyRatings": 3520.11,
+  "NumberOfRatings": 985793,
+  "DailyRatings": 3530.6,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
-  "LastChanged": "2022-08-31T16:01:18.0869484+00:00",
+  "LastChanged": "2022-08-31T17:30:42.6787012+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.4977602+00:00",
@@ -1747,6 +1747,11 @@
       "Time": "2022-08-31T16:01:18.0869486+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 985501
+    },
+    {
+      "Time": "2022-08-31T17:30:42.6787014+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 985793
     }
   ],
   "Tags": [
