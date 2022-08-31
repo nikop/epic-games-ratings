@@ -2,11 +2,11 @@
   "ID": "ff1cd8b38bda4f6281879c9bdb228ff1",
   "Name": "Atomicrops",
   "Names": [],
-  "Rating": 4.86,
-  "NumberOfRatings": 133,
-  "DailyRatings": 1.26,
+  "Rating": 4.87,
+  "NumberOfRatings": 134,
+  "DailyRatings": 0.64,
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2022-08-27T02:31:16.9978197+00:00",
+  "LastChanged": "2022-08-31T00:31:08.8603581+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:16.7457187+00:00",
@@ -157,12 +157,17 @@
       "Time": "2022-08-27T02:31:16.9978198+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 133
+    },
+    {
+      "Time": "2022-08-31T00:31:08.8603583+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 134
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 66
+      "Count": 67
     }
   ]
 }
