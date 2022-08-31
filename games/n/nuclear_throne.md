@@ -1,6 +1,6 @@
 # Nuclear Throne
 Rating: 4.79 (525)  
-Ratings Per Day: 5.46  
+Ratings Per Day: 5.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
