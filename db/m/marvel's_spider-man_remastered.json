@@ -3,11 +3,11 @@
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 11113,
-  "DailyRatings": 310.18,
+  "NumberOfRatings": 11120,
+  "DailyRatings": 310.29,
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2022-08-31T16:01:46.5670075+00:00",
+  "LastChanged": "2022-08-31T16:30:56.4944729+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T21:01:33.6251935+00:00",
@@ -1003,6 +1003,11 @@
       "Time": "2022-08-31T16:01:46.5670076+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 11113
+    },
+    {
+      "Time": "2022-08-31T16:30:56.494473+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 11120
     }
   ],
   "Tags": [
