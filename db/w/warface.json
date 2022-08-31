@@ -3,10 +3,10 @@
   "Name": "Warface",
   "Names": [],
   "Rating": 3.95,
-  "NumberOfRatings": 2527,
-  "DailyRatings": 28.21,
+  "NumberOfRatings": 2528,
+  "DailyRatings": 28.18,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-08-31T19:32:13.0338388+00:00",
+  "LastChanged": "2022-08-31T20:32:38.2690758+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -1302,6 +1302,11 @@
       "Time": "2022-08-31T19:32:13.033839+00:00",
       "Rating": 3.95,
       "NumberOfRatings": 2527
+    },
+    {
+      "Time": "2022-08-31T20:32:38.2690759+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": 2528
     }
   ],
   "Tags": [

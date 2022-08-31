@@ -3,10 +3,10 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "Names": [],
   "Rating": 4.04,
-  "NumberOfRatings": 8631,
-  "DailyRatings": 20.74,
+  "NumberOfRatings": 8632,
+  "DailyRatings": 20.57,
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "LastChanged": "2022-08-31T18:00:53.8327659+00:00",
+  "LastChanged": "2022-08-31T20:30:46.9061152+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.6649584+00:00",
@@ -1867,6 +1867,11 @@
       "Time": "2022-08-31T18:00:53.8327661+00:00",
       "Rating": 4.04,
       "NumberOfRatings": 8631
+    },
+    {
+      "Time": "2022-08-31T20:30:46.9061155+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 8632
     }
   ],
   "Tags": [
@@ -1880,7 +1885,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 2357
+      "Count": 2384
     },
     {
       "Text": "This game is Relaxing",
