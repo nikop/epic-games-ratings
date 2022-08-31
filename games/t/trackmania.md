@@ -1,6 +1,6 @@
 # Trackmania
 Rating: 4.68 (5 859)  
-Ratings Per Day: 38.19  
+Ratings Per Day: 38.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
