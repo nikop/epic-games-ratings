@@ -1,6 +1,6 @@
 # The Fall
 Rating: 4.18 (94)  
-Ratings Per Day: 1.00  
+Ratings Per Day: 1.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

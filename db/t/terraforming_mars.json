@@ -3,10 +3,10 @@
   "Name": "Terraforming Mars",
   "Names": [],
   "Rating": 4.54,
-  "NumberOfRatings": 2465,
-  "DailyRatings": 12.91,
+  "NumberOfRatings": 2469,
+  "DailyRatings": 13.33,
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
-  "LastChanged": "2022-09-01T16:31:58.372537+00:00",
+  "LastChanged": "2022-09-01T18:32:00.4206926+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:50.3990272+00:00",
@@ -1252,6 +1252,11 @@
       "Time": "2022-09-01T16:31:58.3725371+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 2465
+    },
+    {
+      "Time": "2022-09-01T18:32:00.4206927+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 2469
     }
   ],
   "Tags": [
@@ -1269,7 +1274,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 211
+      "Count": 218
     },
     {
       "Text": "This game has Competitive Players",
