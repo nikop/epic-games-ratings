@@ -2,11 +2,11 @@
   "ID": "61bc780f42f84fe29e6dfee957ab82de",
   "Name": "The Escapists",
   "Names": [],
-  "Rating": 4.48,
-  "NumberOfRatings": 493,
-  "DailyRatings": 5.32,
+  "Rating": 4.49,
+  "NumberOfRatings": 494,
+  "DailyRatings": 5.4,
   "FirstSeen": "2022-07-22T20:18:12.5435213+00:00",
-  "LastChanged": "2022-09-01T16:00:31.1948106+00:00",
+  "LastChanged": "2022-09-01T18:01:08.5314928+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:12.5435215+00:00",
@@ -297,6 +297,11 @@
       "Time": "2022-09-01T16:00:31.1948109+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 493
+    },
+    {
+      "Time": "2022-09-01T18:01:08.5314929+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 494
     }
   ],
   "Tags": []

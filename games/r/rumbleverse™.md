@@ -1,6 +1,6 @@
 # Rumbleverse™
 Rating: 4.44 (44 897)  
-Ratings Per Day: 1577.24  
+Ratings Per Day: 1569.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,10 +3,10 @@
   "Name": "The Crew 2 Standard Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 1745,
-  "DailyRatings": 18.67,
+  "NumberOfRatings": 1748,
+  "DailyRatings": 18.83,
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2022-09-01T15:31:19.2291063+00:00",
+  "LastChanged": "2022-09-01T18:01:54.6647938+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:02.2131055+00:00",
@@ -1207,6 +1207,11 @@
       "Time": "2022-09-01T15:31:19.2291065+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 1745
+    },
+    {
+      "Time": "2022-09-01T18:01:54.6647939+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 1748
     }
   ],
   "Tags": [
@@ -1216,7 +1221,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 120
+      "Count": 123
     },
     {
       "Text": "This game has Competitive Players",
