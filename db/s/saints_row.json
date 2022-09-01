@@ -3,11 +3,11 @@
   "Name": "Saints Row",
   "Names": [],
   "Rating": 3.74,
-  "NumberOfRatings": 13621,
-  "DailyRatings": 1469.92,
+  "NumberOfRatings": 13656,
+  "DailyRatings": 1451.74,
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
-  "LastChanged": "2022-08-31T23:31:25.426224+00:00",
+  "LastChanged": "2022-09-01T01:00:42.7634298+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-23T10:30:45.3809934+00:00",
@@ -518,6 +518,11 @@
       "Time": "2022-08-31T23:31:25.4262243+00:00",
       "Rating": 3.74,
       "NumberOfRatings": 13621
+    },
+    {
+      "Time": "2022-09-01T01:00:42.7634303+00:00",
+      "Rating": 3.74,
+      "NumberOfRatings": 13656
     }
   ],
   "Tags": [
@@ -543,7 +548,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 169
+      "Count": 202
     },
     {
       "Text": "This game has Amazing Storytelling",
