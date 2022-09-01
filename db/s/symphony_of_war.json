@@ -3,10 +3,10 @@
   "Name": "Symphony of War",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 174,
-  "DailyRatings": 0.91,
+  "NumberOfRatings": 175,
+  "DailyRatings": 0.73,
   "FirstSeen": "2022-07-22T20:27:23.9681849+00:00",
-  "LastChanged": "2022-08-29T13:02:21.2437948+00:00",
+  "LastChanged": "2022-09-01T00:02:22.4173288+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:23.9681851+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-08-29T13:02:21.243795+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 174
+    },
+    {
+      "Time": "2022-09-01T00:02:22.417329+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 175
     }
   ],
   "Tags": [

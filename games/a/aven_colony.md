@@ -1,6 +1,6 @@
 # Aven Colony
 Rating: 4.21 (1 784)  
-Ratings Per Day: 18.94  
+Ratings Per Day: 19.41  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
