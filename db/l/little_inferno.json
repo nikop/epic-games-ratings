@@ -2,11 +2,11 @@
   "ID": "clover",
   "Name": "Little Inferno",
   "Names": [],
-  "Rating": 4.35,
-  "NumberOfRatings": 57,
-  "DailyRatings": 0.4,
+  "Rating": 4.36,
+  "NumberOfRatings": 58,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
-  "LastChanged": "2022-08-31T08:02:33.6711367+00:00",
+  "LastChanged": "2022-09-01T08:02:21.5712362+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:23.1362484+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-08-31T08:02:33.6711369+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 57
+    },
+    {
+      "Time": "2022-09-01T08:02:21.5712366+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 58
     }
   ],
   "Tags": []
