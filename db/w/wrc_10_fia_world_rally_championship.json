@@ -3,10 +3,10 @@
   "Name": "WRC 10 FIA World Rally Championship",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 206,
-  "DailyRatings": 1.25,
+  "NumberOfRatings": 207,
+  "DailyRatings": 1.02,
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2022-08-30T03:01:33.7220571+00:00",
+  "LastChanged": "2022-09-01T05:01:00.3281883+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:20.0440726+00:00",
@@ -242,6 +242,11 @@
       "Time": "2022-08-30T03:01:33.7220575+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 206
+    },
+    {
+      "Time": "2022-09-01T05:01:00.3281884+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 207
     }
   ],
   "Tags": []

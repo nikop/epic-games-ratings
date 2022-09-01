@@ -3,10 +3,10 @@
   "Name": "Disco Elysium",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 1353,
-  "DailyRatings": 11.92,
+  "NumberOfRatings": 1357,
+  "DailyRatings": 11.85,
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "LastChanged": "2022-08-31T20:01:13.4597152+00:00",
+  "LastChanged": "2022-09-01T05:00:40.8523038+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:46.370963+00:00",
@@ -577,6 +577,11 @@
       "Time": "2022-08-31T20:01:13.4597153+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 1353
+    },
+    {
+      "Time": "2022-09-01T05:00:40.8523041+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 1357
     }
   ],
   "Tags": [

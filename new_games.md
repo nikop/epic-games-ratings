@@ -14,4 +14,4 @@
 | 12 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.46 | 1 649 | 38.55 |
 | 13 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 44 132 | 1625.73 |
 | 14 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 745 | 24.46 |
-| 15 | [MultiVersus](games/m/multiversus.md) | 4.57 | 50 815 | 453.50 |
+| 15 | [MultiVersus](games/m/multiversus.md) | 4.57 | 50 848 | 450.14 |
