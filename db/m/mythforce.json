@@ -3,10 +3,10 @@
   "Name": "MythForce",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 257,
-  "DailyRatings": 1.61,
+  "NumberOfRatings": 258,
+  "DailyRatings": 1.58,
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
-  "LastChanged": "2022-09-01T05:31:52.0950086+00:00",
+  "LastChanged": "2022-09-01T23:02:53.1539925+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.2920773+00:00",
@@ -307,6 +307,11 @@
       "Time": "2022-09-01T05:31:52.0950088+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 257
+    },
+    {
+      "Time": "2022-09-01T23:02:53.1539927+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 258
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "a69c5a82682c43148e4e2542fe2fcd0f",
   "Name": "Ruined King: A League of Legends Story\u2122",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 539,
-  "DailyRatings": 3.44,
+  "Rating": 4.61,
+  "NumberOfRatings": 540,
+  "DailyRatings": 3.41,
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
-  "LastChanged": "2022-09-01T14:33:26.7478311+00:00",
+  "LastChanged": "2022-09-01T23:02:15.7789318+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:34.6874312+00:00",
@@ -297,12 +297,17 @@
       "Time": "2022-09-01T14:33:26.7478312+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 539
+    },
+    {
+      "Time": "2022-09-01T23:02:15.7789321+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 540
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 112
+      "Count": 115
     }
   ]
 }
