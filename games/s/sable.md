@@ -1,6 +1,6 @@
 # Sable
-Rating: 4.50 (38)  
-Ratings Per Day: 1.96  
+Rating: 4.51 (39)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 1.96
 | 2022-08-20 | 4.51 | 35 |
 | 2022-08-26 | 4.47 | 36 |
 | 2022-08-27 | 4.50 | 38 |
+| 2022-09-01 | 4.51 | 39 |

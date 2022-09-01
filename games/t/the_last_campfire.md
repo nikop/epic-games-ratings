@@ -1,5 +1,5 @@
 # The Last Campfire
-Rating: 4.84 (38)  
+Rating: 4.85 (39)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.00
 | 2022-08-11 | 4.83 | 36 |
 | 2022-08-22 | 4.84 | 37 |
 | 2022-08-23 | 4.84 | 38 |
+| 2022-09-01 | 4.85 | 39 |
