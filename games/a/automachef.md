@@ -1,6 +1,6 @@
 # Automachef
 Rating: 4.30 (452)  
-Ratings Per Day: 5.17  
+Ratings Per Day: 5.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
