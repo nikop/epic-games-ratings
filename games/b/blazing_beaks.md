@@ -1,6 +1,6 @@
 # Blazing Beaks
-Rating: 4.45 (29)  
-Ratings Per Day: 1.00  
+Rating: 4.33 (30)  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 1.00
 | 2022-08-22 | 4.44 | 27 |
 | 2022-08-29 | 4.43 | 28 |
 | 2022-08-30 | 4.45 | 29 |
+| 2022-09-01 | 4.33 | 30 |
