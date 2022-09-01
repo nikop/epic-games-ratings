@@ -1,6 +1,6 @@
 # Fez
-Rating: 4.72 (86)  
-Ratings Per Day: 0.77  
+Rating: 4.73 (88)  
+Ratings Per Day: 0.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 0.77
 | 2022-08-27 | 4.71 | 84 |
 | 2022-08-29 | 4.72 | 85 |
 | 2022-08-31 | 4.72 | 86 |
+| 2022-09-01 | 4.73 | 88 |
