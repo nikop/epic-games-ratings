@@ -1,6 +1,6 @@
 # Anno 1701 History Edition
-Rating: 4.57 (30)  
-Ratings Per Day: 0.50  
+Rating: 4.58 (31)  
+Ratings Per Day: 0.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 0.50
 | 2022-08-25 | 4.54 | 26 |
 | 2022-08-26 | 4.54 | 28 |
 | 2022-08-30 | 4.57 | 30 |
+| 2022-09-01 | 4.58 | 31 |

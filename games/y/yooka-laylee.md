@@ -1,6 +1,6 @@
 # Yooka-Laylee
-Rating: 4.29 (312)  
-Ratings Per Day: 2.18  
+Rating: 4.27 (314)  
+Ratings Per Day: 2.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -41,4 +41,4 @@ Ratings Per Day: 2.18
 | 2022-08-28 | 4.28 | 305 |
 | 2022-08-30 | 4.28 | 308 |
 | 2022-08-31 | 4.28 | 311 |
-| 2022-09-01 | 4.29 | 312 |
+| 2022-09-01 | 4.27 | 314 |
