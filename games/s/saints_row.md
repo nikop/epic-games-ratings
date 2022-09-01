@@ -1,6 +1,6 @@
 # Saints Row
 Rating: 3.74 (14 071)  
-Ratings Per Day: 1303.46  
+Ratings Per Day: 1290.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
