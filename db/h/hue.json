@@ -3,10 +3,10 @@
   "Name": "Hue",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 359,
-  "DailyRatings": 2.09,
+  "NumberOfRatings": 362,
+  "DailyRatings": 2.28,
   "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
-  "LastChanged": "2022-09-01T01:30:28.2840093+00:00",
+  "LastChanged": "2022-09-01T22:30:40.9778247+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:29.47486+00:00",
@@ -237,12 +237,17 @@
       "Time": "2022-09-01T01:30:28.2840096+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 359
+    },
+    {
+      "Time": "2022-09-01T22:30:40.9778249+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 362
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 33
+      "Count": 34
     }
   ]
 }

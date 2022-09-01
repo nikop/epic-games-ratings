@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "Names": [],
   "Rating": 4.76,
-  "NumberOfRatings": 181,
-  "DailyRatings": 1.67,
+  "NumberOfRatings": 182,
+  "DailyRatings": 1.58,
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2022-08-31T22:30:29.959041+00:00",
+  "LastChanged": "2022-09-01T22:30:42.258791+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.0851077+00:00",
@@ -217,6 +217,11 @@
       "Time": "2022-08-31T22:30:29.9590412+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 181
+    },
+    {
+      "Time": "2022-09-01T22:30:42.2587912+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 182
     }
   ],
   "Tags": [

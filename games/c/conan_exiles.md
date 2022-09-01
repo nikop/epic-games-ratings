@@ -1,6 +1,6 @@
 # Conan Exiles
-Rating: 4.58 (991)  
-Ratings Per Day: 12.98  
+Rating: 4.57 (994)  
+Ratings Per Day: 13.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -45,4 +45,4 @@ Ratings Per Day: 12.98
 | 2022-08-29 | 4.57 | 949 |
 | 2022-08-30 | 4.57 | 959 |
 | 2022-08-31 | 4.57 | 971 |
-| 2022-09-01 | 4.58 | 991 |
+| 2022-09-01 | 4.57 | 994 |
