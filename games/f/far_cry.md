@@ -1,6 +1,6 @@
 # Far Cry
-Rating: 4.34 (38)  
-Ratings Per Day: 0.80  
+Rating: 4.36 (39)  
+Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,3 +19,4 @@ Ratings Per Day: 0.80
 | 2022-08-28 | 4.39 | 36 |
 | 2022-08-30 | 4.35 | 37 |
 | 2022-08-31 | 4.34 | 38 |
+| 2022-09-01 | 4.36 | 39 |
