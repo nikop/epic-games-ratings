@@ -3,10 +3,10 @@
   "Name": "Loop Hero",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 5242,
-  "DailyRatings": 41.23,
+  "NumberOfRatings": 5248,
+  "DailyRatings": 41.83,
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2022-09-01T13:32:15.301426+00:00",
+  "LastChanged": "2022-09-01T14:34:22.2638729+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:49.2794884+00:00",
@@ -1572,6 +1572,11 @@
       "Time": "2022-09-01T13:32:15.3014262+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 5242
+    },
+    {
+      "Time": "2022-09-01T14:34:22.2638731+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 5248
     }
   ],
   "Tags": [
@@ -1597,7 +1602,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 167
+      "Count": 169
     },
     {
       "Text": "This game has Unique Visuals",
