@@ -2,11 +2,11 @@
   "ID": "b671fbc7be424e888c9346a9a6d3d9db",
   "Name": "Celeste",
   "Names": [],
-  "Rating": 4.92,
-  "NumberOfRatings": 2131,
-  "DailyRatings": 19.08,
+  "Rating": 4.91,
+  "NumberOfRatings": 2141,
+  "DailyRatings": 20,
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2022-09-01T11:01:29.2863956+00:00",
+  "LastChanged": "2022-09-01T15:31:30.7322634+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -1107,6 +1107,11 @@
       "Time": "2022-09-01T11:01:29.2863958+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 2131
+    },
+    {
+      "Time": "2022-09-01T15:31:30.7322636+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": 2141
     }
   ],
   "Tags": [
