@@ -3,10 +3,10 @@
   "Name": "Century: Age of Ashes",
   "Names": [],
   "Rating": 4.39,
-  "NumberOfRatings": 1490,
-  "DailyRatings": 10.39,
+  "NumberOfRatings": 1496,
+  "DailyRatings": 10.67,
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2022-09-01T02:01:26.66609+00:00",
+  "LastChanged": "2022-09-01T11:30:39.5503872+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.5645774+00:00",
@@ -717,6 +717,11 @@
       "Time": "2022-09-01T02:01:26.6660902+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 1490
+    },
+    {
+      "Time": "2022-09-01T11:30:39.5503875+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 1496
     }
   ],
   "Tags": [
@@ -758,7 +763,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 20
+      "Count": 22
     },
     {
       "Text": "This game has Diverse Characters",
