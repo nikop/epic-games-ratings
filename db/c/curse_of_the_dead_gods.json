@@ -2,11 +2,11 @@
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 113,
-  "DailyRatings": 1,
+  "Rating": 4.61,
+  "NumberOfRatings": 114,
+  "DailyRatings": 0.89,
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2022-08-30T14:02:50.9127111+00:00",
+  "LastChanged": "2022-09-01T06:31:27.6621918+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:59.8576238+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-08-30T14:02:50.9127112+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 113
+    },
+    {
+      "Time": "2022-09-01T06:31:27.6621919+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 114
     }
   ],
   "Tags": [
