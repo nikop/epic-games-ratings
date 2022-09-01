@@ -1,6 +1,6 @@
 # WHAT THE GOLF?
-Rating: 4.70 (30)  
-Ratings Per Day: 0.50  
+Rating: 4.68 (31)  
+Ratings Per Day: 0.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.50
 | 2022-08-12 | 4.68 | 28 |
 | 2022-08-27 | 4.69 | 29 |
 | 2022-08-29 | 4.70 | 30 |
+| 2022-09-01 | 4.68 | 31 |

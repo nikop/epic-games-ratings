@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 234,
-  "DailyRatings": 2.93,
+  "NumberOfRatings": 236,
+  "DailyRatings": 3.02,
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2022-09-01T08:30:28.8957202+00:00",
+  "LastChanged": "2022-09-01T20:00:58.0847646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:28.9665728+00:00",
@@ -237,6 +237,11 @@
       "Time": "2022-09-01T08:30:28.8957205+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 234
+    },
+    {
+      "Time": "2022-09-01T20:00:58.0848391+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 236
     }
   ],
   "Tags": []
