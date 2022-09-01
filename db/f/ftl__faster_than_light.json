@@ -3,10 +3,10 @@
   "Name": "FTL: Faster Than Light",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 990,
-  "DailyRatings": 8,
+  "NumberOfRatings": 993,
+  "DailyRatings": 7.97,
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2022-08-31T18:31:31.3325458+00:00",
+  "LastChanged": "2022-09-01T04:01:07.4354444+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:43.0008395+00:00",
@@ -822,6 +822,11 @@
       "Time": "2022-08-31T18:31:31.3325459+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 990
+    },
+    {
+      "Time": "2022-09-01T04:01:07.4354446+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 993
     }
   ],
   "Tags": [
