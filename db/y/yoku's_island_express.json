@@ -2,11 +2,11 @@
   "ID": "54399b3ef40d4c568e5904607470ffe9",
   "Name": "Yoku\u0027s Island Express",
   "Names": [],
-  "Rating": 4.69,
-  "NumberOfRatings": 281,
-  "DailyRatings": 2.83,
+  "Rating": 4.7,
+  "NumberOfRatings": 290,
+  "DailyRatings": 3.71,
   "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
-  "LastChanged": "2022-08-31T17:02:37.7289708+00:00",
+  "LastChanged": "2022-09-01T17:03:13.5487345+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:47.6965852+00:00",
@@ -237,6 +237,11 @@
       "Time": "2022-08-31T17:02:37.728971+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 281
+    },
+    {
+      "Time": "2022-09-01T17:03:13.5487347+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 290
     }
   ],
   "Tags": []
