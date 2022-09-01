@@ -3,10 +3,10 @@
   "Name": "Hello Neighbor",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 953,
-  "DailyRatings": 13.88,
+  "NumberOfRatings": 955,
+  "DailyRatings": 13.96,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-09-01T16:30:59.9707539+00:00",
+  "LastChanged": "2022-09-01T19:01:40.1529412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -772,6 +772,11 @@
       "Time": "2022-09-01T16:30:59.970754+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 953
+    },
+    {
+      "Time": "2022-09-01T19:01:40.1529413+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 955
     }
   ],
   "Tags": [
@@ -785,7 +790,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 68
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Storytelling",

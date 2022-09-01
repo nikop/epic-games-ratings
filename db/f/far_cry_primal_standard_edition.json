@@ -3,10 +3,10 @@
   "Name": "Far Cry Primal Standard Edition",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 373,
-  "DailyRatings": 4.09,
+  "NumberOfRatings": 374,
+  "DailyRatings": 4.15,
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2022-09-01T15:31:18.0596478+00:00",
+  "LastChanged": "2022-09-01T19:01:52.8786625+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
@@ -272,12 +272,17 @@
       "Time": "2022-09-01T15:31:18.059648+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 373
+    },
+    {
+      "Time": "2022-09-01T19:01:52.8786627+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 374
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 109
+      "Count": 113
     }
   ]
 }

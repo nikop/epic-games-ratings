@@ -1,6 +1,6 @@
 # Pathfinder: Wrath of the Righteous
-Rating: 4.76 (1 154)  
-Ratings Per Day: 11.30  
+Rating: 4.76 (1 156)  
+Ratings Per Day: 11.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -45,4 +45,4 @@ Ratings Per Day: 11.30
 | 2022-08-29 | 4.76 | 1 116 |
 | 2022-08-30 | 4.76 | 1 135 |
 | 2022-08-31 | 4.76 | 1 147 |
-| 2022-09-01 | 4.76 | 1 154 |
+| 2022-09-01 | 4.76 | 1 156 |

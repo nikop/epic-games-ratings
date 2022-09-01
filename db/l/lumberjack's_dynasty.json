@@ -3,10 +3,10 @@
   "Name": "Lumberjack\u0027s Dynasty",
   "Names": [],
   "Rating": 4.06,
-  "NumberOfRatings": 48,
-  "DailyRatings": 0,
+  "NumberOfRatings": 49,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:25:56.3417334+00:00",
-  "LastChanged": "2022-08-30T19:01:48.1280761+00:00",
+  "LastChanged": "2022-09-01T19:02:10.7973011+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:56.3417337+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-08-30T19:01:48.1280763+00:00",
       "Rating": 4.06,
       "NumberOfRatings": 48
+    },
+    {
+      "Time": "2022-09-01T19:02:10.7973013+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": 49
     }
   ],
   "Tags": []
