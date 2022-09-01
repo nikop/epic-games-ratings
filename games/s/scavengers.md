@@ -1,6 +1,6 @@
 # Scavengers
 Rating: 4.22 (358)  
-Ratings Per Day: 1.73  
+Ratings Per Day: 1.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

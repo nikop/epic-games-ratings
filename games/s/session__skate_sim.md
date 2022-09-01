@@ -1,6 +1,6 @@
 # Session: Skate Sim
 Rating: 4.56 (93)  
-Ratings Per Day: 1.84  
+Ratings Per Day: 1.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
