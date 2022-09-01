@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s The Division",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 208,
-  "DailyRatings": 2.25,
+  "NumberOfRatings": 209,
+  "DailyRatings": 2.21,
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2022-09-01T08:00:55.5741412+00:00",
+  "LastChanged": "2022-09-01T21:31:14.7116248+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-09-01T08:00:55.5741415+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 208
+    },
+    {
+      "Time": "2022-09-01T21:31:14.711625+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 209
     }
   ],
   "Tags": [

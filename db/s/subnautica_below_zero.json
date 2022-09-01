@@ -3,10 +3,10 @@
   "Name": "Subnautica Below Zero",
   "Names": [],
   "Rating": 4.78,
-  "NumberOfRatings": 1525,
-  "DailyRatings": 14.18,
+  "NumberOfRatings": 1526,
+  "DailyRatings": 13.94,
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2022-09-01T17:01:25.8886538+00:00",
+  "LastChanged": "2022-09-01T21:31:20.3991792+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:53.9147297+00:00",
@@ -722,6 +722,11 @@
       "Time": "2022-09-01T17:01:25.888654+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 1525
+    },
+    {
+      "Time": "2022-09-01T21:31:20.3991794+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 1526
     }
   ],
   "Tags": [
