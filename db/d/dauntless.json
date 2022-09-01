@@ -3,10 +3,10 @@
   "Name": "Dauntless",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 20015,
-  "DailyRatings": 155.56,
+  "NumberOfRatings": 20018,
+  "DailyRatings": 155.06,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-09-01T06:00:52.2931507+00:00",
+  "LastChanged": "2022-09-01T07:01:22.1682595+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -2197,6 +2197,11 @@
       "Time": "2022-09-01T06:00:52.2931509+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 20015
+    },
+    {
+      "Time": "2022-09-01T07:01:22.1682596+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 20018
     }
   ],
   "Tags": [
@@ -2230,7 +2235,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 990
+      "Count": 1003
     },
     {
       "Text": "This game has Amazing Characters",
