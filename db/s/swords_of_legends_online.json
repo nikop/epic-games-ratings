@@ -3,10 +3,10 @@
   "Name": "Swords of Legends Online",
   "Names": [],
   "Rating": 4.27,
-  "NumberOfRatings": 224,
-  "DailyRatings": 1.72,
+  "NumberOfRatings": 225,
+  "DailyRatings": 1.02,
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2022-08-29T00:32:08.2670218+00:00",
+  "LastChanged": "2022-09-01T10:01:12.0297564+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:20.3020948+00:00",
@@ -242,12 +242,17 @@
       "Time": "2022-08-29T00:32:08.2670223+00:00",
       "Rating": 4.27,
       "NumberOfRatings": 224
+    },
+    {
+      "Time": "2022-09-01T10:01:12.0297565+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 225
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 93
+      "Count": 97
     },
     {
       "Text": "This game has Great Boss Battles",

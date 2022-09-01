@@ -1,6 +1,6 @@
 # Pine
-Rating: 4.13 (554)  
-Ratings Per Day: 4.82  
+Rating: 4.13 (560)  
+Ratings Per Day: 4.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,3 +42,4 @@ Ratings Per Day: 4.82
 | 2022-08-29 | 4.14 | 549 |
 | 2022-08-30 | 4.13 | 552 |
 | 2022-08-31 | 4.13 | 554 |
+| 2022-09-01 | 4.13 | 560 |
