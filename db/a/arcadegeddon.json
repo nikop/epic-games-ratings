@@ -3,10 +3,10 @@
   "Name": "Arcadegeddon",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 765,
-  "DailyRatings": 2.43,
+  "NumberOfRatings": 767,
+  "DailyRatings": 2.37,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-08-31T23:31:29.7215211+00:00",
+  "LastChanged": "2022-09-01T23:31:30.3331847+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -442,6 +442,11 @@
       "Time": "2022-08-31T23:31:29.7215922+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 765
+    },
+    {
+      "Time": "2022-09-01T23:31:30.3331849+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 767
     }
   ],
   "Tags": [
