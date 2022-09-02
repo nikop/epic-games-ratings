@@ -1,6 +1,6 @@
 # Far Cry
 Rating: 4.36 (39)  
-Ratings Per Day: 0.83  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
