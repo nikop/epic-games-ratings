@@ -3,10 +3,10 @@
   "Name": "Warface",
   "Names": [],
   "Rating": 3.95,
-  "NumberOfRatings": 2562,
-  "DailyRatings": 30.19,
+  "NumberOfRatings": 2568,
+  "DailyRatings": 29.37,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-09-02T02:32:11.8553197+00:00",
+  "LastChanged": "2022-09-02T12:02:16.5978312+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -1347,6 +1347,11 @@
       "Time": "2022-09-02T02:32:11.8553199+00:00",
       "Rating": 3.95,
       "NumberOfRatings": 2562
+    },
+    {
+      "Time": "2022-09-02T12:02:16.5978313+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": 2568
     }
   ],
   "Tags": [
@@ -1356,7 +1361,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 109
+      "Count": 115
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -3,10 +3,10 @@
   "Name": "Kingdom Come: Deliverance",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 7884,
-  "DailyRatings": 67.26,
+  "NumberOfRatings": 7892,
+  "DailyRatings": 67,
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
-  "LastChanged": "2022-09-02T08:30:22.7807222+00:00",
+  "LastChanged": "2022-09-02T12:00:28.8833001+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.2310156+00:00",
@@ -2147,6 +2147,11 @@
       "Time": "2022-09-02T08:30:22.7807226+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 7884
+    },
+    {
+      "Time": "2022-09-02T12:00:28.8833003+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 7892
     }
   ],
   "Tags": [
@@ -2156,7 +2161,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2635
+      "Count": 2660
     },
     {
       "Text": "This game is Highly Recommended",
