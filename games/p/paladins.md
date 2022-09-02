@@ -1,6 +1,6 @@
 # Paladins
-Rating: 4.35 (10 453)  
-Ratings Per Day: 70.34  
+Rating: 4.36 (10 458)  
+Ratings Per Day: 70.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -46,4 +46,4 @@ Ratings Per Day: 70.34
 | 2022-08-30 | 4.35 | 10 214 |
 | 2022-08-31 | 4.36 | 10 288 |
 | 2022-09-01 | 4.35 | 10 390 |
-| 2022-09-02 | 4.35 | 10 453 |
+| 2022-09-02 | 4.36 | 10 458 |
