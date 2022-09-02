@@ -3,10 +3,10 @@
   "Name": "Dauntless",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 20158,
-  "DailyRatings": 136.17,
+  "NumberOfRatings": 20160,
+  "DailyRatings": 135.62,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-09-02T08:00:46.0959901+00:00",
+  "LastChanged": "2022-09-02T09:01:42.2606171+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -2272,12 +2272,17 @@
       "Time": "2022-09-02T08:00:46.0959903+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 20158
+    },
+    {
+      "Time": "2022-09-02T09:01:42.2606235+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 20160
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 9797
+      "Count": 9881
     },
     {
       "Text": "This game has Great Boss Battles",

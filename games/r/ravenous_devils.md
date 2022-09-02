@@ -1,6 +1,6 @@
 # Ravenous Devils
-Rating: 4.44 (41)  
-Ratings Per Day: 0.00  
+Rating: 4.43 (42)  
+Ratings Per Day: 0.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 0.00
 | 2022-08-22 | 4.49 | 39 |
 | 2022-08-26 | 4.45 | 40 |
 | 2022-08-29 | 4.44 | 41 |
+| 2022-09-02 | 4.43 | 42 |
