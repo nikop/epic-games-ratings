@@ -1,5 +1,5 @@
 # Cat Cafe Manager
-Rating: 4.63 (32)  
+Rating: 4.61 (33)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.00
 | 2022-08-11 | 4.60 | 30 |
 | 2022-08-12 | 4.61 | 31 |
 | 2022-08-13 | 4.63 | 32 |
+| 2022-09-02 | 4.61 | 33 |
