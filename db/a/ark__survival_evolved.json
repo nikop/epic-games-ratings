@@ -3,10 +3,10 @@
   "Name": "ARK: Survival Evolved",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 33531,
-  "DailyRatings": 127.21,
+  "NumberOfRatings": 33544,
+  "DailyRatings": 126.02,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2022-09-02T06:30:38.1345776+00:00",
+  "LastChanged": "2022-09-02T10:30:39.5840068+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -2427,6 +2427,11 @@
       "Time": "2022-09-02T06:30:38.1345777+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 33531
+    },
+    {
+      "Time": "2022-09-02T10:30:39.584007+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 33544
     }
   ],
   "Tags": [
