@@ -3,10 +3,10 @@
   "Name": "Ooblets",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 672,
-  "DailyRatings": 10.24,
+  "NumberOfRatings": 676,
+  "DailyRatings": 10.67,
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-09-01T23:32:29.4506508+00:00",
+  "LastChanged": "2022-09-02T02:02:53.0976668+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -482,12 +482,17 @@
       "Time": "2022-09-01T23:32:29.450651+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 672
+    },
+    {
+      "Time": "2022-09-02T02:02:53.0976669+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 676
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 227
+      "Count": 238
     },
     {
       "Text": "This game is Highly Recommended",
