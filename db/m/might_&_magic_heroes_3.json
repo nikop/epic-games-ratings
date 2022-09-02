@@ -3,10 +3,10 @@
   "Name": "Might \u0026 Magic Heroes 3",
   "Names": [],
   "Rating": 4.81,
-  "NumberOfRatings": 134,
-  "DailyRatings": 1.47,
+  "NumberOfRatings": 137,
+  "DailyRatings": 1.74,
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2022-09-01T18:02:23.2327486+00:00",
+  "LastChanged": "2022-09-02T15:32:56.0133372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:33.8101199+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-09-01T18:02:23.2327488+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 134
+    },
+    {
+      "Time": "2022-09-02T15:32:56.0133374+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 137
     }
   ],
   "Tags": [
