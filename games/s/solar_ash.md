@@ -1,6 +1,6 @@
 # Solar Ash
-Rating: 4.69 (93)  
-Ratings Per Day: 0.40  
+Rating: 4.69 (94)  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 0.40
 | 2022-08-26 | 4.68 | 91 |
 | 2022-08-30 | 4.68 | 92 |
 | 2022-08-31 | 4.69 | 93 |
+| 2022-09-02 | 4.69 | 94 |
