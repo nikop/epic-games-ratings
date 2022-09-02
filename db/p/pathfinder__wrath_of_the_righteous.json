@@ -3,10 +3,10 @@
   "Name": "Pathfinder: Wrath of the Righteous",
   "Names": [],
   "Rating": 4.76,
-  "NumberOfRatings": 1159,
-  "DailyRatings": 12.04,
+  "NumberOfRatings": 1161,
+  "DailyRatings": 11.89,
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
-  "LastChanged": "2022-09-01T21:31:22.7579947+00:00",
+  "LastChanged": "2022-09-02T03:30:34.3466954+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:10.6085612+00:00",
@@ -1007,6 +1007,11 @@
       "Time": "2022-09-01T21:31:22.7579949+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 1159
+    },
+    {
+      "Time": "2022-09-02T03:30:34.3466959+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 1161
     }
   ],
   "Tags": [
@@ -1044,7 +1049,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 183
+      "Count": 188
     },
     {
       "Text": "This game has Challenging Combat",
