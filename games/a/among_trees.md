@@ -1,6 +1,6 @@
 # Among Trees
-Rating: 4.32 (101)  
-Ratings Per Day: 1.71  
+Rating: 4.32 (102)  
+Ratings Per Day: 0.58  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Ratings Per Day: 1.71
 | 2022-08-26 | 4.31 | 98 |
 | 2022-08-28 | 4.30 | 99 |
 | 2022-08-29 | 4.32 | 101 |
+| 2022-09-02 | 4.32 | 102 |
