@@ -3,10 +3,10 @@
   "Name": "Surviving Mars",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 2883,
-  "DailyRatings": 29.35,
+  "NumberOfRatings": 2885,
+  "DailyRatings": 28.65,
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2022-09-02T01:01:23.7153587+00:00",
+  "LastChanged": "2022-09-02T06:30:45.8410456+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.5955068+00:00",
@@ -1322,6 +1322,11 @@
       "Time": "2022-09-02T01:01:23.7153589+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 2883
+    },
+    {
+      "Time": "2022-09-02T06:30:45.8410458+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 2885
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 7093,
-  "DailyRatings": 65.82,
+  "NumberOfRatings": 7096,
+  "DailyRatings": 65.85,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-09-02T05:30:38.6303783+00:00",
+  "LastChanged": "2022-09-02T06:30:38.2209148+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -1892,6 +1892,11 @@
       "Time": "2022-09-02T05:30:38.6303787+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 7093
+    },
+    {
+      "Time": "2022-09-02T06:30:38.2209149+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 7096
     }
   ],
   "Tags": [
@@ -1941,7 +1946,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 323
+      "Count": 333
     },
     {
       "Text": "This game has a Creative Community",
