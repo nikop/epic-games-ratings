@@ -3,10 +3,10 @@
   "Name": "Cyberpunk 2077",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 21099,
-  "DailyRatings": 142.13,
+  "NumberOfRatings": 21109,
+  "DailyRatings": 142.7,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2022-09-02T15:00:27.4761679+00:00",
+  "LastChanged": "2022-09-02T16:01:12.3891347+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -2217,6 +2217,11 @@
       "Time": "2022-09-02T15:00:27.4761684+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 21099
+    },
+    {
+      "Time": "2022-09-02T16:01:12.389135+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 21109
     }
   ],
   "Tags": [
@@ -2258,7 +2263,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 490
+      "Count": 495
     },
     {
       "Text": "This game is Extremely Fun",

@@ -3,10 +3,10 @@
   "Name": "Redout: Enhanced Edition",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 251,
-  "DailyRatings": 1.46,
+  "NumberOfRatings": 253,
+  "DailyRatings": 1.53,
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
-  "LastChanged": "2022-09-01T14:02:03.8793144+00:00",
+  "LastChanged": "2022-09-02T16:01:40.0712227+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:34.1583386+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-09-01T14:02:03.8793145+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 251
+    },
+    {
+      "Time": "2022-09-02T16:01:40.0712229+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 253
     }
   ],
   "Tags": []
