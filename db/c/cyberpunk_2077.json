@@ -3,10 +3,10 @@
   "Name": "Cyberpunk 2077",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 21085,
-  "DailyRatings": 141.68,
+  "NumberOfRatings": 21099,
+  "DailyRatings": 142.43,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2022-09-02T13:31:32.1438312+00:00",
+  "LastChanged": "2022-09-02T15:00:27.4761679+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -2212,6 +2212,11 @@
       "Time": "2022-09-02T13:31:32.1438313+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 21085
+    },
+    {
+      "Time": "2022-09-02T15:00:27.4761684+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 21099
     }
   ],
   "Tags": [
@@ -2245,7 +2250,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 509
+      "Count": 524
     },
     {
       "Text": "This game has Quickly Understood Controls",

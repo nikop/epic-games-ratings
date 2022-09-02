@@ -1,5 +1,5 @@
 # Geneforge 1 - Mutagen
-Rating: 4.22 (1 050)  
+Rating: 4.22 (1 054)  
 Ratings Per Day: 3.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -45,3 +45,4 @@ Ratings Per Day: 3.18
 | 2022-08-30 | 4.22 | 1 045 |
 | 2022-08-31 | 4.22 | 1 048 |
 | 2022-09-01 | 4.22 | 1 050 |
+| 2022-09-02 | 4.22 | 1 054 |
