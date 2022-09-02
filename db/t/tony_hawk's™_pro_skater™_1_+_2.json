@@ -3,10 +3,10 @@
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 1084,
-  "DailyRatings": 11.52,
+  "NumberOfRatings": 1085,
+  "DailyRatings": 10.83,
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2022-09-02T07:01:33.1489712+00:00",
+  "LastChanged": "2022-09-02T18:01:09.2758518+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -667,6 +667,11 @@
       "Time": "2022-09-02T07:01:33.1489714+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 1084
+    },
+    {
+      "Time": "2022-09-02T18:01:09.2758519+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 1085
     }
   ],
   "Tags": [
@@ -696,7 +701,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",
