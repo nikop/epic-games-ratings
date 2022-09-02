@@ -2,8 +2,8 @@
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.15 | 20 | 0.00 |
 | 2 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.65 | 148 | 55.05 |
-| 3 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 7 124 | 1008.76 |
-| 4 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 17 638 | 2152.42 |
+| 3 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 7 220 | 1016.61 |
+| 4 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 17 806 | 2144.24 |
 | 5 | [Saints Row](games/s/saints_row.md) | 3.74 | 14 702 | 1206.14 |
 | 6 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.13 | 101 | 9.95 |
 | 7 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.95 | 102 | 11.44 |
