@@ -3,10 +3,10 @@
   "Name": "Prey",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 11608,
-  "DailyRatings": 84.32,
+  "NumberOfRatings": 11612,
+  "DailyRatings": 83.06,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2022-09-02T18:32:33.8988023+00:00",
+  "LastChanged": "2022-09-02T20:32:22.9783371+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -1692,6 +1692,11 @@
       "Time": "2022-09-02T18:32:33.8988045+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 11608
+    },
+    {
+      "Time": "2022-09-02T20:32:22.9783373+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 11612
     }
   ],
   "Tags": [
@@ -1713,7 +1718,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 153
+      "Count": 158
     },
     {
       "Text": "This game has Quickly Understood Controls",

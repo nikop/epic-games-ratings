@@ -3,10 +3,10 @@
   "Name": "Hello Neighbor: Hide and Seek",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 69,
+  "NumberOfRatings": 70,
   "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
-  "LastChanged": "2022-09-01T20:30:44.1606476+00:00",
+  "LastChanged": "2022-09-02T20:30:36.5876121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.5841662+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-09-01T20:30:44.1606477+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 69
+    },
+    {
+      "Time": "2022-09-02T20:30:36.5876122+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 70
     }
   ],
   "Tags": []

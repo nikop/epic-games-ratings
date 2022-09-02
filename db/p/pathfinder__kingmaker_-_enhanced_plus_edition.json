@@ -3,10 +3,10 @@
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 3351,
-  "DailyRatings": 22.12,
+  "NumberOfRatings": 3354,
+  "DailyRatings": 22.09,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-09-02T17:01:57.4938094+00:00",
+  "LastChanged": "2022-09-02T20:31:23.1979406+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -1597,6 +1597,11 @@
       "Time": "2022-09-02T17:01:57.4938096+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 3351
+    },
+    {
+      "Time": "2022-09-02T20:31:23.1979408+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 3354
     }
   ],
   "Tags": [
@@ -1606,7 +1611,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 902
+      "Count": 917
     },
     {
       "Text": "This game is Extremely Fun",
