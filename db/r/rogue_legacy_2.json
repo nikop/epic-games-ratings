@@ -3,10 +3,10 @@
   "Name": "Rogue Legacy 2",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 1239,
-  "DailyRatings": 3.61,
+  "NumberOfRatings": 1240,
+  "DailyRatings": 3.53,
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
-  "LastChanged": "2022-09-02T07:32:31.6474448+00:00",
+  "LastChanged": "2022-09-02T17:32:37.1408882+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:06.6124895+00:00",
@@ -672,6 +672,11 @@
       "Time": "2022-09-02T07:32:31.647445+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 1239
+    },
+    {
+      "Time": "2022-09-02T17:32:37.1408886+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 1240
     }
   ],
   "Tags": [

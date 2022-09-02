@@ -1,6 +1,6 @@
 # Sable
 Rating: 4.51 (39)  
-Ratings Per Day: 0.50  
+Ratings Per Day: 0.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

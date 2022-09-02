@@ -1,6 +1,6 @@
 # Metro Last Light Redux
-Rating: 4.73 (5 307)  
-Ratings Per Day: 46.08  
+Rating: 4.73 (5 361)  
+Ratings Per Day: 47.26  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -46,3 +46,4 @@ Ratings Per Day: 46.08
 | 2022-08-30 | 4.73 | 5 233 |
 | 2022-08-31 | 4.73 | 5 270 |
 | 2022-09-01 | 4.73 | 5 307 |
+| 2022-09-02 | 4.73 | 5 361 |
