@@ -3,10 +3,10 @@
   "Name": "DARQ: Complete Edition",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 330,
+  "NumberOfRatings": 333,
   "DailyRatings": 3.65,
   "FirstSeen": "2022-07-22T20:18:45.2388208+00:00",
-  "LastChanged": "2022-09-01T16:30:32.2477796+00:00",
+  "LastChanged": "2022-09-02T16:30:32.8420984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:45.2388211+00:00",
@@ -217,6 +217,11 @@
       "Time": "2022-09-01T16:30:32.2477797+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 330
+    },
+    {
+      "Time": "2022-09-02T16:30:32.8420985+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 333
     }
   ],
   "Tags": []
