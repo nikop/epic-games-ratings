@@ -2,11 +2,11 @@
   "ID": "e35a5826457c4c98aada2ffad7b5ea5d",
   "Name": "The Lion\u0027s Song",
   "Names": [],
-  "Rating": 4.42,
-  "NumberOfRatings": 55,
-  "DailyRatings": 0.2,
+  "Rating": 4.41,
+  "NumberOfRatings": 56,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:23:33.7126844+00:00",
-  "LastChanged": "2022-09-01T22:01:54.2802769+00:00",
+  "LastChanged": "2022-09-02T22:01:40.4380426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:33.712685+00:00",
@@ -117,6 +117,11 @@
       "Time": "2022-09-01T22:01:54.280277+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 55
+    },
+    {
+      "Time": "2022-09-02T22:01:40.4380428+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 56
     }
   ],
   "Tags": []
