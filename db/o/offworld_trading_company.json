@@ -2,11 +2,11 @@
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
   "Names": [],
-  "Rating": 4.33,
-  "NumberOfRatings": 366,
-  "DailyRatings": 2.81,
+  "Rating": 4.32,
+  "NumberOfRatings": 370,
+  "DailyRatings": 3.08,
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2022-09-02T00:30:47.7408391+00:00",
+  "LastChanged": "2022-09-02T20:00:46.639447+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -357,12 +357,17 @@
       "Time": "2022-09-02T00:30:47.7408444+00:00",
       "Rating": 4.33,
       "NumberOfRatings": 366
+    },
+    {
+      "Time": "2022-09-02T20:00:46.6394471+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 370
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Highly Recommended",
