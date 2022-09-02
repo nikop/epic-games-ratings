@@ -3,10 +3,10 @@
   "Name": "Ancestors: The Humankind Odyssey",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 384,
-  "DailyRatings": 4.78,
+  "NumberOfRatings": 391,
+  "DailyRatings": 5.05,
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2022-09-01T10:31:12.9135323+00:00",
+  "LastChanged": "2022-09-02T12:30:58.5901826+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:27.1808232+00:00",
@@ -322,6 +322,11 @@
       "Time": "2022-09-01T10:31:12.9135324+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 384
+    },
+    {
+      "Time": "2022-09-02T12:30:58.5901828+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 391
     }
   ],
   "Tags": []

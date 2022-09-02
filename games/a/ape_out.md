@@ -1,6 +1,6 @@
 # APE OUT
-Rating: 4.62 (26)  
-Ratings Per Day: 0.00  
+Rating: 4.61 (28)  
+Ratings Per Day: 1.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.00
 | 2022-08-24 | 4.58 | 24 |
 | 2022-08-26 | 4.60 | 25 |
 | 2022-09-01 | 4.62 | 26 |
+| 2022-09-02 | 4.61 | 28 |
