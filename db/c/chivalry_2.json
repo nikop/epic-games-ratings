@@ -3,10 +3,10 @@
   "Name": "Chivalry 2",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 16936,
-  "DailyRatings": 49.77,
+  "NumberOfRatings": 16938,
+  "DailyRatings": 49.16,
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2022-09-02T04:31:00.0028696+00:00",
+  "LastChanged": "2022-09-02T07:31:02.3642462+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.5003133+00:00",
@@ -2162,6 +2162,11 @@
       "Time": "2022-09-02T04:31:00.0028744+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 16936
+    },
+    {
+      "Time": "2022-09-02T07:31:02.3642463+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 16938
     }
   ],
   "Tags": [
