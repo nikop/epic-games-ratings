@@ -2,12 +2,12 @@
   "ID": "530eeeaffca14275a451d7cff61ee6bb",
   "Name": "The End is Nigh",
   "Names": [],
-  "Rating": 5,
-  "NumberOfRatings": 26,
+  "Rating": 4.97,
+  "NumberOfRatings": 29,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:42.5852877+00:00",
   "FirstSeenRating": "2022-08-04T20:31:15.3945222+00:00",
-  "LastChanged": "2022-08-25T06:02:01.4357927+00:00",
+  "LastChanged": "2022-09-02T11:31:25.7698128+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-04T20:31:15.3945227+00:00",
@@ -38,6 +38,11 @@
       "Time": "2022-08-25T06:02:01.4357928+00:00",
       "Rating": 5,
       "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-09-02T11:31:25.769813+00:00",
+      "Rating": 4.97,
+      "NumberOfRatings": 29
     }
   ],
   "Tags": []

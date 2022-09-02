@@ -1,5 +1,5 @@
 # The End is Nigh
-Rating: 5.00 (26)  
+Rating: 4.97 (29)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.00
 | 2022-08-13 | 5.00 | 24 |
 | 2022-08-23 | 5.00 | 25 |
 | 2022-08-25 | 5.00 | 26 |
+| 2022-09-02 | 4.97 | 29 |

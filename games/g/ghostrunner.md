@@ -1,6 +1,6 @@
 # Ghostrunner
-Rating: 4.72 (769)  
-Ratings Per Day: 10.60  
+Rating: 4.72 (772)  
+Ratings Per Day: 10.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -46,4 +46,4 @@ Ratings Per Day: 10.60
 | 2022-08-30 | 4.71 | 738 |
 | 2022-08-31 | 4.72 | 744 |
 | 2022-09-01 | 4.72 | 764 |
-| 2022-09-02 | 4.72 | 769 |
+| 2022-09-02 | 4.72 | 772 |
