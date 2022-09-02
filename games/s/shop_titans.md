@@ -1,6 +1,6 @@
 # Shop Titans
 Rating: 3.95 (12 066)  
-Ratings Per Day: 43.07  
+Ratings Per Day: 43.26  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

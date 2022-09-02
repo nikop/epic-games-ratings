@@ -1,6 +1,6 @@
 # Before We Leave
-Rating: 4.58 (62)  
-Ratings Per Day: 0.89  
+Rating: 4.59 (63)  
+Ratings Per Day: 0.91  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 0.89
 | 2022-08-29 | 4.59 | 59 |
 | 2022-08-31 | 4.58 | 60 |
 | 2022-09-01 | 4.58 | 62 |
+| 2022-09-02 | 4.59 | 63 |
