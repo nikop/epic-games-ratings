@@ -3,10 +3,10 @@
   "Name": "Sunless Sea",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 308,
-  "DailyRatings": 3.8,
+  "NumberOfRatings": 312,
+  "DailyRatings": 3.24,
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
-  "LastChanged": "2022-08-31T15:30:49.3957507+00:00",
+  "LastChanged": "2022-09-02T14:30:51.5391791+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:36.9352359+00:00",
@@ -317,12 +317,17 @@
       "Time": "2022-08-31T15:30:49.3957508+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 308
+    },
+    {
+      "Time": "2022-09-02T14:30:51.5391792+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 312
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 87
+      "Count": 89
     }
   ]
 }
