@@ -3,10 +3,10 @@
   "Name": "The Binding of Isaac: Repentance",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 1716,
-  "DailyRatings": 7.34,
+  "NumberOfRatings": 1718,
+  "DailyRatings": 7.5,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2022-09-02T18:30:41.8121203+00:00",
+  "LastChanged": "2022-09-02T21:30:33.2656421+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:34.9311335+00:00",
@@ -1257,6 +1257,11 @@
       "Time": "2022-09-02T18:30:41.8121206+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 1716
+    },
+    {
+      "Time": "2022-09-02T21:30:33.2656423+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 1718
     }
   ],
   "Tags": [
@@ -1294,7 +1299,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 216
+      "Count": 223
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1310,7 +1315,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 193
+      "Count": 197
     }
   ]
 }

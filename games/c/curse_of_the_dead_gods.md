@@ -1,6 +1,6 @@
 # Curse of the Dead Gods
-Rating: 4.61 (116)  
-Ratings Per Day: 1.00  
+Rating: 4.61 (119)  
+Ratings Per Day: 1.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Ratings Per Day: 1.00
 | 2022-08-28 | 4.61 | 112 |
 | 2022-08-30 | 4.60 | 113 |
 | 2022-09-01 | 4.61 | 116 |
+| 2022-09-02 | 4.61 | 119 |
