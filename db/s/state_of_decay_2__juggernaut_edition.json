@@ -3,10 +3,10 @@
   "Name": "State of Decay 2: Juggernaut Edition",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 1182,
-  "DailyRatings": 10.33,
+  "NumberOfRatings": 1184,
+  "DailyRatings": 10.43,
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2022-09-02T14:01:29.2577042+00:00",
+  "LastChanged": "2022-09-02T17:01:22.8417077+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:15.4995461+00:00",
@@ -1087,6 +1087,11 @@
       "Time": "2022-09-02T14:01:29.2577043+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 1182
+    },
+    {
+      "Time": "2022-09-02T17:01:22.8417079+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 1184
     }
   ],
   "Tags": [
