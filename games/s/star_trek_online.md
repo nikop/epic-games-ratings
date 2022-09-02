@@ -1,6 +1,6 @@
 # Star Trek Online
 Rating: 4.48 (495)  
-Ratings Per Day: 3.28  
+Ratings Per Day: 3.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
