@@ -1,6 +1,6 @@
 # Ys IX: Monstrum Nox (Launch Week)
 Rating: 4.46 (28)  
-Ratings Per Day: 0.20  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

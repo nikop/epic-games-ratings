@@ -1,10 +1,10 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.15 | 20 | 0.00 |
+| 1 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.87 | 31 | 22.95 |
 | 2 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.63 | 158 | 51.84 |
 | 3 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 7 279 | 1021.01 |
 | 4 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 17 953 | 2139.94 |
-| 5 | [Saints Row](games/s/saints_row.md) | 3.74 | 14 754 | 1192.95 |
+| 5 | [Saints Row](games/s/saints_row.md) | 3.74 | 14 754 | 1184.44 |
 | 6 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.13 | 101 | 9.95 |
 | 7 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 3.95 | 102 | 11.25 |
 | 8 | [DOOM (1993)](games/d/doom_(1993).md) | 4.90 | 62 | 4.94 |
@@ -14,6 +14,6 @@
 | 12 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 68 | 2.74 |
 | 13 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 11 489 | 250.26 |
 | 14 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.47 | 1 690 | 33.30 |
-| 15 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 45 854 | 1522.80 |
-| 16 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 775 | 22.82 |
-| 17 | [MultiVersus](games/m/multiversus.md) | 4.57 | 51 239 | 422.69 |
+| 15 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 45 992 | 1525.67 |
+| 16 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 4 777 | 22.35 |
+| 17 | [MultiVersus](games/m/multiversus.md) | 4.57 | 51 239 | 423.39 |
