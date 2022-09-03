@@ -3,10 +3,10 @@
   "Name": "Enter the Gungeon",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 7506,
-  "DailyRatings": 68.63,
+  "NumberOfRatings": 7508,
+  "DailyRatings": 67.77,
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2022-09-03T14:31:37.960907+00:00",
+  "LastChanged": "2022-09-03T15:31:38.5971534+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:04.4908793+00:00",
@@ -2002,6 +2002,11 @@
       "Time": "2022-09-03T14:31:37.9609071+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 7506
+    },
+    {
+      "Time": "2022-09-03T15:31:38.5971535+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 7508
     }
   ],
   "Tags": [
@@ -2035,7 +2040,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 312
+      "Count": 320
     },
     {
       "Text": "This game has Amazing Characters",

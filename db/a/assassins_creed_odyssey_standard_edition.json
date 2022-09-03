@@ -3,10 +3,10 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 4644,
-  "DailyRatings": 38.9,
+  "NumberOfRatings": 4652,
+  "DailyRatings": 39.23,
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2022-09-03T12:01:21.7537782+00:00",
+  "LastChanged": "2022-09-03T15:31:12.2339285+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:24.6932881+00:00",
@@ -1707,12 +1707,17 @@
       "Time": "2022-09-03T12:01:21.7537784+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 4644
+    },
+    {
+      "Time": "2022-09-03T15:31:12.2339289+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 4652
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1902
+      "Count": 1924
     },
     {
       "Text": "This game has Great Boss Battles",

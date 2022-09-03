@@ -1,6 +1,6 @@
 # Way of the Hunter
 Rating: 4.14 (108)  
-Ratings Per Day: 7.90  
+Ratings Per Day: 7.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

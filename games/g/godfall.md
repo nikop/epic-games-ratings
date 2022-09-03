@@ -1,6 +1,6 @@
 # Godfall
-Rating: 4.11 (710)  
-Ratings Per Day: 6.41  
+Rating: 4.11 (712)  
+Ratings Per Day: 5.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,3 +47,4 @@ Ratings Per Day: 6.41
 | 2022-08-31 | 4.11 | 697 |
 | 2022-09-01 | 4.12 | 699 |
 | 2022-09-02 | 4.11 | 710 |
+| 2022-09-03 | 4.11 | 712 |
