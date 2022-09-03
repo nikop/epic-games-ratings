@@ -1,6 +1,6 @@
 # Going Medieval
-Rating: 4.62 (634)  
-Ratings Per Day: 2.64  
+Rating: 4.62 (635)  
+Ratings Per Day: 2.65  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -46,4 +46,4 @@ Ratings Per Day: 2.64
 | 2022-08-31 | 4.62 | 624 |
 | 2022-09-01 | 4.62 | 630 |
 | 2022-09-02 | 4.62 | 631 |
-| 2022-09-03 | 4.62 | 634 |
+| 2022-09-03 | 4.62 | 635 |
