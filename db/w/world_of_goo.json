@@ -2,11 +2,11 @@
   "ID": "anemone",
   "Name": "World of Goo",
   "Names": [],
-  "Rating": 4.66,
-  "NumberOfRatings": 38,
-  "DailyRatings": 0.72,
+  "Rating": 4.67,
+  "NumberOfRatings": 39,
+  "DailyRatings": 0.76,
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
-  "LastChanged": "2022-09-02T04:01:31.6259981+00:00",
+  "LastChanged": "2022-09-03T04:02:37.1385644+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T22:01:43.892792+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-09-02T04:01:31.6259983+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 38
+    },
+    {
+      "Time": "2022-09-03T04:02:37.1385646+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 39
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "VALORANT",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 131137,
-  "DailyRatings": 1334.88,
+  "NumberOfRatings": 131280,
+  "DailyRatings": 1334.28,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2022-09-03T00:32:03.4080265+00:00",
+  "LastChanged": "2022-09-03T04:03:06.4526427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -2087,6 +2087,11 @@
       "Time": "2022-09-03T00:32:03.4080267+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 131137
+    },
+    {
+      "Time": "2022-09-03T04:03:06.4526428+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 131280
     }
   ],
   "Tags": [
@@ -2120,7 +2125,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 10519
+      "Count": 10711
     },
     {
       "Text": "This game has Amazing Storytelling",
