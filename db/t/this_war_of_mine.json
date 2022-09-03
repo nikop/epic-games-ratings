@@ -3,10 +3,10 @@
   "Name": "This War of Mine",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 929,
-  "DailyRatings": 8.8,
+  "NumberOfRatings": 932,
+  "DailyRatings": 8.87,
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
-  "LastChanged": "2022-09-03T05:30:52.363463+00:00",
+  "LastChanged": "2022-09-03T12:30:47.9173039+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:40.6803203+00:00",
@@ -647,6 +647,11 @@
       "Time": "2022-09-03T05:30:52.3634633+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 929
+    },
+    {
+      "Time": "2022-09-03T12:30:47.9173067+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 932
     }
   ],
   "Tags": [
@@ -680,7 +685,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 21
+      "Count": 24
     }
   ]
 }

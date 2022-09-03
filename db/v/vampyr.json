@@ -2,11 +2,11 @@
   "ID": "nautilus",
   "Name": "Vampyr",
   "Names": [],
-  "Rating": 4.32,
-  "NumberOfRatings": 4370,
-  "DailyRatings": 39.15,
+  "Rating": 4.31,
+  "NumberOfRatings": 4376,
+  "DailyRatings": 38.98,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2022-09-03T09:31:58.6915036+00:00",
+  "LastChanged": "2022-09-03T12:32:01.2702758+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:20.353285+00:00",
@@ -712,6 +712,11 @@
       "Time": "2022-09-03T09:31:58.6915038+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 4370
+    },
+    {
+      "Time": "2022-09-03T12:32:01.270276+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 4376
     }
   ],
   "Tags": [
