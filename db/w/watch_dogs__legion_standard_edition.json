@@ -2,11 +2,11 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "Names": [],
-  "Rating": 4.35,
-  "NumberOfRatings": 1162,
-  "DailyRatings": 9.85,
+  "Rating": 4.36,
+  "NumberOfRatings": 1168,
+  "DailyRatings": 9.36,
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2022-09-03T00:00:32.936145+00:00",
+  "LastChanged": "2022-09-03T22:30:29.6127278+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -692,6 +692,11 @@
       "Time": "2022-09-03T00:00:32.9361452+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 1162
+    },
+    {
+      "Time": "2022-09-03T22:30:29.612728+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1168
     }
   ],
   "Tags": [
@@ -705,7 +710,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Obsessive Gameplay",

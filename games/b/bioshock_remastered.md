@@ -1,6 +1,6 @@
 # BioShock Remastered
-Rating: 4.64 (22 340)  
-Ratings Per Day: 99.19  
+Rating: 4.64 (22 345)  
+Ratings Per Day: 99.62  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,4 +47,4 @@ Ratings Per Day: 99.19
 | 2022-08-31 | 4.64 | 22 020 |
 | 2022-09-01 | 4.64 | 22 171 |
 | 2022-09-02 | 4.64 | 22 258 |
-| 2022-09-03 | 4.64 | 22 340 |
+| 2022-09-03 | 4.64 | 22 345 |
