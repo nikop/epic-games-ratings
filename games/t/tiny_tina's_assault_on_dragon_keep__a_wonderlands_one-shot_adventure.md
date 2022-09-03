@@ -1,6 +1,6 @@
 # Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure
-Rating: 4.45 (1 081)  
-Ratings Per Day: 6.24  
+Rating: 4.45 (1 082)  
+Ratings Per Day: 6.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,4 +47,4 @@ Ratings Per Day: 6.24
 | 2022-08-31 | 4.45 | 1 060 |
 | 2022-09-01 | 4.45 | 1 069 |
 | 2022-09-02 | 4.45 | 1 076 |
-| 2022-09-03 | 4.45 | 1 081 |
+| 2022-09-03 | 4.45 | 1 082 |
