@@ -2,11 +2,11 @@
   "ID": "56eab841eaab4016b9fedd2350f997b6",
   "Name": "Oddworld: New \u0027n\u0027 Tasty",
   "Names": [],
-  "Rating": 4.37,
-  "NumberOfRatings": 91,
-  "DailyRatings": 1,
+  "Rating": 4.38,
+  "NumberOfRatings": 92,
+  "DailyRatings": 0.86,
   "FirstSeen": "2022-07-22T20:29:35.2607812+00:00",
-  "LastChanged": "2022-09-01T16:02:01.1081133+00:00",
+  "LastChanged": "2022-09-03T16:02:17.8186375+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:35.2607814+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-09-01T16:02:01.1081135+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 91
+    },
+    {
+      "Time": "2022-09-03T16:02:17.8186376+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 92
     }
   ],
   "Tags": []
