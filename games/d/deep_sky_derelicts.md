@@ -1,6 +1,6 @@
 # Deep Sky Derelicts
-Rating: 4.43 (30)  
-Ratings Per Day: 0.29  
+Rating: 4.39 (31)  
+Ratings Per Day: 0.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 0.29
 | 2022-08-26 | 4.43 | 28 |
 | 2022-08-29 | 4.45 | 29 |
 | 2022-09-02 | 4.43 | 30 |
+| 2022-09-03 | 4.39 | 31 |

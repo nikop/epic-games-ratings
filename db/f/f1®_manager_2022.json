@@ -3,11 +3,11 @@
   "Name": "F1\u00AE Manager 2022",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 202,
-  "DailyRatings": 52.39,
+  "NumberOfRatings": 207,
+  "DailyRatings": 52.26,
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2022-09-03T07:30:22.4850173+00:00",
+  "LastChanged": "2022-09-03T10:00:26.2495894+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -108,6 +108,11 @@
       "Time": "2022-09-03T07:30:22.4850175+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 202
+    },
+    {
+      "Time": "2022-09-03T10:00:26.2495895+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 207
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Hyper Light Drifter",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 316,
-  "DailyRatings": 2.44,
+  "NumberOfRatings": 317,
+  "DailyRatings": 2.39,
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
-  "LastChanged": "2022-09-02T20:31:27.1780753+00:00",
+  "LastChanged": "2022-09-03T10:01:29.4893737+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:03.8483862+00:00",
@@ -257,12 +257,17 @@
       "Time": "2022-09-02T20:31:27.1780755+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 316
+    },
+    {
+      "Time": "2022-09-03T10:01:29.4893739+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 317
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 31
+      "Count": 32
     }
   ]
 }
