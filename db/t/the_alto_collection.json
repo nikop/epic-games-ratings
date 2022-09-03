@@ -3,10 +3,10 @@
   "Name": "The Alto Collection",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 261,
-  "DailyRatings": 2.5,
+  "NumberOfRatings": 264,
+  "DailyRatings": 2.44,
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
-  "LastChanged": "2022-09-02T04:31:58.1570727+00:00",
+  "LastChanged": "2022-09-03T13:31:46.539624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:20.90716+00:00",
@@ -302,6 +302,11 @@
       "Time": "2022-09-02T04:31:58.1570729+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 261
+    },
+    {
+      "Time": "2022-09-03T13:31:46.5396242+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 264
     }
   ],
   "Tags": []
