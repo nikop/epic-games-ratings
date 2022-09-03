@@ -1,6 +1,6 @@
 # Warframe
 Rating: 4.65 (9 964)  
-Ratings Per Day: 80.67  
+Ratings Per Day: 80.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
