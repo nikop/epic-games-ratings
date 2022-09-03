@@ -1,6 +1,6 @@
 # Crysis 3 Remastered
 Rating: 4.62 (421)  
-Ratings Per Day: 4.92  
+Ratings Per Day: 4.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
