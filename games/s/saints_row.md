@@ -1,6 +1,6 @@
 # Saints Row
-Rating: 3.74 (15 133)  
-Ratings Per Day: 1096.90  
+Rating: 3.74 (15 234)  
+Ratings Per Day: 1083.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 1096.90
 | 2022-08-31 | 3.74 | 13 621 |
 | 2022-09-01 | 3.74 | 14 348 |
 | 2022-09-02 | 3.74 | 15 133 |
+| 2022-09-03 | 3.74 | 15 234 |

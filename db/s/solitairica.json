@@ -2,11 +2,11 @@
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
   "Names": [],
-  "Rating": 4.48,
-  "NumberOfRatings": 415,
-  "DailyRatings": 2.96,
+  "Rating": 4.47,
+  "NumberOfRatings": 417,
+  "DailyRatings": 3.07,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2022-09-02T15:00:57.8552852+00:00",
+  "LastChanged": "2022-09-03T01:30:55.7833573+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:54.478513+00:00",
@@ -442,6 +442,11 @@
       "Time": "2022-09-02T15:00:57.8552855+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 415
+    },
+    {
+      "Time": "2022-09-03T01:30:55.7833574+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 417
     }
   ],
   "Tags": [
@@ -471,7 +476,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Challenging Combat",
