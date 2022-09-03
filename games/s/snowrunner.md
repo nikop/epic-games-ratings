@@ -1,6 +1,6 @@
 # SnowRunner
-Rating: 4.76 (17 825)  
-Ratings Per Day: 149.08  
+Rating: 4.76 (17 840)  
+Ratings Per Day: 147.65  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,4 +47,4 @@ Ratings Per Day: 149.08
 | 2022-08-31 | 4.75 | 17 504 |
 | 2022-09-01 | 4.76 | 17 644 |
 | 2022-09-02 | 4.76 | 17 802 |
-| 2022-09-03 | 4.76 | 17 825 |
+| 2022-09-03 | 4.76 | 17 840 |
