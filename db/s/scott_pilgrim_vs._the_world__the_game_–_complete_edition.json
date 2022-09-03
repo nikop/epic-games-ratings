@@ -3,10 +3,10 @@
   "Name": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition",
   "Names": [],
   "Rating": 4.79,
-  "NumberOfRatings": 81,
-  "DailyRatings": 1.65,
+  "NumberOfRatings": 82,
+  "DailyRatings": 1.52,
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
-  "LastChanged": "2022-09-02T04:32:13.8754309+00:00",
+  "LastChanged": "2022-09-03T04:31:59.122364+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:24.6298447+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-09-02T04:32:13.8754311+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 81
+    },
+    {
+      "Time": "2022-09-03T04:31:59.1223641+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 82
     }
   ],
   "Tags": []
