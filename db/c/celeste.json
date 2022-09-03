@@ -3,10 +3,10 @@
   "Name": "Celeste",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 2169,
-  "DailyRatings": 19.43,
+  "NumberOfRatings": 2171,
+  "DailyRatings": 19.82,
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2022-09-03T00:31:29.2226387+00:00",
+  "LastChanged": "2022-09-03T03:31:26.2942229+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -1157,6 +1157,11 @@
       "Time": "2022-09-03T00:31:29.2226389+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 2169
+    },
+    {
+      "Time": "2022-09-03T03:31:26.2942231+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 2171
     }
   ],
   "Tags": [
@@ -1174,7 +1179,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 54
+      "Count": 58
     },
     {
       "Text": "This game has Obsessive Gameplay",
