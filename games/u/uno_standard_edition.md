@@ -1,6 +1,6 @@
 # UNO Standard Edition
 Rating: 4.56 (50)  
-Ratings Per Day: 0.33  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
