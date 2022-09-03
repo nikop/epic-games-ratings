@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 80149,
-  "DailyRatings": 111.9,
+  "NumberOfRatings": 80185,
+  "DailyRatings": 113.05,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-09-03T08:01:24.4550029+00:00",
+  "LastChanged": "2022-09-03T14:01:30.1443413+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -1157,6 +1157,11 @@
       "Time": "2022-09-03T08:01:24.4550031+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 80149
+    },
+    {
+      "Time": "2022-09-03T14:01:30.1443417+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 80185
     }
   ],
   "Tags": [
@@ -1214,7 +1219,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 58
+      "Count": 59
     }
   ]
 }
