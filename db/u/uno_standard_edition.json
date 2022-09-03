@@ -2,11 +2,11 @@
   "ID": "ca93b6d41a4e41af864942d8f0a2a826",
   "Name": "UNO Standard Edition",
   "Names": [],
-  "Rating": 4.56,
-  "NumberOfRatings": 50,
-  "DailyRatings": 0.49,
+  "Rating": 4.55,
+  "NumberOfRatings": 51,
+  "DailyRatings": 0.67,
   "FirstSeen": "2022-07-22T20:16:51.0779321+00:00",
-  "LastChanged": "2022-09-02T21:00:57.9582321+00:00",
+  "LastChanged": "2022-09-03T20:00:34.8907932+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.0779334+00:00",
@@ -82,6 +82,11 @@
       "Time": "2022-09-02T21:00:57.9582322+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 50
+    },
+    {
+      "Time": "2022-09-03T20:00:34.8907934+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 51
     }
   ],
   "Tags": []

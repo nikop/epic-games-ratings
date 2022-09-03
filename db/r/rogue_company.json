@@ -3,10 +3,10 @@
   "Name": "Rogue Company",
   "Names": [],
   "Rating": 4.36,
-  "NumberOfRatings": 18781,
-  "DailyRatings": 127.71,
+  "NumberOfRatings": 18782,
+  "DailyRatings": 126.71,
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2022-09-03T18:30:26.3993963+00:00",
+  "LastChanged": "2022-09-03T20:00:36.3009535+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:58.1519568+00:00",
@@ -2237,6 +2237,11 @@
       "Time": "2022-09-03T18:30:26.3993966+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 18781
+    },
+    {
+      "Time": "2022-09-03T20:00:36.3009537+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 18782
     }
   ],
   "Tags": [

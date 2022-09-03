@@ -2,7 +2,7 @@
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.88 | 48 | 16.80 |
 | 2 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.41 | 22 | 0.00 |
-| 3 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 215 | 52.36 |
+| 3 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 231 | 52.82 |
 | 4 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 8 649 | 1107.52 |
 | 5 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 19 984 | 2040.25 |
 | 6 | [Saints Row](games/s/saints_row.md) | 3.75 | 15 798 | 967.78 |
