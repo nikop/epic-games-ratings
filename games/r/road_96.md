@@ -1,6 +1,6 @@
 # Road 96
-Rating: 4.51 (81)  
-Ratings Per Day: 0.40  
+Rating: 4.51 (82)  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Ratings Per Day: 0.40
 | 2022-08-27 | 4.52 | 79 |
 | 2022-08-31 | 4.51 | 80 |
 | 2022-09-01 | 4.51 | 81 |
+| 2022-09-03 | 4.51 | 82 |
