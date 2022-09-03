@@ -1,6 +1,6 @@
 # Going Medieval
 Rating: 4.62 (632)  
-Ratings Per Day: 2.39  
+Ratings Per Day: 2.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
