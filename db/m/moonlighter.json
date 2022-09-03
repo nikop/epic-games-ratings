@@ -2,11 +2,11 @@
   "ID": "bec822fb982843c3be794d440728336b",
   "Name": "Moonlighter",
   "Names": [],
-  "Rating": 4.7,
-  "NumberOfRatings": 935,
-  "DailyRatings": 11.35,
+  "Rating": 4.71,
+  "NumberOfRatings": 939,
+  "DailyRatings": 10.28,
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
-  "LastChanged": "2022-09-02T17:01:27.4383151+00:00",
+  "LastChanged": "2022-09-03T17:00:56.1125914+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.3946093+00:00",
@@ -352,6 +352,11 @@
       "Time": "2022-09-02T17:01:27.4383152+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 935
+    },
+    {
+      "Time": "2022-09-03T17:00:56.1125915+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 939
     }
   ],
   "Tags": []

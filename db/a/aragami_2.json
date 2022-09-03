@@ -2,12 +2,12 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "Names": [],
-  "Rating": 4.51,
-  "NumberOfRatings": 70,
-  "DailyRatings": 2.34,
+  "Rating": 4.5,
+  "NumberOfRatings": 72,
+  "DailyRatings": 2.29,
   "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
-  "LastChanged": "2022-09-02T17:02:19.1920432+00:00",
+  "LastChanged": "2022-09-03T17:01:58.6317067+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-18T20:02:23.7159826+00:00",
@@ -103,6 +103,11 @@
       "Time": "2022-09-02T17:02:19.1920434+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 70
+    },
+    {
+      "Time": "2022-09-03T17:01:58.6317068+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 72
     }
   ],
   "Tags": []
