@@ -3,10 +3,10 @@
   "Name": "KARDS - The WWII Card Game",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 1343,
-  "DailyRatings": 5.45,
+  "NumberOfRatings": 1345,
+  "DailyRatings": 5.44,
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2022-09-02T17:31:03.9879638+00:00",
+  "LastChanged": "2022-09-03T02:30:46.0940676+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:27.713592+00:00",
@@ -957,6 +957,11 @@
       "Time": "2022-09-02T17:31:03.987964+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1343
+    },
+    {
+      "Time": "2022-09-03T02:30:46.0940677+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 1345
     }
   ],
   "Tags": [
@@ -974,7 +979,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 242
+      "Count": 249
     },
     {
       "Text": "This game is Highly Recommended",
