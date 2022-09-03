@@ -3,10 +3,10 @@
   "Name": "The Division 2 Standard Edition",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 5876,
-  "DailyRatings": 40.78,
+  "NumberOfRatings": 5889,
+  "DailyRatings": 41.31,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-09-02T23:31:16.1890941+00:00",
+  "LastChanged": "2022-09-03T05:00:58.7820074+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -2027,6 +2027,11 @@
       "Time": "2022-09-02T23:31:16.1890943+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 5876
+    },
+    {
+      "Time": "2022-09-03T05:00:58.7820076+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 5889
     }
   ],
   "Tags": [
@@ -2068,7 +2073,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 330
+      "Count": 335
     },
     {
       "Text": "This game has Obsessive Gameplay",
