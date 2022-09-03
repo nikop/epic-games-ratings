@@ -3,14 +3,14 @@
 | 1 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.88 | 48 | 16.80 |
 | 2 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.41 | 22 | 0.00 |
 | 3 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 231 | 52.82 |
-| 4 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 8 649 | 1107.52 |
-| 5 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 19 984 | 2039.10 |
+| 4 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 8 805 | 1096.80 |
+| 5 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 19 984 | 2041.72 |
 | 6 | [Saints Row](games/s/saints_row.md) | 3.75 | 15 798 | 958.95 |
 | 7 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.14 | 108 | 7.80 |
 | 8 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.04 | 120 | 9.57 |
 | 9 | [DOOM (1993)](games/d/doom_(1993).md) | 4.87 | 67 | 3.34 |
 | 10 | [DOOM II](games/d/doom_ii.md) | 4.81 | 21 | 0.81 |
-| 11 | [DOOM 64](games/d/doom_64.md) | 4.66 | 3 893 | 176.77 |
+| 11 | [DOOM 64](games/d/doom_64.md) | 4.66 | 3 960 | 173.71 |
 | 12 | [DOOM 3](games/d/doom_3.md) | 4.50 | 50 | 3.25 |
 | 13 | [Aragami 2](games/a/aragami_2.md) | 4.50 | 72 | 2.34 |
 | 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 11 734 | 223.21 |

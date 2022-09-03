@@ -2,11 +2,11 @@
   "ID": "72324f542dc4488681e617b0d39ad115",
   "Name": "SpellForce 3: Versus Edition",
   "Names": [],
-  "Rating": 3.71,
-  "NumberOfRatings": 51,
+  "Rating": 3.73,
+  "NumberOfRatings": 52,
   "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:22:51.1807363+00:00",
-  "LastChanged": "2022-09-02T21:31:06.7007629+00:00",
+  "LastChanged": "2022-09-03T21:31:16.2669466+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.1807366+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-09-02T21:31:06.7007631+00:00",
       "Rating": 3.71,
       "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-09-03T21:31:16.2669467+00:00",
+      "Rating": 3.73,
+      "NumberOfRatings": 52
     }
   ],
   "Tags": []
