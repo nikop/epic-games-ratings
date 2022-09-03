@@ -1,6 +1,6 @@
 # Tropico 5
-Rating: 4.47 (1 689)  
-Ratings Per Day: 15.95  
+Rating: 4.47 (1 695)  
+Ratings Per Day: 16.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,4 +47,4 @@ Ratings Per Day: 15.95
 | 2022-08-31 | 4.47 | 1 646 |
 | 2022-09-01 | 4.47 | 1 658 |
 | 2022-09-02 | 4.47 | 1 675 |
-| 2022-09-03 | 4.47 | 1 689 |
+| 2022-09-03 | 4.47 | 1 695 |

@@ -3,10 +3,10 @@
   "Name": "Kingdoms of Amalur: Re-Reckoning",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 123,
-  "DailyRatings": 1.33,
+  "NumberOfRatings": 124,
+  "DailyRatings": 1.29,
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
-  "LastChanged": "2022-09-02T19:31:13.9247936+00:00",
+  "LastChanged": "2022-09-03T19:01:30.4860082+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.3365421+00:00",
@@ -192,12 +192,17 @@
       "Time": "2022-09-02T19:31:13.9247938+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 123
+    },
+    {
+      "Time": "2022-09-03T19:01:30.4860083+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 124
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Great Boss Battles",

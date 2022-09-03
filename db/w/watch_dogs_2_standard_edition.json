@@ -3,10 +3,10 @@
   "Name": "Watch Dogs 2 Standard Edition",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 5463,
-  "DailyRatings": 51.35,
+  "NumberOfRatings": 5468,
+  "DailyRatings": 51.15,
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2022-09-03T16:01:09.7769749+00:00",
+  "LastChanged": "2022-09-03T19:01:16.0744283+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -1602,6 +1602,11 @@
       "Time": "2022-09-03T16:01:09.776975+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 5463
+    },
+    {
+      "Time": "2022-09-03T19:01:16.0744284+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 5468
     }
   ],
   "Tags": [
