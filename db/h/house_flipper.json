@@ -2,11 +2,11 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "Names": [],
-  "Rating": 4.72,
-  "NumberOfRatings": 913,
-  "DailyRatings": 9.76,
+  "Rating": 4.71,
+  "NumberOfRatings": 914,
+  "DailyRatings": 9.82,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "LastChanged": "2022-09-04T08:01:07.6934004+00:00",
+  "LastChanged": "2022-09-04T09:32:20.0736723+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -787,6 +787,11 @@
       "Time": "2022-09-04T08:01:07.6934006+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 913
+    },
+    {
+      "Time": "2022-09-04T09:32:20.0736724+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 914
     }
   ],
   "Tags": [
