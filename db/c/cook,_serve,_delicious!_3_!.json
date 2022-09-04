@@ -585,5 +585,10 @@
       "NumberOfRatings": 1743
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
+    }
+  ]
 }
