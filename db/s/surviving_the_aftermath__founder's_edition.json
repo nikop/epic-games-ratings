@@ -3,10 +3,10 @@
   "Name": "Surviving the Aftermath: Founder\u0027s Edition",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 723,
-  "DailyRatings": 5.49,
+  "NumberOfRatings": 727,
+  "DailyRatings": 5.65,
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
-  "LastChanged": "2022-09-03T11:32:40.6618737+00:00",
+  "LastChanged": "2022-09-04T00:31:41.7453434+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:34.0304073+00:00",
@@ -562,6 +562,11 @@
       "Time": "2022-09-03T11:32:40.6618738+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 723
+    },
+    {
+      "Time": "2022-09-04T00:31:41.7453436+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 727
     }
   ],
   "Tags": [

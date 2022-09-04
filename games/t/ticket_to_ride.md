@@ -1,6 +1,6 @@
 # Ticket to Ride
 Rating: 4.55 (134)  
-Ratings Per Day: 0.69  
+Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

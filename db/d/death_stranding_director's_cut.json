@@ -3,10 +3,10 @@
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
   "Names": [],
   "Rating": 4.84,
-  "NumberOfRatings": 2620,
-  "DailyRatings": 27.38,
+  "NumberOfRatings": 2632,
+  "DailyRatings": 27.39,
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2022-09-03T14:01:49.0750585+00:00",
+  "LastChanged": "2022-09-04T00:31:55.2236977+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -1352,6 +1352,11 @@
       "Time": "2022-09-03T14:01:49.0750586+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 2620
+    },
+    {
+      "Time": "2022-09-04T00:31:55.223698+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 2632
     }
   ],
   "Tags": [
@@ -1361,7 +1366,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game is Highly Recommended",

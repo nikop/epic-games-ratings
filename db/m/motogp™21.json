@@ -3,10 +3,10 @@
   "Name": "MotoGP\u212221",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 89,
-  "DailyRatings": 0,
+  "NumberOfRatings": 90,
+  "DailyRatings": 0.15,
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2022-08-28T07:31:11.1407289+00:00",
+  "LastChanged": "2022-09-04T00:31:22.5604517+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:40.3601331+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-08-28T07:31:11.1407294+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 89
+    },
+    {
+      "Time": "2022-09-04T00:31:22.5604519+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 90
     }
   ],
   "Tags": []
