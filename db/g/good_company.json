@@ -2,11 +2,11 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "Names": [],
-  "Rating": 4.45,
-  "NumberOfRatings": 71,
-  "DailyRatings": 0,
+  "Rating": 4.46,
+  "NumberOfRatings": 72,
+  "DailyRatings": 0.49,
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
-  "LastChanged": "2022-09-02T16:02:38.5289595+00:00",
+  "LastChanged": "2022-09-04T16:31:46.2564454+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:54.0503206+00:00",
@@ -87,6 +87,11 @@
       "Time": "2022-09-02T16:02:38.5289596+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 71
+    },
+    {
+      "Time": "2022-09-04T16:31:46.2564455+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 72
     }
   ],
   "Tags": []

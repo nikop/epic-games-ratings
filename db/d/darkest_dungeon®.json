@@ -3,10 +3,10 @@
   "Name": "Darkest Dungeon\u00AE",
   "Names": [],
   "Rating": 4.76,
-  "NumberOfRatings": 4670,
-  "DailyRatings": 38.23,
+  "NumberOfRatings": 4676,
+  "DailyRatings": 38.64,
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2022-09-04T14:30:44.3141014+00:00",
+  "LastChanged": "2022-09-04T16:30:43.171643+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:59.2764087+00:00",
@@ -1997,6 +1997,11 @@
       "Time": "2022-09-04T14:30:44.3141016+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 4670
+    },
+    {
+      "Time": "2022-09-04T16:30:43.1716431+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 4676
     }
   ],
   "Tags": [
@@ -2026,7 +2031,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 273
+      "Count": 275
     },
     {
       "Text": "This game has Amazing Storytelling",
