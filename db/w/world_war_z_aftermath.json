@@ -3,10 +3,10 @@
   "Name": "World War Z Aftermath",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 14926,
-  "DailyRatings": 133.12,
+  "NumberOfRatings": 14929,
+  "DailyRatings": 132.76,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-09-03T23:00:25.8626253+00:00",
+  "LastChanged": "2022-09-04T00:00:23.0741273+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -2297,6 +2297,11 @@
       "Time": "2022-09-03T23:00:25.8626255+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 14926
+    },
+    {
+      "Time": "2022-09-04T00:00:23.0741275+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 14929
     }
   ],
   "Tags": [
