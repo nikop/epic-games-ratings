@@ -3,11 +3,11 @@
   "Name": "Destiny 2",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 20801,
-  "DailyRatings": 1954.5,
+  "NumberOfRatings": 20847,
+  "DailyRatings": 1943.48,
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2022-09-04T11:30:35.7741496+00:00",
+  "LastChanged": "2022-09-04T13:00:30.1637979+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -588,6 +588,11 @@
       "Time": "2022-09-04T11:30:35.7741498+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 20801
+    },
+    {
+      "Time": "2022-09-04T13:00:30.1637982+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 20847
     }
   ],
   "Tags": [
@@ -597,7 +602,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 212
+      "Count": 246
     },
     {
       "Text": "This game is Highly Recommended",

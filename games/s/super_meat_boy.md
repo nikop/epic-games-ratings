@@ -1,6 +1,6 @@
 # Super Meat Boy
 Rating: 4.64 (129)  
-Ratings Per Day: 2.06  
+Ratings Per Day: 2.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

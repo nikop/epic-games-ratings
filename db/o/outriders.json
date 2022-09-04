@@ -3,10 +3,10 @@
   "Name": "OUTRIDERS",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 1109,
-  "DailyRatings": 5.46,
+  "NumberOfRatings": 1107,
+  "DailyRatings": 5.16,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-09-04T12:30:49.5075068+00:00",
+  "LastChanged": "2022-09-04T13:00:51.0581595+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -827,6 +827,11 @@
       "Time": "2022-09-04T12:30:49.507507+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 1109
+    },
+    {
+      "Time": "2022-09-04T13:00:51.0581597+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 1107
     }
   ],
   "Tags": [
