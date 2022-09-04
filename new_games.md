@@ -7,11 +7,11 @@
 | 5 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 9 258 | 1090.31 |
 | 6 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 20 801 | 1954.50 |
 | 7 | [Saints Row](games/s/saints_row.md) | 3.75 | 16 278 | 895.91 |
-| 8 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.15 | 113 | 7.89 |
+| 8 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.15 | 114 | 7.47 |
 | 9 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.06 | 126 | 10.13 |
 | 10 | [DOOM (1993)](games/d/doom_(1993).md) | 4.87 | 71 | 3.83 |
 | 11 | [DOOM II](games/d/doom_ii.md) | 4.79 | 24 | 1.79 |
-| 12 | [DOOM 64](games/d/doom_64.md) | 4.67 | 4 018 | 164.35 |
+| 12 | [DOOM 64](games/d/doom_64.md) | 4.67 | 4 018 | 163.65 |
 | 13 | [DOOM 3](games/d/doom_3.md) | 4.52 | 54 | 3.12 |
 | 14 | [Aragami 2](games/a/aragami_2.md) | 4.50 | 72 | 2.34 |
 | 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 11 859 | 218.52 |
