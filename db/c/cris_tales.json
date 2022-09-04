@@ -3,10 +3,10 @@
   "Name": "Cris Tales",
   "Names": [],
   "Rating": 4.36,
-  "NumberOfRatings": 656,
-  "DailyRatings": 6.11,
+  "NumberOfRatings": 659,
+  "DailyRatings": 5.75,
   "FirstSeen": "2022-07-22T20:17:17.9085392+00:00",
-  "LastChanged": "2022-09-03T18:30:30.2204512+00:00",
+  "LastChanged": "2022-09-04T15:30:21.3121114+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:17.9085397+00:00",
@@ -327,12 +327,17 @@
       "Time": "2022-09-03T18:30:30.2204514+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 656
+    },
+    {
+      "Time": "2022-09-04T15:30:21.3121116+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 659
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 86
+      "Count": 88
     }
   ]
 }

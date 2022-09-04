@@ -3,10 +3,10 @@
   "Name": "Red Dead Redemption 2",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 90160,
-  "DailyRatings": 848.65,
+  "NumberOfRatings": 90214,
+  "DailyRatings": 848.9,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2022-09-04T14:02:17.5141406+00:00",
+  "LastChanged": "2022-09-04T15:31:08.4953626+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -2612,6 +2612,11 @@
       "Time": "2022-09-04T14:02:17.5141407+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 90160
+    },
+    {
+      "Time": "2022-09-04T15:31:08.4953627+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 90214
     }
   ],
   "Tags": [
@@ -2661,7 +2666,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 3267
+      "Count": 3333
     },
     {
       "Text": "This game has Quickly Understood Controls",
