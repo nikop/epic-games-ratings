@@ -3,10 +3,10 @@
   "Name": "Ashen",
   "Names": [],
   "Rating": 4.21,
-  "NumberOfRatings": 86,
-  "DailyRatings": 1.04,
+  "NumberOfRatings": 89,
+  "DailyRatings": 1.4,
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
-  "LastChanged": "2022-09-04T04:00:21.1410349+00:00",
+  "LastChanged": "2022-09-04T19:30:54.9480029+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.0881691+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-09-04T04:00:21.1410351+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 86
+    },
+    {
+      "Time": "2022-09-04T19:30:54.9480032+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 89
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Assassin's Creed® III: Remastered
 Rating: 4.44 (215)  
-Ratings Per Day: 2.79  
+Ratings Per Day: 2.76  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
