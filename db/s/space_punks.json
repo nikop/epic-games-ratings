@@ -3,10 +3,10 @@
   "Name": "Space Punks",
   "Names": [],
   "Rating": 4.17,
-  "NumberOfRatings": 1716,
-  "DailyRatings": 10.48,
+  "NumberOfRatings": 1718,
+  "DailyRatings": 10.52,
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
-  "LastChanged": "2022-09-04T14:01:57.3678781+00:00",
+  "LastChanged": "2022-09-04T18:00:54.3813956+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.1353749+00:00",
@@ -1182,6 +1182,11 @@
       "Time": "2022-09-04T14:01:57.3678782+00:00",
       "Rating": 4.17,
       "NumberOfRatings": 1716
+    },
+    {
+      "Time": "2022-09-04T18:00:54.3813957+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": 1718
     }
   ],
   "Tags": [
@@ -1191,7 +1196,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 86
+      "Count": 88
     },
     {
       "Text": "This game is Highly Recommended",
