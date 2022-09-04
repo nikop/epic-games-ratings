@@ -3,10 +3,10 @@
   "Name": "Fault: Elder Orb",
   "Names": [],
   "Rating": 3.88,
-  "NumberOfRatings": 651,
-  "DailyRatings": 6.5,
+  "NumberOfRatings": 653,
+  "DailyRatings": 6.67,
   "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
-  "LastChanged": "2022-09-04T08:30:57.2943219+00:00",
+  "LastChanged": "2022-09-04T11:31:07.7866412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.2503477+00:00",
@@ -1022,6 +1022,11 @@
       "Time": "2022-09-04T08:30:57.2943221+00:00",
       "Rating": 3.88,
       "NumberOfRatings": 651
+    },
+    {
+      "Time": "2022-09-04T11:31:07.7866414+00:00",
+      "Rating": 3.88,
+      "NumberOfRatings": 653
     }
   ],
   "Tags": [
@@ -1035,7 +1040,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Quickly Understood Controls",
