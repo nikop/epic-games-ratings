@@ -3,10 +3,10 @@
   "Name": "Godfall",
   "Names": [],
   "Rating": 4.11,
-  "NumberOfRatings": 712,
+  "NumberOfRatings": 715,
   "DailyRatings": 5.84,
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2022-09-03T15:30:27.5357963+00:00",
+  "LastChanged": "2022-09-04T04:00:24.6560087+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -517,6 +517,11 @@
       "Time": "2022-09-03T15:30:27.5357965+00:00",
       "Rating": 4.11,
       "NumberOfRatings": 712
+    },
+    {
+      "Time": "2022-09-04T04:00:24.6560089+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": 715
     }
   ],
   "Tags": [
@@ -534,7 +539,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Obsessive Gameplay",

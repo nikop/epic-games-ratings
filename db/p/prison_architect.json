@@ -3,10 +3,10 @@
   "Name": "Prison Architect",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 3879,
-  "DailyRatings": 34.86,
+  "NumberOfRatings": 3880,
+  "DailyRatings": 34.37,
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2022-09-04T01:00:23.5450262+00:00",
+  "LastChanged": "2022-09-04T04:00:21.4324594+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -1502,12 +1502,17 @@
       "Time": "2022-09-04T01:00:23.5450264+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 3879
+    },
+    {
+      "Time": "2022-09-04T04:00:21.4324596+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 3880
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 149
+      "Count": 152
     },
     {
       "Text": "This game is Great for Beginners",
