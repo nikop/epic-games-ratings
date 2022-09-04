@@ -3,10 +3,10 @@
   "Name": "Defense Grid: The Awakening",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 1074,
-  "DailyRatings": 9.63,
+  "NumberOfRatings": 1075,
+  "DailyRatings": 9.66,
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
-  "LastChanged": "2022-09-04T13:01:02.3250022+00:00",
+  "LastChanged": "2022-09-04T15:01:00.1495655+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:41.4012809+00:00",
@@ -972,6 +972,11 @@
       "Time": "2022-09-04T13:01:02.3250023+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 1074
+    },
+    {
+      "Time": "2022-09-04T15:01:00.1495657+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 1075
     }
   ],
   "Tags": [
