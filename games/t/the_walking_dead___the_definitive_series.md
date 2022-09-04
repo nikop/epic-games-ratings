@@ -1,6 +1,6 @@
 # The Walking Dead : The Definitive Series
-Rating: 4.85 (596)  
-Ratings Per Day: 4.19  
+Rating: 4.85 (599)  
+Ratings Per Day: 4.35  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,4 +47,4 @@ Ratings Per Day: 4.19
 | 2022-09-01 | 4.85 | 585 |
 | 2022-09-02 | 4.85 | 590 |
 | 2022-09-03 | 4.85 | 594 |
-| 2022-09-04 | 4.85 | 596 |
+| 2022-09-04 | 4.85 | 599 |
