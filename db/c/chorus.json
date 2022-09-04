@@ -2,11 +2,11 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "Names": [],
-  "Rating": 4.49,
-  "NumberOfRatings": 51,
-  "DailyRatings": 0,
+  "Rating": 4.5,
+  "NumberOfRatings": 52,
+  "DailyRatings": 0.17,
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
-  "LastChanged": "2022-08-29T21:01:29.2467126+00:00",
+  "LastChanged": "2022-09-04T16:01:42.9704256+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:13.6854187+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-08-29T21:01:29.2467128+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-09-04T16:01:42.9704258+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 52
     }
   ],
   "Tags": []
