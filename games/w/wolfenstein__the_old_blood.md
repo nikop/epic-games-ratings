@@ -1,6 +1,6 @@
 # Wolfenstein: The Old Blood
-Rating: 4.59 (247)  
-Ratings Per Day: 4.14  
+Rating: 4.59 (249)  
+Ratings Per Day: 4.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,3 +42,4 @@ Ratings Per Day: 4.14
 | 2022-09-01 | 4.58 | 237 |
 | 2022-09-02 | 4.59 | 241 |
 | 2022-09-03 | 4.59 | 247 |
+| 2022-09-04 | 4.59 | 249 |
