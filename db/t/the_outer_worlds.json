@@ -3,10 +3,10 @@
   "Name": "The Outer Worlds",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 2152,
-  "DailyRatings": 18.83,
+  "NumberOfRatings": 2161,
+  "DailyRatings": 20,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-09-04T17:31:40.174954+00:00",
+  "LastChanged": "2022-09-04T18:31:33.1592927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -1192,6 +1192,11 @@
       "Time": "2022-09-04T17:31:40.1749542+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 2152
+    },
+    {
+      "Time": "2022-09-04T18:31:33.1592929+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 2161
     }
   ],
   "Tags": [
@@ -1241,7 +1246,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 87
+      "Count": 91
     }
   ]
 }

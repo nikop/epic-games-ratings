@@ -1,6 +1,6 @@
 # Risk of Rain 2
-Rating: 4.87 (1 248)  
-Ratings Per Day: 2.98  
+Rating: 4.87 (1 254)  
+Ratings Per Day: 4.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,3 +47,4 @@ Ratings Per Day: 2.98
 | 2022-09-01 | 4.87 | 1 236 |
 | 2022-09-02 | 4.87 | 1 242 |
 | 2022-09-03 | 4.87 | 1 248 |
+| 2022-09-04 | 4.87 | 1 254 |
