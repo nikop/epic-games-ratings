@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 80288,
-  "DailyRatings": 110.58,
+  "NumberOfRatings": 80319,
+  "DailyRatings": 112.79,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-09-04T09:01:24.7560836+00:00",
+  "LastChanged": "2022-09-04T12:31:28.7593377+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -1182,6 +1182,11 @@
       "Time": "2022-09-04T09:01:24.7560837+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 80288
+    },
+    {
+      "Time": "2022-09-04T12:31:28.7593379+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 80319
     }
   ],
   "Tags": [
@@ -1223,7 +1228,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 57
+      "Count": 59
     },
     {
       "Text": "This game has Amazing Characters",
