@@ -3,10 +3,10 @@
   "Name": "Dying Light Enhanced Edition",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 2702,
-  "DailyRatings": 51.6,
+  "NumberOfRatings": 2703,
+  "DailyRatings": 51.44,
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2022-09-04T06:01:47.1896639+00:00",
+  "LastChanged": "2022-09-04T07:00:31.0938841+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -1497,12 +1497,17 @@
       "Time": "2022-09-04T06:01:47.1896641+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 2702
+    },
+    {
+      "Time": "2022-09-04T07:00:31.0938843+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 2703
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1643
+      "Count": 1652
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1526,7 +1531,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 221
+      "Count": 225
     },
     {
       "Text": "This game is Extremely Fun",

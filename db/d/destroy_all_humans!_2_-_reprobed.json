@@ -3,11 +3,11 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "Names": [],
   "Rating": 4.48,
-  "NumberOfRatings": 29,
-  "DailyRatings": 7,
+  "NumberOfRatings": 33,
+  "DailyRatings": 8.12,
   "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
-  "LastChanged": "2022-09-03T22:30:20.212896+00:00",
+  "LastChanged": "2022-09-04T07:00:23.1975301+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T22:30:21.4748667+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-09-03T22:30:20.2128962+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-09-04T07:00:23.1975302+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 33
     }
   ],
   "Tags": []
