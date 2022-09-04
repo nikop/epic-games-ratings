@@ -3,10 +3,10 @@
   "Name": "Surviving the Aftermath: Founder\u0027s Edition",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 727,
-  "DailyRatings": 5.65,
+  "NumberOfRatings": 730,
+  "DailyRatings": 5.87,
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
-  "LastChanged": "2022-09-04T00:31:41.7453434+00:00",
+  "LastChanged": "2022-09-04T06:31:38.2840566+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:34.0304073+00:00",
@@ -567,6 +567,11 @@
       "Time": "2022-09-04T00:31:41.7453436+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 727
+    },
+    {
+      "Time": "2022-09-04T06:31:38.2840567+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 730
     }
   ],
   "Tags": [
@@ -576,7 +581,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",

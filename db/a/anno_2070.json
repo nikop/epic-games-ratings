@@ -2,12 +2,12 @@
   "ID": "c9e311e119034b25a02ed1ebfdffc0d1",
   "Name": "Anno 2070",
   "Names": [],
-  "Rating": 4.28,
-  "NumberOfRatings": 29,
-  "DailyRatings": 0.19,
+  "Rating": 4.29,
+  "NumberOfRatings": 31,
+  "DailyRatings": 0.47,
   "FirstSeen": "2022-07-22T20:30:09.4589428+00:00",
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
-  "LastChanged": "2022-09-03T06:32:08.3035889+00:00",
+  "LastChanged": "2022-09-04T06:32:13.2883444+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-02T00:31:48.9578065+00:00",
@@ -63,6 +63,11 @@
       "Time": "2022-09-03T06:32:08.303589+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-09-04T06:32:13.2883446+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []

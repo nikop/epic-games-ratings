@@ -1,6 +1,6 @@
 # Mafia : Definitive Edition
-Rating: 4.61 (1 693)  
-Ratings Per Day: 20.19  
+Rating: 4.61 (1 696)  
+Ratings Per Day: 19.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -48,4 +48,4 @@ Ratings Per Day: 20.19
 | 2022-09-01 | 4.61 | 1 633 |
 | 2022-09-02 | 4.61 | 1 661 |
 | 2022-09-03 | 4.61 | 1 679 |
-| 2022-09-04 | 4.61 | 1 693 |
+| 2022-09-04 | 4.61 | 1 696 |

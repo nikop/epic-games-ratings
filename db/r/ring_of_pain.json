@@ -3,11 +3,11 @@
   "Name": "Ring of Pain",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 9030,
-  "DailyRatings": 1093.44,
+  "NumberOfRatings": 9069,
+  "DailyRatings": 1095.98,
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
-  "LastChanged": "2022-09-04T06:02:42.8763153+00:00",
+  "LastChanged": "2022-09-04T06:31:32.2547472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T04:31:33.9561596+00:00",
@@ -483,6 +483,11 @@
       "Time": "2022-09-04T06:02:42.8763154+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 9030
+    },
+    {
+      "Time": "2022-09-04T06:31:32.2547473+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 9069
     }
   ],
   "Tags": [
@@ -504,7 +509,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 164
+      "Count": 182
     },
     {
       "Text": "This game is Great for Beginners",
