@@ -1,6 +1,6 @@
 # Outer Wilds
-Rating: 4.90 (606)  
-Ratings Per Day: 6.17  
+Rating: 4.90 (608)  
+Ratings Per Day: 5.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,4 +47,4 @@ Ratings Per Day: 6.17
 | 2022-09-01 | 4.90 | 585 |
 | 2022-09-02 | 4.90 | 592 |
 | 2022-09-03 | 4.90 | 600 |
-| 2022-09-04 | 4.90 | 606 |
+| 2022-09-04 | 4.90 | 608 |

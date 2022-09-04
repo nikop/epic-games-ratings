@@ -1,6 +1,6 @@
 # Cook, Serve, Delicious! 3?!
-Rating: 4.47 (1 753)  
-Ratings Per Day: 29.60  
+Rating: 4.47 (1 754)  
+Ratings Per Day: 29.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,4 +27,4 @@ Ratings Per Day: 29.60
 | 2022-09-01 | 4.47 | 1 671 |
 | 2022-09-02 | 4.47 | 1 716 |
 | 2022-09-03 | 4.47 | 1 733 |
-| 2022-09-04 | 4.47 | 1 753 |
+| 2022-09-04 | 4.47 | 1 754 |
