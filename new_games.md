@@ -6,10 +6,10 @@
 | 4 | [Travellers Rest](games/t/travellers_rest.md) | 4.38 | 24 | 0.00 |
 | 5 | [Ring of Pain](games/r/ring_of_pain.md) | 4.55 | 9 069 | 1095.98 |
 | 6 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 20 480 | 1988.88 |
-| 7 | [Saints Row](games/s/saints_row.md) | 3.75 | 16 135 | 917.45 |
+| 7 | [Saints Row](games/s/saints_row.md) | 3.75 | 16 161 | 915.71 |
 | 8 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.15 | 113 | 7.89 |
 | 9 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.05 | 124 | 10.36 |
-| 10 | [DOOM (1993)](games/d/doom_(1993).md) | 4.87 | 67 | 3.34 |
+| 10 | [DOOM (1993)](games/d/doom_(1993).md) | 4.87 | 71 | 3.65 |
 | 11 | [DOOM II](games/d/doom_ii.md) | 4.79 | 24 | 1.79 |
 | 12 | [DOOM 64](games/d/doom_64.md) | 4.67 | 3 982 | 167.69 |
 | 13 | [DOOM 3](games/d/doom_3.md) | 4.50 | 50 | 3.25 |
