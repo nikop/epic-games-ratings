@@ -3,10 +3,10 @@
   "Name": "For The King",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 4813,
-  "DailyRatings": 43.32,
+  "NumberOfRatings": 4819,
+  "DailyRatings": 43.8,
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2022-09-04T20:31:31.3173444+00:00",
+  "LastChanged": "2022-09-04T22:01:29.7703127+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -1607,6 +1607,11 @@
       "Time": "2022-09-04T20:31:31.3173446+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 4813
+    },
+    {
+      "Time": "2022-09-04T22:01:29.7703128+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 4819
     }
   ],
   "Tags": [
