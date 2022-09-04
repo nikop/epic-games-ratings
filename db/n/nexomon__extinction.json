@@ -2,8 +2,18 @@
   "ID": "d06b7cb31f224a42b8433f7348cee5d3",
   "Name": "Nexomon: Extinction",
   "Names": [],
+  "Rating": 4.65,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:24:15.9296917+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-09-04T23:01:28.4182016+00:00",
+  "LastChanged": "2022-09-04T23:01:28.4182017+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-09-04T23:01:28.4182018+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }
