@@ -1,6 +1,6 @@
 # RollerCoaster Tycoon 3 Complete Edition
-Rating: 4.68 (567)  
-Ratings Per Day: 7.40  
+Rating: 4.68 (568)  
+Ratings Per Day: 7.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -48,4 +48,4 @@ Ratings Per Day: 7.40
 | 2022-09-01 | 4.68 | 549 |
 | 2022-09-02 | 4.68 | 555 |
 | 2022-09-03 | 4.68 | 565 |
-| 2022-09-04 | 4.68 | 567 |
+| 2022-09-04 | 4.68 | 568 |

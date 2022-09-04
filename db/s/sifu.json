@@ -3,10 +3,10 @@
   "Name": "Sifu",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 7991,
-  "DailyRatings": 99.54,
+  "NumberOfRatings": 7998,
+  "DailyRatings": 99.35,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-09-03T23:31:36.4946113+00:00",
+  "LastChanged": "2022-09-04T01:31:39.4360856+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -1837,6 +1837,11 @@
       "Time": "2022-09-03T23:31:36.4946115+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 7991
+    },
+    {
+      "Time": "2022-09-04T01:31:39.4360858+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 7998
     }
   ],
   "Tags": [
