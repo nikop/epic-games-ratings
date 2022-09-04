@@ -1,6 +1,6 @@
 # Dying Light Enhanced Edition
 Rating: 4.72 (2 703)  
-Ratings Per Day: 51.44  
+Ratings Per Day: 51.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
