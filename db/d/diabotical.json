@@ -3,10 +3,10 @@
   "Name": "Diabotical",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 496,
-  "DailyRatings": 6.76,
+  "NumberOfRatings": 497,
+  "DailyRatings": 6.95,
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2022-09-04T23:01:12.5719548+00:00",
+  "LastChanged": "2022-09-04T23:31:05.4328754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -527,6 +527,11 @@
       "Time": "2022-09-04T23:01:12.5719549+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 496
+    },
+    {
+      "Time": "2022-09-04T23:31:05.4328755+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 497
     }
   ],
   "Tags": [
