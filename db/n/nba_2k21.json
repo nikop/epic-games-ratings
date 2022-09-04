@@ -3,10 +3,10 @@
   "Name": "NBA 2K21",
   "Names": [],
   "Rating": 4.4,
-  "NumberOfRatings": 39855,
-  "DailyRatings": 198.11,
+  "NumberOfRatings": 39863,
+  "DailyRatings": 198.07,
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2022-09-04T00:01:49.7384904+00:00",
+  "LastChanged": "2022-09-04T01:01:49.5415589+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:01.1099603+00:00",
@@ -2192,6 +2192,11 @@
       "Time": "2022-09-04T00:01:49.7384905+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 39855
+    },
+    {
+      "Time": "2022-09-04T01:01:49.5415591+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 39863
     }
   ],
   "Tags": [
@@ -2217,7 +2222,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 4717
+      "Count": 4770
     },
     {
       "Text": "This game has Amazing Characters",
