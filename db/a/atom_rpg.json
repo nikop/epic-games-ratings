@@ -2,11 +2,11 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "Names": [],
-  "Rating": 4.34,
-  "NumberOfRatings": 47,
-  "DailyRatings": 0,
+  "Rating": 4.35,
+  "NumberOfRatings": 48,
+  "DailyRatings": 0.17,
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
-  "LastChanged": "2022-08-29T17:02:00.0527894+00:00",
+  "LastChanged": "2022-09-04T17:31:37.8039034+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:27.3928407+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-08-29T17:02:00.0527895+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 47
+    },
+    {
+      "Time": "2022-09-04T17:31:37.8039036+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 48
     }
   ],
   "Tags": []

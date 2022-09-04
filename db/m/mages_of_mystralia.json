@@ -2,11 +2,11 @@
   "ID": "bd12fd574df14846ad24703ca7b1a12b",
   "Name": "Mages of Mystralia",
   "Names": [],
-  "Rating": 4.34,
-  "NumberOfRatings": 591,
-  "DailyRatings": 4.78,
+  "Rating": 4.33,
+  "NumberOfRatings": 597,
+  "DailyRatings": 5.09,
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2022-09-03T21:31:31.9352026+00:00",
+  "LastChanged": "2022-09-04T17:31:29.0848406+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:26.4536754+00:00",
@@ -317,6 +317,11 @@
       "Time": "2022-09-03T21:31:31.9352028+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 591
+    },
+    {
+      "Time": "2022-09-04T17:31:29.0848407+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 597
     }
   ],
   "Tags": [
