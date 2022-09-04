@@ -3,10 +3,10 @@
   "Name": "DAEMON X MACHINA",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 1833,
-  "DailyRatings": 14.66,
+  "NumberOfRatings": 1840,
+  "DailyRatings": 14.79,
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2022-09-04T04:31:09.7763132+00:00",
+  "LastChanged": "2022-09-04T14:30:44.7989209+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:03.7612117+00:00",
@@ -792,12 +792,17 @@
       "Time": "2022-09-04T04:31:09.7763134+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 1833
+    },
+    {
+      "Time": "2022-09-04T14:30:44.798921+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 1840
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 549
+      "Count": 556
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -3,10 +3,10 @@
   "Name": "Pinball FX",
   "Names": [],
   "Rating": 3.98,
-  "NumberOfRatings": 666,
-  "DailyRatings": 5.5,
+  "NumberOfRatings": 667,
+  "DailyRatings": 5.25,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-09-04T03:01:19.1699278+00:00",
+  "LastChanged": "2022-09-04T14:30:23.1445245+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -702,6 +702,11 @@
       "Time": "2022-09-04T03:01:19.1699281+00:00",
       "Rating": 3.98,
       "NumberOfRatings": 666
+    },
+    {
+      "Time": "2022-09-04T14:30:23.1445247+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": 667
     }
   ],
   "Tags": [
