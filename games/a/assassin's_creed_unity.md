@@ -1,6 +1,6 @@
 # Assassin's Creed Unity
 Rating: 4.57 (741)  
-Ratings Per Day: 7.71  
+Ratings Per Day: 8.92  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
