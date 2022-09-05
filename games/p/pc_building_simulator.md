@@ -1,6 +1,6 @@
 # PC Building Simulator
-Rating: 4.67 (10 688)  
-Ratings Per Day: 94.54  
+Rating: 4.67 (10 699)  
+Ratings Per Day: 94.71  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -49,4 +49,4 @@ Ratings Per Day: 94.54
 | 2022-09-02 | 4.67 | 10 432 |
 | 2022-09-03 | 4.67 | 10 538 |
 | 2022-09-04 | 4.67 | 10 675 |
-| 2022-09-05 | 4.67 | 10 688 |
+| 2022-09-05 | 4.67 | 10 699 |
