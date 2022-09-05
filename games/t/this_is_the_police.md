@@ -1,5 +1,5 @@
 # This Is The Police
-Rating: 4.78 (46)  
+Rating: 4.79 (47)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.00
 | 2022-08-14 | 4.78 | 41 |
 | 2022-08-23 | 4.79 | 43 |
 | 2022-08-24 | 4.78 | 46 |
+| 2022-09-05 | 4.79 | 47 |
