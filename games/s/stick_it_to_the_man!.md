@@ -1,6 +1,6 @@
 # Stick It To The Man!
-Rating: 4.59 (59)  
-Ratings Per Day: 0.50  
+Rating: 4.60 (60)  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 0.50
 | 2022-08-28 | 4.59 | 56 |
 | 2022-09-02 | 4.59 | 58 |
 | 2022-09-04 | 4.59 | 59 |
+| 2022-09-05 | 4.60 | 60 |
