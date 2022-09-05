@@ -3,10 +3,10 @@
   "Name": "Magic: The Gathering Arena",
   "Names": [],
   "Rating": 4.45,
-  "NumberOfRatings": 12972,
-  "DailyRatings": 104.9,
+  "NumberOfRatings": 12981,
+  "DailyRatings": 105.25,
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2022-09-05T17:30:50.3932863+00:00",
+  "LastChanged": "2022-09-05T19:00:49.118683+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.803641+00:00",
@@ -2202,6 +2202,11 @@
       "Time": "2022-09-05T17:30:50.3932864+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 12972
+    },
+    {
+      "Time": "2022-09-05T19:00:49.1186831+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 12981
     }
   ],
   "Tags": [

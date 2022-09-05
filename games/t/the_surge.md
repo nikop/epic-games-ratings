@@ -1,5 +1,5 @@
 # The Surge
-Rating: 4.46 (48)  
+Rating: 4.47 (49)  
 Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.50
 | 2022-08-30 | 4.46 | 46 |
 | 2022-09-02 | 4.45 | 47 |
 | 2022-09-03 | 4.46 | 48 |
+| 2022-09-05 | 4.47 | 49 |

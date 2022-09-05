@@ -3,10 +3,10 @@
   "Name": "God of War",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 4365,
-  "DailyRatings": 25.1,
+  "NumberOfRatings": 4366,
+  "DailyRatings": 24.87,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2022-09-05T16:31:30.3469369+00:00",
+  "LastChanged": "2022-09-05T19:01:33.3883825+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -1217,6 +1217,11 @@
       "Time": "2022-09-05T16:31:30.3469389+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 4365
+    },
+    {
+      "Time": "2022-09-05T19:01:33.3883826+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 4366
     }
   ],
   "Tags": [
@@ -1254,7 +1259,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Competitive Players",
@@ -1266,7 +1271,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Diverse Characters",
