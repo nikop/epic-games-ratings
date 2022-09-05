@@ -3,10 +3,10 @@
   "Name": "House Party",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 163,
-  "DailyRatings": 0,
+  "NumberOfRatings": 165,
+  "DailyRatings": 0.46,
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
-  "LastChanged": "2022-09-01T12:02:22.4084015+00:00",
+  "LastChanged": "2022-09-05T20:01:43.7658642+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:44.2322187+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-09-01T12:02:22.4084017+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 163
+    },
+    {
+      "Time": "2022-09-05T20:01:43.7658643+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 165
     }
   ],
   "Tags": []
