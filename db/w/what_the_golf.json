@@ -2,11 +2,11 @@
   "ID": "3ade24028e9247039924d3877af0a2ea",
   "Name": "WHAT THE GOLF?",
   "Names": [],
-  "Rating": 4.69,
-  "NumberOfRatings": 32,
-  "DailyRatings": 1,
+  "Rating": 4.7,
+  "NumberOfRatings": 33,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:25:31.118083+00:00",
-  "LastChanged": "2022-09-02T20:01:27.3836748+00:00",
+  "LastChanged": "2022-09-05T20:31:27.1176941+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-25T12:02:15.1070722+00:00",
@@ -67,6 +67,11 @@
       "Time": "2022-09-02T20:01:27.3836749+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-09-05T20:31:27.1176943+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 33
     }
   ],
   "Tags": []

@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.59,
   "NumberOfRatings": 7674,
-  "DailyRatings": 65.19,
+  "DailyRatings": 65.55,
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
   "LastChanged": "2022-09-05T19:30:39.2684674+00:00",
   "RatingHistory": [
@@ -2290,7 +2290,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 618
+      "Count": 625
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2302,7 +2302,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 565
+      "Count": 577
     }
   ]
 }
