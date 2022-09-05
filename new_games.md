@@ -15,7 +15,7 @@
 | 13 | [DOOM 3](games/d/doom_3.md) | 4.52 | 54 | 3.12 |
 | 14 | [Aragami 2](games/a/aragami_2.md) | 4.50 | 74 | 2.40 |
 | 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 12 030 | 211.31 |
-| 16 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.47 | 1 767 | 27.96 |
+| 16 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.47 | 1 768 | 27.94 |
 | 17 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 49 508 | 1411.38 |
-| 18 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 826 | 20.20 |
-| 19 | [MultiVersus](games/m/multiversus.md) | 4.57 | 52 174 | 342.32 |
+| 18 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 826 | 20.61 |
+| 19 | [MultiVersus](games/m/multiversus.md) | 4.57 | 52 181 | 346.47 |
