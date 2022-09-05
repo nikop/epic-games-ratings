@@ -1,6 +1,6 @@
 # Stubbs the Zombie in Rebel Without a Pulse
-Rating: 4.37 (215)  
-Ratings Per Day: 1.57  
+Rating: 4.37 (218)  
+Ratings Per Day: 1.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -44,3 +44,4 @@ Ratings Per Day: 1.57
 | 2022-09-02 | 4.36 | 212 |
 | 2022-09-03 | 4.36 | 214 |
 | 2022-09-04 | 4.37 | 215 |
+| 2022-09-05 | 4.37 | 218 |
