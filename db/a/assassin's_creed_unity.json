@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Unity",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 741,
-  "DailyRatings": 8.92,
+  "NumberOfRatings": 755,
+  "DailyRatings": 9.96,
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2022-09-04T17:01:03.1259991+00:00",
+  "LastChanged": "2022-09-05T13:30:48.4894269+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:14.6538572+00:00",
@@ -407,12 +407,17 @@
       "Time": "2022-09-04T17:01:03.1259993+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 741
+    },
+    {
+      "Time": "2022-09-05T13:30:48.489427+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 755
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 202
+      "Count": 206
     },
     {
       "Text": "This game has Great Boss Battles",
