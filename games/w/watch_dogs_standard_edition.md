@@ -1,6 +1,6 @@
 # Watch Dogs Standard Edition
 Rating: 4.53 (1 655)  
-Ratings Per Day: 17.26  
+Ratings Per Day: 17.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
