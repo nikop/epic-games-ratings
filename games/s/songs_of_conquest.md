@@ -1,6 +1,6 @@
 # Songs of Conquest
-Rating: 4.70 (274)  
-Ratings Per Day: 0.88  
+Rating: 4.70 (276)  
+Ratings Per Day: 1.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,3 +39,4 @@ Ratings Per Day: 0.88
 | 2022-09-01 | 4.70 | 271 |
 | 2022-09-02 | 4.70 | 273 |
 | 2022-09-04 | 4.70 | 274 |
+| 2022-09-05 | 4.70 | 276 |
