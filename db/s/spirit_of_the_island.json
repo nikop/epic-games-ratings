@@ -2,12 +2,12 @@
   "ID": "8043f063b6b34cbb94af0882052ebd80",
   "Name": "Spirit of the Island",
   "Names": [],
-  "Rating": 4.55,
-  "NumberOfRatings": 22,
-  "DailyRatings": 0.42,
+  "Rating": 4.48,
+  "NumberOfRatings": 23,
+  "DailyRatings": 0.52,
   "FirstSeen": "2022-07-22T20:29:55.0099297+00:00",
   "FirstSeenRating": "2022-08-30T22:04:07.0610643+00:00",
-  "LastChanged": "2022-09-04T16:32:01.1883994+00:00",
+  "LastChanged": "2022-09-05T17:02:23.5452238+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T22:04:07.0610644+00:00",
@@ -23,6 +23,11 @@
       "Time": "2022-09-04T16:32:01.1883997+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-09-05T17:02:23.545224+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []

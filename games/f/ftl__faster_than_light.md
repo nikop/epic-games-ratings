@@ -1,6 +1,6 @@
 # FTL: Faster Than Light
 Rating: 4.80 (1 043)  
-Ratings Per Day: 10.01  
+Ratings Per Day: 9.30  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
