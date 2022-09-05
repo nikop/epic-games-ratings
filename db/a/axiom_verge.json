@@ -3,10 +3,10 @@
   "Name": "AXIOM VERGE",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 107,
-  "DailyRatings": 2.33,
+  "NumberOfRatings": 109,
+  "DailyRatings": 1.79,
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2022-09-03T02:31:30.8249014+00:00",
+  "LastChanged": "2022-09-05T03:02:04.7389533+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:58.5809407+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-09-03T02:31:30.8249016+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 107
+    },
+    {
+      "Time": "2022-09-05T03:02:04.7389534+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 109
     }
   ],
   "Tags": [

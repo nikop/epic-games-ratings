@@ -2,11 +2,11 @@
   "ID": "4d2a12aff0484d699b1806ab104d259b",
   "Name": "Alan Wake\u2019s American Nightmare",
   "Names": [],
-  "Rating": 4.3,
-  "NumberOfRatings": 70,
-  "DailyRatings": 1.65,
+  "Rating": 4.27,
+  "NumberOfRatings": 73,
+  "DailyRatings": 1.33,
   "FirstSeen": "2022-07-22T20:31:26.4787464+00:00",
-  "LastChanged": "2022-09-02T03:02:46.097652+00:00",
+  "LastChanged": "2022-09-05T03:02:44.5708401+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:26.4787466+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-09-02T03:02:46.0976521+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 70
+    },
+    {
+      "Time": "2022-09-05T03:02:44.5708402+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 73
     }
   ],
   "Tags": []
