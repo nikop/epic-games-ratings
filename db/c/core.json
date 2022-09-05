@@ -3,10 +3,10 @@
   "Name": "Core",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 1320,
-  "DailyRatings": 10.98,
+  "NumberOfRatings": 1321,
+  "DailyRatings": 10.96,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-09-05T17:01:38.8054082+00:00",
+  "LastChanged": "2022-09-05T19:31:13.1244403+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -1017,6 +1017,11 @@
       "Time": "2022-09-05T17:01:38.8054084+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1320
+    },
+    {
+      "Time": "2022-09-05T19:31:13.1244404+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 1321
     }
   ],
   "Tags": [

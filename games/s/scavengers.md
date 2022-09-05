@@ -1,6 +1,6 @@
 # Scavengers
-Rating: 4.20 (364)  
-Ratings Per Day: 2.07  
+Rating: 4.20 (366)  
+Ratings Per Day: 1.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -46,3 +46,4 @@ Ratings Per Day: 2.07
 | 2022-09-02 | 4.21 | 360 |
 | 2022-09-03 | 4.21 | 361 |
 | 2022-09-04 | 4.20 | 364 |
+| 2022-09-05 | 4.20 | 366 |

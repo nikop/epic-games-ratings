@@ -2,12 +2,12 @@
   "ID": "be69d6b9214f4bc594c4cb1cd310a553",
   "Name": "Dark Deity",
   "Names": [],
-  "Rating": 4.29,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0,
+  "Rating": 4.32,
+  "NumberOfRatings": 22,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:32:09.3077466+00:00",
   "FirstSeenRating": "2022-08-09T18:32:09.805547+00:00",
-  "LastChanged": "2022-09-02T19:31:31.5220554+00:00",
+  "LastChanged": "2022-09-05T19:31:23.434657+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-09T18:32:09.8055473+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-09-02T19:31:31.5220555+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-09-05T19:31:23.4346572+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []
