@@ -1,6 +1,6 @@
 # Void Bastards
 Rating: 4.61 (835)  
-Ratings Per Day: 6.53  
+Ratings Per Day: 6.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

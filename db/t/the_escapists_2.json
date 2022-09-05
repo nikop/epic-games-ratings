@@ -3,10 +3,10 @@
   "Name": "The Escapists 2",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 1729,
-  "DailyRatings": 19.14,
+  "NumberOfRatings": 1730,
+  "DailyRatings": 19.06,
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2022-09-05T14:30:55.6925211+00:00",
+  "LastChanged": "2022-09-05T16:30:57.4100366+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:06.6335861+00:00",
@@ -637,6 +637,11 @@
       "Time": "2022-09-05T14:30:55.6925213+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 1729
+    },
+    {
+      "Time": "2022-09-05T16:30:57.4100368+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 1730
     }
   ],
   "Tags": [
@@ -654,7 +659,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Relaxing",
