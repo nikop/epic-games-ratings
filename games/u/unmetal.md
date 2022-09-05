@@ -1,6 +1,6 @@
 # UnMetal
-Rating: 4.57 (28)  
-Ratings Per Day: 0.00  
+Rating: 4.59 (29)  
+Ratings Per Day: 0.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 0.00
 | 2022-08-16 | 4.58 | 26 |
 | 2022-08-17 | 4.59 | 27 |
 | 2022-08-31 | 4.57 | 28 |
+| 2022-09-05 | 4.59 | 29 |

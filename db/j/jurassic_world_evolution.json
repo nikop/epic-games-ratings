@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.63,
   "NumberOfRatings": 8447,
-  "DailyRatings": 54.29,
+  "DailyRatings": 53.89,
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
   "LastChanged": "2022-09-05T14:00:29.4125752+00:00",
   "RatingHistory": [
@@ -1921,7 +1921,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 283
+      "Count": 286
     },
     {
       "Text": "This game is Relaxing",

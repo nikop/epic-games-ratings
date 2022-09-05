@@ -3,10 +3,10 @@
   "Name": "Immortals Fenyx Rising Standard Edition",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 697,
-  "DailyRatings": 6.86,
+  "NumberOfRatings": 700,
+  "DailyRatings": 6.43,
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2022-09-04T18:01:13.347198+00:00",
+  "LastChanged": "2022-09-05T14:31:02.8418371+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:58.8142391+00:00",
@@ -462,6 +462,11 @@
       "Time": "2022-09-04T18:01:13.3471981+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 697
+    },
+    {
+      "Time": "2022-09-05T14:31:02.8418372+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 700
     }
   ],
   "Tags": [
