@@ -3,10 +3,10 @@
   "Name": "Hyper Light Drifter",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 321,
-  "DailyRatings": 2.18,
+  "NumberOfRatings": 323,
+  "DailyRatings": 2.16,
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
-  "LastChanged": "2022-09-04T10:01:31.6572144+00:00",
+  "LastChanged": "2022-09-05T10:01:33.3949316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:03.8483862+00:00",
@@ -267,6 +267,11 @@
       "Time": "2022-09-04T10:01:31.6572147+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 321
+    },
+    {
+      "Time": "2022-09-05T10:01:33.3949317+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 323
     }
   ],
   "Tags": [

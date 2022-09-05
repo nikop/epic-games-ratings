@@ -1,6 +1,6 @@
 # King's Bounty II
 Rating: 4.18 (100)  
-Ratings Per Day: 0.79  
+Ratings Per Day: 1.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
