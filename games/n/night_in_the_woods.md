@@ -1,6 +1,6 @@
 # Night in the Woods
 Rating: 4.72 (510)  
-Ratings Per Day: 3.81  
+Ratings Per Day: 3.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

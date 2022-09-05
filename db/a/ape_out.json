@@ -2,12 +2,12 @@
   "ID": "6c77bc1b5faa4ac98441ec75cca0d320",
   "Name": "APE OUT",
   "Names": [],
-  "Rating": 4.61,
-  "NumberOfRatings": 28,
-  "DailyRatings": 1.96,
+  "Rating": 4.63,
+  "NumberOfRatings": 30,
+  "DailyRatings": 0.99,
   "FirstSeen": "2022-07-22T20:29:21.656394+00:00",
   "FirstSeenRating": "2022-08-11T22:01:52.3350114+00:00",
-  "LastChanged": "2022-09-02T12:32:01.3051081+00:00",
+  "LastChanged": "2022-09-05T12:31:54.4052351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-11T22:01:52.3350116+00:00",
@@ -48,6 +48,11 @@
       "Time": "2022-09-02T12:32:01.3051083+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-09-05T12:31:54.4052353+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []
