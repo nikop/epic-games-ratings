@@ -3,10 +3,10 @@
   "Name": "Far Cry New Dawn Standard Edition",
   "Names": [],
   "Rating": 4.4,
-  "NumberOfRatings": 293,
-  "DailyRatings": 2.7,
+  "NumberOfRatings": 295,
+  "DailyRatings": 2.6,
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2022-09-04T18:30:42.8088777+00:00",
+  "LastChanged": "2022-09-05T18:30:36.245921+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -297,6 +297,11 @@
       "Time": "2022-09-04T18:30:42.8088778+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 293
+    },
+    {
+      "Time": "2022-09-05T18:30:36.2459212+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 295
     }
   ],
   "Tags": [
