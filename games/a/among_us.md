@@ -1,6 +1,6 @@
 # Among Us
 Rating: 4.58 (23 606)  
-Ratings Per Day: 180.25  
+Ratings Per Day: 179.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
