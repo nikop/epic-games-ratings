@@ -2,11 +2,11 @@
   "ID": "newt",
   "Name": "Spellbreak",
   "Names": [],
-  "Rating": 4.6,
-  "NumberOfRatings": 881,
-  "DailyRatings": 8.03,
+  "Rating": 4.61,
+  "NumberOfRatings": 889,
+  "DailyRatings": 8.08,
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-09-04T19:01:02.6294567+00:00",
+  "LastChanged": "2022-09-05T18:00:24.5572622+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -462,12 +462,17 @@
       "Time": "2022-09-04T19:01:02.6294569+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 881
+    },
+    {
+      "Time": "2022-09-05T18:00:24.5572623+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 889
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 198
+      "Count": 200
     }
   ]
 }
