@@ -3,10 +3,10 @@
   "Name": "CRSED: F.O.A.D.",
   "Names": [],
   "Rating": 4.45,
-  "NumberOfRatings": 408,
-  "DailyRatings": 2.77,
+  "NumberOfRatings": 409,
+  "DailyRatings": 2.31,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-09-04T03:01:38.7310936+00:00",
+  "LastChanged": "2022-09-05T15:31:08.7736121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -477,12 +477,17 @@
       "Time": "2022-09-04T03:01:38.7310938+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 408
+    },
+    {
+      "Time": "2022-09-05T15:31:08.7736123+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 409
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Diverse Characters",
