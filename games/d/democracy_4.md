@@ -1,6 +1,6 @@
 # Democracy 4
-Rating: 4.49 (41)  
-Ratings Per Day: 0.33  
+Rating: 4.48 (42)  
+Ratings Per Day: 0.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Ratings Per Day: 0.33
 | 2022-08-19 | 4.49 | 39 |
 | 2022-08-29 | 4.48 | 40 |
 | 2022-09-01 | 4.49 | 41 |
+| 2022-09-05 | 4.48 | 42 |
