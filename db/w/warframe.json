@@ -3,10 +3,10 @@
   "Name": "Warframe",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 10186,
-  "DailyRatings": 82.96,
+  "NumberOfRatings": 10192,
+  "DailyRatings": 82.83,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2022-09-05T20:00:24.3083575+00:00",
+  "LastChanged": "2022-09-05T22:00:21.4596194+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -2297,6 +2297,11 @@
       "Time": "2022-09-05T20:00:24.3083577+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 10186
+    },
+    {
+      "Time": "2022-09-05T22:00:21.4596196+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 10192
     }
   ],
   "Tags": [
@@ -2322,7 +2327,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 1021
+      "Count": 1035
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -2,12 +2,12 @@
   "ID": "a15e35cda898480d8fed214dc889f199",
   "Name": "Trials Evolution: Gold Edition",
   "Names": [],
-  "Rating": 4.56,
-  "NumberOfRatings": 25,
-  "DailyRatings": 0,
+  "Rating": 4.54,
+  "NumberOfRatings": 26,
+  "DailyRatings": 0.18,
   "FirstSeen": "2022-07-22T20:28:52.9839346+00:00",
   "FirstSeenRating": "2022-08-16T12:02:15.8329553+00:00",
-  "LastChanged": "2022-08-31T05:32:49.6647697+00:00",
+  "LastChanged": "2022-09-05T22:01:49.1779142+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-16T12:02:15.8329555+00:00",
@@ -33,6 +33,11 @@
       "Time": "2022-08-31T05:32:49.6647699+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-09-05T22:01:49.1779143+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 26
     }
   ],
   "Tags": []

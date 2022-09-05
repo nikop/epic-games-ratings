@@ -1,6 +1,6 @@
 # Totally Accurate Battle Simulator
-Rating: 4.78 (1 864)  
-Ratings Per Day: 15.44  
+Rating: 4.78 (1 868)  
+Ratings Per Day: 15.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -49,4 +49,4 @@ Ratings Per Day: 15.44
 | 2022-09-02 | 4.78 | 1 818 |
 | 2022-09-03 | 4.78 | 1 831 |
 | 2022-09-04 | 4.78 | 1 852 |
-| 2022-09-05 | 4.78 | 1 864 |
+| 2022-09-05 | 4.78 | 1 868 |

@@ -1,6 +1,6 @@
 # Rogue Lords
 Rating: 4.70 (37)  
-Ratings Per Day: 0.25  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # Subnautica
-Rating: 4.83 (6 868)  
-Ratings Per Day: 61.90  
+Rating: 4.83 (6 882)  
+Ratings Per Day: 62.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -49,4 +49,4 @@ Ratings Per Day: 61.90
 | 2022-09-02 | 4.83 | 6 703 |
 | 2022-09-03 | 4.83 | 6 758 |
 | 2022-09-04 | 4.83 | 6 841 |
-| 2022-09-05 | 4.83 | 6 868 |
+| 2022-09-05 | 4.83 | 6 882 |
