@@ -1,6 +1,6 @@
 # Sakuna: Of Rice and Ruin
-Rating: 4.72 (25)  
-Ratings Per Day: 0.33  
+Rating: 4.73 (26)  
+Ratings Per Day: 0.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.33
 | 2022-08-22 | 4.74 | 23 |
 | 2022-08-31 | 4.75 | 24 |
 | 2022-09-03 | 4.72 | 25 |
+| 2022-09-05 | 4.73 | 26 |

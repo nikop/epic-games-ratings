@@ -1,6 +1,6 @@
 # The Escapists
-Rating: 4.47 (511)  
-Ratings Per Day: 5.22  
+Rating: 4.47 (516)  
+Ratings Per Day: 5.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -48,3 +48,4 @@ Ratings Per Day: 5.22
 | 2022-09-02 | 4.48 | 499 |
 | 2022-09-03 | 4.47 | 504 |
 | 2022-09-04 | 4.47 | 511 |
+| 2022-09-05 | 4.47 | 516 |
