@@ -1,6 +1,6 @@
 # Alan Wake
-Rating: 4.46 (367)  
-Ratings Per Day: 5.48  
+Rating: 4.46 (368)  
+Ratings Per Day: 4.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,3 +47,4 @@ Ratings Per Day: 5.48
 | 2022-09-03 | 4.45 | 356 |
 | 2022-09-04 | 4.46 | 364 |
 | 2022-09-05 | 4.46 | 367 |
+| 2022-09-06 | 4.46 | 368 |
