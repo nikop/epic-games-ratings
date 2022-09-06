@@ -1,6 +1,6 @@
 # Mafia II: Definitive Edition
 Rating: 4.37 (865)  
-Ratings Per Day: 9.45  
+Ratings Per Day: 9.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
