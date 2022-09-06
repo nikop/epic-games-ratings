@@ -2,12 +2,12 @@
   "ID": "b90c4b2fdc754c65847280d39db428fc",
   "Name": "Bassmaster\u00AE Fishing 2022",
   "Names": [],
-  "Rating": 4.18,
-  "NumberOfRatings": 22,
-  "DailyRatings": 0.93,
+  "Rating": 4.22,
+  "NumberOfRatings": 23,
+  "DailyRatings": 0.63,
   "FirstSeen": "2022-07-22T20:17:30.7872518+00:00",
   "FirstSeenRating": "2022-09-01T21:31:08.6586814+00:00",
-  "LastChanged": "2022-09-04T01:00:27.6924133+00:00",
+  "LastChanged": "2022-09-06T16:30:21.2943796+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-01T21:31:08.6586818+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-09-04T01:00:27.6924139+00:00",
       "Rating": 4.18,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-09-06T16:30:21.2943798+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 23
     }
   ],
   "Tags": []

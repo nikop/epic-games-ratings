@@ -1,8 +1,9 @@
 # Bassmaster® Fishing 2022
-Rating: 4.18 (22)  
-Ratings Per Day: 0.93  
+Rating: 4.22 (23)  
+Ratings Per Day: 0.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-09-01 | 4.20 | 20 |
 | 2022-09-04 | 4.18 | 22 |
+| 2022-09-06 | 4.22 | 23 |
