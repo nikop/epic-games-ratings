@@ -1,6 +1,6 @@
 # Crying Suns
-Rating: 4.49 (862)  
-Ratings Per Day: 9.32  
+Rating: 4.49 (869)  
+Ratings Per Day: 9.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -49,4 +49,4 @@ Ratings Per Day: 9.32
 | 2022-09-03 | 4.49 | 838 |
 | 2022-09-04 | 4.49 | 848 |
 | 2022-09-05 | 4.49 | 859 |
-| 2022-09-06 | 4.49 | 862 |
+| 2022-09-06 | 4.49 | 869 |
