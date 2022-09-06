@@ -3,10 +3,10 @@
   "Name": "XCOM\u00AE 2",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 6658,
-  "DailyRatings": 54,
+  "NumberOfRatings": 6663,
+  "DailyRatings": 53.75,
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2022-09-06T07:30:26.748852+00:00",
+  "LastChanged": "2022-09-06T10:30:26.4352818+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
@@ -2107,6 +2107,11 @@
       "Time": "2022-09-06T07:30:26.7488523+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 6658
+    },
+    {
+      "Time": "2022-09-06T10:30:26.435282+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 6663
     }
   ],
   "Tags": [
@@ -2116,7 +2121,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 557
+      "Count": 562
     },
     {
       "Text": "This game has Amazing Storytelling",
