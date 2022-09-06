@@ -1,6 +1,6 @@
 # Solar Ash
 Rating: 4.69 (99)  
-Ratings Per Day: 1.17  
+Ratings Per Day: 1.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

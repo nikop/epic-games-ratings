@@ -1,6 +1,6 @@
 # KINGDOM HEARTS HD 2.8 Final Chapter Prologue
 Rating: 4.74 (189)  
-Ratings Per Day: 2.01  
+Ratings Per Day: 1.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
