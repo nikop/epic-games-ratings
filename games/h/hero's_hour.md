@@ -1,6 +1,6 @@
 # Hero's Hour
 Rating: 4.36 (36)  
-Ratings Per Day: 0.18  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

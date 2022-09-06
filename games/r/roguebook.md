@@ -1,6 +1,6 @@
 # Roguebook
-Rating: 4.59 (59)  
-Ratings Per Day: 0.00  
+Rating: 4.57 (61)  
+Ratings Per Day: 0.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.00
 | 2022-08-21 | 4.58 | 57 |
 | 2022-08-24 | 4.59 | 58 |
 | 2022-09-01 | 4.59 | 59 |
+| 2022-09-06 | 4.57 | 61 |
