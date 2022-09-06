@@ -3,10 +3,10 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 441,
-  "DailyRatings": 4.33,
+  "NumberOfRatings": 445,
+  "DailyRatings": 4.65,
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "LastChanged": "2022-09-06T11:00:56.0869527+00:00",
+  "LastChanged": "2022-09-06T21:30:59.816064+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.8684255+00:00",
@@ -422,6 +422,11 @@
       "Time": "2022-09-06T11:00:56.0869528+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 441
+    },
+    {
+      "Time": "2022-09-06T21:30:59.8160641+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 445
     }
   ],
   "Tags": [

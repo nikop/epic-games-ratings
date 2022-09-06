@@ -1,6 +1,6 @@
 # Gamedec
-Rating: 4.38 (26)  
-Ratings Per Day: 0.60  
+Rating: 4.39 (28)  
+Ratings Per Day: 0.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.60
 | 2022-08-31 | 4.42 | 24 |
 | 2022-09-01 | 4.44 | 25 |
 | 2022-09-03 | 4.38 | 26 |
+| 2022-09-06 | 4.39 | 28 |
