@@ -3,10 +3,10 @@
   "Name": "Celeste",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 2252,
-  "DailyRatings": 21.93,
+  "NumberOfRatings": 2254,
+  "DailyRatings": 21.75,
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2022-09-06T15:31:58.8019539+00:00",
+  "LastChanged": "2022-09-06T19:02:00.1095045+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -1242,12 +1242,17 @@
       "Time": "2022-09-06T15:31:58.8019544+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 2252
+    },
+    {
+      "Time": "2022-09-06T19:02:00.1095047+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 2254
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 645
+      "Count": 653
     },
     {
       "Text": "This game has Quickly Understood Controls",

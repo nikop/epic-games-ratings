@@ -3,10 +3,10 @@
   "Name": "MudRunner",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 2707,
-  "DailyRatings": 28.14,
+  "NumberOfRatings": 2710,
+  "DailyRatings": 28.42,
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2022-09-06T18:02:44.3641428+00:00",
+  "LastChanged": "2022-09-06T19:00:59.2305325+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:58.5631344+00:00",
@@ -1222,6 +1222,11 @@
       "Time": "2022-09-06T18:02:44.3641435+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 2707
+    },
+    {
+      "Time": "2022-09-06T19:00:59.2305326+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 2710
     }
   ],
   "Tags": [
