@@ -3,10 +3,10 @@
   "Name": "Riders Republic",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 3188,
-  "DailyRatings": 48.73,
+  "NumberOfRatings": 3191,
+  "DailyRatings": 48.87,
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2022-09-06T14:30:50.7429145+00:00",
+  "LastChanged": "2022-09-06T15:31:23.083239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.8722132+00:00",
@@ -1377,6 +1377,11 @@
       "Time": "2022-09-06T14:30:50.7429147+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 3188
+    },
+    {
+      "Time": "2022-09-06T15:31:23.0832392+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 3191
     }
   ],
   "Tags": [
