@@ -3,10 +3,10 @@
   "Name": "NARAKA: BLADEPOINT",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 125113,
-  "DailyRatings": 770.33,
+  "NumberOfRatings": 125160,
+  "DailyRatings": 774.76,
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2022-09-06T14:30:20.7623248+00:00",
+  "LastChanged": "2022-09-06T15:00:18.7401344+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:04.1152304+00:00",
@@ -2187,6 +2187,11 @@
       "Time": "2022-09-06T14:30:20.762325+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 125113
+    },
+    {
+      "Time": "2022-09-06T15:00:18.7401345+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 125160
     }
   ],
   "Tags": [

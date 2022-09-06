@@ -3,10 +3,10 @@
   "Name": "Salt and Sanctuary",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 2778,
-  "DailyRatings": 19.26,
+  "NumberOfRatings": 2779,
+  "DailyRatings": 19.23,
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
-  "LastChanged": "2022-09-06T13:32:00.2943785+00:00",
+  "LastChanged": "2022-09-06T15:02:04.106795+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:22.098302+00:00",
@@ -1367,6 +1367,11 @@
       "Time": "2022-09-06T13:32:00.2943789+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 2778
+    },
+    {
+      "Time": "2022-09-06T15:02:04.1067951+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 2779
     }
   ],
   "Tags": [
@@ -1396,7 +1401,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 108
+      "Count": 110
     },
     {
       "Text": "This game is Extremely Fun",
