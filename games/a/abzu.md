@@ -1,6 +1,6 @@
 # ABZU
 Rating: 4.58 (125)  
-Ratings Per Day: 1.14  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
