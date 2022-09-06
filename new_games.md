@@ -11,7 +11,7 @@
 | 9 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.12 | 146 | 11.28 |
 | 10 | [DOOM (1993)](games/d/doom_(1993).md) | 4.88 | 73 | 3.48 |
 | 11 | [DOOM II](games/d/doom_ii.md) | 4.82 | 28 | 2.00 |
-| 12 | [DOOM 64](games/d/doom_64.md) | 4.67 | 4 212 | 150.84 |
+| 12 | [DOOM 64](games/d/doom_64.md) | 4.67 | 4 212 | 150.86 |
 | 13 | [DOOM 3](games/d/doom_3.md) | 4.53 | 59 | 3.59 |
 | 14 | [Aragami 2](games/a/aragami_2.md) | 4.50 | 74 | 2.08 |
 | 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 12 182 | 204.91 |
