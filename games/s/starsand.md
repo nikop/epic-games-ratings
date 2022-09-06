@@ -1,6 +1,6 @@
 # Starsand
-Rating: 4.32 (25)  
-Ratings Per Day: 0.00  
+Rating: 4.23 (26)  
+Ratings Per Day: 0.23  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.00
 | 2022-08-25 | 4.35 | 23 |
 | 2022-08-30 | 4.33 | 24 |
 | 2022-09-02 | 4.32 | 25 |
+| 2022-09-06 | 4.23 | 26 |
