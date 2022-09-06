@@ -1,5 +1,5 @@
 # UNO Standard Edition
-Rating: 4.55 (51)  
+Rating: 4.57 (53)  
 Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -20,3 +20,4 @@ Ratings Per Day: 0.67
 | 2022-08-31 | 4.55 | 49 |
 | 2022-09-02 | 4.56 | 50 |
 | 2022-09-03 | 4.55 | 51 |
+| 2022-09-06 | 4.57 | 53 |

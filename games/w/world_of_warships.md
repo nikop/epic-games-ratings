@@ -1,6 +1,6 @@
 # World of Warships
 Rating: 4.45 (4 193)  
-Ratings Per Day: 45.41  
+Ratings Per Day: 45.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

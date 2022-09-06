@@ -2,11 +2,11 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 10586,
-  "DailyRatings": 112.64,
+  "Rating": 4.58,
+  "NumberOfRatings": 10601,
+  "DailyRatings": 113.44,
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2022-09-06T18:31:20.7531345+00:00",
+  "LastChanged": "2022-09-06T20:31:53.5880743+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:00.6523641+00:00",
@@ -2152,6 +2152,11 @@
       "Time": "2022-09-06T18:31:20.7531346+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 10586
+    },
+    {
+      "Time": "2022-09-06T20:31:53.5880744+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 10601
     }
   ],
   "Tags": [
@@ -2181,7 +2186,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 229
+      "Count": 233
     },
     {
       "Text": "This game is Highly Recommended",
