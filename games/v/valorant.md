@@ -1,6 +1,6 @@
 # VALORANT
 Rating: 4.55 (136 353)  
-Ratings Per Day: 1317.33  
+Ratings Per Day: 1319.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
