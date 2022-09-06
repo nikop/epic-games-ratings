@@ -3,10 +3,10 @@
   "Name": "Genshin Impact",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 199709,
-  "DailyRatings": 1331.72,
+  "NumberOfRatings": 199748,
+  "DailyRatings": 1325.35,
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2022-09-06T11:31:08.2536449+00:00",
+  "LastChanged": "2022-09-06T12:31:13.3784707+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -2717,6 +2717,11 @@
       "Time": "2022-09-06T11:31:08.2536451+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 199709
+    },
+    {
+      "Time": "2022-09-06T12:31:13.3784708+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 199748
     }
   ],
   "Tags": [

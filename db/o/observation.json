@@ -2,12 +2,12 @@
   "ID": "allium",
   "Name": "Observation",
   "Names": [],
-  "Rating": 4.48,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0.49,
+  "Rating": 4.45,
+  "NumberOfRatings": 22,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:19:43.1233001+00:00",
   "FirstSeenRating": "2022-09-02T12:00:46.9628353+00:00",
-  "LastChanged": "2022-09-04T12:30:43.7052128+00:00",
+  "LastChanged": "2022-09-06T12:30:43.5066422+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T12:00:46.9628356+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-09-04T12:30:43.7052129+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-09-06T12:30:43.5066428+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []
