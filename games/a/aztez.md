@@ -1,6 +1,6 @@
 # Aztez
-Rating: 4.44 (34)  
-Ratings Per Day: 0.67  
+Rating: 4.46 (35)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 0.67
 | 2022-08-28 | 4.39 | 31 |
 | 2022-08-31 | 4.41 | 32 |
 | 2022-09-03 | 4.44 | 34 |
+| 2022-09-06 | 4.46 | 35 |
