@@ -1,6 +1,6 @@
 # SUPERHOT: Mind Control Delete
-Rating: 4.50 (26)  
-Ratings Per Day: 2.00  
+Rating: 4.48 (27)  
+Ratings Per Day: 0.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 2.00
 | 2022-08-29 | 4.52 | 23 |
 | 2022-09-02 | 4.54 | 24 |
 | 2022-09-03 | 4.50 | 26 |
+| 2022-09-06 | 4.48 | 27 |
