@@ -3,10 +3,10 @@
   "Name": "Pinball FX",
   "Names": [],
   "Rating": 3.97,
-  "NumberOfRatings": 677,
-  "DailyRatings": 6.02,
+  "NumberOfRatings": 678,
+  "DailyRatings": 6.04,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-09-06T06:30:20.9794746+00:00",
+  "LastChanged": "2022-09-06T10:00:20.365651+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -737,6 +737,11 @@
       "Time": "2022-09-06T06:30:20.9794749+00:00",
       "Rating": 3.97,
       "NumberOfRatings": 677
+    },
+    {
+      "Time": "2022-09-06T10:00:20.3656513+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": 678
     }
   ],
   "Tags": [
@@ -762,7 +767,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 62
+      "Count": 64
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -790,7 +795,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 38
+      "Count": 45
     }
   ]
 }
