@@ -1,6 +1,6 @@
 # Ys IX: Monstrum Nox (Launch Week)
-Rating: 4.48 (29)  
-Ratings Per Day: 0.25  
+Rating: 4.50 (30)  
+Ratings Per Day: 0.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.25
 | 2022-08-26 | 4.44 | 27 |
 | 2022-08-31 | 4.46 | 28 |
 | 2022-09-04 | 4.48 | 29 |
+| 2022-09-06 | 4.50 | 30 |
