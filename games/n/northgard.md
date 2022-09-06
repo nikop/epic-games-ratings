@@ -1,6 +1,6 @@
 # Northgard
-Rating: 4.79 (68)  
-Ratings Per Day: 0.56  
+Rating: 4.79 (70)  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 0.56
 | 2022-08-31 | 4.79 | 66 |
 | 2022-09-01 | 4.79 | 67 |
 | 2022-09-03 | 4.79 | 68 |
+| 2022-09-06 | 4.79 | 70 |
