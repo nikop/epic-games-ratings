@@ -1,6 +1,6 @@
 # A Plague Tale: Innocence
-Rating: 4.67 (9 417)  
-Ratings Per Day: 79.95  
+Rating: 4.66 (9 446)  
+Ratings Per Day: 79.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -50,4 +50,4 @@ Ratings Per Day: 79.95
 | 2022-09-03 | 4.67 | 9 228 |
 | 2022-09-04 | 4.67 | 9 278 |
 | 2022-09-05 | 4.67 | 9 407 |
-| 2022-09-06 | 4.67 | 9 417 |
+| 2022-09-06 | 4.66 | 9 446 |
