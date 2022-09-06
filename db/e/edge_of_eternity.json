@@ -2,17 +2,22 @@
   "ID": "a8a489c0a58646ec88aec778d015fc73",
   "Name": "Edge Of Eternity",
   "Names": [],
-  "Rating": 3.75,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 3.71,
+  "NumberOfRatings": 21,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:20:46.9216243+00:00",
   "FirstSeenRating": "2022-09-05T18:00:46.7188152+00:00",
-  "LastChanged": "2022-09-05T18:00:46.7188154+00:00",
+  "LastChanged": "2022-09-06T18:03:05.3334861+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-05T18:00:46.7188155+00:00",
       "Rating": 3.75,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-09-06T18:03:05.3334862+00:00",
+      "Rating": 3.71,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []
