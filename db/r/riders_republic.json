@@ -3,10 +3,10 @@
   "Name": "Riders Republic",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 3173,
-  "DailyRatings": 50.83,
+  "NumberOfRatings": 3177,
+  "DailyRatings": 50.03,
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2022-09-06T03:31:44.6028454+00:00",
+  "LastChanged": "2022-09-06T08:00:46.8915409+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.8722132+00:00",
@@ -1362,6 +1362,11 @@
       "Time": "2022-09-06T03:31:44.6028455+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 3173
+    },
+    {
+      "Time": "2022-09-06T08:00:46.8915411+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 3177
     }
   ],
   "Tags": [
@@ -1399,7 +1404,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 59
+      "Count": 62
     },
     {
       "Text": "This game is Educational",
