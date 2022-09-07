@@ -1,6 +1,6 @@
 # The Crew 2 Standard Edition
-Rating: 4.65 (1 856)  
-Ratings Per Day: 20.31  
+Rating: 4.65 (1 862)  
+Ratings Per Day: 20.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -51,3 +51,4 @@ Ratings Per Day: 20.31
 | 2022-09-04 | 4.65 | 1 818 |
 | 2022-09-05 | 4.65 | 1 842 |
 | 2022-09-06 | 4.65 | 1 856 |
+| 2022-09-07 | 4.65 | 1 862 |
