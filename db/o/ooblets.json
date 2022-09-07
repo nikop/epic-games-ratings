@@ -3,10 +3,10 @@
   "Name": "Ooblets",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 902,
-  "DailyRatings": 44.3,
+  "NumberOfRatings": 927,
+  "DailyRatings": 44.31,
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-09-06T14:31:45.3787235+00:00",
+  "LastChanged": "2022-09-07T04:01:41.8663036+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -637,6 +637,11 @@
       "Time": "2022-09-06T14:31:45.3787236+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 902
+    },
+    {
+      "Time": "2022-09-07T04:01:41.8663039+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 927
     }
   ],
   "Tags": [
@@ -650,7 +655,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Characters",
