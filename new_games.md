@@ -6,8 +6,8 @@
 | 4 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 44 | 5.80 |
 | 5 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 353 | 48.16 |
 | 6 | [Travellers Rest](games/t/travellers_rest.md) | 4.45 | 29 | 1.64 |
-| 7 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 11 263 | 980.78 |
-| 8 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 23 855 | 1453.48 |
+| 7 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 11 263 | 979.11 |
+| 8 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 23 877 | 1443.62 |
 | 9 | [Saints Row](games/s/saints_row.md) | 3.76 | 18 065 | 719.75 |
 | 10 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 124 | 5.33 |
 | 11 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.12 | 160 | 10.49 |
@@ -15,7 +15,7 @@
 | 13 | [DOOM II](games/d/doom_ii.md) | 4.83 | 29 | 1.82 |
 | 14 | [DOOM 64](games/d/doom_64.md) | 4.67 | 4 288 | 133.29 |
 | 15 | [DOOM 3](games/d/doom_3.md) | 4.51 | 61 | 3.30 |
-| 16 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 77 | 2.23 |
+| 16 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 77 | 1.85 |
 | 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 12 340 | 191.70 |
 | 18 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.47 | 1 797 | 24.52 |
 | 19 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 51 578 | 1265.94 |

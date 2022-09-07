@@ -3,10 +3,10 @@
   "Name": "Borderlands 2",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 12191,
-  "DailyRatings": 82.26,
+  "NumberOfRatings": 12194,
+  "DailyRatings": 82.46,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2022-09-07T07:31:02.9636098+00:00",
+  "LastChanged": "2022-09-07T08:00:40.3782532+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -2322,6 +2322,11 @@
       "Time": "2022-09-07T07:31:02.96361+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 12191
+    },
+    {
+      "Time": "2022-09-07T08:00:40.3782534+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 12194
     }
   ],
   "Tags": [
@@ -2363,7 +2368,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1197
+      "Count": 1206
     },
     {
       "Text": "This game has Challenging Combat",
