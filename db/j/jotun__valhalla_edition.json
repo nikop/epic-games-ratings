@@ -3,10 +3,10 @@
   "Name": "Jotun: Valhalla Edition",
   "Names": [],
   "Rating": 4.4,
-  "NumberOfRatings": 693,
-  "DailyRatings": 4.16,
+  "NumberOfRatings": 694,
+  "DailyRatings": 3.8,
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
-  "LastChanged": "2022-09-06T19:31:56.2740293+00:00",
+  "LastChanged": "2022-09-07T15:03:04.2485246+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:06.2029125+00:00",
@@ -287,12 +287,17 @@
       "Time": "2022-09-06T19:31:56.2740295+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 693
+    },
+    {
+      "Time": "2022-09-07T15:03:04.2485248+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 694
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 59
+      "Count": 60
     }
   ]
 }
