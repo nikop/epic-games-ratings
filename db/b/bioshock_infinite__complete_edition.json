@@ -3,10 +3,10 @@
   "Name": "BioShock Infinite: Complete Edition",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 17011,
-  "DailyRatings": 91.28,
+  "NumberOfRatings": 17018,
+  "DailyRatings": 91.48,
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2022-09-07T05:31:36.4232631+00:00",
+  "LastChanged": "2022-09-07T07:00:47.6507271+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.6159256+00:00",
@@ -1267,12 +1267,17 @@
       "Time": "2022-09-07T05:31:36.4232633+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 17011
+    },
+    {
+      "Time": "2022-09-07T07:00:47.6507272+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 17018
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 3001
+      "Count": 3016
     },
     {
       "Text": "This game is Great for Beginners",
