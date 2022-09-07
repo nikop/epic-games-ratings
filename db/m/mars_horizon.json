@@ -2,8 +2,18 @@
   "ID": "cb47b6d16fc54e418e11560bee52ad89",
   "Name": "Mars Horizon",
   "Names": [],
+  "Rating": 4.5,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:20:11.8890677+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-09-07T14:30:49.2420338+00:00",
+  "LastChanged": "2022-09-07T14:30:49.2420339+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-09-07T14:30:49.242034+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

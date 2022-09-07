@@ -2,11 +2,11 @@
   "ID": "dfc4917a747748a0a25835f7152a30b4",
   "Name": "UnMetal",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 29,
-  "DailyRatings": 0.2,
+  "Rating": 4.57,
+  "NumberOfRatings": 30,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:18:47.3382201+00:00",
-  "LastChanged": "2022-09-05T14:30:29.9531528+00:00",
+  "LastChanged": "2022-09-07T14:30:35.9035739+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T08:00:30.1894628+00:00",
@@ -57,6 +57,11 @@
       "Time": "2022-09-05T14:30:29.9531594+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-09-07T14:30:35.903574+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []
