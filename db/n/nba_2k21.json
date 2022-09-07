@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.4,
   "NumberOfRatings": 40511,
-  "DailyRatings": 203.17,
+  "DailyRatings": 203.13,
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
   "LastChanged": "2022-09-07T10:01:38.8324496+00:00",
   "RatingHistory": [
@@ -2396,7 +2396,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 5245
+      "Count": 5297
     },
     {
       "Text": "This game has Quickly Understood Controls",
