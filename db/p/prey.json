@@ -3,10 +3,10 @@
   "Name": "Prey",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 12017,
-  "DailyRatings": 85.16,
+  "NumberOfRatings": 12027,
+  "DailyRatings": 85.58,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2022-09-07T14:02:50.1497158+00:00",
+  "LastChanged": "2022-09-07T16:02:38.9044229+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -1877,6 +1877,11 @@
       "Time": "2022-09-07T14:02:50.149716+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 12017
+    },
+    {
+      "Time": "2022-09-07T16:02:38.9044231+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 12027
     }
   ],
   "Tags": [
@@ -1914,7 +1919,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 3254
+      "Count": 3284
     },
     {
       "Text": "This game has Challenging Combat",
