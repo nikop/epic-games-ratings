@@ -3,10 +3,10 @@
   "Name": "Borderlands 3",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 143761,
-  "DailyRatings": 608.14,
+  "NumberOfRatings": 143796,
+  "DailyRatings": 607.69,
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2022-09-07T20:30:30.2418749+00:00",
+  "LastChanged": "2022-09-07T22:00:47.6873232+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:32.2549883+00:00",
@@ -2497,6 +2497,11 @@
       "Time": "2022-09-07T20:30:30.2418753+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 143761
+    },
+    {
+      "Time": "2022-09-07T22:00:47.6873234+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 143796
     }
   ],
   "Tags": [
@@ -2522,7 +2527,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 14580
+      "Count": 14649
     },
     {
       "Text": "This game is Relaxing",

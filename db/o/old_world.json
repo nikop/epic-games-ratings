@@ -3,10 +3,10 @@
   "Name": "Old World",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 1195,
-  "DailyRatings": 6.26,
+  "NumberOfRatings": 1198,
+  "DailyRatings": 6.53,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "LastChanged": "2022-09-07T17:31:18.3046307+00:00",
+  "LastChanged": "2022-09-07T22:01:38.5448434+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.0865852+00:00",
@@ -902,6 +902,11 @@
       "Time": "2022-09-07T17:31:18.3046308+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 1195
+    },
+    {
+      "Time": "2022-09-07T22:01:38.5448436+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 1198
     }
   ],
   "Tags": [
