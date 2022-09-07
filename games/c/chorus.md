@@ -1,6 +1,6 @@
 # Chorus
-Rating: 4.43 (53)  
-Ratings Per Day: 0.50  
+Rating: 4.44 (54)  
+Ratings Per Day: 0.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 0.50
 | 2022-08-29 | 4.49 | 51 |
 | 2022-09-04 | 4.50 | 52 |
 | 2022-09-06 | 4.43 | 53 |
+| 2022-09-07 | 4.44 | 54 |
