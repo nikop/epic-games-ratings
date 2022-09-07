@@ -3,10 +3,10 @@
   "Name": "Watch Dogs Standard Edition",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 1670,
-  "DailyRatings": 16.85,
+  "NumberOfRatings": 1672,
+  "DailyRatings": 16.43,
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2022-09-06T23:30:40.5584654+00:00",
+  "LastChanged": "2022-09-07T06:30:44.1884608+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-09-06T23:30:40.5584694+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 1670
+    },
+    {
+      "Time": "2022-09-07T06:30:44.1884609+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1672
     }
   ],
   "Tags": [
