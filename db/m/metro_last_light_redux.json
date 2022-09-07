@@ -3,10 +3,10 @@
   "Name": "Metro Last Light Redux",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 5598,
-  "DailyRatings": 48,
+  "NumberOfRatings": 5603,
+  "DailyRatings": 47.84,
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2022-09-07T20:01:18.2327346+00:00",
+  "LastChanged": "2022-09-07T23:01:21.0380172+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:11.2145131+00:00",
@@ -752,6 +752,11 @@
       "Time": "2022-09-07T20:01:18.2327367+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 5598
+    },
+    {
+      "Time": "2022-09-07T23:01:21.0380174+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 5603
     }
   ],
   "Tags": [
@@ -761,6 +766,10 @@
     },
     {
       "Text": "This game is Extremely Fun",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Challenging Combat",
       "Count": 20
     }
   ]

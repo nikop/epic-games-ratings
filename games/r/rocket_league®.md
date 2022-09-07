@@ -1,6 +1,6 @@
 # Rocket League®
 Rating: 4.54 (337 693)  
-Ratings Per Day: 2228.93  
+Ratings Per Day: 2235.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
