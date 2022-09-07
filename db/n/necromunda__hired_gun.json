@@ -3,10 +3,10 @@
   "Name": "Necromunda: Hired Gun",
   "Names": [],
   "Rating": 4.25,
-  "NumberOfRatings": 101,
-  "DailyRatings": 1.89,
+  "NumberOfRatings": 102,
+  "DailyRatings": 1.76,
   "FirstSeen": "2022-07-22T20:19:25.444395+00:00",
-  "LastChanged": "2022-09-06T12:00:37.7187426+00:00",
+  "LastChanged": "2022-09-07T12:01:17.1057584+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:25.4443952+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-09-06T12:00:37.7187427+00:00",
       "Rating": 4.25,
       "NumberOfRatings": 101
+    },
+    {
+      "Time": "2022-09-07T12:01:17.1057636+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 102
     }
   ],
   "Tags": []
