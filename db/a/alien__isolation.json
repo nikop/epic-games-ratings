@@ -3,10 +3,10 @@
   "Name": "Alien: Isolation ",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 4552,
-  "DailyRatings": 46.45,
+  "NumberOfRatings": 4586,
+  "DailyRatings": 48,
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2022-09-07T05:31:17.4736919+00:00",
+  "LastChanged": "2022-09-07T19:01:00.3663411+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.3145859+00:00",
@@ -1357,6 +1357,11 @@
       "Time": "2022-09-07T05:31:17.4736922+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 4552
+    },
+    {
+      "Time": "2022-09-07T19:01:00.3663412+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 4586
     }
   ],
   "Tags": [
@@ -1382,7 +1387,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has Realistic Visuals",
