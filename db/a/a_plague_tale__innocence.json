@@ -3,10 +3,10 @@
   "Name": "A Plague Tale: Innocence",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 9517,
-  "DailyRatings": 75.41,
+  "NumberOfRatings": 9520,
+  "DailyRatings": 75.15,
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
-  "LastChanged": "2022-09-07T11:31:37.8337787+00:00",
+  "LastChanged": "2022-09-07T13:01:27.2159984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:00.8447802+00:00",
@@ -792,6 +792,11 @@
       "Time": "2022-09-07T11:31:37.8337789+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 9517
+    },
+    {
+      "Time": "2022-09-07T13:01:27.2159985+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 9520
     }
   ],
   "Tags": [
@@ -818,6 +823,10 @@
     {
       "Text": "This game is Great for Beginners",
       "Count": 23
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Count": 24
     }
   ]
 }

@@ -3,10 +3,10 @@
   "Name": "Sherlock Holmes Chapter One",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 165,
-  "DailyRatings": 1.66,
+  "NumberOfRatings": 166,
+  "DailyRatings": 1.28,
   "FirstSeen": "2022-07-22T20:17:16.496586+00:00",
-  "LastChanged": "2022-09-05T13:00:23.1550336+00:00",
+  "LastChanged": "2022-09-07T13:00:44.4526534+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:16.4965862+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-09-05T13:00:23.1550339+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 165
+    },
+    {
+      "Time": "2022-09-07T13:00:44.4526536+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 166
     }
   ],
   "Tags": []
