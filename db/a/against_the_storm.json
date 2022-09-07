@@ -3,10 +3,10 @@
   "Name": "Against the Storm",
   "Names": [],
   "Rating": 4.81,
-  "NumberOfRatings": 1726,
-  "DailyRatings": 12,
+  "NumberOfRatings": 1727,
+  "DailyRatings": 12.07,
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
-  "LastChanged": "2022-09-07T17:31:56.7421583+00:00",
+  "LastChanged": "2022-09-07T18:31:54.4942107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:52.7561903+00:00",
@@ -1467,6 +1467,11 @@
       "Time": "2022-09-07T17:31:56.7421584+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 1726
+    },
+    {
+      "Time": "2022-09-07T18:31:54.4942108+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 1727
     }
   ],
   "Tags": [

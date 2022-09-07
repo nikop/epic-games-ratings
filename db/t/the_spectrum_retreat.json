@@ -3,10 +3,10 @@
   "Name": "The Spectrum Retreat",
   "Names": [],
   "Rating": 4.32,
-  "NumberOfRatings": 208,
-  "DailyRatings": 2.12,
+  "NumberOfRatings": 211,
+  "DailyRatings": 2.26,
   "FirstSeen": "2022-07-22T20:22:27.9603268+00:00",
-  "LastChanged": "2022-09-06T18:31:00.611022+00:00",
+  "LastChanged": "2022-09-07T18:31:11.94352+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:27.960327+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-09-06T18:31:00.6110221+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 208
+    },
+    {
+      "Time": "2022-09-07T18:31:11.9435202+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 211
     }
   ],
   "Tags": []
