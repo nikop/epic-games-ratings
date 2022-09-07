@@ -3,10 +3,10 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 4803,
-  "DailyRatings": 46.96,
+  "NumberOfRatings": 4820,
+  "DailyRatings": 47.71,
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2022-09-06T18:31:00.135065+00:00",
+  "LastChanged": "2022-09-07T00:31:58.5070114+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:24.6932881+00:00",
@@ -1847,6 +1847,11 @@
       "Time": "2022-09-06T18:31:00.1350651+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 4803
+    },
+    {
+      "Time": "2022-09-07T00:31:58.5070115+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 4820
     }
   ],
   "Tags": [
