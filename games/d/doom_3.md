@@ -1,6 +1,6 @@
 # DOOM 3
 Rating: 4.51 (61)  
-Ratings Per Day: 3.30  
+Ratings Per Day: 3.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
