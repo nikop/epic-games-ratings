@@ -1,6 +1,6 @@
 # Century: Age of Ashes
 Rating: 4.39 (1 579)  
-Ratings Per Day: 14.83  
+Ratings Per Day: 14.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
