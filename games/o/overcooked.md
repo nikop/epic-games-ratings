@@ -1,6 +1,6 @@
 # Overcooked
-Rating: 4.68 (531)  
-Ratings Per Day: 5.35  
+Rating: 4.68 (532)  
+Ratings Per Day: 4.88  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -50,4 +50,4 @@ Ratings Per Day: 5.35
 | 2022-09-04 | 4.69 | 521 |
 | 2022-09-05 | 4.69 | 523 |
 | 2022-09-06 | 4.68 | 528 |
-| 2022-09-07 | 4.68 | 531 |
+| 2022-09-07 | 4.68 | 532 |

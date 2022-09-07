@@ -1,6 +1,6 @@
 # Offworld Trading Company
 Rating: 4.32 (382)  
-Ratings Per Day: 3.20  
+Ratings Per Day: 3.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
