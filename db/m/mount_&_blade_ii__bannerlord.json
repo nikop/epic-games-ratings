@@ -3,10 +3,10 @@
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "Names": [],
   "Rating": 4.74,
-  "NumberOfRatings": 5115,
-  "DailyRatings": 40,
+  "NumberOfRatings": 5096,
+  "DailyRatings": 37.15,
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
-  "LastChanged": "2022-09-07T22:01:25.6940077+00:00",
+  "LastChanged": "2022-09-07T22:31:53.8206787+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.7217338+00:00",
@@ -2027,6 +2027,11 @@
       "Time": "2022-09-07T22:01:25.6940081+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 5115
+    },
+    {
+      "Time": "2022-09-07T22:31:53.8206789+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 5096
     }
   ],
   "Tags": [
