@@ -2,12 +2,12 @@
   "ID": "0cdc1f2bb18a4384a96ddac4c5c84886",
   "Name": "Operation: Tango",
   "Names": [],
-  "Rating": 4.72,
-  "NumberOfRatings": 39,
-  "DailyRatings": 1.2,
+  "Rating": 4.71,
+  "NumberOfRatings": 41,
+  "DailyRatings": 1.14,
   "FirstSeen": "2022-07-22T20:24:35.1547145+00:00",
   "FirstSeenRating": "2022-08-07T15:01:29.3377422+00:00",
-  "LastChanged": "2022-09-05T05:31:14.375979+00:00",
+  "LastChanged": "2022-09-07T05:32:06.5789694+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-07T15:01:29.3377425+00:00",
@@ -73,6 +73,11 @@
       "Time": "2022-09-05T05:31:14.3759792+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-09-07T05:32:06.5789695+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 41
     }
   ],
   "Tags": []

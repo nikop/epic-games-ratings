@@ -2,17 +2,22 @@
   "ID": "6a8afa765c0e4ebe970db11a0a67c883",
   "Name": "King\u0027s Bounty: Crossworlds",
   "Names": [],
-  "Rating": 4.7,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.71,
+  "NumberOfRatings": 21,
+  "DailyRatings": 0.62,
   "FirstSeen": "2022-07-22T20:30:25.0110312+00:00",
   "FirstSeenRating": "2022-09-05T14:31:59.289908+00:00",
-  "LastChanged": "2022-09-05T14:31:59.2899081+00:00",
+  "LastChanged": "2022-09-07T05:32:50.5935617+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-05T14:31:59.2899082+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-09-07T05:32:50.5935618+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []
