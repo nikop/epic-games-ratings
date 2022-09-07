@@ -3,10 +3,10 @@
   "Name": "Evil Dead: The Game",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 8770,
-  "DailyRatings": 19.61,
+  "NumberOfRatings": 8771,
+  "DailyRatings": 19.46,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2022-09-07T19:01:07.1952786+00:00",
+  "LastChanged": "2022-09-07T21:30:37.8849129+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -1712,6 +1712,11 @@
       "Time": "2022-09-07T19:01:07.1952788+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 8770
+    },
+    {
+      "Time": "2022-09-07T21:30:37.8849181+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 8771
     }
   ],
   "Tags": [
@@ -1757,7 +1762,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 744
+      "Count": 747
     }
   ]
 }
