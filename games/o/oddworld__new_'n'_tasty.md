@@ -1,6 +1,6 @@
 # Oddworld: New 'n' Tasty
-Rating: 4.39 (93)  
-Ratings Per Day: 0.75  
+Rating: 4.38 (95)  
+Ratings Per Day: 0.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 0.75
 | 2022-09-01 | 4.37 | 91 |
 | 2022-09-03 | 4.38 | 92 |
 | 2022-09-04 | 4.39 | 93 |
+| 2022-09-07 | 4.38 | 95 |

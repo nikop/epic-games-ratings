@@ -134,5 +134,10 @@
       "NumberOfRatings": 63
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 21
+    }
+  ]
 }
