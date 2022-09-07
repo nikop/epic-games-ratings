@@ -3,11 +3,11 @@
   "Name": "Destiny 2",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 23877,
-  "DailyRatings": 1446.26,
+  "NumberOfRatings": 23898,
+  "DailyRatings": 1440.6,
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2022-09-07T08:00:36.110464+00:00",
+  "LastChanged": "2022-09-07T09:00:53.3028365+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -768,6 +768,11 @@
       "Time": "2022-09-07T08:00:36.1104642+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 23877
+    },
+    {
+      "Time": "2022-09-07T09:00:53.3028367+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 23898
     }
   ],
   "Tags": [
@@ -785,7 +790,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 316
+      "Count": 359
     },
     {
       "Text": "This game has Amazing Storytelling",
