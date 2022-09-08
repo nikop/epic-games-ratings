@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The Old Blood",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 264,
-  "DailyRatings": 3.93,
+  "NumberOfRatings": 266,
+  "DailyRatings": 4.05,
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
-  "LastChanged": "2022-09-08T12:32:10.0160652+00:00",
+  "LastChanged": "2022-09-08T20:02:18.9849736+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:51.0594069+00:00",
@@ -277,12 +277,17 @@
       "Time": "2022-09-08T12:32:10.0160654+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 264
+    },
+    {
+      "Time": "2022-09-08T20:02:18.9849737+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 266
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 57
+      "Count": 58
     }
   ]
 }
