@@ -2,11 +2,11 @@
   "ID": "ad876f7812c946f6a362bf821b971b48",
   "Name": "Stick It To The Man!",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 61,
-  "DailyRatings": 0.58,
+  "Rating": 4.6,
+  "NumberOfRatings": 63,
+  "DailyRatings": 0.83,
   "FirstSeen": "2022-07-22T20:19:08.6755666+00:00",
-  "LastChanged": "2022-09-08T04:30:44.7668972+00:00",
+  "LastChanged": "2022-09-08T23:31:15.3896667+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:08.6755668+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-09-08T04:30:44.7669024+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 61
+    },
+    {
+      "Time": "2022-09-08T23:31:15.389667+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 63
     }
   ],
   "Tags": []
