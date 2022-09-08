@@ -1,6 +1,6 @@
 # Swords of Legends Online
 Rating: 4.29 (236)  
-Ratings Per Day: 1.44  
+Ratings Per Day: 1.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
