@@ -3,10 +3,10 @@
   "Name": "The Vanishing of Ethan Carter",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 446,
-  "DailyRatings": 3.81,
+  "NumberOfRatings": 448,
+  "DailyRatings": 3.52,
   "FirstSeen": "2022-07-22T20:30:30.7974201+00:00",
-  "LastChanged": "2022-09-07T14:02:32.9545932+00:00",
+  "LastChanged": "2022-09-08T14:02:37.856606+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:30.7974203+00:00",
@@ -257,6 +257,11 @@
       "Time": "2022-09-07T14:02:32.9545933+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 446
+    },
+    {
+      "Time": "2022-09-08T14:02:37.8566061+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 448
     }
   ],
   "Tags": []
