@@ -1,6 +1,6 @@
 # Second Extinction™
-Rating: 4.08 (516)  
-Ratings Per Day: 5.44  
+Rating: 4.09 (522)  
+Ratings Per Day: 6.35  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
