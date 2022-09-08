@@ -1,6 +1,6 @@
 # Timberborn
-Rating: 4.69 (486)  
-Ratings Per Day: 4.99  
+Rating: 4.69 (491)  
+Ratings Per Day: 5.37  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -52,4 +52,4 @@ Ratings Per Day: 4.99
 | 2022-09-05 | 4.69 | 471 |
 | 2022-09-06 | 4.69 | 479 |
 | 2022-09-07 | 4.69 | 481 |
-| 2022-09-08 | 4.69 | 486 |
+| 2022-09-08 | 4.69 | 491 |
