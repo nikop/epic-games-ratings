@@ -1,6 +1,6 @@
 # Bugsnax
 Rating: 4.82 (391)  
-Ratings Per Day: 4.74  
+Ratings Per Day: 5.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

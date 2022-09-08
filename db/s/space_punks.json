@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.17,
   "NumberOfRatings": 1774,
-  "DailyRatings": 12.4,
+  "DailyRatings": 12.52,
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
   "LastChanged": "2022-09-08T15:31:28.2029652+00:00",
   "RatingHistory": [
@@ -1296,7 +1296,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 97
+      "Count": 99
     }
   ]
 }
