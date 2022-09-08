@@ -1,6 +1,6 @@
 # The World Next Door
 Rating: 4.09 (34)  
-Ratings Per Day: 0.99  
+Ratings Per Day: 0.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
