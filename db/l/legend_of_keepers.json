@@ -2,11 +2,11 @@
   "ID": "3d4b3dcf7ec449c7a042c163d08fa0f3",
   "Name": "Legend of Keepers",
   "Names": [],
-  "Rating": 4.46,
-  "NumberOfRatings": 35,
-  "DailyRatings": 0.68,
+  "Rating": 4.47,
+  "NumberOfRatings": 36,
+  "DailyRatings": 0.72,
   "FirstSeen": "2022-07-22T20:26:54.4614277+00:00",
-  "LastChanged": "2022-09-07T15:02:43.9610941+00:00",
+  "LastChanged": "2022-09-08T15:32:17.051196+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:54.4614279+00:00",
@@ -72,6 +72,11 @@
       "Time": "2022-09-07T15:02:43.9610942+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 35
+    },
+    {
+      "Time": "2022-09-08T15:32:17.0511962+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 36
     }
   ],
   "Tags": []
