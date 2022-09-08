@@ -1,6 +1,6 @@
 # City of Brass
-Rating: 4.24 (199)  
-Ratings Per Day: 1.64  
+Rating: 4.24 (200)  
+Ratings Per Day: 1.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -40,3 +40,4 @@ Ratings Per Day: 1.64
 | 2022-09-03 | 4.23 | 197 |
 | 2022-09-04 | 4.23 | 198 |
 | 2022-09-05 | 4.24 | 199 |
+| 2022-09-08 | 4.24 | 200 |
