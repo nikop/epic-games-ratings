@@ -3,10 +3,10 @@
   "Name": "The Walking Dead: Season One",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 65,
-  "DailyRatings": 0.67,
+  "NumberOfRatings": 66,
+  "DailyRatings": 0.6,
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2022-09-06T20:31:05.8556288+00:00",
+  "LastChanged": "2022-09-08T20:31:43.4564985+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:47.8231951+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-09-06T20:31:05.8556292+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 65
+    },
+    {
+      "Time": "2022-09-08T20:31:43.4564986+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 66
     }
   ],
   "Tags": []
