@@ -3,10 +3,10 @@
   "Name": "Verdun",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 1843,
-  "DailyRatings": 11.35,
+  "NumberOfRatings": 1844,
+  "DailyRatings": 11.29,
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
-  "LastChanged": "2022-09-08T13:31:31.0406966+00:00",
+  "LastChanged": "2022-09-08T16:31:28.3105584+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:07.9846698+00:00",
@@ -937,6 +937,11 @@
       "Time": "2022-09-08T13:31:31.0406968+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 1843
+    },
+    {
+      "Time": "2022-09-08T16:31:28.3105585+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 1844
     }
   ],
   "Tags": [
@@ -994,7 +999,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 31
+      "Count": 32
     }
   ]
 }

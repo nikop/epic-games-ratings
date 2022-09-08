@@ -3,10 +3,10 @@
   "Name": "Enter the Gungeon",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 7806,
-  "DailyRatings": 60.18,
+  "NumberOfRatings": 7810,
+  "DailyRatings": 60.4,
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2022-09-08T15:32:02.8693545+00:00",
+  "LastChanged": "2022-09-08T16:31:19.8239973+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:04.4908793+00:00",
@@ -2242,6 +2242,11 @@
       "Time": "2022-09-08T15:32:02.8693546+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 7806
+    },
+    {
+      "Time": "2022-09-08T16:31:19.8239974+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 7810
     }
   ],
   "Tags": [

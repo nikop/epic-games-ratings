@@ -1,6 +1,6 @@
 # Grindstone
-Rating: 4.86 (57)  
-Ratings Per Day: 0.49  
+Rating: 4.86 (58)  
+Ratings Per Day: 0.35  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,3 +27,4 @@ Ratings Per Day: 0.49
 | 2022-08-31 | 4.85 | 54 |
 | 2022-09-02 | 4.86 | 56 |
 | 2022-09-04 | 4.86 | 57 |
+| 2022-09-08 | 4.86 | 58 |
