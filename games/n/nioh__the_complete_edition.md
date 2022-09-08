@@ -1,6 +1,6 @@
 # Nioh: The Complete Edition
-Rating: 4.58 (9 411)  
-Ratings Per Day: 96.15  
+Rating: 4.58 (9 421)  
+Ratings Per Day: 96.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -52,4 +52,4 @@ Ratings Per Day: 96.15
 | 2022-09-05 | 4.59 | 9 201 |
 | 2022-09-06 | 4.59 | 9 288 |
 | 2022-09-07 | 4.58 | 9 378 |
-| 2022-09-08 | 4.58 | 9 411 |
+| 2022-09-08 | 4.58 | 9 421 |
