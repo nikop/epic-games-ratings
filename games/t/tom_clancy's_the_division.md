@@ -1,6 +1,6 @@
 # Tom Clancy's The Division
 Rating: 4.54 (220)  
-Ratings Per Day: 1.88  
+Ratings Per Day: 1.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
