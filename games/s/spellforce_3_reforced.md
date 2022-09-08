@@ -1,6 +1,6 @@
 # SpellForce 3 Reforced
 Rating: 4.45 (67)  
-Ratings Per Day: 0.46  
+Ratings Per Day: 0.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
