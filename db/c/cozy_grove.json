@@ -2,11 +2,11 @@
   "ID": "768ec2d3b5114ac4a800631b12ee3f31",
   "Name": "Cozy Grove",
   "Names": [],
-  "Rating": 4.79,
-  "NumberOfRatings": 39,
-  "DailyRatings": 0,
+  "Rating": 4.8,
+  "NumberOfRatings": 40,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:30:43.8185339+00:00",
-  "LastChanged": "2022-09-07T10:32:11.9916946+00:00",
+  "LastChanged": "2022-09-08T10:32:28.4336561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:43.8185343+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-09-07T10:32:11.9916952+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-09-08T10:32:28.4336565+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 40
     }
   ],
   "Tags": []
