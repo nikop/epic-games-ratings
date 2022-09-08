@@ -4,11 +4,11 @@
 | 2 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.64 | 137 | 83.20 |
 | 3 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.90 | 138 | 19.74 |
 | 4 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 49 | 5.08 |
-| 5 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 388 | 43.24 |
+| 5 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 404 | 42.67 |
 | 6 | [Travellers Rest](games/t/travellers_rest.md) | 4.48 | 31 | 1.73 |
-| 7 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 11 684 | 887.17 |
-| 8 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 24 628 | 1310.03 |
-| 9 | [Saints Row](games/s/saints_row.md) | 3.76 | 18 427 | 660.00 |
+| 7 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 11 684 | 886.60 |
+| 8 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 24 664 | 1296.02 |
+| 9 | [Saints Row](games/s/saints_row.md) | 3.76 | 18 454 | 654.79 |
 | 10 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 129 | 4.65 |
 | 11 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.13 | 174 | 11.13 |
 | 12 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 76 | 2.75 |
@@ -20,4 +20,4 @@
 | 18 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.47 | 1 814 | 22.70 |
 | 19 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 52 632 | 1190.73 |
 | 20 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 883 | 19.02 |
-| 21 | [MultiVersus](games/m/multiversus.md) | 4.57 | 52 832 | 292.67 |
+| 21 | [MultiVersus](games/m/multiversus.md) | 4.57 | 52 857 | 287.41 |
