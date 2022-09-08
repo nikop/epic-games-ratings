@@ -3,10 +3,10 @@
   "Name": "Farming Simulator 19",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 15308,
-  "DailyRatings": 103.35,
+  "NumberOfRatings": 15313,
+  "DailyRatings": 103.16,
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2022-09-08T13:02:52.1353901+00:00",
+  "LastChanged": "2022-09-08T14:31:01.0575052+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:56.7737017+00:00",
@@ -2197,6 +2197,11 @@
       "Time": "2022-09-08T13:02:52.1353902+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 15308
+    },
+    {
+      "Time": "2022-09-08T14:31:01.0575053+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 15313
     }
   ],
   "Tags": [

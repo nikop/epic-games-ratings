@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Knight",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 6676,
-  "DailyRatings": 63.32,
+  "NumberOfRatings": 6681,
+  "DailyRatings": 62.8,
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2022-09-08T11:16:14.444537+00:00",
+  "LastChanged": "2022-09-08T14:31:28.9740433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:23.4007296+00:00",
@@ -2002,6 +2002,11 @@
       "Time": "2022-09-08T11:16:14.4445372+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 6676
+    },
+    {
+      "Time": "2022-09-08T14:31:28.9740434+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 6681
     }
   ],
   "Tags": [
@@ -2019,7 +2024,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 157
+      "Count": 159
     },
     {
       "Text": "This game has Amazing Characters",
