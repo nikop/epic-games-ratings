@@ -1,5 +1,5 @@
 # Patron
-Rating: 3.91 (35)  
+Rating: 3.94 (36)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.00
 | 2022-08-20 | 3.85 | 33 |
 | 2022-08-21 | 3.88 | 34 |
 | 2022-08-25 | 3.91 | 35 |
+| 2022-09-08 | 3.94 | 36 |
