@@ -1,6 +1,6 @@
 # Horace
 Rating: 4.57 (42)  
-Ratings Per Day: 0.32  
+Ratings Per Day: 0.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
