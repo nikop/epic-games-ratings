@@ -2,11 +2,11 @@
   "ID": "fabd66e7d1764eec954cc99172bd13d8",
   "Name": "Townscaper",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 39,
-  "DailyRatings": 1,
+  "Rating": 4.68,
+  "NumberOfRatings": 40,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:25:14.2258639+00:00",
-  "LastChanged": "2022-09-03T20:01:54.0560847+00:00",
+  "LastChanged": "2022-09-08T19:31:32.5582463+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-29T20:31:30.2661606+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-09-03T20:01:54.0560849+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-09-08T19:31:32.5582465+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 40
     }
   ],
   "Tags": []
