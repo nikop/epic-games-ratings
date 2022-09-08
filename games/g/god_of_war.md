@@ -1,6 +1,6 @@
 # God of War
 Rating: 4.89 (4 424)  
-Ratings Per Day: 28.10  
+Ratings Per Day: 29.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

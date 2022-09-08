@@ -3,10 +3,10 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "Names": [],
   "Rating": 4.04,
-  "NumberOfRatings": 8758,
-  "DailyRatings": 17.73,
+  "NumberOfRatings": 8759,
+  "DailyRatings": 17.72,
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "LastChanged": "2022-09-08T00:30:15.3237749+00:00",
+  "LastChanged": "2022-09-08T02:00:31.701562+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.6649584+00:00",
@@ -2142,6 +2142,11 @@
       "Time": "2022-09-08T00:30:15.3237751+00:00",
       "Rating": 4.04,
       "NumberOfRatings": 8758
+    },
+    {
+      "Time": "2022-09-08T02:00:31.7015623+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": 8759
     }
   ],
   "Tags": [
