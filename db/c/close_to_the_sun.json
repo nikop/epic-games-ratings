@@ -2,11 +2,11 @@
   "ID": "silene",
   "Name": "Close To The Sun",
   "Names": [],
-  "Rating": 4.09,
-  "NumberOfRatings": 127,
+  "Rating": 4.08,
+  "NumberOfRatings": 128,
   "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
-  "LastChanged": "2022-09-07T01:32:27.8242494+00:00",
+  "LastChanged": "2022-09-08T01:32:31.8835921+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:28.4985341+00:00",
@@ -177,6 +177,11 @@
       "Time": "2022-09-07T01:32:27.8242495+00:00",
       "Rating": 4.09,
       "NumberOfRatings": 127
+    },
+    {
+      "Time": "2022-09-08T01:32:31.8835923+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": 128
     }
   ],
   "Tags": []
