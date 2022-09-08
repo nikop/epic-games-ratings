@@ -1,6 +1,6 @@
 # Mortal Shell
 Rating: 4.36 (195)  
-Ratings Per Day: 1.58  
+Ratings Per Day: 1.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

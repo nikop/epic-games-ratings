@@ -1,6 +1,6 @@
 # League of Legends
 Rating: 4.22 (9 594)  
-Ratings Per Day: 80.04  
+Ratings Per Day: 81.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
