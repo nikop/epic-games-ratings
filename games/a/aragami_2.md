@@ -1,6 +1,6 @@
 # Aragami 2
 Rating: 4.52 (77)  
-Ratings Per Day: 1.84  
+Ratings Per Day: 1.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

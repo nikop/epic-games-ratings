@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.5,
   "NumberOfRatings": 5616,
-  "DailyRatings": 51,
+  "DailyRatings": 50.88,
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
   "LastChanged": "2022-09-08T03:30:47.6111927+00:00",
   "RatingHistory": [
@@ -2274,7 +2274,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 669
+      "Count": 676
     }
   ]
 }
