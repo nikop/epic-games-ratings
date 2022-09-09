@@ -1,6 +1,6 @@
 # Unrailed!
 Rating: 4.64 (21 224)  
-Ratings Per Day: 83.79  
+Ratings Per Day: 84.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
