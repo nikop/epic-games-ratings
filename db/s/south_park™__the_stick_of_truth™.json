@@ -3,10 +3,10 @@
   "Name": "South Park\u2122: The Stick of Truth\u2122",
   "Names": [],
   "Rating": 4.81,
-  "NumberOfRatings": 107,
-  "DailyRatings": 1.21,
+  "NumberOfRatings": 108,
+  "DailyRatings": 1.18,
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
-  "LastChanged": "2022-09-08T09:31:42.8568681+00:00",
+  "LastChanged": "2022-09-09T09:31:57.2243385+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:01.6762388+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-09-08T09:31:42.8568682+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 107
+    },
+    {
+      "Time": "2022-09-09T09:31:57.2243386+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 108
     }
   ],
   "Tags": []

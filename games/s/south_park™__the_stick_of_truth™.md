@@ -1,6 +1,6 @@
 # South Park™: The Stick of Truth™
-Rating: 4.81 (107)  
-Ratings Per Day: 1.21  
+Rating: 4.81 (108)  
+Ratings Per Day: 1.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 1.21
 | 2022-09-03 | 4.81 | 103 |
 | 2022-09-05 | 4.81 | 104 |
 | 2022-09-08 | 4.81 | 107 |
+| 2022-09-09 | 4.81 | 108 |
