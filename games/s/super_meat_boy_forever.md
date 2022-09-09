@@ -1,6 +1,6 @@
 # Super Meat Boy Forever
 Rating: 4.86 (22)  
-Ratings Per Day: 1.35  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
