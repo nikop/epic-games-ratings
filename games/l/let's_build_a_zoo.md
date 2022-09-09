@@ -1,6 +1,6 @@
 # Let's Build A Zoo
-Rating: 4.27 (30)  
-Ratings Per Day: 0.00  
+Rating: 4.29 (31)  
+Ratings Per Day: 0.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.00
 | 2022-08-30 | 4.25 | 28 |
 | 2022-08-31 | 4.28 | 29 |
 | 2022-09-04 | 4.27 | 30 |
+| 2022-09-09 | 4.29 | 31 |

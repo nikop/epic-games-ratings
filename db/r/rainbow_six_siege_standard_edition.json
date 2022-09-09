@@ -3,10 +3,10 @@
   "Name": "Rainbow Six Siege Standard Edition",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 7927,
-  "DailyRatings": 76.5,
+  "NumberOfRatings": 7928,
+  "DailyRatings": 75.96,
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2022-09-08T23:31:20.1759451+00:00",
+  "LastChanged": "2022-09-09T01:00:44.6206512+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -2427,6 +2427,11 @@
       "Time": "2022-09-08T23:31:20.1759453+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 7927
+    },
+    {
+      "Time": "2022-09-09T01:00:44.6206515+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 7928
     }
   ],
   "Tags": [
@@ -2456,7 +2461,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 678
+      "Count": 692
     },
     {
       "Text": "This game has Quickly Understood Controls",
