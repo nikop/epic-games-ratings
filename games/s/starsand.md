@@ -1,6 +1,6 @@
 # Starsand
 Rating: 4.26 (27)  
-Ratings Per Day: 0.31  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
