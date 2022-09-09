@@ -3,10 +3,10 @@
   "Name": "VALORANT",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 139085,
-  "DailyRatings": 1353.79,
+  "NumberOfRatings": 139171,
+  "DailyRatings": 1350.01,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2022-09-08T22:02:32.3824124+00:00",
+  "LastChanged": "2022-09-09T00:02:06.1952702+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -2452,6 +2452,11 @@
       "Time": "2022-09-08T22:02:32.3824126+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 139085
+    },
+    {
+      "Time": "2022-09-09T00:02:06.1952704+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 139171
     }
   ],
   "Tags": [
@@ -2461,7 +2466,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 12188
+      "Count": 12369
     },
     {
       "Text": "This game has Competitive Players",
