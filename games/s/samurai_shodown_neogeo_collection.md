@@ -1,6 +1,6 @@
 # SAMURAI SHODOWN NEOGEO COLLECTION
 Rating: 4.49 (77)  
-Ratings Per Day: 0.86  
+Ratings Per Day: 0.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
