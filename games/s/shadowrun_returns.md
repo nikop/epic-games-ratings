@@ -1,6 +1,6 @@
 # Shadowrun Returns
-Rating: 4.46 (287)  
-Ratings Per Day: 2.81  
+Rating: 4.45 (288)  
+Ratings Per Day: 2.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -49,3 +49,4 @@ Ratings Per Day: 2.81
 | 2022-09-06 | 4.45 | 283 |
 | 2022-09-07 | 4.45 | 284 |
 | 2022-09-08 | 4.46 | 287 |
+| 2022-09-09 | 4.45 | 288 |

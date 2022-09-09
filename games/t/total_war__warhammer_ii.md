@@ -1,6 +1,6 @@
 # Total War: WARHAMMER II
-Rating: 4.81 (1 122)  
-Ratings Per Day: 6.70  
+Rating: 4.81 (1 123)  
+Ratings Per Day: 6.79  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -53,4 +53,4 @@ Ratings Per Day: 6.70
 | 2022-09-06 | 4.81 | 1 107 |
 | 2022-09-07 | 4.81 | 1 113 |
 | 2022-09-08 | 4.81 | 1 117 |
-| 2022-09-09 | 4.81 | 1 122 |
+| 2022-09-09 | 4.81 | 1 123 |

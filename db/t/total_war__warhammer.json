@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 7648,
-  "DailyRatings": 73.14,
+  "NumberOfRatings": 7654,
+  "DailyRatings": 73.22,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-09-09T19:01:49.7011487+00:00",
+  "LastChanged": "2022-09-09T20:31:08.2722925+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -2267,6 +2267,11 @@
       "Time": "2022-09-09T19:01:49.7011489+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 7648
+    },
+    {
+      "Time": "2022-09-09T20:31:08.2722926+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 7654
     }
   ],
   "Tags": [
