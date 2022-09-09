@@ -1,6 +1,6 @@
 # Insurmountable
 Rating: 4.20 (643)  
-Ratings Per Day: 5.27  
+Ratings Per Day: 5.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

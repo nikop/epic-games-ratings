@@ -1,6 +1,6 @@
 # My Time at Sandrock
 Rating: 4.68 (842)  
-Ratings Per Day: 6.57  
+Ratings Per Day: 6.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
