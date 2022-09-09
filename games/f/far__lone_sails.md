@@ -1,6 +1,6 @@
 # FAR: Lone Sails
-Rating: 4.87 (23)  
-Ratings Per Day: 0.98  
+Rating: 4.88 (24)  
+Ratings Per Day: 0.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.98
 | 2022-08-28 | 4.90 | 21 |
 | 2022-09-04 | 4.86 | 22 |
 | 2022-09-05 | 4.87 | 23 |
+| 2022-09-09 | 4.88 | 24 |
