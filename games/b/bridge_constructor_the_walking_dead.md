@@ -1,6 +1,6 @@
 # Bridge Constructor The Walking Dead
-Rating: 3.98 (97)  
-Ratings Per Day: 1.49  
+Rating: 3.98 (98)  
+Ratings Per Day: 1.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,3 +33,4 @@ Ratings Per Day: 1.49
 | 2022-09-06 | 3.99 | 94 |
 | 2022-09-07 | 4.01 | 96 |
 | 2022-09-08 | 3.98 | 97 |
+| 2022-09-09 | 3.98 | 98 |
