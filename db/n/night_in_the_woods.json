@@ -2,11 +2,11 @@
   "ID": "abd29ccc8c2a4a40a31f27de63cb0603",
   "Name": "Night in the Woods",
   "Names": [],
-  "Rating": 4.72,
-  "NumberOfRatings": 532,
-  "DailyRatings": 5.82,
+  "Rating": 4.71,
+  "NumberOfRatings": 539,
+  "DailyRatings": 6.34,
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
-  "LastChanged": "2022-09-08T10:32:27.3229755+00:00",
+  "LastChanged": "2022-09-09T02:02:06.1645513+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:36.368674+00:00",
@@ -307,12 +307,17 @@
       "Time": "2022-09-08T10:32:27.3229756+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 532
+    },
+    {
+      "Time": "2022-09-09T02:02:06.1645514+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 539
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 71
+      "Count": 72
     }
   ]
 }
