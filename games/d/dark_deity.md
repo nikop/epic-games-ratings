@@ -1,6 +1,6 @@
 # Dark Deity
 Rating: 4.35 (23)  
-Ratings Per Day: 0.50  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
