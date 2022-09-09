@@ -1,6 +1,6 @@
 # Destroy All Humans! 2 - Reprobed
 Rating: 4.56 (55)  
-Ratings Per Day: 4.81  
+Ratings Per Day: 4.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
