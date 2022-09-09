@@ -1,6 +1,6 @@
 # Might and Magic: Heroes VII - Ultimate Edition
-Rating: 4.33 (83)  
-Ratings Per Day: 0.20  
+Rating: 4.33 (84)  
+Ratings Per Day: 0.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Ratings Per Day: 0.20
 | 2022-09-02 | 4.33 | 81 |
 | 2022-09-03 | 4.33 | 82 |
 | 2022-09-08 | 4.33 | 83 |
+| 2022-09-09 | 4.33 | 84 |
