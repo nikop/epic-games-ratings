@@ -1,6 +1,6 @@
 # Vampire: The Masquerade – Swansong
-Rating: 4.19 (700)  
-Ratings Per Day: 3.05  
+Rating: 4.19 (703)  
+Ratings Per Day: 3.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -49,3 +49,4 @@ Ratings Per Day: 3.05
 | 2022-09-06 | 4.19 | 690 |
 | 2022-09-07 | 4.19 | 695 |
 | 2022-09-08 | 4.19 | 700 |
+| 2022-09-09 | 4.19 | 703 |

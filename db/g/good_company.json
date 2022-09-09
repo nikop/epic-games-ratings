@@ -3,10 +3,10 @@
   "Name": "Good Company",
   "Names": [],
   "Rating": 4.47,
-  "NumberOfRatings": 73,
-  "DailyRatings": 0.5,
+  "NumberOfRatings": 74,
+  "DailyRatings": 0.4,
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
-  "LastChanged": "2022-09-06T16:31:41.4175698+00:00",
+  "LastChanged": "2022-09-09T17:02:28.5355597+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:54.0503206+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-09-06T16:31:41.41757+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 73
+    },
+    {
+      "Time": "2022-09-09T17:02:28.5355598+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 74
     }
   ],
   "Tags": []

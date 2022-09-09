@@ -1,6 +1,6 @@
 # Ghost Recon Breakpoint Standard Edition
-Rating: 4.54 (4 438)  
-Ratings Per Day: 51.64  
+Rating: 4.54 (4 444)  
+Ratings Per Day: 51.88  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -53,4 +53,4 @@ Ratings Per Day: 51.64
 | 2022-09-06 | 4.54 | 4 301 |
 | 2022-09-07 | 4.54 | 4 357 |
 | 2022-09-08 | 4.54 | 4 395 |
-| 2022-09-09 | 4.54 | 4 438 |
+| 2022-09-09 | 4.54 | 4 444 |
