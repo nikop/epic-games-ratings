@@ -3,10 +3,10 @@
   "Name": "Batman Arkham Asylum Game of the Year Edition",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 1922,
-  "DailyRatings": 19.2,
+  "NumberOfRatings": 1928,
+  "DailyRatings": 18.9,
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2022-09-09T00:30:41.5553597+00:00",
+  "LastChanged": "2022-09-09T10:30:45.4608602+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:33.3768871+00:00",
@@ -482,12 +482,17 @@
       "Time": "2022-09-09T00:30:41.555365+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 1922
+    },
+    {
+      "Time": "2022-09-09T10:30:45.4608604+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 1928
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 300
+      "Count": 302
     }
   ]
 }
