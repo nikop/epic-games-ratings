@@ -2,12 +2,12 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "Names": [],
-  "Rating": 3.94,
-  "NumberOfRatings": 164,
-  "DailyRatings": 18.67,
+  "Rating": 3.93,
+  "NumberOfRatings": 167,
+  "DailyRatings": 18.77,
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
-  "LastChanged": "2022-09-09T15:00:44.2412348+00:00",
+  "LastChanged": "2022-09-09T18:00:44.2467284+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T02:01:46.3061228+00:00",
@@ -163,6 +163,11 @@
       "Time": "2022-09-09T15:00:44.2412351+00:00",
       "Rating": 3.94,
       "NumberOfRatings": 164
+    },
+    {
+      "Time": "2022-09-09T18:00:44.2467285+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": 167
     }
   ],
   "Tags": []

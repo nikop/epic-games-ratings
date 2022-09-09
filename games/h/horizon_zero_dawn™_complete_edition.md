@@ -1,6 +1,6 @@
 # Horizon Zero Dawn™ Complete Edition
-Rating: 4.77 (6 523)  
-Ratings Per Day: 34.52  
+Rating: 4.77 (6 543)  
+Ratings Per Day: 35.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -53,4 +53,4 @@ Ratings Per Day: 34.52
 | 2022-09-06 | 4.77 | 6 446 |
 | 2022-09-07 | 4.77 | 6 469 |
 | 2022-09-08 | 4.77 | 6 509 |
-| 2022-09-09 | 4.77 | 6 523 |
+| 2022-09-09 | 4.77 | 6 543 |

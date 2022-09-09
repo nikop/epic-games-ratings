@@ -3,11 +3,11 @@
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 69,
-  "DailyRatings": 19.28,
+  "NumberOfRatings": 70,
+  "DailyRatings": 19.2,
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2022-09-09T16:30:23.6684555+00:00",
+  "LastChanged": "2022-09-09T18:00:29.3378513+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-07T06:00:21.7269745+00:00",
@@ -63,6 +63,11 @@
       "Time": "2022-09-09T16:30:23.6684616+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 69
+    },
+    {
+      "Time": "2022-09-09T18:00:29.3378515+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 70
     }
   ],
   "Tags": []
