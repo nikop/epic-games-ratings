@@ -1,6 +1,6 @@
 # Chernobylite
-Rating: 4.02 (137)  
-Ratings Per Day: 0.60  
+Rating: 4.01 (139)  
+Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -45,3 +45,4 @@ Ratings Per Day: 0.60
 | 2022-09-04 | 4.04 | 135 |
 | 2022-09-05 | 4.03 | 136 |
 | 2022-09-08 | 4.02 | 137 |
+| 2022-09-09 | 4.01 | 139 |
