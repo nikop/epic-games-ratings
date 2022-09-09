@@ -1,6 +1,6 @@
 # Animation Throwdown: The Quest for Cards
-Rating: 4.34 (829)  
-Ratings Per Day: 3.42  
+Rating: 4.34 (830)  
+Ratings Per Day: 3.34  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -53,4 +53,4 @@ Ratings Per Day: 3.42
 | 2022-09-06 | 4.34 | 821 |
 | 2022-09-07 | 4.34 | 822 |
 | 2022-09-08 | 4.34 | 828 |
-| 2022-09-09 | 4.34 | 829 |
+| 2022-09-09 | 4.34 | 830 |
