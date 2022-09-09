@@ -1,6 +1,6 @@
 # Valiant Hearts: The Great War
 Rating: 4.74 (23)  
-Ratings Per Day: 0.55  
+Ratings Per Day: 0.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

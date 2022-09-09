@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER II",
   "Names": [],
   "Rating": 4.81,
-  "NumberOfRatings": 1119,
-  "DailyRatings": 7.21,
+  "NumberOfRatings": 1120,
+  "DailyRatings": 6.96,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-09-09T05:00:37.8451988+00:00",
+  "LastChanged": "2022-09-09T14:00:48.6877732+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -1107,6 +1107,11 @@
       "Time": "2022-09-09T05:00:37.845199+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 1119
+    },
+    {
+      "Time": "2022-09-09T14:00:48.6877733+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 1120
     }
   ],
   "Tags": [
@@ -1136,7 +1141,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 250
+      "Count": 257
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1144,11 +1149,11 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 264
+      "Count": 267
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 235
+      "Count": 237
     },
     {
       "Text": "This game has a Creative Community",

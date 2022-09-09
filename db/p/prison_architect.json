@@ -3,10 +3,10 @@
   "Name": "Prison Architect",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 4062,
-  "DailyRatings": 35.07,
+  "NumberOfRatings": 4066,
+  "DailyRatings": 34.47,
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2022-09-09T12:30:18.0420407+00:00",
+  "LastChanged": "2022-09-09T14:00:50.2716227+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -1717,6 +1717,11 @@
       "Time": "2022-09-09T12:30:18.0420416+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 4062
+    },
+    {
+      "Time": "2022-09-09T14:00:50.2716229+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 4066
     }
   ],
   "Tags": [
@@ -1746,7 +1751,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 149
+      "Count": 154
     },
     {
       "Text": "This game is Relaxing",
