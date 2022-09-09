@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.34,
   "NumberOfRatings": 829,
-  "DailyRatings": 3.77,
+  "DailyRatings": 3.42,
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
   "LastChanged": "2022-09-09T05:31:09.615041+00:00",
   "RatingHistory": [
@@ -803,7 +803,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 126
+      "Count": 128
     }
   ]
 }
