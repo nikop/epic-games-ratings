@@ -2,11 +2,11 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "Names": [],
-  "Rating": 4.46,
-  "NumberOfRatings": 421,
-  "DailyRatings": 2.54,
+  "Rating": 4.45,
+  "NumberOfRatings": 422,
+  "DailyRatings": 2.62,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-09-09T10:01:15.108144+00:00",
+  "LastChanged": "2022-09-09T14:30:43.1449501+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -522,6 +522,11 @@
       "Time": "2022-09-09T10:01:15.1081443+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 421
+    },
+    {
+      "Time": "2022-09-09T14:30:43.1449502+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 422
     }
   ],
   "Tags": [
@@ -551,7 +556,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 22
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",

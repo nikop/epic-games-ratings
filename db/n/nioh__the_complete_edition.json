@@ -2,11 +2,11 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 9508,
-  "DailyRatings": 93,
+  "Rating": 4.58,
+  "NumberOfRatings": 9514,
+  "DailyRatings": 91.55,
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2022-09-09T13:31:10.6926869+00:00",
+  "LastChanged": "2022-09-09T14:31:15.4464467+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:37.2904326+00:00",
@@ -2387,6 +2387,11 @@
       "Time": "2022-09-09T13:31:10.692687+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 9508
+    },
+    {
+      "Time": "2022-09-09T14:31:15.4464468+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 9514
     }
   ],
   "Tags": [
@@ -2404,7 +2409,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 299
+      "Count": 306
     },
     {
       "Text": "This game has Challenging Combat",
