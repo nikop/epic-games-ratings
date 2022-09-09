@@ -3,10 +3,10 @@
   "Name": "Risk of Rain 2",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 1265,
-  "DailyRatings": 4.42,
+  "NumberOfRatings": 1266,
+  "DailyRatings": 4.3,
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2022-09-08T20:32:43.6148447+00:00",
+  "LastChanged": "2022-09-09T06:31:31.8835021+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:31.4387687+00:00",
@@ -847,6 +847,11 @@
       "Time": "2022-09-08T20:32:43.6148448+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 1265
+    },
+    {
+      "Time": "2022-09-09T06:31:31.8835022+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 1266
     }
   ],
   "Tags": [
@@ -864,7 +869,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game is Highly Recommended",
@@ -872,7 +877,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 124
+      "Count": 125
     },
     {
       "Text": "This game has Amazing Characters",

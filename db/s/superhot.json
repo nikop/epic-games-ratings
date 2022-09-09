@@ -3,10 +3,10 @@
   "Name": "SUPERHOT",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 134,
-  "DailyRatings": 2.82,
+  "NumberOfRatings": 136,
+  "DailyRatings": 2.2,
   "FirstSeen": "2022-07-22T20:24:12.2504299+00:00",
-  "LastChanged": "2022-09-07T06:31:17.0821112+00:00",
+  "LastChanged": "2022-09-09T06:31:13.4675606+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:12.2504301+00:00",
@@ -172,6 +172,11 @@
       "Time": "2022-09-07T06:31:17.0821114+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 134
+    },
+    {
+      "Time": "2022-09-09T06:31:13.4675608+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 136
     }
   ],
   "Tags": []
