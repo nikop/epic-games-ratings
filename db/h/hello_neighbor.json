@@ -3,10 +3,10 @@
   "Name": "Hello Neighbor",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 1045,
-  "DailyRatings": 11.05,
+  "NumberOfRatings": 1046,
+  "DailyRatings": 11.06,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-09-09T15:31:26.9616173+00:00",
+  "LastChanged": "2022-09-09T17:32:53.8581527+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -967,6 +967,11 @@
       "Time": "2022-09-09T15:31:26.9616175+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 1045
+    },
+    {
+      "Time": "2022-09-09T17:32:53.858153+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 1046
     }
   ],
   "Tags": [

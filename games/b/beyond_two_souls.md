@@ -1,6 +1,6 @@
 # Beyond Two Souls
 Rating: 4.66 (305)  
-Ratings Per Day: 2.55  
+Ratings Per Day: 2.65  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
