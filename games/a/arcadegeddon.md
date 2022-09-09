@@ -1,6 +1,6 @@
 # Arcadegeddon
 Rating: 4.49 (780)  
-Ratings Per Day: 1.98  
+Ratings Per Day: 1.93  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
