@@ -3,10 +3,10 @@
   "Name": "Loop Hero",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 5705,
-  "DailyRatings": 54.2,
+  "NumberOfRatings": 5709,
+  "DailyRatings": 54.37,
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2022-09-09T16:32:15.1743214+00:00",
+  "LastChanged": "2022-09-09T18:32:13.6074325+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:49.2794884+00:00",
@@ -1907,6 +1907,11 @@
       "Time": "2022-09-09T16:32:15.1743215+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 5705
+    },
+    {
+      "Time": "2022-09-09T18:32:13.6074327+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 5709
     }
   ],
   "Tags": [
