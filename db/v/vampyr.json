@@ -3,10 +3,10 @@
   "Name": "Vampyr",
   "Names": [],
   "Rating": 4.31,
-  "NumberOfRatings": 4597,
-  "DailyRatings": 38.82,
+  "NumberOfRatings": 4603,
+  "DailyRatings": 37.71,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2022-09-08T23:32:33.0479572+00:00",
+  "LastChanged": "2022-09-09T08:02:26.9498443+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:20.353285+00:00",
@@ -817,12 +817,17 @@
       "Time": "2022-09-08T23:32:33.0479574+00:00",
       "Rating": 4.31,
       "NumberOfRatings": 4597
+    },
+    {
+      "Time": "2022-09-09T08:02:26.9498444+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 4603
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 271
+      "Count": 278
     }
   ]
 }

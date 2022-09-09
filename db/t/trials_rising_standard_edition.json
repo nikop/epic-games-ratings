@@ -3,11 +3,11 @@
   "Name": "Trials Rising Standard Edition",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 75,
-  "DailyRatings": 1.68,
+  "NumberOfRatings": 76,
+  "DailyRatings": 1.4,
   "FirstSeen": "2022-07-22T20:21:00.7497016+00:00",
   "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
-  "LastChanged": "2022-09-07T21:30:58.7474409+00:00",
+  "LastChanged": "2022-09-09T08:01:22.3094826+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-06T00:01:51.7192822+00:00",
@@ -143,6 +143,11 @@
       "Time": "2022-09-07T21:30:58.747441+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 75
+    },
+    {
+      "Time": "2022-09-09T08:01:22.3094831+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 76
     }
   ],
   "Tags": []
