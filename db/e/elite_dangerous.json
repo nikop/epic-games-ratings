@@ -3,10 +3,10 @@
   "Name": "Elite Dangerous",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 6247,
-  "DailyRatings": 53.48,
+  "NumberOfRatings": 6251,
+  "DailyRatings": 53.57,
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2022-09-09T18:00:52.9242018+00:00",
+  "LastChanged": "2022-09-09T19:31:27.6265199+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -2387,6 +2387,11 @@
       "Time": "2022-09-09T18:00:52.9242019+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 6247
+    },
+    {
+      "Time": "2022-09-09T19:31:27.6265204+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 6251
     }
   ],
   "Tags": [
@@ -2396,7 +2401,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 808
+      "Count": 829
     },
     {
       "Text": "This game has Challenging Combat",

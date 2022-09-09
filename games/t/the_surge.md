@@ -1,6 +1,6 @@
 # The Surge
 Rating: 4.49 (53)  
-Ratings Per Day: 1.22  
+Ratings Per Day: 1.28  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
