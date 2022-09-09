@@ -1,6 +1,6 @@
 # Yoku's Island Express
-Rating: 4.71 (311)  
-Ratings Per Day: 3.97  
+Rating: 4.71 (313)  
+Ratings Per Day: 3.27  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -50,3 +50,4 @@ Ratings Per Day: 3.97
 | 2022-09-05 | 4.70 | 306 |
 | 2022-09-06 | 4.71 | 309 |
 | 2022-09-07 | 4.71 | 311 |
+| 2022-09-09 | 4.71 | 313 |
