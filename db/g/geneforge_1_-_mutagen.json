@@ -3,10 +3,10 @@
   "Name": "Geneforge 1 - Mutagen",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 1067,
-  "DailyRatings": 1.89,
+  "NumberOfRatings": 1068,
+  "DailyRatings": 2.03,
   "FirstSeen": "2022-07-22T20:31:43.0453732+00:00",
-  "LastChanged": "2022-09-09T12:02:51.7819962+00:00",
+  "LastChanged": "2022-09-09T12:32:10.7903057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:43.0453736+00:00",
@@ -482,6 +482,11 @@
       "Time": "2022-09-09T12:02:51.7819964+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 1067
+    },
+    {
+      "Time": "2022-09-09T12:32:10.7903059+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 1068
     }
   ],
   "Tags": [

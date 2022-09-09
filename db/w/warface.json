@@ -2,11 +2,11 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "Names": [],
-  "Rating": 3.95,
-  "NumberOfRatings": 2742,
-  "DailyRatings": 25.39,
+  "Rating": 3.96,
+  "NumberOfRatings": 2745,
+  "DailyRatings": 25.02,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-09-09T08:32:08.6035711+00:00",
+  "LastChanged": "2022-09-09T12:32:09.7848767+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -1562,6 +1562,11 @@
       "Time": "2022-09-09T08:32:08.6035712+00:00",
       "Rating": 3.95,
       "NumberOfRatings": 2742
+    },
+    {
+      "Time": "2022-09-09T12:32:09.7848769+00:00",
+      "Rating": 3.96,
+      "NumberOfRatings": 2745
     }
   ],
   "Tags": [
@@ -1579,7 +1584,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 147
+      "Count": 149
     },
     {
       "Text": "This game is Great for Beginners",
