@@ -3,10 +3,10 @@
   "Name": "The Witness",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 459,
-  "DailyRatings": 3.13,
+  "NumberOfRatings": 460,
+  "DailyRatings": 3.09,
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2022-09-10T05:31:24.3978469+00:00",
+  "LastChanged": "2022-09-10T15:00:27.5259748+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:54.428207+00:00",
@@ -307,12 +307,17 @@
       "Time": "2022-09-10T05:31:24.3978472+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 459
+    },
+    {
+      "Time": "2022-09-10T15:00:27.525975+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 460
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 96
+      "Count": 98
     }
   ]
 }
