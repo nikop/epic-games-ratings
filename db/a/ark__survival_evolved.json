@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.62,
   "NumberOfRatings": 34590,
-  "DailyRatings": 132.86,
+  "DailyRatings": 132.96,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
   "LastChanged": "2022-09-10T10:30:37.6329142+00:00",
   "RatingHistory": [
@@ -2866,7 +2866,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 9277
+      "Count": 9333
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2882,7 +2882,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 9061
+      "Count": 9121
     },
     {
       "Text": "This game has Amazing Storytelling",
