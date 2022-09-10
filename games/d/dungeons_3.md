@@ -1,6 +1,6 @@
 # Dungeons 3
 Rating: 4.67 (1 450)  
-Ratings Per Day: 15.80  
+Ratings Per Day: 15.64  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

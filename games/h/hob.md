@@ -1,6 +1,6 @@
 # Hob
 Rating: 4.61 (412)  
-Ratings Per Day: 2.79  
+Ratings Per Day: 2.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

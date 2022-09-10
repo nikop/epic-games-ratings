@@ -1,6 +1,6 @@
 # Tetris® Effect: Connected
-Rating: 4.85 (250)  
-Ratings Per Day: 1.22  
+Rating: 4.85 (251)  
+Ratings Per Day: 1.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,4 +42,4 @@ Ratings Per Day: 1.22
 | 2022-09-07 | 4.85 | 246 |
 | 2022-09-08 | 4.85 | 247 |
 | 2022-09-09 | 4.85 | 248 |
-| 2022-09-10 | 4.85 | 250 |
+| 2022-09-10 | 4.85 | 251 |
