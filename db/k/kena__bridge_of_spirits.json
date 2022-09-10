@@ -3,10 +3,10 @@
   "Name": "Kena: Bridge of Spirits",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 3051,
-  "DailyRatings": 31.58,
+  "NumberOfRatings": 3057,
+  "DailyRatings": 30.53,
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
-  "LastChanged": "2022-09-09T23:31:02.4774134+00:00",
+  "LastChanged": "2022-09-10T09:30:40.1875631+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:51.8985807+00:00",
@@ -722,6 +722,11 @@
       "Time": "2022-09-09T23:31:02.4774141+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 3051
+    },
+    {
+      "Time": "2022-09-10T09:30:40.1875633+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 3057
     }
   ],
   "Tags": [
@@ -735,7 +740,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 21
+      "Count": 22
     }
   ]
 }
