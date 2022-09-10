@@ -1,6 +1,6 @@
 # Black Book
-Rating: 4.88 (83)  
-Ratings Per Day: 0.86  
+Rating: 4.88 (84)  
+Ratings Per Day: 0.47  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,3 +27,4 @@ Ratings Per Day: 0.86
 | 2022-08-26 | 4.88 | 80 |
 | 2022-09-04 | 4.88 | 82 |
 | 2022-09-06 | 4.88 | 83 |
+| 2022-09-10 | 4.88 | 84 |

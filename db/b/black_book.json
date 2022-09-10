@@ -3,10 +3,10 @@
   "Name": "Black Book",
   "Names": [],
   "Rating": 4.88,
-  "NumberOfRatings": 83,
-  "DailyRatings": 0.86,
+  "NumberOfRatings": 84,
+  "DailyRatings": 0.47,
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
-  "LastChanged": "2022-09-06T19:01:07.2335049+00:00",
+  "LastChanged": "2022-09-10T19:30:37.7672589+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:55.4349566+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-09-06T19:01:07.233505+00:00",
       "Rating": 4.88,
       "NumberOfRatings": 83
+    },
+    {
+      "Time": "2022-09-10T19:30:37.7672593+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": 84
     }
   ],
   "Tags": []
