@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.57,
   "NumberOfRatings": 53478,
-  "DailyRatings": 288.72,
+  "DailyRatings": 286.99,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "LastChanged": "2022-09-10T01:00:57.3465176+00:00",
   "RatingHistory": [
@@ -2330,7 +2330,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 3063
+      "Count": 3131
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2366,11 +2366,11 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 2956
+      "Count": 3023
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 2194
+      "Count": 2234
     }
   ]
 }
