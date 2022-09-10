@@ -3,10 +3,10 @@
   "Name": "Unreal Tournament",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 995,
-  "DailyRatings": 6.73,
+  "NumberOfRatings": 996,
+  "DailyRatings": 6.82,
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
-  "LastChanged": "2022-09-09T23:00:57.0275941+00:00",
+  "LastChanged": "2022-09-10T00:30:51.6830825+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:08.0500863+00:00",
@@ -1117,6 +1117,11 @@
       "Time": "2022-09-09T23:00:57.0275942+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 995
+    },
+    {
+      "Time": "2022-09-10T00:30:51.6830827+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 996
     }
   ],
   "Tags": [

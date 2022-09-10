@@ -1,6 +1,6 @@
 # WRC 10 FIA World Rally Championship
-Rating: 4.53 (227)  
-Ratings Per Day: 2.33  
+Rating: 4.52 (229)  
+Ratings Per Day: 2.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -47,3 +47,4 @@ Ratings Per Day: 2.33
 | 2022-09-06 | 4.53 | 224 |
 | 2022-09-07 | 4.52 | 225 |
 | 2022-09-08 | 4.53 | 227 |
+| 2022-09-10 | 4.52 | 229 |
