@@ -1,16 +1,16 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.59 | 78 | 19.62 |
+| 1 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.59 | 79 | 17.88 |
 | 2 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.67 | 350 | 93.69 |
 | 3 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.93 | 180 | 20.46 |
 | 4 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 55 | 4.44 |
-| 5 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 490 | 40.55 |
+| 5 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 490 | 40.24 |
 | 6 | [Travellers Rest](games/t/travellers_rest.md) | 4.51 | 39 | 2.51 |
-| 7 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 12 621 | 619.25 |
+| 7 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 12 660 | 610.82 |
 | 8 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 26 289 | 994.10 |
-| 9 | [Saints Row](games/s/saints_row.md) | 3.76 | 19 201 | 538.47 |
+| 9 | [Saints Row](games/s/saints_row.md) | 3.76 | 19 240 | 536.03 |
 | 10 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 138 | 4.56 |
-| 11 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.11 | 238 | 18.13 |
+| 11 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.12 | 243 | 18.68 |
 | 12 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 78 | 2.20 |
 | 13 | [DOOM II](games/d/doom_ii.md) | 4.84 | 32 | 1.39 |
 | 14 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 514 | 88.93 |
@@ -20,4 +20,4 @@
 | 18 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.48 | 1 862 | 19.29 |
 | 19 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 54 377 | 1029.67 |
 | 20 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 915 | 17.84 |
-| 21 | [MultiVersus](games/m/multiversus.md) | 4.57 | 53 531 | 294.58 |
+| 21 | [MultiVersus](games/m/multiversus.md) | 4.57 | 53 569 | 290.31 |
