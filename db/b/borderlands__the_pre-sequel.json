@@ -3,10 +3,10 @@
   "Name": "Borderlands: The Pre-Sequel",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 2705,
-  "DailyRatings": 19.99,
+  "NumberOfRatings": 2709,
+  "DailyRatings": 19.77,
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2022-09-10T16:01:37.3621116+00:00",
+  "LastChanged": "2022-09-10T20:02:32.5262323+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:28.4538343+00:00",
@@ -1652,6 +1652,11 @@
       "Time": "2022-09-10T16:01:37.3621117+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 2705
+    },
+    {
+      "Time": "2022-09-10T20:02:32.5262324+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 2709
     }
   ],
   "Tags": [

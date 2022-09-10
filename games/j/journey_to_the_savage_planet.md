@@ -1,6 +1,6 @@
 # Journey to the Savage Planet
-Rating: 4.68 (96)  
-Ratings Per Day: 0.94  
+Rating: 4.68 (97)  
+Ratings Per Day: 0.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Ratings Per Day: 0.94
 | 2022-09-04 | 4.70 | 91 |
 | 2022-09-07 | 4.68 | 95 |
 | 2022-09-09 | 4.68 | 96 |
+| 2022-09-10 | 4.68 | 97 |

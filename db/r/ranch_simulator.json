@@ -2,11 +2,11 @@
   "ID": "6a9d6df3f6f74983a7d77861ccfcf50b",
   "Name": "Ranch Simulator",
   "Names": [],
-  "Rating": 4.44,
-  "NumberOfRatings": 312,
-  "DailyRatings": 1.3,
+  "Rating": 4.43,
+  "NumberOfRatings": 313,
+  "DailyRatings": 1.36,
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2022-09-10T17:30:41.2550736+00:00",
+  "LastChanged": "2022-09-10T20:02:11.8511333+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:57.8144751+00:00",
@@ -312,6 +312,11 @@
       "Time": "2022-09-10T17:30:41.2550737+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 312
+    },
+    {
+      "Time": "2022-09-10T20:02:11.8511334+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 313
     }
   ],
   "Tags": [
@@ -321,7 +326,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Obsessive Gameplay",
