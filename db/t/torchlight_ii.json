@@ -3,10 +3,10 @@
   "Name": "Torchlight II",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 2043,
-  "DailyRatings": 18.14,
+  "NumberOfRatings": 2050,
+  "DailyRatings": 17.89,
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-09-09T21:32:26.4018479+00:00",
+  "LastChanged": "2022-09-10T09:02:12.7975899+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -972,6 +972,11 @@
       "Time": "2022-09-09T21:32:26.401848+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 2043
+    },
+    {
+      "Time": "2022-09-10T09:02:12.79759+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 2050
     }
   ],
   "Tags": [
@@ -1001,7 +1006,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
