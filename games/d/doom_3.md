@@ -1,6 +1,6 @@
 # DOOM 3
-Rating: 4.57 (70)  
-Ratings Per Day: 2.74  
+Rating: 4.58 (71)  
+Ratings Per Day: 2.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -19,4 +19,4 @@ Ratings Per Day: 2.74
 | 2022-09-07 | 4.54 | 65 |
 | 2022-09-08 | 4.55 | 67 |
 | 2022-09-09 | 4.56 | 68 |
-| 2022-09-10 | 4.57 | 70 |
+| 2022-09-10 | 4.58 | 71 |

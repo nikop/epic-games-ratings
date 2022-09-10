@@ -1,6 +1,6 @@
 # Legend of Keepers
-Rating: 4.47 (36)  
-Ratings Per Day: 0.82  
+Rating: 4.49 (37)  
+Ratings Per Day: 0.73  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.82
 | 2022-09-06 | 4.47 | 34 |
 | 2022-09-07 | 4.46 | 35 |
 | 2022-09-08 | 4.47 | 36 |
+| 2022-09-10 | 4.49 | 37 |

@@ -3,10 +3,10 @@
   "Name": "Europa Universalis IV",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 7733,
-  "DailyRatings": 52.06,
+  "NumberOfRatings": 7740,
+  "DailyRatings": 52.44,
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
-  "LastChanged": "2022-09-10T14:00:18.6419718+00:00",
+  "LastChanged": "2022-09-10T16:00:53.7526451+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.709272+00:00",
@@ -2302,6 +2302,11 @@
       "Time": "2022-09-10T14:00:18.6419721+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 7733
+    },
+    {
+      "Time": "2022-09-10T16:00:53.7526455+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 7740
     }
   ],
   "Tags": [
@@ -2343,7 +2348,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1830
+      "Count": 1858
     },
     {
       "Text": "This game has Unique Visuals",
