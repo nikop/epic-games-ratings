@@ -1,6 +1,6 @@
 # Blair Witch
 Rating: 4.18 (573)  
-Ratings Per Day: 3.86  
+Ratings Per Day: 3.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
