@@ -2,11 +2,11 @@
   "ID": "ff8c96d781824ba1ae62d18d207fc52e",
   "Name": "Mortal Shell",
   "Names": [],
-  "Rating": 4.35,
-  "NumberOfRatings": 199,
-  "DailyRatings": 2.24,
+  "Rating": 4.36,
+  "NumberOfRatings": 200,
+  "DailyRatings": 2.13,
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2022-09-09T08:01:12.6262479+00:00",
+  "LastChanged": "2022-09-10T02:00:39.627418+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:45.0826325+00:00",
@@ -272,6 +272,11 @@
       "Time": "2022-09-09T08:01:12.6262481+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 199
+    },
+    {
+      "Time": "2022-09-10T02:00:39.6274181+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 200
     }
   ],
   "Tags": [
