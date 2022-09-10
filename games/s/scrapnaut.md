@@ -1,5 +1,5 @@
 # Scrapnaut
-Rating: 4.39 (36)  
+Rating: 4.38 (37)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.00
 | 2022-08-19 | 4.44 | 34 |
 | 2022-08-27 | 4.40 | 35 |
 | 2022-08-29 | 4.39 | 36 |
+| 2022-09-10 | 4.38 | 37 |

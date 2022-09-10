@@ -1,6 +1,6 @@
 # Five Nights at Freddy's: Security Breach
-Rating: 4.57 (150)  
-Ratings Per Day: 1.38  
+Rating: 4.57 (152)  
+Ratings Per Day: 1.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -41,3 +41,4 @@ Ratings Per Day: 1.38
 | 2022-09-06 | 4.58 | 147 |
 | 2022-09-07 | 4.58 | 149 |
 | 2022-09-08 | 4.57 | 150 |
+| 2022-09-10 | 4.57 | 152 |
