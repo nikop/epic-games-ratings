@@ -3,10 +3,10 @@
   "Name": "Evil Dead: The Game",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 8851,
-  "DailyRatings": 24.15,
+  "NumberOfRatings": 8853,
+  "DailyRatings": 24.22,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2022-09-10T14:00:34.1361359+00:00",
+  "LastChanged": "2022-09-10T15:30:55.6812015+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -1837,6 +1837,11 @@
       "Time": "2022-09-10T14:00:34.136136+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 8851
+    },
+    {
+      "Time": "2022-09-10T15:30:55.681202+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 8853
     }
   ],
   "Tags": [

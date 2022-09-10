@@ -3,10 +3,10 @@
   "Name": "BIOMUTANT",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 188,
-  "DailyRatings": 1.52,
+  "NumberOfRatings": 189,
+  "DailyRatings": 1.44,
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
-  "LastChanged": "2022-09-09T15:31:20.6283331+00:00",
+  "LastChanged": "2022-09-10T15:31:16.5827641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.6090067+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-09-09T15:31:20.6283332+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 188
+    },
+    {
+      "Time": "2022-09-10T15:31:16.5827642+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 189
     }
   ],
   "Tags": [

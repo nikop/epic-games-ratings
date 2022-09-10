@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 80964,
-  "DailyRatings": 109.69,
+  "NumberOfRatings": 80970,
+  "DailyRatings": 110.23,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-09-10T15:01:22.8094277+00:00",
+  "LastChanged": "2022-09-10T15:31:44.0146028+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -1327,6 +1327,11 @@
       "Time": "2022-09-10T15:01:22.8094279+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 80964
+    },
+    {
+      "Time": "2022-09-10T15:31:44.0146029+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 80970
     }
   ],
   "Tags": [
