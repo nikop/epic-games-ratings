@@ -3,10 +3,10 @@
   "Name": "The Division 2 Standard Edition",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 6221,
-  "DailyRatings": 43.46,
+  "NumberOfRatings": 6222,
+  "DailyRatings": 43.22,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-09-10T17:02:01.577059+00:00",
+  "LastChanged": "2022-09-10T18:30:58.3420668+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -2387,6 +2387,11 @@
       "Time": "2022-09-10T17:02:01.5770591+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 6221
+    },
+    {
+      "Time": "2022-09-10T18:30:58.342067+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 6222
     }
   ],
   "Tags": [
@@ -2424,7 +2429,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 365
+      "Count": 371
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2436,7 +2441,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 371
+      "Count": 379
     }
   ]
 }

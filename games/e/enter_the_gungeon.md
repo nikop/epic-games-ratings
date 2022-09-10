@@ -1,6 +1,6 @@
 # Enter the Gungeon
 Rating: 4.85 (7 946)  
-Ratings Per Day: 61.91  
+Ratings Per Day: 61.74  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # Call of the Wild: The Angler™
 Rating: 3.92 (183)  
-Ratings Per Day: 19.52  
+Ratings Per Day: 19.05  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

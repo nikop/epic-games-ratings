@@ -1,6 +1,6 @@
 # NBA 2K21
 Rating: 4.40 (41 173)  
-Ratings Per Day: 195.49  
+Ratings Per Day: 197.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
