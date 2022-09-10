@@ -1,6 +1,6 @@
 # Batman Arkham City Game of the Year Edition
 Rating: 4.78 (2 568)  
-Ratings Per Day: 24.93  
+Ratings Per Day: 25.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
