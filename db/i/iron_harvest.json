@@ -2,11 +2,11 @@
   "ID": "f312bc218b1d46f7921619cc9f3bf3c7",
   "Name": "Iron Harvest",
   "Names": [],
-  "Rating": 4.33,
-  "NumberOfRatings": 150,
-  "DailyRatings": 0.85,
+  "Rating": 4.32,
+  "NumberOfRatings": 151,
+  "DailyRatings": 0.88,
   "FirstSeen": "2022-07-22T20:22:43.0842749+00:00",
-  "LastChanged": "2022-09-09T21:01:02.9825985+00:00",
+  "LastChanged": "2022-09-10T21:01:04.5548344+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:43.0842752+00:00",
@@ -202,6 +202,11 @@
       "Time": "2022-09-09T21:01:02.9825987+00:00",
       "Rating": 4.33,
       "NumberOfRatings": 150
+    },
+    {
+      "Time": "2022-09-10T21:01:04.5548345+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 151
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "Names": [],
-  "Rating": 4.57,
-  "NumberOfRatings": 482,
-  "DailyRatings": 5.14,
+  "Rating": 4.58,
+  "NumberOfRatings": 486,
+  "DailyRatings": 5.02,
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
-  "LastChanged": "2022-09-09T22:31:08.8974099+00:00",
+  "LastChanged": "2022-09-10T21:01:05.7445917+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:49.7160328+00:00",
@@ -302,6 +302,11 @@
       "Time": "2022-09-09T22:31:08.89741+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 482
+    },
+    {
+      "Time": "2022-09-10T21:01:05.744592+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 486
     }
   ],
   "Tags": []
