@@ -1,6 +1,6 @@
 # DOOM 64
 Rating: 4.66 (4 553)  
-Ratings Per Day: 86.78  
+Ratings Per Day: 86.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
