@@ -1,6 +1,6 @@
 # Sid Meier’s Civilization® VI
-Rating: 4.73 (53 411)  
-Ratings Per Day: 430.86  
+Rating: 4.73 (53 439)  
+Ratings Per Day: 432.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -54,4 +54,4 @@ Ratings Per Day: 430.86
 | 2022-09-07 | 4.73 | 52 302 |
 | 2022-09-08 | 4.73 | 52 718 |
 | 2022-09-09 | 4.73 | 53 189 |
-| 2022-09-10 | 4.73 | 53 411 |
+| 2022-09-10 | 4.73 | 53 439 |
