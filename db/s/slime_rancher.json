@@ -3,10 +3,10 @@
   "Name": "Slime Rancher",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 5127,
-  "DailyRatings": 61.15,
+  "NumberOfRatings": 5133,
+  "DailyRatings": 61.28,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-09-10T21:01:07.1232869+00:00",
+  "LastChanged": "2022-09-10T23:01:17.8449754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -1717,6 +1717,11 @@
       "Time": "2022-09-10T21:01:07.1232871+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 5127
+    },
+    {
+      "Time": "2022-09-10T23:01:17.8449755+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 5133
     }
   ],
   "Tags": [
@@ -1726,7 +1731,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 150
+      "Count": 152
     },
     {
       "Text": "This game is Relaxing",
