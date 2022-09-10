@@ -1,6 +1,6 @@
 # World of Goo
 Rating: 4.69 (42)  
-Ratings Per Day: 0.48  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

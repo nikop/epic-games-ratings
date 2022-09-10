@@ -3,10 +3,10 @@
   "Name": "Ooblets",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 1032,
-  "DailyRatings": 44.17,
+  "NumberOfRatings": 1042,
+  "DailyRatings": 44.29,
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-09-09T23:32:04.4221988+00:00",
+  "LastChanged": "2022-09-10T04:31:56.3428424+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -732,6 +732,11 @@
       "Time": "2022-09-09T23:32:04.422199+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 1032
+    },
+    {
+      "Time": "2022-09-10T04:31:56.3428426+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 1042
     }
   ],
   "Tags": [
@@ -761,7 +766,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 20
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
