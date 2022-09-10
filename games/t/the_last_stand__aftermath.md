@@ -1,6 +1,6 @@
 # The Last Stand: Aftermath
-Rating: 4.49 (41)  
-Ratings Per Day: 1.09  
+Rating: 4.50 (42)  
+Ratings Per Day: 0.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 1.09
 | 2022-09-05 | 4.45 | 38 |
 | 2022-09-06 | 4.46 | 39 |
 | 2022-09-08 | 4.49 | 41 |
+| 2022-09-10 | 4.50 | 42 |
