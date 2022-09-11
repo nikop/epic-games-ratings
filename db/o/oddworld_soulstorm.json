@@ -2,11 +2,11 @@
   "ID": "e099f2abf3324d248054bf14c476fbc0",
   "Name": "Oddworld Soulstorm",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 64,
-  "DailyRatings": 0.73,
+  "Rating": 4.68,
+  "NumberOfRatings": 65,
+  "DailyRatings": 0.77,
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
-  "LastChanged": "2022-09-10T05:02:24.5937642+00:00",
+  "LastChanged": "2022-09-11T05:02:25.7900369+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:54.3777283+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-09-10T05:02:24.5937644+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 64
+    },
+    {
+      "Time": "2022-09-11T05:02:25.7900371+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 65
     }
   ],
   "Tags": [
