@@ -1,6 +1,6 @@
 # Torchlight
 Rating: 4.41 (111)  
-Ratings Per Day: 1.17  
+Ratings Per Day: 1.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
