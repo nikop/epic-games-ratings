@@ -3,10 +3,10 @@
   "Name": "Darksiders III",
   "Names": [],
   "Rating": 4.48,
-  "NumberOfRatings": 107,
-  "DailyRatings": 1.17,
+  "NumberOfRatings": 106,
+  "DailyRatings": 0.97,
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
-  "LastChanged": "2022-09-11T17:30:50.0879059+00:00",
+  "LastChanged": "2022-09-11T18:00:45.1865875+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:42.0719798+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-09-11T17:30:50.0879061+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 107
+    },
+    {
+      "Time": "2022-09-11T18:00:45.1865876+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 106
     }
   ],
   "Tags": [
