@@ -8,8 +8,8 @@
 | 6 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 515 | 39.46 |
 | 7 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 45 | 3.85 |
 | 8 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 12 869 | 555.11 |
-| 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 26 811 | 917.93 |
-| 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 19 466 | 493.61 |
+| 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 26 830 | 915.12 |
+| 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 19 466 | 495.02 |
 | 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 145 | 5.01 |
 | 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.17 | 287 | 24.07 |
 | 13 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 80 | 1.36 |
