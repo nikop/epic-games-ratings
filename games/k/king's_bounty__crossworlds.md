@@ -1,8 +1,9 @@
 # King's Bounty: Crossworlds
-Rating: 4.71 (21)  
-Ratings Per Day: 0.62  
+Rating: 4.73 (22)  
+Ratings Per Day: 0.36  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-09-05 | 4.70 | 20 |
 | 2022-09-07 | 4.71 | 21 |
+| 2022-09-11 | 4.73 | 22 |
