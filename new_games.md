@@ -7,11 +7,11 @@
 | 5 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 64 | 4.11 |
 | 6 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 543 | 36.33 |
 | 7 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 45 | 3.85 |
-| 8 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 13 061 | 475.91 |
+| 8 | [Ring of Pain](games/r/ring_of_pain.md) | 4.56 | 13 090 | 471.20 |
 | 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 27 271 | 810.27 |
 | 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 19 734 | 420.60 |
-| 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 148 | 4.81 |
-| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.16 | 343 | 30.64 |
+| 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 148 | 5.21 |
+| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.16 | 353 | 31.46 |
 | 13 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 80 | 1.25 |
 | 14 | [DOOM II](games/d/doom_ii.md) | 4.86 | 36 | 1.33 |
 | 15 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 616 | 70.00 |
