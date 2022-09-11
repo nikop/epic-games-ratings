@@ -3,10 +3,10 @@
   "Name": "Sheltered",
   "Names": [],
   "Rating": 4.43,
-  "NumberOfRatings": 778,
-  "DailyRatings": 5.92,
+  "NumberOfRatings": 782,
+  "DailyRatings": 5.78,
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
-  "LastChanged": "2022-09-10T15:30:40.2553456+00:00",
+  "LastChanged": "2022-09-11T11:30:20.2281359+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.2392679+00:00",
@@ -472,6 +472,11 @@
       "Time": "2022-09-10T15:30:40.2553459+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 778
+    },
+    {
+      "Time": "2022-09-11T11:30:20.2281362+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 782
     }
   ],
   "Tags": [

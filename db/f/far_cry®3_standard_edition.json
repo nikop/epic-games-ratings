@@ -3,10 +3,10 @@
   "Name": "Far Cry\u00AE3 Standard Edition",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 453,
-  "DailyRatings": 7.69,
+  "NumberOfRatings": 456,
+  "DailyRatings": 7.54,
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2022-09-10T23:01:31.0506432+00:00",
+  "LastChanged": "2022-09-11T11:31:25.7146162+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -382,6 +382,11 @@
       "Time": "2022-09-10T23:01:31.0506434+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 453
+    },
+    {
+      "Time": "2022-09-11T11:31:25.7146163+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 456
     }
   ],
   "Tags": [

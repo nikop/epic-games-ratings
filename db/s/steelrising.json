@@ -2,17 +2,22 @@
   "ID": "ae6aa949a2874b5fa15e8ab96bd77fee",
   "Name": "Steelrising",
   "Names": [],
-  "Rating": 4.32,
-  "NumberOfRatings": 22,
-  "DailyRatings": 0,
+  "Rating": 4.26,
+  "NumberOfRatings": 31,
+  "DailyRatings": 12,
   "FirstSeen": "2022-09-08T17:01:22.0375531+00:00",
   "FirstSeenRating": "2022-09-10T17:30:37.2290833+00:00",
-  "LastChanged": "2022-09-10T17:30:37.2290835+00:00",
+  "LastChanged": "2022-09-11T11:30:40.9311402+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-10T17:30:37.2290836+00:00",
       "Rating": 4.32,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-09-11T11:30:40.9311404+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 31
     }
   ],
   "Tags": []
