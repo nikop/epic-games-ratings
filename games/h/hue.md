@@ -1,6 +1,6 @@
 # Hue
-Rating: 4.54 (391)  
-Ratings Per Day: 3.65  
+Rating: 4.54 (393)  
+Ratings Per Day: 3.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -54,3 +54,4 @@ Ratings Per Day: 3.65
 | 2022-09-08 | 4.55 | 383 |
 | 2022-09-09 | 4.55 | 387 |
 | 2022-09-10 | 4.54 | 391 |
+| 2022-09-11 | 4.54 | 393 |
