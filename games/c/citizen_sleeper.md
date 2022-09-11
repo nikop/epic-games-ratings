@@ -1,6 +1,6 @@
 # Citizen Sleeper
-Rating: 4.75 (32)  
-Ratings Per Day: 0.00  
+Rating: 4.76 (33)  
+Ratings Per Day: 0.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Ratings Per Day: 0.00
 | 2022-08-24 | 4.77 | 30 |
 | 2022-08-25 | 4.77 | 31 |
 | 2022-09-05 | 4.75 | 32 |
+| 2022-09-11 | 4.76 | 33 |
