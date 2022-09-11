@@ -1,6 +1,6 @@
 # Neon Abyss
 Rating: 4.68 (7 736)  
-Ratings Per Day: 59.10  
+Ratings Per Day: 58.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
