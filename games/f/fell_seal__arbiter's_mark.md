@@ -1,6 +1,6 @@
 # Fell Seal: Arbiter's Mark
-Rating: 4.61 (36)  
-Ratings Per Day: 0.55  
+Rating: 4.59 (37)  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.55
 | 2022-09-04 | 4.59 | 34 |
 | 2022-09-05 | 4.60 | 35 |
 | 2022-09-07 | 4.61 | 36 |
+| 2022-09-11 | 4.59 | 37 |
