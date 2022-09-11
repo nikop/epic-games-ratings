@@ -3,10 +3,10 @@
   "Name": "Dead by Daylight",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 66449,
-  "DailyRatings": 420.79,
+  "NumberOfRatings": 66478,
+  "DailyRatings": 422.43,
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
-  "LastChanged": "2022-09-11T00:30:24.9312553+00:00",
+  "LastChanged": "2022-09-11T01:30:27.093263+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:36.44586+00:00",
@@ -2622,6 +2622,11 @@
       "Time": "2022-09-11T00:30:24.9312557+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 66449
+    },
+    {
+      "Time": "2022-09-11T01:30:27.0932633+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 66478
     }
   ],
   "Tags": [
