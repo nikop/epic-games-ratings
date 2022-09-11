@@ -2,12 +2,12 @@
   "ID": "5bfa503eec24408ba1723b81117520e5",
   "Name": "DOOM II",
   "Names": [],
-  "Rating": 4.85,
-  "NumberOfRatings": 34,
-  "DailyRatings": 1.33,
+  "Rating": 4.86,
+  "NumberOfRatings": 36,
+  "DailyRatings": 1.43,
   "FirstSeen": "2022-08-18T20:02:33.9663963+00:00",
   "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
-  "LastChanged": "2022-09-10T17:31:50.56401+00:00",
+  "LastChanged": "2022-09-11T17:32:19.622182+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-01T17:32:34.644724+00:00",
@@ -53,6 +53,11 @@
       "Time": "2022-09-10T17:31:50.5640102+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-09-11T17:32:19.6221822+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 36
     }
   ],
   "Tags": []

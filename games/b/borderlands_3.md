@@ -1,6 +1,6 @@
 # Borderlands 3
 Rating: 4.69 (145 772)  
-Ratings Per Day: 548.01  
+Ratings Per Day: 540.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
