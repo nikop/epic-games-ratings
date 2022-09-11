@@ -2,11 +2,11 @@
   "ID": "hibiscus",
   "Name": "Oxenfree",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 91,
-  "DailyRatings": 1.33,
+  "Rating": 4.58,
+  "NumberOfRatings": 92,
+  "DailyRatings": 1.29,
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
-  "LastChanged": "2022-09-10T23:32:22.7309134+00:00",
+  "LastChanged": "2022-09-11T23:32:42.7299439+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:37.999966+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-09-10T23:32:22.7309136+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 91
+    },
+    {
+      "Time": "2022-09-11T23:32:42.729944+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 92
     }
   ],
   "Tags": []
