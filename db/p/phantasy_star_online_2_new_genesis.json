@@ -3,10 +3,10 @@
   "Name": "Phantasy Star Online 2 New Genesis",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 642,
-  "DailyRatings": 4.65,
+  "NumberOfRatings": 643,
+  "DailyRatings": 4.7,
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2022-09-11T11:00:21.6064501+00:00",
+  "LastChanged": "2022-09-11T14:30:25.8310532+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.1466756+00:00",
@@ -722,6 +722,11 @@
       "Time": "2022-09-11T11:00:21.6064503+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 642
+    },
+    {
+      "Time": "2022-09-11T14:30:25.8310533+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 643
     }
   ],
   "Tags": [

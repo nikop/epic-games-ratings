@@ -1,6 +1,6 @@
 # Darkest Dungeon®
-Rating: 4.75 (4 970)  
-Ratings Per Day: 43.11  
+Rating: 4.75 (4 973)  
+Ratings Per Day: 43.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -55,4 +55,4 @@ Ratings Per Day: 43.11
 | 2022-09-08 | 4.75 | 4 860 |
 | 2022-09-09 | 4.75 | 4 917 |
 | 2022-09-10 | 4.75 | 4 944 |
-| 2022-09-11 | 4.75 | 4 970 |
+| 2022-09-11 | 4.75 | 4 973 |

@@ -1,6 +1,6 @@
 # Phantasy Star Online 2 New Genesis
-Rating: 4.52 (642)  
-Ratings Per Day: 4.65  
+Rating: 4.52 (643)  
+Ratings Per Day: 4.70  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -53,4 +53,4 @@ Ratings Per Day: 4.65
 | 2022-09-08 | 4.52 | 629 |
 | 2022-09-09 | 4.52 | 634 |
 | 2022-09-10 | 4.51 | 636 |
-| 2022-09-11 | 4.52 | 642 |
+| 2022-09-11 | 4.52 | 643 |
