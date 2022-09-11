@@ -1,6 +1,6 @@
 # Speed Brawl
 Rating: 4.28 (97)  
-Ratings Per Day: 0.43  
+Ratings Per Day: 0.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
