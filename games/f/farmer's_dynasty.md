@@ -1,6 +1,6 @@
 # Farmer's Dynasty
-Rating: 4.00 (59)  
-Ratings Per Day: 0.25  
+Rating: 4.02 (60)  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Ratings Per Day: 0.25
 | 2022-09-04 | 4.04 | 56 |
 | 2022-09-05 | 3.98 | 58 |
 | 2022-09-09 | 4.00 | 59 |
+| 2022-09-11 | 4.02 | 60 |

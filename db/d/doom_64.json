@@ -3,11 +3,11 @@
   "Name": "DOOM 64",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 4602,
-  "DailyRatings": 72.88,
+  "NumberOfRatings": 4613,
+  "DailyRatings": 73.15,
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
-  "LastChanged": "2022-09-11T16:01:39.6352311+00:00",
+  "LastChanged": "2022-09-11T19:01:40.4852811+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-19T16:01:55.9057826+00:00",
@@ -673,12 +673,17 @@
       "Time": "2022-09-11T16:01:39.6352313+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 4602
+    },
+    {
+      "Time": "2022-09-11T19:01:40.4852813+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 4613
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 706
+      "Count": 720
     }
   ]
 }

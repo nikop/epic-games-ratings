@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The Old Blood",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 274,
-  "DailyRatings": 3.69,
+  "NumberOfRatings": 279,
+  "DailyRatings": 3.88,
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
-  "LastChanged": "2022-09-10T19:02:22.8672596+00:00",
+  "LastChanged": "2022-09-11T19:02:48.3740701+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:51.0594069+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-09-10T19:02:22.8672597+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 274
+    },
+    {
+      "Time": "2022-09-11T19:02:48.3740704+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 279
     }
   ],
   "Tags": [

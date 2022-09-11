@@ -1,6 +1,6 @@
 # Conan Exiles
 Rating: 4.56 (1 224)  
-Ratings Per Day: 25.66  
+Ratings Per Day: 24.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
