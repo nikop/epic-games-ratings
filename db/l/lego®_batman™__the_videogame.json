@@ -2,11 +2,11 @@
   "ID": "843c8ce683474448bb104a9651e8f325",
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 491,
-  "DailyRatings": 3.49,
+  "Rating": 4.49,
+  "NumberOfRatings": 493,
+  "DailyRatings": 3.45,
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2022-09-10T22:01:20.9285359+00:00",
+  "LastChanged": "2022-09-11T13:31:21.4833562+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.8648479+00:00",
@@ -367,12 +367,17 @@
       "Time": "2022-09-10T22:01:20.928536+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 491
+    },
+    {
+      "Time": "2022-09-11T13:31:21.4833564+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 493
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 111
+      "Count": 113
     }
   ]
 }
