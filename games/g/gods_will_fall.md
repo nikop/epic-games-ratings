@@ -1,6 +1,6 @@
 # Gods Will Fall
 Rating: 3.84 (210)  
-Ratings Per Day: 2.72  
+Ratings Per Day: 2.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
