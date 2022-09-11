@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "Names": [],
   "Rating": 4.82,
-  "NumberOfRatings": 3930,
-  "DailyRatings": 29.15,
+  "NumberOfRatings": 3935,
+  "DailyRatings": 29.09,
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2022-09-10T20:31:18.1151013+00:00",
+  "LastChanged": "2022-09-11T01:01:16.5491505+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:56.8065491+00:00",
@@ -1972,6 +1972,11 @@
       "Time": "2022-09-10T20:31:18.1151014+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 3930
+    },
+    {
+      "Time": "2022-09-11T01:01:16.5491507+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 3935
     }
   ],
   "Tags": [
@@ -1997,7 +2002,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 179
+      "Count": 184
     },
     {
       "Text": "This game has Challenging Combat",
