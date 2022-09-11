@@ -1,6 +1,6 @@
 # Unreal Tournament
 Rating: 4.68 (1 010)  
-Ratings Per Day: 7.50  
+Ratings Per Day: 7.53  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
