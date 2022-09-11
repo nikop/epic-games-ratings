@@ -2,12 +2,12 @@
   "ID": "8ae3c382222c462492f25bab4800b77d",
   "Name": "Travellers Rest",
   "Names": [],
-  "Rating": 4.51,
-  "NumberOfRatings": 39,
-  "DailyRatings": 2.51,
+  "Rating": 4.56,
+  "NumberOfRatings": 45,
+  "DailyRatings": 3.01,
   "FirstSeen": "2022-08-25T19:31:26.5685992+00:00",
   "FirstSeenRating": "2022-09-04T00:31:40.8839276+00:00",
-  "LastChanged": "2022-09-10T00:01:28.1894012+00:00",
+  "LastChanged": "2022-09-11T00:01:27.3866043+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-04T00:31:40.8839277+00:00",
@@ -38,6 +38,11 @@
       "Time": "2022-09-10T00:01:28.1894013+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-09-11T00:01:27.3866045+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 45
     }
   ],
   "Tags": []
