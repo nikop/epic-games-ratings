@@ -3,10 +3,10 @@
   "Name": "Skul: The Hero Slayer",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 528,
-  "DailyRatings": 1.16,
+  "NumberOfRatings": 529,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "LastChanged": "2022-09-10T22:32:11.2959901+00:00",
+  "LastChanged": "2022-09-12T11:32:18.2718934+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:36.7483718+00:00",
@@ -387,6 +387,11 @@
       "Time": "2022-09-10T22:32:11.2959902+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 528
+    },
+    {
+      "Time": "2022-09-12T11:32:18.2718936+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 529
     }
   ],
   "Tags": [
@@ -420,7 +425,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Playful Visuals",

@@ -1,6 +1,6 @@
 # Iratus: Lord of the Dead
-Rating: 4.37 (9 921)  
-Ratings Per Day: 15.70  
+Rating: 4.37 (9 923)  
+Ratings Per Day: 15.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -56,4 +56,4 @@ Ratings Per Day: 15.70
 | 2022-09-09 | 4.37 | 9 877 |
 | 2022-09-10 | 4.37 | 9 903 |
 | 2022-09-11 | 4.37 | 9 919 |
-| 2022-09-12 | 4.37 | 9 921 |
+| 2022-09-12 | 4.37 | 9 923 |
