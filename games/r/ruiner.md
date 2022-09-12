@@ -1,6 +1,6 @@
 # RUINER
-Rating: 4.56 (122)  
-Ratings Per Day: 0.40  
+Rating: 4.56 (124)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -37,3 +37,4 @@ Ratings Per Day: 0.40
 | 2022-09-05 | 4.57 | 120 |
 | 2022-09-06 | 4.55 | 121 |
 | 2022-09-10 | 4.56 | 122 |
+| 2022-09-12 | 4.56 | 124 |
