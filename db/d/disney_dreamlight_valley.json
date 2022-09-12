@@ -265,5 +265,10 @@
       "NumberOfRatings": 545
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 25
+    }
+  ]
 }

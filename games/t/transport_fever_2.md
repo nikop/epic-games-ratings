@@ -1,6 +1,6 @@
 # Transport Fever 2
-Rating: 4.68 (165)  
-Ratings Per Day: 1.24  
+Rating: 4.69 (166)  
+Ratings Per Day: 1.05  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Ratings Per Day: 1.24
 | 2022-09-06 | 4.69 | 160 |
 | 2022-09-09 | 4.68 | 161 |
 | 2022-09-10 | 4.68 | 165 |
+| 2022-09-12 | 4.69 | 166 |
