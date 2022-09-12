@@ -1,6 +1,6 @@
 # King's Bounty: Crossworlds
 Rating: 4.73 (22)  
-Ratings Per Day: 0.36  
+Ratings Per Day: 0.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
