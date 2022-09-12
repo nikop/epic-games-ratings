@@ -1,6 +1,6 @@
 # Dead Cells
-Rating: 4.87 (1 231)  
-Ratings Per Day: 7.15  
+Rating: 4.87 (1 232)  
+Ratings Per Day: 7.05  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -56,3 +56,4 @@ Ratings Per Day: 7.15
 | 2022-09-09 | 4.87 | 1 221 |
 | 2022-09-10 | 4.87 | 1 227 |
 | 2022-09-11 | 4.87 | 1 231 |
+| 2022-09-12 | 4.87 | 1 232 |
