@@ -3,10 +3,10 @@
   "Name": "Solitairica",
   "Names": [],
   "Rating": 4.47,
-  "NumberOfRatings": 442,
-  "DailyRatings": 3.3,
+  "NumberOfRatings": 443,
+  "DailyRatings": 2.97,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2022-09-11T17:31:01.1880473+00:00",
+  "LastChanged": "2022-09-12T12:00:56.3419455+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:54.478513+00:00",
@@ -507,6 +507,11 @@
       "Time": "2022-09-11T17:31:01.1880474+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 442
+    },
+    {
+      "Time": "2022-09-12T12:00:56.3419457+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 443
     }
   ],
   "Tags": [
