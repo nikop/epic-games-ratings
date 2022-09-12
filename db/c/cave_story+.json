@@ -3,10 +3,10 @@
   "Name": "Cave Story\u002B",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 261,
-  "DailyRatings": 1.24,
+  "NumberOfRatings": 262,
+  "DailyRatings": 1.2,
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2022-09-11T21:33:16.2830296+00:00",
+  "LastChanged": "2022-09-12T21:32:04.776292+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:31.253973+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-09-11T21:33:16.2830297+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 261
+    },
+    {
+      "Time": "2022-09-12T21:32:04.7762921+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 262
     }
   ],
   "Tags": [
