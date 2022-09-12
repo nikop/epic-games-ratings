@@ -1,6 +1,6 @@
 # Hardspace: Shipbreaker
-Rating: 4.54 (28)  
-Ratings Per Day: 1.33  
+Rating: 4.55 (29)  
+Ratings Per Day: 0.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 1.33
 | 2022-09-04 | 4.54 | 26 |
 | 2022-09-09 | 4.56 | 27 |
 | 2022-09-10 | 4.54 | 28 |
+| 2022-09-12 | 4.55 | 29 |

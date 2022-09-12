@@ -3,10 +3,10 @@
   "Name": "Frostpunk",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 10316,
-  "DailyRatings": 97.03,
+  "NumberOfRatings": 10325,
+  "DailyRatings": 96.86,
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2022-09-12T03:00:51.416221+00:00",
+  "LastChanged": "2022-09-12T05:31:50.3048855+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -2237,6 +2237,11 @@
       "Time": "2022-09-12T03:00:51.4162212+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 10316
+    },
+    {
+      "Time": "2022-09-12T05:31:50.3048858+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 10325
     }
   ],
   "Tags": [

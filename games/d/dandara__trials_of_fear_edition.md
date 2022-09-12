@@ -1,6 +1,6 @@
 # Dandara: Trials of Fear Edition
 Rating: 4.56 (154)  
-Ratings Per Day: 0.63  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
