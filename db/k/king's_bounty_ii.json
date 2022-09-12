@@ -3,10 +3,10 @@
   "Name": "King\u0027s Bounty II",
   "Names": [],
   "Rating": 4.19,
-  "NumberOfRatings": 102,
-  "DailyRatings": 0,
+  "NumberOfRatings": 103,
+  "DailyRatings": 0.15,
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
-  "LastChanged": "2022-09-06T01:00:49.58155+00:00",
+  "LastChanged": "2022-09-12T13:30:48.5096352+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:59.0658277+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-09-06T01:00:49.5815501+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 102
+    },
+    {
+      "Time": "2022-09-12T13:30:48.5096354+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 103
     }
   ],
   "Tags": []
