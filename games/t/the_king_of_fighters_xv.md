@@ -1,6 +1,6 @@
 # THE KING OF FIGHTERS XV
 Rating: 4.61 (180)  
-Ratings Per Day: 0.49  
+Ratings Per Day: 0.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
