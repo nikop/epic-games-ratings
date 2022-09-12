@@ -1,6 +1,6 @@
 # Axiom Verge 2
-Rating: 4.57 (37)  
-Ratings Per Day: 0.94  
+Rating: 4.58 (38)  
+Ratings Per Day: 0.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,3 +20,4 @@ Ratings Per Day: 0.94
 | 2022-09-04 | 4.54 | 35 |
 | 2022-09-10 | 4.56 | 36 |
 | 2022-09-11 | 4.57 | 37 |
+| 2022-09-12 | 4.58 | 38 |

@@ -1,6 +1,6 @@
 # Spirit of the Island
 Rating: 4.48 (25)  
-Ratings Per Day: 0.29  
+Ratings Per Day: 0.23  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
