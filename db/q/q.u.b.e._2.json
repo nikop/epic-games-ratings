@@ -3,10 +3,10 @@
   "Name": "Q.U.B.E. 2",
   "Names": [],
   "Rating": 4.45,
-  "NumberOfRatings": 87,
-  "DailyRatings": 1.23,
+  "NumberOfRatings": 89,
+  "DailyRatings": 1.38,
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
-  "LastChanged": "2022-09-11T18:00:39.6246334+00:00",
+  "LastChanged": "2022-09-12T18:00:41.6909801+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.6692959+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-09-11T18:00:39.6246337+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 87
+    },
+    {
+      "Time": "2022-09-12T18:00:41.6909803+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 89
     }
   ],
   "Tags": []

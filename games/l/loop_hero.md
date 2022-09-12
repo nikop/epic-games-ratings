@@ -1,6 +1,6 @@
 # Loop Hero
-Rating: 4.68 (5 851)  
-Ratings Per Day: 53.03  
+Rating: 4.68 (5 856)  
+Ratings Per Day: 52.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -56,4 +56,4 @@ Ratings Per Day: 53.03
 | 2022-09-09 | 4.69 | 5 722 |
 | 2022-09-10 | 4.69 | 5 765 |
 | 2022-09-11 | 4.68 | 5 810 |
-| 2022-09-12 | 4.68 | 5 851 |
+| 2022-09-12 | 4.68 | 5 856 |
