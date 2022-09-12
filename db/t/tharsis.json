@@ -2,11 +2,11 @@
   "ID": "be67e141378446cf9399b3db1a22ceb3",
   "Name": "Tharsis",
   "Names": [],
-  "Rating": 4.17,
-  "NumberOfRatings": 54,
-  "DailyRatings": 0.51,
+  "Rating": 4.16,
+  "NumberOfRatings": 55,
+  "DailyRatings": 0.58,
   "FirstSeen": "2022-07-22T20:19:00.6251674+00:00",
-  "LastChanged": "2022-09-11T16:30:42.7210104+00:00",
+  "LastChanged": "2022-09-12T16:30:36.0843234+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:00.6251678+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-09-11T16:30:42.7210106+00:00",
       "Rating": 4.17,
       "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-09-12T16:30:36.0843235+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": 55
     }
   ],
   "Tags": []
