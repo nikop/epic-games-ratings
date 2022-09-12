@@ -1,6 +1,6 @@
 # Cozy Grove
-Rating: 4.78 (41)  
-Ratings Per Day: 0.48  
+Rating: 4.79 (43)  
+Ratings Per Day: 0.76  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,3 +20,4 @@ Ratings Per Day: 0.48
 | 2022-09-07 | 4.79 | 39 |
 | 2022-09-08 | 4.80 | 40 |
 | 2022-09-11 | 4.78 | 41 |
+| 2022-09-12 | 4.79 | 43 |

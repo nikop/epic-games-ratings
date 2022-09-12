@@ -1,6 +1,6 @@
 # Haven
 Rating: 4.86 (35)  
-Ratings Per Day: 0.59  
+Ratings Per Day: 0.48  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

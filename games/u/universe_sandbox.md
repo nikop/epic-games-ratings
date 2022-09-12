@@ -1,6 +1,6 @@
 # Universe Sandbox
 Rating: 4.55 (62)  
-Ratings Per Day: 0.93  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
