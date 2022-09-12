@@ -3,10 +3,10 @@
   "Name": "Warframe",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 10990,
-  "DailyRatings": 124,
+  "NumberOfRatings": 10997,
+  "DailyRatings": 123.89,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2022-09-12T02:30:26.0111274+00:00",
+  "LastChanged": "2022-09-12T04:00:24.3277742+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -2592,6 +2592,11 @@
       "Time": "2022-09-12T02:30:26.0111276+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 10990
+    },
+    {
+      "Time": "2022-09-12T04:00:24.3277745+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 10997
     }
   ],
   "Tags": [
@@ -2609,7 +2614,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1157
+      "Count": 1173
     },
     {
       "Text": "This game is Highly Recommended",
