@@ -1,6 +1,6 @@
 # Bloons TD 6
-Rating: 4.69 (98)  
-Ratings Per Day: 4.36  
+Rating: 4.70 (99)  
+Ratings Per Day: 4.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 4.36
 | 2022-09-09 | 4.69 | 90 |
 | 2022-09-10 | 4.69 | 96 |
 | 2022-09-11 | 4.69 | 98 |
+| 2022-09-12 | 4.70 | 99 |
