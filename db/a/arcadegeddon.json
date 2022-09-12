@@ -2,11 +2,11 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "Names": [],
-  "Rating": 4.49,
-  "NumberOfRatings": 782,
-  "DailyRatings": 1.88,
+  "Rating": 4.5,
+  "NumberOfRatings": 784,
+  "DailyRatings": 1.66,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-09-10T17:01:47.4630768+00:00",
+  "LastChanged": "2022-09-12T10:01:09.6153498+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -497,6 +497,11 @@
       "Time": "2022-09-10T17:01:47.463077+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 782
+    },
+    {
+      "Time": "2022-09-12T10:01:09.61535+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 784
     }
   ],
   "Tags": [

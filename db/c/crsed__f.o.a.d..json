@@ -3,10 +3,10 @@
   "Name": "CRSED: F.O.A.D.",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 428,
-  "DailyRatings": 3.04,
+  "NumberOfRatings": 430,
+  "DailyRatings": 3.1,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-09-11T21:31:38.7385556+00:00",
+  "LastChanged": "2022-09-12T10:01:04.5949351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -552,6 +552,11 @@
       "Time": "2022-09-11T21:31:38.7385558+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 428
+    },
+    {
+      "Time": "2022-09-12T10:01:04.5949354+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 430
     }
   ],
   "Tags": [
@@ -601,6 +606,10 @@
     },
     {
       "Text": "This game has Challenging Combat",
+      "Count": 32
+    },
+    {
+      "Text": "This game is Relaxing",
       "Count": 32
     }
   ]
