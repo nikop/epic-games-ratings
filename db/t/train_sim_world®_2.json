@@ -3,10 +3,10 @@
   "Name": "Train Sim World\u00AE 2",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 2462,
-  "DailyRatings": 10.72,
+  "NumberOfRatings": 2463,
+  "DailyRatings": 10.28,
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2022-09-11T23:00:23.5235241+00:00",
+  "LastChanged": "2022-09-12T08:00:28.163266+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:00.3136156+00:00",
@@ -1742,6 +1742,11 @@
       "Time": "2022-09-11T23:00:23.5235243+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 2462
+    },
+    {
+      "Time": "2022-09-12T08:00:28.1632662+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 2463
     }
   ],
   "Tags": [
