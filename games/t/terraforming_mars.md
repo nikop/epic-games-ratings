@@ -1,6 +1,6 @@
 # Terraforming Mars
-Rating: 4.54 (2 587)  
-Ratings Per Day: 8.99  
+Rating: 4.54 (2 589)  
+Ratings Per Day: 9.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -56,4 +56,4 @@ Ratings Per Day: 8.99
 | 2022-09-09 | 4.54 | 2 562 |
 | 2022-09-10 | 4.54 | 2 573 |
 | 2022-09-11 | 4.54 | 2 582 |
-| 2022-09-12 | 4.54 | 2 587 |
+| 2022-09-12 | 4.54 | 2 589 |

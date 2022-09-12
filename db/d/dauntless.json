@@ -3,10 +3,10 @@
   "Name": "Dauntless",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 21828,
-  "DailyRatings": 156.22,
+  "NumberOfRatings": 21842,
+  "DailyRatings": 156.36,
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2022-09-12T18:30:50.1370485+00:00",
+  "LastChanged": "2022-09-12T20:30:54.3506773+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -2847,6 +2847,11 @@
       "Time": "2022-09-12T18:30:50.1370487+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 21828
+    },
+    {
+      "Time": "2022-09-12T20:30:54.3506775+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 21842
     }
   ],
   "Tags": [
