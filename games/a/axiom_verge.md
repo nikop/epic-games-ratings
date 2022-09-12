@@ -1,6 +1,6 @@
 # AXIOM VERGE
-Rating: 4.54 (112)  
-Ratings Per Day: 1.00  
+Rating: 4.56 (117)  
+Ratings Per Day: 1.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,3 +39,4 @@ Ratings Per Day: 1.00
 | 2022-09-08 | 4.53 | 110 |
 | 2022-09-09 | 4.53 | 111 |
 | 2022-09-10 | 4.54 | 112 |
+| 2022-09-12 | 4.56 | 117 |
