@@ -3,10 +3,10 @@
   "Name": "Conan Exiles",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 1244,
-  "DailyRatings": 23.06,
+  "NumberOfRatings": 1245,
+  "DailyRatings": 22.99,
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2022-09-12T18:30:19.2865739+00:00",
+  "LastChanged": "2022-09-12T20:00:18.9523026+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -1312,6 +1312,11 @@
       "Time": "2022-09-12T18:30:19.2865741+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 1244
+    },
+    {
+      "Time": "2022-09-12T20:00:18.9523029+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 1245
     }
   ],
   "Tags": [
@@ -1345,7 +1350,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 326
+      "Count": 336
     },
     {
       "Text": "This game has a Creative Community",

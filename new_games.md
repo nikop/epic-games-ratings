@@ -5,12 +5,12 @@
 | 3 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.70 | 557 | 91.68 |
 | 4 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.89 | 203 | 14.80 |
 | 5 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 67 | 4.09 |
-| 6 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 571 | 36.78 |
+| 6 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 574 | 37.01 |
 | 7 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 47 | 3.54 |
 | 8 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 273 | 414.25 |
 | 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 27 732 | 748.05 |
-| 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 20 022 | 367.84 |
-| 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 150 | 4.66 |
+| 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 20 038 | 367.95 |
+| 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 151 | 4.67 |
 | 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.16 | 419 | 39.95 |
 | 13 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 83 | 1.50 |
 | 14 | [DOOM II](games/d/doom_ii.md) | 4.86 | 36 | 1.39 |
