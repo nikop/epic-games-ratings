@@ -3,10 +3,10 @@
   "Name": "Far Cry 6 Standard Edition",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 11578,
-  "DailyRatings": 98.49,
+  "NumberOfRatings": 11588,
+  "DailyRatings": 98.16,
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2022-09-12T11:30:33.1699144+00:00",
+  "LastChanged": "2022-09-12T14:30:27.540522+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -2362,6 +2362,11 @@
       "Time": "2022-09-12T11:30:33.1699146+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 11578
+    },
+    {
+      "Time": "2022-09-12T14:30:27.5405225+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 11588
     }
   ],
   "Tags": [
