@@ -2,11 +2,11 @@
   "ID": "f7e06ee3d0c1491094cc0215859f0120",
   "Name": "Untitled Goose Game",
   "Names": [],
-  "Rating": 4.8,
-  "NumberOfRatings": 97,
-  "DailyRatings": 0.5,
+  "Rating": 4.81,
+  "NumberOfRatings": 98,
+  "DailyRatings": 0.43,
   "FirstSeen": "2022-07-22T20:16:58.6433496+00:00",
-  "LastChanged": "2022-09-09T03:30:15.9443384+00:00",
+  "LastChanged": "2022-09-12T03:30:18.1216288+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:58.6433498+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-09-09T03:30:15.9443387+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 97
+    },
+    {
+      "Time": "2022-09-12T03:30:18.121629+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 98
     }
   ],
   "Tags": []
