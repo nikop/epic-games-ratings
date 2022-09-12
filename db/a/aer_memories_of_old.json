@@ -2,11 +2,11 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "Names": [],
-  "Rating": 4.47,
-  "NumberOfRatings": 159,
-  "DailyRatings": 0.67,
+  "Rating": 4.46,
+  "NumberOfRatings": 160,
+  "DailyRatings": 0.8,
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
-  "LastChanged": "2022-09-11T22:33:10.5946855+00:00",
+  "LastChanged": "2022-09-12T23:02:23.5672159+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:57.2410234+00:00",
@@ -212,6 +212,11 @@
       "Time": "2022-09-11T22:33:10.5946856+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 159
+    },
+    {
+      "Time": "2022-09-12T23:02:23.5672163+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 160
     }
   ],
   "Tags": []
