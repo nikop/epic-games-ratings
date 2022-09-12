@@ -1,6 +1,6 @@
 # Tiny Tina's Wonderlands
-Rating: 4.57 (20 076)  
-Ratings Per Day: 91.47  
+Rating: 4.57 (20 089)  
+Ratings Per Day: 90.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -56,3 +56,4 @@ Ratings Per Day: 91.47
 | 2022-09-09 | 4.57 | 19 908 |
 | 2022-09-10 | 4.57 | 19 986 |
 | 2022-09-11 | 4.57 | 20 076 |
+| 2022-09-12 | 4.57 | 20 089 |
