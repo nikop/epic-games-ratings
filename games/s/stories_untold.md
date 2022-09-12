@@ -1,6 +1,6 @@
 # Stories Untold
-Rating: 4.50 (26)  
-Ratings Per Day: 0.25  
+Rating: 4.52 (27)  
+Ratings Per Day: 0.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.25
 | 2022-08-31 | 4.46 | 24 |
 | 2022-09-05 | 4.48 | 25 |
 | 2022-09-09 | 4.50 | 26 |
+| 2022-09-12 | 4.52 | 27 |

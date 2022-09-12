@@ -1,6 +1,6 @@
 # Borderlands 2
 Rating: 4.77 (12 557)  
-Ratings Per Day: 76.57  
+Ratings Per Day: 76.60  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
