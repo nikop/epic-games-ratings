@@ -3,10 +3,10 @@
   "Name": "Borderlands 2",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 12669,
-  "DailyRatings": 74.01,
+  "NumberOfRatings": 12670,
+  "DailyRatings": 73.72,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2022-09-13T19:01:04.7387924+00:00",
+  "LastChanged": "2022-09-13T20:00:31.1702405+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -2677,6 +2677,11 @@
       "Time": "2022-09-13T19:01:04.7387926+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 12669
+    },
+    {
+      "Time": "2022-09-13T20:00:31.1702409+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 12670
     }
   ],
   "Tags": [

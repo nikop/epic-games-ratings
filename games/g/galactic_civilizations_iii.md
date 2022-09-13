@@ -1,6 +1,6 @@
 # Galactic Civilizations III
 Rating: 4.21 (1 013)  
-Ratings Per Day: 7.62  
+Ratings Per Day: 7.46  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

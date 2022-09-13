@@ -1,6 +1,6 @@
 # Far Cry 2: Standard Edition
 Rating: 4.11 (57)  
-Ratings Per Day: 1.20  
+Ratings Per Day: 2.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
