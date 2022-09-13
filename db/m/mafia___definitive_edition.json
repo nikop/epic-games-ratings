@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.62,
   "NumberOfRatings": 1871,
-  "DailyRatings": 16.48,
+  "DailyRatings": 16.2,
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
   "LastChanged": "2022-09-13T12:31:04.4779317+00:00",
   "RatingHistory": [
@@ -552,7 +552,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 309
+      "Count": 313
     }
   ]
 }

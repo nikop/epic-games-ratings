@@ -3,10 +3,10 @@
   "Name": "BioShock Remastered",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 23253,
-  "DailyRatings": 89.81,
+  "NumberOfRatings": 23260,
+  "DailyRatings": 89.73,
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2022-09-13T11:32:38.9332633+00:00",
+  "LastChanged": "2022-09-13T13:33:49.0990984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:07.4798795+00:00",
@@ -1562,6 +1562,11 @@
       "Time": "2022-09-13T11:32:38.9332634+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 23253
+    },
+    {
+      "Time": "2022-09-13T13:33:49.0990985+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 23260
     }
   ],
   "Tags": [
@@ -1595,7 +1600,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 90
+      "Count": 92
     },
     {
       "Text": "This game is Highly Recommended",
