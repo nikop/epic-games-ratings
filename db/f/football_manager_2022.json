@@ -3,10 +3,10 @@
   "Name": "Football Manager 2022",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 13542,
-  "DailyRatings": 762.81,
+  "NumberOfRatings": 13552,
+  "DailyRatings": 761.96,
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
-  "LastChanged": "2022-09-13T02:01:23.2909037+00:00",
+  "LastChanged": "2022-09-13T02:31:07.9007718+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:56.4642724+00:00",
@@ -2487,6 +2487,11 @@
       "Time": "2022-09-13T02:01:23.2909042+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 13542
+    },
+    {
+      "Time": "2022-09-13T02:31:07.900772+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 13552
     }
   ],
   "Tags": [
@@ -2520,7 +2525,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1223
+      "Count": 1264
     },
     {
       "Text": "This game has Diverse Characters",

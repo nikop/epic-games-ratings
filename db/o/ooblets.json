@@ -2,11 +2,11 @@
   "ID": "413361d2d5db4912ac2dfbcf27a38141",
   "Name": "Ooblets",
   "Names": [],
-  "Rating": 4.86,
-  "NumberOfRatings": 1162,
-  "DailyRatings": 39.66,
+  "Rating": 4.87,
+  "NumberOfRatings": 1164,
+  "DailyRatings": 39.83,
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-09-13T02:02:01.498439+00:00",
+  "LastChanged": "2022-09-13T02:31:45.1081849+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -812,6 +812,11 @@
       "Time": "2022-09-13T02:02:01.4984391+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 1162
+    },
+    {
+      "Time": "2022-09-13T02:31:45.108185+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 1164
     }
   ],
   "Tags": [
