@@ -1,6 +1,6 @@
 # Anno 1404 History Edition
-Rating: 4.82 (65)  
-Ratings Per Day: 1.06  
+Rating: 4.79 (67)  
+Ratings Per Day: 1.23  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Ratings Per Day: 1.06
 | 2022-09-08 | 4.82 | 60 |
 | 2022-09-09 | 4.83 | 63 |
 | 2022-09-12 | 4.82 | 65 |
+| 2022-09-13 | 4.79 | 67 |
