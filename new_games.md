@@ -2,19 +2,19 @@
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Steelrising](games/s/steelrising.md) | 4.24 | 55 | 10.92 |
 | 2 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.48 | 128 | 16.41 |
-| 3 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.70 | 649 | 92.01 |
+| 3 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.70 | 654 | 91.90 |
 | 4 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.89 | 209 | 13.65 |
 | 5 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 69 | 3.56 |
 | 6 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 589 | 34.94 |
 | 7 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 50 | 3.54 |
 | 8 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 449 | 351.45 |
 | 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 28 257 | 692.13 |
-| 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 20 254 | 347.72 |
-| 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 156 | 4.67 |
-| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 461 | 46.46 |
+| 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 20 254 | 344.47 |
+| 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 157 | 4.73 |
+| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 470 | 46.07 |
 | 13 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 84 | 1.50 |
 | 14 | [DOOM II](games/d/doom_ii.md) | 4.86 | 37 | 1.26 |
-| 15 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 697 | 61.57 |
+| 15 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 697 | 61.26 |
 | 16 | [DOOM 3](games/d/doom_3.md) | 4.61 | 77 | 2.21 |
 | 17 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 83 | 1.66 |
 | 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 145 | 121.21 |
