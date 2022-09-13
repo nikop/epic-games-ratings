@@ -1,6 +1,6 @@
 # Genshin Impact
 Rating: 4.69 (207 606)  
-Ratings Per Day: 1146.57  
+Ratings Per Day: 1144.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
