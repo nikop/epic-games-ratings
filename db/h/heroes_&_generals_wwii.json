@@ -3,10 +3,10 @@
   "Name": "Heroes \u0026 Generals WWII",
   "Names": [],
   "Rating": 4.22,
-  "NumberOfRatings": 4333,
-  "DailyRatings": 29.61,
+  "NumberOfRatings": 4337,
+  "DailyRatings": 28.94,
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2022-09-12T23:30:31.2981718+00:00",
+  "LastChanged": "2022-09-13T06:30:26.853098+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.2948149+00:00",
@@ -2267,6 +2267,11 @@
       "Time": "2022-09-12T23:30:31.2981723+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 4333
+    },
+    {
+      "Time": "2022-09-13T06:30:26.8530983+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 4337
     }
   ],
   "Tags": [
