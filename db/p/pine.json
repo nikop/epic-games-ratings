@@ -3,10 +3,10 @@
   "Name": "Pine",
   "Names": [],
   "Rating": 4.13,
-  "NumberOfRatings": 628,
-  "DailyRatings": 6.63,
+  "NumberOfRatings": 632,
+  "DailyRatings": 6,
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
-  "LastChanged": "2022-09-12T16:31:11.7817293+00:00",
+  "LastChanged": "2022-09-13T21:01:43.9307996+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:31.2285522+00:00",
@@ -392,6 +392,11 @@
       "Time": "2022-09-12T16:31:11.7817295+00:00",
       "Rating": 4.13,
       "NumberOfRatings": 628
+    },
+    {
+      "Time": "2022-09-13T21:01:43.9307997+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": 632
     }
   ],
   "Tags": []
