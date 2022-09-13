@@ -3,10 +3,10 @@
   "Name": "Trackmania",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 6424,
-  "DailyRatings": 44.87,
+  "NumberOfRatings": 6428,
+  "DailyRatings": 43.24,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2022-09-12T20:31:17.8616959+00:00",
+  "LastChanged": "2022-09-13T04:31:04.8680612+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -2332,12 +2332,17 @@
       "Time": "2022-09-12T20:31:17.861696+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 6424
+    },
+    {
+      "Time": "2022-09-13T04:31:04.8680614+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 6428
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 882
+      "Count": 893
     },
     {
       "Text": "This game has Competitive Players",
