@@ -3,10 +3,10 @@
   "Name": "Stubbs the Zombie in Rebel Without a Pulse",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 231,
-  "DailyRatings": 1.55,
+  "NumberOfRatings": 232,
+  "DailyRatings": 1.62,
   "FirstSeen": "2022-07-22T20:32:41.8050293+00:00",
-  "LastChanged": "2022-09-13T12:32:20.6005615+00:00",
+  "LastChanged": "2022-09-13T20:32:29.8512916+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:41.8050299+00:00",
@@ -272,12 +272,17 @@
       "Time": "2022-09-13T12:32:20.6005616+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 231
+    },
+    {
+      "Time": "2022-09-13T20:32:29.8512918+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 232
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 23
+      "Count": 24
     }
   ]
 }
