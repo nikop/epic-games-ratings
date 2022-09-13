@@ -3,10 +3,10 @@
   "Name": "Pathway",
   "Names": [],
   "Rating": 4.45,
-  "NumberOfRatings": 403,
-  "DailyRatings": 4.36,
+  "NumberOfRatings": 406,
+  "DailyRatings": 4.23,
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
-  "LastChanged": "2022-09-12T06:32:13.0032906+00:00",
+  "LastChanged": "2022-09-13T04:01:48.4713755+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.5183297+00:00",
@@ -327,6 +327,11 @@
       "Time": "2022-09-12T06:32:13.0032908+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 403
+    },
+    {
+      "Time": "2022-09-13T04:01:48.4713757+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 406
     }
   ],
   "Tags": []

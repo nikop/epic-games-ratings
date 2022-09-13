@@ -3,10 +3,10 @@
   "Name": "Torchlight II",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 2093,
+  "NumberOfRatings": 2097,
   "DailyRatings": 16.4,
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-09-12T20:32:07.5665693+00:00",
+  "LastChanged": "2022-09-13T04:01:53.6231066+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -1007,12 +1007,17 @@
       "Time": "2022-09-12T20:32:07.5665694+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 2093
+    },
+    {
+      "Time": "2022-09-13T04:01:53.6231069+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 2097
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 503
+      "Count": 509
     },
     {
       "Text": "This game has Great Boss Battles",
