@@ -1,6 +1,6 @@
 # Trials Evolution: Gold Edition
-Rating: 4.48 (27)  
-Ratings Per Day: 0.00  
+Rating: 4.50 (28)  
+Ratings Per Day: 0.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.00
 | 2022-08-31 | 4.56 | 25 |
 | 2022-09-05 | 4.54 | 26 |
 | 2022-09-09 | 4.48 | 27 |
+| 2022-09-13 | 4.50 | 28 |
