@@ -2,11 +2,11 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "Names": [],
-  "Rating": 4.21,
-  "NumberOfRatings": 87,
-  "DailyRatings": 0.2,
+  "Rating": 4.2,
+  "NumberOfRatings": 88,
+  "DailyRatings": 0.35,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-09-12T13:31:08.9881436+00:00",
+  "LastChanged": "2022-09-13T07:31:15.3015569+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -127,6 +127,11 @@
       "Time": "2022-09-12T13:31:08.9881437+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 87
+    },
+    {
+      "Time": "2022-09-13T07:31:15.301557+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 88
     }
   ],
   "Tags": [
@@ -148,7 +153,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Obsessive Gameplay",
