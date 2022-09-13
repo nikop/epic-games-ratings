@@ -3,10 +3,10 @@
   "Name": "Borderlands 3",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 146351,
-  "DailyRatings": 516.68,
+  "NumberOfRatings": 146360,
+  "DailyRatings": 516.72,
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2022-09-12T23:30:28.4536983+00:00",
+  "LastChanged": "2022-09-13T00:30:22.6992162+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:32.2549883+00:00",
@@ -2802,6 +2802,11 @@
       "Time": "2022-09-12T23:30:28.4536985+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 146351
+    },
+    {
+      "Time": "2022-09-13T00:30:22.6992164+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 146360
     }
   ],
   "Tags": [
