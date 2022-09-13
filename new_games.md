@@ -11,7 +11,7 @@
 | 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 28 019 | 710.48 |
 | 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 20 156 | 356.33 |
 | 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 151 | 4.68 |
-| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.16 | 442 | 43.79 |
+| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.17 | 447 | 43.05 |
 | 13 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 84 | 1.50 |
 | 14 | [DOOM II](games/d/doom_ii.md) | 4.86 | 36 | 1.39 |
 | 15 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 676 | 63.49 |
@@ -21,4 +21,4 @@
 | 19 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.48 | 1 895 | 15.22 |
 | 20 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.44 | 56 521 | 834.14 |
 | 21 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 949 | 14.84 |
-| 22 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 191 | 256.99 |
+| 22 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 191 | 260.12 |

@@ -3,10 +3,10 @@
   "Name": "Hello Neighbor",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 1074,
-  "DailyRatings": 9.72,
+  "NumberOfRatings": 1075,
+  "DailyRatings": 9.31,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-09-12T23:31:06.1234632+00:00",
+  "LastChanged": "2022-09-13T09:01:50.4150394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -1042,6 +1042,11 @@
       "Time": "2022-09-12T23:31:06.1234634+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 1074
+    },
+    {
+      "Time": "2022-09-13T09:01:50.4150396+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1075
     }
   ],
   "Tags": [
@@ -1083,7 +1088,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 62
+      "Count": 63
     }
   ]
 }
