@@ -3,10 +3,10 @@
   "Name": "Phoenix Point: Complete Edition",
   "Names": [],
   "Rating": 4.55,
-  "NumberOfRatings": 1965,
+  "NumberOfRatings": 1971,
   "DailyRatings": 11.07,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-09-13T02:00:41.5080166+00:00",
+  "LastChanged": "2022-09-13T15:00:30.5069138+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -1812,6 +1812,11 @@
       "Time": "2022-09-13T02:00:41.5080169+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 1965
+    },
+    {
+      "Time": "2022-09-13T15:00:30.5069142+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 1971
     }
   ],
   "Tags": [
