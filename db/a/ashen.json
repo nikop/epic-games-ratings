@@ -2,11 +2,11 @@
   "ID": "wren",
   "Name": "Ashen",
   "Names": [],
-  "Rating": 4.25,
-  "NumberOfRatings": 102,
-  "DailyRatings": 2.36,
+  "Rating": 4.26,
+  "NumberOfRatings": 104,
+  "DailyRatings": 2.35,
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
-  "LastChanged": "2022-09-12T18:30:21.6230225+00:00",
+  "LastChanged": "2022-09-13T15:30:29.0283406+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.0881691+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-09-12T18:30:21.6230226+00:00",
       "Rating": 4.25,
       "NumberOfRatings": 102
+    },
+    {
+      "Time": "2022-09-13T15:30:29.0283409+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 104
     }
   ],
   "Tags": []

@@ -1,6 +1,6 @@
 # Submerged: Hidden Depths
-Rating: 4.26 (2 028)  
-Ratings Per Day: 157.20  
+Rating: 4.26 (2 031)  
+Ratings Per Day: 156.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,4 +15,4 @@ Ratings Per Day: 157.20
 | 2022-09-10 | 4.25 | 1 747 |
 | 2022-09-11 | 4.25 | 1 871 |
 | 2022-09-12 | 4.25 | 1 969 |
-| 2022-09-13 | 4.26 | 2 028 |
+| 2022-09-13 | 4.26 | 2 031 |
