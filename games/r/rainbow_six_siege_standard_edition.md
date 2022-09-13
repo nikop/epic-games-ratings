@@ -1,6 +1,6 @@
 # Rainbow Six Siege Standard Edition
-Rating: 4.58 (8 201)  
-Ratings Per Day: 62.69  
+Rating: 4.58 (8 208)  
+Ratings Per Day: 63.13  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -57,4 +57,4 @@ Ratings Per Day: 62.69
 | 2022-09-10 | 4.58 | 8 076 |
 | 2022-09-11 | 4.58 | 8 138 |
 | 2022-09-12 | 4.58 | 8 167 |
-| 2022-09-13 | 4.58 | 8 201 |
+| 2022-09-13 | 4.58 | 8 208 |

@@ -1,6 +1,6 @@
 # Disney Dreamlight Valley
-Rating: 4.70 (654)  
-Ratings Per Day: 91.90  
+Rating: 4.69 (670)  
+Ratings Per Day: 92.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 91.90
 | 2022-09-10 | 4.68 | 381 |
 | 2022-09-11 | 4.70 | 490 |
 | 2022-09-12 | 4.71 | 569 |
-| 2022-09-13 | 4.70 | 654 |
+| 2022-09-13 | 4.69 | 670 |
