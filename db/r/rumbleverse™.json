@@ -3,11 +3,11 @@
   "Name": "Rumbleverse\u2122",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 56354,
-  "DailyRatings": 851.14,
+  "NumberOfRatings": 56504,
+  "DailyRatings": 836.76,
   "FirstSeen": "2022-08-11T14:30:37.6010339+00:00",
   "FirstSeenRating": "2022-08-12T04:30:28.6505316+00:00",
-  "LastChanged": "2022-09-13T00:01:27.0860419+00:00",
+  "LastChanged": "2022-09-13T07:00:30.6738558+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T04:30:28.6505321+00:00",
@@ -1703,6 +1703,11 @@
       "Time": "2022-09-13T00:01:27.0860422+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 56354
+    },
+    {
+      "Time": "2022-09-13T07:00:30.6738561+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 56504
     }
   ],
   "Tags": [
@@ -1736,7 +1741,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1490
+      "Count": 1537
     },
     {
       "Text": "This game has Quickly Understood Controls",
