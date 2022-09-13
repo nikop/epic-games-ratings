@@ -3,11 +3,11 @@
   "Name": "Rumbleverse\u2122",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 56644,
-  "DailyRatings": 811.96,
+  "NumberOfRatings": 56738,
+  "DailyRatings": 812.07,
   "FirstSeen": "2022-08-11T14:30:37.6010339+00:00",
   "FirstSeenRating": "2022-08-12T04:30:28.6505316+00:00",
-  "LastChanged": "2022-09-13T14:01:06.0532262+00:00",
+  "LastChanged": "2022-09-13T16:01:10.4935829+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T04:30:28.6505321+00:00",
@@ -1723,6 +1723,11 @@
       "Time": "2022-09-13T14:01:06.0532312+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 56644
+    },
+    {
+      "Time": "2022-09-13T16:01:10.4935832+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 56738
     }
   ],
   "Tags": [
