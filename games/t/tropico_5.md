@@ -1,6 +1,6 @@
 # Tropico 5
 Rating: 4.46 (1 872)  
-Ratings Per Day: 17.44  
+Ratings Per Day: 17.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
