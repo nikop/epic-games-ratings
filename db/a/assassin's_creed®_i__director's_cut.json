@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 129,
-  "DailyRatings": 2.39,
+  "NumberOfRatings": 132,
+  "DailyRatings": 2.52,
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
-  "LastChanged": "2022-09-12T13:02:08.9781574+00:00",
+  "LastChanged": "2022-09-13T10:31:23.3397426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:57.2958457+00:00",
@@ -197,6 +197,11 @@
       "Time": "2022-09-12T13:02:08.9781576+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 129
+    },
+    {
+      "Time": "2022-09-13T10:31:23.3397427+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 132
     }
   ],
   "Tags": []

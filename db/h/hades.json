@@ -3,10 +3,10 @@
   "Name": "Hades",
   "Names": [],
   "Rating": 4.92,
-  "NumberOfRatings": 5978,
-  "DailyRatings": 36.22,
+  "NumberOfRatings": 5979,
+  "DailyRatings": 35.71,
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
-  "LastChanged": "2022-09-13T07:31:01.2077555+00:00",
+  "LastChanged": "2022-09-13T10:30:56.6440647+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.7235161+00:00",
@@ -1937,12 +1937,17 @@
       "Time": "2022-09-13T07:31:01.2077557+00:00",
       "Rating": 4.92,
       "NumberOfRatings": 5978
+    },
+    {
+      "Time": "2022-09-13T10:30:56.6440648+00:00",
+      "Rating": 4.92,
+      "NumberOfRatings": 5979
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1600
+      "Count": 1607
     },
     {
       "Text": "This game has Great Boss Battles",
