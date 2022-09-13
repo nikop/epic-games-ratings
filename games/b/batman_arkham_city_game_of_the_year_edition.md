@@ -1,6 +1,6 @@
 # Batman Arkham City Game of the Year Edition
-Rating: 4.78 (2 623)  
-Ratings Per Day: 21.02  
+Rating: 4.78 (2 624)  
+Ratings Per Day: 21.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -57,4 +57,4 @@ Ratings Per Day: 21.02
 | 2022-09-10 | 4.78 | 2 577 |
 | 2022-09-11 | 4.78 | 2 591 |
 | 2022-09-12 | 4.78 | 2 616 |
-| 2022-09-13 | 4.78 | 2 623 |
+| 2022-09-13 | 4.78 | 2 624 |
