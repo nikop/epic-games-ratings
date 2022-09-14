@@ -3,10 +3,10 @@
   "Name": "Godfall",
   "Names": [],
   "Rating": 4.08,
-  "NumberOfRatings": 772,
-  "DailyRatings": 4.77,
+  "NumberOfRatings": 773,
+  "DailyRatings": 4.88,
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2022-09-14T18:00:28.6523201+00:00",
+  "LastChanged": "2022-09-14T19:31:00.4657937+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -622,6 +622,11 @@
       "Time": "2022-09-14T18:00:28.6523203+00:00",
       "Rating": 4.08,
       "NumberOfRatings": 772
+    },
+    {
+      "Time": "2022-09-14T19:31:00.4657939+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": 773
     }
   ],
   "Tags": [
@@ -655,7 +660,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 24
+      "Count": 25
     }
   ]
 }

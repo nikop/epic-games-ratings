@@ -3,10 +3,10 @@
   "Name": "Jotun: Valhalla Edition",
   "Names": [],
   "Rating": 4.41,
-  "NumberOfRatings": 719,
-  "DailyRatings": 4.43,
+  "NumberOfRatings": 723,
+  "DailyRatings": 4.36,
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
-  "LastChanged": "2022-09-13T19:32:27.7242043+00:00",
+  "LastChanged": "2022-09-14T19:32:34.6542329+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:06.2029125+00:00",
@@ -327,6 +327,11 @@
       "Time": "2022-09-13T19:32:27.7242045+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 719
+    },
+    {
+      "Time": "2022-09-14T19:32:34.654233+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 723
     }
   ],
   "Tags": [

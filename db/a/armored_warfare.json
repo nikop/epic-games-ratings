@@ -3,10 +3,10 @@
   "Name": "Armored Warfare",
   "Names": [],
   "Rating": 4.12,
-  "NumberOfRatings": 435,
-  "DailyRatings": 3.85,
+  "NumberOfRatings": 437,
+  "DailyRatings": 4.03,
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2022-09-14T14:00:42.8588272+00:00",
+  "LastChanged": "2022-09-14T19:30:55.1090212+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -542,6 +542,11 @@
       "Time": "2022-09-14T14:00:42.8588274+00:00",
       "Rating": 4.12,
       "NumberOfRatings": 435
+    },
+    {
+      "Time": "2022-09-14T19:30:55.1090213+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": 437
     }
   ],
   "Tags": [
@@ -563,7 +568,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Quickly Understood Controls",
