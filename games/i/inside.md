@@ -1,6 +1,6 @@
 # INSIDE
 Rating: 4.70 (1 434)  
-Ratings Per Day: 13.84  
+Ratings Per Day: 14.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
