@@ -1,6 +1,6 @@
 # God of War
-Rating: 4.89 (4 560)  
-Ratings Per Day: 20.34  
+Rating: 4.89 (4 566)  
+Ratings Per Day: 20.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -58,4 +58,4 @@ Ratings Per Day: 20.34
 | 2022-09-11 | 4.89 | 4 513 |
 | 2022-09-12 | 4.89 | 4 526 |
 | 2022-09-13 | 4.89 | 4 547 |
-| 2022-09-14 | 4.89 | 4 560 |
+| 2022-09-14 | 4.89 | 4 566 |

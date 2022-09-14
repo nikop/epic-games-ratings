@@ -3,10 +3,10 @@
   "Name": "Fault: Elder Orb",
   "Names": [],
   "Rating": 3.9,
-  "NumberOfRatings": 695,
+  "NumberOfRatings": 697,
   "DailyRatings": 4.12,
   "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
-  "LastChanged": "2022-09-14T07:30:55.7915649+00:00",
+  "LastChanged": "2022-09-14T19:01:57.1828975+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.2503477+00:00",
@@ -1182,6 +1182,11 @@
       "Time": "2022-09-14T07:30:55.791565+00:00",
       "Rating": 3.9,
       "NumberOfRatings": 695
+    },
+    {
+      "Time": "2022-09-14T19:01:57.1828976+00:00",
+      "Rating": 3.9,
+      "NumberOfRatings": 697
     }
   ],
   "Tags": [
