@@ -1,6 +1,6 @@
 # Far Cry 5 Standard Edition
 Rating: 4.61 (1 755)  
-Ratings Per Day: 14.22  
+Ratings Per Day: 13.38  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

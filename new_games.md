@@ -1,17 +1,17 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Steelrising](games/s/steelrising.md) | 4.21 | 56 | 10.81 |
+| 1 | [Steelrising](games/s/steelrising.md) | 4.15 | 59 | 10.39 |
 | 2 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.48 | 128 | 16.36 |
 | 3 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.70 | 700 | 94.53 |
 | 4 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.89 | 211 | 12.31 |
 | 5 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 69 | 3.56 |
 | 6 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 605 | 34.90 |
 | 7 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 50 | 3.85 |
-| 8 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 541 | 325.45 |
-| 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 28 593 | 684.99 |
+| 8 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 546 | 323.26 |
+| 9 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 28 593 | 688.04 |
 | 10 | [Saints Row](games/s/saints_row.md) | 3.76 | 20 349 | 331.21 |
 | 11 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 160 | 4.94 |
-| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 487 | 47.56 |
+| 12 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 487 | 50.04 |
 | 13 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 84 | 1.50 |
 | 14 | [DOOM II](games/d/doom_ii.md) | 4.86 | 37 | 1.26 |
 | 15 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 703 | 62.86 |
