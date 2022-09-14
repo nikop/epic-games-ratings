@@ -3,10 +3,10 @@
   "Name": "RimWorld",
   "Names": [],
   "Rating": 4.89,
-  "NumberOfRatings": 830,
-  "DailyRatings": 5.03,
+  "NumberOfRatings": 831,
+  "DailyRatings": 4.86,
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2022-09-13T23:30:56.0611041+00:00",
+  "LastChanged": "2022-09-14T10:01:01.7672618+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -972,6 +972,11 @@
       "Time": "2022-09-13T23:30:56.0611043+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 830
+    },
+    {
+      "Time": "2022-09-14T10:01:01.767262+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": 831
     }
   ],
   "Tags": [
@@ -993,7 +998,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 159
+      "Count": 160
     },
     {
       "Text": "This game is Highly Recommended",
