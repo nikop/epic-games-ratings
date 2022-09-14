@@ -3,10 +3,10 @@
   "Name": "Never Alone (Kisima Ingitchuna)",
   "Names": [],
   "Rating": 4.1,
-  "NumberOfRatings": 158,
-  "DailyRatings": 0.71,
+  "NumberOfRatings": 159,
+  "DailyRatings": 0.75,
   "FirstSeen": "2022-07-22T20:19:05.3781446+00:00",
-  "LastChanged": "2022-09-13T12:00:54.512621+00:00",
+  "LastChanged": "2022-09-14T12:01:09.7395686+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:05.3781448+00:00",
@@ -202,6 +202,11 @@
       "Time": "2022-09-13T12:00:54.5126213+00:00",
       "Rating": 4.1,
       "NumberOfRatings": 158
+    },
+    {
+      "Time": "2022-09-14T12:01:09.7395687+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": 159
     }
   ],
   "Tags": []

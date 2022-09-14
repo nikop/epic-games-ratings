@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.62,
   "NumberOfRatings": 35075,
-  "DailyRatings": 122.44,
+  "DailyRatings": 120,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
   "LastChanged": "2022-09-14T11:30:42.7603235+00:00",
   "RatingHistory": [
@@ -3109,7 +3109,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 8561
+      "Count": 8591
     },
     {
       "Text": "This game has Quickly Understood Controls",
