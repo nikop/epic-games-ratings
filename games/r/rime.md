@@ -1,6 +1,6 @@
 # RiME
 Rating: 4.67 (75)  
-Ratings Per Day: 0.97  
+Ratings Per Day: 0.77  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
