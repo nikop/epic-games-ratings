@@ -1,6 +1,6 @@
 # Metro 2033 Redux
-Rating: 4.68 (5 204)  
-Ratings Per Day: 41.43  
+Rating: 4.68 (5 243)  
+Ratings Per Day: 42.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -58,3 +58,4 @@ Ratings Per Day: 41.43
 | 2022-09-11 | 4.68 | 5 129 |
 | 2022-09-12 | 4.68 | 5 166 |
 | 2022-09-13 | 4.68 | 5 204 |
+| 2022-09-14 | 4.68 | 5 243 |
