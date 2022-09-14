@@ -1,6 +1,6 @@
 # DRAGON QUEST® XI S: Echoes of an Elusive Age™
-Rating: 4.85 (286)  
-Ratings Per Day: 1.61  
+Rating: 4.85 (287)  
+Ratings Per Day: 1.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -53,3 +53,4 @@ Ratings Per Day: 1.61
 | 2022-09-10 | 4.85 | 282 |
 | 2022-09-12 | 4.85 | 285 |
 | 2022-09-13 | 4.85 | 286 |
+| 2022-09-14 | 4.85 | 287 |
