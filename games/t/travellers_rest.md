@@ -1,6 +1,6 @@
 # Travellers Rest
 Rating: 4.56 (50)  
-Ratings Per Day: 3.54  
+Ratings Per Day: 3.85  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
