@@ -3,10 +3,10 @@
   "Name": "Ruined King: A League of Legends Story\u2122",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 573,
-  "DailyRatings": 3.04,
+  "NumberOfRatings": 575,
+  "DailyRatings": 2.68,
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
-  "LastChanged": "2022-09-12T15:31:18.8138062+00:00",
+  "LastChanged": "2022-09-14T02:31:16.6413272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:34.6874312+00:00",
@@ -372,6 +372,11 @@
       "Time": "2022-09-12T15:31:18.8138067+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 573
+    },
+    {
+      "Time": "2022-09-14T02:31:16.6413274+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 575
     }
   ],
   "Tags": [
