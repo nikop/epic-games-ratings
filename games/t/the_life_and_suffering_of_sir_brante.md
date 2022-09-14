@@ -1,6 +1,6 @@
 # The Life and Suffering of Sir Brante
-Rating: 4.80 (30)  
-Ratings Per Day: 0.49  
+Rating: 4.81 (31)  
+Ratings Per Day: 0.40  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.49
 | 2022-09-06 | 4.79 | 28 |
 | 2022-09-09 | 4.79 | 29 |
 | 2022-09-11 | 4.80 | 30 |
+| 2022-09-14 | 4.81 | 31 |

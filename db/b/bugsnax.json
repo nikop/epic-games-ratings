@@ -2,11 +2,11 @@
   "ID": "c42b08b655c04a64a0535331629d4b6d",
   "Name": "Bugsnax",
   "Names": [],
-  "Rating": 4.82,
-  "NumberOfRatings": 398,
-  "DailyRatings": 1.22,
+  "Rating": 4.83,
+  "NumberOfRatings": 401,
+  "DailyRatings": 1.6,
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
-  "LastChanged": "2022-09-13T18:02:50.8080438+00:00",
+  "LastChanged": "2022-09-14T06:02:15.2363624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:14.968778+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-09-13T18:02:50.808044+00:00",
       "Rating": 4.82,
       "NumberOfRatings": 398
+    },
+    {
+      "Time": "2022-09-14T06:02:15.2363625+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 401
     }
   ],
   "Tags": []
