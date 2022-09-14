@@ -3,10 +3,10 @@
   "Name": "Faeria",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 176,
+  "NumberOfRatings": 178,
   "DailyRatings": 1.09,
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2022-09-12T08:00:36.2660132+00:00",
+  "LastChanged": "2022-09-14T03:30:22.6355116+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.9455285+00:00",
@@ -242,12 +242,21 @@
       "Time": "2022-09-12T08:00:36.2660135+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 176
+    },
+    {
+      "Time": "2022-09-14T03:30:22.6355118+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 178
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Count": 62
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 20
     }
   ]
 }
