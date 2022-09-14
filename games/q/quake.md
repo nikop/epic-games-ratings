@@ -1,6 +1,6 @@
 # Quake
 Rating: 4.80 (51)  
-Ratings Per Day: 1.02  
+Ratings Per Day: 1.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
