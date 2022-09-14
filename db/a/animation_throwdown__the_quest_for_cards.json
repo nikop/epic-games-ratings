@@ -3,10 +3,10 @@
   "Name": "Animation Throwdown: The Quest for Cards",
   "Names": [],
   "Rating": 4.35,
-  "NumberOfRatings": 840,
-  "DailyRatings": 2.88,
+  "NumberOfRatings": 841,
+  "DailyRatings": 3,
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2022-09-14T04:30:33.7676827+00:00",
+  "LastChanged": "2022-09-14T06:30:14.9964223+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.5721147+00:00",
@@ -807,6 +807,11 @@
       "Time": "2022-09-14T04:30:33.7676828+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 840
+    },
+    {
+      "Time": "2022-09-14T06:30:14.9964226+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 841
     }
   ],
   "Tags": [
