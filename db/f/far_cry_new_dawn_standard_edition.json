@@ -2,11 +2,11 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "Names": [],
-  "Rating": 4.4,
-  "NumberOfRatings": 320,
-  "DailyRatings": 3.11,
+  "Rating": 4.41,
+  "NumberOfRatings": 323,
+  "DailyRatings": 3.1,
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2022-09-13T17:31:24.4127742+00:00",
+  "LastChanged": "2022-09-14T17:31:18.7670691+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-09-13T17:31:24.4127743+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 320
+    },
+    {
+      "Time": "2022-09-14T17:31:18.7670692+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 323
     }
   ],
   "Tags": [
