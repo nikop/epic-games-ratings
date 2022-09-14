@@ -3,10 +3,10 @@
   "Name": "AXIOM VERGE",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 120,
-  "DailyRatings": 1.85,
+  "NumberOfRatings": 122,
+  "DailyRatings": 2.04,
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2022-09-13T13:01:48.8704684+00:00",
+  "LastChanged": "2022-09-14T00:31:28.2430046+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:58.5809407+00:00",
@@ -202,12 +202,17 @@
       "Time": "2022-09-13T13:01:48.8704685+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 120
+    },
+    {
+      "Time": "2022-09-14T00:31:28.2430047+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 122
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 25
+      "Count": 26
     }
   ]
 }
