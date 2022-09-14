@@ -3,10 +3,10 @@
   "Name": "Diabotical",
   "Names": [],
   "Rating": 4.79,
-  "NumberOfRatings": 535,
-  "DailyRatings": 5.04,
+  "NumberOfRatings": 536,
+  "DailyRatings": 4.21,
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2022-09-12T20:01:03.8671895+00:00",
+  "LastChanged": "2022-09-14T03:01:31.294189+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-09-12T20:01:03.8671897+00:00",
       "Rating": 4.79,
       "NumberOfRatings": 535
+    },
+    {
+      "Time": "2022-09-14T03:01:31.2941892+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 536
     }
   ],
   "Tags": [
@@ -690,7 +695,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 95
+      "Count": 98
     },
     {
       "Text": "This game has Obsessive Gameplay",
