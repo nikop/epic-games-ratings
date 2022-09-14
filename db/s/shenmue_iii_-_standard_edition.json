@@ -2,11 +2,11 @@
   "ID": "5d582c08e31a43128a61093a2c3ff7f0",
   "Name": "Shenmue III - Standard Edition",
   "Names": [],
-  "Rating": 4.06,
-  "NumberOfRatings": 162,
-  "DailyRatings": 1.88,
+  "Rating": 4.07,
+  "NumberOfRatings": 163,
+  "DailyRatings": 1.73,
   "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
-  "LastChanged": "2022-09-13T23:00:20.9806946+00:00",
+  "LastChanged": "2022-09-14T23:30:47.1767403+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:11.0965352+00:00",
@@ -242,6 +242,11 @@
       "Time": "2022-09-13T23:00:20.980695+00:00",
       "Rating": 4.06,
       "NumberOfRatings": 162
+    },
+    {
+      "Time": "2022-09-14T23:30:47.1767406+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": 163
     }
   ],
   "Tags": []

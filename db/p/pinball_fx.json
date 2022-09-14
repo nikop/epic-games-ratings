@@ -2,11 +2,11 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "Names": [],
-  "Rating": 3.97,
-  "NumberOfRatings": 718,
-  "DailyRatings": 4.93,
+  "Rating": 3.98,
+  "NumberOfRatings": 720,
+  "DailyRatings": 5.11,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-09-14T19:30:59.3197044+00:00",
+  "LastChanged": "2022-09-14T23:30:48.7277472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -852,6 +852,11 @@
       "Time": "2022-09-14T19:30:59.3197045+00:00",
       "Rating": 3.97,
       "NumberOfRatings": 718
+    },
+    {
+      "Time": "2022-09-14T23:30:48.7277473+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": 720
     }
   ],
   "Tags": [
@@ -897,7 +902,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has a Competitive Community",

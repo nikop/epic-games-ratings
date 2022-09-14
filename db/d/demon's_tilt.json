@@ -3,10 +3,10 @@
   "Name": "DEMON\u0027S TILT",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 263,
-  "DailyRatings": 1.42,
+  "NumberOfRatings": 264,
+  "DailyRatings": 1.52,
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
-  "LastChanged": "2022-09-14T18:30:30.9986914+00:00",
+  "LastChanged": "2022-09-14T23:30:57.8693384+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:30.3918216+00:00",
@@ -347,6 +347,11 @@
       "Time": "2022-09-14T18:30:30.9986972+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 263
+    },
+    {
+      "Time": "2022-09-14T23:30:57.8693388+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 264
     }
   ],
   "Tags": []
