@@ -1,6 +1,6 @@
 # The Telltale Batman Shadows Edition
-Rating: 4.74 (129)  
-Ratings Per Day: 0.41  
+Rating: 4.74 (130)  
+Ratings Per Day: 0.31  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,3 +42,4 @@ Ratings Per Day: 0.41
 | 2022-09-06 | 4.75 | 126 |
 | 2022-09-07 | 4.73 | 128 |
 | 2022-09-10 | 4.74 | 129 |
+| 2022-09-14 | 4.74 | 130 |

@@ -2,11 +2,11 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "Names": [],
-  "Rating": 4.52,
-  "NumberOfRatings": 652,
-  "DailyRatings": 4.73,
+  "Rating": 4.51,
+  "NumberOfRatings": 654,
+  "DailyRatings": 4.98,
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2022-09-14T02:30:19.4468145+00:00",
+  "LastChanged": "2022-09-14T04:00:28.0950119+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.1466756+00:00",
@@ -752,6 +752,11 @@
       "Time": "2022-09-14T02:30:19.4468148+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 652
+    },
+    {
+      "Time": "2022-09-14T04:00:28.0950121+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 654
     }
   ],
   "Tags": [
@@ -777,7 +782,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 118
+      "Count": 119
     },
     {
       "Text": "This game has Amazing Characters",
