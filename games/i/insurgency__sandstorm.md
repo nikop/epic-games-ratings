@@ -1,6 +1,6 @@
 # Insurgency: Sandstorm
-Rating: 4.59 (1 270)  
-Ratings Per Day: 8.63  
+Rating: 4.59 (1 271)  
+Ratings Per Day: 8.41  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -58,4 +58,4 @@ Ratings Per Day: 8.63
 | 2022-09-11 | 4.59 | 1 258 |
 | 2022-09-12 | 4.59 | 1 265 |
 | 2022-09-13 | 4.59 | 1 268 |
-| 2022-09-14 | 4.59 | 1 270 |
+| 2022-09-14 | 4.59 | 1 271 |

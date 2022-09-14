@@ -2,11 +2,11 @@
   "ID": "6ee03ef340e641a781eb375192bfa105",
   "Name": "Forgive Me Father",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 36,
-  "DailyRatings": 0.99,
+  "Rating": 4.46,
+  "NumberOfRatings": 37,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:28:29.9349007+00:00",
-  "LastChanged": "2022-09-10T14:31:11.5789719+00:00",
+  "LastChanged": "2022-09-14T15:01:51.3141763+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:29.934901+00:00",
@@ -77,6 +77,11 @@
       "Time": "2022-09-10T14:31:11.5789721+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-09-14T15:01:51.3141765+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 37
     }
   ],
   "Tags": []
