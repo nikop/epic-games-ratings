@@ -3,10 +3,10 @@
   "Name": "Crayta",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 88,
-  "DailyRatings": 0.35,
+  "NumberOfRatings": 89,
+  "DailyRatings": 0.45,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-09-13T07:31:15.3015569+00:00",
+  "LastChanged": "2022-09-14T09:01:45.5973761+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-09-13T07:31:15.301557+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 88
+    },
+    {
+      "Time": "2022-09-14T09:01:45.5973763+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 89
     }
   ],
   "Tags": [
@@ -145,7 +150,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Great for Beginners",
