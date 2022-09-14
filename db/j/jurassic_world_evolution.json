@@ -3,10 +3,10 @@
   "Name": "Jurassic World Evolution",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 8860,
-  "DailyRatings": 48.6,
+  "NumberOfRatings": 8869,
+  "DailyRatings": 47.14,
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2022-09-14T03:01:02.4376675+00:00",
+  "LastChanged": "2022-09-14T12:31:28.9516609+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.0085436+00:00",
@@ -2222,6 +2222,11 @@
       "Time": "2022-09-14T03:01:02.4376681+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 8860
+    },
+    {
+      "Time": "2022-09-14T12:31:28.9516612+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 8869
     }
   ],
   "Tags": [
