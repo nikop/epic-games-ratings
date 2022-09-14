@@ -3,10 +3,10 @@
   "Name": "Spellbreak",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 962,
-  "DailyRatings": 7.56,
+  "NumberOfRatings": 963,
+  "DailyRatings": 7.62,
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-09-14T14:30:24.9820646+00:00",
+  "LastChanged": "2022-09-14T18:00:32.7652026+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -567,12 +567,17 @@
       "Time": "2022-09-14T14:30:24.9820648+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 962
+    },
+    {
+      "Time": "2022-09-14T18:00:32.7652027+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 963
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 215
+      "Count": 216
     }
   ]
 }
