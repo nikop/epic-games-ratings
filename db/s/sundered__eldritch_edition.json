@@ -2,11 +2,11 @@
   "ID": "ca8077d80493497188e0ca5bca3ebe60",
   "Name": "Sundered: Eldritch Edition",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 164,
-  "DailyRatings": 0.99,
+  "Rating": 4.51,
+  "NumberOfRatings": 166,
+  "DailyRatings": 0.83,
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2022-09-11T19:33:21.4710528+00:00",
+  "LastChanged": "2022-09-14T14:32:22.1158107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:53.2112199+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-09-11T19:33:21.4710531+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 164
+    },
+    {
+      "Time": "2022-09-14T14:32:22.1158108+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 166
     }
   ],
   "Tags": [
