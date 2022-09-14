@@ -3,10 +3,10 @@
   "Name": "Ancient Enemy",
   "Names": [],
   "Rating": 3.95,
-  "NumberOfRatings": 2042,
-  "DailyRatings": 5.62,
+  "NumberOfRatings": 2045,
+  "DailyRatings": 5.8,
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
-  "LastChanged": "2022-09-14T15:01:08.4637001+00:00",
+  "LastChanged": "2022-09-14T23:00:27.9789186+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.0310517+00:00",
@@ -627,6 +627,11 @@
       "Time": "2022-09-14T15:01:08.4637003+00:00",
       "Rating": 3.95,
       "NumberOfRatings": 2042
+    },
+    {
+      "Time": "2022-09-14T23:00:27.9789189+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": 2045
     }
   ],
   "Tags": [
@@ -648,7 +653,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Highly Recommended",
