@@ -3,10 +3,10 @@
   "Name": "Dandara: Trials of Fear Edition",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 156,
-  "DailyRatings": 0.65,
+  "NumberOfRatings": 157,
+  "DailyRatings": 0.75,
   "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
-  "LastChanged": "2022-09-13T13:00:47.0875948+00:00",
+  "LastChanged": "2022-09-14T01:30:27.2967669+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:00.1334632+00:00",
@@ -227,12 +227,17 @@
       "Time": "2022-09-13T13:00:47.087595+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 156
+    },
+    {
+      "Time": "2022-09-14T01:30:27.2967673+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 157
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 30
+      "Count": 31
     }
   ]
 }
