@@ -3,10 +3,10 @@
   "Name": "Void Bastards",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 913,
-  "DailyRatings": 9.94,
+  "NumberOfRatings": 918,
+  "DailyRatings": 9.25,
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2022-09-13T22:02:03.5312436+00:00",
+  "LastChanged": "2022-09-14T20:31:31.826664+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:35.6625017+00:00",
@@ -477,6 +477,11 @@
       "Time": "2022-09-13T22:02:03.5312437+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 913
+    },
+    {
+      "Time": "2022-09-14T20:31:31.8266642+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 918
     }
   ],
   "Tags": []
