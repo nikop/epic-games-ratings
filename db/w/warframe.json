@@ -3,10 +3,10 @@
   "Name": "Warframe",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 11416,
-  "DailyRatings": 163.73,
+  "NumberOfRatings": 11424,
+  "DailyRatings": 163.4,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2022-09-14T14:30:20.7260065+00:00",
+  "LastChanged": "2022-09-14T16:00:51.8418457+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -2722,6 +2722,11 @@
       "Time": "2022-09-14T14:30:20.7260068+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 11416
+    },
+    {
+      "Time": "2022-09-14T16:00:51.841846+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 11424
     }
   ],
   "Tags": [
@@ -2759,7 +2764,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 1070
+      "Count": 1089
     },
     {
       "Text": "This game has a Kind Community",

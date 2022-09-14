@@ -3,10 +3,10 @@
   "Name": "Mafia II: Definitive Edition",
   "Names": [],
   "Rating": 4.38,
-  "NumberOfRatings": 938,
-  "DailyRatings": 9.78,
+  "NumberOfRatings": 943,
+  "DailyRatings": 9.63,
   "FirstSeen": "2022-07-22T20:27:51.6879744+00:00",
-  "LastChanged": "2022-09-14T01:32:04.1913892+00:00",
+  "LastChanged": "2022-09-14T16:02:15.4618075+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:51.6879747+00:00",
@@ -477,6 +477,11 @@
       "Time": "2022-09-14T01:32:04.1913894+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 938
+    },
+    {
+      "Time": "2022-09-14T16:02:15.4618077+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 943
     }
   ],
   "Tags": []

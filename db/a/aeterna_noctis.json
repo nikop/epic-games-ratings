@@ -2,8 +2,18 @@
   "ID": "4b9bd8b8a4804e088d3412062a4f0251",
   "Name": "Aeterna Noctis",
   "Names": [],
+  "Rating": 4.35,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:49.6622036+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-09-14T16:00:55.3418121+00:00",
+  "LastChanged": "2022-09-14T16:00:55.3418122+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-09-14T16:00:55.3418126+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }
