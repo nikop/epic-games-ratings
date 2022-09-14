@@ -3,10 +3,10 @@
   "Name": "A Plague Tale: Innocence",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 10074,
-  "DailyRatings": 85.69,
+  "NumberOfRatings": 10082,
+  "DailyRatings": 83.97,
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
-  "LastChanged": "2022-09-13T23:31:22.5478238+00:00",
+  "LastChanged": "2022-09-14T05:00:59.8149776+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:00.8447802+00:00",
@@ -882,6 +882,11 @@
       "Time": "2022-09-13T23:31:22.5478239+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 10074
+    },
+    {
+      "Time": "2022-09-14T05:00:59.8149778+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 10082
     }
   ],
   "Tags": [
