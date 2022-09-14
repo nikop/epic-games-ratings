@@ -2,12 +2,12 @@
   "ID": "36d3389b16b14deeb527754f6393469b",
   "Name": "Gravewood High",
   "Names": [],
-  "Rating": 4.17,
-  "NumberOfRatings": 29,
-  "DailyRatings": 0.99,
+  "Rating": 4.13,
+  "NumberOfRatings": 30,
+  "DailyRatings": 0.57,
   "FirstSeen": "2022-07-22T20:23:07.1625329+00:00",
   "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
-  "LastChanged": "2022-09-10T23:01:18.8094392+00:00",
+  "LastChanged": "2022-09-14T22:01:41.876261+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-20T03:01:10.1611706+00:00",
@@ -63,6 +63,11 @@
       "Time": "2022-09-10T23:01:18.8094394+00:00",
       "Rating": 4.17,
       "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-09-14T22:01:41.8762611+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": 30
     }
   ],
   "Tags": []
