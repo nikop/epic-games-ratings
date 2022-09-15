@@ -1,6 +1,6 @@
 # Batman Arkham Asylum Game of the Year Edition
-Rating: 4.66 (2 030)  
-Ratings Per Day: 17.81  
+Rating: 4.66 (2 043)  
+Ratings Per Day: 17.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -59,4 +59,4 @@ Ratings Per Day: 17.81
 | 2022-09-12 | 4.66 | 1 979 |
 | 2022-09-13 | 4.66 | 2 009 |
 | 2022-09-14 | 4.66 | 2 023 |
-| 2022-09-15 | 4.66 | 2 030 |
+| 2022-09-15 | 4.66 | 2 043 |
