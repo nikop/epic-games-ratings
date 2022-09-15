@@ -1,6 +1,6 @@
 # Haven
-Rating: 4.86 (35)  
-Ratings Per Day: 0.00  
+Rating: 4.83 (36)  
+Ratings Per Day: 0.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.00
 | 2022-09-05 | 4.84 | 32 |
 | 2022-09-08 | 4.85 | 34 |
 | 2022-09-10 | 4.86 | 35 |
+| 2022-09-15 | 4.83 | 36 |

@@ -3,11 +3,11 @@
   "Name": "Disney Dreamlight Valley",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 793,
-  "DailyRatings": 87.83,
+  "NumberOfRatings": 797,
+  "DailyRatings": 87.49,
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
-  "LastChanged": "2022-09-15T16:31:57.7442479+00:00",
+  "LastChanged": "2022-09-15T17:30:55.4559162+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-06T23:00:48.1100288+00:00",
@@ -403,6 +403,11 @@
       "Time": "2022-09-15T16:31:57.744248+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 793
+    },
+    {
+      "Time": "2022-09-15T17:30:55.4559164+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 797
     }
   ],
   "Tags": [
@@ -416,7 +421,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 28
+      "Count": 38
     },
     {
       "Text": "This game is Highly Recommended",
@@ -424,7 +429,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 28
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
