@@ -3,10 +3,10 @@
   "Name": "Nuclear Throne",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 593,
-  "DailyRatings": 4.91,
+  "NumberOfRatings": 594,
+  "DailyRatings": 4.47,
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2022-09-14T17:02:10.3359077+00:00",
+  "LastChanged": "2022-09-15T13:02:12.6698433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
@@ -662,6 +662,11 @@
       "Time": "2022-09-14T17:02:10.3359078+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 593
+    },
+    {
+      "Time": "2022-09-15T13:02:12.6698434+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 594
     }
   ],
   "Tags": [
@@ -671,7 +676,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 150
+      "Count": 153
     },
     {
       "Text": "This game has Unique Visuals",

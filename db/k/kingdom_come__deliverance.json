@@ -3,10 +3,10 @@
   "Name": "Kingdom Come: Deliverance",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 8640,
-  "DailyRatings": 59.61,
+  "NumberOfRatings": 8643,
+  "DailyRatings": 59.15,
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
-  "LastChanged": "2022-09-15T10:30:19.8194944+00:00",
+  "LastChanged": "2022-09-15T13:00:45.9486107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.2310156+00:00",
@@ -2832,6 +2832,11 @@
       "Time": "2022-09-15T10:30:19.8194947+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 8640
+    },
+    {
+      "Time": "2022-09-15T13:00:45.948611+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 8643
     }
   ],
   "Tags": [

@@ -1,6 +1,6 @@
 # The Walking Dead: Season One
-Rating: 4.83 (66)  
-Ratings Per Day: 0.00  
+Rating: 4.84 (68)  
+Ratings Per Day: 0.30  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 0.00
 | 2022-09-04 | 4.83 | 64 |
 | 2022-09-06 | 4.83 | 65 |
 | 2022-09-08 | 4.83 | 66 |
+| 2022-09-15 | 4.84 | 68 |
