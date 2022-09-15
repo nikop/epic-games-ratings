@@ -3,10 +3,10 @@
   "Name": "INSIDE",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 1434,
-  "DailyRatings": 14.17,
+  "NumberOfRatings": 1453,
+  "DailyRatings": 14.9,
   "FirstSeen": "2022-07-22T20:27:08.8041774+00:00",
-  "LastChanged": "2022-09-14T12:32:37.2988995+00:00",
+  "LastChanged": "2022-09-15T12:31:46.3789081+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:08.8041777+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-09-14T12:32:37.2988997+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 1434
+    },
+    {
+      "Time": "2022-09-15T12:31:46.3789083+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 1453
     }
   ],
   "Tags": []
