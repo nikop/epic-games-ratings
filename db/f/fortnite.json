@@ -3,10 +3,10 @@
   "Name": "Fortnite",
   "Names": [],
   "Rating": 4.3,
-  "NumberOfRatings": 2178467,
-  "DailyRatings": 8778.71,
+  "NumberOfRatings": 2179093,
+  "DailyRatings": 8762.76,
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2022-09-15T21:00:25.3748051+00:00",
+  "LastChanged": "2022-09-15T23:01:05.2089972+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:41.6739551+00:00",
@@ -3207,6 +3207,11 @@
       "Time": "2022-09-15T21:00:25.3748052+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 2178467
+    },
+    {
+      "Time": "2022-09-15T23:01:05.2089975+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 2179093
     }
   ],
   "Tags": [
