@@ -1,6 +1,6 @@
 # Nioh 2 – The Complete Edition
 Rating: 4.79 (2 394)  
-Ratings Per Day: 11.75  
+Ratings Per Day: 11.85  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

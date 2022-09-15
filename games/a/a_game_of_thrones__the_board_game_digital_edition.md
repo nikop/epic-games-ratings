@@ -1,6 +1,6 @@
 # A Game Of Thrones: The Board Game Digital Edition
-Rating: 4.19 (2 448)  
-Ratings Per Day: 6.71  
+Rating: 4.19 (2 449)  
+Ratings Per Day: 6.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -59,3 +59,4 @@ Ratings Per Day: 6.71
 | 2022-09-12 | 4.19 | 2 437 |
 | 2022-09-13 | 4.19 | 2 445 |
 | 2022-09-14 | 4.19 | 2 448 |
+| 2022-09-15 | 4.19 | 2 449 |
