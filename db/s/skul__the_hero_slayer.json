@@ -3,10 +3,10 @@
   "Name": "Skul: The Hero Slayer",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 531,
-  "DailyRatings": 0.78,
+  "NumberOfRatings": 532,
+  "DailyRatings": 0.87,
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "LastChanged": "2022-09-15T08:02:38.4896979+00:00",
+  "LastChanged": "2022-09-15T20:03:16.9164074+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:36.7483718+00:00",
@@ -402,6 +402,11 @@
       "Time": "2022-09-15T08:02:38.489698+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 531
+    },
+    {
+      "Time": "2022-09-15T20:03:16.9164076+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 532
     }
   ],
   "Tags": [

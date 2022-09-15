@@ -3,10 +3,10 @@
   "Name": "Sonic Origins",
   "Names": [],
   "Rating": 4.54,
-  "NumberOfRatings": 148,
-  "DailyRatings": 0.89,
+  "NumberOfRatings": 149,
+  "DailyRatings": 0.48,
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
-  "LastChanged": "2022-09-11T19:01:49.3751909+00:00",
+  "LastChanged": "2022-09-15T20:02:22.8237509+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:50.9782297+00:00",
@@ -132,6 +132,11 @@
       "Time": "2022-09-11T19:01:49.3751912+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 148
+    },
+    {
+      "Time": "2022-09-15T20:02:22.8237511+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 149
     }
   ],
   "Tags": [
