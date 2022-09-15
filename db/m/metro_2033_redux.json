@@ -3,10 +3,10 @@
   "Name": "Metro 2033 Redux",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 5269,
-  "DailyRatings": 46.31,
+  "NumberOfRatings": 5277,
+  "DailyRatings": 44.67,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-09-14T21:31:06.9666628+00:00",
+  "LastChanged": "2022-09-15T07:02:35.6777055+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -617,6 +617,11 @@
       "Time": "2022-09-14T21:31:06.9666629+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 5269
+    },
+    {
+      "Time": "2022-09-15T07:02:35.6777058+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 5277
     }
   ],
   "Tags": [
