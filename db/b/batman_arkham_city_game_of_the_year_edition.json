@@ -3,10 +3,10 @@
   "Name": "Batman Arkham City Game of the Year Edition",
   "Names": [],
   "Rating": 4.78,
-  "NumberOfRatings": 2665,
-  "DailyRatings": 20.53,
+  "NumberOfRatings": 2668,
+  "DailyRatings": 20.17,
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2022-09-15T14:30:52.8149611+00:00",
+  "LastChanged": "2022-09-15T17:01:27.011142+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.6256325+00:00",
@@ -1012,6 +1012,11 @@
       "Time": "2022-09-15T14:30:52.8149613+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 2665
+    },
+    {
+      "Time": "2022-09-15T17:01:27.0111422+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 2668
     }
   ],
   "Tags": [

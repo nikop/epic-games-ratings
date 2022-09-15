@@ -1,6 +1,6 @@
 # Grindstone
 Rating: 4.87 (60)  
-Ratings Per Day: 0.70  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
