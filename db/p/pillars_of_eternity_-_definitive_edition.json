@@ -3,10 +3,10 @@
   "Name": "Pillars of Eternity - Definitive Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 2662,
-  "DailyRatings": 18.51,
+  "NumberOfRatings": 2674,
+  "DailyRatings": 18.5,
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
-  "LastChanged": "2022-09-14T22:02:08.6466389+00:00",
+  "LastChanged": "2022-09-15T13:31:39.5127741+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:19.0250265+00:00",
@@ -1827,12 +1827,17 @@
       "Time": "2022-09-14T22:02:08.646639+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 2662
+    },
+    {
+      "Time": "2022-09-15T13:31:39.5127743+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 2674
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1052
+      "Count": 1066
     },
     {
       "Text": "This game has Amazing Characters",
