@@ -1,6 +1,6 @@
 # DEMON'S TILT
 Rating: 4.50 (264)  
-Ratings Per Day: 1.52  
+Ratings Per Day: 1.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
