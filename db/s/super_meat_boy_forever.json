@@ -3,11 +3,11 @@
   "Name": "Super Meat Boy Forever",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 23,
-  "DailyRatings": 0,
+  "NumberOfRatings": 24,
+  "DailyRatings": 0.2,
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
-  "LastChanged": "2022-09-10T13:31:22.1998131+00:00",
+  "LastChanged": "2022-09-15T15:01:52.9445478+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T12:31:23.1316512+00:00",
@@ -28,6 +28,11 @@
       "Time": "2022-09-10T13:31:22.1998132+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 23
+    },
+    {
+      "Time": "2022-09-15T15:01:52.9445479+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 24
     }
   ],
   "Tags": []
