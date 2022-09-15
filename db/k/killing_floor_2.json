@@ -3,10 +3,10 @@
   "Name": "Killing Floor 2",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 18041,
-  "DailyRatings": 59.34,
+  "NumberOfRatings": 18044,
+  "DailyRatings": 59.23,
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2022-09-15T05:00:29.4968402+00:00",
+  "LastChanged": "2022-09-15T06:30:23.4819833+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.1518677+00:00",
@@ -2817,6 +2817,11 @@
       "Time": "2022-09-15T05:00:29.4968404+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 18041
+    },
+    {
+      "Time": "2022-09-15T06:30:23.4819839+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 18044
     }
   ],
   "Tags": [
@@ -2834,7 +2839,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 792
+      "Count": 803
     },
     {
       "Text": "This game has Quickly Understood Controls",
