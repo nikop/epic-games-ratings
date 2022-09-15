@@ -194,5 +194,10 @@
       "NumberOfRatings": 106
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Count": 21
+    }
+  ]
 }

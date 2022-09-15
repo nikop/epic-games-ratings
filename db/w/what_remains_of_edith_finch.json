@@ -3,10 +3,10 @@
   "Name": "What Remains of Edith Finch",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 68,
-  "DailyRatings": 0.8,
+  "NumberOfRatings": 69,
+  "DailyRatings": 0.83,
   "FirstSeen": "2022-07-22T20:30:14.3324277+00:00",
-  "LastChanged": "2022-09-14T05:02:05.087209+00:00",
+  "LastChanged": "2022-09-15T05:02:43.6359375+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:14.3324279+00:00",
@@ -147,6 +147,11 @@
       "Time": "2022-09-14T05:02:05.0872091+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 68
+    },
+    {
+      "Time": "2022-09-15T05:02:43.6359377+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 69
     }
   ],
   "Tags": []

@@ -2,11 +2,11 @@
   "ID": "amaranth",
   "Name": "Ancestors: The Humankind Odyssey",
   "Names": [],
-  "Rating": 4.63,
-  "NumberOfRatings": 447,
-  "DailyRatings": 4.88,
+  "Rating": 4.62,
+  "NumberOfRatings": 449,
+  "DailyRatings": 4.69,
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2022-09-14T13:01:15.1274126+00:00",
+  "LastChanged": "2022-09-15T05:01:15.8124044+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:27.1808232+00:00",
@@ -432,12 +432,17 @@
       "Time": "2022-09-14T13:01:15.1274128+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 447
+    },
+    {
+      "Time": "2022-09-15T05:01:15.8124046+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 449
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Educational",
