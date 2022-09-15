@@ -1,6 +1,6 @@
 # Oddworld Soulstorm
-Rating: 4.69 (67)  
-Ratings Per Day: 0.74  
+Rating: 4.68 (68)  
+Ratings Per Day: 0.78  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Ratings Per Day: 0.74
 | 2022-09-11 | 4.68 | 65 |
 | 2022-09-12 | 4.68 | 66 |
 | 2022-09-14 | 4.69 | 67 |
+| 2022-09-15 | 4.68 | 68 |

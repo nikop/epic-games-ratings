@@ -2,11 +2,11 @@
   "ID": "158a0eaa18574bb39347c04286d118c7",
   "Name": "SLUDGE LIFE",
   "Names": [],
-  "Rating": 4.72,
-  "NumberOfRatings": 159,
-  "DailyRatings": 2.74,
+  "Rating": 4.73,
+  "NumberOfRatings": 160,
+  "DailyRatings": 1.96,
   "FirstSeen": "2022-07-22T20:20:12.4151557+00:00",
-  "LastChanged": "2022-09-13T12:01:02.5758535+00:00",
+  "LastChanged": "2022-09-15T14:30:44.1717058+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:12.4151559+00:00",
@@ -232,6 +232,11 @@
       "Time": "2022-09-13T12:01:02.5759143+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 159
+    },
+    {
+      "Time": "2022-09-15T14:30:44.171706+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 160
     }
   ],
   "Tags": []

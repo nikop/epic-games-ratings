@@ -2,11 +2,11 @@
   "ID": "270e1d648a5e4060b7b441615c4da4d9",
   "Name": "Figment",
   "Names": [],
-  "Rating": 4.42,
-  "NumberOfRatings": 102,
-  "DailyRatings": 1.36,
+  "Rating": 4.43,
+  "NumberOfRatings": 103,
+  "DailyRatings": 1.31,
   "FirstSeen": "2022-07-22T20:26:25.7495486+00:00",
-  "LastChanged": "2022-09-14T14:31:32.4728479+00:00",
+  "LastChanged": "2022-09-15T14:31:39.930678+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:25.7495489+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-09-14T14:31:32.472848+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 102
+    },
+    {
+      "Time": "2022-09-15T14:31:39.9306782+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 103
     }
   ],
   "Tags": []
