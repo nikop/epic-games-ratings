@@ -1,6 +1,6 @@
 # OUTRIDERS
 Rating: 4.42 (1 171)  
-Ratings Per Day: 5.55  
+Ratings Per Day: 5.30  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

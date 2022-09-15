@@ -3,10 +3,10 @@
   "Name": "In Sound Mind",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 1824,
-  "DailyRatings": 12.04,
+  "NumberOfRatings": 1837,
+  "DailyRatings": 12.86,
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
-  "LastChanged": "2022-09-15T04:01:39.3951983+00:00",
+  "LastChanged": "2022-09-15T18:32:12.1911735+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:02.4787934+00:00",
@@ -742,6 +742,11 @@
       "Time": "2022-09-15T04:01:39.3951985+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 1824
+    },
+    {
+      "Time": "2022-09-15T18:32:12.1911737+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 1837
     }
   ],
   "Tags": [
@@ -755,7 +760,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game has Obsessive Gameplay",
