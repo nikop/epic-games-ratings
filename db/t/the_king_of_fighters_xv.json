@@ -3,10 +3,10 @@
   "Name": "THE KING OF FIGHTERS XV",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 180,
-  "DailyRatings": 0,
+  "NumberOfRatings": 181,
+  "DailyRatings": 0.18,
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2022-09-09T13:01:28.6291092+00:00",
+  "LastChanged": "2022-09-15T02:30:39.7711145+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:01.2233815+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-09-09T13:01:28.6291094+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 180
+    },
+    {
+      "Time": "2022-09-15T02:30:39.7711146+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 181
     }
   ],
   "Tags": [
