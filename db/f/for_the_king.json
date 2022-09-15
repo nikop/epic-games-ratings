@@ -3,10 +3,10 @@
   "Name": "For The King",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 5237,
-  "DailyRatings": 40.66,
+  "NumberOfRatings": 5245,
+  "DailyRatings": 40.71,
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2022-09-15T07:31:30.5550798+00:00",
+  "LastChanged": "2022-09-15T12:02:49.4467816+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -1907,6 +1907,11 @@
       "Time": "2022-09-15T07:31:30.55508+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 5237
+    },
+    {
+      "Time": "2022-09-15T12:02:49.4467817+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 5245
     }
   ],
   "Tags": [
@@ -1916,7 +1921,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 180
+      "Count": 182
     },
     {
       "Text": "This game has Challenging Combat",
