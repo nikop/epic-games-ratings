@@ -1,6 +1,6 @@
 # Lumberjack's Dynasty
 Rating: 4.05 (58)  
-Ratings Per Day: 0.74  
+Ratings Per Day: 0.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
