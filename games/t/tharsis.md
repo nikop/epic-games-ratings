@@ -1,6 +1,6 @@
 # Tharsis
 Rating: 4.16 (55)  
-Ratings Per Day: 0.64  
+Ratings Per Day: 0.54  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
