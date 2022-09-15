@@ -1,6 +1,6 @@
 # Hundred Days - Winemaking Simulator
-Rating: 4.33 (4 985)  
-Ratings Per Day: 744.97  
+Rating: 4.33 (5 044)  
+Ratings Per Day: 749.22  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 744.97
 | 2022-09-12 | 4.30 | 2 839 |
 | 2022-09-13 | 4.32 | 3 604 |
 | 2022-09-14 | 4.33 | 4 337 |
-| 2022-09-15 | 4.33 | 4 985 |
+| 2022-09-15 | 4.33 | 5 044 |

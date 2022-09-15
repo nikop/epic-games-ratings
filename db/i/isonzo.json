@@ -2,8 +2,18 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "Names": [],
+  "Rating": 4.59,
+  "NumberOfRatings": 22,
   "DailyRatings": 0,
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
+  "LastChanged": "2022-09-15T19:30:41.9786441+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-09-15T19:30:41.9786444+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 22
+    }
+  ],
   "Tags": []
 }
