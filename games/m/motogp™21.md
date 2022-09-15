@@ -1,6 +1,6 @@
 # MotoGP™21
-Rating: 4.55 (93)  
-Ratings Per Day: 0.34  
+Rating: 4.55 (94)  
+Ratings Per Day: 0.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,3 +26,4 @@ Ratings Per Day: 0.34
 | 2022-09-08 | 4.58 | 91 |
 | 2022-09-09 | 4.59 | 92 |
 | 2022-09-14 | 4.55 | 93 |
+| 2022-09-15 | 4.55 | 94 |
