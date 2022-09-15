@@ -3,10 +3,10 @@
   "Name": "Tropico 5",
   "Names": [],
   "Rating": 4.46,
-  "NumberOfRatings": 1886,
-  "DailyRatings": 15.01,
+  "NumberOfRatings": 1890,
+  "DailyRatings": 15.07,
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2022-09-15T09:30:34.2017115+00:00",
+  "LastChanged": "2022-09-15T16:31:38.8085202+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:35.4138307+00:00",
@@ -1292,6 +1292,11 @@
       "Time": "2022-09-15T09:30:34.2017117+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 1886
+    },
+    {
+      "Time": "2022-09-15T16:31:38.8085205+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 1890
     }
   ],
   "Tags": [
@@ -1313,7 +1318,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Characters",

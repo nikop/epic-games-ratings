@@ -3,10 +3,10 @@
   "Name": "while True: learn()",
   "Names": [],
   "Rating": 4.51,
-  "NumberOfRatings": 844,
-  "DailyRatings": 7.21,
+  "NumberOfRatings": 849,
+  "DailyRatings": 7.09,
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2022-09-14T21:31:14.2783999+00:00",
+  "LastChanged": "2022-09-15T16:31:54.64028+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
@@ -347,12 +347,17 @@
       "Time": "2022-09-14T21:31:14.2784001+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 844
+    },
+    {
+      "Time": "2022-09-15T16:31:54.6402802+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 849
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 75
+      "Count": 77
     }
   ]
 }
