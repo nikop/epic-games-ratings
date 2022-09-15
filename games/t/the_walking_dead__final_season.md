@@ -1,6 +1,6 @@
 # The Walking Dead: Final Season
 Rating: 4.75 (53)  
-Ratings Per Day: 0.61  
+Ratings Per Day: 1.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
