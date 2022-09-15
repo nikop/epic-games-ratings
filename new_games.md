@@ -3,14 +3,14 @@
 | 1 | [Isonzo](games/i/isonzo.md) | 4.59 | 22 | 0.00 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.22 | 79 | 11.08 |
 | 3 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.48 | 139 | 11.27 |
-| 4 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 841 | 91.98 |
+| 4 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 841 | 89.93 |
 | 5 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.89 | 224 | 10.38 |
 | 6 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 74 | 3.42 |
-| 7 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 653 | 30.27 |
+| 7 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 653 | 30.85 |
 | 8 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 53 | 2.66 |
 | 9 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 834 | 267.26 |
 | 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 388 | 616.56 |
-| 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 20 788 | 305.75 |
+| 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 20 806 | 305.56 |
 | 12 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.15 | 169 | 5.46 |
 | 13 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.20 | 579 | 55.76 |
 | 14 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 86 | 1.45 |
