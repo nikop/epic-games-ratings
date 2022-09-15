@@ -1,6 +1,6 @@
 # Travellers Rest
-Rating: 4.57 (51)  
-Ratings Per Day: 2.79  
+Rating: 4.58 (53)  
+Ratings Per Day: 2.66  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 2.79
 | 2022-09-12 | 4.53 | 47 |
 | 2022-09-13 | 4.56 | 50 |
 | 2022-09-14 | 4.57 | 51 |
+| 2022-09-15 | 4.58 | 53 |

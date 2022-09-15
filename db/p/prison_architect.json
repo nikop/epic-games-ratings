@@ -3,10 +3,10 @@
   "Name": "Prison Architect",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 4250,
-  "DailyRatings": 32.93,
+  "NumberOfRatings": 4253,
+  "DailyRatings": 32.67,
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2022-09-15T06:30:26.4649577+00:00",
+  "LastChanged": "2022-09-15T10:00:47.119659+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -1922,6 +1922,11 @@
       "Time": "2022-09-15T06:30:26.464958+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 4250
+    },
+    {
+      "Time": "2022-09-15T10:00:47.1196591+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 4253
     }
   ],
   "Tags": [
