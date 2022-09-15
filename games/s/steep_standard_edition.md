@@ -1,6 +1,6 @@
 # Steep Standard Edition
-Rating: 4.61 (394)  
-Ratings Per Day: 3.05  
+Rating: 4.61 (397)  
+Ratings Per Day: 3.04  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -55,3 +55,4 @@ Ratings Per Day: 3.05
 | 2022-09-11 | 4.61 | 389 |
 | 2022-09-12 | 4.61 | 391 |
 | 2022-09-14 | 4.61 | 394 |
+| 2022-09-15 | 4.61 | 397 |
