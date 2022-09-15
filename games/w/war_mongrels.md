@@ -1,6 +1,6 @@
 # War Mongrels
-Rating: 4.45 (31)  
-Ratings Per Day: 1.00  
+Rating: 4.44 (32)  
+Ratings Per Day: 0.32  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 1.00
 | 2022-09-07 | 4.45 | 29 |
 | 2022-09-09 | 4.47 | 30 |
 | 2022-09-10 | 4.45 | 31 |
+| 2022-09-15 | 4.44 | 32 |

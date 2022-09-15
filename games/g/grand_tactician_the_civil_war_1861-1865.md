@@ -1,6 +1,6 @@
 # Grand Tactician The Civil War 1861-1865
-Rating: 4.21 (28)  
-Ratings Per Day: 0.00  
+Rating: 4.21 (29)  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Ratings Per Day: 0.00
 | 2022-08-24 | 4.19 | 26 |
 | 2022-09-07 | 4.19 | 27 |
 | 2022-09-13 | 4.21 | 28 |
+| 2022-09-15 | 4.21 | 29 |
