@@ -1,6 +1,6 @@
 # Hob
-Rating: 4.60 (427)  
-Ratings Per Day: 3.97  
+Rating: 4.60 (429)  
+Ratings Per Day: 3.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -56,3 +56,4 @@ Ratings Per Day: 3.97
 | 2022-09-12 | 4.60 | 424 |
 | 2022-09-13 | 4.60 | 425 |
 | 2022-09-14 | 4.60 | 427 |
+| 2022-09-15 | 4.60 | 429 |
