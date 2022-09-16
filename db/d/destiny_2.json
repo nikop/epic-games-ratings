@@ -3,11 +3,11 @@
   "Name": "Destiny 2",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 29681,
-  "DailyRatings": 611.95,
+  "NumberOfRatings": 29713,
+  "DailyRatings": 611.69,
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2022-09-16T08:01:01.9793548+00:00",
+  "LastChanged": "2022-09-16T09:30:45.6739593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -1288,12 +1288,17 @@
       "Time": "2022-09-16T08:01:01.9793551+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 29681
+    },
+    {
+      "Time": "2022-09-16T09:30:45.6739597+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 29713
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 14968
+      "Count": 15049
     },
     {
       "Text": "This game is Extremely Fun",
