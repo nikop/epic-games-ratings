@@ -1,6 +1,6 @@
 # Jurassic World Evolution 2
 Rating: 4.74 (3 643)  
-Ratings Per Day: 15.50  
+Ratings Per Day: 15.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

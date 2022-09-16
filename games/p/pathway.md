@@ -1,6 +1,6 @@
 # Pathway
-Rating: 4.45 (412)  
-Ratings Per Day: 3.30  
+Rating: 4.45 (413)  
+Ratings Per Day: 2.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -57,3 +57,4 @@ Ratings Per Day: 3.30
 | 2022-09-13 | 4.45 | 406 |
 | 2022-09-14 | 4.45 | 411 |
 | 2022-09-15 | 4.45 | 412 |
+| 2022-09-16 | 4.45 | 413 |
