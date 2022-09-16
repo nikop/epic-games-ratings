@@ -3,10 +3,10 @@
   "Name": "Alan Wake Remastered",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 507,
-  "DailyRatings": 3.95,
+  "NumberOfRatings": 508,
+  "DailyRatings": 3.99,
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
-  "LastChanged": "2022-09-16T06:31:25.8338281+00:00",
+  "LastChanged": "2022-09-16T11:02:17.9634188+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:49.7160328+00:00",
@@ -352,12 +352,17 @@
       "Time": "2022-09-16T06:31:25.8338283+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 507
+    },
+    {
+      "Time": "2022-09-16T11:02:17.963419+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 508
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 106
+      "Count": 107
     }
   ]
 }
