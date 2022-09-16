@@ -1,12 +1,12 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Isonzo](games/i/isonzo.md) | 4.56 | 25 | 9.59 |
-| 2 | [Steelrising](games/s/steelrising.md) | 4.22 | 79 | 11.08 |
+| 2 | [Steelrising](games/s/steelrising.md) | 4.20 | 84 | 11.10 |
 | 3 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 141 | 11.22 |
 | 4 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.71 | 900 | 97.02 |
 | 5 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.88 | 226 | 10.03 |
 | 6 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 74 | 3.42 |
-| 7 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 658 | 31.35 |
+| 7 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 658 | 31.54 |
 | 8 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 53 | 2.66 |
 | 9 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 910 | 259.94 |
 | 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 633 | 616.01 |
