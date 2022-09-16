@@ -1,6 +1,6 @@
 # Surviving the Aftermath: Founder's Edition
-Rating: 4.45 (792)  
-Ratings Per Day: 4.51  
+Rating: 4.46 (793)  
+Ratings Per Day: 4.52  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -60,4 +60,4 @@ Ratings Per Day: 4.51
 | 2022-09-13 | 4.46 | 782 |
 | 2022-09-14 | 4.46 | 784 |
 | 2022-09-15 | 4.46 | 788 |
-| 2022-09-16 | 4.45 | 792 |
+| 2022-09-16 | 4.46 | 793 |

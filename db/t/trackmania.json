@@ -3,10 +3,10 @@
   "Name": "Trackmania",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 6532,
-  "DailyRatings": 34.34,
+  "NumberOfRatings": 6535,
+  "DailyRatings": 34.67,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2022-09-16T17:32:15.4317446+00:00",
+  "LastChanged": "2022-09-16T18:02:15.0851701+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -2477,6 +2477,11 @@
       "Time": "2022-09-16T17:32:15.4317451+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 6532
+    },
+    {
+      "Time": "2022-09-16T18:02:15.0851702+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 6535
     }
   ],
   "Tags": [
@@ -2498,7 +2503,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 771
+      "Count": 780
     },
     {
       "Text": "This game has Obsessive Gameplay",

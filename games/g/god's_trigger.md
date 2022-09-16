@@ -1,6 +1,6 @@
 # God's Trigger
 Rating: 4.11 (108)  
-Ratings Per Day: 1.45  
+Ratings Per Day: 0.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

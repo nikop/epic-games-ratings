@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.61,
   "NumberOfRatings": 3301,
-  "DailyRatings": 27,
+  "DailyRatings": 26.75,
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
   "LastChanged": "2022-09-16T17:31:54.7915175+00:00",
   "RatingHistory": [
@@ -1822,7 +1822,7 @@
   "Tags": [
     {
       "Text": "This game is Educational",
-      "Count": 154
+      "Count": 156
     },
     {
       "Text": "This game is Extremely Fun",

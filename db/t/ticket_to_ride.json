@@ -3,10 +3,10 @@
   "Name": "Ticket to Ride",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 157,
-  "DailyRatings": 1.67,
+  "NumberOfRatings": 158,
+  "DailyRatings": 1.66,
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
-  "LastChanged": "2022-09-16T02:30:51.7735947+00:00",
+  "LastChanged": "2022-09-16T18:01:57.6714675+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:53.9949816+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-09-16T02:30:51.7735949+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 157
+    },
+    {
+      "Time": "2022-09-16T18:01:57.6714676+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 158
     }
   ],
   "Tags": [
@@ -286,7 +291,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 20
+      "Count": 22
     }
   ]
 }
