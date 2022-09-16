@@ -1,6 +1,6 @@
 # The End is Nigh
 Rating: 4.81 (37)  
-Ratings Per Day: 0.46  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
