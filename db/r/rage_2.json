@@ -3,10 +3,10 @@
   "Name": "Rage 2",
   "Names": [],
   "Rating": 4.28,
-  "NumberOfRatings": 4069,
-  "DailyRatings": 33.72,
+  "NumberOfRatings": 4070,
+  "DailyRatings": 33.56,
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
-  "LastChanged": "2022-09-16T09:01:13.4930421+00:00",
+  "LastChanged": "2022-09-16T10:31:03.895653+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.0256753+00:00",
@@ -1517,12 +1517,17 @@
       "Time": "2022-09-16T09:01:13.4930422+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 4069
+    },
+    {
+      "Time": "2022-09-16T10:31:03.8956573+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 4070
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1278
+      "Count": 1297
     },
     {
       "Text": "This game has Amazing Characters",

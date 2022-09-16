@@ -8,9 +8,9 @@
 | 6 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 78 | 3.51 |
 | 7 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 658 | 31.38 |
 | 8 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 53 | 2.58 |
-| 9 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 962 | 254.18 |
-| 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 713 | 611.69 |
-| 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 20 868 | 298.93 |
+| 9 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 13 962 | 253.15 |
+| 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 713 | 612.16 |
+| 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 20 868 | 299.42 |
 | 12 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.14 | 171 | 5.47 |
 | 13 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.19 | 603 | 58.31 |
 | 14 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 87 | 1.37 |
