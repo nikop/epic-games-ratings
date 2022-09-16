@@ -2,11 +2,11 @@
   "ID": "badger",
   "Name": "What Remains of Edith Finch",
   "Names": [],
-  "Rating": 4.75,
-  "NumberOfRatings": 69,
-  "DailyRatings": 0.8,
+  "Rating": 4.76,
+  "NumberOfRatings": 70,
+  "DailyRatings": 0.83,
   "FirstSeen": "2022-07-22T20:30:14.3324277+00:00",
-  "LastChanged": "2022-09-15T05:02:43.6359375+00:00",
+  "LastChanged": "2022-09-16T05:32:17.25014+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:14.3324279+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-09-15T05:02:43.6359377+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 69
+    },
+    {
+      "Time": "2022-09-16T05:32:17.2501401+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 70
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Industries of Titan",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 113,
-  "DailyRatings": 0.47,
+  "NumberOfRatings": 112,
+  "DailyRatings": 0.23,
   "FirstSeen": "2022-07-22T20:25:16.5099101+00:00",
-  "LastChanged": "2022-09-16T05:02:02.088843+00:00",
+  "LastChanged": "2022-09-16T05:31:34.9240623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:16.5099104+00:00",
@@ -167,6 +167,11 @@
       "Time": "2022-09-16T05:02:02.0888432+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 113
+    },
+    {
+      "Time": "2022-09-16T05:31:34.9240626+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 112
     }
   ],
   "Tags": []
