@@ -3,10 +3,10 @@
   "Name": "Tetris\u00AE Effect: Connected",
   "Names": [],
   "Rating": 4.85,
-  "NumberOfRatings": 260,
-  "DailyRatings": 1.89,
+  "NumberOfRatings": 261,
+  "DailyRatings": 1.91,
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2022-09-16T13:01:11.4769689+00:00",
+  "LastChanged": "2022-09-16T23:31:08.2117572+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:49.1950133+00:00",
@@ -312,6 +312,11 @@
       "Time": "2022-09-16T13:01:11.4769691+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 260
+    },
+    {
+      "Time": "2022-09-16T23:31:08.2117573+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 261
     }
   ],
   "Tags": [
@@ -322,6 +327,10 @@
     {
       "Text": "This game is Extremely Fun",
       "Count": 23
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 20
     }
   ]
 }

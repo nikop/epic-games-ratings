@@ -1,6 +1,6 @@
 # Rayman Origins
 Rating: 4.82 (33)  
-Ratings Per Day: 0.92  
+Ratings Per Day: 0.98  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

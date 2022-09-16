@@ -1,6 +1,6 @@
 # FUSER™
-Rating: 4.74 (84)  
-Ratings Per Day: 0.27  
+Rating: 4.74 (85)  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,4 +26,4 @@ Ratings Per Day: 0.27
 | 2022-08-31 | 4.73 | 81 |
 | 2022-09-05 | 4.73 | 82 |
 | 2022-09-12 | 4.73 | 83 |
-| 2022-09-16 | 4.74 | 84 |
+| 2022-09-16 | 4.74 | 85 |
