@@ -3,10 +3,10 @@
   "Name": "Watch Dogs Standard Edition",
   "Names": [],
   "Rating": 4.53,
-  "NumberOfRatings": 1810,
-  "DailyRatings": 13.8,
+  "NumberOfRatings": 1811,
+  "DailyRatings": 13.6,
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2022-09-16T08:01:28.1295158+00:00",
+  "LastChanged": "2022-09-16T12:00:41.7434754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -777,6 +777,11 @@
       "Time": "2022-09-16T08:01:28.129516+00:00",
       "Rating": 4.53,
       "NumberOfRatings": 1810
+    },
+    {
+      "Time": "2022-09-16T12:00:41.7434755+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 1811
     }
   ],
   "Tags": [
@@ -786,7 +791,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Obsessive Gameplay",
