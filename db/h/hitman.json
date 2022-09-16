@@ -3,10 +3,10 @@
   "Name": "HITMAN",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 6067,
-  "DailyRatings": 44.18,
+  "NumberOfRatings": 6072,
+  "DailyRatings": 44.51,
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2022-09-16T19:02:27.9427466+00:00",
+  "LastChanged": "2022-09-16T20:32:17.1799064+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:10.6067818+00:00",
@@ -1827,6 +1827,11 @@
       "Time": "2022-09-16T19:02:27.9427467+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 6067
+    },
+    {
+      "Time": "2022-09-16T20:32:17.1799066+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 6072
     }
   ],
   "Tags": [

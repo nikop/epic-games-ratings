@@ -3,10 +3,10 @@
   "Name": "Oddworld: New \u0027n\u0027 Tasty",
   "Names": [],
   "Rating": 4.44,
-  "NumberOfRatings": 107,
-  "DailyRatings": 1.16,
+  "NumberOfRatings": 108,
+  "DailyRatings": 1.22,
   "FirstSeen": "2022-07-22T20:29:35.2607812+00:00",
-  "LastChanged": "2022-09-16T05:02:35.5943947+00:00",
+  "LastChanged": "2022-09-16T20:31:57.0571964+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:35.2607814+00:00",
@@ -197,12 +197,17 @@
       "Time": "2022-09-16T05:02:35.5943949+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 107
+    },
+    {
+      "Time": "2022-09-16T20:31:57.0571966+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 108
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 21
+      "Count": 22
     }
   ]
 }

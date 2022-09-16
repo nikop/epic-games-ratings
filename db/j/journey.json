@@ -3,10 +3,10 @@
   "Name": "Journey",
   "Names": [],
   "Rating": 4.78,
-  "NumberOfRatings": 49,
-  "DailyRatings": 0,
+  "NumberOfRatings": 50,
+  "DailyRatings": 0.25,
   "FirstSeen": "2022-07-22T20:24:29.6928731+00:00",
-  "LastChanged": "2022-09-12T20:01:24.066708+00:00",
+  "LastChanged": "2022-09-16T20:31:17.9607335+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:29.6928733+00:00",
@@ -97,6 +97,11 @@
       "Time": "2022-09-12T20:01:24.0667082+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-09-16T20:31:17.9607337+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 50
     }
   ],
   "Tags": []

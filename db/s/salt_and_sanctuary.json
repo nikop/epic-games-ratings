@@ -3,10 +3,10 @@
   "Name": "Salt and Sanctuary",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 2985,
-  "DailyRatings": 20.4,
+  "NumberOfRatings": 2990,
+  "DailyRatings": 20.76,
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
-  "LastChanged": "2022-09-16T17:33:16.0190189+00:00",
+  "LastChanged": "2022-09-16T20:32:03.677564+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:22.098302+00:00",
@@ -1657,6 +1657,11 @@
       "Time": "2022-09-16T17:33:16.0190192+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 2985
+    },
+    {
+      "Time": "2022-09-16T20:32:03.6775641+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 2990
     }
   ],
   "Tags": [

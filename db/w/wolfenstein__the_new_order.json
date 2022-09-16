@@ -3,10 +3,10 @@
   "Name": "Wolfenstein: The New Order",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 60188,
-  "DailyRatings": 148.02,
+  "NumberOfRatings": 60207,
+  "DailyRatings": 147.38,
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2022-09-16T19:01:31.5502966+00:00",
+  "LastChanged": "2022-09-16T20:31:24.3229229+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -2102,12 +2102,17 @@
       "Time": "2022-09-16T19:01:31.5502971+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 60188
+    },
+    {
+      "Time": "2022-09-16T20:31:24.322923+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 60207
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 11559
+      "Count": 11599
     },
     {
       "Text": "This game is Relaxing",
