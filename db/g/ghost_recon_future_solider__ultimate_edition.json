@@ -2,12 +2,12 @@
   "ID": "047ee5c9350245588f043061fb0279ab",
   "Name": "Ghost Recon Future Solider: Ultimate Edition",
   "Names": [],
-  "Rating": 4.81,
-  "NumberOfRatings": 21,
-  "DailyRatings": 0.2,
+  "Rating": 4.82,
+  "NumberOfRatings": 22,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:29:47.3812032+00:00",
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
-  "LastChanged": "2022-09-15T00:31:51.4857748+00:00",
+  "LastChanged": "2022-09-16T00:32:09.372483+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-10T00:02:01.0067842+00:00",
@@ -18,6 +18,11 @@
       "Time": "2022-09-15T00:31:51.485775+00:00",
       "Rating": 4.81,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-09-16T00:32:09.3724832+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 22
     }
   ],
   "Tags": []
