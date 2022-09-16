@@ -1,6 +1,6 @@
 # Europa Universalis IV
 Rating: 4.70 (8 057)  
-Ratings Per Day: 55.29  
+Ratings Per Day: 54.78  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
