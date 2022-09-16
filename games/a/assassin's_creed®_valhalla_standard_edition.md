@@ -1,6 +1,6 @@
 # Assassin's Creed® Valhalla Standard Edition
-Rating: 4.59 (11 685)  
-Ratings Per Day: 93.82  
+Rating: 4.59 (11 695)  
+Ratings Per Day: 90.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -60,4 +60,4 @@ Ratings Per Day: 93.82
 | 2022-09-13 | 4.59 | 11 474 |
 | 2022-09-14 | 4.59 | 11 563 |
 | 2022-09-15 | 4.59 | 11 639 |
-| 2022-09-16 | 4.59 | 11 685 |
+| 2022-09-16 | 4.59 | 11 695 |

@@ -1,6 +1,6 @@
 # Darksiders III
 Rating: 4.48 (109)  
-Ratings Per Day: 0.94  
+Ratings Per Day: 1.01  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

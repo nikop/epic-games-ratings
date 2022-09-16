@@ -2,11 +2,11 @@
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
   "Names": [],
-  "Rating": 4.68,
-  "NumberOfRatings": 5326,
-  "DailyRatings": 45.95,
+  "Rating": 4.69,
+  "NumberOfRatings": 5342,
+  "DailyRatings": 45.48,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-09-16T04:30:37.774562+00:00",
+  "LastChanged": "2022-09-16T14:30:35.9574647+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -632,6 +632,11 @@
       "Time": "2022-09-16T04:30:37.7745622+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 5326
+    },
+    {
+      "Time": "2022-09-16T14:30:35.957465+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 5342
     }
   ],
   "Tags": [

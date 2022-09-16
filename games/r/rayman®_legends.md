@@ -1,6 +1,6 @@
 # RAYMAN® LEGENDS
-Rating: 4.74 (333)  
-Ratings Per Day: 2.07  
+Rating: 4.75 (334)  
+Ratings Per Day: 2.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -57,4 +57,4 @@ Ratings Per Day: 2.07
 | 2022-09-12 | 4.74 | 327 |
 | 2022-09-13 | 4.74 | 329 |
 | 2022-09-14 | 4.75 | 331 |
-| 2022-09-16 | 4.74 | 333 |
+| 2022-09-16 | 4.75 | 334 |
