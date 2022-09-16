@@ -3,10 +3,10 @@
   "Name": "Railway Empire",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 2052,
-  "DailyRatings": 18.74,
+  "NumberOfRatings": 2055,
+  "DailyRatings": 19.12,
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2022-09-16T16:00:33.6265622+00:00",
+  "LastChanged": "2022-09-16T16:30:30.4004059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -1612,6 +1612,11 @@
       "Time": "2022-09-16T16:00:33.6265624+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 2052
+    },
+    {
+      "Time": "2022-09-16T16:30:30.400406+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 2055
     }
   ],
   "Tags": [
@@ -1625,7 +1630,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 117
+      "Count": 120
     },
     {
       "Text": "This game is Extremely Fun",
