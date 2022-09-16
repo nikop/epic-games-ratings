@@ -12,7 +12,7 @@
 | 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 633 | 616.01 |
 | 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 20 865 | 301.85 |
 | 12 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.14 | 171 | 5.47 |
-| 13 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.19 | 598 | 58.65 |
+| 13 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.19 | 601 | 58.73 |
 | 14 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 87 | 1.37 |
 | 15 | [DOOM II](games/d/doom_ii.md) | 4.87 | 39 | 1.23 |
 | 16 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 814 | 54.88 |
