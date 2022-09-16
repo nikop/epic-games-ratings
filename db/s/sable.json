@@ -2,11 +2,11 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "Names": [],
-  "Rating": 4.54,
-  "NumberOfRatings": 41,
-  "DailyRatings": 0,
+  "Rating": 4.52,
+  "NumberOfRatings": 42,
+  "DailyRatings": 0.17,
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
-  "LastChanged": "2022-09-10T16:32:24.5906259+00:00",
+  "LastChanged": "2022-09-16T17:33:24.0169416+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:24.3265083+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-09-10T16:32:24.5906261+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-09-16T17:33:24.016942+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 42
     }
   ],
   "Tags": []

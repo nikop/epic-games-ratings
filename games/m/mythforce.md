@@ -1,6 +1,6 @@
 # MythForce
-Rating: 4.56 (273)  
-Ratings Per Day: 0.89  
+Rating: 4.55 (275)  
+Ratings Per Day: 1.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -51,3 +51,4 @@ Ratings Per Day: 0.89
 | 2022-09-11 | 4.55 | 269 |
 | 2022-09-13 | 4.56 | 271 |
 | 2022-09-15 | 4.56 | 273 |
+| 2022-09-16 | 4.55 | 275 |
