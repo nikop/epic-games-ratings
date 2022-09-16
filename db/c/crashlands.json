@@ -3,10 +3,10 @@
   "Name": "Crashlands",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 495,
-  "DailyRatings": 3.16,
+  "NumberOfRatings": 496,
+  "DailyRatings": 2.8,
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2022-09-15T12:31:28.8936873+00:00",
+  "LastChanged": "2022-09-16T12:31:24.4600585+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:11.0234057+00:00",
@@ -417,6 +417,11 @@
       "Time": "2022-09-15T12:31:28.8936875+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 495
+    },
+    {
+      "Time": "2022-09-16T12:31:24.4600586+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 496
     }
   ],
   "Tags": [

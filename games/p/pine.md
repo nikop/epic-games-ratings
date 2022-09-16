@@ -1,6 +1,6 @@
 # Pine
 Rating: 4.12 (652)  
-Ratings Per Day: 6.92  
+Ratings Per Day: 6.59  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
