@@ -1,6 +1,6 @@
 # Prey
-Rating: 4.60 (12 657)  
-Ratings Per Day: 80.24  
+Rating: 4.60 (12 701)  
+Ratings Per Day: 82.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -60,3 +60,4 @@ Ratings Per Day: 80.24
 | 2022-09-13 | 4.60 | 12 547 |
 | 2022-09-14 | 4.60 | 12 625 |
 | 2022-09-15 | 4.60 | 12 657 |
+| 2022-09-16 | 4.60 | 12 701 |
