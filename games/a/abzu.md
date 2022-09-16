@@ -1,6 +1,6 @@
 # ABZU
-Rating: 4.60 (139)  
-Ratings Per Day: 1.99  
+Rating: 4.60 (140)  
+Ratings Per Day: 1.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -51,3 +51,4 @@ Ratings Per Day: 1.99
 | 2022-09-13 | 4.60 | 136 |
 | 2022-09-14 | 4.60 | 137 |
 | 2022-09-15 | 4.60 | 139 |
+| 2022-09-16 | 4.60 | 140 |

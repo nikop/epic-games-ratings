@@ -2,11 +2,11 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "Names": [],
-  "Rating": 4.51,
-  "NumberOfRatings": 849,
-  "DailyRatings": 7.09,
+  "Rating": 4.52,
+  "NumberOfRatings": 854,
+  "DailyRatings": 6.92,
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2022-09-15T16:31:54.64028+00:00",
+  "LastChanged": "2022-09-16T13:30:46.619903+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
@@ -352,6 +352,11 @@
       "Time": "2022-09-15T16:31:54.6402802+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 849
+    },
+    {
+      "Time": "2022-09-16T13:30:46.6199032+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 854
     }
   ],
   "Tags": [
