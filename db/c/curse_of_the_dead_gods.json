@@ -3,10 +3,10 @@
   "Name": "Curse of the Dead Gods",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 132,
-  "DailyRatings": 0.82,
+  "NumberOfRatings": 135,
+  "DailyRatings": 1.24,
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2022-09-16T03:31:33.4613124+00:00",
+  "LastChanged": "2022-09-16T21:31:49.3590587+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:59.8576238+00:00",
@@ -187,12 +187,17 @@
       "Time": "2022-09-16T03:31:33.4613126+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 132
+    },
+    {
+      "Time": "2022-09-16T21:31:49.3590588+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 135
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 61
+      "Count": 63
     }
   ]
 }
