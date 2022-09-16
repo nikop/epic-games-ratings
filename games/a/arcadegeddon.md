@@ -1,6 +1,6 @@
 # Arcadegeddon
-Rating: 4.50 (788)  
-Ratings Per Day: 1.17  
+Rating: 4.50 (789)  
+Ratings Per Day: 1.15  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -52,3 +52,4 @@ Ratings Per Day: 1.17
 | 2022-09-12 | 4.50 | 784 |
 | 2022-09-14 | 4.50 | 786 |
 | 2022-09-15 | 4.50 | 788 |
+| 2022-09-16 | 4.50 | 789 |
