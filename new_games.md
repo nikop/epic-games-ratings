@@ -3,11 +3,11 @@
 | 1 | [Isonzo](games/i/isonzo.md) | 4.56 | 25 | 9.59 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.22 | 89 | 11.21 |
 | 3 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.48 | 145 | 10.23 |
-| 4 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 960 | 95.71 |
+| 4 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 980 | 97.44 |
 | 5 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.90 | 231 | 8.62 |
 | 6 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 78 | 2.97 |
 | 7 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 683 | 29.87 |
-| 8 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 53 | 2.58 |
+| 8 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 54 | 2.18 |
 | 9 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 044 | 224.77 |
 | 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 892 | 578.49 |
 | 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 005 | 283.84 |
@@ -21,5 +21,5 @@
 | 19 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 423 | 103.78 |
 | 20 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.48 | 1 936 | 11.43 |
 | 21 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 58 604 | 656.63 |
-| 22 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 996 | 12.52 |
+| 22 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 996 | 12.48 |
 | 23 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 792 | 204.29 |
