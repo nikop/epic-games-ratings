@@ -1,6 +1,6 @@
 # Vampyr
 Rating: 4.31 (4 824)  
-Ratings Per Day: 34.16  
+Ratings Per Day: 35.13  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
