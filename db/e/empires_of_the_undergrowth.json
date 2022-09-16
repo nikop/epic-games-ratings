@@ -3,10 +3,10 @@
   "Name": "Empires of the Undergrowth",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 205,
-  "DailyRatings": 1.16,
+  "NumberOfRatings": 206,
+  "DailyRatings": 1.19,
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2022-09-15T23:03:21.1544614+00:00",
+  "LastChanged": "2022-09-16T15:02:59.7705928+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:38.7992192+00:00",
@@ -382,11 +382,20 @@
       "Time": "2022-09-15T23:03:21.1544615+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 205
+    },
+    {
+      "Time": "2022-09-16T15:02:59.770593+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 206
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
       "Count": 20
     }
   ]
