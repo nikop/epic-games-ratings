@@ -1,6 +1,6 @@
 # SOMA
 Rating: 4.72 (276)  
-Ratings Per Day: 1.99  
+Ratings Per Day: 2.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
