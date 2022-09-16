@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.44,
   "NumberOfRatings": 6426,
-  "DailyRatings": 39,
+  "DailyRatings": 39.04,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
   "LastChanged": "2022-09-16T02:31:01.8743296+00:00",
   "RatingHistory": [
@@ -2674,7 +2674,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 399
+      "Count": 405
     },
     {
       "Text": "This game is Highly Recommended",
