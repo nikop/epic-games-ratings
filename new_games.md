@@ -1,16 +1,16 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Isonzo](games/i/isonzo.md) | 4.56 | 25 | 9.59 |
-| 2 | [Steelrising](games/s/steelrising.md) | 4.21 | 87 | 11.14 |
-| 3 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 144 | 10.75 |
-| 4 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.71 | 941 | 95.73 |
+| 2 | [Steelrising](games/s/steelrising.md) | 4.22 | 89 | 11.21 |
+| 3 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 144 | 10.70 |
+| 4 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.71 | 947 | 96.01 |
 | 5 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.90 | 231 | 9.34 |
 | 6 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 78 | 3.51 |
 | 7 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 672 | 30.25 |
 | 8 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 53 | 2.58 |
 | 9 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 039 | 231.21 |
-| 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 838 | 593.19 |
-| 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 20 900 | 290.62 |
+| 10 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 29 838 | 581.20 |
+| 11 | [Saints Row](games/s/saints_row.md) | 3.77 | 20 900 | 284.93 |
 | 12 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.14 | 171 | 5.41 |
 | 13 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.19 | 616 | 58.12 |
 | 14 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 87 | 1.37 |
@@ -21,5 +21,5 @@
 | 19 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 402 | 104.07 |
 | 20 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.48 | 1 929 | 12.59 |
 | 21 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 58 438 | 661.01 |
-| 22 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 996 | 12.93 |
-| 23 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 782 | 209.24 |
+| 22 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 4 996 | 12.87 |
+| 23 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 792 | 204.88 |
