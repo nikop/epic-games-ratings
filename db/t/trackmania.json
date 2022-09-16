@@ -3,10 +3,10 @@
   "Name": "Trackmania",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 6535,
-  "DailyRatings": 34.41,
+  "NumberOfRatings": 6542,
+  "DailyRatings": 35,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2022-09-16T18:02:15.0851701+00:00",
+  "LastChanged": "2022-09-16T20:01:51.5830433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -2482,6 +2482,11 @@
       "Time": "2022-09-16T18:02:15.0851702+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 6535
+    },
+    {
+      "Time": "2022-09-16T20:01:51.5830434+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 6542
     }
   ],
   "Tags": [
