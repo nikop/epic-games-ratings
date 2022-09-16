@@ -3,10 +3,10 @@
   "Name": "Borderlands 2",
   "Names": [],
   "Rating": 4.77,
-  "NumberOfRatings": 12816,
-  "DailyRatings": 67.77,
+  "NumberOfRatings": 12817,
+  "DailyRatings": 67.67,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2022-09-16T06:00:27.4657158+00:00",
+  "LastChanged": "2022-09-16T07:00:26.6539028+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -2827,12 +2827,17 @@
       "Time": "2022-09-16T06:00:27.4657161+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 12816
+    },
+    {
+      "Time": "2022-09-16T07:00:26.653903+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 12817
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 8421
+      "Count": 8475
     },
     {
       "Text": "This game has Amazing Storytelling",
