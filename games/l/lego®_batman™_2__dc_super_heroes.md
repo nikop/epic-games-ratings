@@ -1,6 +1,6 @@
 # LEGO® Batman™ 2: DC Super Heroes
-Rating: 4.64 (461)  
-Ratings Per Day: 3.53  
+Rating: 4.64 (462)  
+Ratings Per Day: 3.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -58,3 +58,4 @@ Ratings Per Day: 3.53
 | 2022-09-13 | 4.64 | 450 |
 | 2022-09-14 | 4.64 | 453 |
 | 2022-09-15 | 4.64 | 461 |
+| 2022-09-16 | 4.64 | 462 |
