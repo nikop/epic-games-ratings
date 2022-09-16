@@ -2,11 +2,11 @@
   "ID": "a8400ce7530e4479b32dcaf0e92fce57",
   "Name": "Shadowrun Returns",
   "Names": [],
-  "Rating": 4.44,
-  "NumberOfRatings": 303,
-  "DailyRatings": 2.18,
+  "Rating": 4.43,
+  "NumberOfRatings": 306,
+  "DailyRatings": 2.31,
   "FirstSeen": "2022-07-22T20:28:49.5317648+00:00",
-  "LastChanged": "2022-09-15T22:02:43.8045155+00:00",
+  "LastChanged": "2022-09-16T22:01:48.1438835+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:49.531765+00:00",
@@ -317,6 +317,11 @@
       "Time": "2022-09-15T22:02:43.8045156+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 303
+    },
+    {
+      "Time": "2022-09-16T22:01:48.1438836+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 306
     }
   ],
   "Tags": [

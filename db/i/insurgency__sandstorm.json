@@ -3,10 +3,10 @@
   "Name": "Insurgency: Sandstorm",
   "Names": [],
   "Rating": 4.59,
-  "NumberOfRatings": 1281,
+  "NumberOfRatings": 1283,
   "DailyRatings": 5.98,
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2022-09-16T14:01:11.5585914+00:00",
+  "LastChanged": "2022-09-16T22:00:28.4045431+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -1167,6 +1167,11 @@
       "Time": "2022-09-16T14:01:11.5585917+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 1281
+    },
+    {
+      "Time": "2022-09-16T22:00:28.4045432+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 1283
     }
   ],
   "Tags": [

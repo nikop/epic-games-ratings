@@ -1,6 +1,6 @@
 # Against the Storm
-Rating: 4.81 (1 808)  
-Ratings Per Day: 8.35  
+Rating: 4.81 (1 813)  
+Ratings Per Day: 8.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -60,4 +60,4 @@ Ratings Per Day: 8.35
 | 2022-09-13 | 4.81 | 1 782 |
 | 2022-09-14 | 4.81 | 1 790 |
 | 2022-09-15 | 4.81 | 1 803 |
-| 2022-09-16 | 4.81 | 1 808 |
+| 2022-09-16 | 4.81 | 1 813 |
