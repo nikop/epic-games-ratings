@@ -1,6 +1,6 @@
 # Realm Royale Reforged
 Rating: 4.18 (689)  
-Ratings Per Day: 60.11  
+Ratings Per Day: 59.74  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

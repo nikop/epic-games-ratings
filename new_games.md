@@ -1,19 +1,19 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Isonzo](games/i/isonzo.md) | 4.56 | 39 | 9.72 |
-| 2 | [Steelrising](games/s/steelrising.md) | 4.24 | 93 | 10.70 |
+| 2 | [Steelrising](games/s/steelrising.md) | 4.23 | 98 | 10.48 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 20 | 0.00 |
 | 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 152 | 8.49 |
-| 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 1 042 | 95.28 |
+| 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 1 042 | 95.41 |
 | 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.92 | 246 | 8.65 |
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.65 | 79 | 2.62 |
 | 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 707 | 27.90 |
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 55 | 1.59 |
-| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 270 | 210.54 |
+| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 277 | 210.91 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 353 | 534.11 |
-| 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 246 | 263.64 |
+| 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 265 | 263.21 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 177 | 4.74 |
-| 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 689 | 60.11 |
+| 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 689 | 59.74 |
 | 15 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 87 | 1.37 |
 | 16 | [DOOM II](games/d/doom_ii.md) | 4.88 | 40 | 0.85 |
 | 17 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 906 | 49.96 |
