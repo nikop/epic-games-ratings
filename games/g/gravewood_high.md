@@ -1,6 +1,6 @@
 # Gravewood High
 Rating: 4.10 (31)  
-Ratings Per Day: 0.31  
+Ratings Per Day: 0.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
