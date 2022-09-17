@@ -1,6 +1,6 @@
 # TUNIC
-Rating: 4.86 (94)  
-Ratings Per Day: 0.00  
+Rating: 4.86 (95)  
+Ratings Per Day: 0.20  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Ratings Per Day: 0.00
 | 2022-09-04 | 4.87 | 92 |
 | 2022-09-08 | 4.87 | 93 |
 | 2022-09-12 | 4.86 | 94 |
+| 2022-09-17 | 4.86 | 95 |
