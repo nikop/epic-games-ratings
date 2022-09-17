@@ -2,8 +2,18 @@
   "ID": "942b65a56ff448f6be529cd07b407bb0",
   "Name": "Hammerting",
   "Names": [],
+  "Rating": 4.3,
+  "NumberOfRatings": 20,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:26:38.7700421+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-09-17T18:02:30.2695463+00:00",
+  "LastChanged": "2022-09-17T18:02:30.2695465+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-09-17T18:02:30.2695467+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 20
+    }
+  ],
   "Tags": []
 }

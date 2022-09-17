@@ -2,11 +2,11 @@
   "ID": "d3f34b351df646e0ab932fd8d8e5dfc2",
   "Name": "Speed Brawl",
   "Names": [],
-  "Rating": 4.29,
-  "NumberOfRatings": 98,
-  "DailyRatings": 0.2,
+  "Rating": 4.27,
+  "NumberOfRatings": 100,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:31:43.9675796+00:00",
-  "LastChanged": "2022-09-16T18:03:25.5191695+00:00",
+  "LastChanged": "2022-09-17T18:03:08.4975503+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:43.96758+00:00",
@@ -152,6 +152,11 @@
       "Time": "2022-09-16T18:03:25.5191697+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 98
+    },
+    {
+      "Time": "2022-09-17T18:03:08.4975505+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": 100
     }
   ],
   "Tags": []
