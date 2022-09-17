@@ -3,10 +3,10 @@
   "Name": "Desperados III",
   "Names": [],
   "Rating": 4.87,
-  "NumberOfRatings": 341,
-  "DailyRatings": 2.88,
+  "NumberOfRatings": 342,
+  "DailyRatings": 2.75,
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2022-09-17T00:02:07.7126423+00:00",
+  "LastChanged": "2022-09-17T15:30:57.1255442+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:02.5074384+00:00",
@@ -372,6 +372,11 @@
       "Time": "2022-09-17T00:02:07.7126424+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 341
+    },
+    {
+      "Time": "2022-09-17T15:30:57.1255444+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 342
     }
   ],
   "Tags": [
@@ -381,7 +386,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 21
+      "Count": 22
     }
   ]
 }

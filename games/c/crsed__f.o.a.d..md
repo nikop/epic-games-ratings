@@ -1,6 +1,6 @@
 # CRSED: F.O.A.D.
 Rating: 4.43 (450)  
-Ratings Per Day: 3.89  
+Ratings Per Day: 3.81  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

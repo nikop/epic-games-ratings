@@ -3,11 +3,11 @@
   "Name": "Ring of Pain",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 14216,
-  "DailyRatings": 212.16,
+  "NumberOfRatings": 14237,
+  "DailyRatings": 213.27,
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
-  "LastChanged": "2022-09-17T14:01:18.1616724+00:00",
+  "LastChanged": "2022-09-17T15:31:19.8544956+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T04:31:33.9561596+00:00",
@@ -1208,6 +1208,11 @@
       "Time": "2022-09-17T14:01:18.1616725+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 14216
+    },
+    {
+      "Time": "2022-09-17T15:31:19.8544957+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 14237
     }
   ],
   "Tags": [
