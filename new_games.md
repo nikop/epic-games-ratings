@@ -5,13 +5,13 @@
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 20 | 0.00 |
 | 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 155 | 8.75 |
 | 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 1 042 | 95.41 |
-| 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.92 | 246 | 8.65 |
+| 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.92 | 246 | 8.93 |
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.65 | 79 | 2.62 |
-| 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 707 | 27.90 |
+| 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 707 | 28.10 |
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 55 | 1.59 |
-| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 277 | 210.91 |
+| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 277 | 211.62 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 353 | 534.11 |
-| 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 265 | 263.21 |
+| 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 273 | 261.70 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 177 | 4.74 |
 | 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 689 | 59.74 |
 | 15 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 87 | 1.37 |
@@ -23,4 +23,4 @@
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 946 | 11.43 |
 | 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 59 236 | 627.35 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 018 | 13.44 |
-| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 988 | 188.05 |
+| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 032 | 187.81 |
