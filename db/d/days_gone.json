@@ -3,10 +3,10 @@
   "Name": "Days Gone",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 3668,
-  "DailyRatings": 19.47,
+  "NumberOfRatings": 3671,
+  "DailyRatings": 19.37,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2022-09-16T21:32:16.7618911+00:00",
+  "LastChanged": "2022-09-17T02:02:17.3927388+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -1772,6 +1772,11 @@
       "Time": "2022-09-16T21:32:16.7618915+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 3668
+    },
+    {
+      "Time": "2022-09-17T02:02:17.3927389+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 3671
     }
   ],
   "Tags": [

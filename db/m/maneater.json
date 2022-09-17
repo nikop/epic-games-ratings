@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 81501,
-  "DailyRatings": 84.36,
+  "NumberOfRatings": 81508,
+  "DailyRatings": 84.61,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-09-17T00:31:21.9098424+00:00",
+  "LastChanged": "2022-09-17T02:01:39.7340726+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -1467,6 +1467,11 @@
       "Time": "2022-09-17T00:31:21.9098426+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 81501
+    },
+    {
+      "Time": "2022-09-17T02:01:39.7340728+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 81508
     }
   ],
   "Tags": [
@@ -1488,7 +1493,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 68
+      "Count": 70
     },
     {
       "Text": "This game has Quickly Understood Controls",
