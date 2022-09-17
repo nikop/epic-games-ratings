@@ -3,10 +3,10 @@
   "Name": "Arcadegeddon",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 789,
-  "DailyRatings": 1.24,
+  "NumberOfRatings": 791,
+  "DailyRatings": 1.43,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-09-16T08:01:30.1871202+00:00",
+  "LastChanged": "2022-09-17T00:30:44.3257295+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -517,6 +517,11 @@
       "Time": "2022-09-16T08:01:30.1871204+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 789
+    },
+    {
+      "Time": "2022-09-17T00:30:44.3257299+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 791
     }
   ],
   "Tags": [
@@ -550,7 +555,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Highly Recommended",

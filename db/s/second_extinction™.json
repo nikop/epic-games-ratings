@@ -3,10 +3,10 @@
   "Name": "Second Extinction\u2122",
   "Names": [],
   "Rating": 4.08,
-  "NumberOfRatings": 570,
-  "DailyRatings": 5.31,
+  "NumberOfRatings": 571,
+  "DailyRatings": 5.05,
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "LastChanged": "2022-09-16T12:32:26.9740566+00:00",
+  "LastChanged": "2022-09-17T00:32:27.7930657+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -422,6 +422,11 @@
       "Time": "2022-09-16T12:32:26.9740567+00:00",
       "Rating": 4.08,
       "NumberOfRatings": 570
+    },
+    {
+      "Time": "2022-09-17T00:32:27.7930659+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": 571
     }
   ],
   "Tags": [
