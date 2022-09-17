@@ -3,7 +3,7 @@
 | 1 | [Isonzo](games/i/isonzo.md) | 4.56 | 39 | 9.72 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.23 | 98 | 10.48 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 20 | 0.00 |
-| 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 152 | 8.49 |
+| 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 155 | 8.75 |
 | 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 1 042 | 95.41 |
 | 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.92 | 246 | 8.65 |
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.65 | 79 | 2.62 |
@@ -16,11 +16,11 @@
 | 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 689 | 59.74 |
 | 15 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 87 | 1.37 |
 | 16 | [DOOM II](games/d/doom_ii.md) | 4.88 | 40 | 0.85 |
-| 17 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 906 | 49.96 |
+| 17 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 922 | 51.08 |
 | 18 | [DOOM 3](games/d/doom_3.md) | 4.63 | 92 | 3.17 |
 | 19 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 84 | 0.82 |
 | 20 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 544 | 99.18 |
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 946 | 11.43 |
 | 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 59 236 | 627.35 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 018 | 13.44 |
-| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 988 | 189.66 |
+| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 988 | 188.05 |
