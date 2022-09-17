@@ -3,10 +3,10 @@
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 1253,
-  "DailyRatings": 9.07,
+  "NumberOfRatings": 1254,
+  "DailyRatings": 9.03,
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2022-09-17T14:00:47.5256958+00:00",
+  "LastChanged": "2022-09-17T17:30:53.2768919+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -932,6 +932,11 @@
       "Time": "2022-09-17T14:00:47.5256959+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 1253
+    },
+    {
+      "Time": "2022-09-17T17:30:53.276892+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 1254
     }
   ],
   "Tags": [

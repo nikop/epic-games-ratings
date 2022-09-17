@@ -1,6 +1,6 @@
 # Timberborn
 Rating: 4.67 (558)  
-Ratings Per Day: 7.91  
+Ratings Per Day: 8.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

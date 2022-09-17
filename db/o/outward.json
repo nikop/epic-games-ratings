@@ -3,10 +3,10 @@
   "Name": "Outward",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 265,
-  "DailyRatings": 2.6,
+  "NumberOfRatings": 266,
+  "DailyRatings": 0.65,
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2022-09-13T21:31:00.0664134+00:00",
+  "LastChanged": "2022-09-17T17:31:05.4322319+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -327,6 +327,11 @@
       "Time": "2022-09-13T21:31:00.0664139+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 265
+    },
+    {
+      "Time": "2022-09-17T17:31:05.432235+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 266
     }
   ],
   "Tags": [
@@ -340,6 +345,10 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
       "Count": 20
     }
   ]
