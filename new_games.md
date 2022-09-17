@@ -5,9 +5,9 @@
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 20 | 0.00 |
 | 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 152 | 8.65 |
 | 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.72 | 1 042 | 95.28 |
-| 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.91 | 244 | 8.66 |
+| 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.91 | 245 | 8.57 |
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.65 | 79 | 2.62 |
-| 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 706 | 27.88 |
+| 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 707 | 27.94 |
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 55 | 1.59 |
 | 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 266 | 212.51 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 353 | 534.11 |
@@ -21,6 +21,6 @@
 | 19 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 84 | 0.82 |
 | 20 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 532 | 98.04 |
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 946 | 11.21 |
-| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 59 169 | 625.00 |
+| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 59 169 | 623.27 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 018 | 13.44 |
-| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 988 | 190.99 |
+| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 54 988 | 189.66 |
