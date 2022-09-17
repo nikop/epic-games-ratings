@@ -3,10 +3,10 @@
   "Name": "World of Goo",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 43,
-  "DailyRatings": 0,
+  "NumberOfRatings": 44,
+  "DailyRatings": 0.25,
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
-  "LastChanged": "2022-09-13T09:02:24.6601657+00:00",
+  "LastChanged": "2022-09-17T09:02:24.9426815+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T22:01:43.892792+00:00",
@@ -107,6 +107,11 @@
       "Time": "2022-09-13T09:02:24.6601659+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-09-17T09:02:24.9426817+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 44
     }
   ],
   "Tags": []
