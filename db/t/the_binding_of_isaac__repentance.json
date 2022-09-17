@@ -3,10 +3,10 @@
   "Name": "The Binding of Isaac: Repentance",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 1827,
-  "DailyRatings": 8.69,
+  "NumberOfRatings": 1828,
+  "DailyRatings": 8.75,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2022-09-17T12:30:29.7113557+00:00",
+  "LastChanged": "2022-09-17T14:00:29.7675558+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:34.9311335+00:00",
@@ -1592,6 +1592,11 @@
       "Time": "2022-09-17T12:30:29.7113558+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 1827
+    },
+    {
+      "Time": "2022-09-17T14:00:29.7675559+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 1828
     }
   ],
   "Tags": [
