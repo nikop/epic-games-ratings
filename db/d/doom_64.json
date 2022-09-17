@@ -3,11 +3,11 @@
   "Name": "DOOM 64",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 4922,
-  "DailyRatings": 51.08,
+  "NumberOfRatings": 4924,
+  "DailyRatings": 50.91,
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
-  "LastChanged": "2022-09-17T21:31:20.727837+00:00",
+  "LastChanged": "2022-09-17T23:01:21.9230122+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-19T16:01:55.9057826+00:00",
@@ -858,6 +858,11 @@
       "Time": "2022-09-17T21:31:20.7278371+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 4922
+    },
+    {
+      "Time": "2022-09-17T23:01:21.9230123+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 4924
     }
   ],
   "Tags": [
@@ -872,6 +877,10 @@
     {
       "Text": "This game has Challenging Combat",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 20
     }
   ]
 }
