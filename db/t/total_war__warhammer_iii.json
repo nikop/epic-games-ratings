@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER III",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 846,
+  "NumberOfRatings": 847,
   "DailyRatings": 8.27,
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2022-09-17T04:00:44.4257746+00:00",
+  "LastChanged": "2022-09-17T07:00:49.3584951+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -1237,6 +1237,11 @@
       "Time": "2022-09-17T04:00:44.4257813+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 846
+    },
+    {
+      "Time": "2022-09-17T07:00:49.3584954+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 847
     }
   ],
   "Tags": [
