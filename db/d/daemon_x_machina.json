@@ -3,10 +3,10 @@
   "Name": "DAEMON X MACHINA",
   "Names": [],
   "Rating": 4.37,
-  "NumberOfRatings": 2011,
-  "DailyRatings": 12.6,
+  "NumberOfRatings": 2013,
+  "DailyRatings": 12.32,
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2022-09-17T06:00:43.3395593+00:00",
+  "LastChanged": "2022-09-17T13:30:40.3605443+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:03.7612117+00:00",
@@ -1007,6 +1007,11 @@
       "Time": "2022-09-17T06:00:43.3395596+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 2011
+    },
+    {
+      "Time": "2022-09-17T13:30:40.3605445+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 2013
     }
   ],
   "Tags": [
