@@ -3,11 +3,11 @@
   "Name": "Way of the Hunter",
   "Names": [],
   "Rating": 4.15,
-  "NumberOfRatings": 173,
-  "DailyRatings": 4.82,
+  "NumberOfRatings": 175,
+  "DailyRatings": 4.75,
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2022-09-16T20:02:21.7298144+00:00",
+  "LastChanged": "2022-09-17T08:04:16.7471616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T19:31:36.4278603+00:00",
@@ -273,6 +273,11 @@
       "Time": "2022-09-16T20:02:21.7298147+00:00",
       "Rating": 4.15,
       "NumberOfRatings": 173
+    },
+    {
+      "Time": "2022-09-17T08:04:16.7471618+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": 175
     }
   ],
   "Tags": []

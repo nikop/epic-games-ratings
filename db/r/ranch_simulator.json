@@ -2,11 +2,11 @@
   "ID": "6a9d6df3f6f74983a7d77861ccfcf50b",
   "Name": "Ranch Simulator",
   "Names": [],
-  "Rating": 4.43,
-  "NumberOfRatings": 327,
-  "DailyRatings": 2.5,
+  "Rating": 4.42,
+  "NumberOfRatings": 329,
+  "DailyRatings": 2.57,
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2022-09-16T17:31:50.7154074+00:00",
+  "LastChanged": "2022-09-17T08:03:21.9567338+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:57.8144751+00:00",
@@ -347,6 +347,11 @@
       "Time": "2022-09-16T17:31:50.7154075+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 327
+    },
+    {
+      "Time": "2022-09-17T08:03:21.956734+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 329
     }
   ],
   "Tags": [
