@@ -3,10 +3,10 @@
   "Name": "Heroes \u0026 Generals WWII",
   "Names": [],
   "Rating": 4.21,
-  "NumberOfRatings": 4447,
-  "DailyRatings": 29.7,
+  "NumberOfRatings": 4455,
+  "DailyRatings": 30.23,
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2022-09-17T08:03:06.0530499+00:00",
+  "LastChanged": "2022-09-17T11:30:24.0459086+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.2948149+00:00",
@@ -2457,6 +2457,11 @@
       "Time": "2022-09-17T08:03:06.05305+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 4447
+    },
+    {
+      "Time": "2022-09-17T11:30:24.0459088+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 4455
     }
   ],
   "Tags": [
@@ -2470,7 +2475,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 442
+      "Count": 449
     },
     {
       "Text": "This game is Highly Recommended",
