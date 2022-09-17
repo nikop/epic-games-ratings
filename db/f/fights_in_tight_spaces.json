@@ -2,11 +2,11 @@
   "ID": "2a5eb81d6f384099a5259413ee22baa4",
   "Name": "Fights in Tight Spaces",
   "Names": [],
-  "Rating": 4.58,
-  "NumberOfRatings": 36,
+  "Rating": 4.59,
+  "NumberOfRatings": 37,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:25:17.7163905+00:00",
-  "LastChanged": "2022-09-08T03:02:08.8565265+00:00",
+  "LastChanged": "2022-09-17T01:31:36.1221408+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.7163908+00:00",
@@ -52,6 +52,11 @@
       "Time": "2022-09-08T03:02:08.8565267+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-09-17T01:31:36.122141+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 37
     }
   ],
   "Tags": []
