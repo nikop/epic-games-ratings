@@ -1,6 +1,6 @@
 # Far Cry Primal Standard Edition
 Rating: 4.67 (442)  
-Ratings Per Day: 3.26  
+Ratings Per Day: 3.18  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
