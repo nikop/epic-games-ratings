@@ -3,10 +3,10 @@
   "Name": "Verdun",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 1943,
-  "DailyRatings": 11.8,
+  "NumberOfRatings": 1950,
+  "DailyRatings": 11.53,
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
-  "LastChanged": "2022-09-17T00:02:40.940861+00:00",
+  "LastChanged": "2022-09-17T16:01:31.2568584+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:07.9846698+00:00",
@@ -1092,6 +1092,11 @@
       "Time": "2022-09-17T00:02:40.9408611+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 1943
+    },
+    {
+      "Time": "2022-09-17T16:01:31.2568585+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 1950
     }
   ],
   "Tags": [
@@ -1105,7 +1110,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 47
+      "Count": 49
     },
     {
       "Text": "This game has Obsessive Gameplay",

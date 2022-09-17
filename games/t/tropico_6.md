@@ -1,6 +1,6 @@
 # Tropico 6
 Rating: 4.66 (379)  
-Ratings Per Day: 2.49  
+Ratings Per Day: 2.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
