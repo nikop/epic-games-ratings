@@ -1,6 +1,6 @@
 # Torchlight
-Rating: 4.43 (115)  
-Ratings Per Day: 0.77  
+Rating: 4.44 (117)  
+Ratings Per Day: 0.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 0.77
 | 2022-09-12 | 4.41 | 112 |
 | 2022-09-15 | 4.42 | 114 |
 | 2022-09-16 | 4.43 | 115 |
+| 2022-09-17 | 4.44 | 117 |
