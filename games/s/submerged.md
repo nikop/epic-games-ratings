@@ -1,5 +1,5 @@
 # Submerged
-Rating: 3.96 (25)  
+Rating: 4.00 (26)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -7,3 +7,4 @@ Ratings Per Day: 0.00
 | 2022-09-05 | 3.95 | 20 |
 | 2022-09-08 | 3.95 | 22 |
 | 2022-09-09 | 3.96 | 25 |
+| 2022-09-17 | 4.00 | 26 |
