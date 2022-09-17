@@ -1,6 +1,6 @@
 # Riverbond
-Rating: 4.49 (595)  
-Ratings Per Day: 2.95  
+Rating: 4.50 (599)  
+Ratings Per Day: 3.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -59,4 +59,4 @@ Ratings Per Day: 2.95
 | 2022-09-13 | 4.49 | 587 |
 | 2022-09-15 | 4.50 | 589 |
 | 2022-09-16 | 4.50 | 593 |
-| 2022-09-17 | 4.49 | 595 |
+| 2022-09-17 | 4.50 | 599 |
