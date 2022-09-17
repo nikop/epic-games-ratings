@@ -2,11 +2,11 @@
   "ID": "843c8ce683474448bb104a9651e8f325",
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 506,
-  "DailyRatings": 2.56,
+  "Rating": 4.51,
+  "NumberOfRatings": 513,
+  "DailyRatings": 3.28,
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2022-09-16T18:31:14.4319924+00:00",
+  "LastChanged": "2022-09-17T15:01:12.8345158+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.8648479+00:00",
@@ -397,6 +397,11 @@
       "Time": "2022-09-16T18:31:14.4319925+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 506
+    },
+    {
+      "Time": "2022-09-17T15:01:12.8345159+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 513
     }
   ],
   "Tags": [
