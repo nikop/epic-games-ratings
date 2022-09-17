@@ -3,10 +3,10 @@
   "Name": "Mutant Year Zero: Road to Eden",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 1958,
-  "DailyRatings": 15.29,
+  "NumberOfRatings": 1966,
+  "DailyRatings": 15.71,
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2022-09-17T07:01:44.3974268+00:00",
+  "LastChanged": "2022-09-17T17:02:13.1678819+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.3944409+00:00",
@@ -847,12 +847,17 @@
       "Time": "2022-09-17T07:01:44.3974269+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 1958
+    },
+    {
+      "Time": "2022-09-17T17:02:13.167882+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 1966
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 354
+      "Count": 358
     },
     {
       "Text": "This game has Amazing Characters",
