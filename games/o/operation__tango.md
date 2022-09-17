@@ -1,5 +1,5 @@
 # Operation: Tango
-Rating: 4.71 (41)  
+Rating: 4.72 (43)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.00
 | 2022-09-04 | 4.71 | 38 |
 | 2022-09-05 | 4.72 | 39 |
 | 2022-09-07 | 4.71 | 41 |
+| 2022-09-17 | 4.72 | 43 |
