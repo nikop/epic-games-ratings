@@ -2,11 +2,11 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "Names": [],
-  "Rating": 4.64,
-  "NumberOfRatings": 6620,
-  "DailyRatings": 50.72,
+  "Rating": 4.63,
+  "NumberOfRatings": 6625,
+  "DailyRatings": 50.84,
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2022-09-17T02:01:04.4220725+00:00",
+  "LastChanged": "2022-09-17T04:00:43.937799+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -2777,6 +2777,11 @@
       "Time": "2022-09-17T02:01:04.4220726+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 6620
+    },
+    {
+      "Time": "2022-09-17T04:00:43.9377992+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 6625
     }
   ],
   "Tags": [
