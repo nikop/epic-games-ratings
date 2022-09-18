@@ -2,17 +2,22 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "Names": [],
-  "Rating": 4.25,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.19,
+  "NumberOfRatings": 21,
+  "DailyRatings": 0.55,
   "FirstSeen": "2022-09-06T19:02:05.1337324+00:00",
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
-  "LastChanged": "2022-09-16T21:31:49.747601+00:00",
+  "LastChanged": "2022-09-18T17:01:37.4880249+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-16T21:31:49.7476012+00:00",
       "Rating": 4.25,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-09-18T17:01:37.4880251+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []

@@ -3,10 +3,10 @@
   "Name": "Songs of Conquest",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 287,
-  "DailyRatings": 1.21,
+  "NumberOfRatings": 288,
+  "DailyRatings": 1.28,
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
-  "LastChanged": "2022-09-18T05:01:29.9642382+00:00",
+  "LastChanged": "2022-09-18T17:01:09.455031+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:48.2470944+00:00",
@@ -247,6 +247,11 @@
       "Time": "2022-09-18T05:01:29.9642384+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 287
+    },
+    {
+      "Time": "2022-09-18T17:01:09.4550311+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 288
     }
   ],
   "Tags": []
