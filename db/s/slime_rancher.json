@@ -3,10 +3,10 @@
   "Name": "Slime Rancher",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 5488,
-  "DailyRatings": 50.17,
+  "NumberOfRatings": 5490,
+  "DailyRatings": 50.16,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-09-18T01:01:14.4670551+00:00",
+  "LastChanged": "2022-09-18T02:01:07.0352336+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -1997,6 +1997,11 @@
       "Time": "2022-09-18T01:01:14.4670553+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 5488
+    },
+    {
+      "Time": "2022-09-18T02:01:07.0352338+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 5490
     }
   ],
   "Tags": [
@@ -2030,7 +2035,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 149
+      "Count": 151
     },
     {
       "Text": "This game is Highly Recommended",
