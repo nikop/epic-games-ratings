@@ -3,10 +3,10 @@
   "Name": "Unreal Tournament",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 1045,
-  "DailyRatings": 5.32,
+  "NumberOfRatings": 1046,
+  "DailyRatings": 5.19,
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
-  "LastChanged": "2022-09-18T06:30:52.7981987+00:00",
+  "LastChanged": "2022-09-18T15:00:54.4801121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:08.0500863+00:00",
@@ -1267,6 +1267,11 @@
       "Time": "2022-09-18T06:30:52.7981988+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 1045
+    },
+    {
+      "Time": "2022-09-18T15:00:54.4801122+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 1046
     }
   ],
   "Tags": [
@@ -1300,7 +1305,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 204
+      "Count": 208
     },
     {
       "Text": "This game has Quickly Understood Controls",

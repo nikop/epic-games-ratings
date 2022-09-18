@@ -1,6 +1,6 @@
 # SLUDGE LIFE
-Rating: 4.73 (165)  
-Ratings Per Day: 1.56  
+Rating: 4.73 (167)  
+Ratings Per Day: 1.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -50,3 +50,4 @@ Ratings Per Day: 1.56
 | 2022-09-15 | 4.73 | 160 |
 | 2022-09-16 | 4.73 | 161 |
 | 2022-09-17 | 4.73 | 165 |
+| 2022-09-18 | 4.73 | 167 |
