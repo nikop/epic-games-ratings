@@ -1,6 +1,6 @@
 # Creature in the Well
-Rating: 4.42 (107)  
-Ratings Per Day: 0.60  
+Rating: 4.42 (108)  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,3 +39,4 @@ Ratings Per Day: 0.60
 | 2022-09-12 | 4.40 | 104 |
 | 2022-09-15 | 4.41 | 105 |
 | 2022-09-17 | 4.42 | 107 |
+| 2022-09-18 | 4.42 | 108 |
