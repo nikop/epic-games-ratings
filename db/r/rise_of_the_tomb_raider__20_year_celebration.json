@@ -3,10 +3,10 @@
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 27089,
-  "DailyRatings": 262.93,
+  "NumberOfRatings": 27101,
+  "DailyRatings": 262.99,
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2022-09-18T09:30:51.9499961+00:00",
+  "LastChanged": "2022-09-18T10:30:54.9157846+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:10.6439258+00:00",
@@ -2402,12 +2402,17 @@
       "Time": "2022-09-18T09:30:51.9499962+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 27089
+    },
+    {
+      "Time": "2022-09-18T10:30:54.9157847+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 27101
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 6198
+      "Count": 6293
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2443,7 +2448,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -1,6 +1,6 @@
 # F1® Manager 2022
-Rating: 4.55 (715)  
-Ratings Per Day: 27.62  
+Rating: 4.55 (717)  
+Ratings Per Day: 26.65  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,4 +23,4 @@ Ratings Per Day: 27.62
 | 2022-09-15 | 4.56 | 658 |
 | 2022-09-16 | 4.55 | 689 |
 | 2022-09-17 | 4.55 | 707 |
-| 2022-09-18 | 4.55 | 715 |
+| 2022-09-18 | 4.55 | 717 |

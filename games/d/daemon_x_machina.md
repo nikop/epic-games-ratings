@@ -1,6 +1,6 @@
 # DAEMON X MACHINA
-Rating: 4.37 (2 019)  
-Ratings Per Day: 12.57  
+Rating: 4.37 (2 024)  
+Ratings Per Day: 12.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -62,4 +62,4 @@ Ratings Per Day: 12.57
 | 2022-09-15 | 4.37 | 1 990 |
 | 2022-09-16 | 4.37 | 2 002 |
 | 2022-09-17 | 4.37 | 2 013 |
-| 2022-09-18 | 4.37 | 2 019 |
+| 2022-09-18 | 4.37 | 2 024 |
