@@ -1,6 +1,6 @@
 # Space Punks
 Rating: 4.18 (1 868)  
-Ratings Per Day: 11.41  
+Ratings Per Day: 11.92  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
