@@ -3,10 +3,10 @@
   "Name": "Rage 2",
   "Names": [],
   "Rating": 4.28,
-  "NumberOfRatings": 4141,
-  "DailyRatings": 30.22,
+  "NumberOfRatings": 4148,
+  "DailyRatings": 30.41,
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
-  "LastChanged": "2022-09-18T13:30:58.5702413+00:00",
+  "LastChanged": "2022-09-18T18:01:04.1724296+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.0256753+00:00",
@@ -1577,6 +1577,11 @@
       "Time": "2022-09-18T13:30:58.5702414+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 4141
+    },
+    {
+      "Time": "2022-09-18T18:01:04.1724298+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 4148
     }
   ],
   "Tags": [

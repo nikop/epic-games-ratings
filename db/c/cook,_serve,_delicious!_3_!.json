@@ -3,11 +3,11 @@
   "Name": "Cook, Serve, Delicious! 3?!",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 1954,
-  "DailyRatings": 11.62,
+  "NumberOfRatings": 1955,
+  "DailyRatings": 11.31,
   "FirstSeen": "2022-08-11T18:01:43.0387462+00:00",
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
-  "LastChanged": "2022-09-18T11:31:48.978871+00:00",
+  "LastChanged": "2022-09-18T18:01:21.4763237+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T08:02:43.200719+00:00",
@@ -958,6 +958,11 @@
       "Time": "2022-09-18T11:31:48.9788711+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 1954
+    },
+    {
+      "Time": "2022-09-18T18:01:21.4763238+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 1955
     }
   ],
   "Tags": [
@@ -971,7 +976,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Storytelling",

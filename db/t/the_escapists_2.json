@@ -3,10 +3,10 @@
   "Name": "The Escapists 2",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 1885,
-  "DailyRatings": 12.67,
+  "NumberOfRatings": 1892,
+  "DailyRatings": 13.22,
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2022-09-18T12:01:02.5107305+00:00",
+  "LastChanged": "2022-09-18T18:01:05.3016487+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:06.6335861+00:00",
@@ -782,6 +782,11 @@
       "Time": "2022-09-18T12:01:02.5107306+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 1885
+    },
+    {
+      "Time": "2022-09-18T18:01:05.3016488+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 1892
     }
   ],
   "Tags": [
@@ -815,7 +820,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Unique Visuals",

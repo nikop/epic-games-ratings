@@ -1,6 +1,6 @@
 # Far Cry®3 Standard Edition
-Rating: 4.64 (481)  
-Ratings Per Day: 3.51  
+Rating: 4.64 (487)  
+Ratings Per Day: 3.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -61,3 +61,4 @@ Ratings Per Day: 3.51
 | 2022-09-15 | 4.65 | 472 |
 | 2022-09-16 | 4.64 | 476 |
 | 2022-09-17 | 4.64 | 481 |
+| 2022-09-18 | 4.64 | 487 |
