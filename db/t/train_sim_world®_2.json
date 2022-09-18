@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.42,
   "NumberOfRatings": 2514,
-  "DailyRatings": 9.33,
+  "DailyRatings": 9.25,
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
   "LastChanged": "2022-09-17T21:30:17.8560575+00:00",
   "RatingHistory": [
@@ -1911,7 +1911,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 370
+      "Count": 372
     },
     {
       "Text": "This game has Obsessive Gameplay",
