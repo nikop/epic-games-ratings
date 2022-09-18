@@ -1,6 +1,6 @@
 # Osiris: New Dawn
-Rating: 3.77 (102)  
-Ratings Per Day: 0.66  
+Rating: 3.79 (104)  
+Ratings Per Day: 0.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Ratings Per Day: 0.66
 | 2022-09-15 | 3.77 | 100 |
 | 2022-09-16 | 3.77 | 101 |
 | 2022-09-17 | 3.77 | 102 |
+| 2022-09-18 | 3.79 | 104 |
