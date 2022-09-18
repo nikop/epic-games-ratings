@@ -1,6 +1,6 @@
 # Sherlock Holmes: The Devil's Daughter
-Rating: 4.50 (54)  
-Ratings Per Day: 1.00  
+Rating: 4.49 (55)  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Ratings Per Day: 1.00
 | 2022-09-08 | 4.48 | 52 |
 | 2022-09-12 | 4.49 | 53 |
 | 2022-09-13 | 4.50 | 54 |
+| 2022-09-18 | 4.49 | 55 |
