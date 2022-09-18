@@ -1,6 +1,6 @@
 # The Drone Racing League®
 Rating: 4.76 (33)  
-Ratings Per Day: 0.40  
+Ratings Per Day: 0.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
