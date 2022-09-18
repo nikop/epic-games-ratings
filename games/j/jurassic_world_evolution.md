@@ -1,6 +1,6 @@
 # Jurassic World Evolution
 Rating: 4.63 (9 018)  
-Ratings Per Day: 41.37  
+Ratings Per Day: 41.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
