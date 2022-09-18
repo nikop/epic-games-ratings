@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Isonzo](games/i/isonzo.md) | 4.51 | 47 | 8.51 |
+| 1 | [Isonzo](games/i/isonzo.md) | 4.52 | 48 | 8.61 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.24 | 99 | 9.74 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.19 | 21 | 0.55 |
 | 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 159 | 6.96 |
@@ -9,7 +9,7 @@
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 82 | 2.38 |
 | 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 727 | 26.93 |
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 55 | 1.52 |
-| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 411 | 195.12 |
+| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 434 | 194.33 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 838 | 514.20 |
 | 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 382 | 238.31 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 181 | 4.79 |
@@ -21,6 +21,6 @@
 | 19 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 85 | 0.43 |
 | 20 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 658 | 100.48 |
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 955 | 11.31 |
-| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 60 013 | 631.10 |
+| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 60 049 | 630.60 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 034 | 15.01 |
-| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 236 | 185.11 |
+| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 236 | 184.16 |
