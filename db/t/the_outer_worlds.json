@@ -3,10 +3,10 @@
   "Name": "The Outer Worlds",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 2399,
-  "DailyRatings": 15.9,
+  "NumberOfRatings": 2402,
+  "DailyRatings": 16.2,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-09-18T14:02:02.5117345+00:00",
+  "LastChanged": "2022-09-18T15:31:34.7110187+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -1582,6 +1582,11 @@
       "Time": "2022-09-18T14:02:02.5117347+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 2399
+    },
+    {
+      "Time": "2022-09-18T15:31:34.7110189+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 2402
     }
   ],
   "Tags": [
