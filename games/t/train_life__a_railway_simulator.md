@@ -1,6 +1,6 @@
 # Train Life: A Railway Simulator
-Rating: 3.89 (38)  
-Ratings Per Day: 0.67  
+Rating: 3.92 (39)  
+Ratings Per Day: 0.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Ratings Per Day: 0.67
 | 2022-09-12 | 3.89 | 36 |
 | 2022-09-13 | 3.89 | 37 |
 | 2022-09-15 | 3.89 | 38 |
+| 2022-09-18 | 3.92 | 39 |

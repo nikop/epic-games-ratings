@@ -1,6 +1,6 @@
 # The Long Dark
-Rating: 4.74 (4 600)  
-Ratings Per Day: 37.33  
+Rating: 4.73 (4 606)  
+Ratings Per Day: 37.97  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -62,4 +62,4 @@ Ratings Per Day: 37.33
 | 2022-09-15 | 4.74 | 4 500 |
 | 2022-09-16 | 4.73 | 4 542 |
 | 2022-09-17 | 4.74 | 4 589 |
-| 2022-09-18 | 4.74 | 4 600 |
+| 2022-09-18 | 4.73 | 4 606 |

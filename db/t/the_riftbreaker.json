@@ -3,10 +3,10 @@
   "Name": "The Riftbreaker",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 267,
-  "DailyRatings": 1.33,
+  "NumberOfRatings": 268,
+  "DailyRatings": 1.3,
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2022-09-17T13:01:05.776293+00:00",
+  "LastChanged": "2022-09-18T11:01:25.7725143+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:56.9409055+00:00",
@@ -397,6 +397,11 @@
       "Time": "2022-09-17T13:01:05.7762931+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 267
+    },
+    {
+      "Time": "2022-09-18T11:01:25.7725144+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 268
     }
   ],
   "Tags": [
