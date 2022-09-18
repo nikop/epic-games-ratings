@@ -1,6 +1,6 @@
 # World War Z Aftermath
 Rating: 4.56 (16 587)  
-Ratings Per Day: 101.44  
+Ratings Per Day: 101.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

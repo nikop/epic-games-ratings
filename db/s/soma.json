@@ -2,11 +2,11 @@
   "ID": "8a6a94901c8248fca1f5c78931c85cbd",
   "Name": "SOMA",
   "Names": [],
-  "Rating": 4.71,
-  "NumberOfRatings": 282,
-  "DailyRatings": 2.45,
+  "Rating": 4.7,
+  "NumberOfRatings": 283,
+  "DailyRatings": 2.54,
   "FirstSeen": "2022-07-22T20:24:55.9508799+00:00",
-  "LastChanged": "2022-09-18T01:31:55.7423226+00:00",
+  "LastChanged": "2022-09-18T05:01:57.1770351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:55.9508802+00:00",
@@ -277,6 +277,11 @@
       "Time": "2022-09-18T01:31:55.7423228+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 282
+    },
+    {
+      "Time": "2022-09-18T05:01:57.1770353+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 283
     }
   ],
   "Tags": []

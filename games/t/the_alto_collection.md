@@ -1,6 +1,6 @@
 # The Alto Collection
 Rating: 4.68 (311)  
-Ratings Per Day: 3.20  
+Ratings Per Day: 3.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
