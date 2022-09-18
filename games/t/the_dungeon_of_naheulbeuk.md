@@ -1,6 +1,6 @@
 # The Dungeon of Naheulbeuk
 Rating: 4.71 (109)  
-Ratings Per Day: 1.23  
+Ratings Per Day: 1.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
