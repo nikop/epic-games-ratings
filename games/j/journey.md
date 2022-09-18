@@ -1,6 +1,6 @@
 # Journey
-Rating: 4.78 (50)  
-Ratings Per Day: 0.25  
+Rating: 4.80 (54)  
+Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -21,3 +21,4 @@ Ratings Per Day: 0.25
 | 2022-09-03 | 4.77 | 48 |
 | 2022-09-12 | 4.78 | 49 |
 | 2022-09-16 | 4.78 | 50 |
+| 2022-09-18 | 4.80 | 54 |

@@ -2,11 +2,11 @@
   "ID": "lemur",
   "Name": "Journey",
   "Names": [],
-  "Rating": 4.78,
-  "NumberOfRatings": 50,
-  "DailyRatings": 0.25,
+  "Rating": 4.8,
+  "NumberOfRatings": 54,
+  "DailyRatings": 0.83,
   "FirstSeen": "2022-07-22T20:24:29.6928731+00:00",
-  "LastChanged": "2022-09-16T20:31:17.9607335+00:00",
+  "LastChanged": "2022-09-18T20:31:23.696673+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:29.6928733+00:00",
@@ -102,6 +102,11 @@
       "Time": "2022-09-16T20:31:17.9607337+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 50
+    },
+    {
+      "Time": "2022-09-18T20:31:23.6966732+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 54
     }
   ],
   "Tags": []
