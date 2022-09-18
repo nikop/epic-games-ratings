@@ -7,10 +7,10 @@
 | 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 130 | 94.39 |
 | 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.94 | 255 | 8.25 |
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 82 | 2.38 |
-| 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 727 | 26.45 |
+| 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 731 | 26.24 |
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 55 | 1.52 |
-| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 434 | 194.33 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 838 | 514.20 |
+| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 440 | 194.03 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 838 | 512.27 |
 | 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 462 | 237.67 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 181 | 4.79 |
 | 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.20 | 742 | 57.10 |
