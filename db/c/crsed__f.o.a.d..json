@@ -2,11 +2,11 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "Names": [],
-  "Rating": 4.43,
-  "NumberOfRatings": 456,
-  "DailyRatings": 4.14,
+  "Rating": 4.42,
+  "NumberOfRatings": 457,
+  "DailyRatings": 4.19,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-09-18T16:00:44.3154496+00:00",
+  "LastChanged": "2022-09-18T19:30:38.4929282+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -627,6 +627,11 @@
       "Time": "2022-09-18T16:00:44.3154497+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 456
+    },
+    {
+      "Time": "2022-09-18T19:30:38.4929284+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 457
     }
   ],
   "Tags": [
@@ -672,7 +677,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Challenging Combat",

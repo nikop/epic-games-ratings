@@ -1,6 +1,6 @@
 # Among Trees
 Rating: 4.36 (117)  
-Ratings Per Day: 0.75  
+Ratings Per Day: 0.85  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
