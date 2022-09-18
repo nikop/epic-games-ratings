@@ -3,10 +3,10 @@
   "Name": "Among Us",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 25482,
-  "DailyRatings": 132.61,
+  "NumberOfRatings": 25507,
+  "DailyRatings": 133.83,
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2022-09-18T14:30:53.1238969+00:00",
+  "LastChanged": "2022-09-18T16:30:50.0750585+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:02.6618056+00:00",
@@ -2802,6 +2802,11 @@
       "Time": "2022-09-18T14:30:53.1238971+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 25482
+    },
+    {
+      "Time": "2022-09-18T16:30:50.0750587+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 25507
     }
   ],
   "Tags": [

@@ -3,10 +3,10 @@
   "Name": "Destroy All Humans!",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 82,
-  "DailyRatings": 0.4,
+  "NumberOfRatings": 84,
+  "DailyRatings": 0.67,
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
-  "LastChanged": "2022-09-17T16:31:37.6865034+00:00",
+  "LastChanged": "2022-09-18T16:31:35.0964439+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:21.4096774+00:00",
@@ -142,6 +142,11 @@
       "Time": "2022-09-17T16:31:37.6865036+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 82
+    },
+    {
+      "Time": "2022-09-18T16:31:35.096444+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 84
     }
   ],
   "Tags": [
