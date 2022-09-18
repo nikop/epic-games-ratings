@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Isonzo](games/i/isonzo.md) | 4.56 | 39 | 9.72 |
+| 1 | [Isonzo](games/i/isonzo.md) | 4.56 | 43 | 8.40 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.24 | 99 | 10.04 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 20 | 0.00 |
 | 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 155 | 8.77 |
@@ -13,7 +13,7 @@
 | 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 547 | 526.42 |
 | 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 325 | 252.77 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.16 | 177 | 4.74 |
-| 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 708 | 58.75 |
+| 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.18 | 708 | 58.59 |
 | 15 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 89 | 1.05 |
 | 16 | [DOOM II](games/d/doom_ii.md) | 4.85 | 41 | 0.81 |
 | 17 | [DOOM 64](games/d/doom_64.md) | 4.66 | 4 934 | 50.53 |
@@ -23,4 +23,4 @@
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.48 | 1 951 | 11.28 |
 | 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 59 356 | 617.85 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 022 | 14.23 |
-| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 092 | 183.07 |
+| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 102 | 183.42 |
