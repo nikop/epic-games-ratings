@@ -1,6 +1,6 @@
 # Detroit: Become Human
 Rating: 4.87 (3 754)  
-Ratings Per Day: 28.24  
+Ratings Per Day: 28.10  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
