@@ -3,10 +3,10 @@
   "Name": "SMITE",
   "Names": [],
   "Rating": 4.47,
-  "NumberOfRatings": 6578,
-  "DailyRatings": 24.96,
+  "NumberOfRatings": 6579,
+  "DailyRatings": 24.8,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-09-17T22:30:32.5926857+00:00",
+  "LastChanged": "2022-09-18T00:30:33.9493541+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -2592,6 +2592,11 @@
       "Time": "2022-09-17T22:30:32.5926861+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 6578
+    },
+    {
+      "Time": "2022-09-18T00:30:33.9493544+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 6579
     }
   ],
   "Tags": [
@@ -2621,7 +2626,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1436
+      "Count": 1456
     },
     {
       "Text": "This game has Amazing Storytelling",
