@@ -2,11 +2,11 @@
   "ID": "e099f2abf3324d248054bf14c476fbc0",
   "Name": "Oddworld Soulstorm",
   "Names": [],
-  "Rating": 4.67,
-  "NumberOfRatings": 70,
-  "DailyRatings": 0.82,
+  "Rating": 4.68,
+  "NumberOfRatings": 71,
+  "DailyRatings": 0.86,
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
-  "LastChanged": "2022-09-17T11:02:28.5511463+00:00",
+  "LastChanged": "2022-09-18T09:32:29.4332547+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:54.3777283+00:00",
@@ -147,12 +147,17 @@
       "Time": "2022-09-17T11:02:28.5511465+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 70
+    },
+    {
+      "Time": "2022-09-18T09:32:29.4332549+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 71
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 23
+      "Count": 24
     }
   ]
 }
