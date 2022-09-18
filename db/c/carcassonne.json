@@ -3,10 +3,10 @@
   "Name": "Carcassonne",
   "Names": [],
   "Rating": 4.7,
-  "NumberOfRatings": 267,
-  "DailyRatings": 1.95,
+  "NumberOfRatings": 268,
+  "DailyRatings": 2.03,
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2022-09-17T20:30:36.4129765+00:00",
+  "LastChanged": "2022-09-18T04:30:27.4310712+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.0160662+00:00",
@@ -407,6 +407,11 @@
       "Time": "2022-09-17T20:30:36.4129767+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 267
+    },
+    {
+      "Time": "2022-09-18T04:30:27.4310714+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 268
     }
   ],
   "Tags": [
@@ -445,6 +450,10 @@
     {
       "Text": "This game has Amazing Storytelling",
       "Count": 22
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 20
     }
   ]
 }
