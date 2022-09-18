@@ -1,6 +1,6 @@
 # Q.U.B.E. 2
 Rating: 4.44 (94)  
-Ratings Per Day: 1.17  
+Ratings Per Day: 1.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
