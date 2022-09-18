@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed Unity",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 862,
-  "DailyRatings": 9.02,
+  "NumberOfRatings": 864,
+  "DailyRatings": 8.71,
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2022-09-17T21:00:55.3255544+00:00",
+  "LastChanged": "2022-09-18T08:00:56.8060522+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:14.6538572+00:00",
@@ -542,6 +542,11 @@
       "Time": "2022-09-17T21:00:55.3255546+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 862
+    },
+    {
+      "Time": "2022-09-18T08:00:56.8060524+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 864
     }
   ],
   "Tags": [
