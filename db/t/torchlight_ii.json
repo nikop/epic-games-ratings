@@ -3,10 +3,10 @@
   "Name": "Torchlight II",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 2182,
-  "DailyRatings": 16.27,
+  "NumberOfRatings": 2184,
+  "DailyRatings": 16.32,
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-09-18T03:31:53.9810105+00:00",
+  "LastChanged": "2022-09-18T06:02:00.4622444+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -1082,6 +1082,11 @@
       "Time": "2022-09-18T03:31:53.9810106+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 2182
+    },
+    {
+      "Time": "2022-09-18T06:02:00.4622447+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 2184
     }
   ],
   "Tags": [
@@ -1099,7 +1104,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game is Great for Beginners",

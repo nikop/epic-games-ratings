@@ -3,10 +3,10 @@
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 850,
-  "DailyRatings": 4.44,
+  "NumberOfRatings": 854,
+  "DailyRatings": 4.64,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2022-09-17T15:30:46.9416206+00:00",
+  "LastChanged": "2022-09-18T06:00:51.6843549+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -792,6 +792,11 @@
       "Time": "2022-09-17T15:30:46.9416208+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 850
+    },
+    {
+      "Time": "2022-09-18T06:00:51.684364+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 854
     }
   ],
   "Tags": [
