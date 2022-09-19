@@ -1,6 +1,6 @@
 # Mages of Mystralia
 Rating: 4.35 (671)  
-Ratings Per Day: 5.21  
+Ratings Per Day: 5.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
