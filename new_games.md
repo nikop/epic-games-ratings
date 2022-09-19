@@ -9,8 +9,8 @@
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 82 | 2.38 |
 | 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 733 | 26.58 |
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 55 | 1.17 |
-| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 469 | 192.01 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 947 | 505.47 |
+| 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 475 | 191.30 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 30 986 | 501.90 |
 | 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 525 | 238.23 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 181 | 5.17 |
 | 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.20 | 753 | 55.57 |
@@ -22,5 +22,5 @@
 | 20 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 703 | 99.25 |
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 957 | 10.99 |
 | 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 60 192 | 626.92 |
-| 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 041 | 15.17 |
+| 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 041 | 15.20 |
 | 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 324 | 189.58 |
