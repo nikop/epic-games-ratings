@@ -3,10 +3,10 @@
   "Name": "Red Dead Redemption 2",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 100696,
-  "DailyRatings": 584.4,
+  "NumberOfRatings": 100733,
+  "DailyRatings": 587.98,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2022-09-19T16:02:02.4335345+00:00",
+  "LastChanged": "2022-09-19T16:31:28.9248998+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -3322,6 +3322,11 @@
       "Time": "2022-09-19T16:02:02.4335347+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 100696
+    },
+    {
+      "Time": "2022-09-19T16:31:28.9249+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 100733
     }
   ],
   "Tags": [
@@ -3347,11 +3352,11 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 3984
+      "Count": 4020
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 3929
+      "Count": 3979
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3379,7 +3384,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 2864
+      "Count": 2885
     }
   ]
 }
