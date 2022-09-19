@@ -3,10 +3,10 @@
   "Name": "MultiVersus",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 55382,
-  "DailyRatings": 180.54,
+  "NumberOfRatings": 55403,
+  "DailyRatings": 180.32,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2022-09-19T20:01:15.4782419+00:00",
+  "LastChanged": "2022-09-19T23:01:05.338809+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -2837,12 +2837,17 @@
       "Time": "2022-09-19T20:01:15.4782423+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 55382
+    },
+    {
+      "Time": "2022-09-19T23:01:05.3388092+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 55403
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 3298
+      "Count": 3326
     },
     {
       "Text": "This game is Great for Quick Sessions",

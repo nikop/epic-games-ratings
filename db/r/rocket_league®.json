@@ -3,10 +3,10 @@
   "Name": "Rocket League\u00AE",
   "Names": [],
   "Rating": 4.54,
-  "NumberOfRatings": 360736,
-  "DailyRatings": 1911.39,
+  "NumberOfRatings": 360823,
+  "DailyRatings": 1912.45,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2022-09-19T22:00:22.9331226+00:00",
+  "LastChanged": "2022-09-19T23:00:21.0675552+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -3037,6 +3037,11 @@
       "Time": "2022-09-19T22:00:22.9331232+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 360736
+    },
+    {
+      "Time": "2022-09-19T23:00:21.0675554+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 360823
     }
   ],
   "Tags": [
@@ -3078,7 +3083,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 95678
+      "Count": 96577
     }
   ]
 }
