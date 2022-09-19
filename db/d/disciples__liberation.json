@@ -2,11 +2,11 @@
   "ID": "ff17044fb2804a4aa8066dde0626514d",
   "Name": "Disciples: Liberation",
   "Names": [],
-  "Rating": 4.39,
-  "NumberOfRatings": 140,
-  "DailyRatings": 0.56,
+  "Rating": 4.38,
+  "NumberOfRatings": 141,
+  "DailyRatings": 0.59,
   "FirstSeen": "2022-07-22T20:19:00.1531714+00:00",
-  "LastChanged": "2022-09-18T01:00:42.7711274+00:00",
+  "LastChanged": "2022-09-19T11:01:15.7981762+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:00.1531717+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-09-18T01:00:42.7711382+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 140
+    },
+    {
+      "Time": "2022-09-19T11:01:15.7981765+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 141
     }
   ],
   "Tags": [
