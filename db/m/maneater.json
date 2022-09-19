@@ -3,10 +3,10 @@
   "Name": "Maneater",
   "Names": [],
   "Rating": 4.49,
-  "NumberOfRatings": 81735,
-  "DailyRatings": 93.33,
+  "NumberOfRatings": 81753,
+  "DailyRatings": 91.65,
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2022-09-19T00:31:23.1101771+00:00",
+  "LastChanged": "2022-09-19T08:01:31.2777561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.7080286+00:00",
@@ -1512,6 +1512,11 @@
       "Time": "2022-09-19T00:31:23.1101772+00:00",
       "Rating": 4.49,
       "NumberOfRatings": 81735
+    },
+    {
+      "Time": "2022-09-19T08:01:31.2777563+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 81753
     }
   ],
   "Tags": [
@@ -1521,7 +1526,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2899
+      "Count": 2906
     },
     {
       "Text": "This game is Highly Recommended",
