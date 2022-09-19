@@ -1,6 +1,6 @@
 # Disco Elysium
 Rating: 4.87 (1 563)  
-Ratings Per Day: 13.44  
+Ratings Per Day: 13.88  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
