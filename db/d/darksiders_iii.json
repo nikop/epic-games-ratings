@@ -2,11 +2,11 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "Names": [],
-  "Rating": 4.48,
-  "NumberOfRatings": 110,
-  "DailyRatings": 0.19,
+  "Rating": 4.49,
+  "NumberOfRatings": 111,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
-  "LastChanged": "2022-09-19T04:00:39.7648699+00:00",
+  "LastChanged": "2022-09-19T21:30:55.6626996+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:42.0719798+00:00",
@@ -167,12 +167,17 @@
       "Time": "2022-09-19T04:00:39.7648702+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 110
+    },
+    {
+      "Time": "2022-09-19T21:30:55.6626997+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 111
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 38
+      "Count": 39
     }
   ]
 }
