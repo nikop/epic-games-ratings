@@ -1,6 +1,6 @@
 # Expeditions: Rome
-Rating: 4.70 (66)  
-Ratings Per Day: 2.18  
+Rating: 4.68 (68)  
+Ratings Per Day: 0.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Ratings Per Day: 2.18
 | 2022-09-07 | 4.70 | 63 |
 | 2022-09-08 | 4.69 | 64 |
 | 2022-09-12 | 4.70 | 66 |
+| 2022-09-19 | 4.68 | 68 |
