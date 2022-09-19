@@ -2,11 +2,11 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "Names": [],
-  "Rating": 4.85,
-  "NumberOfRatings": 874,
-  "DailyRatings": 4.97,
+  "Rating": 4.84,
+  "NumberOfRatings": 877,
+  "DailyRatings": 4.9,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-09-18T17:00:52.1020311+00:00",
+  "LastChanged": "2022-09-19T09:30:49.8285984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -997,6 +997,11 @@
       "Time": "2022-09-18T17:00:52.1020313+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 874
+    },
+    {
+      "Time": "2022-09-19T09:30:49.8285985+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 877
     }
   ],
   "Tags": [
