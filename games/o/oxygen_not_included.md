@@ -1,6 +1,6 @@
 # Oxygen Not Included
-Rating: 4.84 (877)  
-Ratings Per Day: 4.90  
+Rating: 4.84 (879)  
+Ratings Per Day: 5.03  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -62,4 +62,4 @@ Ratings Per Day: 4.90
 | 2022-09-16 | 4.85 | 863 |
 | 2022-09-17 | 4.85 | 871 |
 | 2022-09-18 | 4.85 | 874 |
-| 2022-09-19 | 4.84 | 877 |
+| 2022-09-19 | 4.84 | 879 |

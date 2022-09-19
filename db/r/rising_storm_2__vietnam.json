@@ -3,10 +3,10 @@
   "Name": "Rising Storm 2: Vietnam",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 2798,
-  "DailyRatings": 20.28,
+  "NumberOfRatings": 2803,
+  "DailyRatings": 19.48,
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2022-09-19T02:31:06.6739611+00:00",
+  "LastChanged": "2022-09-19T15:03:25.2207859+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:01.9832027+00:00",
@@ -1672,6 +1672,11 @@
       "Time": "2022-09-19T02:31:06.6739612+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 2798
+    },
+    {
+      "Time": "2022-09-19T15:03:25.2207861+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 2803
     }
   ],
   "Tags": [
@@ -1681,7 +1686,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 112
+      "Count": 114
     },
     {
       "Text": "This game has Quickly Understood Controls",
