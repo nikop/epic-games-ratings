@@ -3,10 +3,10 @@
   "Name": "CRSED: F.O.A.D.",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 457,
-  "DailyRatings": 4.26,
+  "NumberOfRatings": 459,
+  "DailyRatings": 4.07,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-09-18T19:30:38.4929282+00:00",
+  "LastChanged": "2022-09-19T14:00:57.4744231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -632,6 +632,11 @@
       "Time": "2022-09-18T19:30:38.4929284+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 457
+    },
+    {
+      "Time": "2022-09-19T14:00:57.4744232+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 459
     }
   ],
   "Tags": [
@@ -645,7 +650,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Competitive Players",

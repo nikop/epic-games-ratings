@@ -3,10 +3,10 @@
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "Names": [],
   "Rating": 4.68,
-  "NumberOfRatings": 666,
-  "DailyRatings": 7.48,
+  "NumberOfRatings": 667,
+  "DailyRatings": 7.33,
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2022-09-19T07:32:00.8831012+00:00",
+  "LastChanged": "2022-09-19T14:01:54.688715+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:06.1047426+00:00",
@@ -677,6 +677,11 @@
       "Time": "2022-09-19T07:32:00.8831013+00:00",
       "Rating": 4.68,
       "NumberOfRatings": 666
+    },
+    {
+      "Time": "2022-09-19T14:01:54.6887152+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 667
     }
   ],
   "Tags": [
@@ -686,7 +691,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Great for Beginners",

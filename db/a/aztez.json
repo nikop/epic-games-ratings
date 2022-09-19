@@ -2,12 +2,12 @@
   "ID": "5b325322a4c04b9e9e780b9a1e9b2d70",
   "Name": "Aztez",
   "Names": [],
-  "Rating": 4.41,
-  "NumberOfRatings": 41,
-  "DailyRatings": 0.87,
+  "Rating": 4.43,
+  "NumberOfRatings": 42,
+  "DailyRatings": 0.89,
   "FirstSeen": "2022-07-22T20:28:45.0438732+00:00",
   "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
-  "LastChanged": "2022-09-18T14:02:25.227239+00:00",
+  "LastChanged": "2022-09-19T14:02:30.6948932+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-01T19:31:46.0667464+00:00",
@@ -108,6 +108,11 @@
       "Time": "2022-09-18T14:02:25.2272391+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-09-19T14:02:30.6948934+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 42
     }
   ],
   "Tags": []
