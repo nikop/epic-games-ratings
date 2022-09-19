@@ -2,11 +2,11 @@
   "ID": "d79920221de24b448e24516a7810804e",
   "Name": "Relicta",
   "Names": [],
-  "Rating": 4.09,
-  "NumberOfRatings": 407,
-  "DailyRatings": 2.89,
+  "Rating": 4.1,
+  "NumberOfRatings": 410,
+  "DailyRatings": 2.91,
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2022-09-18T13:31:55.973816+00:00",
+  "LastChanged": "2022-09-19T13:32:11.6379436+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-09-18T13:31:55.9738161+00:00",
       "Rating": 4.09,
       "NumberOfRatings": 407
+    },
+    {
+      "Time": "2022-09-19T13:32:11.6379437+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": 410
     }
   ],
   "Tags": [

@@ -1,6 +1,6 @@
 # Assassin's Creed® I: Director's Cut
 Rating: 4.43 (141)  
-Ratings Per Day: 1.91  
+Ratings Per Day: 1.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
