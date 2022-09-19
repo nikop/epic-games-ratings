@@ -3,8 +3,8 @@
 | 1 | [Isonzo](games/i/isonzo.md) | 4.52 | 48 | 8.61 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.26 | 110 | 9.90 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.19 | 21 | 0.55 |
-| 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 160 | 6.32 |
-| 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 165 | 95.25 |
+| 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 161 | 5.98 |
+| 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 178 | 95.12 |
 | 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.95 | 258 | 8.60 |
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 82 | 2.38 |
 | 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 733 | 26.58 |
@@ -21,6 +21,6 @@
 | 19 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 86 | 0.57 |
 | 20 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 710 | 99.07 |
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 957 | 10.89 |
-| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 60 192 | 626.92 |
+| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 60 192 | 625.92 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 041 | 15.20 |
 | 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 324 | 189.58 |
