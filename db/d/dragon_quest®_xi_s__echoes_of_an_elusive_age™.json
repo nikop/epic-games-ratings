@@ -3,10 +3,10 @@
   "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
   "Names": [],
   "Rating": 4.84,
-  "NumberOfRatings": 295,
-  "DailyRatings": 1.66,
+  "NumberOfRatings": 296,
+  "DailyRatings": 1.62,
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2022-09-18T23:00:39.4852955+00:00",
+  "LastChanged": "2022-09-19T17:01:23.538258+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.4195291+00:00",
@@ -367,6 +367,11 @@
       "Time": "2022-09-18T23:00:39.4852957+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 295
+    },
+    {
+      "Time": "2022-09-19T17:01:23.5382581+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 296
     }
   ],
   "Tags": [

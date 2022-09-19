@@ -1,6 +1,6 @@
 # Deponia: The Complete Journey
 Rating: 4.63 (766)  
-Ratings Per Day: 4.86  
+Ratings Per Day: 4.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
