@@ -3,10 +3,10 @@
   "Name": "DEATHLOOP",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 856,
-  "DailyRatings": 2.82,
+  "NumberOfRatings": 857,
+  "DailyRatings": 2.83,
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2022-09-19T14:31:21.6229415+00:00",
+  "LastChanged": "2022-09-19T22:32:09.6977865+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.7837123+00:00",
@@ -532,12 +532,17 @@
       "Time": "2022-09-19T14:31:21.6229417+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 856
+    },
+    {
+      "Time": "2022-09-19T22:32:09.6977867+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 857
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     }
   ]
 }

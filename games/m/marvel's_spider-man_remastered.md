@@ -1,6 +1,6 @@
 # Marvel's Spider-Man Remastered
-Rating: 4.88 (13 740)  
-Ratings Per Day: 97.02  
+Rating: 4.88 (13 755)  
+Ratings Per Day: 95.70  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,4 +42,4 @@ Ratings Per Day: 97.02
 | 2022-09-16 | 4.88 | 13 442 |
 | 2022-09-17 | 4.88 | 13 557 |
 | 2022-09-18 | 4.88 | 13 678 |
-| 2022-09-19 | 4.88 | 13 740 |
+| 2022-09-19 | 4.88 | 13 755 |

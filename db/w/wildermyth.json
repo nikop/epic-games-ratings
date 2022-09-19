@@ -2,11 +2,11 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "Names": [],
-  "Rating": 4.72,
-  "NumberOfRatings": 43,
-  "DailyRatings": 0.24,
+  "Rating": 4.73,
+  "NumberOfRatings": 44,
+  "DailyRatings": 0.39,
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
-  "LastChanged": "2022-09-18T22:32:00.447637+00:00",
+  "LastChanged": "2022-09-19T22:33:13.7090957+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:42.7377529+00:00",
@@ -92,6 +92,11 @@
       "Time": "2022-09-18T22:32:00.4476371+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-09-19T22:33:13.7090959+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 44
     }
   ],
   "Tags": [
