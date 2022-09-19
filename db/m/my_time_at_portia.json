@@ -3,10 +3,10 @@
   "Name": "My Time At Portia",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 3768,
-  "DailyRatings": 22.9,
+  "NumberOfRatings": 3782,
+  "DailyRatings": 22.86,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-09-18T17:31:06.122858+00:00",
+  "LastChanged": "2022-09-19T08:31:06.6586258+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -1897,6 +1897,11 @@
       "Time": "2022-09-18T17:31:06.1228581+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 3768
+    },
+    {
+      "Time": "2022-09-19T08:31:06.658626+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 3782
     }
   ],
   "Tags": [
@@ -1946,7 +1951,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game has Obsessive Gameplay",
