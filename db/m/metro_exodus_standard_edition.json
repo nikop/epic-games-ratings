@@ -3,10 +3,10 @@
   "Name": "Metro Exodus Standard Edition",
   "Names": [],
   "Rating": 4.8,
-  "NumberOfRatings": 7321,
-  "DailyRatings": 51.46,
+  "NumberOfRatings": 7326,
+  "DailyRatings": 51.93,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-09-19T08:00:37.9989581+00:00",
+  "LastChanged": "2022-09-19T10:01:00.888851+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -2517,6 +2517,11 @@
       "Time": "2022-09-19T08:00:37.9989584+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 7321
+    },
+    {
+      "Time": "2022-09-19T10:01:00.8888513+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 7326
     }
   ],
   "Tags": [
@@ -2534,7 +2539,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 290
+      "Count": 293
     },
     {
       "Text": "This game is Highly Recommended",
