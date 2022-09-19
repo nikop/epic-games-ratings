@@ -1,5 +1,5 @@
 # Warhammer 40000: Battlesector
-Rating: 4.63 (38)  
+Rating: 4.58 (40)  
 Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -17,3 +17,4 @@ Ratings Per Day: 0.50
 | 2022-09-12 | 4.61 | 36 |
 | 2022-09-13 | 4.62 | 37 |
 | 2022-09-16 | 4.63 | 38 |
+| 2022-09-19 | 4.58 | 40 |
