@@ -3,10 +3,10 @@
   "Name": "RiME",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 80,
-  "DailyRatings": 0.94,
+  "NumberOfRatings": 81,
+  "DailyRatings": 0.95,
   "FirstSeen": "2022-07-22T20:23:44.5137427+00:00",
-  "LastChanged": "2022-09-18T20:31:17.2028508+00:00",
+  "LastChanged": "2022-09-19T20:32:13.5770032+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:44.513743+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-09-18T20:31:17.2028511+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 80
+    },
+    {
+      "Time": "2022-09-19T20:32:13.5770034+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 81
     }
   ],
   "Tags": []
