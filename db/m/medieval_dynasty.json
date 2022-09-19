@@ -3,10 +3,10 @@
   "Name": "Medieval Dynasty",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 709,
-  "DailyRatings": 4.66,
+  "NumberOfRatings": 711,
+  "DailyRatings": 4.84,
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2022-09-19T16:01:29.724874+00:00",
+  "LastChanged": "2022-09-19T20:01:01.5880884+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:29.049151+00:00",
@@ -702,6 +702,11 @@
       "Time": "2022-09-19T16:01:29.7248741+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 709
+    },
+    {
+      "Time": "2022-09-19T20:01:01.5880886+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 711
     }
   ],
   "Tags": [
@@ -716,6 +721,10 @@
     {
       "Text": "This game is Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 20
     }
   ]
 }

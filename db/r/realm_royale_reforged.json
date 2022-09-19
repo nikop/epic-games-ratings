@@ -2,12 +2,12 @@
   "ID": "5fcf6f3031c547f789e29c18b422ca67",
   "Name": "Realm Royale Reforged",
   "Names": [],
-  "Rating": 4.19,
-  "NumberOfRatings": 756,
-  "DailyRatings": 48.73,
+  "Rating": 4.2,
+  "NumberOfRatings": 758,
+  "DailyRatings": 47.57,
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2022-09-19T15:02:53.2756714+00:00",
+  "LastChanged": "2022-09-19T20:01:00.7567531+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T22:31:27.0262737+00:00",
@@ -593,6 +593,11 @@
       "Time": "2022-09-19T15:02:53.2756716+00:00",
       "Rating": 4.19,
       "NumberOfRatings": 756
+    },
+    {
+      "Time": "2022-09-19T20:01:00.7567534+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 758
     }
   ],
   "Tags": [
