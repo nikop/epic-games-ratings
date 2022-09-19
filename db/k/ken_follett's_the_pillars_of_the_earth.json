@@ -2,11 +2,11 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "Names": [],
-  "Rating": 4.51,
-  "NumberOfRatings": 352,
-  "DailyRatings": 2.26,
+  "Rating": 4.5,
+  "NumberOfRatings": 357,
+  "DailyRatings": 2.69,
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
-  "LastChanged": "2022-09-18T02:32:16.6357829+00:00",
+  "LastChanged": "2022-09-19T02:32:19.7204944+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:00.1804664+00:00",
@@ -337,6 +337,11 @@
       "Time": "2022-09-18T02:32:16.6357831+00:00",
       "Rating": 4.51,
       "NumberOfRatings": 352
+    },
+    {
+      "Time": "2022-09-19T02:32:19.7204946+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 357
     }
   ],
   "Tags": [
