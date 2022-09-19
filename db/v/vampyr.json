@@ -3,10 +3,10 @@
   "Name": "Vampyr",
   "Names": [],
   "Rating": 4.31,
-  "NumberOfRatings": 4977,
-  "DailyRatings": 35.17,
+  "NumberOfRatings": 4980,
+  "DailyRatings": 35.28,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2022-09-19T22:02:31.341837+00:00",
+  "LastChanged": "2022-09-19T23:32:32.4569411+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:20.353285+00:00",
@@ -1002,6 +1002,11 @@
       "Time": "2022-09-19T22:02:31.341837+00:00",
       "Rating": 4.31,
       "NumberOfRatings": 4977
+    },
+    {
+      "Time": "2022-09-19T23:32:32.4569412+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 4980
     }
   ],
   "Tags": [

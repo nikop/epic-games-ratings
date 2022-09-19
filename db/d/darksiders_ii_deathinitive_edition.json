@@ -3,10 +3,10 @@
   "Name": "Darksiders II Deathinitive Edition",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 803,
+  "NumberOfRatings": 804,
   "DailyRatings": 6.57,
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
-  "LastChanged": "2022-09-19T20:01:36.8310972+00:00",
+  "LastChanged": "2022-09-19T23:31:22.8170562+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:32.2059197+00:00",
@@ -472,6 +472,11 @@
       "Time": "2022-09-19T20:01:36.8310974+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 803
+    },
+    {
+      "Time": "2022-09-19T23:31:22.8170564+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 804
     }
   ],
   "Tags": [
@@ -481,7 +486,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 94
+      "Count": 95
     }
   ]
 }
