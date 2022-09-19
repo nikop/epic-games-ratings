@@ -1,6 +1,6 @@
 # Railway Empire
-Rating: 4.52 (2 115)  
-Ratings Per Day: 18.07  
+Rating: 4.52 (2 116)  
+Ratings Per Day: 17.87  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -63,4 +63,4 @@ Ratings Per Day: 18.07
 | 2022-09-16 | 4.52 | 2 063 |
 | 2022-09-17 | 4.52 | 2 094 |
 | 2022-09-18 | 4.52 | 2 106 |
-| 2022-09-19 | 4.52 | 2 115 |
+| 2022-09-19 | 4.52 | 2 116 |

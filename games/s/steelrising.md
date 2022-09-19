@@ -1,6 +1,6 @@
 # Steelrising
 Rating: 4.26 (110)  
-Ratings Per Day: 9.88  
+Ratings Per Day: 9.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
