@@ -1,6 +1,6 @@
 # Wilmot's Warehouse
-Rating: 4.62 (84)  
-Ratings Per Day: 0.00  
+Rating: 4.62 (85)  
+Ratings Per Day: 0.33  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
