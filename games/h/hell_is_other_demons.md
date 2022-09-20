@@ -1,6 +1,6 @@
 # Hell is other demons
-Rating: 4.71 (309)  
-Ratings Per Day: 2.53  
+Rating: 4.71 (310)  
+Ratings Per Day: 2.28  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -58,3 +58,4 @@ Ratings Per Day: 2.53
 | 2022-09-17 | 4.70 | 305 |
 | 2022-09-18 | 4.70 | 307 |
 | 2022-09-19 | 4.71 | 309 |
+| 2022-09-20 | 4.71 | 310 |
