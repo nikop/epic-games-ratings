@@ -3,10 +3,10 @@
   "Name": "Just Die Already",
   "Names": [],
   "Rating": 4.52,
-  "NumberOfRatings": 2251,
-  "DailyRatings": 10.01,
+  "NumberOfRatings": 2252,
+  "DailyRatings": 10.35,
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2022-09-20T14:01:19.2380391+00:00",
+  "LastChanged": "2022-09-20T17:01:45.3426516+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.6792772+00:00",
@@ -1132,6 +1132,11 @@
       "Time": "2022-09-20T14:01:19.2380393+00:00",
       "Rating": 4.52,
       "NumberOfRatings": 2251
+    },
+    {
+      "Time": "2022-09-20T17:01:45.3426518+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 2252
     }
   ],
   "Tags": [
