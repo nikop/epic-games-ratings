@@ -1,6 +1,6 @@
 # Assassin's Creed Syndicate Standard Edition
-Rating: 4.50 (2 767)  
-Ratings Per Day: 33.28  
+Rating: 4.50 (2 771)  
+Ratings Per Day: 33.25  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -64,3 +64,4 @@ Ratings Per Day: 33.28
 | 2022-09-17 | 4.50 | 2 702 |
 | 2022-09-18 | 4.50 | 2 736 |
 | 2022-09-19 | 4.50 | 2 767 |
+| 2022-09-20 | 4.50 | 2 771 |
