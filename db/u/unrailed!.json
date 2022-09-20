@@ -3,10 +3,10 @@
   "Name": "Unrailed!",
   "Names": [],
   "Rating": 4.64,
-  "NumberOfRatings": 21864,
-  "DailyRatings": 54.48,
+  "NumberOfRatings": 21868,
+  "DailyRatings": 54.07,
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
-  "LastChanged": "2022-09-19T23:00:34.435357+00:00",
+  "LastChanged": "2022-09-20T02:00:38.7256963+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-23T20:01:02.5294037+00:00",
@@ -1962,6 +1962,11 @@
       "Time": "2022-09-19T23:00:34.4353624+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 21864
+    },
+    {
+      "Time": "2022-09-20T02:00:38.7256966+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 21868
     }
   ],
   "Tags": [
@@ -2003,7 +2008,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 95
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Storytelling",
