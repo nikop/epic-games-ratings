@@ -1,6 +1,6 @@
 # FAR: Changing Tides
-Rating: 4.69 (32)  
-Ratings Per Day: 0.00  
+Rating: 4.70 (33)  
+Ratings Per Day: 0.49  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Ratings Per Day: 0.00
 | 2022-09-05 | 4.70 | 30 |
 | 2022-09-10 | 4.71 | 31 |
 | 2022-09-18 | 4.69 | 32 |
+| 2022-09-20 | 4.70 | 33 |

@@ -1,6 +1,6 @@
 # Isonzo
-Rating: 4.51 (67)  
-Ratings Per Day: 9.95  
+Rating: 4.53 (72)  
+Ratings Per Day: 10.39  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,4 +9,4 @@ Ratings Per Day: 9.95
 | 2022-09-17 | 4.56 | 39 |
 | 2022-09-18 | 4.52 | 48 |
 | 2022-09-19 | 4.55 | 58 |
-| 2022-09-20 | 4.51 | 67 |
+| 2022-09-20 | 4.53 | 72 |
