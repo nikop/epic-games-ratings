@@ -1,6 +1,6 @@
 # Cave Story+
-Rating: 4.76 (273)  
-Ratings Per Day: 1.74  
+Rating: 4.76 (275)  
+Ratings Per Day: 1.80  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -61,3 +61,4 @@ Ratings Per Day: 1.74
 | 2022-09-17 | 4.76 | 271 |
 | 2022-09-18 | 4.76 | 272 |
 | 2022-09-19 | 4.76 | 273 |
+| 2022-09-20 | 4.76 | 275 |
