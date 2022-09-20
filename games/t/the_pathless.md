@@ -1,6 +1,6 @@
 # The Pathless
 Rating: 4.65 (57)  
-Ratings Per Day: 0.43  
+Ratings Per Day: 0.41  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
