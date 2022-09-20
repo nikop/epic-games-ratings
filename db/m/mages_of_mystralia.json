@@ -3,10 +3,10 @@
   "Name": "Mages of Mystralia",
   "Names": [],
   "Rating": 4.35,
-  "NumberOfRatings": 685,
-  "DailyRatings": 6.33,
+  "NumberOfRatings": 686,
+  "DailyRatings": 5.91,
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2022-09-20T05:32:05.6022947+00:00",
+  "LastChanged": "2022-09-20T20:01:55.9713588+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:26.4536754+00:00",
@@ -427,6 +427,11 @@
       "Time": "2022-09-20T05:32:05.6022949+00:00",
       "Rating": 4.35,
       "NumberOfRatings": 685
+    },
+    {
+      "Time": "2022-09-20T20:01:55.971359+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 686
     }
   ],
   "Tags": [
