@@ -3,10 +3,10 @@
   "Name": "Thimbleweed Park",
   "Names": [],
   "Rating": 4.63,
-  "NumberOfRatings": 113,
-  "DailyRatings": 0.66,
+  "NumberOfRatings": 115,
+  "DailyRatings": 0.86,
   "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
-  "LastChanged": "2022-09-19T20:02:21.7977088+00:00",
+  "LastChanged": "2022-09-20T16:31:49.678514+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:09.2884263+00:00",
@@ -192,6 +192,11 @@
       "Time": "2022-09-19T20:02:21.797709+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 113
+    },
+    {
+      "Time": "2022-09-20T16:31:49.6785141+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 115
     }
   ],
   "Tags": []

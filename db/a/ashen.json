@@ -3,10 +3,10 @@
   "Name": "Ashen",
   "Names": [],
   "Rating": 4.28,
-  "NumberOfRatings": 109,
-  "DailyRatings": 0.51,
+  "NumberOfRatings": 110,
+  "DailyRatings": 0.61,
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
-  "LastChanged": "2022-09-19T23:00:18.5718907+00:00",
+  "LastChanged": "2022-09-20T16:30:19.85061+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.0881691+00:00",
@@ -227,12 +227,17 @@
       "Time": "2022-09-19T23:00:18.571891+00:00",
       "Rating": 4.28,
       "NumberOfRatings": 109
+    },
+    {
+      "Time": "2022-09-20T16:30:19.8506102+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": 110
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 20
+      "Count": 21
     }
   ]
 }

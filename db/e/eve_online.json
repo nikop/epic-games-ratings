@@ -3,10 +3,10 @@
   "Name": "EVE Online",
   "Names": [],
   "Rating": 4.3,
-  "NumberOfRatings": 1375,
-  "DailyRatings": 10.05,
+  "NumberOfRatings": 1379,
+  "DailyRatings": 10.14,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2022-09-20T08:30:39.3222378+00:00",
+  "LastChanged": "2022-09-20T16:30:24.9970326+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -1242,12 +1242,17 @@
       "Time": "2022-09-20T08:30:39.3222381+00:00",
       "Rating": 4.3,
       "NumberOfRatings": 1375
+    },
+    {
+      "Time": "2022-09-20T16:30:24.9970328+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 1379
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 526
+      "Count": 529
     },
     {
       "Text": "This game is Relaxing",
