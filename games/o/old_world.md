@@ -1,6 +1,6 @@
 # Old World
 Rating: 4.63 (1 288)  
-Ratings Per Day: 6.22  
+Ratings Per Day: 5.84  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
