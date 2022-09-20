@@ -3,10 +3,10 @@
   "Name": "NEO: The World Ends with You",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 210,
-  "DailyRatings": 1.69,
+  "NumberOfRatings": 211,
+  "DailyRatings": 1.48,
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
-  "LastChanged": "2022-09-19T13:02:26.9469477+00:00",
+  "LastChanged": "2022-09-20T23:31:40.8168433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:59.3741764+00:00",
@@ -292,6 +292,11 @@
       "Time": "2022-09-19T13:02:26.9469478+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 210
+    },
+    {
+      "Time": "2022-09-20T23:31:40.8168434+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 211
     }
   ],
   "Tags": [

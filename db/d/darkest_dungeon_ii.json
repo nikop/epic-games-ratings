@@ -3,10 +3,10 @@
   "Name": "Darkest Dungeon II",
   "Names": [],
   "Rating": 4.67,
-  "NumberOfRatings": 7633,
-  "DailyRatings": 47.26,
+  "NumberOfRatings": 7643,
+  "DailyRatings": 47.71,
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
-  "LastChanged": "2022-09-20T17:31:51.4738346+00:00",
+  "LastChanged": "2022-09-20T23:30:59.4316078+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:45.4172839+00:00",
@@ -2707,6 +2707,11 @@
       "Time": "2022-09-20T17:31:51.4738347+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 7633
+    },
+    {
+      "Time": "2022-09-20T23:30:59.4316079+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 7643
     }
   ],
   "Tags": [
@@ -2724,7 +2729,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 259
+      "Count": 262
     },
     {
       "Text": "This game has Challenging Combat",
