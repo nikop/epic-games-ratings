@@ -2,11 +2,11 @@
   "ID": "08ae29e4f70a4b62aa055e383381aa82",
   "Name": "Breathedge",
   "Names": [],
-  "Rating": 4.59,
-  "NumberOfRatings": 58,
-  "DailyRatings": 1.59,
+  "Rating": 4.58,
+  "NumberOfRatings": 60,
+  "DailyRatings": 1.67,
   "FirstSeen": "2022-07-22T20:28:13.8182721+00:00",
-  "LastChanged": "2022-09-19T19:02:26.563237+00:00",
+  "LastChanged": "2022-09-20T19:02:49.6884151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:13.8182723+00:00",
@@ -112,6 +112,11 @@
       "Time": "2022-09-19T19:02:26.5632372+00:00",
       "Rating": 4.59,
       "NumberOfRatings": 58
+    },
+    {
+      "Time": "2022-09-20T19:02:49.6884152+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 60
     }
   ],
   "Tags": []

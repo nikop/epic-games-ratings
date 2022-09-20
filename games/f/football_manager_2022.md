@@ -1,6 +1,6 @@
 # Football Manager 2022
 Rating: 4.80 (17 867)  
-Ratings Per Day: 574.64  
+Ratings Per Day: 572.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
