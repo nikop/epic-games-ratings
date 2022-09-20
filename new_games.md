@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Isonzo](games/i/isonzo.md) | 4.50 | 66 | 10.51 |
+| 1 | [Isonzo](games/i/isonzo.md) | 4.51 | 67 | 9.95 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.26 | 110 | 9.96 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 0.71 |
 | 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 165 | 5.77 |
@@ -10,11 +10,11 @@
 | 8 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 758 | 25.25 |
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 58 | 1.43 |
 | 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 627 | 183.86 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 31 303 | 472.82 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 31 303 | 474.80 |
 | 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 705 | 221.93 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.18 | 182 | 4.48 |
 | 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.20 | 758 | 48.16 |
-| 15 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 92 | 1.19 |
+| 15 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 92 | 1.22 |
 | 16 | [DOOM II](games/d/doom_ii.md) | 4.86 | 42 | 0.93 |
 | 17 | [DOOM 64](games/d/doom_64.md) | 4.66 | 5 016 | 51.44 |
 | 18 | [DOOM 3](games/d/doom_3.md) | 4.66 | 99 | 3.64 |

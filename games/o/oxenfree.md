@@ -1,6 +1,6 @@
 # Oxenfree
-Rating: 4.60 (97)  
-Ratings Per Day: 0.46  
+Rating: 4.60 (98)  
+Ratings Per Day: 0.56  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -39,3 +39,4 @@ Ratings Per Day: 0.46
 | 2022-09-15 | 4.59 | 95 |
 | 2022-09-17 | 4.59 | 96 |
 | 2022-09-19 | 4.60 | 97 |
+| 2022-09-20 | 4.60 | 98 |
