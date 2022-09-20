@@ -1,6 +1,6 @@
 # Armored Warfare
-Rating: 4.12 (452)  
-Ratings Per Day: 3.53  
+Rating: 4.12 (456)  
+Ratings Per Day: 3.44  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -61,3 +61,4 @@ Ratings Per Day: 3.53
 | 2022-09-17 | 4.12 | 446 |
 | 2022-09-18 | 4.12 | 449 |
 | 2022-09-19 | 4.12 | 452 |
+| 2022-09-20 | 4.12 | 456 |
