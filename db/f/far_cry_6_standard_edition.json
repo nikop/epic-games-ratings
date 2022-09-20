@@ -3,10 +3,10 @@
   "Name": "Far Cry 6 Standard Edition",
   "Names": [],
   "Rating": 4.42,
-  "NumberOfRatings": 12145,
-  "DailyRatings": 72.14,
+  "NumberOfRatings": 12152,
+  "DailyRatings": 72.29,
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2022-09-20T13:30:53.8468366+00:00",
+  "LastChanged": "2022-09-20T15:30:31.0797654+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -2707,6 +2707,11 @@
       "Time": "2022-09-20T13:30:53.8468369+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 12145
+    },
+    {
+      "Time": "2022-09-20T15:30:31.079766+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 12152
     }
   ],
   "Tags": [
@@ -2728,7 +2733,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 307
+      "Count": 310
     },
     {
       "Text": "This game is Relaxing",
