@@ -1,6 +1,6 @@
 # WE ARE FOOTBALL
 Rating: 4.67 (24)  
-Ratings Per Day: 0.44  
+Ratings Per Day: 0.70  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
