@@ -3,11 +3,11 @@
   "Name": "The Captain",
   "Names": [],
   "Rating": 4.39,
-  "NumberOfRatings": 1300,
-  "DailyRatings": 282.57,
+  "NumberOfRatings": 1333,
+  "DailyRatings": 282.04,
   "FirstSeen": "2022-07-22T20:28:04.1173029+00:00",
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
-  "LastChanged": "2022-09-20T15:02:26.1518376+00:00",
+  "LastChanged": "2022-09-20T18:02:49.8963189+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-16T04:31:51.019228+00:00",
@@ -193,6 +193,11 @@
       "Time": "2022-09-20T15:02:26.1518377+00:00",
       "Rating": 4.39,
       "NumberOfRatings": 1300
+    },
+    {
+      "Time": "2022-09-20T18:02:49.8963191+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 1333
     }
   ],
   "Tags": []
