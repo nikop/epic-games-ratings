@@ -1,6 +1,6 @@
 # Destroy All Humans!
 Rating: 4.62 (84)  
-Ratings Per Day: 0.60  
+Ratings Per Day: 2.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

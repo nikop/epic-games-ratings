@@ -1,6 +1,6 @@
 # Automachef
-Rating: 4.31 (531)  
-Ratings Per Day: 4.09  
+Rating: 4.31 (539)  
+Ratings Per Day: 4.58  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -63,3 +63,4 @@ Ratings Per Day: 4.09
 | 2022-09-17 | 4.31 | 524 |
 | 2022-09-18 | 4.31 | 528 |
 | 2022-09-19 | 4.31 | 531 |
+| 2022-09-20 | 4.31 | 539 |
