@@ -1,6 +1,6 @@
 # Costume Quest 2
 Rating: 4.36 (58)  
-Ratings Per Day: 1.35  
+Ratings Per Day: 1.43  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,6 +1,6 @@
 # DOOM II
 Rating: 4.86 (42)  
-Ratings Per Day: 0.93  
+Ratings Per Day: 0.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
