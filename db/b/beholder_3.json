@@ -2,17 +2,22 @@
   "ID": "f0cfd875f9c4471ab4ead52048f98160",
   "Name": "Beholder 3",
   "Names": [],
-  "Rating": 4.4,
-  "NumberOfRatings": 20,
-  "DailyRatings": 0,
+  "Rating": 4.43,
+  "NumberOfRatings": 21,
+  "DailyRatings": 0.33,
   "FirstSeen": "2022-07-22T20:27:39.046231+00:00",
   "FirstSeenRating": "2022-09-17T20:02:51.8327527+00:00",
-  "LastChanged": "2022-09-17T20:02:51.8327528+00:00",
+  "LastChanged": "2022-09-20T20:32:55.2603175+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-17T20:02:51.8327529+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-09-20T20:32:55.2603177+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 21
     }
   ],
   "Tags": []
