@@ -3,10 +3,10 @@
   "Name": "Airborne Kingdom",
   "Names": [],
   "Rating": 4.71,
-  "NumberOfRatings": 69,
-  "DailyRatings": 0.66,
+  "NumberOfRatings": 72,
+  "DailyRatings": 1,
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
-  "LastChanged": "2022-09-19T18:31:16.4176497+00:00",
+  "LastChanged": "2022-09-20T18:31:01.234805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:55.4916405+00:00",
@@ -157,6 +157,11 @@
       "Time": "2022-09-19T18:31:16.4176499+00:00",
       "Rating": 4.71,
       "NumberOfRatings": 69
+    },
+    {
+      "Time": "2022-09-20T18:31:01.2348051+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 72
     }
   ],
   "Tags": []

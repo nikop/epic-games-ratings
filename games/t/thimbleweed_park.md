@@ -1,6 +1,6 @@
 # Thimbleweed Park
 Rating: 4.63 (115)  
-Ratings Per Day: 0.86  
+Ratings Per Day: 1.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
