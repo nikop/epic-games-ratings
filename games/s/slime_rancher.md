@@ -1,6 +1,6 @@
 # Slime Rancher
-Rating: 4.83 (5 676)  
-Ratings Per Day: 60.69  
+Rating: 4.83 (5 684)  
+Ratings Per Day: 60.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -64,4 +64,4 @@ Ratings Per Day: 60.69
 | 2022-09-17 | 4.83 | 5 470 |
 | 2022-09-18 | 4.83 | 5 560 |
 | 2022-09-19 | 4.83 | 5 631 |
-| 2022-09-20 | 4.83 | 5 676 |
+| 2022-09-20 | 4.83 | 5 684 |
