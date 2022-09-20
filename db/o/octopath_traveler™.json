@@ -2,11 +2,11 @@
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
   "Names": [],
-  "Rating": 4.83,
-  "NumberOfRatings": 161,
-  "DailyRatings": 1.32,
+  "Rating": 4.84,
+  "NumberOfRatings": 164,
+  "DailyRatings": 1.46,
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2022-09-18T18:30:53.5120972+00:00",
+  "LastChanged": "2022-09-20T09:31:14.6015663+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.1292706+00:00",
@@ -287,12 +287,17 @@
       "Time": "2022-09-18T18:30:53.5120974+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 161
+    },
+    {
+      "Time": "2022-09-20T09:31:14.6015667+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 164
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 58
+      "Count": 60
     }
   ]
 }
