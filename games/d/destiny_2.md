@@ -1,6 +1,6 @@
 # Destiny 2
 Rating: 4.49 (31 351)  
-Ratings Per Day: 473.08  
+Ratings Per Day: 474.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
