@@ -1,6 +1,6 @@
 # Steelrising
-Rating: 4.26 (110)  
-Ratings Per Day: 9.96  
+Rating: 4.25 (117)  
+Ratings Per Day: 9.30  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 9.96
 | 2022-09-17 | 4.23 | 98 |
 | 2022-09-18 | 4.24 | 99 |
 | 2022-09-19 | 4.26 | 110 |
+| 2022-09-20 | 4.25 | 117 |

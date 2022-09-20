@@ -3,10 +3,10 @@
   "Name": "Slime Rancher",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 5648,
-  "DailyRatings": 62.56,
+  "NumberOfRatings": 5650,
+  "DailyRatings": 60.97,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-09-20T05:01:11.2390881+00:00",
+  "LastChanged": "2022-09-20T10:01:37.8061775+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -2077,6 +2077,11 @@
       "Time": "2022-09-20T05:01:11.2391498+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 5648
+    },
+    {
+      "Time": "2022-09-20T10:01:37.8061776+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 5650
     }
   ],
   "Tags": [
