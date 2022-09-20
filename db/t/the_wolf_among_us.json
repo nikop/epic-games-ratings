@@ -3,10 +3,10 @@
   "Name": "The Wolf Among Us",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 499,
-  "DailyRatings": 3.47,
+  "NumberOfRatings": 503,
+  "DailyRatings": 3.55,
   "FirstSeen": "2022-07-22T20:20:55.8960394+00:00",
-  "LastChanged": "2022-09-19T05:31:00.8883052+00:00",
+  "LastChanged": "2022-09-20T05:31:34.9220325+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.8960396+00:00",
@@ -332,6 +332,11 @@
       "Time": "2022-09-19T05:31:00.8883054+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 499
+    },
+    {
+      "Time": "2022-09-20T05:31:34.9220326+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 503
     }
   ],
   "Tags": []
