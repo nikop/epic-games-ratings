@@ -1,6 +1,6 @@
 # Way of the Hunter
-Rating: 4.18 (185)  
-Ratings Per Day: 3.83  
+Rating: 4.17 (187)  
+Ratings Per Day: 3.86  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Ratings Per Day: 3.83
 | 2022-09-18 | 4.17 | 181 |
 | 2022-09-19 | 4.18 | 182 |
 | 2022-09-20 | 4.18 | 185 |
+| 2022-09-21 | 4.17 | 187 |
