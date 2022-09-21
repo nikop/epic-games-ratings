@@ -2,11 +2,11 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "Names": [],
-  "Rating": 4.5,
-  "NumberOfRatings": 363,
-  "DailyRatings": 3.33,
+  "Rating": 4.51,
+  "NumberOfRatings": 366,
+  "DailyRatings": 3.29,
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
-  "LastChanged": "2022-09-20T19:03:22.9873306+00:00",
+  "LastChanged": "2022-09-21T19:02:29.1076124+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:00.1804664+00:00",
@@ -347,12 +347,17 @@
       "Time": "2022-09-20T19:03:22.9873307+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 363
+    },
+    {
+      "Time": "2022-09-21T19:02:29.1076126+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 366
     }
   ],
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
-      "Count": 89
+      "Count": 91
     },
     {
       "Text": "In this game, your choices Impact the Story",
