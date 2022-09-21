@@ -2,11 +2,11 @@
   "ID": "marmoset",
   "Name": "Rebel Galaxy Outlaw",
   "Names": [],
-  "Rating": 4.44,
-  "NumberOfRatings": 142,
-  "DailyRatings": 1.24,
+  "Rating": 4.45,
+  "NumberOfRatings": 143,
+  "DailyRatings": 1.2,
   "FirstSeen": "2022-07-22T20:23:57.7523989+00:00",
-  "LastChanged": "2022-09-20T20:32:19.4405921+00:00",
+  "LastChanged": "2022-09-21T21:02:07.537555+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.7523992+00:00",
@@ -222,6 +222,11 @@
       "Time": "2022-09-20T20:32:19.4405924+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 142
+    },
+    {
+      "Time": "2022-09-21T21:02:07.5375551+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 143
     }
   ],
   "Tags": []
