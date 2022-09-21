@@ -1,6 +1,6 @@
 # KINGDOM HEARTS HD 1.5+2.5 ReMIX
-Rating: 4.82 (4 239)  
-Ratings Per Day: 28.17  
+Rating: 4.82 (4 241)  
+Ratings Per Day: 27.06  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -65,4 +65,4 @@ Ratings Per Day: 28.17
 | 2022-09-18 | 4.82 | 4 173 |
 | 2022-09-19 | 4.82 | 4 196 |
 | 2022-09-20 | 4.82 | 4 222 |
-| 2022-09-21 | 4.82 | 4 239 |
+| 2022-09-21 | 4.82 | 4 241 |

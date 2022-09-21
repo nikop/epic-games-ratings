@@ -3,10 +3,10 @@
   "Name": "Insurmountable",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 699,
-  "DailyRatings": 5.36,
+  "NumberOfRatings": 706,
+  "DailyRatings": 5.66,
   "FirstSeen": "2022-07-22T20:16:54.1539465+00:00",
-  "LastChanged": "2022-09-20T21:31:11.9636943+00:00",
+  "LastChanged": "2022-09-21T21:31:00.7400084+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:54.1539467+00:00",
@@ -472,6 +472,11 @@
       "Time": "2022-09-20T21:31:11.9636945+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 699
+    },
+    {
+      "Time": "2022-09-21T21:31:00.7400086+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 706
     }
   ],
   "Tags": []

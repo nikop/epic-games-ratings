@@ -3,10 +3,10 @@
   "Name": "Crysis 2 Remastered",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 602,
-  "DailyRatings": 4.83,
+  "NumberOfRatings": 604,
+  "DailyRatings": 4.93,
   "FirstSeen": "2022-07-22T20:18:01.1104791+00:00",
-  "LastChanged": "2022-09-21T14:31:11.3793574+00:00",
+  "LastChanged": "2022-09-21T21:31:10.4215592+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:01.1104793+00:00",
@@ -457,12 +457,17 @@
       "Time": "2022-09-21T14:31:11.3793576+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 602
+    },
+    {
+      "Time": "2022-09-21T21:31:10.4215664+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 604
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 131
+      "Count": 132
     }
   ]
 }
