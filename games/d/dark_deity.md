@@ -1,5 +1,5 @@
 # Dark Deity
-Rating: 4.35 (23)  
+Rating: 4.38 (24)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -8,3 +8,4 @@ Ratings Per Day: 0.00
 | 2022-09-02 | 4.29 | 21 |
 | 2022-09-05 | 4.32 | 22 |
 | 2022-09-06 | 4.35 | 23 |
+| 2022-09-21 | 4.38 | 24 |
