@@ -3,10 +3,10 @@
   "Name": "Oxygen Not Included",
   "Names": [],
   "Rating": 4.84,
-  "NumberOfRatings": 887,
-  "DailyRatings": 5.5,
+  "NumberOfRatings": 888,
+  "DailyRatings": 5.3,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-09-21T00:30:51.963109+00:00",
+  "LastChanged": "2022-09-21T11:01:20.2733723+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -1037,6 +1037,11 @@
       "Time": "2022-09-21T00:30:51.9631091+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 887
+    },
+    {
+      "Time": "2022-09-21T11:01:20.2733725+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 888
     }
   ],
   "Tags": [

@@ -1,6 +1,6 @@
 # Valiant Hearts: The Great War
-Rating: 4.79 (29)  
-Ratings Per Day: 0.93  
+Rating: 4.80 (30)  
+Ratings Per Day: 0.95  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Ratings Per Day: 0.93
 | 2022-09-17 | 4.77 | 26 |
 | 2022-09-18 | 4.78 | 27 |
 | 2022-09-20 | 4.79 | 29 |
+| 2022-09-21 | 4.80 | 30 |

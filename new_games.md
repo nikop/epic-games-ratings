@@ -3,7 +3,7 @@
 | 1 | [Isonzo](games/i/isonzo.md) | 4.48 | 79 | 10.90 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.25 | 117 | 9.30 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 0.71 |
-| 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 167 | 5.80 |
+| 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 167 | 5.74 |
 | 5 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 278 | 83.09 |
 | 6 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.97 | 272 | 8.69 |
 | 7 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 87 | 2.45 |
@@ -21,6 +21,6 @@
 | 19 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 88 | 1.11 |
 | 20 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 872 | 96.89 |
 | 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 982 | 10.60 |
-| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 016 | 579.26 |
+| 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 016 | 576.00 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 061 | 14.40 |
 | 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 535 | 162.02 |
