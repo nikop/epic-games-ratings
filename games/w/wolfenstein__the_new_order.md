@@ -1,6 +1,6 @@
 # Wolfenstein: The New Order
-Rating: 4.58 (60 871)  
-Ratings Per Day: 145.05  
+Rating: 4.58 (60 886)  
+Ratings Per Day: 144.58  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -65,4 +65,4 @@ Ratings Per Day: 145.05
 | 2022-09-18 | 4.58 | 60 567 |
 | 2022-09-19 | 4.58 | 60 709 |
 | 2022-09-20 | 4.58 | 60 826 |
-| 2022-09-21 | 4.58 | 60 871 |
+| 2022-09-21 | 4.58 | 60 886 |
