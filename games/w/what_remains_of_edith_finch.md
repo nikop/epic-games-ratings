@@ -1,5 +1,5 @@
 # What Remains of Edith Finch
-Rating: 4.74 (73)  
+Rating: 4.74 (74)  
 Ratings Per Day: 0.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
@@ -36,3 +36,4 @@ Ratings Per Day: 0.83
 | 2022-09-16 | 4.76 | 70 |
 | 2022-09-18 | 4.76 | 72 |
 | 2022-09-20 | 4.74 | 73 |
+| 2022-09-21 | 4.74 | 74 |
