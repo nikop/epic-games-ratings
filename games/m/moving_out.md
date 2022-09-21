@@ -1,6 +1,6 @@
 # Moving Out
 Rating: 4.58 (482)  
-Ratings Per Day: 3.29  
+Ratings Per Day: 3.42  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
