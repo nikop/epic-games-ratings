@@ -1,6 +1,6 @@
 # Dead by Daylight
-Rating: 4.53 (69 750)  
-Ratings Per Day: 309.60  
+Rating: 4.53 (69 772)  
+Ratings Per Day: 309.07  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -65,4 +65,4 @@ Ratings Per Day: 309.60
 | 2022-09-18 | 4.53 | 69 173 |
 | 2022-09-19 | 4.53 | 69 470 |
 | 2022-09-20 | 4.53 | 69 707 |
-| 2022-09-21 | 4.53 | 69 750 |
+| 2022-09-21 | 4.53 | 69 772 |
