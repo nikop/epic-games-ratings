@@ -1,6 +1,6 @@
 # Sifu
 Rating: 4.80 (9 388)  
-Ratings Per Day: 70.92  
+Ratings Per Day: 71.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
