@@ -1,6 +1,6 @@
 # Train Sim World® 3: Standard Edition
 Rating: 4.50 (167)  
-Ratings Per Day: 5.74  
+Ratings Per Day: 5.69  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
