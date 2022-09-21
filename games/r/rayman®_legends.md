@@ -1,6 +1,6 @@
 # RAYMAN® LEGENDS
 Rating: 4.76 (347)  
-Ratings Per Day: 2.39  
+Ratings Per Day: 2.82  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
