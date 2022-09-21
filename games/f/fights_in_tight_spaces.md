@@ -1,6 +1,6 @@
 # Fights in Tight Spaces
-Rating: 4.59 (37)  
-Ratings Per Day: 0.00  
+Rating: 4.61 (38)  
+Ratings Per Day: 0.21  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,3 +14,4 @@ Ratings Per Day: 0.00
 | 2022-08-26 | 4.57 | 35 |
 | 2022-09-08 | 4.58 | 36 |
 | 2022-09-17 | 4.59 | 37 |
+| 2022-09-21 | 4.61 | 38 |
