@@ -1,6 +1,6 @@
 # Magic: The Gathering Arena
-Rating: 4.46 (14 497)  
-Ratings Per Day: 89.62  
+Rating: 4.46 (14 501)  
+Ratings Per Day: 89.93  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -65,4 +65,4 @@ Ratings Per Day: 89.62
 | 2022-09-18 | 4.46 | 14 298 |
 | 2022-09-19 | 4.46 | 14 371 |
 | 2022-09-20 | 4.46 | 14 448 |
-| 2022-09-21 | 4.46 | 14 497 |
+| 2022-09-21 | 4.46 | 14 501 |

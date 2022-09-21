@@ -3,11 +3,11 @@
   "Name": "Realm Royale Reforged",
   "Names": [],
   "Rating": 4.2,
-  "NumberOfRatings": 812,
-  "DailyRatings": 43,
+  "NumberOfRatings": 813,
+  "DailyRatings": 43.01,
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2022-09-21T17:00:55.1693307+00:00",
+  "LastChanged": "2022-09-21T17:30:46.3760591+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T22:31:27.0262737+00:00",
@@ -648,6 +648,11 @@
       "Time": "2022-09-21T17:00:55.1693308+00:00",
       "Rating": 4.2,
       "NumberOfRatings": 812
+    },
+    {
+      "Time": "2022-09-21T17:30:46.3760594+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": 813
     }
   ],
   "Tags": [
@@ -657,7 +662,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
