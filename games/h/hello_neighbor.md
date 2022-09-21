@@ -1,6 +1,6 @@
 # Hello Neighbor
 Rating: 4.52 (1 160)  
-Ratings Per Day: 10.38  
+Ratings Per Day: 10.55  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
