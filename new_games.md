@@ -11,7 +11,7 @@
 | 9 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 58 | 1.43 |
 | 10 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 760 | 173.41 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 31 544 | 417.07 |
-| 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 843 | 211.90 |
+| 12 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 848 | 211.14 |
 | 13 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 187 | 3.81 |
 | 14 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.20 | 799 | 44.97 |
 | 15 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 94 | 1.32 |

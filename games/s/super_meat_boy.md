@@ -1,6 +1,6 @@
 # Super Meat Boy
-Rating: 4.67 (154)  
-Ratings Per Day: 1.88  
+Rating: 4.67 (155)  
+Ratings Per Day: 1.75  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -48,3 +48,4 @@ Ratings Per Day: 1.88
 | 2022-09-17 | 4.66 | 151 |
 | 2022-09-18 | 4.67 | 153 |
 | 2022-09-20 | 4.67 | 154 |
+| 2022-09-21 | 4.67 | 155 |
