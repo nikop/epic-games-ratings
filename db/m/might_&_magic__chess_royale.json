@@ -3,10 +3,10 @@
   "Name": "Might \u0026 Magic: Chess Royale",
   "Names": [],
   "Rating": 4.48,
-  "NumberOfRatings": 236,
-  "DailyRatings": 1.47,
+  "NumberOfRatings": 237,
+  "DailyRatings": 1.5,
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2022-09-21T06:31:39.9373654+00:00",
+  "LastChanged": "2022-09-21T20:03:00.2576404+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:16.1959449+00:00",
@@ -357,12 +357,17 @@
       "Time": "2022-09-21T06:31:39.9373656+00:00",
       "Rating": 4.48,
       "NumberOfRatings": 236
+    },
+    {
+      "Time": "2022-09-21T20:03:00.2576405+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 237
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Competitive Players",
