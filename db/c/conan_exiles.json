@@ -2,11 +2,11 @@
   "ID": "conanexiles",
   "Name": "Conan Exiles",
   "Names": [],
-  "Rating": 4.57,
-  "NumberOfRatings": 1359,
-  "DailyRatings": 11.17,
+  "Rating": 4.56,
+  "NumberOfRatings": 1360,
+  "DailyRatings": 10.75,
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2022-09-21T07:30:24.4213631+00:00",
+  "LastChanged": "2022-09-21T16:00:57.4277423+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -1592,6 +1592,11 @@
       "Time": "2022-09-21T07:30:24.4213634+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 1359
+    },
+    {
+      "Time": "2022-09-21T16:00:57.4277424+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 1360
     }
   ],
   "Tags": [
