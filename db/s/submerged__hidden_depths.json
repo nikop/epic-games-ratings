@@ -3,11 +3,11 @@
   "Name": "Submerged: Hidden Depths",
   "Names": [],
   "Rating": 4.26,
-  "NumberOfRatings": 2484,
-  "DailyRatings": 61.97,
+  "NumberOfRatings": 2498,
+  "DailyRatings": 61.75,
   "FirstSeen": "2022-07-22T20:30:35.8919962+00:00",
   "FirstSeenRating": "2022-09-02T17:02:43.442034+00:00",
-  "LastChanged": "2022-09-20T18:03:11.6423576+00:00",
+  "LastChanged": "2022-09-21T00:03:12.8731421+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T17:02:43.4420342+00:00",
@@ -598,6 +598,11 @@
       "Time": "2022-09-20T18:03:11.6423578+00:00",
       "Rating": 4.26,
       "NumberOfRatings": 2484
+    },
+    {
+      "Time": "2022-09-21T00:03:12.8731422+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 2498
     }
   ],
   "Tags": [

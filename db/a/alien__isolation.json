@@ -3,10 +3,10 @@
   "Name": "Alien: Isolation ",
   "Names": [],
   "Rating": 4.6,
-  "NumberOfRatings": 5127,
-  "DailyRatings": 42.1,
+  "NumberOfRatings": 5129,
+  "DailyRatings": 42.14,
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2022-09-20T23:01:50.2072346+00:00",
+  "LastChanged": "2022-09-21T00:01:35.8666191+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.3145859+00:00",
@@ -1732,6 +1732,11 @@
       "Time": "2022-09-20T23:01:50.2072348+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 5127
+    },
+    {
+      "Time": "2022-09-21T00:01:35.8666193+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 5129
     }
   ],
   "Tags": [
