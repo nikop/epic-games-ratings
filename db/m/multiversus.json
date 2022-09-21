@@ -3,10 +3,10 @@
   "Name": "MultiVersus",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 55550,
-  "DailyRatings": 156.4,
+  "NumberOfRatings": 55555,
+  "DailyRatings": 156.18,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2022-09-21T14:00:59.2123197+00:00",
+  "LastChanged": "2022-09-21T15:01:09.1019701+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -2932,6 +2932,11 @@
       "Time": "2022-09-21T14:00:59.2123198+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 55550
+    },
+    {
+      "Time": "2022-09-21T15:01:09.1019702+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 55555
     }
   ],
   "Tags": [
@@ -2985,7 +2990,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 2529
+      "Count": 2543
     }
   ]
 }
