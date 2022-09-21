@@ -1,7 +1,6 @@
-# Nowhere Prophet
-Rating: 4.65 (20)  
+# The Golden Eyed Ghosts
+Rating: - (-)  
 Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-09-21 | 4.65 | 20 |
