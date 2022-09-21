@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
-| 1 | [Isonzo](games/i/isonzo.md) | 4.53 | 72 | 10.39 |
+| 1 | [Isonzo](games/i/isonzo.md) | 4.48 | 79 | 10.90 |
 | 2 | [Steelrising](games/s/steelrising.md) | 4.25 | 117 | 9.47 |
 | 3 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 0.71 |
 | 4 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 167 | 5.80 |
@@ -20,7 +20,7 @@
 | 18 | [DOOM 3](games/d/doom_3.md) | 4.65 | 101 | 3.38 |
 | 19 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 88 | 1.11 |
 | 20 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 848 | 97.14 |
-| 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 978 | 10.57 |
+| 21 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 978 | 10.60 |
 | 22 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 60 918 | 582.45 |
 | 23 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 057 | 13.93 |
-| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 512 | 168.14 |
+| 24 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 512 | 164.74 |
