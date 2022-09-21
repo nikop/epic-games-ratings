@@ -1,6 +1,6 @@
 # Sonic Origins
-Rating: 4.52 (153)  
-Ratings Per Day: 0.82  
+Rating: 4.53 (154)  
+Ratings Per Day: 0.96  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -32,3 +32,4 @@ Ratings Per Day: 0.82
 | 2022-09-17 | 4.54 | 151 |
 | 2022-09-18 | 4.53 | 152 |
 | 2022-09-20 | 4.52 | 153 |
+| 2022-09-21 | 4.53 | 154 |

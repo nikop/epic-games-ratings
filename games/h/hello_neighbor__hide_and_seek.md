@@ -1,6 +1,6 @@
 # Hello Neighbor: Hide and Seek
-Rating: 4.53 (78)  
-Ratings Per Day: 0.60  
+Rating: 4.53 (79)  
+Ratings Per Day: 0.50  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -37,3 +37,4 @@ Ratings Per Day: 0.60
 | 2022-09-15 | 4.51 | 76 |
 | 2022-09-16 | 4.52 | 77 |
 | 2022-09-19 | 4.53 | 78 |
+| 2022-09-21 | 4.53 | 79 |
