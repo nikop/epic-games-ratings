@@ -1,6 +1,6 @@
 # Fortnite
 Rating: 4.30 (2 267 853)  
-Ratings Per Day: 13450.21  
+Ratings Per Day: 13564.54  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
