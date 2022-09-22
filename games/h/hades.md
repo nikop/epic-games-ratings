@@ -1,6 +1,6 @@
 # Hades
 Rating: 4.92 (6 302)  
-Ratings Per Day: 36.24  
+Ratings Per Day: 35.92  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
