@@ -2,11 +2,11 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "Names": [],
-  "Rating": 4.44,
-  "NumberOfRatings": 32,
-  "DailyRatings": 0,
+  "Rating": 4.33,
+  "NumberOfRatings": 33,
+  "DailyRatings": 0.15,
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
-  "LastChanged": "2022-09-15T16:01:53.5478023+00:00",
+  "LastChanged": "2022-09-22T03:31:01.126742+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-29T11:01:05.8328656+00:00",
@@ -62,6 +62,11 @@
       "Time": "2022-09-15T16:01:53.5478024+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-09-22T03:31:01.1267421+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 33
     }
   ],
   "Tags": []
