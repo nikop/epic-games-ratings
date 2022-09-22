@@ -3,10 +3,10 @@
   "Name": "The Cycle: Frontier",
   "Names": [],
   "Rating": 4.13,
-  "NumberOfRatings": 15610,
-  "DailyRatings": 39.53,
+  "NumberOfRatings": 15622,
+  "DailyRatings": 40.56,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2022-09-22T08:01:09.2441825+00:00",
+  "LastChanged": "2022-09-22T11:01:28.7264978+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3082,6 +3082,11 @@
       "Time": "2022-09-22T08:01:09.2441829+00:00",
       "Rating": 4.13,
       "NumberOfRatings": 15610
+    },
+    {
+      "Time": "2022-09-22T11:01:28.7264981+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": 15622
     }
   ],
   "Tags": [
@@ -3095,7 +3100,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1267
+      "Count": 1268
     },
     {
       "Text": "This game is Highly Recommended",
