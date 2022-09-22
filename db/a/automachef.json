@@ -3,10 +3,10 @@
   "Name": "Automachef",
   "Names": [],
   "Rating": 4.31,
-  "NumberOfRatings": 542,
-  "DailyRatings": 3.73,
+  "NumberOfRatings": 543,
+  "DailyRatings": 3.76,
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "LastChanged": "2022-09-22T17:02:51.5026082+00:00",
+  "LastChanged": "2022-09-22T22:02:57.1348504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:48.5612756+00:00",
@@ -522,6 +522,11 @@
       "Time": "2022-09-22T17:02:51.502609+00:00",
       "Rating": 4.31,
       "NumberOfRatings": 542
+    },
+    {
+      "Time": "2022-09-22T22:02:57.1348506+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 543
     }
   ],
   "Tags": []

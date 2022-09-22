@@ -1,6 +1,6 @@
 # Ooblets
 Rating: 4.87 (1 434)  
-Ratings Per Day: 27.08  
+Ratings Per Day: 27.12  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
