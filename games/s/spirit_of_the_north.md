@@ -1,6 +1,6 @@
 # Spirit of the North
-Rating: 4.36 (987)  
-Ratings Per Day: 158.07  
+Rating: 4.36 (1 016)  
+Ratings Per Day: 158.51  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,4 +10,4 @@ Ratings Per Day: 158.07
 | 2022-09-19 | 4.38 | 607 |
 | 2022-09-20 | 4.36 | 768 |
 | 2022-09-21 | 4.34 | 834 |
-| 2022-09-22 | 4.36 | 987 |
+| 2022-09-22 | 4.36 | 1 016 |

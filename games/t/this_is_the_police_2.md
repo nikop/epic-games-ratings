@@ -1,6 +1,6 @@
 # This Is The Police 2
-Rating: 4.64 (28)  
-Ratings Per Day: 0.00  
+Rating: 4.66 (29)  
+Ratings Per Day: 0.16  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -13,3 +13,4 @@ Ratings Per Day: 0.00
 | 2022-08-25 | 4.65 | 26 |
 | 2022-09-06 | 4.63 | 27 |
 | 2022-09-16 | 4.64 | 28 |
+| 2022-09-22 | 4.66 | 29 |
