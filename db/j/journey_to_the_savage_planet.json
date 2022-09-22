@@ -3,10 +3,10 @@
   "Name": "Journey to the Savage Planet",
   "Names": [],
   "Rating": 4.58,
-  "NumberOfRatings": 111,
-  "DailyRatings": 2.75,
+  "NumberOfRatings": 113,
+  "DailyRatings": 2.6,
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
-  "LastChanged": "2022-09-21T08:01:28.2912437+00:00",
+  "LastChanged": "2022-09-22T08:01:26.4725623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.1838436+00:00",
@@ -182,6 +182,11 @@
       "Time": "2022-09-21T08:01:28.2912438+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 111
+    },
+    {
+      "Time": "2022-09-22T08:01:26.4725626+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 113
     }
   ],
   "Tags": []
