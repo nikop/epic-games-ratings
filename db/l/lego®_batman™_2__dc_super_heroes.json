@@ -2,11 +2,11 @@
   "ID": "cb23c857ec0d42d89b4be34d11302959",
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
   "Names": [],
-  "Rating": 4.64,
-  "NumberOfRatings": 488,
-  "DailyRatings": 4.49,
+  "Rating": 4.63,
+  "NumberOfRatings": 489,
+  "DailyRatings": 4.48,
   "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
-  "LastChanged": "2022-09-22T18:02:30.6712006+00:00",
+  "LastChanged": "2022-09-22T23:32:26.8824071+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:32.5025742+00:00",
@@ -397,12 +397,17 @@
       "Time": "2022-09-22T18:02:30.6712008+00:00",
       "Rating": 4.64,
       "NumberOfRatings": 488
+    },
+    {
+      "Time": "2022-09-22T23:32:26.8824072+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 489
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 117
+      "Count": 118
     }
   ]
 }

@@ -3,10 +3,10 @@
   "Name": "Paladins",
   "Names": [],
   "Rating": 4.36,
-  "NumberOfRatings": 11659,
-  "DailyRatings": 61.76,
+  "NumberOfRatings": 11661,
+  "DailyRatings": 61.83,
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2022-09-22T22:30:25.3768739+00:00",
+  "LastChanged": "2022-09-22T23:31:24.3186887+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3102,6 +3102,11 @@
       "Time": "2022-09-22T22:30:25.3768741+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 11659
+    },
+    {
+      "Time": "2022-09-22T23:31:24.3186893+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 11661
     }
   ],
   "Tags": [
