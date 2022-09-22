@@ -1,6 +1,6 @@
 # DOOM II
-Rating: 4.86 (44)  
-Ratings Per Day: 0.91  
+Rating: 4.87 (46)  
+Ratings Per Day: 0.94  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,3 +20,4 @@ Ratings Per Day: 0.91
 | 2022-09-17 | 4.85 | 41 |
 | 2022-09-18 | 4.86 | 42 |
 | 2022-09-20 | 4.86 | 44 |
+| 2022-09-22 | 4.87 | 46 |
