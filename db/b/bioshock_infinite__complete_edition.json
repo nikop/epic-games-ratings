@@ -3,10 +3,10 @@
   "Name": "BioShock Infinite: Complete Edition",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 18275,
-  "DailyRatings": 82.61,
+  "NumberOfRatings": 18297,
+  "DailyRatings": 82.82,
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2022-09-22T16:30:54.5717165+00:00",
+  "LastChanged": "2022-09-22T22:30:55.1277494+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.6159256+00:00",
@@ -1617,6 +1617,11 @@
       "Time": "2022-09-22T16:30:54.5717168+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 18275
+    },
+    {
+      "Time": "2022-09-22T22:30:55.1277496+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 18297
     }
   ],
   "Tags": [

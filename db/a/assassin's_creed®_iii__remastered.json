@@ -3,10 +3,10 @@
   "Name": "Assassin\u0027s Creed\u00AE III: Remastered",
   "Names": [],
   "Rating": 4.43,
-  "NumberOfRatings": 256,
-  "DailyRatings": 2.13,
+  "NumberOfRatings": 257,
+  "DailyRatings": 2.16,
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2022-09-22T13:31:37.4470262+00:00",
+  "LastChanged": "2022-09-22T22:31:47.4897879+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:27.0025151+00:00",
@@ -302,12 +302,17 @@
       "Time": "2022-09-22T13:31:37.4470263+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 256
+    },
+    {
+      "Time": "2022-09-22T22:31:47.4897881+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 257
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 60
+      "Count": 61
     }
   ]
 }
