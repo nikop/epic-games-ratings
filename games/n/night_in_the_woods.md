@@ -1,6 +1,6 @@
 # Night in the Woods
-Rating: 4.72 (608)  
-Ratings Per Day: 4.70  
+Rating: 4.72 (615)  
+Ratings Per Day: 5.08  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -64,3 +64,4 @@ Ratings Per Day: 4.70
 | 2022-09-19 | 4.72 | 598 |
 | 2022-09-20 | 4.72 | 601 |
 | 2022-09-21 | 4.72 | 608 |
+| 2022-09-22 | 4.72 | 615 |

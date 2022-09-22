@@ -3,10 +3,10 @@
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 3842,
-  "DailyRatings": 21.9,
+  "NumberOfRatings": 3845,
+  "DailyRatings": 22.2,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-09-22T18:02:31.4187046+00:00",
+  "LastChanged": "2022-09-22T19:02:08.6222258+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -2337,6 +2337,11 @@
       "Time": "2022-09-22T18:02:31.4187049+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 3842
+    },
+    {
+      "Time": "2022-09-22T19:02:08.622226+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 3845
     }
   ],
   "Tags": [
