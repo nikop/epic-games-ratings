@@ -3,10 +3,10 @@
   "Name": "Disco Elysium",
   "Names": [],
   "Rating": 4.86,
-  "NumberOfRatings": 1602,
-  "DailyRatings": 14.89,
+  "NumberOfRatings": 1603,
+  "DailyRatings": 14.94,
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "LastChanged": "2022-09-22T08:31:17.7326097+00:00",
+  "LastChanged": "2022-09-22T09:30:46.2265101+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:46.370963+00:00",
@@ -817,6 +817,11 @@
       "Time": "2022-09-22T08:31:17.73261+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 1602
+    },
+    {
+      "Time": "2022-09-22T09:30:46.2265103+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 1603
     }
   ],
   "Tags": [
@@ -834,7 +839,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Obsessive Gameplay",
