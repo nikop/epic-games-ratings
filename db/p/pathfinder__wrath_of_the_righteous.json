@@ -3,10 +3,10 @@
   "Name": "Pathfinder: Wrath of the Righteous",
   "Names": [],
   "Rating": 4.76,
-  "NumberOfRatings": 1344,
-  "DailyRatings": 6.7,
+  "NumberOfRatings": 1345,
+  "DailyRatings": 6.45,
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
-  "LastChanged": "2022-09-22T03:00:36.9989592+00:00",
+  "LastChanged": "2022-09-22T13:01:19.0558184+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:10.6085612+00:00",
@@ -1527,6 +1527,11 @@
       "Time": "2022-09-22T03:00:36.9989595+00:00",
       "Rating": 4.76,
       "NumberOfRatings": 1344
+    },
+    {
+      "Time": "2022-09-22T13:01:19.0558185+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 1345
     }
   ],
   "Tags": [
@@ -1548,7 +1553,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 259
+      "Count": 263
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1572,7 +1577,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 167
+      "Count": 168
     }
   ]
 }
