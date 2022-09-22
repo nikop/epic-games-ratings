@@ -1,6 +1,6 @@
 # Neighbours back From Hell
-Rating: 4.59 (27)  
-Ratings Per Day: 0.56  
+Rating: 4.57 (28)  
+Ratings Per Day: 0.72  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Ratings Per Day: 0.56
 | 2022-09-12 | 4.72 | 25 |
 | 2022-09-19 | 4.73 | 26 |
 | 2022-09-21 | 4.59 | 27 |
+| 2022-09-22 | 4.57 | 28 |

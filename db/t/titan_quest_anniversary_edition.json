@@ -3,10 +3,10 @@
   "Name": "Titan Quest Anniversary Edition",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 96,
-  "DailyRatings": 0.61,
+  "NumberOfRatings": 97,
+  "DailyRatings": 0.75,
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2022-09-21T20:02:08.5961165+00:00",
+  "LastChanged": "2022-09-22T05:00:53.2227767+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:19.7700639+00:00",
@@ -202,12 +202,17 @@
       "Time": "2022-09-21T20:02:08.5961167+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 96
+    },
+    {
+      "Time": "2022-09-22T05:00:53.2227768+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 97
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game has Great Boss Battles",
