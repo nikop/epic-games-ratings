@@ -3,10 +3,10 @@
   "Name": "Titan Quest Anniversary Edition",
   "Names": [],
   "Rating": 4.72,
-  "NumberOfRatings": 97,
-  "DailyRatings": 0.75,
+  "NumberOfRatings": 98,
+  "DailyRatings": 0.87,
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2022-09-22T05:00:53.2227767+00:00",
+  "LastChanged": "2022-09-22T15:01:42.6537088+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:19.7700639+00:00",
@@ -207,6 +207,11 @@
       "Time": "2022-09-22T05:00:53.2227768+00:00",
       "Rating": 4.72,
       "NumberOfRatings": 97
+    },
+    {
+      "Time": "2022-09-22T15:01:42.6537091+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 98
     }
   ],
   "Tags": [

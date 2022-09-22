@@ -1,8 +1,8 @@
 |  #  | Name | Rating | Number of Ratings | Ratings Per Day |
 | --- | ---- | ------ | ----------------- | --------------- |
 | 1 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.76 | 25 | 8.75 |
-| 2 | [Isonzo](games/i/isonzo.md) | 4.51 | 85 | 9.36 |
-| 3 | [Steelrising](games/s/steelrising.md) | 4.25 | 121 | 6.73 |
+| 2 | [Isonzo](games/i/isonzo.md) | 4.50 | 86 | 9.39 |
+| 3 | [Steelrising](games/s/steelrising.md) | 4.25 | 122 | 6.75 |
 | 4 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 0.71 |
 | 5 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 170 | 4.67 |
 | 6 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 331 | 78.45 |
@@ -11,17 +11,17 @@
 | 9 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 789 | 21.35 |
 | 10 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 63 | 1.66 |
 | 11 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 954 | 168.21 |
-| 12 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 31 828 | 373.78 |
+| 12 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 31 840 | 374.37 |
 | 13 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 977 | 183.03 |
 | 14 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.18 | 189 | 3.05 |
 | 15 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.21 | 830 | 38.92 |
 | 16 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 95 | 1.43 |
 | 17 | [DOOM II](games/d/doom_ii.md) | 4.86 | 44 | 0.91 |
 | 18 | [DOOM 64](games/d/doom_64.md) | 4.66 | 5 090 | 46.11 |
-| 19 | [DOOM 3](games/d/doom_3.md) | 4.65 | 101 | 3.11 |
+| 19 | [DOOM 3](games/d/doom_3.md) | 4.67 | 105 | 2.77 |
 | 20 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 88 | 1.11 |
-| 21 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 950 | 91.85 |
+| 21 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 950 | 92.52 |
 | 22 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 995 | 11.47 |
-| 23 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 508 | 542.61 |
+| 23 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 508 | 540.74 |
 | 24 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 074 | 13.93 |
 | 25 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 642 | 147.44 |

@@ -1,6 +1,6 @@
 # The Witness
-Rating: 4.69 (497)  
-Ratings Per Day: 3.22  
+Rating: 4.69 (500)  
+Ratings Per Day: 3.19  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -66,3 +66,4 @@ Ratings Per Day: 3.22
 | 2022-09-19 | 4.69 | 493 |
 | 2022-09-20 | 4.69 | 494 |
 | 2022-09-21 | 4.69 | 497 |
+| 2022-09-22 | 4.69 | 500 |
