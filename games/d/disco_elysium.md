@@ -1,6 +1,6 @@
 # Disco Elysium
-Rating: 4.87 (1 597)  
-Ratings Per Day: 15.08  
+Rating: 4.86 (1 602)  
+Ratings Per Day: 14.89  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -66,3 +66,4 @@ Ratings Per Day: 15.08
 | 2022-09-19 | 4.87 | 1 563 |
 | 2022-09-20 | 4.87 | 1 584 |
 | 2022-09-21 | 4.87 | 1 597 |
+| 2022-09-22 | 4.86 | 1 602 |
