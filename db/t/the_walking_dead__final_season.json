@@ -2,11 +2,11 @@
   "ID": "ocelot",
   "Name": "The Walking Dead: Final Season",
   "Names": [],
-  "Rating": 4.77,
-  "NumberOfRatings": 56,
-  "DailyRatings": 1,
+  "Rating": 4.75,
+  "NumberOfRatings": 57,
+  "DailyRatings": 0.5,
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
-  "LastChanged": "2022-09-19T01:00:55.6512325+00:00",
+  "LastChanged": "2022-09-22T01:00:58.9376813+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.1366368+00:00",
@@ -122,6 +122,11 @@
       "Time": "2022-09-19T01:00:55.6512327+00:00",
       "Rating": 4.77,
       "NumberOfRatings": 56
+    },
+    {
+      "Time": "2022-09-22T01:00:58.9377744+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 57
     }
   ],
   "Tags": []
