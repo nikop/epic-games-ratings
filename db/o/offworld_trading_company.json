@@ -2,11 +2,11 @@
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
   "Names": [],
-  "Rating": 4.29,
-  "NumberOfRatings": 428,
-  "DailyRatings": 3.09,
+  "Rating": 4.3,
+  "NumberOfRatings": 430,
+  "DailyRatings": 2.94,
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2022-09-21T21:01:38.8616791+00:00",
+  "LastChanged": "2022-09-22T20:31:35.6529592+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -502,6 +502,11 @@
       "Time": "2022-09-21T21:01:38.8616792+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 428
+    },
+    {
+      "Time": "2022-09-22T20:31:35.6529594+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 430
     }
   ],
   "Tags": [
@@ -515,7 +520,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 25
+      "Count": 28
     }
   ]
 }
