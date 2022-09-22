@@ -12,9 +12,9 @@
 | 10 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 60 | 1.14 |
 | 11 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 14 918 | 176.87 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 31 724 | 388.93 |
-| 13 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 941 | 194.59 |
+| 13 | [Saints Row](games/s/saints_row.md) | 3.77 | 21 946 | 194.13 |
 | 14 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.17 | 187 | 3.65 |
-| 15 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.21 | 820 | 41.91 |
+| 15 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.21 | 820 | 42.48 |
 | 16 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 95 | 1.43 |
 | 17 | [DOOM II](games/d/doom_ii.md) | 4.86 | 44 | 0.93 |
 | 18 | [DOOM 64](games/d/doom_64.md) | 4.66 | 5 076 | 45.53 |
@@ -22,6 +22,6 @@
 | 20 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 88 | 1.11 |
 | 21 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 13 922 | 91.39 |
 | 22 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 1 989 | 11.18 |
-| 23 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 337 | 566.42 |
-| 24 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 063 | 13.56 |
+| 23 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 419 | 552.47 |
+| 24 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 068 | 13.73 |
 | 25 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 617 | 148.92 |
