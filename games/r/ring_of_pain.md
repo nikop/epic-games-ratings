@@ -1,6 +1,6 @@
 # Ring of Pain
 Rating: 4.57 (14 900)  
-Ratings Per Day: 177.34  
+Ratings Per Day: 179.13  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

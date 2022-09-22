@@ -3,10 +3,10 @@
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "Names": [],
   "Rating": 4.65,
-  "NumberOfRatings": 75707,
-  "DailyRatings": 1468.51,
+  "NumberOfRatings": 75923,
+  "DailyRatings": 1426.58,
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2022-09-21T18:03:24.5050834+00:00",
+  "LastChanged": "2022-09-22T02:02:20.3201242+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:36.0724993+00:00",
@@ -2907,6 +2907,11 @@
       "Time": "2022-09-21T18:03:24.5050835+00:00",
       "Rating": 4.65,
       "NumberOfRatings": 75707
+    },
+    {
+      "Time": "2022-09-22T02:02:20.3201244+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 75923
     }
   ],
   "Tags": [
@@ -2916,7 +2921,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 361
+      "Count": 373
     },
     {
       "Text": "This game has Amazing Storytelling",
