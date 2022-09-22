@@ -1,6 +1,6 @@
 # INSIDE
-Rating: 4.70 (1 575)  
-Ratings Per Day: 22.26  
+Rating: 4.70 (1 578)  
+Ratings Per Day: 19.29  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -66,3 +66,4 @@ Ratings Per Day: 22.26
 | 2022-09-19 | 4.69 | 1 549 |
 | 2022-09-20 | 4.70 | 1 556 |
 | 2022-09-21 | 4.70 | 1 575 |
+| 2022-09-22 | 4.70 | 1 578 |

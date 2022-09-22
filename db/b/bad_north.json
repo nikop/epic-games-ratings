@@ -3,10 +3,10 @@
   "Name": "Bad North",
   "Names": [],
   "Rating": 4.66,
-  "NumberOfRatings": 849,
-  "DailyRatings": 6.93,
+  "NumberOfRatings": 850,
+  "DailyRatings": 6.86,
   "FirstSeen": "2022-07-22T20:29:59.5016567+00:00",
-  "LastChanged": "2022-09-21T19:02:12.9814136+00:00",
+  "LastChanged": "2022-09-22T00:02:49.0056427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:59.501657+00:00",
@@ -482,6 +482,11 @@
       "Time": "2022-09-21T19:02:12.9814138+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 849
+    },
+    {
+      "Time": "2022-09-22T00:02:49.0056429+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 850
     }
   ],
   "Tags": [

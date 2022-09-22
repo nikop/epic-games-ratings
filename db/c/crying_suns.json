@@ -3,10 +3,10 @@
   "Name": "Crying Suns",
   "Names": [],
   "Rating": 4.5,
-  "NumberOfRatings": 993,
-  "DailyRatings": 10.75,
+  "NumberOfRatings": 999,
+  "DailyRatings": 10.34,
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
-  "LastChanged": "2022-09-21T05:01:18.5607122+00:00",
+  "LastChanged": "2022-09-22T00:02:04.7961982+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:25.9606457+00:00",
@@ -462,6 +462,11 @@
       "Time": "2022-09-21T05:01:18.5607123+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 993
+    },
+    {
+      "Time": "2022-09-22T00:02:04.7961984+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 999
     }
   ],
   "Tags": [
