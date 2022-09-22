@@ -3,10 +3,10 @@
   "Name": "20XX",
   "Names": [],
   "Rating": 4.62,
-  "NumberOfRatings": 390,
-  "DailyRatings": 2.79,
+  "NumberOfRatings": 391,
+  "DailyRatings": 2.75,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-09-22T05:30:43.9835226+00:00",
+  "LastChanged": "2022-09-22T16:01:34.1813809+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -457,12 +457,17 @@
       "Time": "2022-09-22T05:30:43.9835919+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 390
+    },
+    {
+      "Time": "2022-09-22T16:01:34.181381+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 391
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
