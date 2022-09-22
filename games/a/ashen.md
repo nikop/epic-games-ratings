@@ -1,6 +1,6 @@
 # Ashen
 Rating: 4.28 (110)  
-Ratings Per Day: 0.78  
+Ratings Per Day: 0.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
