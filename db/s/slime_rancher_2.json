@@ -1,12 +1,9 @@
 {
   "ID": "4f09ede568514ca6ad487f9c22a66b81",
   "Name": "Slime Rancher 2",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
+  "Names": [],
   "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "RatingHistory": [],
   "Tags": []
 }
