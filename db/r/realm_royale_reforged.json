@@ -3,11 +3,11 @@
   "Name": "Realm Royale Reforged",
   "Names": [],
   "Rating": 4.21,
-  "NumberOfRatings": 829,
-  "DailyRatings": 39.25,
+  "NumberOfRatings": 830,
+  "DailyRatings": 38.92,
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2022-09-22T12:30:25.2475773+00:00",
+  "LastChanged": "2022-09-22T14:30:48.9846021+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T22:31:27.0262737+00:00",
@@ -668,6 +668,11 @@
       "Time": "2022-09-22T12:30:25.2475779+00:00",
       "Rating": 4.21,
       "NumberOfRatings": 829
+    },
+    {
+      "Time": "2022-09-22T14:30:48.9846023+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 830
     }
   ],
   "Tags": [
@@ -693,6 +698,10 @@
     },
     {
       "Text": "This game has a Competitive Community",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
       "Count": 20
     }
   ]
