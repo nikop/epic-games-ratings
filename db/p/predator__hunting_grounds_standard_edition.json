@@ -3,10 +3,10 @@
   "Name": "Predator: Hunting Grounds Standard Edition",
   "Names": [],
   "Rating": 4.43,
-  "NumberOfRatings": 1350,
-  "DailyRatings": 20.59,
+  "NumberOfRatings": 1352,
+  "DailyRatings": 22.73,
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2022-09-21T22:30:37.4032815+00:00",
+  "LastChanged": "2022-09-22T01:30:40.7738891+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -1597,6 +1597,11 @@
       "Time": "2022-09-21T22:30:37.4032818+00:00",
       "Rating": 4.43,
       "NumberOfRatings": 1350
+    },
+    {
+      "Time": "2022-09-22T01:30:40.7738962+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 1352
     }
   ],
   "Tags": [
