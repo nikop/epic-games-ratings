@@ -1,6 +1,6 @@
 # MultiVersus
-Rating: 4.57 (55 617)  
-Ratings Per Day: 150.30  
+Rating: 4.57 (55 633)  
+Ratings Per Day: 149.45  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -61,4 +61,4 @@ Ratings Per Day: 150.30
 | 2022-09-19 | 4.57 | 55 403 |
 | 2022-09-20 | 4.57 | 55 512 |
 | 2022-09-21 | 4.57 | 55 598 |
-| 2022-09-22 | 4.57 | 55 617 |
+| 2022-09-22 | 4.57 | 55 633 |
