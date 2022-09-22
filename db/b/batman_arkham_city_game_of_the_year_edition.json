@@ -2,11 +2,11 @@
   "ID": "40c34bea9cd0460589c867f6a7246342",
   "Name": "Batman Arkham City Game of the Year Edition",
   "Names": [],
-  "Rating": 4.78,
-  "NumberOfRatings": 2813,
-  "DailyRatings": 19.32,
+  "Rating": 4.79,
+  "NumberOfRatings": 2820,
+  "DailyRatings": 19.83,
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2022-09-22T18:30:56.7461009+00:00",
+  "LastChanged": "2022-09-22T23:00:57.9710007+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.6256325+00:00",
@@ -1132,12 +1132,17 @@
       "Time": "2022-09-22T18:30:56.746101+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 2813
+    },
+    {
+      "Time": "2022-09-22T23:00:57.9710009+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 2820
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 803
+      "Count": 807
     },
     {
       "Text": "This game is Extremely Fun",

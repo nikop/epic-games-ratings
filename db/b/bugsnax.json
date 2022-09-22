@@ -3,10 +3,10 @@
   "Name": "Bugsnax",
   "Names": [],
   "Rating": 4.83,
-  "NumberOfRatings": 422,
-  "DailyRatings": 3.37,
+  "NumberOfRatings": 425,
+  "DailyRatings": 3.49,
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
-  "LastChanged": "2022-09-22T07:02:38.9185642+00:00",
+  "LastChanged": "2022-09-22T23:02:03.6757556+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:14.968778+00:00",
@@ -422,7 +422,17 @@
       "Time": "2022-09-22T07:02:38.9185644+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 422
+    },
+    {
+      "Time": "2022-09-22T23:02:03.6757557+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 425
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 20
+    }
+  ]
 }

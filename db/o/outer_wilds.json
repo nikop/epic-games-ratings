@@ -3,10 +3,10 @@
   "Name": "Outer Wilds",
   "Names": [],
   "Rating": 4.9,
-  "NumberOfRatings": 719,
-  "DailyRatings": 6,
+  "NumberOfRatings": 724,
+  "DailyRatings": 6.1,
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2022-09-22T05:30:55.6045991+00:00",
+  "LastChanged": "2022-09-22T23:01:02.2263933+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:49.0094839+00:00",
@@ -467,6 +467,11 @@
       "Time": "2022-09-22T05:30:55.6045992+00:00",
       "Rating": 4.9,
       "NumberOfRatings": 719
+    },
+    {
+      "Time": "2022-09-22T23:01:02.2263935+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": 724
     }
   ],
   "Tags": []

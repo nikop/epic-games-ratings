@@ -1,6 +1,6 @@
 # Tacoma
-Rating: 4.34 (58)  
-Ratings Per Day: 0.40  
+Rating: 4.35 (60)  
+Ratings Per Day: 0.67  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -27,3 +27,4 @@ Ratings Per Day: 0.40
 | 2022-09-16 | 4.34 | 56 |
 | 2022-09-17 | 4.35 | 57 |
 | 2022-09-21 | 4.34 | 58 |
+| 2022-09-22 | 4.35 | 60 |
