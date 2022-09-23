@@ -94,7 +94,7 @@
 | 92 | [HITMAN](games/h/hitman.md) | 4.64 | 6 362 | 42.90 |
 | 93 | [Hades](games/h/hades.md) | 4.92 | 6 336 | 36.65 |
 | 94 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 6 316 | 42.75 |
-| 95 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.23 |
+| 95 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.81 |
 | 96 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 6 169 | 36.76 |
 | 97 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 5 898 | 73.94 |
 | 98 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 5 693 | 14.82 |
@@ -131,7 +131,7 @@
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 3 313 | 17.70 |
 | 130 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 3 300 | 20.27 |
 | 131 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 3 181 | 13.10 |
-| 132 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 33.69 |
+| 132 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 34.03 |
 | 133 | [MudRunner](games/m/mudrunner.md) | 4.63 | 3 155 | 26.79 |
 | 134 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 3 114 | 19.20 |
 | 135 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 3 102 | 16.41 |
@@ -508,7 +508,7 @@
 | 506 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 81 | 0.53 |
 | 507 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 78 | 0.50 |
 | 508 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.51 | 76 | 0.00 |
-| 509 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.53 |
+| 509 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.68 |
 | 510 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 76 | 0.00 |
 | 511 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 76 | 0.00 |
 | 512 | [Good Company](games/g/good_company.md) | 4.47 | 75 | 0.00 |

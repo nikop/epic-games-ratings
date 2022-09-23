@@ -97,7 +97,7 @@
 | 95 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 34 | 0.00 |
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 278 | 1.38 |
 | 97 | [Celeste](games/c/celeste.md) | 4.92 | 2 543 | 15.53 |
-| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.53 |
+| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.68 |
 | 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 1 747 | 9.27 |
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.04 | 149 | 0.50 |
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 18 078 | 55.05 |
@@ -332,7 +332,7 @@
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 287 | 2.16 |
 | 331 | [Limbo](games/l/limbo.md) | 4.65 | 198 | 1.50 |
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.38 | 66 | 1.00 |
-| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.23 |
+| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.81 |
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 21 | 0.00 |
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 61 | 0.00 |
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 2 035 | 16.46 |
@@ -669,7 +669,7 @@
 | 667 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 986 | 6.74 |
 | 668 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 1 305 | 9.60 |
 | 669 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 34 | 1.00 |
-| 670 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 33.69 |
+| 670 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 34.03 |
 | 671 | [Warframe](games/w/warframe.md) | 4.63 | 12 660 | 120.08 |
 | 672 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 2 918 | 17.73 |
 | 673 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 371 | 0.74 |

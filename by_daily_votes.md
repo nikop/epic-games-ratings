@@ -81,10 +81,10 @@
 | 79 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.26 | 2 582 | 45.28 |
 | 80 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 7 386 | 45.04 |
 | 81 | [HITMAN](games/h/hitman.md) | 4.64 | 6 362 | 42.90 |
-| 82 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 6 316 | 42.75 |
-| 83 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 18 418 | 42.65 |
-| 84 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 9 223 | 42.36 |
-| 85 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.23 |
+| 82 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.81 |
+| 83 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 6 316 | 42.75 |
+| 84 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 18 418 | 42.65 |
+| 85 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 9 223 | 42.36 |
 | 86 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 15 120 | 42.17 |
 | 87 | [Days Gone](games/d/days_gone.md) | 4.70 | 3 949 | 42.15 |
 | 88 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 12 272 | 42.14 |
@@ -102,10 +102,10 @@
 | 100 | [Hades](games/h/hades.md) | 4.92 | 6 336 | 36.65 |
 | 101 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 5 442 | 35.78 |
 | 102 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 7 305 | 34.59 |
-| 103 | [Rage 2](games/r/rage_2.md) | 4.28 | 4 311 | 33.92 |
-| 104 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 7 683 | 33.81 |
-| 105 | [Vampyr](games/v/vampyr.md) | 4.31 | 5 106 | 33.69 |
-| 106 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 33.69 |
+| 103 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 34.03 |
+| 104 | [Rage 2](games/r/rage_2.md) | 4.28 | 4 311 | 33.92 |
+| 105 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 7 683 | 33.81 |
+| 106 | [Vampyr](games/v/vampyr.md) | 4.31 | 5 106 | 33.69 |
 | 107 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 6 675 | 32.51 |
 | 108 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 4 392 | 31.43 |
 | 109 | [Supraland](games/s/supraland.md) | 4.61 | 25 175 | 31.25 |
@@ -500,24 +500,24 @@
 | 498 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 0.71 |
 | 499 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 42 | 0.71 |
 | 500 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 24 | 0.70 |
-| 501 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 212 | 0.68 |
-| 502 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 81 | 0.68 |
-| 503 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 72 | 0.68 |
-| 504 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 29 | 0.67 |
-| 505 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 100 | 0.67 |
-| 506 | [Tacoma](games/t/tacoma.md) | 4.35 | 60 | 0.67 |
-| 507 | [CARRION](games/c/carrion.md) | 4.65 | 46 | 0.66 |
-| 508 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 179 | 0.66 |
-| 509 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 38 | 0.66 |
-| 510 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 164 | 0.62 |
-| 511 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 101 | 0.61 |
-| 512 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 85 | 0.60 |
-| 513 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 188 | 0.60 |
-| 514 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 112 | 0.60 |
-| 515 | [ATOM RPG](games/a/atom_rpg.md) | 4.31 | 54 | 0.56 |
-| 516 | [Aztez](games/a/aztez.md) | 4.42 | 43 | 0.56 |
-| 517 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 132 | 0.55 |
-| 518 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.53 |
+| 501 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.68 |
+| 502 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 212 | 0.68 |
+| 503 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 81 | 0.68 |
+| 504 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 72 | 0.68 |
+| 505 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 29 | 0.67 |
+| 506 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 100 | 0.67 |
+| 507 | [Tacoma](games/t/tacoma.md) | 4.35 | 60 | 0.67 |
+| 508 | [CARRION](games/c/carrion.md) | 4.65 | 46 | 0.66 |
+| 509 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 179 | 0.66 |
+| 510 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 38 | 0.66 |
+| 511 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 164 | 0.62 |
+| 512 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 101 | 0.61 |
+| 513 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 85 | 0.60 |
+| 514 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 188 | 0.60 |
+| 515 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 112 | 0.60 |
+| 516 | [ATOM RPG](games/a/atom_rpg.md) | 4.31 | 54 | 0.56 |
+| 517 | [Aztez](games/a/aztez.md) | 4.42 | 43 | 0.56 |
+| 518 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 132 | 0.55 |
 | 519 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 81 | 0.53 |
 | 520 | [Ashen](games/a/ashen.md) | 4.29 | 111 | 0.52 |
 | 521 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.44 | 52 | 0.50 |

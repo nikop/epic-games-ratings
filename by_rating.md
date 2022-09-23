@@ -188,7 +188,7 @@
 | 186 | [Coromon](games/c/coromon.md) | 4.69 | 84 | 0.31 |
 | 187 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 8 340 | 47.04 |
 | 188 | [Trackmania](games/t/trackmania.md) | 4.68 | 6 825 | 41.10 |
-| 189 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.23 |
+| 189 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 6 301 | 42.81 |
 | 190 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 5 684 | 48.79 |
 | 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 3 313 | 17.70 |
 | 192 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 1 070 | 6.33 |
@@ -564,7 +564,7 @@
 | 562 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 2 096 | 13.46 |
 | 563 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.37 | 697 | 5.29 |
 | 564 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 145 | 1.04 |
-| 565 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.53 |
+| 565 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 76 | 0.68 |
 | 566 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 21 107 | 111.04 |
 | 567 | [Paladins](games/p/paladins.md) | 4.36 | 11 687 | 59.24 |
 | 568 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 1 175 | 164.27 |
@@ -694,7 +694,7 @@
 | 692 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 53 | 0.00 |
 | 693 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 12 664 | 19.59 |
 | 694 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 756 | 4.32 |
-| 695 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 33.69 |
+| 695 | [Warface](games/w/warface.md) | 3.95 | 3 179 | 34.03 |
 | 696 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 2 089 | 4.94 |
 | 697 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 42 | 0.71 |
 | 698 | [Patron](games/p/patron.md) | 3.95 | 38 | 0.00 |
