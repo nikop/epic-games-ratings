@@ -2,12 +2,12 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "Names": [],
-  "Rating": 4.36,
-  "NumberOfRatings": 1065,
-  "DailyRatings": 156.39,
+  "Rating": 4.37,
+  "NumberOfRatings": 1142,
+  "DailyRatings": 162.04,
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
-  "LastChanged": "2022-09-23T02:31:17.0214064+00:00",
+  "LastChanged": "2022-09-23T08:31:25.2864441+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-16T15:31:24.9636046+00:00",
@@ -128,6 +128,11 @@
       "Time": "2022-09-23T02:31:17.0214065+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 1065
+    },
+    {
+      "Time": "2022-09-23T08:31:25.2864443+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 1142
     }
   ],
   "Tags": []
