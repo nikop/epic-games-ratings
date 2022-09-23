@@ -4,10 +4,10 @@
 | 2 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 68 | 0.00 |
 | 3 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 27 | 3.26 |
 | 4 | [Isonzo](games/i/isonzo.md) | 4.53 | 98 | 9.81 |
-| 5 | [Steelrising](games/s/steelrising.md) | 4.25 | 122 | 5.58 |
+| 5 | [Steelrising](games/s/steelrising.md) | 4.25 | 122 | 5.41 |
 | 6 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 0.71 |
 | 7 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 170 | 4.41 |
-| 8 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 396 | 65.51 |
+| 8 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 396 | 65.27 |
 | 9 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.98 | 281 | 7.22 |
 | 10 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 90 | 1.83 |
 | 11 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 810 | 18.81 |
@@ -26,4 +26,4 @@
 | 24 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 2 006 | 10.80 |
 | 25 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 855 | 497.58 |
 | 26 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 086 | 11.77 |
-| 27 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 748 | 138.64 |
+| 27 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 748 | 134.31 |
