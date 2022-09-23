@@ -1,6 +1,6 @@
 # Industries of Titan
 Rating: 4.49 (123)  
-Ratings Per Day: 1.29  
+Ratings Per Day: 1.17  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
