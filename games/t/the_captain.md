@@ -1,6 +1,6 @@
 # The Captain
-Rating: 4.40 (2 019)  
-Ratings Per Day: 284.66  
+Rating: 4.40 (2 026)  
+Ratings Per Day: 284.83  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,4 +11,4 @@ Ratings Per Day: 284.66
 | 2022-09-20 | 4.39 | 1 369 |
 | 2022-09-21 | 4.39 | 1 622 |
 | 2022-09-22 | 4.40 | 1 912 |
-| 2022-09-23 | 4.40 | 2 019 |
+| 2022-09-23 | 4.40 | 2 026 |
