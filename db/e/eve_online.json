@@ -3,10 +3,10 @@
   "Name": "EVE Online",
   "Names": [],
   "Rating": 4.29,
-  "NumberOfRatings": 1405,
-  "DailyRatings": 10.5,
+  "NumberOfRatings": 1408,
+  "DailyRatings": 10.2,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2022-09-23T01:30:40.1722146+00:00",
+  "LastChanged": "2022-09-23T13:00:56.2881836+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -1282,6 +1282,11 @@
       "Time": "2022-09-23T01:30:40.1722151+00:00",
       "Rating": 4.29,
       "NumberOfRatings": 1405
+    },
+    {
+      "Time": "2022-09-23T13:00:56.2881837+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 1408
     }
   ],
   "Tags": [
@@ -1319,7 +1324,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Characters",

@@ -3,10 +3,10 @@
   "Name": "Tribes of Midgard",
   "Names": [],
   "Rating": 4.57,
-  "NumberOfRatings": 118,
-  "DailyRatings": 0.59,
+  "NumberOfRatings": 120,
+  "DailyRatings": 0.71,
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
-  "LastChanged": "2022-09-21T16:30:57.5224453+00:00",
+  "LastChanged": "2022-09-23T13:31:55.525394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.7309675+00:00",
@@ -252,12 +252,17 @@
       "Time": "2022-09-21T16:30:57.5224454+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 118
+    },
+    {
+      "Time": "2022-09-23T13:31:55.5253941+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 120
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 50
+      "Count": 51
     }
   ]
 }

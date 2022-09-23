@@ -1,6 +1,6 @@
 # Ironcast
-Rating: 3.89 (237)  
-Ratings Per Day: 1.53  
+Rating: 3.89 (238)  
+Ratings Per Day: 1.63  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -57,4 +57,4 @@ Ratings Per Day: 1.53
 | 2022-09-20 | 3.90 | 233 |
 | 2022-09-21 | 3.89 | 234 |
 | 2022-09-22 | 3.89 | 236 |
-| 2022-09-23 | 3.89 | 237 |
+| 2022-09-23 | 3.89 | 238 |
