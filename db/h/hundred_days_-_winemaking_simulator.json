@@ -3,11 +3,11 @@
   "Name": "Hundred Days - Winemaking Simulator",
   "Names": [],
   "Rating": 4.34,
-  "NumberOfRatings": 7646,
-  "DailyRatings": 302.25,
+  "NumberOfRatings": 7669,
+  "DailyRatings": 301.06,
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
-  "LastChanged": "2022-09-23T12:01:26.8079012+00:00",
+  "LastChanged": "2022-09-23T14:30:46.4946429+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-09T05:31:36.2629345+00:00",
@@ -668,6 +668,11 @@
       "Time": "2022-09-23T12:01:26.8079013+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 7646
+    },
+    {
+      "Time": "2022-09-23T14:30:46.494643+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 7669
     }
   ],
   "Tags": [
@@ -681,7 +686,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 80
+      "Count": 87
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -697,7 +702,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 90
+      "Count": 95
     },
     {
       "Text": "This game has Easy Combat",

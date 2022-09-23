@@ -1,6 +1,6 @@
 # Poly Bridge 2
-Rating: 4.53 (53)  
-Ratings Per Day: 0.00  
+Rating: 4.54 (54)  
+Ratings Per Day: 0.24  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Ratings Per Day: 0.00
 | 2022-09-12 | 4.50 | 50 |
 | 2022-09-15 | 4.51 | 51 |
 | 2022-09-19 | 4.53 | 53 |
+| 2022-09-23 | 4.54 | 54 |
