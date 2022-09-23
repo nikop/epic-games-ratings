@@ -3,11 +3,11 @@
   "Name": "F1\u00AE Manager 2022",
   "Names": [],
   "Rating": 4.56,
-  "NumberOfRatings": 804,
-  "DailyRatings": 20.91,
+  "NumberOfRatings": 808,
+  "DailyRatings": 20.27,
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2022-09-22T21:30:28.7753291+00:00",
+  "LastChanged": "2022-09-23T07:01:04.1624063+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -738,12 +738,17 @@
       "Time": "2022-09-22T21:30:28.7753295+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 804
+    },
+    {
+      "Time": "2022-09-23T07:01:04.1624065+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 808
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 41
+      "Count": 44
     },
     {
       "Text": "This game is Great for Beginners",

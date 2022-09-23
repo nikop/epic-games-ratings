@@ -3,10 +3,10 @@
   "Name": "Overcooked! 2",
   "Names": [],
   "Rating": 4.75,
-  "NumberOfRatings": 5148,
-  "DailyRatings": 30.52,
+  "NumberOfRatings": 5152,
+  "DailyRatings": 30.15,
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2022-09-23T02:00:18.5065306+00:00",
+  "LastChanged": "2022-09-23T07:00:59.5919483+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:55.1110044+00:00",
@@ -1797,6 +1797,11 @@
       "Time": "2022-09-23T02:00:18.5065307+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 5148
+    },
+    {
+      "Time": "2022-09-23T07:00:59.5919485+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 5152
     }
   ],
   "Tags": [
@@ -1814,7 +1819,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 105
+      "Count": 109
     },
     {
       "Text": "This game has Amazing Storytelling",

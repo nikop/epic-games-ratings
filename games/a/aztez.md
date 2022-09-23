@@ -1,6 +1,6 @@
 # Aztez
 Rating: 4.42 (43)  
-Ratings Per Day: 0.59  
+Ratings Per Day: 0.56  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
