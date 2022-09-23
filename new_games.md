@@ -6,7 +6,7 @@
 | 4 | [Isonzo](games/i/isonzo.md) | 4.53 | 98 | 9.81 |
 | 5 | [Steelrising](games/s/steelrising.md) | 4.25 | 122 | 5.41 |
 | 6 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 0.71 |
-| 7 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 170 | 4.41 |
+| 7 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 170 | 4.30 |
 | 8 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 396 | 62.20 |
 | 9 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.98 | 281 | 7.22 |
 | 10 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 90 | 1.83 |
@@ -15,14 +15,14 @@
 | 13 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 15 086 | 149.33 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 32 207 | 333.11 |
 | 15 | [Saints Row](games/s/saints_row.md) | 3.77 | 22 103 | 163.66 |
-| 16 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.18 | 190 | 2.75 |
+| 16 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.18 | 190 | 2.64 |
 | 17 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.22 | 841 | 30.43 |
 | 18 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 96 | 1.52 |
 | 19 | [DOOM II](games/d/doom_ii.md) | 4.88 | 48 | 1.24 |
-| 20 | [DOOM 64](games/d/doom_64.md) | 4.66 | 5 134 | 43.18 |
+| 20 | [DOOM 64](games/d/doom_64.md) | 4.66 | 5 134 | 42.71 |
 | 21 | [DOOM 3](games/d/doom_3.md) | 4.67 | 105 | 2.12 |
 | 22 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 88 | 1.11 |
-| 23 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 14 015 | 89.36 |
+| 23 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 14 015 | 87.59 |
 | 24 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 2 006 | 10.31 |
 | 25 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 855 | 487.65 |
 | 26 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 086 | 11.77 |
