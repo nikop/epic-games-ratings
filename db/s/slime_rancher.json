@@ -2,11 +2,11 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "Names": [],
-  "Rating": 4.83,
-  "NumberOfRatings": 5884,
-  "DailyRatings": 76.63,
+  "Rating": 4.84,
+  "NumberOfRatings": 5898,
+  "DailyRatings": 76.57,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-09-23T09:31:19.0694623+00:00",
+  "LastChanged": "2022-09-23T14:01:49.6358478+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -2207,6 +2207,11 @@
       "Time": "2022-09-23T09:31:19.0694624+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 5884
+    },
+    {
+      "Time": "2022-09-23T14:01:49.6358479+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 5898
     }
   ],
   "Tags": [
@@ -2240,7 +2245,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 159
+      "Count": 166
     },
     {
       "Text": "This game is Highly Recommended",

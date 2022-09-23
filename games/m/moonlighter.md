@@ -1,6 +1,6 @@
 # Moonlighter
 Rating: 4.70 (1 098)  
-Ratings Per Day: 7.36  
+Ratings Per Day: 7.09  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
