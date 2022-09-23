@@ -1,6 +1,6 @@
 # Fortnite
-Rating: 4.30 (2 276 162)  
-Ratings Per Day: 14346.92  
+Rating: 4.30 (2 280 298)  
+Ratings Per Day: 14340.99  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -67,3 +67,4 @@ Ratings Per Day: 14346.92
 | 2022-09-20 | 4.30 | 2 254 958 |
 | 2022-09-21 | 4.30 | 2 263 995 |
 | 2022-09-22 | 4.30 | 2 276 162 |
+| 2022-09-23 | 4.30 | 2 280 298 |

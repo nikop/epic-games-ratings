@@ -1,6 +1,6 @@
 # Assassin's Creed II Standard Edition
-Rating: 4.69 (312)  
-Ratings Per Day: 4.55  
+Rating: 4.69 (315)  
+Ratings Per Day: 4.28  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -61,3 +61,4 @@ Ratings Per Day: 4.55
 | 2022-09-20 | 4.69 | 304 |
 | 2022-09-21 | 4.69 | 309 |
 | 2022-09-22 | 4.69 | 312 |
+| 2022-09-23 | 4.69 | 315 |
