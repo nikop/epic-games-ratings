@@ -3,11 +3,11 @@
   "Name": "Submerged: Hidden Depths",
   "Names": [],
   "Rating": 4.26,
-  "NumberOfRatings": 2561,
-  "DailyRatings": 48.9,
+  "NumberOfRatings": 2564,
+  "DailyRatings": 48.3,
   "FirstSeen": "2022-07-22T20:30:35.8919962+00:00",
   "FirstSeenRating": "2022-09-02T17:02:43.442034+00:00",
-  "LastChanged": "2022-09-23T00:32:11.3953942+00:00",
+  "LastChanged": "2022-09-23T04:02:10.1445346+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T17:02:43.4420342+00:00",
@@ -653,6 +653,11 @@
       "Time": "2022-09-23T00:32:11.3953943+00:00",
       "Rating": 4.26,
       "NumberOfRatings": 2561
+    },
+    {
+      "Time": "2022-09-23T04:02:10.1445348+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 2564
     }
   ],
   "Tags": [
@@ -674,7 +679,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
