@@ -3,10 +3,10 @@
   "Name": "Barony",
   "Names": [],
   "Rating": 4.69,
-  "NumberOfRatings": 761,
+  "NumberOfRatings": 763,
   "DailyRatings": 6.04,
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2022-09-22T18:02:23.8311363+00:00",
+  "LastChanged": "2022-09-23T02:01:17.088549+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:54.550864+00:00",
@@ -742,6 +742,11 @@
       "Time": "2022-09-22T18:02:23.8311364+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 761
+    },
+    {
+      "Time": "2022-09-23T02:01:17.0885491+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 763
     }
   ],
   "Tags": [
@@ -755,7 +760,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
