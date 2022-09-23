@@ -1,6 +1,6 @@
 # Darksiders Genesis
-Rating: 4.51 (65)  
-Ratings Per Day: 1.96  
+Rating: 4.52 (67)  
+Ratings Per Day: 0.61  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,3 +26,4 @@ Ratings Per Day: 1.96
 | 2022-09-12 | 4.50 | 62 |
 | 2022-09-16 | 4.49 | 63 |
 | 2022-09-17 | 4.51 | 65 |
+| 2022-09-23 | 4.52 | 67 |

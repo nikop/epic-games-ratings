@@ -3,11 +3,11 @@
   "Name": "Disney Dreamlight Valley",
   "Names": [],
   "Rating": 4.73,
-  "NumberOfRatings": 1373,
-  "DailyRatings": 68.42,
+  "NumberOfRatings": 1376,
+  "DailyRatings": 68.43,
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
-  "LastChanged": "2022-09-23T02:00:20.7219162+00:00",
+  "LastChanged": "2022-09-23T03:00:56.6984707+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-06T23:00:48.1100288+00:00",
@@ -788,6 +788,11 @@
       "Time": "2022-09-23T02:00:20.7219164+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 1373
+    },
+    {
+      "Time": "2022-09-23T03:00:56.698471+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 1376
     }
   ],
   "Tags": [
