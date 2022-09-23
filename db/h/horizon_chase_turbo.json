@@ -3,10 +3,10 @@
   "Name": "Horizon Chase Turbo",
   "Names": [],
   "Rating": 4.61,
-  "NumberOfRatings": 1340,
-  "DailyRatings": 10.01,
+  "NumberOfRatings": 1343,
+  "DailyRatings": 10.08,
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2022-09-23T05:30:40.0856183+00:00",
+  "LastChanged": "2022-09-23T11:31:19.2694108+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -1037,6 +1037,11 @@
       "Time": "2022-09-23T05:30:40.0856187+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 1340
+    },
+    {
+      "Time": "2022-09-23T11:31:19.2694109+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 1343
     }
   ],
   "Tags": [
@@ -1070,7 +1075,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Diverse Characters",
