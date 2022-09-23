@@ -1,6 +1,6 @@
 # Mafia III: Definitive Edition
-Rating: 4.18 (1 281)  
-Ratings Per Day: 7.49  
+Rating: 4.18 (1 289)  
+Ratings Per Day: 7.57  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -66,3 +66,4 @@ Ratings Per Day: 7.49
 | 2022-09-20 | 4.18 | 1 270 |
 | 2022-09-21 | 4.18 | 1 273 |
 | 2022-09-22 | 4.18 | 1 281 |
+| 2022-09-23 | 4.18 | 1 289 |
