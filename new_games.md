@@ -3,16 +3,16 @@
 | 1 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.94 | 36 | 0.00 |
 | 2 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 68 | 0.00 |
 | 3 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 27 | 3.26 |
-| 4 | [Isonzo](games/i/isonzo.md) | 4.53 | 98 | 9.81 |
+| 4 | [Isonzo](games/i/isonzo.md) | 4.53 | 98 | 9.87 |
 | 5 | [Steelrising](games/s/steelrising.md) | 4.25 | 122 | 5.42 |
 | 6 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 22 | 1.00 |
 | 7 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 170 | 4.21 |
 | 8 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 1 396 | 61.23 |
-| 9 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.98 | 281 | 7.22 |
+| 9 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 3.98 | 281 | 6.90 |
 | 10 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 90 | 1.83 |
 | 11 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 810 | 18.85 |
 | 12 | [Travellers Rest](games/t/travellers_rest.md) | 4.61 | 64 | 1.48 |
-| 13 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 15 086 | 149.33 |
+| 13 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 15 086 | 148.01 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 32 207 | 332.13 |
 | 15 | [Saints Row](games/s/saints_row.md) | 3.77 | 22 103 | 159.36 |
 | 16 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.18 | 190 | 2.64 |
@@ -25,5 +25,5 @@
 | 23 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 14 015 | 86.87 |
 | 24 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 2 006 | 10.31 |
 | 25 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 61 855 | 488.63 |
-| 26 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 086 | 11.65 |
+| 26 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 5 086 | 12.08 |
 | 27 | [MultiVersus](games/m/multiversus.md) | 4.57 | 55 748 | 130.17 |
