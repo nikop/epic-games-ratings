@@ -34,7 +34,7 @@
 | 32 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.62 | 
+| 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
@@ -43,7 +43,7 @@
 | 41 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
+| 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -53,7 +53,7 @@
 | 51 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.43 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.66 | 
@@ -511,7 +511,7 @@
 | 509 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 510 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 511 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 512 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 512 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 513 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 514 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 515 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
@@ -558,7 +558,7 @@
 | 556 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 557 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
 | 558 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
-| 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 560 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 561 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 562 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -637,7 +637,7 @@
 | 635 | [Townscaper](games/t/townscaper.md) | 4.69 | 
 | 636 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 637 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 638 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 638 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 639 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 640 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
 | 641 | [Train Valley](games/t/train_valley.md) | 4.39 | 
