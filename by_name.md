@@ -120,7 +120,7 @@
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.40 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
+| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 123 | [CryoFall](games/c/cryofall.md) | 4.39 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -497,7 +497,7 @@
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
 | 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.87 | 
-| 498 | [Slipways](games/s/slipways.md) | 4.68 | 
+| 498 | [Slipways](games/s/slipways.md) | 4.69 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
 | 501 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
@@ -679,7 +679,7 @@
 | 677 | [Warpips](games/w/warpips.md) | 4.48 | 
 | 678 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 679 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 680 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 680 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
 | 681 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
 | 682 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 683 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
@@ -691,7 +691,7 @@
 | 689 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 690 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
 | 691 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 692 | [Windbound](games/w/windbound.md) | 4.16 | 
+| 692 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 693 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 694 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
 | 695 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 

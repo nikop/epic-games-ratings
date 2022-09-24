@@ -187,23 +187,23 @@
 | 185 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 186 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 187 | [Townscaper](games/t/townscaper.md) | 4.69 | 
-| 188 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 189 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 190 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 191 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 193 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 194 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 195 | [Timberborn](games/t/timberborn.md) | 4.68 | 
-| 196 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 197 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 198 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 199 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 200 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 201 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
-| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 203 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 204 | [Slipways](games/s/slipways.md) | 4.68 | 
+| 188 | [Slipways](games/s/slipways.md) | 4.69 | 
+| 189 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 190 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 191 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 195 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 196 | [Timberborn](games/t/timberborn.md) | 4.68 | 
+| 197 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 199 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 200 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 201 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 202 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
+| 203 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 204 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
 | 205 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 206 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 207 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
@@ -517,14 +517,14 @@
 | 515 | [The Captain](games/t/the_captain.md) | 4.42 | 
 | 516 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 517 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 518 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 519 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 520 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 521 | [Gamedec](games/g/gamedec.md) | 4.42 | 
-| 522 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 523 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 524 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.41 | 
-| 525 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
+| 518 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
+| 519 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 520 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 521 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 522 | [Gamedec](games/g/gamedec.md) | 4.42 | 
+| 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 524 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 525 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.41 | 
 | 526 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 527 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 528 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
@@ -567,14 +567,14 @@
 | 565 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 566 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 567 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 568 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 569 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 570 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 571 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 572 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
-| 573 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 574 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 575 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 568 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 569 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 570 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 571 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 572 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 573 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
+| 574 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 575 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 576 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 577 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 578 | [House Party](games/h/house_party.md) | 4.35 | 
@@ -655,7 +655,7 @@
 | 653 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 654 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 655 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 656 | [Windbound](games/w/windbound.md) | 4.16 | 
+| 656 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 657 | [Gloomhaven](games/g/gloomhaven.md) | 4.15 | 
 | 658 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.15 | 
 | 659 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
