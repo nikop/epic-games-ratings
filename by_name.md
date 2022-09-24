@@ -4,7 +4,7 @@
 | 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.44 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
@@ -33,7 +33,7 @@
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
-| 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.62 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
@@ -479,7 +479,7 @@
 | 477 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 478 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 479 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 480 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.57 | 
+| 480 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.58 | 
 | 481 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 482 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 483 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
@@ -515,7 +515,7 @@
 | 513 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 514 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 515 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 516 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
+| 516 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 517 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.48 | 
 | 518 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 519 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -584,7 +584,7 @@
 | 582 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 583 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 584 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
-| 585 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 585 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 586 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 587 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 588 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -612,7 +612,7 @@
 | 610 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 611 | [The World Next Door](games/t/the_world_next_door.md) | 4.03 | 
 | 612 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 613 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 613 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 614 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 615 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 616 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
@@ -657,7 +657,7 @@
 | 655 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
 | 656 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 657 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 658 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
+| 658 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 659 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 660 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 661 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
