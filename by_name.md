@@ -49,7 +49,7 @@
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 50 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
@@ -421,7 +421,7 @@
 | 419 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 420 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 421 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 422 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 422 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
@@ -438,7 +438,7 @@
 | 436 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 437 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 438 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 439 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.23 | 
+| 439 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
 | 440 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 441 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 442 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
@@ -473,7 +473,7 @@
 | 471 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
 | 472 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 473 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 474 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
+| 474 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 475 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 476 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 477 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
@@ -484,7 +484,7 @@
 | 482 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 483 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
 | 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 485 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 485 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 486 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 487 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 488 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 

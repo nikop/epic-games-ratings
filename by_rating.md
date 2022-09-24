@@ -422,17 +422,17 @@
 | 420 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 421 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 422 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 423 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
-| 424 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 425 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 426 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 427 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 428 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 429 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 430 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
-| 431 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 432 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 433 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 423 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 424 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 425 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 426 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 427 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
+| 428 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 429 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
+| 430 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 431 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 432 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 433 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 
 | 434 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 435 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 436 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
@@ -456,15 +456,15 @@
 | 454 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
 | 455 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 456 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
-| 457 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 458 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 
-| 459 | [Sable](games/s/sable.md) | 4.49 | 
-| 460 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 462 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 463 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 465 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
+| 457 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 458 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 459 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 
+| 460 | [Sable](games/s/sable.md) | 4.49 | 
+| 461 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 462 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 464 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 465 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 466 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 467 | [Democracy 4](games/d/democracy_4.md) | 4.48 | 
 | 468 | [Warpips](games/w/warpips.md) | 4.48 | 
@@ -497,15 +497,15 @@
 | 495 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 498 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
-| 499 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
-| 500 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 501 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 502 | [Figment](games/f/figment.md) | 4.44 | 
-| 503 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 504 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 505 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 506 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 498 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
+| 499 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 500 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 501 | [Figment](games/f/figment.md) | 4.44 | 
+| 502 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 503 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 505 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 506 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 508 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
 | 509 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -623,11 +623,11 @@
 | 621 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
 | 622 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 623 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
-| 624 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.24 | 
-| 625 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 626 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 627 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 628 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.23 | 
+| 624 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 625 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.24 | 
+| 626 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 627 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 628 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 630 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.23 | 
 | 631 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
@@ -693,9 +693,9 @@
 | 691 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 692 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
 | 693 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 694 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 695 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 696 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 694 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
+| 695 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 696 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 697 | [Patron](games/p/patron.md) | 3.97 | 
 | 698 | [Warface](games/w/warface.md) | 3.96 | 
 | 699 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
