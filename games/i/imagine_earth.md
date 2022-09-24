@@ -1,6 +1,6 @@
 # Imagine Earth
 Rating: 4.36 (22)  
-Ratings Per Day: 0.20  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
