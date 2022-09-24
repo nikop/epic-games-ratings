@@ -19,7 +19,7 @@
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.09 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
@@ -80,7 +80,7 @@
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.71 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.88 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.87 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.68 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -641,7 +641,7 @@
 | 639 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 640 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
 | 641 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 642 | [Train Valley 2](games/t/train_valley_2.md) | 4.03 | 
+| 642 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 643 | [Transistor](games/t/transistor.md) | 4.66 | 
 | 644 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 645 | [Travellers Rest](games/t/travellers_rest.md) | 4.61 | 

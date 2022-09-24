@@ -15,13 +15,13 @@
 | 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 15 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 16 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.88 | 
-| 17 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 19 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 22 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 16 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 17 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 18 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 21 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 22 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.87 | 
 | 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 24 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -102,13 +102,13 @@
 | 100 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 102 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 
-| 103 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 105 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 108 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 104 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 105 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 106 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 107 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 108 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 109 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 110 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 112 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
@@ -384,18 +384,18 @@
 | 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 383 | [Hue](games/h/hue.md) | 4.55 | 
 | 384 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 385 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 386 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 387 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 388 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
-| 389 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 390 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 391 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 392 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 393 | [MythForce](games/m/mythforce.md) | 4.54 | 
-| 394 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 395 | [Minit](games/m/minit.md) | 4.54 | 
-| 396 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 385 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 386 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 387 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 388 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
+| 389 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
+| 390 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
+| 391 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 392 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 393 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 394 | [MythForce](games/m/mythforce.md) | 4.54 | 
+| 395 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 396 | [Minit](games/m/minit.md) | 4.54 | 
 | 397 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 398 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 399 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
@@ -606,9 +606,9 @@
 | 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 607 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 609 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 607 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 608 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 609 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 610 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 611 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
@@ -679,12 +679,12 @@
 | 677 | [Godfall](games/g/godfall.md) | 4.08 | 
 | 678 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 679 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 680 | [Lake](games/l/lake.md) | 4.05 | 
-| 681 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
-| 682 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 683 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 684 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
-| 685 | [Train Valley 2](games/t/train_valley_2.md) | 4.03 | 
+| 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 681 | [Lake](games/l/lake.md) | 4.05 | 
+| 682 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
+| 683 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 684 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 685 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 686 | [The World Next Door](games/t/the_world_next_door.md) | 4.03 | 
 | 687 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 688 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.00 | 
