@@ -16,7 +16,7 @@
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.09 | 
+| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
@@ -51,7 +51,7 @@
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.31 | 
-| 52 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
+| 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.43 | 
@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.89 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.71 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
@@ -145,7 +145,7 @@
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 145 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 146 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 146 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 147 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 148 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 149 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -417,7 +417,7 @@
 | 415 | [Patron](games/p/patron.md) | 3.97 | 
 | 416 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 417 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 418 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 418 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 419 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 420 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 421 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 

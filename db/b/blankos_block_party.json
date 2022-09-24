@@ -1,11 +1,11 @@
 {
   "ID": "3b54815f8aed41bda7b2c4a97ef0a762",
   "Name": "Blankos Block Party",
-  "Rating": 4.71,
+  "Rating": 4.72,
   "NumberOfRatings": 27,
   "FirstSeen": "2022-09-15T18:02:36.8331612+00:00",
   "FirstSeenRating": "2022-09-21T21:02:42.6156669+00:00",
-  "LastChanged": "2022-09-24T13:07:19.2148595+00:00",
+  "LastChanged": "2022-09-24T23:01:49.3388138+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-21T21:02:42.6156673+00:00",
@@ -25,6 +25,11 @@
     {
       "Time": "2022-09-24T13:07:19.2148597+00:00",
       "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-24T23:01:49.338814+00:00",
+      "Rating": 4.72,
       "NumberOfRatings": null
     }
   ],
