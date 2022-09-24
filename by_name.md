@@ -182,7 +182,7 @@
 | 180 | [ELEX](games/e/elex.md) | 4.33 | 
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
 | 184 | [Encased](games/e/encased.md) | 4.35 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -266,7 +266,7 @@
 | 264 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 265 | [Hob](games/h/hob.md) | 4.60 | 
 | 266 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 267 | [Horace](games/h/horace.md) | 4.60 | 
+| 267 | [Horace](games/h/horace.md) | 4.56 | 
 | 268 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 269 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 270 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
@@ -507,7 +507,7 @@
 | 505 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 506 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 507 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 508 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 508 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 509 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 510 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 511 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
@@ -517,7 +517,7 @@
 | 515 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 516 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
 | 517 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.48 | 
-| 518 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 518 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 519 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 520 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
 | 521 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
@@ -526,7 +526,7 @@
 | 524 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 525 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
 | 526 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 527 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 527 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 528 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 529 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 530 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
@@ -542,7 +542,7 @@
 | 540 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.74 | 
 | 541 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 542 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 543 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 543 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.66 | 
 | 544 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.83 | 
 | 545 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 546 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
