@@ -1,10 +1,8 @@
 {
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
-  "Names": [],
   "Rating": 4.74,
   "NumberOfRatings": 4814,
-  "DailyRatings": 41.93,
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
   "LastChanged": "2022-09-23T12:32:41.8542498+00:00",
   "RatingHistory": [
@@ -2517,7 +2515,7 @@
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 285
+      "Count": 291
     },
     {
       "Text": "This game is Extremely Fun",

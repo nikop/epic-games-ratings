@@ -1,10 +1,8 @@
 {
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
-  "Names": [],
   "Rating": 4.88,
   "NumberOfRatings": 1319,
-  "DailyRatings": 7.1,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
   "LastChanged": "2022-09-23T12:30:21.9900699+00:00",
   "RatingHistory": [
@@ -1309,7 +1307,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has a Creative Community",

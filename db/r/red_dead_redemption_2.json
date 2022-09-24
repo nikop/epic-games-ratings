@@ -1,10 +1,8 @@
 {
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
-  "Names": [],
   "Rating": 4.9,
   "NumberOfRatings": 102658,
-  "DailyRatings": 537.47,
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
   "LastChanged": "2022-09-23T13:32:10.2181596+00:00",
   "RatingHistory": [
@@ -3559,7 +3557,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 4197
+      "Count": 4258
     },
     {
       "Text": "This game has Amazing Storytelling",

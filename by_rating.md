@@ -25,18 +25,18 @@
 | 23 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 25 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
-| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 27 | [Grindstone](games/g/grindstone.md) | 4.86 | 
-| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 33 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.85 | 
-| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 35 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
-| 36 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 37 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
+| 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 28 | [Grindstone](games/g/grindstone.md) | 4.86 | 
+| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 34 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.85 | 
+| 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 36 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 37 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 39 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
 | 40 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
@@ -415,20 +415,20 @@
 | 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 414 | [Outward](games/o/outward.md) | 4.52 | 
 | 415 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 416 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 417 | [Road 96](games/r/road_96.md) | 4.52 | 
-| 418 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 419 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 420 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 422 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 423 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 424 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
-| 425 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 426 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 427 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 428 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 429 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 416 | [Road 96](games/r/road_96.md) | 4.52 | 
+| 417 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 418 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 419 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 420 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 421 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 422 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 423 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 424 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 425 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 426 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 427 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
+| 428 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 429 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
 | 430 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 431 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 432 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 

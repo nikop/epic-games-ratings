@@ -1,10 +1,8 @@
 {
   "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
   "Name": "Prey",
-  "Names": [],
   "Rating": 4.6,
   "NumberOfRatings": 13217,
-  "DailyRatings": 66.81,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
   "LastChanged": "2022-09-23T14:03:21.8641554+00:00",
   "RatingHistory": [
@@ -2472,7 +2470,7 @@
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 179
+      "Count": 181
     },
     {
       "Text": "This game is Highly Recommended",

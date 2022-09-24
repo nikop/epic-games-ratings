@@ -1,10 +1,8 @@
 {
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
-  "Names": [],
   "Rating": 4.58,
   "NumberOfRatings": 12317,
-  "DailyRatings": 82.21,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
   "LastChanged": "2022-09-23T12:30:56.9320074+00:00",
   "RatingHistory": [
@@ -3114,11 +3112,11 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 385
+      "Count": 389
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 379
+      "Count": 384
     },
     {
       "Text": "This game is Relaxing",

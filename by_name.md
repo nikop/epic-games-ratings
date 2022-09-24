@@ -32,7 +32,7 @@
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.64 | 
-| 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.62 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
@@ -561,7 +561,7 @@
 | 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 560 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 561 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 562 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
+| 562 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 563 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 564 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
 | 565 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 

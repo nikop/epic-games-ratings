@@ -1,10 +1,8 @@
 {
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
-  "Names": [],
   "Rating": 4.34,
   "NumberOfRatings": 5693,
-  "DailyRatings": 14.26,
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
   "LastChanged": "2022-09-23T13:31:54.8501615+00:00",
   "RatingHistory": [
@@ -1639,7 +1637,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 169
+      "Count": 171
     },
     {
       "Text": "This game is Relaxing",

@@ -1,10 +1,8 @@
 {
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
-  "Names": [],
   "Rating": 4.68,
   "NumberOfRatings": 6825,
-  "DailyRatings": 41.38,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
   "LastChanged": "2022-09-23T13:32:07.8667684+00:00",
   "RatingHistory": [
@@ -2812,7 +2810,7 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 835
+      "Count": 848
     },
     {
       "Text": "This game is Highly Recommended",

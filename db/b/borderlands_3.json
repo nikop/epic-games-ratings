@@ -1,10 +1,8 @@
 {
   "ID": "catnip",
   "Name": "Borderlands 3",
-  "Names": [],
   "Rating": 4.69,
   "NumberOfRatings": 151211,
-  "DailyRatings": 453.8,
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
   "LastChanged": "2022-09-23T13:31:16.5981485+00:00",
   "RatingHistory": [
@@ -3410,7 +3408,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 16473
+      "Count": 16566
     },
     {
       "Text": "This game is Extremely Fun",

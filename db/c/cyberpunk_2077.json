@@ -1,10 +1,8 @@
 {
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
-  "Names": [],
   "Rating": 4.57,
   "NumberOfRatings": 32700,
-  "DailyRatings": 1003.73,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "LastChanged": "2022-09-23T13:31:11.5510984+00:00",
   "RatingHistory": [
@@ -3570,7 +3568,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1060
+      "Count": 1129
     },
     {
       "Text": "This game has Quickly Understood Controls",
