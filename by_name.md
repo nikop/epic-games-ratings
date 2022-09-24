@@ -173,7 +173,7 @@
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 
+| 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 177 | [Eastward](games/e/eastward.md) | 4.64 | 
@@ -237,7 +237,7 @@
 | 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 238 | [Godfall](games/g/godfall.md) | 4.08 | 
+| 238 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 239 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.86 | 
 | 240 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 241 | [Gone Home](games/g/gone_home.md) | 4.09 | 

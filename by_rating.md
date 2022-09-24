@@ -208,18 +208,18 @@
 | 206 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 207 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 208 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 
-| 210 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 213 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 215 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 216 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 217 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 218 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 219 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
-| 220 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 209 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 210 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 211 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 212 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 214 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 215 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 216 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 217 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 218 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
+| 219 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 220 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 221 | [Bad North](games/b/bad_north.md) | 4.66 | 
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 223 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -676,7 +676,7 @@
 | 674 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 675 | [Gone Home](games/g/gone_home.md) | 4.09 | 
 | 676 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 677 | [Godfall](games/g/godfall.md) | 4.08 | 
+| 677 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 678 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 
 | 679 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
