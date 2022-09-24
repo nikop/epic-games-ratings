@@ -150,14 +150,14 @@
 | 148 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
 | 149 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
 | 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 151 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 152 | [SOMA](games/s/soma.md) | 4.71 | 
-| 153 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 154 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 156 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
-| 157 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 158 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 152 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 153 | [SOMA](games/s/soma.md) | 4.71 | 
+| 154 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 155 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 157 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
+| 158 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 160 | [INSIDE](games/i/inside.md) | 4.70 | 
 | 161 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -394,16 +394,16 @@
 | 392 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 393 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 394 | [Minit](games/m/minit.md) | 4.54 | 
-| 395 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 396 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
-| 397 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
-| 398 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 399 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 400 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 401 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 402 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 403 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 404 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 395 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 397 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 398 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
+| 399 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 400 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 401 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 402 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 404 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 405 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 406 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 407 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -481,7 +481,7 @@
 | 479 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 480 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 481 | [Faeria](games/f/faeria.md) | 4.46 | 
-| 482 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 482 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 483 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 484 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 485 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
@@ -489,10 +489,10 @@
 | 487 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 488 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 489 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
-| 490 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 491 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 493 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 490 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 491 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 492 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 493 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 494 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
 | 495 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
@@ -662,11 +662,11 @@
 | 660 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 
 | 661 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 662 | [Pine](games/p/pine.md) | 4.12 | 
-| 663 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 664 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
-| 665 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 666 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 
-| 667 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
+| 663 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
+| 664 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 665 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 
+| 666 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
+| 667 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 668 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 669 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 670 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 

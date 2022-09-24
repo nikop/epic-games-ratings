@@ -8,7 +8,7 @@
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.41 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
@@ -35,7 +35,7 @@
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
-| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.69 | 
@@ -141,7 +141,7 @@
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 142 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 145 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.54 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
@@ -586,7 +586,7 @@
 | 584 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 585 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 586 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 587 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 587 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 588 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 589 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 590 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
