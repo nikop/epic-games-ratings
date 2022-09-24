@@ -76,7 +76,7 @@
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 75 | [Black Book](games/b/black_book.md) | 4.89 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
+| 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.71 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
@@ -122,7 +122,7 @@
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 123 | [CryoFall](games/c/cryofall.md) | 4.39 | 
+| 123 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
 | 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -478,7 +478,7 @@
 | 476 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 477 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 478 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
-| 479 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
+| 479 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 
 | 480 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.58 | 
 | 481 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 482 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.69 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -579,7 +579,7 @@
 | 577 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.79 | 
 | 578 | [The Fall](games/t/the_fall.md) | 4.20 | 
 | 579 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 580 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.66 | 
+| 580 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 581 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 
 | 582 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 583 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
@@ -660,7 +660,7 @@
 | 658 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 659 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 660 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 661 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
+| 661 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 662 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 663 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 664 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
@@ -670,7 +670,7 @@
 | 668 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 669 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 670 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 
-| 671 | [Warface](games/w/warface.md) | 3.95 | 
+| 671 | [Warface](games/w/warface.md) | 3.96 | 
 | 672 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 673 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 674 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
