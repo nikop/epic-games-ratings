@@ -1,6 +1,6 @@
 # The Walking Dead: A New Frontier
 Rating: 4.70 (27)  
-Ratings Per Day: 0.49  
+Ratings Per Day: 0.00  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
