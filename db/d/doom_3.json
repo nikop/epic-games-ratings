@@ -2,12 +2,12 @@
   "ID": "7f1853beef0a4b40827038d0f47606f3",
   "Name": "DOOM 3",
   "Names": [],
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 105,
-  "DailyRatings": 2.26,
+  "DailyRatings": 1.82,
   "FirstSeen": "2022-08-18T16:02:43.6550747+00:00",
   "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
-  "LastChanged": "2022-09-23T06:03:16.5324537+00:00",
+  "LastChanged": "2022-09-24T13:07:33.5979775+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T17:32:08.5034697+00:00",
@@ -173,6 +173,11 @@
       "Time": "2022-09-23T06:03:16.5324538+00:00",
       "Rating": 4.67,
       "NumberOfRatings": 105
+    },
+    {
+      "Time": "2022-09-24T13:07:33.5979776+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

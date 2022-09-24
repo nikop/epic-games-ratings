@@ -2,11 +2,11 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "Names": [],
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 2731,
-  "DailyRatings": 15.77,
+  "DailyRatings": 13.54,
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
-  "LastChanged": "2022-09-23T13:33:13.740971+00:00",
+  "LastChanged": "2022-09-24T13:07:33.5669248+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:50.3990272+00:00",
@@ -1837,12 +1837,17 @@
       "Time": "2022-09-23T13:33:13.7409711+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 2731
+    },
+    {
+      "Time": "2022-09-24T13:07:33.5669249+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 281
+      "Count": 286
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1850,11 +1855,11 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 295
+      "Count": 303
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 257
+      "Count": 262
     },
     {
       "Text": "This game has Competitive Players",
@@ -1862,19 +1867,19 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 269
+      "Count": 274
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 216
+      "Count": 221
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 108
+      "Count": 110
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 122
+      "Count": 125
     }
   ]
 }

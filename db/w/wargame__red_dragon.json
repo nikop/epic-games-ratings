@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.7,
   "NumberOfRatings": 2918,
-  "DailyRatings": 17.54,
+  "DailyRatings": 16.97,
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
   "LastChanged": "2022-09-23T14:01:03.8816207+00:00",
   "RatingHistory": [
@@ -2187,35 +2187,35 @@
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 416
+      "Count": 421
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 424
+      "Count": 430
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 404
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 413
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Count": 450
-    },
-    {
-      "Text": "This game has Diverse Characters",
       "Count": 414
     },
     {
+      "Text": "This game is Extremely Fun",
+      "Count": 417
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 458
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 421
+    },
+    {
       "Text": "This game is Educational",
-      "Count": 411
+      "Count": 416
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 372
+      "Count": 376
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2223,7 +2223,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 324
+      "Count": 327
     },
     {
       "Text": "This game is Relaxing",
@@ -2231,7 +2231,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 371
+      "Count": 396
     }
   ]
 }

@@ -1,6 +1,5 @@
 # F.I.S.T.: Forged In Shadow Torch
-Rating: 4.60 (572)  
-Ratings Per Day: 3.02  
+Rating: 4.60 (572)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

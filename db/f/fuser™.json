@@ -2,11 +2,11 @@
   "ID": "6af58339c2424644988e0fb83dfd9bd5",
   "Name": "FUSER\u2122",
   "Names": [],
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 86,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2022-09-17T18:30:27.0811146+00:00",
+  "LastChanged": "2022-09-24T13:05:57.7849205+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:53.9357226+00:00",
@@ -152,16 +152,21 @@
       "Time": "2022-09-17T18:30:27.0811147+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 86
+    },
+    {
+      "Time": "2022-09-24T13:05:57.7849209+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
@@ -189,7 +194,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Extremely Fun",

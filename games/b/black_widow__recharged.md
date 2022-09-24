@@ -1,6 +1,5 @@
 # Black Widow: Recharged
-Rating: 4.44 (34)  
-Ratings Per Day: 0.40  
+Rating: 4.44 (34)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

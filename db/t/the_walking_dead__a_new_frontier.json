@@ -2,12 +2,12 @@
   "ID": "begonia",
   "Name": "The Walking Dead: A New Frontier",
   "Names": [],
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 27,
   "DailyRatings": 0,
   "FirstSeen": "2022-07-22T20:18:08.3729258+00:00",
   "FirstSeenRating": "2022-08-09T06:30:26.3767839+00:00",
-  "LastChanged": "2022-09-19T02:30:26.3491057+00:00",
+  "LastChanged": "2022-09-24T13:05:59.7250814+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-09T06:30:26.3767843+00:00",
@@ -48,6 +48,11 @@
       "Time": "2022-09-19T02:30:26.3491063+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-09-24T13:05:59.7250816+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

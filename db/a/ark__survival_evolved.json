@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.62,
   "NumberOfRatings": 35570,
-  "DailyRatings": 53.5,
+  "DailyRatings": 53.37,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
   "LastChanged": "2022-09-23T13:01:12.1941009+00:00",
   "RatingHistory": [
@@ -3512,47 +3512,47 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 24802
+      "Count": 25010
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 9699
+      "Count": 9718
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 9672
+      "Count": 9715
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 9627
+      "Count": 9663
     },
     {
       "Text": "This game is Educational",
-      "Count": 9470
+      "Count": 9496
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 9554
+      "Count": 9591
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 9124
+      "Count": 9144
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 9092
+      "Count": 9144
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 8751
+      "Count": 8764
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 9051
+      "Count": 9071
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 9526
+      "Count": 9562
     }
   ]
 }

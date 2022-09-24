@@ -2,11 +2,11 @@
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
   "Names": [],
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 565,
-  "DailyRatings": 3.42,
+  "DailyRatings": 2.91,
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2022-09-23T12:30:19.6533016+00:00",
+  "LastChanged": "2022-09-24T13:05:51.1992856+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:13.4550296+00:00",
@@ -682,12 +682,17 @@
       "Time": "2022-09-23T12:30:19.6533018+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 565
+    },
+    {
+      "Time": "2022-09-24T13:05:51.1992858+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 323
+      "Count": 328
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -695,15 +700,15 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 97
+      "Count": 100
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 104
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 90
+      "Count": 92
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -715,7 +720,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 88
+      "Count": 92
     },
     {
       "Text": "This game has a Creative Community",
@@ -727,7 +732,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 103
+      "Count": 104
     }
   ]
 }

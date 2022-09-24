@@ -1,6 +1,5 @@
 # Tribes of Midgard
-Rating: 4.57 (120)  
-Ratings Per Day: 0.82  
+Rating: 4.57 (120)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

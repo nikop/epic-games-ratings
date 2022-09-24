@@ -1,6 +1,5 @@
 # Blasphemous
-Rating: 4.90 (205)  
-Ratings Per Day: 1.31  
+Rating: 4.90 (205)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -2,11 +2,11 @@
   "ID": "d759128018124dcabb1fbee9bb28e178",
   "Name": "Surviving Mars",
   "Names": [],
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 3483,
-  "DailyRatings": 26.12,
+  "DailyRatings": 21.4,
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2022-09-23T10:30:54.3500788+00:00",
+  "LastChanged": "2022-09-24T13:06:17.6810652+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.5955068+00:00",
@@ -2052,20 +2052,25 @@
       "Time": "2022-09-23T10:30:54.3500789+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 3483
+    },
+    {
+      "Time": "2022-09-24T13:06:17.6810653+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Educational",
-      "Count": 161
+      "Count": 165
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 171
+      "Count": 174
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 211
+      "Count": 214
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2073,27 +2078,27 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 193
+      "Count": 196
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 178
+      "Count": 180
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 169
+      "Count": 172
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 176
+      "Count": 178
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 93
+      "Count": 95
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 124
+      "Count": 125
     }
   ]
 }

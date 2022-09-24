@@ -2,12 +2,12 @@
   "ID": "301980d060324bb29202677f468c6c44",
   "Name": "The Captain",
   "Names": [],
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 2117,
-  "DailyRatings": 295.3,
+  "DailyRatings": 254.65,
   "FirstSeen": "2022-07-22T20:28:04.1173029+00:00",
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
-  "LastChanged": "2022-09-23T14:32:01.6535164+00:00",
+  "LastChanged": "2022-09-24T13:07:19.8525378+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-16T04:31:51.019228+00:00",
@@ -333,16 +333,33 @@
       "Time": "2022-09-23T14:32:01.6535165+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 2117
+    },
+    {
+      "Time": "2022-09-24T13:07:19.8525379+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 21
+      "Count": 24
     },
     {
       "Text": "This game has Diverse Characters",
       "Count": 24
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 20
     }
   ]
 }

@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.66,
   "NumberOfRatings": 5134,
-  "DailyRatings": 40.42,
+  "DailyRatings": 39.57,
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
   "LastChanged": "2022-09-23T11:32:09.3236958+00:00",
@@ -988,7 +988,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 870
+      "Count": 885
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1004,7 +1004,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Great for Quick Sessions",

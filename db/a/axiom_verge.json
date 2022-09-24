@@ -2,11 +2,11 @@
   "ID": "puffin",
   "Name": "AXIOM VERGE",
   "Names": [],
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 132,
-  "DailyRatings": 0.55,
+  "DailyRatings": 0.29,
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2022-09-21T06:31:30.0370784+00:00",
+  "LastChanged": "2022-09-24T13:07:03.3374792+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:58.5809407+00:00",
@@ -237,6 +237,11 @@
       "Time": "2022-09-21T06:31:30.0370786+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 132
+    },
+    {
+      "Time": "2022-09-24T13:07:03.3374793+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [

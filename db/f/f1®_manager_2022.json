@@ -2,12 +2,12 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "Names": [],
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 810,
-  "DailyRatings": 18.72,
+  "DailyRatings": 15.94,
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2022-09-23T12:30:21.770716+00:00",
+  "LastChanged": "2022-09-24T13:05:53.1892038+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -753,12 +753,17 @@
       "Time": "2022-09-23T12:30:21.7707163+00:00",
       "Rating": 4.56,
       "NumberOfRatings": 810
+    },
+    {
+      "Time": "2022-09-24T13:05:53.1892041+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 44
+      "Count": 54
     },
     {
       "Text": "This game is Great for Beginners",
@@ -766,7 +771,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 49
+      "Count": 54
     },
     {
       "Text": "This game is Relaxing",
@@ -774,27 +779,27 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 44
+      "Count": 51
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 38
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
       "Count": 41
     },
     {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 46
+    },
+    {
       "Text": "This game has Diverse Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 38
+      "Count": 41
     }
   ]
 }

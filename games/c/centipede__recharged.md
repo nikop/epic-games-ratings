@@ -1,6 +1,5 @@
 # Centipede: Recharged
-Rating: 4.37 (76)  
-Ratings Per Day: 0.68  
+Rating: 4.36 (76)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +29,4 @@ Ratings Per Day: 0.68
 | 2022-09-19 | 4.36 | 74 |
 | 2022-09-20 | 4.36 | 75 |
 | 2022-09-22 | 4.37 | 76 |
+| 2022-09-24 | 4.36 | - |

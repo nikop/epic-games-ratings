@@ -678,11 +678,11 @@
   "Tags": [
     {
       "Text": "This game is Educational",
-      "Count": 91
+      "Count": 98
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 95
+      "Count": 104
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -694,11 +694,11 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 99
+      "Count": 103
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 91
+      "Count": 97
     },
     {
       "Text": "This game is Highly Recommended",
@@ -706,7 +706,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 57
+      "Count": 61
     },
     {
       "Text": "This game has Amazing Characters",
@@ -714,7 +714,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 56
+      "Count": 62
     }
   ]
 }

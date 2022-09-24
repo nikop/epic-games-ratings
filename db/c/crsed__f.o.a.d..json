@@ -2,11 +2,11 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "Names": [],
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 464,
-  "DailyRatings": 2.78,
+  "DailyRatings": 1.94,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-09-22T16:30:45.1149309+00:00",
+  "LastChanged": "2022-09-24T13:06:10.5774732+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -657,6 +657,11 @@
       "Time": "2022-09-22T16:30:45.1149311+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 464
+    },
+    {
+      "Time": "2022-09-24T13:06:10.5774734+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -666,7 +671,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Highly Recommended",
@@ -678,7 +683,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -686,7 +691,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -706,7 +711,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Relaxing",

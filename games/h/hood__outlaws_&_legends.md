@@ -1,6 +1,5 @@
 # Hood: Outlaws & Legends
-Rating: 3.98 (12 539)  
-Ratings Per Day: 12.95  
+Rating: 3.98 (12 539)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

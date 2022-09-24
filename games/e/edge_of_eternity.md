@@ -1,6 +1,5 @@
 # Edge Of Eternity
-Rating: 3.73 (22)  
-Ratings Per Day: 0.00  
+Rating: 3.73 (22)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

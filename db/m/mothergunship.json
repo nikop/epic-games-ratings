@@ -2,11 +2,11 @@
   "ID": "7dc02eac2fe347368b5f72a02bb5bc5e",
   "Name": "Mothergunship",
   "Names": [],
-  "Rating": 4.4,
+  "Rating": 4.41,
   "NumberOfRatings": 436,
-  "DailyRatings": 2.84,
+  "DailyRatings": 2.09,
   "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
-  "LastChanged": "2022-09-22T19:02:20.3013981+00:00",
+  "LastChanged": "2022-09-24T13:07:02.9245148+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:55.0410072+00:00",
@@ -432,12 +432,17 @@
       "Time": "2022-09-22T19:02:20.3013983+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 436
+    },
+    {
+      "Time": "2022-09-24T13:07:02.9245149+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 99
+      "Count": 103
     }
   ]
 }

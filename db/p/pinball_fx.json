@@ -2,11 +2,11 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "Names": [],
-  "Rating": 3.97,
+  "Rating": 3.98,
   "NumberOfRatings": 756,
-  "DailyRatings": 4.22,
+  "DailyRatings": 3.5,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-09-23T09:01:05.5840967+00:00",
+  "LastChanged": "2022-09-24T13:05:52.7401423+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -962,12 +962,17 @@
       "Time": "2022-09-23T09:01:05.5840974+00:00",
       "Rating": 3.97,
       "NumberOfRatings": 756
+    },
+    {
+      "Time": "2022-09-24T13:05:52.7401426+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 74
+      "Count": 76
     },
     {
       "Text": "This game is Highly Recommended",
@@ -995,27 +1000,27 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 75
+      "Count": 78
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 67
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 53
+      "Count": 55
     }
   ]
 }

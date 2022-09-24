@@ -2777,35 +2777,35 @@
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
-      "Count": 410
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Count": 436
-    },
-    {
-      "Text": "This game is Highly Recommended",
       "Count": 415
     },
     {
+      "Text": "This game has Competitive Players",
+      "Count": 440
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 419
+    },
+    {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 468
+      "Count": 476
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 387
+      "Count": 394
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 430
+      "Count": 439
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 306
+      "Count": 312
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 351
+      "Count": 353
     }
   ]
 }

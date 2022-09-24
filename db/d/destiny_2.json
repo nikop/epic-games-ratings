@@ -4,7 +4,7 @@
   "Names": [],
   "Rating": 4.49,
   "NumberOfRatings": 32207,
-  "DailyRatings": 328.16,
+  "DailyRatings": 326.3,
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "LastChanged": "2022-09-23T13:31:16.7007273+00:00",
@@ -1733,15 +1733,15 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 18010
+      "Count": 18412
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1336
+      "Count": 1419
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1370
+      "Count": 1442
     },
     {
       "Text": "This game is Relaxing",
@@ -1749,27 +1749,27 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1235
+      "Count": 1325
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1265
+      "Count": 1355
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1257
+      "Count": 1322
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1364
+      "Count": 1428
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 1252
+      "Count": 1421
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 1340
+      "Count": 1433
     }
   ]
 }

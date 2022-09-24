@@ -2,11 +2,11 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "Names": [],
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 1439,
-  "DailyRatings": 4.85,
+  "DailyRatings": 4.02,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2022-09-23T08:31:24.1608021+00:00",
+  "LastChanged": "2022-09-24T13:06:48.2673664+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -1347,16 +1347,21 @@
       "Time": "2022-09-23T08:31:24.1608023+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 1439
+    },
+    {
+      "Time": "2022-09-24T13:06:48.2673666+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 518
+      "Count": 521
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1368,15 +1373,15 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 76
+      "Count": 78
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 75
+      "Count": 77
     },
     {
       "Text": "This game has Easy Combat",
@@ -1388,7 +1393,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Amazing Characters",

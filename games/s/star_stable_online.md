@@ -1,6 +1,5 @@
 # Star Stable Online
-Rating: 4.34 (317)  
-Ratings Per Day: 3.71  
+Rating: 4.34 (317)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

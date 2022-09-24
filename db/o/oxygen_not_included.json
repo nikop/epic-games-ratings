@@ -1082,27 +1082,27 @@
   "Tags": [
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 127
-    },
-    {
-      "Text": "This game is Extremely Fun",
       "Count": 128
     },
     {
+      "Text": "This game is Extremely Fun",
+      "Count": 132
+    },
+    {
       "Text": "This game has Diverse Characters",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 111
+      "Count": 113
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 124
+      "Count": 126
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Relaxing",
@@ -1110,7 +1110,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 117
+      "Count": 119
     },
     {
       "Text": "This game has Amazing Storytelling",

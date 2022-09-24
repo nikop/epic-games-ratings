@@ -1,6 +1,5 @@
 # Ken Follett's The Pillars of the Earth
-Rating: 4.51 (368)  
-Ratings Per Day: 3.59  
+Rating: 4.50 (368)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -64,3 +63,4 @@ Ratings Per Day: 3.59
 | 2022-09-20 | 4.50 | 363 |
 | 2022-09-21 | 4.51 | 366 |
 | 2022-09-22 | 4.51 | 368 |
+| 2022-09-24 | 4.50 | - |

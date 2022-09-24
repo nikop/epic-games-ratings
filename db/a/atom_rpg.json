@@ -2,11 +2,11 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "Names": [],
-  "Rating": 4.31,
+  "Rating": 4.33,
   "NumberOfRatings": 54,
-  "DailyRatings": 0.56,
+  "DailyRatings": 0.4,
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
-  "LastChanged": "2022-09-23T02:01:31.4025593+00:00",
+  "LastChanged": "2022-09-24T13:06:59.1194936+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:27.3928407+00:00",
@@ -132,12 +132,17 @@
       "Time": "2022-09-23T02:01:31.4025594+00:00",
       "Rating": 4.31,
       "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-09-24T13:06:59.1194937+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 20
+      "Count": 21
     }
   ]
 }

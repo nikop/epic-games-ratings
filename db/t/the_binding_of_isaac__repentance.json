@@ -1702,11 +1702,11 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1107
+      "Count": 1114
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1242
+      "Count": 1245
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1722,19 +1722,19 @@
     },
     {
       "Text": "This game has Obsessive Gameplay",
-      "Count": 310
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 300
-    },
-    {
-      "Text": "This game has Amazing Characters",
       "Count": 314
     },
     {
+      "Text": "This game is Extremely Fun",
+      "Count": 308
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 319
+    },
+    {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 293
+      "Count": 297
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1750,7 +1750,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 243
+      "Count": 249
     }
   ]
 }

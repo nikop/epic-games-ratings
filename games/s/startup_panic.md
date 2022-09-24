@@ -1,6 +1,5 @@
 # Startup Panic
-Rating: 4.29 (28)  
-Ratings Per Day: 0.20  
+Rating: 4.29 (28)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
