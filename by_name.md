@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
-| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
@@ -368,7 +368,7 @@
 | 366 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
 | 368 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 369 | [MythForce](games/m/mythforce.md) | 4.54 | 
+| 369 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 370 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 371 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 372 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.19 | 
@@ -377,7 +377,7 @@
 | 375 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 376 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 377 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 378 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 378 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 379 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.60 | 
 | 380 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 381 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 
@@ -385,7 +385,7 @@
 | 383 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 384 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 385 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 386 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 386 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 387 | [Observation](games/o/observation.md) | 4.39 | 
 | 388 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 389 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 

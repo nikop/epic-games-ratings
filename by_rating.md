@@ -391,16 +391,16 @@
 | 389 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 390 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 391 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 392 | [MythForce](games/m/mythforce.md) | 4.54 | 
-| 393 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 394 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 395 | [Minit](games/m/minit.md) | 4.54 | 
-| 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 397 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
-| 398 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
-| 399 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 400 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 401 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 392 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 393 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 394 | [Minit](games/m/minit.md) | 4.54 | 
+| 395 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 396 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 397 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
+| 398 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 399 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 400 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 401 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 402 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 403 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 404 | [Isonzo](games/i/isonzo.md) | 4.53 | 
@@ -507,18 +507,18 @@
 | 505 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 506 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 508 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 510 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 512 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 513 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 514 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 515 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 516 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 517 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
-| 518 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 519 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 509 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 511 | [Aztez](games/a/aztez.md) | 4.43 | 
+| 512 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 513 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 514 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 515 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 516 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
+| 517 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 518 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 519 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
 | 520 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 521 | [Gamedec](games/g/gamedec.md) | 4.42 | 
 | 522 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -614,9 +614,9 @@
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
 | 613 | [Hammerting](games/h/hammerting.md) | 4.29 | 
 | 614 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 615 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 616 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 617 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 615 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 616 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 617 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 618 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 619 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 620 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
@@ -664,11 +664,11 @@
 | 662 | [Pine](games/p/pine.md) | 4.12 | 
 | 663 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 664 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
-| 665 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 666 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 667 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 
-| 668 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
-| 669 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 665 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 666 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 
+| 667 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
+| 668 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 669 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 670 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 671 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 672 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.09 | 
