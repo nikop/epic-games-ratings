@@ -346,20 +346,20 @@
 | 344 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 345 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 346 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 347 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 348 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 349 | [Roguebook](games/r/roguebook.md) | 4.58 | 
-| 350 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 351 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 352 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 353 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
-| 354 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 356 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 357 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 358 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 359 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 360 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 347 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 348 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 349 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 350 | [Roguebook](games/r/roguebook.md) | 4.58 | 
+| 351 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 352 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 353 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 354 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
+| 355 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 356 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 357 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 358 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 359 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 360 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 362 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 363 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.57 | 
@@ -499,15 +499,15 @@
 | 497 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 499 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 500 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.44 | 
-| 501 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 502 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 503 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
-| 505 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 506 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 507 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
-| 508 | [Figment](games/f/figment.md) | 4.43 | 
+| 500 | [Figment](games/f/figment.md) | 4.44 | 
+| 501 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.44 | 
+| 502 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 503 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 506 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 507 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 508 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
 | 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 510 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
@@ -556,15 +556,15 @@
 | 554 | [Observation](games/o/observation.md) | 4.39 | 
 | 555 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 556 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 558 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
-| 559 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 560 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
-| 561 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 
-| 562 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 563 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 564 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
-| 565 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.37 | 
+| 557 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 559 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
+| 560 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 561 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
+| 562 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 
+| 563 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 564 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 565 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 566 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 567 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 568 | [Paladins](games/p/paladins.md) | 4.36 | 

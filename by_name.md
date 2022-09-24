@@ -125,7 +125,7 @@
 | 123 | [CryoFall](games/c/cryofall.md) | 4.39 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
-| 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.37 | 
+| 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
@@ -212,7 +212,7 @@
 | 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 211 | [Fez](games/f/fez.md) | 4.72 | 
 | 212 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 213 | [Figment](games/f/figment.md) | 4.43 | 
+| 213 | [Figment](games/f/figment.md) | 4.44 | 
 | 214 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 215 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 216 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
@@ -616,7 +616,7 @@
 | 614 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 615 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 616 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 617 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 617 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 618 | [Timberborn](games/t/timberborn.md) | 4.68 | 
 | 619 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 620 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
