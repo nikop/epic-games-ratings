@@ -27,7 +27,7 @@
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
-| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.15 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.08 | 
@@ -293,7 +293,7 @@
 | 291 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
-| 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 296 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.87 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.69 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -567,9 +567,9 @@
 | 565 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 566 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 567 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 568 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 568 | [The Captain](games/t/the_captain.md) | 4.41 | 
 | 569 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 570 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.13 | 
+| 570 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 571 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 572 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
 | 573 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
