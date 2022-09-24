@@ -183,7 +183,7 @@
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
-| 184 | [Encased](games/e/encased.md) | 4.35 | 
+| 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
@@ -320,7 +320,7 @@
 | 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 319 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
-| 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
+| 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 322 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 323 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -363,7 +363,7 @@
 | 361 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 362 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 366 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
@@ -376,7 +376,7 @@
 | 374 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
 | 375 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 376 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 377 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 377 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 378 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 379 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.60 | 
 | 380 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
@@ -394,7 +394,7 @@
 | 392 | [Old World](games/o/old_world.md) | 4.63 | 
 | 393 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 394 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 395 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 395 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
 | 396 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 397 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 398 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
@@ -536,7 +536,7 @@
 | 534 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 535 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 536 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 537 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.26 | 
+| 537 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 538 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 539 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 540 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.74 | 
@@ -548,7 +548,7 @@
 | 546 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 547 | [Superliminal](games/s/superliminal.md) | 4.74 | 
 | 548 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 549 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 
+| 549 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
 | 551 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
@@ -637,7 +637,7 @@
 | 635 | [Townscaper](games/t/townscaper.md) | 4.69 | 
 | 636 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 637 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 638 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
+| 638 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 639 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 640 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
 | 641 | [Train Valley](games/t/train_valley.md) | 4.39 | 
