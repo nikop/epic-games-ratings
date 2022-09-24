@@ -81,7 +81,7 @@
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -258,7 +258,7 @@
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
 | 258 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 259 | [Hellpoint](games/h/hellpoint.md) | 4.15 | 
+| 259 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
 | 260 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 261 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 262 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
@@ -414,7 +414,7 @@
 | 412 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 413 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 414 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 415 | [Patron](games/p/patron.md) | 3.95 | 
+| 415 | [Patron](games/p/patron.md) | 3.97 | 
 | 416 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 417 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
 | 418 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
@@ -425,7 +425,7 @@
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 426 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 426 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 427 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 428 | [Prey](games/p/prey.md) | 4.60 | 
 | 429 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -520,7 +520,7 @@
 | 518 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 519 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 520 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
-| 521 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 521 | [Star Stable Online](games/s/star_stable_online.md) | 4.33 | 
 | 522 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 523 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 524 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
@@ -557,7 +557,7 @@
 | 555 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 556 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 557 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
-| 558 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 558 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
 | 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 560 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 561 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
