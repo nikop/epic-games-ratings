@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.24 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.09 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
@@ -111,10 +111,10 @@
 | 109 | [Conarium](games/c/conarium.md) | 3.98 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
 | 111 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 112 | [Core](games/c/core.md) | 4.39 | 
+| 112 | [Core](games/c/core.md) | 4.38 | 
 | 113 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.60 | 
-| 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 
+| 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.68 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -332,7 +332,7 @@
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 331 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 333 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
@@ -648,7 +648,7 @@
 | 646 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 647 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 648 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 649 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.16 | 
+| 649 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.15 | 
 | 650 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 651 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 652 | [TUNIC](games/t/tunic.md) | 4.86 | 
