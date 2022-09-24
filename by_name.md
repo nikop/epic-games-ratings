@@ -9,7 +9,7 @@
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.38 | 
+| 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.41 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
@@ -171,7 +171,7 @@
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 170 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 172 | [DOOM II](games/d/doom_ii.md) | 4.88 | 
+| 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
@@ -342,7 +342,7 @@
 | 340 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 341 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 342 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 343 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 343 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 344 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 345 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -492,7 +492,7 @@
 | 490 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 491 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
 | 492 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 493 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 493 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 

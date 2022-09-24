@@ -15,20 +15,20 @@
 | 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 15 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 16 | [DOOM II](games/d/doom_ii.md) | 4.88 | 
-| 17 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.88 | 
-| 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 19 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 20 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 21 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 23 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 25 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
-| 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 28 | [Grindstone](games/g/grindstone.md) | 4.86 | 
-| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 16 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.88 | 
+| 17 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 19 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 22 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 24 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
+| 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 27 | [Grindstone](games/g/grindstone.md) | 4.86 | 
+| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 29 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
@@ -113,17 +113,17 @@
 | 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 112 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
 | 113 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 114 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 118 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 119 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.74 | 
-| 120 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 121 | [Superliminal](games/s/superliminal.md) | 4.74 | 
-| 122 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
-| 123 | [Revita](games/r/revita.md) | 4.74 | 
-| 124 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 114 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
+| 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 116 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 117 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 118 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 120 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.74 | 
+| 121 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 122 | [Superliminal](games/s/superliminal.md) | 4.74 | 
+| 123 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
+| 124 | [Revita](games/r/revita.md) | 4.74 | 
 | 125 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 126 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 127 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
@@ -533,33 +533,33 @@
 | 531 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 532 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
 | 533 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
-| 534 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 535 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 
-| 536 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
-| 537 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 538 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 539 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.40 | 
-| 540 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 541 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 542 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 543 | [Core](games/c/core.md) | 4.39 | 
-| 544 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
-| 545 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 546 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 547 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 548 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 
-| 549 | [CryoFall](games/c/cryofall.md) | 4.39 | 
-| 550 | [Far Cry](games/f/far_cry.md) | 4.39 | 
-| 551 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 553 | [Observation](games/o/observation.md) | 4.39 | 
-| 554 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 555 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 556 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 557 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
-| 558 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 559 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
-| 560 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.38 | 
+| 534 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.41 | 
+| 535 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 536 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 
+| 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
+| 538 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 539 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 540 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.40 | 
+| 541 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 542 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 543 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 544 | [Core](games/c/core.md) | 4.39 | 
+| 545 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
+| 546 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 548 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
+| 549 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 
+| 550 | [CryoFall](games/c/cryofall.md) | 4.39 | 
+| 551 | [Far Cry](games/f/far_cry.md) | 4.39 | 
+| 552 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
+| 553 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 554 | [Observation](games/o/observation.md) | 4.39 | 
+| 555 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 556 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 558 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
+| 559 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 560 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 561 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 
 | 562 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 563 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
@@ -670,14 +670,14 @@
 | 668 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 669 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 670 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 671 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.09 | 
-| 672 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
-| 673 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 674 | [Gone Home](games/g/gone_home.md) | 4.09 | 
-| 675 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 676 | [Godfall](games/g/godfall.md) | 4.08 | 
-| 677 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 678 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 671 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
+| 672 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.09 | 
+| 673 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
+| 674 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 675 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 676 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 677 | [Godfall](games/g/godfall.md) | 4.08 | 
+| 678 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 679 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 680 | [Lake](games/l/lake.md) | 4.05 | 
 | 681 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 

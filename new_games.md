@@ -19,7 +19,7 @@
 | 17 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
 | 18 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.23 | 
 | 19 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 20 | [DOOM II](games/d/doom_ii.md) | 4.88 | 
+| 20 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 21 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 22 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 23 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
