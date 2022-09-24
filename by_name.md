@@ -108,7 +108,7 @@
 | 106 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 109 | [Conarium](games/c/conarium.md) | 3.98 | 
+| 109 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
 | 111 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 112 | [Core](games/c/core.md) | 4.38 | 
@@ -144,7 +144,7 @@
 | 142 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 145 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 145 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 146 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 147 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 148 | [Death's Door](games/d/death's_door.md) | 4.63 | 
@@ -165,7 +165,7 @@
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.70 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
@@ -332,7 +332,7 @@
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 331 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 333 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
@@ -489,7 +489,7 @@
 | 487 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 488 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 489 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 490 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 490 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.41 | 
 | 491 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
 | 492 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 493 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
@@ -553,7 +553,7 @@
 | 551 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 553 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 554 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.62 | 
+| 554 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 555 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 556 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 557 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
