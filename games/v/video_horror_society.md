@@ -1,6 +1,6 @@
 # Video Horror Society
 Rating: 4.27 (559)  
-Ratings Per Day: 2.78  
+Ratings Per Day: 2.68  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
