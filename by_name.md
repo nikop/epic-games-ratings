@@ -247,7 +247,7 @@
 | 245 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 
 | 246 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 247 | [GRIME](games/g/grime.md) | 4.59 | 
-| 248 | [Grindstone](games/g/grindstone.md) | 4.86 | 
+| 248 | [Grindstone](games/g/grindstone.md) | 4.84 | 
 | 249 | [Hades](games/h/hades.md) | 4.92 | 
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
@@ -539,7 +539,7 @@
 | 537 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 538 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 539 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 540 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.74 | 
+| 540 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
 | 541 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 542 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 543 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.66 | 
@@ -699,7 +699,7 @@
 | 697 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 698 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 699 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 700 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 700 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
 | 701 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 702 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 703 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 

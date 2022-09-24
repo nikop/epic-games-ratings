@@ -1,10 +1,10 @@
 {
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
-  "Rating": 4.86,
+  "Rating": 4.84,
   "NumberOfRatings": 63,
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
-  "LastChanged": "2022-09-17T20:32:03.3525491+00:00",
+  "LastChanged": "2022-09-24T22:02:09.2533027+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:27.1113518+00:00",
@@ -140,6 +140,11 @@
       "Time": "2022-09-17T20:32:03.3525492+00:00",
       "Rating": 4.86,
       "NumberOfRatings": 63
+    },
+    {
+      "Time": "2022-09-24T22:02:09.2533029+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []
