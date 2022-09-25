@@ -11,7 +11,7 @@
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.41 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
-| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
-| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
+| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
@@ -448,7 +448,7 @@
 | 446 | [Revita](games/r/revita.md) | 4.74 | 
 | 447 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 448 | [RiME](games/r/rime.md) | 4.64 | 
-| 449 | [RiMS Racing](games/r/rims_racing.md) | 4.35 | 
+| 449 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
 | 450 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 451 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 452 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -478,7 +478,7 @@
 | 476 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 477 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 478 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
-| 479 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 
+| 479 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 480 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
 | 481 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 482 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
@@ -637,7 +637,7 @@
 | 635 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 636 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 637 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 638 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
+| 638 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 639 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 640 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 641 | [Train Valley](games/t/train_valley.md) | 4.39 | 
@@ -651,7 +651,7 @@
 | 649 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
 | 650 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 651 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 652 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 652 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 653 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 654 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 655 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
