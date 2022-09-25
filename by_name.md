@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -92,7 +92,7 @@
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 91 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 93 | [CARRION](games/c/carrion.md) | 4.65 | 
+| 93 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 95 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -118,7 +118,7 @@
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.68 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.40 | 
+| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.38 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
@@ -206,7 +206,7 @@
 | 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
 | 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 206 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
-| 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 209 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -621,7 +621,7 @@
 | 619 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 620 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 621 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
-| 622 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 622 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 623 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 624 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 625 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 

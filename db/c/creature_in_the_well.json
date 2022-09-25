@@ -1,10 +1,10 @@
 {
   "ID": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
   "Name": "Creature in the Well",
-  "Rating": 4.4,
+  "Rating": 4.38,
   "NumberOfRatings": 113,
   "FirstSeen": "2022-07-22T20:16:44.5779838+00:00",
-  "LastChanged": "2022-09-22T22:01:00.63207+00:00",
+  "LastChanged": "2022-09-25T22:00:27.1461351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:44.577984+00:00",
@@ -235,6 +235,11 @@
       "Time": "2022-09-22T22:01:00.6320701+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 113
+    },
+    {
+      "Time": "2022-09-25T22:00:27.1461352+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []
