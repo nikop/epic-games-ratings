@@ -50,12 +50,12 @@
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 
-| 51 | [Automachef](games/a/automachef.md) | 4.31 | 
+| 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.66 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.93 | 
@@ -77,11 +77,11 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.89 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.73 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -224,7 +224,7 @@
 | 222 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 223 | [FUSER™](games/f/fuser™.md) | 4.74 | 
 | 224 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 
-| 225 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 225 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 226 | [Gamedec](games/g/gamedec.md) | 4.42 | 
 | 227 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
 | 228 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
@@ -644,7 +644,7 @@
 | 642 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 643 | [Transistor](games/t/transistor.md) | 4.66 | 
 | 644 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 645 | [Travellers Rest](games/t/travellers_rest.md) | 4.61 | 
+| 645 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 646 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 647 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 648 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 

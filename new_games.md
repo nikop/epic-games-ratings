@@ -3,7 +3,7 @@
 | 1 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 2 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
 | 3 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
-| 4 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
+| 4 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.73 | 
 | 5 | [Isonzo](games/i/isonzo.md) | 4.54 | 
 | 6 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 7 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
@@ -12,7 +12,7 @@
 | 10 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.00 | 
 | 11 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 12 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 13 | [Travellers Rest](games/t/travellers_rest.md) | 4.61 | 
+| 13 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 14 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 15 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 16 | [Saints Row](games/s/saints_row.md) | 3.77 | 
