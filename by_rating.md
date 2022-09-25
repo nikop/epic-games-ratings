@@ -72,23 +72,23 @@
 | 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 71 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 72 | [Journey](games/j/journey.md) | 4.80 | 
-| 73 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 74 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 75 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 76 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 77 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 
-| 79 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 80 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 81 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 82 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 83 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 84 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.79 | 
-| 85 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 86 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
-| 87 | [Quake](games/q/quake.md) | 4.79 | 
-| 88 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
-| 89 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
+| 73 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
+| 74 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 75 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 77 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 
+| 80 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 81 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 82 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 83 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 84 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 85 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.79 | 
+| 86 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 87 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
+| 88 | [Quake](games/q/quake.md) | 4.79 | 
+| 89 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 90 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 91 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 92 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -138,25 +138,25 @@
 | 136 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
 | 137 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.73 | 
 | 138 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 141 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 142 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
-| 143 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 144 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 146 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 147 | [Fez](games/f/fez.md) | 4.72 | 
-| 148 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 149 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 150 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
-| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 153 | [SOMA](games/s/soma.md) | 4.71 | 
-| 154 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 155 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 157 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
+| 139 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
+| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 141 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 142 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 143 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
+| 144 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 145 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 146 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 147 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 148 | [Fez](games/f/fez.md) | 4.72 | 
+| 149 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 150 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 151 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
+| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 154 | [SOMA](games/s/soma.md) | 4.71 | 
+| 155 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 156 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 157 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 158 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 160 | [INSIDE](games/i/inside.md) | 4.70 | 
@@ -514,15 +514,15 @@
 | 512 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 513 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 514 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 515 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 516 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 517 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
-| 518 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 519 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
-| 520 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 521 | [Gamedec](games/g/gamedec.md) | 4.42 | 
-| 522 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 523 | [The Captain](games/t/the_captain.md) | 4.41 | 
+| 515 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 516 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 517 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 518 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
+| 519 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 520 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
+| 521 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 522 | [Gamedec](games/g/gamedec.md) | 4.42 | 
+| 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 524 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 525 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 526 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.41 | 

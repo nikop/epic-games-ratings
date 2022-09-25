@@ -115,7 +115,7 @@
 | 113 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.60 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
+| 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.68 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.40 | 
@@ -556,7 +556,7 @@
 | 554 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 555 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 556 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 557 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
+| 557 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 558 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
 | 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 560 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
@@ -567,7 +567,7 @@
 | 565 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 566 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 567 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 568 | [The Captain](games/t/the_captain.md) | 4.41 | 
+| 568 | [The Captain](games/t/the_captain.md) | 4.42 | 
 | 569 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 570 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 571 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
