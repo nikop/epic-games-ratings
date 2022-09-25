@@ -208,18 +208,18 @@
 | 206 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 207 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 208 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 209 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 210 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 211 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 212 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 214 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 215 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 216 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 217 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 218 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
-| 219 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 220 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
+| 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 
+| 210 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 213 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 215 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 216 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 217 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 218 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 219 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
+| 220 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 221 | [Bad North](games/b/bad_north.md) | 4.66 | 
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 223 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -272,26 +272,26 @@
 | 270 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 273 | [20XX](games/2/20xx.md) | 4.62 | 
-| 274 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 276 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
-| 277 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 278 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
-| 279 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 280 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 281 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 282 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 283 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 284 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 285 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 286 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 287 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
-| 288 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 289 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
-| 290 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
-| 291 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 292 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
+| 273 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 275 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
+| 276 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 277 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
+| 278 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 279 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 280 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 281 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 282 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 283 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 284 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 285 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 286 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 287 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 288 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
+| 289 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
+| 290 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
+| 291 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
+| 292 | [20XX](games/2/20xx.md) | 4.61 | 
 | 293 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 294 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 295 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
@@ -495,15 +495,15 @@
 | 493 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
 | 494 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 495 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 496 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 497 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
-| 498 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
-| 499 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 500 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 501 | [Figment](games/f/figment.md) | 4.44 | 
-| 502 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 503 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 496 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 497 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
+| 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 499 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 500 | [Figment](games/f/figment.md) | 4.44 | 
+| 501 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 502 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 503 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 505 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 506 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
@@ -673,11 +673,11 @@
 | 671 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 672 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 673 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 674 | [Gone Home](games/g/gone_home.md) | 4.09 | 
-| 675 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 676 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 677 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 678 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 
+| 674 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 675 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 676 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 677 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 
+| 678 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 679 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 681 | [Lake](games/l/lake.md) | 4.05 | 

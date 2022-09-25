@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [20XX](games/2/20xx.md) | 4.62 | 
+| 1 | [20XX](games/2/20xx.md) | 4.61 | 
 | 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
@@ -173,7 +173,7 @@
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
+| 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 177 | [Eastward](games/e/eastward.md) | 4.64 | 
@@ -240,7 +240,7 @@
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 239 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.86 | 
 | 240 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
-| 241 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 241 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 242 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 243 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
 | 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
@@ -425,7 +425,7 @@
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 426 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 426 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 427 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 428 | [Prey](games/p/prey.md) | 4.60 | 
 | 429 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
