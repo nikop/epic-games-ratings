@@ -27,7 +27,7 @@
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
-| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
@@ -166,7 +166,7 @@
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.70 | 
+| 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 170 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
@@ -186,7 +186,7 @@
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 187 | [EVE Online](games/e/eve_online.md) | 4.30 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 

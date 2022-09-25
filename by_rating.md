@@ -44,13 +44,13 @@
 | 42 | [Haven](games/h/haven.md) | 4.84 | 
 | 43 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
-| 45 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 46 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 48 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
-| 49 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.83 | 
-| 50 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 46 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 47 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
+| 48 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.83 | 
+| 49 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
+| 50 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 54 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -164,30 +164,30 @@
 | 162 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
 | 163 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 164 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
-| 165 | [Divine Knockout](games/d/divine_knockout.md) | 4.70 | 
-| 166 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 167 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
-| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 169 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 171 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 172 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 173 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 174 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 175 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 176 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
-| 177 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 178 | [Barony](games/b/barony.md) | 4.69 | 
-| 179 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 180 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 182 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 183 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 184 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 185 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 186 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 187 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 165 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 166 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
+| 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 168 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 170 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 171 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 172 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 173 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 174 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 175 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 176 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 177 | [Barony](games/b/barony.md) | 4.69 | 
+| 178 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 179 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 181 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 182 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 183 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 184 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 185 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 186 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 187 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 188 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 189 | [Slipways](games/s/slipways.md) | 4.69 | 
 | 190 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 191 | [Trackmania](games/t/trackmania.md) | 4.68 | 
@@ -605,9 +605,9 @@
 | 603 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 607 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 608 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
+| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 609 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 610 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 611 | [Ashen](games/a/ashen.md) | 4.29 | 
