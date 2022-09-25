@@ -186,21 +186,21 @@
 | 184 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 185 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 186 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 187 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 188 | [Slipways](games/s/slipways.md) | 4.69 | 
-| 189 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 190 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 191 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 195 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 196 | [Timberborn](games/t/timberborn.md) | 4.68 | 
-| 197 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 199 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 200 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 201 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 187 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 188 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 189 | [Slipways](games/s/slipways.md) | 4.69 | 
+| 190 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 191 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 192 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 193 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 195 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 196 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 197 | [Timberborn](games/t/timberborn.md) | 4.68 | 
+| 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 200 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 201 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 202 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
 | 203 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 204 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
@@ -557,28 +557,28 @@
 | 555 | [Core](games/c/core.md) | 4.38 | 
 | 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.38 | 
 | 557 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 559 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
-| 560 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 561 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
-| 562 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 
-| 563 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 564 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 565 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 558 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 560 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
+| 561 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 562 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
+| 563 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 
+| 564 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 565 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 566 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
 | 567 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 568 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 569 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 570 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 571 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 572 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 573 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 574 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 575 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 576 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 577 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 578 | [House Party](games/h/house_party.md) | 4.35 | 
-| 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 572 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 573 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 574 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 575 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
+| 576 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 577 | [House Party](games/h/house_party.md) | 4.35 | 
+| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 579 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 580 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 581 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 582 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
