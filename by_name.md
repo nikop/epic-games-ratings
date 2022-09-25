@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.09 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.10 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -332,7 +332,7 @@
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 331 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 333 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
@@ -555,7 +555,7 @@
 | 553 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
 | 554 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 555 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 556 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 556 | [Tacoma](games/t/tacoma.md) | 4.34 | 
 | 557 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 558 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
 | 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
