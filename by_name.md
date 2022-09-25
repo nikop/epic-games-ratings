@@ -55,7 +55,7 @@
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.66 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.93 | 
@@ -244,7 +244,7 @@
 | 242 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 243 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
 | 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 245 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 
+| 245 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
 | 246 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 247 | [GRIME](games/g/grime.md) | 4.59 | 
 | 248 | [Grindstone](games/g/grindstone.md) | 4.84 | 
@@ -371,7 +371,7 @@
 | 369 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 370 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 371 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 372 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.19 | 
+| 372 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 373 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 374 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
 | 375 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 

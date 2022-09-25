@@ -470,15 +470,15 @@
 | 468 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 469 | [Warpips](games/w/warpips.md) | 4.48 | 
 | 470 | [SMITE](games/s/smite.md) | 4.47 | 
-| 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 472 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 474 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
-| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 476 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
-| 477 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 478 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 479 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 473 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 474 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 475 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
+| 476 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 477 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
+| 478 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 479 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 480 | [Faeria](games/f/faeria.md) | 4.46 | 
 | 481 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 482 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
@@ -648,18 +648,18 @@
 | 646 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 647 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
-| 649 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.19 | 
-| 650 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 651 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 652 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 653 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
-| 654 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 649 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 650 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 651 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 652 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
+| 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 654 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
 | 655 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 656 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 657 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.15 | 
-| 658 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 659 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 660 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 
+| 657 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
+| 658 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.15 | 
+| 659 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 660 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 661 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 662 | [Pine](games/p/pine.md) | 4.12 | 
 | 663 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
