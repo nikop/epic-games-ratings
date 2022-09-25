@@ -140,18 +140,18 @@
 | 138 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 141 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
-| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 143 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 145 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 146 | [Fez](games/f/fez.md) | 4.72 | 
-| 147 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 148 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 149 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
-| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 152 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 141 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 142 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
+| 143 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 144 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 146 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 147 | [Fez](games/f/fez.md) | 4.72 | 
+| 148 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 149 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 150 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
+| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 153 | [SOMA](games/s/soma.md) | 4.71 | 
 | 154 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 155 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -308,20 +308,20 @@
 | 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 307 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 308 | [Hob](games/h/hob.md) | 4.60 | 
-| 309 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 310 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
-| 311 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 312 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 313 | [Costume Quest](games/c/costume_quest.md) | 4.60 | 
-| 314 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 315 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
-| 316 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 317 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 318 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 319 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 320 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 321 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 322 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 309 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 310 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 311 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 312 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 313 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 314 | [Costume Quest](games/c/costume_quest.md) | 4.60 | 
+| 315 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 316 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
+| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 322 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 323 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 

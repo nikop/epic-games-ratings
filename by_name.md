@@ -175,7 +175,7 @@
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 177 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 178 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -541,7 +541,7 @@
 | 539 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 540 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
 | 541 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 542 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 542 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 543 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.66 | 
 | 544 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.83 | 
 | 545 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
