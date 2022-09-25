@@ -152,7 +152,7 @@
 | 150 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 153 | [Democracy 4](games/d/democracy_4.md) | 4.48 | 
+| 153 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
 | 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 155 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 156 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
@@ -206,7 +206,7 @@
 | 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
 | 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 206 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
-| 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 209 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -361,7 +361,7 @@
 | 359 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 360 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 361 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 362 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 362 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -483,7 +483,7 @@
 | 481 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 482 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 483 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
-| 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
 | 485 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 486 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 487 | [Sheltered](games/s/sheltered.md) | 4.41 | 
@@ -680,7 +680,7 @@
 | 678 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 679 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 680 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 681 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 681 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
 | 682 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 683 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 684 | [Weird West](games/w/weird_west.md) | 4.41 | 
