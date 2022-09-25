@@ -253,7 +253,7 @@
 | 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 254 | [Haven](games/h/haven.md) | 4.84 | 
+| 254 | [Haven](games/h/haven.md) | 4.77 | 
 | 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
@@ -389,7 +389,7 @@
 | 387 | [Observation](games/o/observation.md) | 4.39 | 
 | 388 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 389 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
-| 390 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 390 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 391 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 392 | [Old World](games/o/old_world.md) | 4.63 | 
 | 393 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -484,7 +484,7 @@
 | 482 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 483 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
 | 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 485 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 485 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 486 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 487 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 488 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
@@ -659,7 +659,7 @@
 | 657 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 658 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 659 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 660 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 660 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 661 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 662 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 663 | [VALORANT](games/v/valorant.md) | 4.55 | 
