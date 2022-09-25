@@ -447,7 +447,7 @@
 | 445 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 446 | [Revita](games/r/revita.md) | 4.74 | 
 | 447 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 448 | [RiME](games/r/rime.md) | 4.66 | 
+| 448 | [RiME](games/r/rime.md) | 4.64 | 
 | 449 | [RiMS Racing](games/r/rims_racing.md) | 4.35 | 
 | 450 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 451 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
@@ -551,7 +551,7 @@
 | 549 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
 | 551 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 553 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
 | 554 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 555 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
@@ -679,7 +679,7 @@
 | 677 | [Warpips](games/w/warpips.md) | 4.48 | 
 | 678 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 679 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 680 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 680 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 681 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
 | 682 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 683 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 

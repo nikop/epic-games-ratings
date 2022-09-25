@@ -225,28 +225,28 @@
 | 223 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 224 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.66 | 
 | 225 | [Transistor](games/t/transistor.md) | 4.66 | 
-| 226 | [RiME](games/r/rime.md) | 4.66 | 
-| 227 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 228 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 229 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 230 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 231 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 232 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 233 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 234 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 236 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 237 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 238 | [The Pathless](games/t/the_pathless.md) | 4.65 | 
-| 239 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
-| 240 | [CARRION](games/c/carrion.md) | 4.65 | 
-| 241 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
-| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 243 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 244 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 245 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 246 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 247 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 226 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 227 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 228 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 229 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 230 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 231 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 232 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 233 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 234 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 235 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 236 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
+| 237 | [The Pathless](games/t/the_pathless.md) | 4.65 | 
+| 238 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
+| 239 | [CARRION](games/c/carrion.md) | 4.65 | 
+| 240 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
+| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 242 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 243 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 244 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 245 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 246 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 247 | [RiME](games/r/rime.md) | 4.64 | 
 | 248 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 249 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 250 | [Eastward](games/e/eastward.md) | 4.64 | 
@@ -471,14 +471,14 @@
 | 469 | [Warpips](games/w/warpips.md) | 4.48 | 
 | 470 | [SMITE](games/s/smite.md) | 4.47 | 
 | 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 473 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
-| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 475 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
-| 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 477 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 478 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 479 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 472 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 474 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
+| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 476 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
+| 477 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 478 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 479 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 480 | [Faeria](games/f/faeria.md) | 4.46 | 
 | 481 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 482 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
@@ -567,14 +567,14 @@
 | 565 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 566 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 567 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 568 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 569 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 570 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 571 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 572 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 573 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
-| 574 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 575 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 568 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 569 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 570 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 571 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 572 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
+| 573 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 574 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 575 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 576 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 577 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 578 | [House Party](games/h/house_party.md) | 4.35 | 
