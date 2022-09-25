@@ -11,10 +11,10 @@
 | 9 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 11 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 12 | [Black Book](games/b/black_book.md) | 4.89 | 
-| 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 15 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 12 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 13 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 14 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 15 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 16 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -141,17 +141,17 @@
 | 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 140 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 142 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 144 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 145 | [Fez](games/f/fez.md) | 4.72 | 
-| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 147 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 148 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
-| 149 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 151 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
-| 152 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 142 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 143 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 144 | [Fez](games/f/fez.md) | 4.72 | 
+| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 146 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
+| 148 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 149 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 150 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
+| 151 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 152 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 153 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 154 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
@@ -620,22 +620,22 @@
 | 618 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 619 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 620 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
-| 621 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 622 | [Steelrising](games/s/steelrising.md) | 4.25 | 
-| 623 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
-| 624 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
-| 625 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.24 | 
-| 626 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 627 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 628 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
-| 630 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.23 | 
+| 621 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 622 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 623 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 624 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
+| 625 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.24 | 
+| 627 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 628 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 629 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 630 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 631 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 632 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 633 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
-| 634 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 
-| 635 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 636 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 634 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 635 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 636 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 637 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
 | 638 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 639 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
@@ -682,9 +682,9 @@
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 681 | [Lake](games/l/lake.md) | 4.05 | 
 | 682 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
-| 683 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 684 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 685 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
+| 683 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
+| 684 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 685 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 686 | [The World Next Door](games/t/the_world_next_door.md) | 4.03 | 
 | 687 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
 | 688 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 

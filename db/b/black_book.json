@@ -1,10 +1,10 @@
 {
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
-  "Rating": 4.89,
+  "Rating": 4.88,
   "NumberOfRatings": 96,
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
-  "LastChanged": "2022-09-23T07:30:44.4267624+00:00",
+  "LastChanged": "2022-09-25T20:30:51.7770058+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:55.4349566+00:00",
@@ -180,6 +180,11 @@
       "Time": "2022-09-23T07:30:44.4267627+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 96
+    },
+    {
+      "Time": "2022-09-25T20:30:51.777006+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

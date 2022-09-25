@@ -62,7 +62,7 @@
 | 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
 | 61 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
-| 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.23 | 
+| 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -74,7 +74,7 @@
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 75 | [Black Book](games/b/black_book.md) | 4.89 | 
+| 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.65 | 
@@ -106,7 +106,7 @@
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 106 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
+| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
@@ -223,7 +223,7 @@
 | 221 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 222 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 223 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 224 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 
+| 224 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 225 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 226 | [Gamedec](games/g/gamedec.md) | 4.42 | 
 | 227 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
@@ -419,7 +419,7 @@
 | 417 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
 | 418 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 419 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 420 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 420 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 421 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 422 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
