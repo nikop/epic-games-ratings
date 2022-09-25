@@ -327,27 +327,27 @@
 | 325 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 326 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 327 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 328 | [GRIME](games/g/grime.md) | 4.59 | 
-| 329 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 330 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.59 | 
-| 331 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 332 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 333 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 334 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
-| 335 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 336 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 337 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 338 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 339 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 340 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 341 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 342 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 343 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 344 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 345 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 346 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 347 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.58 | 
-| 348 | [Roguebook](games/r/roguebook.md) | 4.58 | 
+| 328 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 329 | [GRIME](games/g/grime.md) | 4.59 | 
+| 330 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 331 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.59 | 
+| 332 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 333 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 334 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 335 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
+| 336 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 337 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 338 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 339 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 340 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 341 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 342 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 343 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 344 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 345 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 346 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 347 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 348 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.58 | 
 | 349 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 350 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 351 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
