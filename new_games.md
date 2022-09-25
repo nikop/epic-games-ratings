@@ -4,7 +4,7 @@
 | 2 | [Gloomhaven](games/g/gloomhaven.md) | 4.08 | 
 | 3 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 4 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.65 | 
-| 5 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 5 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 6 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 7 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 8 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
@@ -16,7 +16,7 @@
 | 14 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 15 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 16 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 17 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
+| 17 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
 | 18 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
 | 19 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 20 | [DOOM II](games/d/doom_ii.md) | 4.86 | 

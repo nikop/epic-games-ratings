@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.23 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -120,7 +120,7 @@
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.40 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
+| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 123 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
@@ -376,7 +376,7 @@
 | 374 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
 | 375 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 376 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 377 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 377 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 378 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 379 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 380 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
@@ -423,7 +423,7 @@
 | 421 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 422 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
-| 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 426 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 427 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
@@ -489,7 +489,7 @@
 | 487 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 488 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 489 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 490 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.41 | 
+| 490 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 491 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.50 | 
 | 492 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 493 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -543,7 +543,7 @@
 | 541 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 542 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 543 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.66 | 
-| 544 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.83 | 
+| 544 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 545 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 546 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 547 | [Superliminal](games/s/superliminal.md) | 4.74 | 
@@ -680,7 +680,7 @@
 | 678 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 679 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 680 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 681 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
+| 681 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
 | 682 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 683 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 684 | [Weird West](games/w/weird_west.md) | 4.41 | 

@@ -1,11 +1,11 @@
 {
   "ID": "moose",
   "Name": "Super Meat Boy Forever",
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 24,
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
-  "LastChanged": "2022-09-15T15:01:52.9445478+00:00",
+  "LastChanged": "2022-09-25T16:31:19.3837814+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T12:31:23.1316512+00:00",
@@ -31,6 +31,11 @@
       "Time": "2022-09-15T15:01:52.9445479+00:00",
       "Rating": 4.83,
       "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-09-25T16:31:19.3837816+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []
