@@ -10,7 +10,7 @@
 | 8 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 9 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 10 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.00 | 
-| 11 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 11 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 12 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 13 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 14 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 

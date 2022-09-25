@@ -158,12 +158,12 @@
 | 156 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
 | 157 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 158 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 160 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 161 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
@@ -180,7 +180,7 @@
 | 178 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 180 | [ELEX](games/e/elex.md) | 4.33 | 
-| 181 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 181 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
 | 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
@@ -576,7 +576,7 @@
 | 574 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.82 | 
 | 575 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 576 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 577 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.79 | 
+| 577 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
 | 578 | [The Fall](games/t/the_fall.md) | 4.20 | 
 | 579 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 580 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
