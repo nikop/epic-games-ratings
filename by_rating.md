@@ -112,21 +112,21 @@
 | 110 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 111 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 112 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 113 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 114 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 115 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 116 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 113 | [Superliminal](games/s/superliminal.md) | 4.75 | 
+| 114 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
+| 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 118 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 119 | [FUSER™](games/f/fuser™.md) | 4.74 | 
 | 120 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 121 | [Superliminal](games/s/superliminal.md) | 4.74 | 
-| 122 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
-| 123 | [Revita](games/r/revita.md) | 4.74 | 
-| 124 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 125 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 126 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 127 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 121 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
+| 122 | [Revita](games/r/revita.md) | 4.74 | 
+| 123 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 124 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 125 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 126 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 128 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 129 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 130 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
@@ -173,24 +173,24 @@
 | 171 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 172 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 173 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 174 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 175 | [Barony](games/b/barony.md) | 4.69 | 
-| 176 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 177 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 178 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 179 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 180 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 181 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 182 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 183 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 184 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 185 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 187 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 188 | [Slipways](games/s/slipways.md) | 4.69 | 
-| 189 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 190 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 191 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 174 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 175 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 176 | [Barony](games/b/barony.md) | 4.69 | 
+| 177 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 178 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 180 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 181 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 182 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 183 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 184 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 185 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 186 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 187 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 188 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 189 | [Slipways](games/s/slipways.md) | 4.69 | 
+| 190 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 191 | [Trackmania](games/t/trackmania.md) | 4.68 | 
 | 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
@@ -314,24 +314,24 @@
 | 312 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
 | 313 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 315 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 316 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
-| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 322 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 323 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
-| 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 325 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 327 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 328 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 329 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
-| 330 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 331 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 332 | [GRIME](games/g/grime.md) | 4.59 | 
+| 315 | [GRIME](games/g/grime.md) | 4.60 | 
+| 316 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 317 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
+| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 323 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 324 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 325 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 326 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
+| 327 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 328 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 329 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 330 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
+| 331 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 332 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 333 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 334 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 335 | [Among Us](games/a/among_us.md) | 4.58 | 

@@ -165,7 +165,7 @@
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -246,7 +246,7 @@
 | 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 245 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
 | 246 | [Griftlands](games/g/griftlands.md) | 4.82 | 
-| 247 | [GRIME](games/g/grime.md) | 4.59 | 
+| 247 | [GRIME](games/g/grime.md) | 4.60 | 
 | 248 | [Grindstone](games/g/grindstone.md) | 4.84 | 
 | 249 | [Hades](games/h/hades.md) | 4.92 | 
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
@@ -332,7 +332,7 @@
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 331 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 333 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
@@ -546,7 +546,7 @@
 | 544 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 545 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 546 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 547 | [Superliminal](games/s/superliminal.md) | 4.74 | 
+| 547 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 548 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 549 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 

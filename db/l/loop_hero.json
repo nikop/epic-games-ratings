@@ -1,10 +1,10 @@
 {
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 6301,
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2022-09-25T08:32:29.5269976+00:00",
+  "LastChanged": "2022-09-25T17:02:23.2531249+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:49.2794884+00:00",
@@ -2414,6 +2414,11 @@
     {
       "Time": "2022-09-25T08:32:29.5269978+00:00",
       "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-25T17:02:23.2531251+00:00",
+      "Rating": 4.69,
       "NumberOfRatings": null
     }
   ],
