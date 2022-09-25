@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.89 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.73 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.65 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
@@ -88,7 +88,7 @@
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.00 | 
+| 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 91 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
@@ -236,7 +236,7 @@
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.08 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 237 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 239 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.86 | 
 | 240 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
