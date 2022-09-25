@@ -1,10 +1,10 @@
 {
   "ID": "72eb87039aa74e82a4b873c276de61e3",
   "Name": "KID A MNESIA EXHIBITION",
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 41,
   "FirstSeen": "2022-07-22T20:30:23.6056304+00:00",
-  "LastChanged": "2022-09-23T08:32:17.0955912+00:00",
+  "LastChanged": "2022-09-25T08:32:19.0666508+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-26T06:02:34.9152279+00:00",
@@ -95,6 +95,11 @@
       "Time": "2022-09-23T08:32:17.0955914+00:00",
       "Rating": 4.73,
       "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-09-25T08:32:19.0666511+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

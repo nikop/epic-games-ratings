@@ -143,7 +143,7 @@
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
-| 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 145 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 146 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 147 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
@@ -301,7 +301,7 @@
 | 299 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 301 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 302 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.73 | 
+| 302 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
 | 303 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 
 | 304 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 305 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
@@ -332,7 +332,7 @@
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 331 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 333 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
@@ -403,7 +403,7 @@
 | 401 | [Outward](games/o/outward.md) | 4.53 | 
 | 402 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 403 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 404 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
+| 404 | [Oxenfree](games/o/oxenfree.md) | 4.62 | 
 | 405 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.85 | 
 | 406 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 407 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
@@ -639,7 +639,7 @@
 | 637 | [Trackmania](games/t/trackmania.md) | 4.68 | 
 | 638 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 639 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 640 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
+| 640 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 641 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 642 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 643 | [Transistor](games/t/transistor.md) | 4.66 | 
