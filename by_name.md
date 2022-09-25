@@ -505,7 +505,7 @@
 | 503 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 504 | [SOMA](games/s/soma.md) | 4.70 | 
 | 505 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 506 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 506 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 507 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 508 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 509 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -648,7 +648,7 @@
 | 646 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 647 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 648 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 649 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.15 | 
+| 649 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
 | 650 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 651 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 652 | [TUNIC](games/t/tunic.md) | 4.86 | 

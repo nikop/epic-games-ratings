@@ -505,21 +505,21 @@
 | 503 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 504 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 505 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 506 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 507 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
-| 508 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 510 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 511 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 512 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 513 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 514 | [The Captain](games/t/the_captain.md) | 4.42 | 
-| 515 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 516 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 517 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
-| 518 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 519 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
-| 520 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 506 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 508 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
+| 509 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 511 | [Aztez](games/a/aztez.md) | 4.43 | 
+| 512 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 513 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 514 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 515 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 516 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 517 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 518 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
+| 519 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 520 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
 | 521 | [Gamedec](games/g/gamedec.md) | 4.42 | 
 | 522 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 523 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -653,11 +653,11 @@
 | 651 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 652 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
 | 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 654 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
-| 655 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 656 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 657 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 658 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.15 | 
+| 654 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
+| 655 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
+| 656 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 657 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 658 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 659 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 660 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 661 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
