@@ -141,7 +141,7 @@
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 142 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 145 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
@@ -425,7 +425,7 @@
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 426 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 426 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 427 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 428 | [Prey](games/p/prey.md) | 4.60 | 
 | 429 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -503,7 +503,7 @@
 | 501 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 502 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 503 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 504 | [SOMA](games/s/soma.md) | 4.71 | 
+| 504 | [SOMA](games/s/soma.md) | 4.70 | 
 | 505 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 506 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 507 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -670,7 +670,7 @@
 | 668 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 669 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 670 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 
-| 671 | [Warface](games/w/warface.md) | 3.95 | 
+| 671 | [Warface](games/w/warface.md) | 3.96 | 
 | 672 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 673 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 674 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 

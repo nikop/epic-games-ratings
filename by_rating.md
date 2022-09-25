@@ -152,17 +152,17 @@
 | 150 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 151 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
 | 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 154 | [SOMA](games/s/soma.md) | 4.71 | 
-| 155 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 156 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 157 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 158 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 160 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 161 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 162 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
-| 163 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 153 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 154 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 156 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 157 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 158 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 159 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 160 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 161 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
+| 162 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 163 | [SOMA](games/s/soma.md) | 4.70 | 
 | 164 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
 | 165 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 166 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
@@ -494,16 +494,16 @@
 | 492 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
 | 493 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 494 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 495 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 496 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
-| 497 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
-| 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 499 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 500 | [Figment](games/f/figment.md) | 4.44 | 
-| 501 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 502 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 503 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 495 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 496 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 497 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 498 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
+| 499 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 500 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 501 | [Figment](games/f/figment.md) | 4.44 | 
+| 502 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 503 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 505 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 506 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
@@ -697,7 +697,7 @@
 | 695 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 696 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 697 | [Patron](games/p/patron.md) | 3.97 | 
-| 698 | [Warface](games/w/warface.md) | 3.95 | 
+| 698 | [Warface](games/w/warface.md) | 3.96 | 
 | 699 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 700 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 701 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
