@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.09 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.08 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -323,7 +323,7 @@
 | 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 322 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 323 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
-| 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
 | 325 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 326 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 327 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
@@ -670,7 +670,7 @@
 | 668 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 669 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 670 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 
-| 671 | [Warface](games/w/warface.md) | 3.96 | 
+| 671 | [Warface](games/w/warface.md) | 3.95 | 
 | 672 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 673 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 674 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 

@@ -245,22 +245,22 @@
 | 243 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 244 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 245 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 247 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 248 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 249 | [APE OUT](games/a/ape_out.md) | 4.64 | 
-| 250 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 251 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 252 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 253 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 254 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 255 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 258 | [Old World](games/o/old_world.md) | 4.63 | 
-| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 260 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
-| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 246 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 247 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 248 | [APE OUT](games/a/ape_out.md) | 4.64 | 
+| 249 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 250 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 251 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 252 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 253 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 254 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 255 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 256 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 257 | [Old World](games/o/old_world.md) | 4.63 | 
+| 258 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 259 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 261 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
 | 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
@@ -672,9 +672,9 @@
 | 670 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 671 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 672 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 673 | [Gloomhaven](games/g/gloomhaven.md) | 4.09 | 
-| 674 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 675 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 673 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 674 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 675 | [Gloomhaven](games/g/gloomhaven.md) | 4.08 | 
 | 676 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 677 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 
 | 678 | [Gone Home](games/g/gone_home.md) | 4.07 | 
@@ -697,7 +697,7 @@
 | 695 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 696 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 697 | [Patron](games/p/patron.md) | 3.97 | 
-| 698 | [Warface](games/w/warface.md) | 3.96 | 
+| 698 | [Warface](games/w/warface.md) | 3.95 | 
 | 699 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 700 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 701 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
