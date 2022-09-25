@@ -400,7 +400,7 @@
 | 398 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 399 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 400 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 401 | [Outward](games/o/outward.md) | 4.52 | 
+| 401 | [Outward](games/o/outward.md) | 4.53 | 
 | 402 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 403 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 404 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
@@ -516,7 +516,7 @@
 | 514 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 515 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 516 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
-| 517 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.48 | 
+| 517 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 518 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 519 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 520 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 

@@ -402,17 +402,17 @@
 | 400 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 401 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 402 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 404 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 405 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 406 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 407 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 409 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
-| 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 412 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 413 | [Outward](games/o/outward.md) | 4.52 | 
+| 403 | [Outward](games/o/outward.md) | 4.53 | 
+| 404 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 405 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 406 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 407 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 410 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
+| 411 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 414 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 415 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 416 | [Road 96](games/r/road_96.md) | 4.52 | 
@@ -469,19 +469,19 @@
 | 467 | [Democracy 4](games/d/democracy_4.md) | 4.48 | 
 | 468 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 469 | [Warpips](games/w/warpips.md) | 4.48 | 
-| 470 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.48 | 
-| 471 | [SMITE](games/s/smite.md) | 4.47 | 
-| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 474 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
-| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 476 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
-| 477 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 478 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 479 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 480 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 481 | [Faeria](games/f/faeria.md) | 4.46 | 
-| 482 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 470 | [SMITE](games/s/smite.md) | 4.47 | 
+| 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 473 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
+| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 475 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
+| 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 477 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 478 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 479 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 480 | [Faeria](games/f/faeria.md) | 4.46 | 
+| 481 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 482 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 483 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 484 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 485 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
