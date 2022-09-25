@@ -49,7 +49,7 @@
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 50 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 
+| 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
@@ -97,7 +97,7 @@
 | 95 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 97 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
+| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
 | 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -144,14 +144,14 @@
 | 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 145 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 145 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 146 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 147 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 148 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 149 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 150 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
+| 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 153 | [Democracy 4](games/d/democracy_4.md) | 4.48 | 
 | 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 155 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -257,7 +257,7 @@
 | 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
-| 258 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 258 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 259 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
 | 260 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 261 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
