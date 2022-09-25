@@ -464,7 +464,7 @@
 | 462 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 463 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 464 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 465 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
+| 465 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 466 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 467 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 468 | [Sable](games/s/sable.md) | 4.49 | 
@@ -580,7 +580,7 @@
 | 578 | [The Fall](games/t/the_fall.md) | 4.20 | 
 | 579 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 580 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 581 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 
+| 581 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
 | 582 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 583 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 584 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 

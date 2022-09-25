@@ -272,24 +272,24 @@
 | 270 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 273 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 274 | [Oxenfree](games/o/oxenfree.md) | 4.62 | 
-| 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 276 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
-| 277 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
-| 278 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 279 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
-| 280 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 281 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 282 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 283 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 284 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 285 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 286 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 287 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 288 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
-| 289 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 290 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
+| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 274 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 275 | [Oxenfree](games/o/oxenfree.md) | 4.62 | 
+| 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 277 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
+| 278 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
+| 279 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 280 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
+| 281 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 282 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 283 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 284 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 285 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 286 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 287 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 288 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 289 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 290 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 291 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
 | 292 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
 | 293 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
@@ -662,8 +662,8 @@
 | 660 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 661 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 662 | [Pine](games/p/pine.md) | 4.12 | 
-| 663 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 664 | [The Guild 3](games/t/the_guild_3.md) | 4.11 | 
+| 663 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
+| 664 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 665 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
 | 666 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 667 | [Relicta](games/r/relicta.md) | 4.10 | 
