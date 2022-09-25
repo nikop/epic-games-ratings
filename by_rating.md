@@ -466,30 +466,30 @@
 | 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 465 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 466 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
-| 468 | [Warpips](games/w/warpips.md) | 4.48 | 
-| 469 | [SMITE](games/s/smite.md) | 4.47 | 
-| 470 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 473 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
-| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 475 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
+| 467 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 468 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
+| 469 | [Warpips](games/w/warpips.md) | 4.48 | 
+| 470 | [SMITE](games/s/smite.md) | 4.47 | 
+| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 474 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
+| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 477 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 478 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 479 | [Faeria](games/f/faeria.md) | 4.46 | 
 | 480 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 481 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 482 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 483 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 484 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 485 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 486 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 487 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 489 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 490 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 481 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 482 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 483 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 484 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 485 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 486 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 487 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 488 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 489 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 490 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 491 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 492 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 493 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 

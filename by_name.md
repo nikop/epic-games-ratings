@@ -131,7 +131,7 @@
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 132 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
+| 132 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 134 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -586,7 +586,7 @@
 | 584 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 585 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 586 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 587 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 587 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 588 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 589 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 590 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
