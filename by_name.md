@@ -135,7 +135,7 @@
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 134 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
@@ -163,7 +163,7 @@
 | 161 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
@@ -186,7 +186,7 @@
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 187 | [EVE Online](games/e/eve_online.md) | 4.30 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -551,14 +551,14 @@
 | 549 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
 | 551 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 553 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
 | 554 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 555 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 556 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 557 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 558 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
-| 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 560 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 561 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 562 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 

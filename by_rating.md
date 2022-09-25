@@ -16,10 +16,10 @@
 | 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 15 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 16 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 20 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 19 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 20 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 21 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 22 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
 | 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -383,16 +383,16 @@
 | 381 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 383 | [Hue](games/h/hue.md) | 4.55 | 
-| 384 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 385 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 386 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 387 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 388 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
-| 389 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 390 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 391 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 392 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 393 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 384 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 385 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 386 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 387 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 388 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
+| 389 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
+| 390 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
+| 391 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 392 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 393 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 394 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 395 | [Minit](games/m/minit.md) | 4.54 | 
 | 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -404,20 +404,20 @@
 | 402 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 403 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 404 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 405 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 406 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
-| 407 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 408 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 410 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 411 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
-| 412 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 413 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 414 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 415 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 417 | [Road 96](games/r/road_96.md) | 4.52 | 
-| 418 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 405 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 406 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 407 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 408 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 409 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 410 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 411 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 412 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
+| 413 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 414 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 415 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 416 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 418 | [Road 96](games/r/road_96.md) | 4.52 | 
 | 419 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 420 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
 | 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
@@ -471,13 +471,13 @@
 | 469 | [SMITE](games/s/smite.md) | 4.47 | 
 | 470 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 472 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 474 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
-| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 476 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
-| 477 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 478 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 473 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
+| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 475 | [Dark Deception](games/d/dark_deception.md) | 4.47 | 
+| 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 477 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 478 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 479 | [Faeria](games/f/faeria.md) | 4.46 | 
 | 480 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 481 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
@@ -605,10 +605,10 @@
 | 603 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 607 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
-| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 609 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
+| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 608 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
+| 609 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 610 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 611 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
