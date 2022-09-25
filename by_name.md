@@ -10,7 +10,7 @@
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.41 | 
-| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
@@ -138,7 +138,7 @@
 | 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 142 | [Days Gone](games/d/days_gone.md) | 4.70 | 
@@ -182,7 +182,7 @@
 | 180 | [ELEX](games/e/elex.md) | 4.33 | 
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
 | 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
+| 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -254,7 +254,7 @@
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 254 | [Haven](games/h/haven.md) | 4.84 | 
-| 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
 | 258 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
@@ -270,7 +270,7 @@
 | 268 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 269 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 270 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 271 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
+| 271 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 272 | [House Party](games/h/house_party.md) | 4.35 | 
 | 273 | [Hue](games/h/hue.md) | 4.55 | 
 | 274 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
@@ -346,7 +346,7 @@
 | 344 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 345 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 347 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 347 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 348 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 349 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 350 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -385,7 +385,7 @@
 | 383 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 384 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 385 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 386 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 386 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 387 | [Observation](games/o/observation.md) | 4.39 | 
 | 388 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 389 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
