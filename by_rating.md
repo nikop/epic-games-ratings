@@ -175,22 +175,22 @@
 | 173 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 174 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 175 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 176 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 177 | [Barony](games/b/barony.md) | 4.69 | 
-| 178 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 179 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 181 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 182 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 183 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 184 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 185 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 186 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 187 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 188 | [Slipways](games/s/slipways.md) | 4.69 | 
-| 189 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 190 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 191 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 176 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 177 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 178 | [Barony](games/b/barony.md) | 4.69 | 
+| 179 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 180 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 182 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 183 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 184 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 185 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 186 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 187 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 189 | [Slipways](games/s/slipways.md) | 4.69 | 
+| 190 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 191 | [Trackmania](games/t/trackmania.md) | 4.68 | 
 | 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
