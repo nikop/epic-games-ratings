@@ -280,7 +280,7 @@
 | 278 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
 | 279 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 280 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 281 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 281 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 282 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 283 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 284 | [INSIDE](games/i/inside.md) | 4.70 | 
@@ -479,7 +479,7 @@
 | 477 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 478 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 479 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 
-| 480 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.58 | 
+| 480 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
 | 481 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 482 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 483 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.86 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.69 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 

@@ -1,10 +1,10 @@
 {
   "ID": "fa9812acd30f46f8a69a75bf27addb5c",
   "Name": "In Sound Mind",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 1937,
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
-  "LastChanged": "2022-09-22T22:02:34.0573199+00:00",
+  "LastChanged": "2022-09-25T15:32:11.8558144+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:02.4787934+00:00",
@@ -830,6 +830,11 @@
       "Time": "2022-09-22T22:02:34.0573201+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 1937
+    },
+    {
+      "Time": "2022-09-25T15:32:11.8558146+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -851,7 +856,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Unique Visuals",

@@ -27,22 +27,22 @@
 | 25 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 26 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 27 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
-| 33 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 35 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 36 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 37 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 38 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 39 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 41 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 42 | [Haven](games/h/haven.md) | 4.84 | 
-| 43 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 28 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.86 | 
+| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 33 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 34 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 35 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 40 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 42 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 43 | [Haven](games/h/haven.md) | 4.84 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 46 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
@@ -328,34 +328,34 @@
 | 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 327 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 328 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 329 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 330 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 331 | [GRIME](games/g/grime.md) | 4.59 | 
-| 332 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 333 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.59 | 
-| 334 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 335 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 336 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 337 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
-| 338 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 339 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 340 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 341 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 329 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
+| 330 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 331 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 332 | [GRIME](games/g/grime.md) | 4.59 | 
+| 333 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 334 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.59 | 
+| 335 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 336 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 337 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 338 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
+| 339 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 340 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 341 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 342 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 343 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 344 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 345 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 346 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 347 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 348 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.58 | 
-| 349 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 350 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 351 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 352 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 353 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 354 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
-| 355 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 356 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 348 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 349 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 350 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 351 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 352 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 353 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
+| 354 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 356 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 357 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 358 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 359 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
