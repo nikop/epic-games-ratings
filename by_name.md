@@ -200,7 +200,7 @@
 | 198 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 199 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 200 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 201 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 201 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 202 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 203 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
@@ -413,7 +413,7 @@
 | 411 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 412 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 413 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 414 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 414 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 415 | [Patron](games/p/patron.md) | 3.97 | 
 | 416 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 417 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
@@ -439,7 +439,7 @@
 | 437 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 438 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 439 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
-| 440 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 440 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.38 | 
 | 441 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 442 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 

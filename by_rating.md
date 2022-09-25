@@ -487,14 +487,14 @@
 | 485 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 486 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 487 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 488 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 489 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 490 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 491 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 492 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 493 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 494 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 495 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 488 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 489 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 490 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 491 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 492 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 493 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 494 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 495 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 496 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
 | 497 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
 | 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
@@ -517,15 +517,15 @@
 | 515 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 516 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.42 | 
 | 517 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 518 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 519 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
-| 520 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 521 | [Gamedec](games/g/gamedec.md) | 4.42 | 
-| 522 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 523 | [The Captain](games/t/the_captain.md) | 4.41 | 
-| 524 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 525 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.41 | 
-| 526 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 518 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.42 | 
+| 519 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 520 | [Gamedec](games/g/gamedec.md) | 4.42 | 
+| 521 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 522 | [The Captain](games/t/the_captain.md) | 4.41 | 
+| 523 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 524 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.41 | 
+| 525 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 526 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 527 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 528 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 529 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
@@ -546,16 +546,16 @@
 | 544 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 545 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 546 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
-| 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 548 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 549 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 550 | [Far Cry](games/f/far_cry.md) | 4.39 | 
-| 551 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 553 | [Observation](games/o/observation.md) | 4.39 | 
-| 554 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 555 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 556 | [Core](games/c/core.md) | 4.38 | 
+| 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 548 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
+| 549 | [Far Cry](games/f/far_cry.md) | 4.39 | 
+| 550 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
+| 551 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 552 | [Observation](games/o/observation.md) | 4.39 | 
+| 553 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 555 | [Core](games/c/core.md) | 4.38 | 
+| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.38 | 
 | 557 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 559 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
