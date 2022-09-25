@@ -34,13 +34,13 @@
 | 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 33 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 35 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 36 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 37 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 38 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 39 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 41 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 40 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 42 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
@@ -490,28 +490,28 @@
 | 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 489 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 490 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 491 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 492 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 493 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 494 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
-| 495 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
-| 496 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
-| 497 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 498 | [Figment](games/f/figment.md) | 4.44 | 
-| 499 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 500 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 501 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 502 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
-| 504 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 505 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 506 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 507 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 508 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
-| 509 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 511 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 512 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 491 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 492 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 493 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 494 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 495 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
+| 496 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 497 | [Figment](games/f/figment.md) | 4.44 | 
+| 498 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 499 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 500 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 501 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 502 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 503 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 504 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 505 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 506 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 507 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
+| 508 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 510 | [Aztez](games/a/aztez.md) | 4.43 | 
+| 511 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 512 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 513 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
 | 514 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 515 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -615,10 +615,10 @@
 | 613 | [Hammerting](games/h/hammerting.md) | 4.29 | 
 | 614 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 615 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 616 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 617 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 618 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 619 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 616 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 618 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 619 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 620 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
 | 621 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 622 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 

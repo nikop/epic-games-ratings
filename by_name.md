@@ -68,7 +68,7 @@
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 69 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 69 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 70 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 71 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -247,7 +247,7 @@
 | 245 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
 | 246 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 247 | [GRIME](games/g/grime.md) | 4.60 | 
-| 248 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 248 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 249 | [Hades](games/h/hades.md) | 4.92 | 
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
@@ -704,7 +704,7 @@
 | 702 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 703 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 704 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
-| 705 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 705 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 706 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
 | 707 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
 | 708 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
