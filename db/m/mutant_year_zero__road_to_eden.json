@@ -951,6 +951,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Count": 20
     }
   ]
 }
