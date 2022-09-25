@@ -40,7 +40,7 @@
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 40 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 41 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 41 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
@@ -84,7 +84,7 @@
 | 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 85 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.08 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.09 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -264,7 +264,7 @@
 | 262 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
 | 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 264 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 265 | [Hob](games/h/hob.md) | 4.60 | 
+| 265 | [Hob](games/h/hob.md) | 4.59 | 
 | 266 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 267 | [Horace](games/h/horace.md) | 4.56 | 
 | 268 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -429,7 +429,7 @@
 | 427 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 428 | [Prey](games/p/prey.md) | 4.60 | 
 | 429 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 430 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 430 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 431 | [Quake](games/q/quake.md) | 4.79 | 
 | 432 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 433 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -497,7 +497,7 @@
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
 | 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
-| 498 | [Slipways](games/s/slipways.md) | 4.69 | 
+| 498 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
 | 501 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
