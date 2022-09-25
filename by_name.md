@@ -6,7 +6,7 @@
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
+| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.41 | 
@@ -319,10 +319,10 @@
 | 317 | [Lake](games/l/lake.md) | 4.05 | 
 | 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 319 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
+| 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
 | 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 322 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 323 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 323 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 325 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 326 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.69 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 

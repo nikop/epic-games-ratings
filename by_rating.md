@@ -42,12 +42,12 @@
 | 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 41 | [Grindstone](games/g/grindstone.md) | 4.84 | 
 | 42 | [Haven](games/h/haven.md) | 4.84 | 
-| 43 | [Subnautica](games/s/subnautica.md) | 4.83 | 
-| 44 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 46 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 47 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
-| 48 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
+| 43 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 45 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 46 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 48 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
 | 49 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.83 | 
 | 50 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
 | 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -460,14 +460,14 @@
 | 458 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 459 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 
 | 460 | [Sable](games/s/sable.md) | 4.49 | 
-| 461 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 462 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 463 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 464 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 465 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 466 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 467 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 468 | [Democracy 4](games/d/democracy_4.md) | 4.48 | 
+| 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 462 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 463 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 465 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 466 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 467 | [Democracy 4](games/d/democracy_4.md) | 4.48 | 
+| 468 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 469 | [Warpips](games/w/warpips.md) | 4.48 | 
 | 470 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.48 | 
 | 471 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -488,15 +488,15 @@
 | 486 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 487 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 488 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 489 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
-| 490 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 491 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 492 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 493 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 494 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 495 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 489 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 490 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 491 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 492 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 493 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 494 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 495 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 496 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 497 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
 | 498 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
 | 499 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 500 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
@@ -619,8 +619,8 @@
 | 617 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 618 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 619 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 620 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 621 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
+| 620 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
+| 621 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 622 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 623 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
 | 624 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
