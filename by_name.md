@@ -98,7 +98,7 @@
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 97 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
-| 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 
+| 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 102 | [Chorus](games/c/chorus.md) | 4.48 | 
@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.09 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -245,7 +245,7 @@
 | 243 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
 | 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 245 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 
-| 246 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 246 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 247 | [GRIME](games/g/grime.md) | 4.59 | 
 | 248 | [Grindstone](games/g/grindstone.md) | 4.84 | 
 | 249 | [Hades](games/h/hades.md) | 4.92 | 
@@ -354,7 +354,7 @@
 | 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
 | 354 | [Minit](games/m/minit.md) | 4.54 | 
-| 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.82 | 
+| 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 356 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 357 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 358 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
@@ -674,7 +674,7 @@
 | 672 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 673 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 674 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 675 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 
+| 675 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 676 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 677 | [Warpips](games/w/warpips.md) | 4.48 | 
 | 678 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
