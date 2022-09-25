@@ -173,7 +173,7 @@
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.67 | 
+| 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 177 | [Eastward](games/e/eastward.md) | 4.64 | 
@@ -224,14 +224,14 @@
 | 222 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 223 | [FUSER™](games/f/fuser™.md) | 4.74 | 
 | 224 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 
-| 225 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 225 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 226 | [Gamedec](games/g/gamedec.md) | 4.42 | 
 | 227 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
 | 228 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 229 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 230 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 231 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
+| 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.08 | 
@@ -355,13 +355,13 @@
 | 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
 | 354 | [Minit](games/m/minit.md) | 4.54 | 
 | 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 356 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 356 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
 | 357 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 358 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 359 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 360 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 361 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 362 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 362 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.86 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.69 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -573,7 +573,7 @@
 | 571 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 572 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
 | 573 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 574 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.82 | 
+| 574 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 575 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 576 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 577 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 

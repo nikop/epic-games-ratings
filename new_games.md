@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.86 | 
+| 1 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
 | 2 | [Gloomhaven](games/g/gloomhaven.md) | 4.08 | 
 | 3 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 4 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.65 | 
