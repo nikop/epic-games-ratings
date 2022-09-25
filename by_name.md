@@ -30,7 +30,7 @@
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
-| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -161,11 +161,11 @@
 | 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 160 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 161 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 
+| 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -209,7 +209,7 @@
 | 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 209 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
-| 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 211 | [Fez](games/f/fez.md) | 4.72 | 
 | 212 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
 | 213 | [Figment](games/f/figment.md) | 4.44 | 
@@ -259,7 +259,7 @@
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
 | 258 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 259 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
-| 260 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 260 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
 | 261 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 262 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
 | 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -464,7 +464,7 @@
 | 462 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 463 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 464 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 465 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 465 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
 | 466 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 467 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 468 | [Sable](games/s/sable.md) | 4.49 | 
