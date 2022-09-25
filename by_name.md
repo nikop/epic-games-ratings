@@ -204,7 +204,7 @@
 | 202 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 203 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
-| 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.80 | 
+| 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 206 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
 | 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
@@ -317,7 +317,7 @@
 | 315 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 316 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 317 | [Lake](games/l/lake.md) | 4.05 | 
-| 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
 | 319 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
 | 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
@@ -360,7 +360,7 @@
 | 358 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 359 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 360 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 361 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 361 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 362 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -377,7 +377,7 @@
 | 375 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 376 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 377 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 378 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 378 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 379 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 380 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 381 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 
