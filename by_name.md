@@ -293,7 +293,7 @@
 | 291 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
-| 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 296 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -463,7 +463,7 @@
 | 461 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 462 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 463 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 464 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 464 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 465 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
 | 466 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 467 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 

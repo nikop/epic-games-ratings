@@ -194,20 +194,20 @@
 | 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 195 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 196 | [Timberborn](games/t/timberborn.md) | 4.68 | 
-| 197 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 199 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 200 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 201 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
-| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 203 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 204 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 195 | [Timberborn](games/t/timberborn.md) | 4.68 | 
+| 196 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 197 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 198 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 199 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
+| 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
+| 203 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 207 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 208 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 209 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 210 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
 | 211 | [Coromon](games/c/coromon.md) | 4.67 | 
@@ -362,18 +362,18 @@
 | 360 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 362 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 363 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 365 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 
-| 366 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
-| 367 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
-| 368 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 369 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 370 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 371 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
-| 372 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 373 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 374 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 364 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 
+| 365 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
+| 366 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
+| 367 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 368 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 369 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 370 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 371 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 373 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 374 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 376 | [Horace](games/h/horace.md) | 4.56 | 
 | 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
