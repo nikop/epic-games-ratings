@@ -104,14 +104,14 @@
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
 | 104 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 106 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 107 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 108 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 109 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 110 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 112 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
+| 105 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 106 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 107 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 108 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 110 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 111 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 112 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 113 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 114 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -162,27 +162,27 @@
 | 160 | [INSIDE](games/i/inside.md) | 4.70 | 
 | 161 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 162 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
-| 163 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
-| 164 | [Divine Knockout](games/d/divine_knockout.md) | 4.70 | 
-| 165 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 166 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
-| 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 168 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 170 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 171 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 172 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 173 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 174 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 175 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 176 | [Barony](games/b/barony.md) | 4.69 | 
-| 177 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 178 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 180 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 181 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 182 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 183 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.69 | 
+| 163 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 164 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
+| 165 | [Divine Knockout](games/d/divine_knockout.md) | 4.70 | 
+| 166 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 167 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
+| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 169 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 171 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 172 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 173 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 174 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 175 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 176 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 177 | [Barony](games/b/barony.md) | 4.69 | 
+| 178 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 179 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 181 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 182 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 183 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 184 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 185 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 186 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
