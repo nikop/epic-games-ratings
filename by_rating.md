@@ -239,15 +239,15 @@
 | 237 | [The Pathless](games/t/the_pathless.md) | 4.65 | 
 | 238 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
 | 239 | [CARRION](games/c/carrion.md) | 4.65 | 
-| 240 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
-| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 242 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 243 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 244 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 245 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 246 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 247 | [RiME](games/r/rime.md) | 4.64 | 
-| 248 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 240 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 241 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
+| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 243 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 244 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 245 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 246 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 247 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 248 | [RiME](games/r/rime.md) | 4.64 | 
 | 249 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 250 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 251 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
@@ -358,19 +358,19 @@
 | 356 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 357 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 358 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 359 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 360 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 362 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 363 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 365 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
-| 366 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
-| 367 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 368 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 369 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 370 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
-| 371 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 359 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 360 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 361 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 362 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 363 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 364 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 365 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 366 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
+| 367 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
+| 368 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 369 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 370 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 371 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
 | 372 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 373 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 374 | [RUINER](games/r/ruiner.md) | 4.56 | 
@@ -404,19 +404,19 @@
 | 402 | [Outward](games/o/outward.md) | 4.53 | 
 | 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 404 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 405 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 406 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 407 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 410 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
-| 411 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 414 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 415 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 416 | [Road 96](games/r/road_96.md) | 4.52 | 
-| 417 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 405 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 406 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 407 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 408 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 410 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 411 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
+| 412 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 413 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 414 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 415 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 417 | [Road 96](games/r/road_96.md) | 4.52 | 
 | 418 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 419 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
 | 420 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
@@ -440,27 +440,27 @@
 | 438 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 439 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 440 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 441 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 442 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
-| 443 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.50 | 
-| 444 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 445 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
-| 446 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 447 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 448 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 449 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 450 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 451 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 452 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 453 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 454 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 455 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 456 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
-| 457 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 458 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 459 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 460 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 
-| 461 | [Sable](games/s/sable.md) | 4.49 | 
+| 441 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
+| 442 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.50 | 
+| 443 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 444 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
+| 445 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 446 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 447 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 448 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 449 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 450 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 451 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 452 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 453 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 454 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
+| 455 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 456 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 457 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 458 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 459 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 
+| 460 | [Sable](games/s/sable.md) | 4.49 | 
+| 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 462 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 463 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 

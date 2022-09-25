@@ -83,7 +83,7 @@
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -252,7 +252,7 @@
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 254 | [Haven](games/h/haven.md) | 4.84 | 
 | 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
@@ -281,7 +281,7 @@
 | 279 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 280 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 281 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 282 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 282 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 283 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 284 | [INSIDE](games/i/inside.md) | 4.70 | 
 | 285 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
@@ -621,7 +621,7 @@
 | 619 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 620 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 621 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
-| 622 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 622 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 623 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 624 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 625 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -702,7 +702,7 @@
 | 700 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
 | 701 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 702 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 703 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 703 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 704 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
 | 705 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 706 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
