@@ -186,7 +186,7 @@
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [EVE Online](games/e/eve_online.md) | 4.30 | 
+| 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -404,7 +404,7 @@
 | 402 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 403 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 404 | [Oxenfree](games/o/oxenfree.md) | 4.62 | 
-| 405 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.85 | 
+| 405 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 406 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 407 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 408 | [Paradigm](games/p/paradigm.md) | 4.50 | 
@@ -520,7 +520,7 @@
 | 518 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 519 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 520 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
-| 521 | [Star Stable Online](games/s/star_stable_online.md) | 4.33 | 
+| 521 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 522 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 523 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 524 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 

@@ -30,14 +30,14 @@
 | 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 31 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.85 | 
-| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 33 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
-| 34 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 35 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 33 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 35 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 36 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 37 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 38 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 39 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 41 | [Grindstone](games/g/grindstone.md) | 4.84 | 
@@ -588,9 +588,9 @@
 | 586 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 587 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 588 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 589 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
-| 590 | [Encased](games/e/encased.md) | 4.34 | 
-| 591 | [Star Stable Online](games/s/star_stable_online.md) | 4.33 | 
+| 589 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 590 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
+| 591 | [Encased](games/e/encased.md) | 4.34 | 
 | 592 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 593 | [ELEX](games/e/elex.md) | 4.33 | 
 | 594 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
@@ -605,10 +605,10 @@
 | 603 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
-| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 608 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
-| 609 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 607 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
+| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 609 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 610 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 611 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
