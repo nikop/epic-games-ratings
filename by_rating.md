@@ -622,10 +622,10 @@
 | 620 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
 | 621 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 622 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 623 | [Steelrising](games/s/steelrising.md) | 4.25 | 
-| 624 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
-| 625 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
-| 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.24 | 
+| 623 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 624 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 625 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
+| 626 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
 | 627 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 628 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 629 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
