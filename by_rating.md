@@ -101,17 +101,17 @@
 | 99 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 100 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 101 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 102 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 103 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 104 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 105 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 106 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 107 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 108 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 109 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 110 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 111 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 112 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
+| 103 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 104 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 105 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 106 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 107 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 108 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
+| 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 110 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 111 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 112 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 113 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 114 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
@@ -395,14 +395,14 @@
 | 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 395 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 397 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
-| 398 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 399 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 400 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 401 | [Outward](games/o/outward.md) | 4.53 | 
-| 402 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 403 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 396 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 397 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 398 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
+| 399 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 400 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 401 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 402 | [Outward](games/o/outward.md) | 4.53 | 
+| 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 404 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 405 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 406 | [The Surge](games/t/the_surge.md) | 4.53 | 
