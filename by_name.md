@@ -127,7 +127,7 @@
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
 | 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -414,7 +414,7 @@
 | 412 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 413 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 414 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 415 | [Patron](games/p/patron.md) | 3.97 | 
+| 415 | [Patron](games/p/patron.md) | 3.98 | 
 | 416 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 417 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
 | 418 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 

@@ -247,21 +247,21 @@
 | 245 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 246 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 248 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
-| 249 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 250 | [RiME](games/r/rime.md) | 4.64 | 
-| 251 | [APE OUT](games/a/ape_out.md) | 4.64 | 
-| 252 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 253 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 254 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 258 | [Old World](games/o/old_world.md) | 4.63 | 
-| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 261 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 262 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 248 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 249 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
+| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 251 | [RiME](games/r/rime.md) | 4.64 | 
+| 252 | [APE OUT](games/a/ape_out.md) | 4.64 | 
+| 253 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 254 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 255 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 257 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 258 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 259 | [Old World](games/o/old_world.md) | 4.63 | 
+| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 264 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
@@ -693,9 +693,9 @@
 | 691 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 692 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 693 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 694 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 695 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
-| 696 | [Patron](games/p/patron.md) | 3.97 | 
+| 694 | [Patron](games/p/patron.md) | 3.98 | 
+| 695 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 696 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 697 | [Warface](games/w/warface.md) | 3.96 | 
 | 698 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 699 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
