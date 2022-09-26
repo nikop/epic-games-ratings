@@ -456,14 +456,14 @@
 | 454 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 455 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
 | 456 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 457 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 458 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 459 | [Sable](games/s/sable.md) | 4.49 | 
-| 460 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 461 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 462 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 463 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 464 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 457 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 458 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 459 | [Death Coming](games/d/death_coming.md) | 4.49 | 
+| 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 461 | [Sable](games/s/sable.md) | 4.49 | 
+| 462 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 465 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 466 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
 | 467 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
@@ -472,12 +472,12 @@
 | 470 | [SMITE](games/s/smite.md) | 4.47 | 
 | 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 475 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 476 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 477 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 478 | [Faeria](games/f/faeria.md) | 4.46 | 
+| 473 | [Faeria](games/f/faeria.md) | 4.47 | 
+| 474 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 477 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 478 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 479 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 480 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 481 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
@@ -605,9 +605,9 @@
 | 603 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
 | 604 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 605 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
-| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 607 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 608 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 609 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 610 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 611 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 

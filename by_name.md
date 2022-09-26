@@ -145,7 +145,7 @@
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 145 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 146 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 146 | [Death Coming](games/d/death_coming.md) | 4.49 | 
 | 147 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 148 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 149 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -186,12 +186,12 @@
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [EVE Online](games/e/eve_online.md) | 4.30 | 
+| 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 192 | [Faeria](games/f/faeria.md) | 4.46 | 
+| 192 | [Faeria](games/f/faeria.md) | 4.47 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 195 | [Far Cry](games/f/far_cry.md) | 4.39 | 
@@ -351,7 +351,7 @@
 | 349 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 350 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 351 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
 | 354 | [Minit](games/m/minit.md) | 4.55 | 
 | 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
