@@ -43,7 +43,7 @@
 | 41 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
+| 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.65 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.67 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.50 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
@@ -352,7 +352,7 @@
 | 350 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 351 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
+| 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
 | 354 | [Minit](games/m/minit.md) | 4.55 | 
 | 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 356 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
@@ -439,7 +439,7 @@
 | 437 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 438 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 439 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 440 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
+| 440 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
 | 441 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 442 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 443 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
