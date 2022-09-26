@@ -255,20 +255,20 @@
 | 253 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
 | 254 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 256 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 257 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 258 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 259 | [Old World](games/o/old_world.md) | 4.63 | 
-| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 262 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 266 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
-| 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 268 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
-| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 258 | [Old World](games/o/old_world.md) | 4.63 | 
+| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 261 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 265 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 266 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 267 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
+| 268 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 269 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 270 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -384,17 +384,17 @@
 | 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 383 | [Hue](games/h/hue.md) | 4.55 | 
 | 384 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 385 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 386 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 387 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 388 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 389 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
-| 390 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 391 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 392 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 393 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 394 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 395 | [Minit](games/m/minit.md) | 4.54 | 
+| 385 | [Minit](games/m/minit.md) | 4.55 | 
+| 386 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 387 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 388 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 389 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
+| 390 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
+| 391 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
+| 392 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 395 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 397 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
 | 398 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -598,9 +598,9 @@
 | 596 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 597 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
-| 599 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 600 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 601 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 
+| 599 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 
+| 600 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 601 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 602 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
 | 603 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -628,9 +628,9 @@
 | 626 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
 | 627 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 628 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 629 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 630 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
-| 631 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 630 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 631 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 632 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 633 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
 | 634 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 

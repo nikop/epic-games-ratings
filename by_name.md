@@ -353,7 +353,7 @@
 | 351 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
-| 354 | [Minit](games/m/minit.md) | 4.54 | 
+| 354 | [Minit](games/m/minit.md) | 4.55 | 
 | 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 356 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
 | 357 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
@@ -361,7 +361,7 @@
 | 359 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 360 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 361 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 362 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 362 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -369,7 +369,7 @@
 | 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
 | 368 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 369 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 370 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 370 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 371 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 372 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 373 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
@@ -669,7 +669,7 @@
 | 667 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 668 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 669 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 670 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 
+| 670 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 
 | 671 | [Warface](games/w/warface.md) | 3.96 | 
 | 672 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 673 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
