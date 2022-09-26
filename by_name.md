@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
@@ -138,7 +138,7 @@
 | 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -670,7 +670,7 @@
 | 668 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 669 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 670 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 671 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 
+| 671 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 
 | 672 | [Warface](games/w/warface.md) | 3.96 | 
 | 673 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 674 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 

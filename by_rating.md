@@ -358,17 +358,17 @@
 | 356 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 357 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 358 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 359 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 360 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 361 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 362 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 363 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
-| 364 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 365 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 366 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 367 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
-| 368 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 369 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 359 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 360 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 362 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 364 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
+| 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 368 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 369 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 370 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
@@ -590,15 +590,15 @@
 | 588 | [Tacoma](games/t/tacoma.md) | 4.34 | 
 | 589 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 590 | [Encased](games/e/encased.md) | 4.34 | 
-| 591 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 592 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
-| 593 | [ELEX](games/e/elex.md) | 4.33 | 
-| 594 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 595 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 596 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 597 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
-| 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
-| 599 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 
+| 591 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 
+| 592 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 593 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
+| 594 | [ELEX](games/e/elex.md) | 4.33 | 
+| 595 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 596 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 597 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 598 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
+| 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
 | 600 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 601 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 602 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
@@ -625,23 +625,23 @@
 | 623 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 624 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 625 | [Steelrising](games/s/steelrising.md) | 4.25 | 
-| 626 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
-| 627 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
-| 628 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
-| 629 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 630 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 631 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
-| 632 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 633 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 634 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
-| 635 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 636 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 637 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
-| 639 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 640 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 641 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 642 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 626 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
+| 627 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 628 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 629 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 630 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 631 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 632 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 633 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
+| 634 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 635 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 636 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 637 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
+| 638 | [Family Man](games/f/family_man.md) | 4.21 | 
+| 639 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 640 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 641 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 642 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 643 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 644 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 645 | [Scavengers](games/s/scavengers.md) | 4.19 | 
