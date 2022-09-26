@@ -141,7 +141,7 @@
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 142 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 145 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
@@ -591,7 +591,7 @@
 | 589 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 590 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 591 | [The Pathless](games/t/the_pathless.md) | 4.66 | 
-| 592 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 592 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 593 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 594 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 595 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
