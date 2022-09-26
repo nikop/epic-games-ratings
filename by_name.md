@@ -169,7 +169,7 @@
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 170 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 170 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
@@ -465,7 +465,7 @@
 | 463 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 464 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 465 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
-| 466 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 466 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 467 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 468 | [Sable](games/s/sable.md) | 4.49 | 
 | 469 | [Saints Row](games/s/saints_row.md) | 3.77 | 
@@ -598,7 +598,7 @@
 | 596 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
 | 597 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 598 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 599 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
+| 599 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 600 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 601 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 602 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 

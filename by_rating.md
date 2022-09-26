@@ -119,21 +119,21 @@
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 120 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 121 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 122 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
-| 123 | [Revita](games/r/revita.md) | 4.74 | 
-| 124 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 125 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 126 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 127 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 128 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 129 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 130 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 131 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 132 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 133 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
-| 134 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
+| 120 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 121 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 122 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 123 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
+| 124 | [Revita](games/r/revita.md) | 4.74 | 
+| 125 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 126 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 128 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 129 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 130 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 131 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 132 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 133 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 134 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 135 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 136 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
 | 137 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
@@ -187,17 +187,17 @@
 | 185 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 186 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 187 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 188 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 189 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 190 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 191 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 194 | [Timberborn](games/t/timberborn.md) | 4.68 | 
-| 195 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 196 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 197 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 198 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 188 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 189 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 190 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 191 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 192 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 193 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 195 | [Timberborn](games/t/timberborn.md) | 4.68 | 
+| 196 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 197 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 198 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 199 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 201 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
@@ -372,18 +372,18 @@
 | 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 371 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 373 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 374 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 376 | [Horace](games/h/horace.md) | 4.56 | 
-| 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 378 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 379 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 380 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 381 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 383 | [Hue](games/h/hue.md) | 4.55 | 
-| 384 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 373 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 375 | [Horace](games/h/horace.md) | 4.56 | 
+| 376 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 377 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 378 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 379 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 380 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 382 | [Hue](games/h/hue.md) | 4.55 | 
+| 383 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 384 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 385 | [Minit](games/m/minit.md) | 4.55 | 
 | 386 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 387 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
