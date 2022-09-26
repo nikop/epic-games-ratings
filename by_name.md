@@ -106,7 +106,7 @@
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 106 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
+| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
@@ -239,7 +239,7 @@
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 239 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
-| 240 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 240 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 241 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 242 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 243 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
@@ -448,7 +448,7 @@
 | 446 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 447 | [Revita](games/r/revita.md) | 4.74 | 
 | 448 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 449 | [RiME](games/r/rime.md) | 4.64 | 
+| 449 | [RiME](games/r/rime.md) | 4.65 | 
 | 450 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
 | 451 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 452 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
@@ -483,7 +483,7 @@
 | 481 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 482 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 483 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
-| 484 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
+| 484 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 485 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 486 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 487 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -491,7 +491,7 @@
 | 489 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 490 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 491 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 492 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.50 | 
+| 492 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 493 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 494 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 495 | [Sifu](games/s/sifu.md) | 4.80 | 
