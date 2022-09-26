@@ -165,7 +165,7 @@
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -258,7 +258,7 @@
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
 | 258 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 259 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
+| 259 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 260 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
 | 261 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 262 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
@@ -406,7 +406,7 @@
 | 404 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
 | 405 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 406 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 407 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
+| 407 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
 | 408 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 409 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 410 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 

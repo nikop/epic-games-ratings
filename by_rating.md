@@ -117,18 +117,18 @@
 | 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 122 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 123 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 124 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
-| 125 | [Revita](games/r/revita.md) | 4.74 | 
-| 126 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 127 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 129 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 118 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 119 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 120 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 121 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 122 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 123 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
+| 124 | [Revita](games/r/revita.md) | 4.74 | 
+| 125 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 126 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 128 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 130 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
@@ -349,20 +349,20 @@
 | 347 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 348 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 349 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 350 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 351 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 352 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
-| 353 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 354 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 355 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 356 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 357 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 358 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 359 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 360 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 361 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 362 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 
-| 363 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
+| 350 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 351 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 352 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 353 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
+| 354 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 356 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 357 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 358 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 359 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 360 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 361 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 362 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 363 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 
 | 364 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
 | 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
@@ -630,26 +630,26 @@
 | 628 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 630 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 631 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 632 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 633 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
-| 634 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 635 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 636 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 637 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
-| 638 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 639 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 640 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 641 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 642 | [The Fall](games/t/the_fall.md) | 4.20 | 
-| 643 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
-| 644 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 645 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
-| 646 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 647 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 648 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 649 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 650 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
+| 631 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 632 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 633 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 634 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
+| 635 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 636 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 637 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
+| 639 | [Family Man](games/f/family_man.md) | 4.21 | 
+| 640 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 641 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 642 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 643 | [The Fall](games/t/the_fall.md) | 4.20 | 
+| 644 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 645 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 647 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 648 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 649 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 650 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 651 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 652 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
