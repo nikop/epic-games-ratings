@@ -139,18 +139,18 @@
 | 137 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 138 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 139 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 140 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 142 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 143 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 144 | [Fez](games/f/fez.md) | 4.72 | 
-| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 146 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
-| 148 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 150 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
-| 151 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 140 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
+| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 144 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 145 | [Fez](games/f/fez.md) | 4.72 | 
+| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 147 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 148 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
+| 149 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 150 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 151 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
 | 152 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 153 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
 | 154 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
@@ -245,21 +245,21 @@
 | 243 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 244 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 245 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 246 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 248 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 249 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
-| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 251 | [RiME](games/r/rime.md) | 4.64 | 
-| 252 | [APE OUT](games/a/ape_out.md) | 4.64 | 
-| 253 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 254 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 255 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 257 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 258 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 259 | [Old World](games/o/old_world.md) | 4.63 | 
-| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 247 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 248 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
+| 249 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 250 | [RiME](games/r/rime.md) | 4.64 | 
+| 251 | [APE OUT](games/a/ape_out.md) | 4.64 | 
+| 252 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 253 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 254 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 258 | [Old World](games/o/old_world.md) | 4.63 | 
+| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 260 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
 | 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
@@ -625,10 +625,10 @@
 | 623 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 624 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 625 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
-| 626 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
-| 627 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 628 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 626 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
+| 627 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 628 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 629 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 630 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 631 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 632 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
@@ -663,9 +663,9 @@
 | 661 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 662 | [Pine](games/p/pine.md) | 4.12 | 
 | 663 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
-| 664 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 665 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
-| 666 | [Gloomhaven](games/g/gloomhaven.md) | 4.11 | 
+| 664 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
+| 665 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 666 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
 | 667 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 668 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 669 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 

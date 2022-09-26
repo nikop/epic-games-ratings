@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.11 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -270,7 +270,7 @@
 | 268 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 269 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 270 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 271 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 271 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
 | 272 | [House Party](games/h/house_party.md) | 4.35 | 
 | 273 | [Hue](games/h/hue.md) | 4.55 | 
 | 274 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
@@ -346,7 +346,7 @@
 | 344 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 345 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 347 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 347 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
 | 348 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 349 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 350 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -652,7 +652,7 @@
 | 650 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 651 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 652 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 653 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 653 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 654 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 655 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
 | 656 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
