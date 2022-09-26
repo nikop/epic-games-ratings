@@ -231,10 +231,10 @@
 | 229 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 230 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 231 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.14 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.15 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -465,7 +465,7 @@
 | 463 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 464 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 465 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 466 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
+| 466 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 467 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 468 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 469 | [Sable](games/s/sable.md) | 4.49 | 
@@ -497,7 +497,7 @@
 | 495 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 496 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 497 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 498 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 498 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
 | 499 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 500 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 501 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -532,7 +532,7 @@
 | 530 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 531 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
 | 532 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
-| 533 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
+| 533 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 534 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
 | 535 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 536 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 

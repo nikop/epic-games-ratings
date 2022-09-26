@@ -35,13 +35,13 @@
 | 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 40 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 42 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 36 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
+| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 38 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 41 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
@@ -272,24 +272,24 @@
 | 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 273 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 275 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
-| 276 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
-| 277 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 278 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
-| 279 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 280 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 281 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 282 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 283 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 284 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 285 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 286 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 287 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 288 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
-| 289 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 290 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
+| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 274 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 276 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
+| 277 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
+| 278 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 279 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
+| 280 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 281 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 282 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 283 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 284 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 285 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 286 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 287 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 288 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 289 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 290 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 291 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
 | 292 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 293 | [20XX](games/2/20xx.md) | 4.61 | 
@@ -527,16 +527,16 @@
 | 525 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 526 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
 | 527 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 528 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 529 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 530 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 531 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 532 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
-| 533 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 534 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 535 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
-| 536 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
-| 537 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 528 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 529 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 530 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 531 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
+| 532 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 533 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 534 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
+| 535 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
+| 536 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 538 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 539 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 540 | [CryoFall](games/c/cryofall.md) | 4.40 | 
@@ -643,14 +643,14 @@
 | 641 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 642 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 643 | [The Fall](games/t/the_fall.md) | 4.20 | 
-| 644 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
-| 645 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
-| 647 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 648 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 649 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 650 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 651 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
+| 644 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 645 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 646 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 648 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 649 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 650 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 651 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 652 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 654 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
@@ -658,7 +658,7 @@
 | 656 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 657 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 658 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 659 | [Gloomhaven](games/g/gloomhaven.md) | 4.14 | 
+| 659 | [Gloomhaven](games/g/gloomhaven.md) | 4.15 | 
 | 660 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 661 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 662 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
