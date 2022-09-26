@@ -35,13 +35,13 @@
 | 33 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 40 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 42 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 36 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
+| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 38 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 41 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
@@ -226,17 +226,17 @@
 | 224 | [Transistor](games/t/transistor.md) | 4.66 | 
 | 225 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 226 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 227 | [CARRION](games/c/carrion.md) | 4.66 | 
-| 228 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 229 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 230 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 231 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 232 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 233 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 234 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 235 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 236 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 237 | [The Pathless](games/t/the_pathless.md) | 4.65 | 
+| 227 | [The Pathless](games/t/the_pathless.md) | 4.66 | 
+| 228 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 229 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 230 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 231 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 232 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 233 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 234 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 236 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 237 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 238 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
 | 239 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 240 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 

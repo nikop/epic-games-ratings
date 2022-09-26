@@ -1,11 +1,11 @@
 {
   "ID": "4f09ede568514ca6ad487f9c22a66b81",
   "Name": "Slime Rancher 2",
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 36,
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2022-09-25T22:02:07.5016388+00:00",
+  "LastChanged": "2022-09-26T00:02:17.2642137+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T13:02:43.6402725+00:00",
@@ -50,6 +50,11 @@
     {
       "Time": "2022-09-25T22:02:07.5016392+00:00",
       "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-26T00:02:17.2642139+00:00",
+      "Rating": 4.85,
       "NumberOfRatings": null
     }
   ],

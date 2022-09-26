@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
@@ -590,7 +590,7 @@
 | 588 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 589 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 590 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 591 | [The Pathless](games/t/the_pathless.md) | 4.65 | 
+| 591 | [The Pathless](games/t/the_pathless.md) | 4.66 | 
 | 592 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 593 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 594 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
