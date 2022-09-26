@@ -35,13 +35,13 @@
 | 33 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
-| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 38 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 41 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 40 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 42 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
@@ -299,25 +299,25 @@
 | 297 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
 | 298 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 299 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
-| 300 | [Control](games/c/control.md) | 4.60 | 
-| 301 | [Prey](games/p/prey.md) | 4.60 | 
-| 302 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 303 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 304 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 305 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 307 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 309 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 310 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 311 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 312 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
-| 313 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 315 | [GRIME](games/g/grime.md) | 4.60 | 
-| 316 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 317 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 318 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
+| 300 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 301 | [Control](games/c/control.md) | 4.60 | 
+| 302 | [Prey](games/p/prey.md) | 4.60 | 
+| 303 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 304 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 305 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 306 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 307 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 308 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 310 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 311 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 312 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 313 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 314 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 316 | [GRIME](games/g/grime.md) | 4.60 | 
+| 317 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 318 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 319 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 320 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 321 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 

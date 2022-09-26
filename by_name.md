@@ -373,7 +373,7 @@
 | 371 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 372 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 373 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 374 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.60 | 
+| 374 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 375 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 376 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 377 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
@@ -496,7 +496,7 @@
 | 494 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 495 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
+| 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
