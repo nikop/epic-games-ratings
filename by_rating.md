@@ -20,10 +20,10 @@
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 19 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 20 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 21 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 22 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 23 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
-| 24 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 21 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 22 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
+| 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 24 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 25 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 26 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 27 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
@@ -202,18 +202,18 @@
 | 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
 | 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 203 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 207 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 208 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 209 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 210 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 211 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 213 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 214 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.67 | 
+| 203 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 204 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 210 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 211 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 212 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 214 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 215 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 216 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 217 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -599,12 +599,12 @@
 | 597 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 598 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
-| 600 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 601 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 602 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
-| 603 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 600 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 601 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 602 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 603 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
+| 604 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 605 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
 | 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 

@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.67 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
@@ -296,7 +296,7 @@
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 296 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 298 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 299 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
@@ -652,7 +652,7 @@
 | 650 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
 | 651 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 652 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 653 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 653 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 654 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 655 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 656 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 

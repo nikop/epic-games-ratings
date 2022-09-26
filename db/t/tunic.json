@@ -1,10 +1,10 @@
 {
   "ID": "b6faa05b8b594ec39944ff71dbdfdfc1",
   "Name": "TUNIC",
-  "Rating": 4.87,
+  "Rating": 4.86,
   "NumberOfRatings": 100,
   "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
-  "LastChanged": "2022-09-25T21:03:03.374192+00:00",
+  "LastChanged": "2022-09-26T21:01:58.7710747+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:39.6224806+00:00",
@@ -119,6 +119,11 @@
     {
       "Time": "2022-09-25T21:03:03.3741923+00:00",
       "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-26T21:01:58.7710751+00:00",
+      "Rating": 4.86,
       "NumberOfRatings": null
     }
   ],
