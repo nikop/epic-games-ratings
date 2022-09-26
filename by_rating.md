@@ -155,25 +155,25 @@
 | 153 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 154 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 156 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 157 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 158 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 159 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 160 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
-| 161 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
-| 162 | [SOMA](games/s/soma.md) | 4.70 | 
-| 163 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
-| 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 165 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 166 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 167 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
-| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 169 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 171 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 172 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 173 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 174 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 156 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 157 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 158 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 160 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 161 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
+| 162 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 163 | [SOMA](games/s/soma.md) | 4.70 | 
+| 164 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
+| 165 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 166 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 167 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 168 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
+| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 170 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 171 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 172 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 173 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 174 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 175 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 176 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 177 | [Barony](games/b/barony.md) | 4.69 | 
@@ -291,23 +291,23 @@
 | 289 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 290 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.61 | 
 | 291 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
-| 292 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 293 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
-| 294 | [20XX](games/2/20xx.md) | 4.61 | 
-| 295 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 296 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 297 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 298 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 299 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
-| 300 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
-| 301 | [Control](games/c/control.md) | 4.60 | 
-| 302 | [Prey](games/p/prey.md) | 4.60 | 
-| 303 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 304 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 305 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 306 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 307 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 308 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 292 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
+| 293 | [20XX](games/2/20xx.md) | 4.61 | 
+| 294 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 295 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 297 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 298 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
+| 299 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
+| 300 | [Control](games/c/control.md) | 4.60 | 
+| 301 | [Prey](games/p/prey.md) | 4.60 | 
+| 302 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 303 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 304 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 305 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 307 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 309 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 310 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 311 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
