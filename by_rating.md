@@ -309,22 +309,22 @@
 | 307 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 308 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 310 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 311 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 312 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 313 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
-| 314 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 316 | [GRIME](games/g/grime.md) | 4.60 | 
-| 317 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 318 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 319 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 320 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 321 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 322 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 324 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 325 | [Hob](games/h/hob.md) | 4.59 | 
+| 310 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 311 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 312 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 313 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 315 | [GRIME](games/g/grime.md) | 4.60 | 
+| 316 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 317 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 323 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 324 | [Hob](games/h/hob.md) | 4.59 | 
+| 325 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 326 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
 | 327 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 328 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
