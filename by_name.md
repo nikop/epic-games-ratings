@@ -111,9 +111,9 @@
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
 | 111 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 112 | [Core](games/c/core.md) | 4.38 | 
+| 112 | [Core](games/c/core.md) | 4.39 | 
 | 113 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 114 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 
+| 114 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.68 | 
@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.13 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.14 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -341,7 +341,7 @@
 | 339 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 340 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 341 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 342 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 342 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 343 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
 | 344 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 345 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -618,7 +618,7 @@
 | 616 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 617 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 618 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 619 | [Timberborn](games/t/timberborn.md) | 4.68 | 
+| 619 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 620 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 621 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 622 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 

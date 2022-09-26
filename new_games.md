@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
 | 2 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
-| 3 | [Gloomhaven](games/g/gloomhaven.md) | 4.13 | 
+| 3 | [Gloomhaven](games/g/gloomhaven.md) | 4.14 | 
 | 4 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 5 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.67 | 
 | 6 | [Isonzo](games/i/isonzo.md) | 4.50 | 
