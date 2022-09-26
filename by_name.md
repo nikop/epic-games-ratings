@@ -34,7 +34,7 @@
 | 32 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
+| 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
@@ -264,7 +264,7 @@
 | 262 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
 | 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 264 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 265 | [Hob](games/h/hob.md) | 4.59 | 
+| 265 | [Hob](games/h/hob.md) | 4.58 | 
 | 266 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 267 | [Horace](games/h/horace.md) | 4.56 | 
 | 268 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -332,7 +332,7 @@
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 331 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 333 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -430,7 +430,7 @@
 | 428 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 429 | [Prey](games/p/prey.md) | 4.60 | 
 | 430 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 431 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 431 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 432 | [Quake](games/q/quake.md) | 4.79 | 
 | 433 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 434 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -480,7 +480,7 @@
 | 478 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 479 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 480 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 481 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
+| 481 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 482 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 483 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 484 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
@@ -596,7 +596,7 @@
 | 594 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 595 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 596 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 597 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
+| 597 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 598 | [The Surge](games/t/the_surge.md) | 4.55 | 
 | 599 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
 | 600 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
