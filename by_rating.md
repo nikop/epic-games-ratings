@@ -34,12 +34,12 @@
 | 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 33 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 40 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 35 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 36 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 38 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 42 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
@@ -119,21 +119,21 @@
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 120 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 121 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 122 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 123 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
-| 124 | [Revita](games/r/revita.md) | 4.74 | 
-| 125 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 126 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 128 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 129 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 130 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 131 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 132 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 133 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 134 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
+| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 122 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 123 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 124 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
+| 125 | [Revita](games/r/revita.md) | 4.74 | 
+| 126 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 127 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 129 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 130 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 133 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 134 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 135 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 136 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
 | 137 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
@@ -641,11 +641,11 @@
 | 639 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 640 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 641 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 642 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 643 | [The Fall](games/t/the_fall.md) | 4.20 | 
-| 644 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
-| 645 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 642 | [The Fall](games/t/the_fall.md) | 4.20 | 
+| 643 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 644 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 645 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 646 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 647 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 648 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 649 | [Tharsis](games/t/tharsis.md) | 4.19 | 

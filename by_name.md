@@ -303,7 +303,7 @@
 | 301 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 302 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
 | 303 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.37 | 
-| 304 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 304 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 305 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 306 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 307 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
@@ -387,7 +387,7 @@
 | 385 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 386 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 387 | [Observation](games/o/observation.md) | 4.39 | 
-| 388 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 388 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 389 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
 | 390 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 391 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -498,7 +498,7 @@
 | 496 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
 | 497 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 498 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.73 | 
+| 499 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 500 | [SMITE](games/s/smite.md) | 4.47 | 
 | 501 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 502 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
