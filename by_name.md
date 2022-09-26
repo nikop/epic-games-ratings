@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
@@ -249,7 +249,7 @@
 | 247 | [GRIME](games/g/grime.md) | 4.60 | 
 | 248 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 249 | [Hades](games/h/hades.md) | 4.92 | 
-| 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
@@ -269,7 +269,7 @@
 | 267 | [Horace](games/h/horace.md) | 4.56 | 
 | 268 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 269 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 270 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 270 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 271 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
 | 272 | [House Party](games/h/house_party.md) | 4.35 | 
 | 273 | [Hue](games/h/hue.md) | 4.55 | 
@@ -335,7 +335,7 @@
 | 333 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 337 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
 | 338 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 339 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
@@ -363,7 +363,7 @@
 | 361 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 362 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 366 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
@@ -425,7 +425,7 @@
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 426 | [Potion Permit](games/p/potion_permit.md) | 3.57 | 
+| 426 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
 | 427 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 428 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 429 | [Prey](games/p/prey.md) | 4.60 | 
@@ -506,7 +506,7 @@
 | 504 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 505 | [SOMA](games/s/soma.md) | 4.70 | 
 | 506 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 507 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 507 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 508 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 509 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 510 | [Souldiers](games/s/souldiers.md) | 4.54 | 
