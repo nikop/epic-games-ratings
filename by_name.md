@@ -403,7 +403,7 @@
 | 401 | [Outward](games/o/outward.md) | 4.53 | 
 | 402 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 403 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 404 | [Oxenfree](games/o/oxenfree.md) | 4.62 | 
+| 404 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
 | 405 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 406 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 407 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 

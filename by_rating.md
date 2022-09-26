@@ -264,16 +264,16 @@
 | 262 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 264 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
-| 265 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 266 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
-| 267 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 268 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 269 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 270 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 273 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 274 | [Oxenfree](games/o/oxenfree.md) | 4.62 | 
+| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 266 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 267 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
+| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 271 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 273 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 274 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
 | 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 276 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 277 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
