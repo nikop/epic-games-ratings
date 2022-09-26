@@ -545,16 +545,16 @@
 | 543 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 544 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 545 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
-| 546 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 547 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 548 | [Far Cry](games/f/far_cry.md) | 4.39 | 
-| 549 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
-| 550 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 551 | [Observation](games/o/observation.md) | 4.39 | 
-| 552 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 553 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 554 | [Core](games/c/core.md) | 4.38 | 
-| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.38 | 
+| 546 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 548 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
+| 549 | [Far Cry](games/f/far_cry.md) | 4.39 | 
+| 550 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
+| 551 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 552 | [Observation](games/o/observation.md) | 4.39 | 
+| 553 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 555 | [Core](games/c/core.md) | 4.38 | 
 | 556 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 557 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 558 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.38 | 

@@ -439,7 +439,7 @@
 | 437 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 438 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
 | 439 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
-| 440 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.38 | 
+| 440 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 441 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 442 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
