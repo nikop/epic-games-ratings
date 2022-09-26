@@ -180,7 +180,7 @@
 | 178 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 180 | [ELEX](games/e/elex.md) | 4.33 | 
-| 181 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
+| 181 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
@@ -252,7 +252,7 @@
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
 | 254 | [Haven](games/h/haven.md) | 4.77 | 
 | 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
@@ -659,7 +659,7 @@
 | 657 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 658 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 659 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 660 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 660 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 661 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 662 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 663 | [VALORANT](games/v/valorant.md) | 4.55 | 

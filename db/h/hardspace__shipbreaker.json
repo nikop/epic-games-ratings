@@ -1,11 +1,11 @@
 {
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 36,
   "FirstSeen": "2022-07-22T20:30:23.1372862+00:00",
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
-  "LastChanged": "2022-09-25T09:34:12.0927322+00:00",
+  "LastChanged": "2022-09-26T10:32:09.341754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-27T18:32:02.5218042+00:00",
@@ -105,6 +105,11 @@
     {
       "Time": "2022-09-25T09:34:12.0927325+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-26T10:32:09.3417542+00:00",
+      "Rating": 4.66,
       "NumberOfRatings": null
     }
   ],
