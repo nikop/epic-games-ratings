@@ -172,7 +172,7 @@
 | 170 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
-| 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
@@ -423,7 +423,7 @@
 | 421 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 422 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
-| 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 426 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
 | 427 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
@@ -597,7 +597,7 @@
 | 595 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 596 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 597 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
-| 598 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 598 | [The Surge](games/t/the_surge.md) | 4.55 | 
 | 599 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
 | 600 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 601 | [The Tenants](games/t/the_tenants.md) | 4.55 | 

@@ -32,14 +32,14 @@
 | 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
-| 33 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 35 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
-| 36 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 38 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 40 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 42 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
@@ -386,26 +386,26 @@
 | 384 | [Minit](games/m/minit.md) | 4.55 | 
 | 385 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 386 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 387 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 388 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
-| 389 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 390 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 391 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 392 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 393 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 394 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 395 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 396 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
-| 397 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
-| 398 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 399 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 400 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 401 | [Outward](games/o/outward.md) | 4.53 | 
-| 402 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 403 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 404 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 405 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 406 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 387 | [The Surge](games/t/the_surge.md) | 4.55 | 
+| 388 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
+| 389 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
+| 390 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
+| 391 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 392 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 393 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 394 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 395 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 397 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 398 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
+| 399 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
+| 400 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 401 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 402 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 403 | [Outward](games/o/outward.md) | 4.53 | 
+| 404 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 405 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 406 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 407 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 408 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
