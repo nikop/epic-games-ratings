@@ -522,7 +522,7 @@
 | 520 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 521 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
 | 522 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
-| 523 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 523 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 524 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 525 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 526 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 

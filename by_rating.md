@@ -487,13 +487,13 @@
 | 485 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 486 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 487 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 488 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 489 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 490 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 491 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 492 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 493 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 494 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 489 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 490 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 491 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 492 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 493 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 494 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 495 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 496 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 497 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
