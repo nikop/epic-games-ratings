@@ -589,10 +589,10 @@
 | 587 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 588 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
 | 589 | [Tacoma](games/t/tacoma.md) | 4.34 | 
-| 590 | [Encased](games/e/encased.md) | 4.34 | 
-| 591 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 592 | [ELEX](games/e/elex.md) | 4.33 | 
-| 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
+| 590 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 591 | [Encased](games/e/encased.md) | 4.34 | 
+| 592 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 593 | [ELEX](games/e/elex.md) | 4.33 | 
 | 594 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 595 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 596 | [Automachef](games/a/automachef.md) | 4.32 | 
