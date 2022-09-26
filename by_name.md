@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.10 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.11 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -363,7 +363,7 @@
 | 361 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 362 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 366 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 

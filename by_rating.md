@@ -434,23 +434,23 @@
 | 432 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 435 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 436 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 437 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 438 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 439 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 440 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 441 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 442 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
-| 443 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 444 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.50 | 
-| 445 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
-| 446 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 447 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 448 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 449 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 450 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 451 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 435 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 436 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 437 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 438 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 439 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 440 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 441 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 442 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 443 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
+| 444 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 445 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.50 | 
+| 446 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
+| 447 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 448 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 449 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 450 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 451 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 452 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 453 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 454 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -665,11 +665,11 @@
 | 663 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
 | 664 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 665 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
-| 666 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 667 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 668 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 669 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 670 | [Gloomhaven](games/g/gloomhaven.md) | 4.10 | 
+| 666 | [Gloomhaven](games/g/gloomhaven.md) | 4.11 | 
+| 667 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 668 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 669 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 670 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 671 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 672 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 673 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
