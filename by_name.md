@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
@@ -101,7 +101,7 @@
 | 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 102 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 102 | [Chorus](games/c/chorus.md) | 4.50 | 
 | 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
@@ -155,7 +155,7 @@
 | 153 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
 | 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 155 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 156 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
+| 156 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 157 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 158 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
@@ -485,7 +485,7 @@
 | 483 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 484 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 485 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 486 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 486 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 487 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 488 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 489 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
@@ -512,7 +512,7 @@
 | 510 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 511 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 512 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 513 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 513 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 514 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 515 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 516 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
@@ -595,7 +595,7 @@
 | 593 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 594 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 595 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
-| 596 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 596 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 597 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 598 | [The Surge](games/t/the_surge.md) | 4.55 | 
 | 599 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
