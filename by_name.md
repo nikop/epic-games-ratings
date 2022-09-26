@@ -317,7 +317,7 @@
 | 315 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 316 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 317 | [Lake](games/l/lake.md) | 4.05 | 
-| 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 319 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
 | 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
@@ -437,7 +437,7 @@
 | 435 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 436 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 437 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 438 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
+| 438 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
 | 439 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
 | 440 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.38 | 
 | 441 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
@@ -542,7 +542,7 @@
 | 540 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
 | 541 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 542 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 543 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.66 | 
+| 543 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 544 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 545 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 546 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
@@ -597,7 +597,7 @@
 | 595 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 596 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.11 | 
 | 597 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 598 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 598 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
 | 599 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 600 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 601 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
