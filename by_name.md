@@ -29,7 +29,7 @@
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
-| 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
+| 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
@@ -310,7 +310,7 @@
 | 308 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
 | 309 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 310 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 311 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 311 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 312 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 313 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 314 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
@@ -467,7 +467,7 @@
 | 465 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 466 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 467 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 468 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 468 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 469 | [Sable](games/s/sable.md) | 4.49 | 
 | 470 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 471 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -489,7 +489,7 @@
 | 487 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 488 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 489 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
-| 490 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 490 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 491 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 492 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.50 | 
 | 493 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
@@ -578,7 +578,7 @@
 | 576 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 577 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 578 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
-| 579 | [The Fall](games/t/the_fall.md) | 4.20 | 
+| 579 | [The Fall](games/t/the_fall.md) | 4.19 | 
 | 580 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 581 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 582 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
