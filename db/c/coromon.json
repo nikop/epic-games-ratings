@@ -1,10 +1,10 @@
 {
   "ID": "9aa3fab4ed5447d5b27e34d6aea7f259",
   "Name": "Coromon",
-  "Rating": 4.67,
+  "Rating": 4.65,
   "NumberOfRatings": 84,
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
-  "LastChanged": "2022-09-24T13:07:23.8574795+00:00",
+  "LastChanged": "2022-09-26T05:01:53.1614115+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:42.756351+00:00",
@@ -139,6 +139,11 @@
     {
       "Time": "2022-09-24T13:07:23.8574797+00:00",
       "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-26T05:01:53.1614117+00:00",
+      "Rating": 4.65,
       "NumberOfRatings": null
     }
   ],

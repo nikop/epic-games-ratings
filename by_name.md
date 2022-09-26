@@ -112,7 +112,7 @@
 | 110 | [Control](games/c/control.md) | 4.60 | 
 | 111 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 112 | [Core](games/c/core.md) | 4.38 | 
-| 113 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 113 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
@@ -218,7 +218,7 @@
 | 216 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 217 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 218 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 219 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 219 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 220 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 221 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 222 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -323,7 +323,7 @@
 | 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 322 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 323 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
-| 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 325 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 326 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 327 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
