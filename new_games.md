@@ -2,13 +2,13 @@
 | --- | ---- | ------ | 
 | 1 | [Potion Permit](games/p/potion_permit.md) | 3.57 | 
 | 2 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
-| 3 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
+| 3 | [Gloomhaven](games/g/gloomhaven.md) | 4.13 | 
 | 4 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 5 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.65 | 
 | 6 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 7 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 8 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 9 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 9 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 10 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 11 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
 | 12 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
@@ -18,7 +18,7 @@
 | 16 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 17 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 18 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
-| 19 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 19 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 20 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 21 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 22 | [DOOM 64](games/d/doom_64.md) | 4.66 | 

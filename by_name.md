@@ -9,7 +9,7 @@
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.41 | 
+| 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
@@ -31,7 +31,7 @@
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
-| 32 | [APE OUT](games/a/ape_out.md) | 4.64 | 
+| 32 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.61 | 
@@ -234,11 +234,11 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.12 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.13 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 239 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.86 | 
+| 239 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
 | 240 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 241 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 242 | [Good Company](games/g/good_company.md) | 4.47 | 
@@ -342,7 +342,7 @@
 | 340 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 341 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 342 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 343 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
+| 343 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
 | 344 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 345 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -380,7 +380,7 @@
 | 378 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 379 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 380 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 381 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 
+| 381 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 382 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
 | 383 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 384 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
@@ -439,7 +439,7 @@
 | 437 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 438 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 439 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 440 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 440 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 441 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 442 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 443 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
@@ -484,7 +484,7 @@
 | 482 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 483 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 484 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
-| 485 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
+| 485 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 486 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 487 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 488 | [Sheltered](games/s/sheltered.md) | 4.41 | 
@@ -640,7 +640,7 @@
 | 638 | [Trackmania](games/t/trackmania.md) | 4.68 | 
 | 639 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 640 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 641 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 641 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 642 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 643 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 644 | [Transistor](games/t/transistor.md) | 4.66 | 
