@@ -19,7 +19,7 @@
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
+| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -426,7 +426,7 @@
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 426 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
-| 427 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 427 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 428 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 429 | [Prey](games/p/prey.md) | 4.60 | 
 | 430 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 

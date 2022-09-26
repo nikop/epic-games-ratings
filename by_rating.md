@@ -493,16 +493,16 @@
 | 491 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 492 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 493 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 494 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 495 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
-| 496 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
-| 497 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 499 | [Figment](games/f/figment.md) | 4.44 | 
-| 500 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 501 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 502 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 494 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 495 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 496 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 497 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 498 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 499 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 500 | [Figment](games/f/figment.md) | 4.44 | 
+| 501 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 502 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 503 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 504 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 505 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 506 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
@@ -608,13 +608,13 @@
 | 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
 | 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 609 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
-| 610 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 611 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 612 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
-| 613 | [Hammerting](games/h/hammerting.md) | 4.29 | 
-| 614 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 615 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 609 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 610 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 611 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
+| 612 | [Hammerting](games/h/hammerting.md) | 4.29 | 
+| 613 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 614 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 615 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 616 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
 | 618 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
