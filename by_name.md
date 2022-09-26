@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -105,7 +105,7 @@
 | 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 106 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 106 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
@@ -424,7 +424,7 @@
 | 422 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 423 | [Pine](games/p/pine.md) | 4.12 | 
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
-| 425 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
+| 425 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 426 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
 | 427 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 428 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 

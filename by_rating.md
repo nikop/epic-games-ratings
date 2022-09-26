@@ -77,16 +77,16 @@
 | 75 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 77 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 79 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 80 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 81 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 82 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 83 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 84 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 85 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
-| 86 | [Quake](games/q/quake.md) | 4.79 | 
-| 87 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
+| 78 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 79 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 80 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 81 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 82 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 83 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 84 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
+| 85 | [Quake](games/q/quake.md) | 4.79 | 
+| 86 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
+| 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 89 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
 | 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
@@ -623,12 +623,12 @@
 | 621 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 622 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 623 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 624 | [Steelrising](games/s/steelrising.md) | 4.25 | 
-| 625 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
-| 626 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
-| 627 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
-| 628 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 629 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 624 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 625 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 626 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.25 | 
+| 627 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
+| 628 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 629 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 630 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 631 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 632 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
@@ -691,8 +691,8 @@
 | 689 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 690 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
 | 691 | [Conarium](games/c/conarium.md) | 4.00 | 
-| 692 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 693 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
+| 692 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
+| 693 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 694 | [Patron](games/p/patron.md) | 3.98 | 
 | 695 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 696 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
