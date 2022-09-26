@@ -1,11 +1,11 @@
 {
   "ID": "7da54ef55b9b4f098c14e4e2b4ac1128",
   "Name": "Dead Age 2",
-  "Rating": 4,
+  "Rating": 4.05,
   "NumberOfRatings": 21,
   "FirstSeen": "2022-07-22T20:25:57.2169584+00:00",
   "FirstSeenRating": "2022-09-08T02:01:53.0200092+00:00",
-  "LastChanged": "2022-09-22T02:01:29.9638831+00:00",
+  "LastChanged": "2022-09-26T03:01:41.2265279+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-08T02:01:53.0200095+00:00",
@@ -16,6 +16,11 @@
       "Time": "2022-09-22T02:01:29.9638833+00:00",
       "Rating": 4,
       "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-09-26T03:01:41.2265282+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

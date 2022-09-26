@@ -682,15 +682,15 @@
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
 | 682 | [Lake](games/l/lake.md) | 4.05 | 
-| 683 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
-| 684 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
-| 685 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 686 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 687 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
-| 688 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 689 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
-| 690 | [Conarium](games/c/conarium.md) | 4.00 | 
-| 691 | [Dead Age 2](games/d/dead_age_2.md) | 4.00 | 
+| 683 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 684 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
+| 685 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
+| 686 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 687 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 688 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
+| 689 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 690 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
+| 691 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 692 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 693 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 694 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
