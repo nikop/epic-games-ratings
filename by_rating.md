@@ -249,24 +249,24 @@
 | 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 248 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 249 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 250 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 251 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 252 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 253 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 254 | [HITMAN](games/h/hitman.md) | 4.63 | 
-| 255 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 256 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 257 | [Old World](games/o/old_world.md) | 4.63 | 
-| 258 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 259 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
-| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 261 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 262 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 263 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
-| 264 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 265 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 266 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 267 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
+| 250 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 251 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 252 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 253 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 254 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 255 | [HITMAN](games/h/hitman.md) | 4.63 | 
+| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 258 | [Old World](games/o/old_world.md) | 4.63 | 
+| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 260 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 264 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 266 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -615,10 +615,10 @@
 | 613 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 614 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 615 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 616 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 618 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 619 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 616 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 617 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 618 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 619 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 620 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
 | 621 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 622 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
@@ -658,7 +658,7 @@
 | 656 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 657 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 658 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 659 | [Gloomhaven](games/g/gloomhaven.md) | 4.15 | 
+| 659 | [Gloomhaven](games/g/gloomhaven.md) | 4.16 | 
 | 660 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 661 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 662 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
