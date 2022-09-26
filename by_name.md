@@ -610,7 +610,7 @@
 | 608 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 609 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 610 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 611 | [The World Next Door](games/t/the_world_next_door.md) | 4.03 | 
+| 611 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
 | 612 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 613 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 614 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
