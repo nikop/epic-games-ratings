@@ -85,7 +85,7 @@
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
+| 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
@@ -611,7 +611,7 @@
 | 609 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 610 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 611 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
-| 612 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 612 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 613 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 614 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 615 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 

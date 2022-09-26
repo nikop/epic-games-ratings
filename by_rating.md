@@ -317,24 +317,24 @@
 | 315 | [GRIME](games/g/grime.md) | 4.60 | 
 | 316 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 317 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 323 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 324 | [Hob](games/h/hob.md) | 4.59 | 
-| 325 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 326 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 327 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 328 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 329 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 330 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
-| 331 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 332 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 333 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 334 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 335 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 322 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 323 | [Hob](games/h/hob.md) | 4.59 | 
+| 324 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 325 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
+| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 327 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 328 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 329 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.59 | 
+| 330 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 331 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 332 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 333 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 334 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 335 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 336 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 337 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
 | 338 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -699,8 +699,8 @@
 | 697 | [Warface](games/w/warface.md) | 3.96 | 
 | 698 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 699 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 700 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 701 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 700 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 701 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 702 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 703 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.86 | 
 | 704 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
