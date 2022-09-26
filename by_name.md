@@ -92,7 +92,7 @@
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 91 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 93 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 93 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 95 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -118,7 +118,7 @@
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.68 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.38 | 
+| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
@@ -242,7 +242,7 @@
 | 240 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 241 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 242 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 243 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.21 | 
+| 243 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 245 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
 | 246 | [Griftlands](games/g/griftlands.md) | 4.82 | 
@@ -262,7 +262,7 @@
 | 260 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
 | 261 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 262 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
-| 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 263 | [HITMAN](games/h/hitman.md) | 4.63 | 
 | 264 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 265 | [Hob](games/h/hob.md) | 4.58 | 
 | 266 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
