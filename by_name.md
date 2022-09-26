@@ -511,7 +511,7 @@
 | 509 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 510 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 511 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 512 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 512 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 513 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 514 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 515 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
@@ -531,7 +531,7 @@
 | 529 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 530 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
 | 531 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
-| 532 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 532 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 533 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
 | 534 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 535 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 

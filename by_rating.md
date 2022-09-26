@@ -643,15 +643,15 @@
 | 641 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 642 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 643 | [The Fall](games/t/the_fall.md) | 4.20 | 
-| 644 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 645 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
-| 646 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 647 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
-| 649 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 650 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 651 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 652 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
+| 644 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 645 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 647 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 648 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 649 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 650 | [Hellpoint](games/h/hellpoint.md) | 4.19 | 
+| 651 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
+| 652 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 654 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
 | 655 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
