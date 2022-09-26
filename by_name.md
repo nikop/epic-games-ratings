@@ -8,7 +8,7 @@
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
@@ -426,7 +426,7 @@
 | 424 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 425 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 426 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
-| 427 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 427 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 428 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 429 | [Prey](games/p/prey.md) | 4.60 | 
 | 430 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -572,7 +572,7 @@
 | 570 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 571 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 572 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 573 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.74 | 
+| 573 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
 | 574 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 575 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 576 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
