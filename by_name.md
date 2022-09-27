@@ -326,7 +326,7 @@
 | 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 325 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 326 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 327 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 327 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 328 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 329 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
 | 330 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
@@ -651,7 +651,7 @@
 | 649 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 650 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
 | 651 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 652 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 652 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 
 | 653 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 654 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 655 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
