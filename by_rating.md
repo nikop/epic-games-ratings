@@ -110,29 +110,29 @@
 | 108 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
 | 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 110 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 111 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 112 | [Superliminal](games/s/superliminal.md) | 4.75 | 
-| 113 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 114 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 115 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 116 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 117 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 119 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 120 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 121 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 122 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 123 | [Revita](games/r/revita.md) | 4.74 | 
-| 124 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 125 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 126 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 127 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
-| 129 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 130 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 131 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 132 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
-| 133 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 111 | [Superliminal](games/s/superliminal.md) | 4.75 | 
+| 112 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
+| 113 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 114 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 115 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 116 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 117 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 119 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 120 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 121 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 122 | [Revita](games/r/revita.md) | 4.74 | 
+| 123 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 124 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 125 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 126 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 128 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 129 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 130 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 131 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
+| 132 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 133 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 134 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
 | 135 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 136 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
@@ -192,21 +192,21 @@
 | 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 191 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
 | 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 193 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
-| 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 203 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
-| 204 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 193 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 195 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 196 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 197 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 199 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
+| 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 201 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
+| 202 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 203 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 208 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 209 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
 | 210 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
@@ -605,9 +605,9 @@
 | 603 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
-| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 607 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 608 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 609 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 610 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 611 | [Ashen](games/a/ashen.md) | 4.29 | 

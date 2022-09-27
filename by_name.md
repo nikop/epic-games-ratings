@@ -186,7 +186,7 @@
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [EVE Online](games/e/eve_online.md) | 4.30 | 
+| 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -637,7 +637,7 @@
 | 635 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 636 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 637 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 638 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 638 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 639 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 640 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 641 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
@@ -686,7 +686,7 @@
 | 684 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 685 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 686 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 687 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 687 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 688 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
 | 689 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
 | 690 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
