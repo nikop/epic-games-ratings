@@ -121,37 +121,37 @@
 | 119 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 120 | [FUSER™](games/f/fuser™.md) | 4.74 | 
 | 121 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 122 | [Revita](games/r/revita.md) | 4.74 | 
-| 123 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 124 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 125 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 126 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
-| 128 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 129 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 130 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 131 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
-| 132 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
-| 133 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 134 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
-| 135 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 122 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 123 | [Revita](games/r/revita.md) | 4.74 | 
+| 124 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 125 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 126 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 127 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 129 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 130 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 131 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 132 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
+| 133 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 134 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 135 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
 | 136 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 137 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 138 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 139 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
 | 140 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 142 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 143 | [Fez](games/f/fez.md) | 4.72 | 
-| 144 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 145 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 146 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
-| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 149 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 150 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
-| 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 152 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
+| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 143 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 144 | [Fez](games/f/fez.md) | 4.72 | 
+| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 146 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 
+| 148 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 150 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 151 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
+| 152 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 153 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 154 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 

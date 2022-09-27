@@ -204,7 +204,7 @@
 | 202 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 203 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
-| 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 206 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
 | 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
@@ -598,7 +598,7 @@
 | 596 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 597 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 598 | [The Surge](games/t/the_surge.md) | 4.55 | 
-| 599 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
+| 599 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 600 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 601 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 602 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
