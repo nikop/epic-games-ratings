@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.50 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
@@ -469,7 +469,7 @@
 | 467 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 468 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 469 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 470 | [Sable](games/s/sable.md) | 4.50 | 
+| 470 | [Sable](games/s/sable.md) | 4.49 | 
 | 471 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 472 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 473 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
@@ -533,7 +533,7 @@
 | 531 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 532 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
 | 533 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
-| 534 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 534 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 535 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
 | 536 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 537 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
@@ -613,7 +613,7 @@
 | 611 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 612 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 613 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
-| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 615 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 616 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 617 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
