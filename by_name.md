@@ -22,7 +22,7 @@
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.49 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.50 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
@@ -314,7 +314,7 @@
 | 312 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 313 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 314 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 315 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 315 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 316 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 317 | [Lake](games/l/lake.md) | 4.05 | 
 | 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -401,7 +401,7 @@
 | 399 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 400 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 401 | [Outward](games/o/outward.md) | 4.53 | 
-| 402 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 402 | [Overcooked](games/o/overcooked.md) | 4.70 | 
 | 403 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 404 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
 | 405 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
@@ -572,7 +572,7 @@
 | 570 | [The Captain](games/t/the_captain.md) | 4.42 | 
 | 571 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 572 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 573 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 573 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 574 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
 | 575 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 576 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
