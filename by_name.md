@@ -54,7 +54,7 @@
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 55 | [Aztez](games/a/aztez.md) | 4.43 | 
+| 55 | [Aztez](games/a/aztez.md) | 4.42 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.66 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
@@ -354,7 +354,7 @@
 | 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
 | 354 | [Minit](games/m/minit.md) | 4.55 | 
-| 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 356 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
 | 357 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 358 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
@@ -466,7 +466,7 @@
 | 464 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 465 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 466 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 467 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 467 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 468 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 469 | [Sable](games/s/sable.md) | 4.49 | 
 | 470 | [Saints Row](games/s/saints_row.md) | 3.77 | 

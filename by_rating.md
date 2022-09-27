@@ -370,18 +370,18 @@
 | 368 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
 | 369 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 370 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 371 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 373 | [Horace](games/h/horace.md) | 4.56 | 
-| 374 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 375 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 376 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 377 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 378 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 379 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 380 | [Hue](games/h/hue.md) | 4.55 | 
-| 381 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 382 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 371 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 374 | [Horace](games/h/horace.md) | 4.56 | 
+| 375 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 376 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 377 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 378 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 379 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 380 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 381 | [Hue](games/h/hue.md) | 4.55 | 
+| 382 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 383 | [Minit](games/m/minit.md) | 4.55 | 
 | 384 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 385 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -508,19 +508,19 @@
 | 506 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
 | 507 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 509 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 510 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 511 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 512 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 513 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
-| 514 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 515 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 516 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 517 | [The Captain](games/t/the_captain.md) | 4.42 | 
-| 518 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 519 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 520 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 521 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 509 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 510 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 511 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 512 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
+| 513 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 514 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 515 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 516 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 517 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 518 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 519 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 520 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 521 | [Aztez](games/a/aztez.md) | 4.42 | 
 | 522 | [Gamedec](games/g/gamedec.md) | 4.42 | 
 | 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 524 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -703,7 +703,7 @@
 | 701 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 702 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 703 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
-| 704 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 704 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 705 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
 | 706 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 707 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
