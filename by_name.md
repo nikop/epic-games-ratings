@@ -316,7 +316,7 @@
 | 314 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 315 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 316 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 317 | [Lake](games/l/lake.md) | 4.05 | 
+| 317 | [Lake](games/l/lake.md) | 4.09 | 
 | 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 319 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
@@ -346,7 +346,7 @@
 | 344 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 345 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 347 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 347 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 348 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 349 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 350 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -355,7 +355,7 @@
 | 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
 | 354 | [Minit](games/m/minit.md) | 4.55 | 
 | 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 356 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
+| 356 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 357 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 358 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 359 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
@@ -613,7 +613,7 @@
 | 611 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 612 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 613 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
-| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 615 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 616 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 617 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
@@ -638,7 +638,7 @@
 | 636 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 637 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 638 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 639 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 639 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 640 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 641 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 642 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
