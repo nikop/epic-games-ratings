@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
@@ -137,7 +137,7 @@
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -351,7 +351,7 @@
 | 349 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 350 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 351 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 352 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 353 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
 | 354 | [Minit](games/m/minit.md) | 4.55 | 
 | 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 

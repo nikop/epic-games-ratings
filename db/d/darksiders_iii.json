@@ -1,10 +1,10 @@
 {
   "ID": "springbok",
   "Name": "Darksiders III",
-  "Rating": 4.47,
+  "Rating": 4.48,
   "NumberOfRatings": 116,
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
-  "LastChanged": "2022-09-23T14:01:16.8302611+00:00",
+  "LastChanged": "2022-09-27T14:00:52.0841226+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:42.0719798+00:00",
@@ -185,6 +185,11 @@
       "Time": "2022-09-23T14:01:16.8302613+00:00",
       "Rating": 4.47,
       "NumberOfRatings": 116
+    },
+    {
+      "Time": "2022-09-27T14:00:52.0841229+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [

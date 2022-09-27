@@ -168,40 +168,40 @@
 | 166 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 167 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 168 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
-| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 170 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 171 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 172 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 173 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 174 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 175 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 176 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
-| 177 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 178 | [Barony](games/b/barony.md) | 4.69 | 
-| 179 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 180 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 182 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 183 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 184 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 185 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 186 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 187 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 189 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 191 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
-| 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 193 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 195 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 196 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 197 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 199 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
-| 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 201 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 202 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 169 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
+| 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 171 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 173 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 174 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 175 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 176 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 177 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 178 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 179 | [Barony](games/b/barony.md) | 4.69 | 
+| 180 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 181 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 182 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 183 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 184 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 185 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 186 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 187 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 190 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 192 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
+| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
+| 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
 | 203 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
@@ -455,25 +455,25 @@
 | 453 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 454 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
 | 455 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 456 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 457 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 458 | [Isonzo](games/i/isonzo.md) | 4.49 | 
-| 459 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 461 | [Sable](games/s/sable.md) | 4.49 | 
-| 462 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 463 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 456 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 457 | [Isonzo](games/i/isonzo.md) | 4.49 | 
+| 458 | [Death Coming](games/d/death_coming.md) | 4.49 | 
+| 459 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 460 | [Sable](games/s/sable.md) | 4.49 | 
+| 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 462 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 463 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 465 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 466 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
-| 467 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 468 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
-| 469 | [Warpips](games/w/warpips.md) | 4.48 | 
-| 470 | [SMITE](games/s/smite.md) | 4.47 | 
-| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 473 | [Faeria](games/f/faeria.md) | 4.47 | 
-| 474 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 465 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 466 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 467 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
+| 468 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
+| 470 | [Warpips](games/w/warpips.md) | 4.48 | 
+| 471 | [SMITE](games/s/smite.md) | 4.47 | 
+| 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 473 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 474 | [Faeria](games/f/faeria.md) | 4.47 | 
 | 475 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 477 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
