@@ -1,10 +1,10 @@
 {
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 14635,
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2022-09-27T18:01:24.1107499+00:00",
+  "LastChanged": "2022-09-27T19:30:50.4113354+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:14.016107+00:00",
@@ -3134,6 +3134,11 @@
     {
       "Time": "2022-09-27T18:01:24.1107502+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-27T19:30:50.4113355+00:00",
+      "Rating": 4.59,
       "NumberOfRatings": null
     }
   ],

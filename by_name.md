@@ -135,7 +135,7 @@
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 134 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
@@ -171,7 +171,7 @@
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 170 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
+| 172 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
@@ -293,7 +293,7 @@
 | 291 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
-| 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 296 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -494,7 +494,7 @@
 | 492 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 493 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 494 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 495 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
+| 495 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 496 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 497 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 498 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
@@ -513,7 +513,7 @@
 | 511 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 512 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 513 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 514 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 514 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 515 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 516 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 517 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
@@ -561,7 +561,7 @@
 | 559 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 560 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 561 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 562 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 562 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 563 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 564 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 565 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -613,7 +613,7 @@
 | 611 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 612 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 613 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
-| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 615 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 616 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 617 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
