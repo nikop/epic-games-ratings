@@ -104,15 +104,15 @@
 | 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 103 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 104 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 105 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 106 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 107 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 108 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 110 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 111 | [Superliminal](games/s/superliminal.md) | 4.75 | 
-| 112 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 113 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 105 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 106 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 107 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
+| 108 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 109 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 110 | [Superliminal](games/s/superliminal.md) | 4.75 | 
+| 111 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
+| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 113 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 114 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 115 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 116 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
