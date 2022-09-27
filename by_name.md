@@ -296,7 +296,7 @@
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 296 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 298 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 299 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
@@ -469,7 +469,7 @@
 | 467 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 468 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 469 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 470 | [Sable](games/s/sable.md) | 4.49 | 
+| 470 | [Sable](games/s/sable.md) | 4.50 | 
 | 471 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 472 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 473 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
@@ -494,7 +494,7 @@
 | 492 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 493 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 494 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 495 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 495 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
 | 496 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 497 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 498 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
@@ -505,7 +505,7 @@
 | 503 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 504 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 505 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 506 | [SOMA](games/s/soma.md) | 4.70 | 
+| 506 | [SOMA](games/s/soma.md) | 4.71 | 
 | 507 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 508 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 509 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
