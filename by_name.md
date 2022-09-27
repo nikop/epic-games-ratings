@@ -166,7 +166,7 @@
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
-| 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 170 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
@@ -367,7 +367,7 @@
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 366 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
-| 368 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 368 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 369 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 370 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 371 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
@@ -584,7 +584,7 @@
 | 582 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
 | 583 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 584 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 585 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
+| 585 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 586 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 587 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 588 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 

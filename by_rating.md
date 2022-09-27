@@ -190,13 +190,13 @@
 | 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 189 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 191 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 192 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
-| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 191 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
+| 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 193 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
 | 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
@@ -207,11 +207,11 @@
 | 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 210 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 211 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 208 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 209 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 210 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 211 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 212 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 213 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 214 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 215 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
@@ -530,17 +530,17 @@
 | 528 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 529 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 530 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 531 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
-| 532 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 533 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 534 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
-| 535 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
-| 536 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
-| 538 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 539 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 540 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 541 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
+| 531 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 532 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 533 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
+| 534 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
+| 535 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 536 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
+| 537 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 538 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 539 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 540 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
+| 541 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 542 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 543 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 544 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
