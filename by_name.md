@@ -467,7 +467,7 @@
 | 465 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 466 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 467 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 468 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 468 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 469 | [Sable](games/s/sable.md) | 4.49 | 
 | 470 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 471 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 

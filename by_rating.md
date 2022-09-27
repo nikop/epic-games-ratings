@@ -500,19 +500,19 @@
 | 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 499 | [Figment](games/f/figment.md) | 4.44 | 
 | 500 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 501 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
-| 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 503 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 504 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 505 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 506 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
-| 507 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 509 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 510 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 511 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 512 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
-| 513 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 501 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 502 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 503 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 504 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 505 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 506 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 507 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
+| 508 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 510 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 511 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 512 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 513 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
 | 514 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 515 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 516 | [The Captain](games/t/the_captain.md) | 4.42 | 
