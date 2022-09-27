@@ -417,20 +417,20 @@
 | 415 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 416 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 418 | [Road 96](games/r/road_96.md) | 4.52 | 
-| 419 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 420 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 421 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 422 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 423 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
-| 424 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 425 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 426 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 427 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 428 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 429 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 431 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
+| 418 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 419 | [Road 96](games/r/road_96.md) | 4.52 | 
+| 420 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 422 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 423 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 424 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 425 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 426 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 427 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 428 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 429 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
+| 430 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 431 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 432 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 

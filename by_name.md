@@ -32,7 +32,7 @@
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 33 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 
+| 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
