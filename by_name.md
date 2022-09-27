@@ -252,7 +252,7 @@
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
+| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
 | 254 | [Haven](games/h/haven.md) | 4.77 | 
 | 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
@@ -528,7 +528,7 @@
 | 526 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 527 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
 | 528 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 529 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 529 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 530 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 531 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 532 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
