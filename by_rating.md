@@ -435,22 +435,22 @@
 | 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 435 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 436 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 437 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 438 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 439 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 440 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
-| 441 | [Isonzo](games/i/isonzo.md) | 4.50 | 
-| 442 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 443 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 444 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
-| 445 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 446 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 447 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 448 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 449 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 450 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 451 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 436 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 437 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 438 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 439 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
+| 440 | [Isonzo](games/i/isonzo.md) | 4.50 | 
+| 441 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 442 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 443 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
+| 444 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 445 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 446 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 447 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 448 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 449 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 450 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 451 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 452 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 453 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 454 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -658,7 +658,7 @@
 | 656 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 657 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 658 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 659 | [Gloomhaven](games/g/gloomhaven.md) | 4.16 | 
+| 659 | [Gloomhaven](games/g/gloomhaven.md) | 4.17 | 
 | 660 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 661 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 662 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 

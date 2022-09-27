@@ -121,7 +121,7 @@
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
-| 122 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 123 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.16 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.17 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
