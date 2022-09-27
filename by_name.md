@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -282,7 +282,7 @@
 | 280 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 281 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 282 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 283 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 283 | [Inscryption](games/i/inscryption.md) | 4.84 | 
 | 284 | [INSIDE](games/i/inside.md) | 4.70 | 
 | 285 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
 | 286 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
@@ -558,7 +558,7 @@
 | 556 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 557 | [Tacoma](games/t/tacoma.md) | 4.34 | 
 | 558 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 559 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.61 | 
+| 559 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 560 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 561 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 562 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -623,7 +623,7 @@
 | 621 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 622 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 623 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 624 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 624 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.54 | 
 | 625 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 626 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 627 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
@@ -650,7 +650,7 @@
 | 648 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 649 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 650 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
-| 651 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 651 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 652 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 
 | 653 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 654 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
