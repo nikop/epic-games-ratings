@@ -252,7 +252,7 @@
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 251 | [Hammerting](games/h/hammerting.md) | 4.32 | 
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 254 | [Haven](games/h/haven.md) | 4.77 | 
 | 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
@@ -702,7 +702,7 @@
 | 700 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 701 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 702 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 703 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 703 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
 | 704 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 705 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 706 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
