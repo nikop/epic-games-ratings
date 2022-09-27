@@ -282,29 +282,29 @@
 | 280 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 281 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 282 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 283 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 284 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 285 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 286 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 287 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 288 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 289 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 290 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
-| 291 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
-| 292 | [20XX](games/2/20xx.md) | 4.61 | 
-| 293 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 294 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 295 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 296 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 297 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
-| 298 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 299 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
-| 300 | [Control](games/c/control.md) | 4.60 | 
-| 301 | [Prey](games/p/prey.md) | 4.60 | 
-| 302 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 303 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 304 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 305 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 283 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 284 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 285 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 286 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 287 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 288 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 289 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
+| 290 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
+| 291 | [20XX](games/2/20xx.md) | 4.61 | 
+| 292 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 293 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 294 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 295 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 296 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
+| 297 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 298 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
+| 299 | [Control](games/c/control.md) | 4.60 | 
+| 300 | [Prey](games/p/prey.md) | 4.60 | 
+| 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 302 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 303 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 304 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 308 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -429,13 +429,13 @@
 | 427 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 428 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 429 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 430 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 431 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 432 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 435 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 436 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 430 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 431 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 432 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 433 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 434 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 435 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 436 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 437 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 438 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 439 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
@@ -576,17 +576,17 @@
 | 574 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 575 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 576 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 577 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 578 | [House Party](games/h/house_party.md) | 4.35 | 
-| 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
-| 580 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 581 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 582 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 583 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 584 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 585 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 586 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 587 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 577 | [House Party](games/h/house_party.md) | 4.35 | 
+| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 579 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 580 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 581 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
+| 582 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 583 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 584 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 585 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 586 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 587 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 588 | [Tacoma](games/t/tacoma.md) | 4.34 | 
 | 589 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 590 | [Encased](games/e/encased.md) | 4.34 | 
@@ -700,8 +700,8 @@
 | 698 | [Warface](games/w/warface.md) | 3.96 | 
 | 699 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 700 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 701 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
-| 702 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 701 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 702 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 703 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 704 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
 | 705 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 

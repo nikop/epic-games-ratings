@@ -85,7 +85,7 @@
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
@@ -299,7 +299,7 @@
 | 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 298 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 299 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 301 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 302 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
 | 303 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
@@ -356,7 +356,7 @@
 | 354 | [Minit](games/m/minit.md) | 4.55 | 
 | 355 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 356 | [Moonlighter](games/m/moonlighter.md) | 4.71 | 
-| 357 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 357 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 358 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 359 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 360 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
@@ -411,7 +411,7 @@
 | 409 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 410 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 411 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 412 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 412 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 413 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 414 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 415 | [Pathway](games/p/pathway.md) | 4.44 | 
