@@ -395,7 +395,7 @@
 | 393 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 394 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 395 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
-| 396 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 396 | [Othercide](games/o/othercide.md) | 4.44 | 
 | 397 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 398 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
 | 399 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 

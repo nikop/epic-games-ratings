@@ -499,50 +499,50 @@
 | 497 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 499 | [Figment](games/f/figment.md) | 4.44 | 
-| 500 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 501 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 502 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
-| 503 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 504 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 505 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 506 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 507 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
-| 508 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 510 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 511 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 512 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 513 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
-| 514 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 515 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 516 | [The Captain](games/t/the_captain.md) | 4.42 | 
-| 517 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 518 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 519 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 520 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 521 | [Aztez](games/a/aztez.md) | 4.42 | 
-| 522 | [Gamedec](games/g/gamedec.md) | 4.42 | 
-| 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 524 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 525 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 526 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
-| 527 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 528 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 529 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 530 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 531 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 532 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 533 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
-| 534 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
-| 535 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 536 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
-| 537 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 538 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 539 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 540 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
-| 541 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 542 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 543 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 500 | [Othercide](games/o/othercide.md) | 4.44 | 
+| 501 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 502 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 504 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 505 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 506 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 508 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
+| 509 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 511 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 512 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 513 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 514 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
+| 515 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 516 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 517 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 518 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 519 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 520 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 521 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 522 | [Aztez](games/a/aztez.md) | 4.42 | 
+| 523 | [Gamedec](games/g/gamedec.md) | 4.42 | 
+| 524 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 525 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 526 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 527 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
+| 528 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 529 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 530 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 531 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 532 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 533 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 534 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
+| 535 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
+| 536 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
+| 538 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 539 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 540 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 541 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
+| 542 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 543 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 544 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 545 | [Core](games/c/core.md) | 4.39 | 
 | 546 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
