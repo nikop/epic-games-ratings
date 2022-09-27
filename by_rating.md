@@ -117,18 +117,18 @@
 | 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 120 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 123 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 124 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 126 | [Revita](games/r/revita.md) | 4.74 | 
-| 127 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 129 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 118 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 122 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 123 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 124 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 125 | [Revita](games/r/revita.md) | 4.74 | 
+| 126 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 128 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 130 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
@@ -193,20 +193,20 @@
 | 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 192 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
 | 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
-| 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 203 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 194 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 199 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 200 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 201 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
+| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 203 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
+| 204 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 208 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 210 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
@@ -705,8 +705,8 @@
 | 703 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 704 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
 | 705 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 706 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
-| 707 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 708 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 709 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
+| 706 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 707 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
+| 708 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 709 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 710 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 

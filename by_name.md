@@ -165,7 +165,7 @@
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -426,7 +426,7 @@
 | 424 | [Pine](games/p/pine.md) | 4.12 | 
 | 425 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 426 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 427 | [Potion Permit](games/p/potion_permit.md) | 3.64 | 
+| 427 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 428 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 429 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 430 | [Prey](games/p/prey.md) | 4.60 | 
@@ -638,7 +638,7 @@
 | 636 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 637 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 638 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 639 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 639 | [Trackmania](games/t/trackmania.md) | 4.68 | 
 | 640 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 641 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 642 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
