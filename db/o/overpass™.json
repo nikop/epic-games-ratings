@@ -1,7 +1,16 @@
 {
   "ID": "90c3f58497da48d789cc39bff57dc2f4",
   "Name": "OVERPASS\u2122",
+  "Rating": 4.3,
   "FirstSeen": "2022-07-22T20:18:25.1920106+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-09-27T09:01:01.2666865+00:00",
+  "LastChanged": "2022-09-27T09:01:01.2666867+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-09-27T09:01:01.2666869+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
