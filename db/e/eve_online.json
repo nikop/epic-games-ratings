@@ -1,10 +1,10 @@
 {
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
-  "Rating": 4.29,
+  "Rating": 4.3,
   "NumberOfRatings": 1408,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2022-09-26T23:00:32.5712344+00:00",
+  "LastChanged": "2022-09-27T02:31:06.5017394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -1305,6 +1305,11 @@
       "Time": "2022-09-26T23:00:32.5712347+00:00",
       "Rating": 4.29,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-27T02:31:06.5017399+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1330,7 +1335,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 73
+      "Count": 75
     },
     {
       "Text": "This game has Competitive Players",

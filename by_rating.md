@@ -605,9 +605,9 @@
 | 603 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 607 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 608 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 606 | [EVE Online](games/e/eve_online.md) | 4.30 | 
+| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 609 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 610 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 611 | [Ashen](games/a/ashen.md) | 4.29 | 

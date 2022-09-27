@@ -186,7 +186,7 @@
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 187 | [EVE Online](games/e/eve_online.md) | 4.30 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
