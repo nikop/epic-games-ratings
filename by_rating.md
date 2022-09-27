@@ -117,18 +117,18 @@
 | 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 118 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 122 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 123 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 124 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 125 | [Revita](games/r/revita.md) | 4.74 | 
-| 126 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 128 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 120 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 123 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 124 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 126 | [Revita](games/r/revita.md) | 4.74 | 
+| 127 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 129 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 130 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
@@ -249,19 +249,19 @@
 | 247 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 248 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 249 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 250 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 252 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 253 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 254 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 258 | [Old World](games/o/old_world.md) | 4.63 | 
-| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 260 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
-| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 251 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 252 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 253 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 254 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 255 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 256 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 257 | [Old World](games/o/old_world.md) | 4.63 | 
+| 258 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 259 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 261 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 262 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 264 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
@@ -599,21 +599,21 @@
 | 597 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 598 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
-| 600 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 601 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 602 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 603 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
-| 604 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 605 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 607 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 608 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
-| 609 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 610 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 611 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 612 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 613 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
-| 614 | [Hammerting](games/h/hammerting.md) | 4.29 | 
+| 600 | [Hammerting](games/h/hammerting.md) | 4.32 | 
+| 601 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 602 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 603 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 604 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
+| 605 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 606 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 609 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
+| 610 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 611 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 612 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 613 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 614 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
 | 615 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 616 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 617 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 

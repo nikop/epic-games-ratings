@@ -127,7 +127,7 @@
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
 | 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -165,7 +165,7 @@
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -250,7 +250,7 @@
 | 248 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 249 | [Hades](games/h/hades.md) | 4.92 | 
 | 250 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 251 | [Hammerting](games/h/hammerting.md) | 4.29 | 
+| 251 | [Hammerting](games/h/hammerting.md) | 4.32 | 
 | 252 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 253 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
 | 254 | [Haven](games/h/haven.md) | 4.77 | 
