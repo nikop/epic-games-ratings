@@ -18,7 +18,7 @@
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -296,7 +296,7 @@
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 296 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 298 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 299 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
@@ -366,7 +366,7 @@
 | 364 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 365 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 366 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
+| 367 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 368 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 369 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 370 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
@@ -579,7 +579,7 @@
 | 577 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 578 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 579 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
-| 580 | [The Fall](games/t/the_fall.md) | 4.19 | 
+| 580 | [The Fall](games/t/the_fall.md) | 4.21 | 
 | 581 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 582 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 583 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
@@ -597,7 +597,7 @@
 | 595 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 596 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 597 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
-| 598 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
+| 598 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 599 | [The Surge](games/t/the_surge.md) | 4.56 | 
 | 600 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 601 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 

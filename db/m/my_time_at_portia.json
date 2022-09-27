@@ -1,10 +1,10 @@
 {
   "ID": "cobra",
   "Name": "My Time At Portia",
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 3894,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-09-23T11:01:21.2825203+00:00",
+  "LastChanged": "2022-09-27T19:01:43.8767707+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -2030,6 +2030,11 @@
       "Time": "2022-09-23T11:01:21.2825204+00:00",
       "Rating": 4.66,
       "NumberOfRatings": 3894
+    },
+    {
+      "Time": "2022-09-27T19:01:43.876771+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -2067,7 +2072,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game has Amazing Characters",

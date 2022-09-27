@@ -207,19 +207,19 @@
 | 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 208 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 210 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 211 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 212 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 214 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
-| 215 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 216 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 217 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 218 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 219 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 220 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
+| 208 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 215 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
+| 216 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 217 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 218 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 219 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 220 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 221 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 222 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
@@ -360,17 +360,17 @@
 | 358 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 359 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 360 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 361 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 362 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 364 | [Horace](games/h/horace.md) | 4.57 | 
-| 365 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
-| 366 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 367 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 368 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 369 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
-| 370 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 371 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 361 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 362 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 363 | [Horace](games/h/horace.md) | 4.57 | 
+| 364 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
+| 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 368 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 369 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 370 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 371 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 372 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 373 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
@@ -600,12 +600,12 @@
 | 598 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
 | 600 | [Hammerting](games/h/hammerting.md) | 4.32 | 
-| 601 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 602 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 603 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 604 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
-| 605 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 606 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 601 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 602 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 603 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
+| 604 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 605 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 606 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 609 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
@@ -638,16 +638,16 @@
 | 636 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 637 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 638 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 639 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 640 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 641 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 642 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 643 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
-| 644 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 645 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
-| 646 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 647 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 648 | [The Fall](games/t/the_fall.md) | 4.19 | 
+| 639 | [The Fall](games/t/the_fall.md) | 4.21 | 
+| 640 | [Family Man](games/f/family_man.md) | 4.21 | 
+| 641 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 642 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 643 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 644 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
+| 645 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 646 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 647 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 648 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 649 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 650 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 651 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -660,8 +660,8 @@
 | 658 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 659 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 660 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 661 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 662 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
+| 661 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
+| 662 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 663 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 664 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 665 | [Pine](games/p/pine.md) | 4.12 | 
