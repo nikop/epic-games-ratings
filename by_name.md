@@ -290,7 +290,7 @@
 | 288 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 289 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 290 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 291 | [Isonzo](games/i/isonzo.md) | 4.50 | 
+| 291 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 292 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 293 | [Journey](games/j/journey.md) | 4.80 | 
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
@@ -335,7 +335,7 @@
 | 333 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 334 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 335 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 337 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
 | 338 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 339 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
@@ -613,7 +613,7 @@
 | 611 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 612 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 613 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
-| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 615 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 616 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 617 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
