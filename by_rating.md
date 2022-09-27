@@ -374,18 +374,18 @@
 | 372 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 373 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 375 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 376 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 377 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 378 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 379 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 380 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 381 | [Hue](games/h/hue.md) | 4.55 | 
-| 382 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 383 | [Minit](games/m/minit.md) | 4.55 | 
-| 384 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 385 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 386 | [The Surge](games/t/the_surge.md) | 4.55 | 
+| 375 | [The Surge](games/t/the_surge.md) | 4.56 | 
+| 376 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 377 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 378 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 379 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 380 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 382 | [Hue](games/h/hue.md) | 4.55 | 
+| 383 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 384 | [Minit](games/m/minit.md) | 4.55 | 
+| 385 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 386 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 387 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
 | 388 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
 | 389 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
