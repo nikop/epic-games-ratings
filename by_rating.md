@@ -30,16 +30,16 @@
 | 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
-| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 33 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
-| 34 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 35 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
-| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 37 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 40 | [Inscryption](games/i/inscryption.md) | 4.84 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 36 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
+| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 38 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 41 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
@@ -207,20 +207,20 @@
 | 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 208 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 209 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 210 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 211 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 212 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
-| 213 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 214 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 215 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 216 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 217 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 218 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
-| 219 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 220 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
-| 221 | [Bad North](games/b/bad_north.md) | 4.66 | 
+| 208 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 210 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 211 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 213 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
+| 214 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 215 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 216 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 217 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 218 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 219 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
+| 220 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 221 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 223 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 
 | 224 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 

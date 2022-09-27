@@ -56,7 +56,7 @@
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.42 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 57 | [Bad North](games/b/bad_north.md) | 4.66 | 
+| 57 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.93 | 
 | 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
@@ -282,7 +282,7 @@
 | 280 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 281 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 282 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 283 | [Inscryption](games/i/inscryption.md) | 4.84 | 
+| 283 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 284 | [INSIDE](games/i/inside.md) | 4.70 | 
 | 285 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
 | 286 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
