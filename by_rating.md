@@ -22,16 +22,16 @@
 | 20 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 21 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
 | 22 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 24 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 25 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 26 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 27 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 23 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 24 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 27 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 28 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
@@ -77,16 +77,16 @@
 | 75 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 77 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 78 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 79 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 80 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 81 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 82 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 83 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 84 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
-| 85 | [Quake](games/q/quake.md) | 4.79 | 
-| 86 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
-| 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
+| 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 79 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 80 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 81 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 82 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 83 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 84 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 85 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
+| 86 | [Quake](games/q/quake.md) | 4.79 | 
+| 87 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 89 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
 | 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
@@ -249,17 +249,17 @@
 | 247 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 248 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 249 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 250 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 252 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 253 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 254 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 258 | [Old World](games/o/old_world.md) | 4.63 | 
-| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 251 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 252 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 253 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 254 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 255 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 256 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 257 | [Old World](games/o/old_world.md) | 4.63 | 
+| 258 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 259 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 260 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
 | 261 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 262 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
@@ -461,13 +461,13 @@
 | 459 | [Death Coming](games/d/death_coming.md) | 4.49 | 
 | 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 461 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 462 | [Sable](games/s/sable.md) | 4.49 | 
-| 463 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 464 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 465 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 467 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 468 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 462 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 463 | [Sable](games/s/sable.md) | 4.49 | 
+| 464 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 465 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 466 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 467 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 468 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 470 | [Warpips](games/w/warpips.md) | 4.48 | 
 | 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -705,8 +705,8 @@
 | 703 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 704 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
 | 705 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 706 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
-| 707 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 708 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 706 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 707 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 708 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
 | 709 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 710 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 

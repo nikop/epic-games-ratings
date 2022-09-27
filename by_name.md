@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -131,7 +131,7 @@
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 132 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 132 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 134 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -323,7 +323,7 @@
 | 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 322 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 323 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
-| 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 324 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
 | 325 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 326 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 327 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
@@ -426,7 +426,7 @@
 | 424 | [Pine](games/p/pine.md) | 4.12 | 
 | 425 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 426 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 427 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 427 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
 | 428 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 429 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 430 | [Prey](games/p/prey.md) | 4.60 | 
@@ -604,7 +604,7 @@
 | 602 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 603 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 604 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 605 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 605 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 606 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 607 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 608 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
