@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -161,7 +161,7 @@
 | 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 160 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 161 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
+| 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
@@ -169,7 +169,7 @@
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 170 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 170 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.86 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -243,7 +243,7 @@
 | 241 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 242 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 243 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 245 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
 | 246 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 247 | [GRIME](games/g/grime.md) | 4.60 | 

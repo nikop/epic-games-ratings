@@ -77,16 +77,16 @@
 | 75 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 77 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 79 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 80 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 81 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 82 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 83 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 84 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 85 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
-| 86 | [Quake](games/q/quake.md) | 4.79 | 
-| 87 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
+| 78 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 79 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 80 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 81 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 82 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 83 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 84 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
+| 85 | [Quake](games/q/quake.md) | 4.79 | 
+| 86 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
+| 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 89 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
 | 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
@@ -156,22 +156,22 @@
 | 154 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 155 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 157 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 158 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 160 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 161 | [Overcooked](games/o/overcooked.md) | 4.70 | 
-| 162 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
-| 163 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
-| 164 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
-| 165 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 166 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 167 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 168 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
-| 169 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
-| 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 171 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 157 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 158 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 159 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 161 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 162 | [Overcooked](games/o/overcooked.md) | 4.70 | 
+| 163 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
+| 164 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 165 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
+| 166 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 167 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 168 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 169 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
+| 170 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
+| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 172 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
 | 173 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 174 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 175 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -190,16 +190,16 @@
 | 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 190 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 192 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
-| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 199 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 200 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 191 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
+| 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 193 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 200 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 201 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
 | 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 203 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
@@ -432,16 +432,16 @@
 | 430 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 431 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 432 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 433 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 434 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 435 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 436 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 437 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 438 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 439 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
-| 440 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 441 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 442 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
+| 433 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 434 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 435 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 436 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 437 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 438 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 439 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 440 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
+| 441 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 442 | [Chorus](games/c/chorus.md) | 4.50 | 
 | 443 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 444 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 445 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
