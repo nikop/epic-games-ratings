@@ -104,31 +104,31 @@
 | 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 103 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 104 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 105 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 106 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 107 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 108 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 109 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 110 | [Superliminal](games/s/superliminal.md) | 4.75 | 
-| 111 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 112 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 113 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
-| 114 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 105 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 106 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 107 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 108 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
+| 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 110 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 111 | [Superliminal](games/s/superliminal.md) | 4.75 | 
+| 112 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
+| 113 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 114 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
+| 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 118 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 122 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 123 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 124 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 125 | [Revita](games/r/revita.md) | 4.74 | 
-| 126 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 128 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 120 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 123 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 124 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 126 | [Revita](games/r/revita.md) | 4.74 | 
+| 127 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 129 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 130 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
@@ -483,15 +483,15 @@
 | 481 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 482 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 483 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 484 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 485 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 486 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 487 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 489 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 490 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 491 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 492 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 484 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 485 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 486 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 487 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 488 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 489 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 490 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 491 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 492 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 493 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 494 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 495 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
@@ -544,17 +544,17 @@
 | 542 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 543 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 544 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 545 | [Core](games/c/core.md) | 4.39 | 
-| 546 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
-| 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 548 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 549 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
-| 550 | [Far Cry](games/f/far_cry.md) | 4.39 | 
-| 551 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 553 | [Observation](games/o/observation.md) | 4.39 | 
-| 554 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 555 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 545 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 546 | [Core](games/c/core.md) | 4.39 | 
+| 547 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
+| 548 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 549 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 550 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
+| 551 | [Far Cry](games/f/far_cry.md) | 4.39 | 
+| 552 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
+| 553 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 554 | [Observation](games/o/observation.md) | 4.39 | 
+| 555 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 556 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 557 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 558 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 

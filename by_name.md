@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
@@ -165,7 +165,7 @@
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -561,7 +561,7 @@
 | 559 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 560 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 561 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 562 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 562 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 563 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 564 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 565 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -572,7 +572,7 @@
 | 570 | [The Captain](games/t/the_captain.md) | 4.42 | 
 | 571 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 572 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 573 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 573 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 574 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
 | 575 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 576 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
