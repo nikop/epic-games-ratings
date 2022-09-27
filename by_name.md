@@ -129,7 +129,7 @@
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
-| 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 132 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
@@ -225,7 +225,7 @@
 | 223 | [FUSER™](games/f/fuser™.md) | 4.74 | 
 | 224 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 225 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 226 | [Gamedec](games/g/gamedec.md) | 4.42 | 
+| 226 | [Gamedec](games/g/gamedec.md) | 4.41 | 
 | 227 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
 | 228 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 229 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -492,7 +492,7 @@
 | 490 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 491 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 492 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 493 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
+| 493 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
 | 494 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 495 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 496 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -662,7 +662,7 @@
 | 660 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 661 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 662 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 663 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 663 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
 | 664 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 665 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 666 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
