@@ -599,23 +599,23 @@
 | 597 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 598 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
-| 600 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 601 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 602 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 603 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
-| 604 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 605 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 600 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 601 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 602 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
+| 603 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 604 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 605 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 607 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 608 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 609 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 610 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 611 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
-| 612 | [Hammerting](games/h/hammerting.md) | 4.29 | 
-| 613 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 614 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 615 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 616 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 609 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 610 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 611 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 612 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
+| 613 | [Hammerting](games/h/hammerting.md) | 4.29 | 
+| 614 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 615 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 616 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 617 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 618 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 619 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 

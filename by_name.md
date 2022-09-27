@@ -296,7 +296,7 @@
 | 294 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 296 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 297 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 298 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 299 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
@@ -553,7 +553,7 @@
 | 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
 | 552 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 553 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 554 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 554 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 555 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 556 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 557 | [Tacoma](games/t/tacoma.md) | 4.34 | 
