@@ -112,7 +112,7 @@
 | 110 | [Control](games/c/control.md) | 4.60 | 
 | 111 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 112 | [Core](games/c/core.md) | 4.39 | 
-| 113 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 113 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
@@ -176,7 +176,7 @@
 | 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 177 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 177 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 178 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 180 | [ELEX](games/e/elex.md) | 4.33 | 

@@ -225,32 +225,32 @@
 | 223 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 
 | 224 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 225 | [Transistor](games/t/transistor.md) | 4.66 | 
-| 226 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 227 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 228 | [The Pathless](games/t/the_pathless.md) | 4.66 | 
-| 229 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
-| 230 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 231 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 232 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 233 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 234 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 235 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 236 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 237 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 238 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 239 | [RiME](games/r/rime.md) | 4.65 | 
-| 240 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 226 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 227 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 228 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 229 | [The Pathless](games/t/the_pathless.md) | 4.66 | 
+| 230 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
+| 231 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 232 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 233 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 234 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 235 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 236 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 237 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 238 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 239 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
+| 240 | [RiME](games/r/rime.md) | 4.65 | 
 | 241 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
 | 242 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
 | 243 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 244 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 245 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 246 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 248 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 249 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 250 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 251 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 244 | [Eastward](games/e/eastward.md) | 4.65 | 
+| 245 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 246 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 247 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 248 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 249 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 251 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
 | 252 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
 | 253 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 254 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
