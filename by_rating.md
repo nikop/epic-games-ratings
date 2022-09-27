@@ -363,17 +363,17 @@
 | 361 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 362 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 364 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
-| 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 368 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
-| 369 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 370 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 371 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 374 | [Horace](games/h/horace.md) | 4.56 | 
+| 364 | [Horace](games/h/horace.md) | 4.57 | 
+| 365 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
+| 366 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 367 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 368 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 369 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 370 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 371 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 372 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 373 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 375 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 376 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 377 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -459,14 +459,14 @@
 | 457 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 458 | [Death Coming](games/d/death_coming.md) | 4.49 | 
 | 459 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 460 | [Sable](games/s/sable.md) | 4.49 | 
-| 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 462 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 463 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 465 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 466 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 467 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
+| 460 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 461 | [Sable](games/s/sable.md) | 4.49 | 
+| 462 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 464 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 465 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 467 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 468 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 470 | [Warpips](games/w/warpips.md) | 4.48 | 
@@ -642,10 +642,10 @@
 | 640 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 641 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 642 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 643 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 644 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
-| 645 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 643 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
+| 644 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 645 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 646 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 647 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 648 | [The Fall](games/t/the_fall.md) | 4.19 | 
 | 649 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
@@ -706,7 +706,7 @@
 | 704 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
 | 705 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 706 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
-| 707 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
+| 707 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 708 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 709 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 710 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 

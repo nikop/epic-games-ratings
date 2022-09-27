@@ -113,7 +113,7 @@
 | 111 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 112 | [Core](games/c/core.md) | 4.39 | 
 | 113 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 114 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
+| 114 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.68 | 
@@ -266,7 +266,7 @@
 | 264 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 265 | [Hob](games/h/hob.md) | 4.58 | 
 | 266 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 267 | [Horace](games/h/horace.md) | 4.56 | 
+| 267 | [Horace](games/h/horace.md) | 4.57 | 
 | 268 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 269 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 270 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -394,7 +394,7 @@
 | 392 | [Old World](games/o/old_world.md) | 4.63 | 
 | 393 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 394 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 395 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
+| 395 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 396 | [Othercide](games/o/othercide.md) | 4.44 | 
 | 397 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 398 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
@@ -682,7 +682,7 @@
 | 680 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 681 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 682 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 683 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 683 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
 | 684 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 685 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 686 | [Weird West](games/w/weird_west.md) | 4.41 | 
