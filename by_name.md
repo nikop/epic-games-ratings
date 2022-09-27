@@ -101,7 +101,7 @@
 | 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 102 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 102 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
@@ -468,7 +468,7 @@
 | 466 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 467 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 468 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 469 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 469 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 470 | [Sable](games/s/sable.md) | 4.49 | 
 | 471 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 472 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -498,7 +498,7 @@
 | 496 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 497 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 498 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 499 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.85 | 
+| 499 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 500 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 501 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 502 | [SMITE](games/s/smite.md) | 4.47 | 
