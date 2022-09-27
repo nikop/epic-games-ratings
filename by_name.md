@@ -80,7 +80,7 @@
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
@@ -613,7 +613,7 @@
 | 611 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 612 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 613 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
-| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 615 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 616 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 617 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
@@ -652,7 +652,7 @@
 | 650 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
 | 652 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
-| 653 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 
+| 653 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 654 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 655 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 656 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
