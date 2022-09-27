@@ -188,17 +188,17 @@
 | 186 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 187 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 189 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 191 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
-| 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 193 | [Trackmania](games/t/trackmania.md) | 4.68 | 
-| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 197 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 199 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 189 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 191 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 192 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
+| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 194 | [Trackmania](games/t/trackmania.md) | 4.68 | 
+| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
 | 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
@@ -267,15 +267,15 @@
 | 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
 | 266 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 274 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 276 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
+| 268 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
+| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 273 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 275 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 277 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
 | 278 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 279 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -645,14 +645,14 @@
 | 643 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 644 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 645 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 646 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
-| 648 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 649 | [The Fall](games/t/the_fall.md) | 4.19 | 
-| 650 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 651 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 652 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.19 | 
+| 647 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 648 | [The Fall](games/t/the_fall.md) | 4.19 | 
+| 649 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 650 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 651 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 652 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 653 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 654 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
 | 655 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
 | 656 | [Windbound](games/w/windbound.md) | 4.17 | 

@@ -476,7 +476,7 @@
 | 474 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 475 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 476 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 477 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 477 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 478 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 479 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 480 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
@@ -502,7 +502,7 @@
 | 500 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 501 | [SMITE](games/s/smite.md) | 4.47 | 
 | 502 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 503 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 503 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 504 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 505 | [SOMA](games/s/soma.md) | 4.70 | 
 | 506 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
@@ -645,7 +645,7 @@
 | 643 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 644 | [Transistor](games/t/transistor.md) | 4.66 | 
 | 645 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 646 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
+| 646 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
 | 647 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 648 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 649 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
