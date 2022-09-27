@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 49 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
@@ -83,7 +83,7 @@
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -234,7 +234,7 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.18 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.20 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 237 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -256,7 +256,7 @@
 | 254 | [Haven](games/h/haven.md) | 4.77 | 
 | 255 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 256 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.52 | 
+| 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 258 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 259 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 260 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
@@ -671,7 +671,7 @@
 | 669 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 670 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 671 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 672 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 
+| 672 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 
 | 673 | [Warface](games/w/warface.md) | 3.96 | 
 | 674 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 675 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
