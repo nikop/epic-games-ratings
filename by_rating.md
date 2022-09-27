@@ -470,12 +470,12 @@
 | 468 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 470 | [Warpips](games/w/warpips.md) | 4.48 | 
-| 471 | [SMITE](games/s/smite.md) | 4.47 | 
-| 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 473 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 474 | [Faeria](games/f/faeria.md) | 4.47 | 
-| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 473 | [Faeria](games/f/faeria.md) | 4.47 | 
+| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 475 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 476 | [SMITE](games/s/smite.md) | 4.46 | 
 | 477 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 478 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 479 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
@@ -493,17 +493,17 @@
 | 491 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 492 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 493 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 494 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 495 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
-| 496 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 497 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 498 | [Figment](games/f/figment.md) | 4.44 | 
-| 499 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
-| 500 | [Othercide](games/o/othercide.md) | 4.44 | 
-| 501 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 502 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
-| 504 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 494 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 495 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 496 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 497 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 498 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 499 | [Figment](games/f/figment.md) | 4.44 | 
+| 500 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
+| 501 | [Othercide](games/o/othercide.md) | 4.44 | 
+| 502 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 503 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 505 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 506 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
@@ -660,9 +660,9 @@
 | 658 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 659 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 660 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 661 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
-| 662 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 663 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 661 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 662 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
+| 663 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 664 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 665 | [Pine](games/p/pine.md) | 4.12 | 
 | 666 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 

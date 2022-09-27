@@ -195,7 +195,7 @@
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 195 | [Far Cry](games/f/far_cry.md) | 4.39 | 
-| 196 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 196 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 197 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 198 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 199 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -436,7 +436,7 @@
 | 434 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 435 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 436 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 437 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 437 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 438 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 439 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 440 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
@@ -501,7 +501,7 @@
 | 499 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 500 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 501 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 502 | [SMITE](games/s/smite.md) | 4.47 | 
+| 502 | [SMITE](games/s/smite.md) | 4.46 | 
 | 503 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 504 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 505 | [Solitairica](games/s/solitairica.md) | 4.49 | 
