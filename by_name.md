@@ -234,9 +234,9 @@
 | 232 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 234 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.17 | 
+| 235 | [Gloomhaven](games/g/gloomhaven.md) | 4.18 | 
 | 236 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 237 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 237 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 238 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 239 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
 | 240 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -707,6 +707,6 @@
 | 705 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 706 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
 | 707 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 708 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 708 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 709 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
 | 710 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 

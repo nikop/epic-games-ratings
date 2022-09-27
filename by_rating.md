@@ -520,14 +520,14 @@
 | 518 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 519 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 520 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 521 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 522 | [Aztez](games/a/aztez.md) | 4.42 | 
-| 523 | [Gamedec](games/g/gamedec.md) | 4.42 | 
-| 524 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 525 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 526 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 527 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
-| 528 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 521 | [Aztez](games/a/aztez.md) | 4.42 | 
+| 522 | [Gamedec](games/g/gamedec.md) | 4.42 | 
+| 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 524 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 525 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 526 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
+| 527 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 528 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 529 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 530 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 531 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
@@ -654,12 +654,12 @@
 | 652 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 654 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 655 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
-| 656 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
-| 657 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 658 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 659 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 660 | [Gloomhaven](games/g/gloomhaven.md) | 4.17 | 
+| 655 | [Gloomhaven](games/g/gloomhaven.md) | 4.18 | 
+| 656 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
+| 657 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
+| 658 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 659 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 660 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 661 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 662 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 663 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
@@ -671,9 +671,9 @@
 | 669 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 670 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 671 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 672 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 673 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 674 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
+| 672 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 673 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
+| 674 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 675 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 676 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 677 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
