@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -531,7 +531,7 @@
 | 529 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 530 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 531 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 532 | [Stories Untold](games/s/stories_untold.md) | 4.54 | 
+| 532 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 533 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
 | 534 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 535 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
