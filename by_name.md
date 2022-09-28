@@ -115,7 +115,7 @@
 | 113 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
+| 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
@@ -165,7 +165,7 @@
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 

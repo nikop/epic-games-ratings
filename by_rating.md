@@ -63,17 +63,17 @@
 | 61 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
 | 63 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
-| 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 65 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 66 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 67 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 68 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 69 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 70 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
-| 71 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 72 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 73 | [Journey](games/j/journey.md) | 4.80 | 
-| 74 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
+| 64 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
+| 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 73 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 74 | [Journey](games/j/journey.md) | 4.80 | 
 | 75 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 77 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
@@ -119,18 +119,18 @@
 | 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 119 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 121 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 124 | [FUSER™](games/f/fuser™.md) | 4.74 | 
-| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 126 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 128 | [Revita](games/r/revita.md) | 4.74 | 
-| 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 131 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 123 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 125 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 127 | [Revita](games/r/revita.md) | 4.74 | 
+| 128 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 130 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 131 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
 | 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
