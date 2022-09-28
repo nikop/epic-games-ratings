@@ -250,19 +250,19 @@
 | 248 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 249 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 250 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 252 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 253 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 254 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 258 | [Old World](games/o/old_world.md) | 4.63 | 
-| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 261 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 251 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 252 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 253 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 254 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 255 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 257 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 258 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 259 | [Old World](games/o/old_world.md) | 4.63 | 
+| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 262 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 265 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
@@ -636,11 +636,11 @@
 | 634 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 635 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 636 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
-| 637 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 638 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 639 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 640 | [The Fall](games/t/the_fall.md) | 4.21 | 
-| 641 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 
+| 637 | [Gloomhaven](games/g/gloomhaven.md) | 4.22 | 
+| 638 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 639 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 640 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 641 | [The Fall](games/t/the_fall.md) | 4.21 | 
 | 642 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 643 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 644 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
