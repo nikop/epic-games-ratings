@@ -22,7 +22,7 @@
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
@@ -64,7 +64,7 @@
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
+| 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -268,7 +268,7 @@
 | 266 | [Hob](games/h/hob.md) | 4.58 | 
 | 267 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 268 | [Horace](games/h/horace.md) | 4.57 | 
-| 269 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 269 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 270 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 271 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 272 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -330,7 +330,7 @@
 | 328 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 329 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 330 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
-| 331 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 331 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 332 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 333 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
 | 334 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
@@ -583,7 +583,7 @@
 | 581 | [The Fall](games/t/the_fall.md) | 4.21 | 
 | 582 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 583 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 584 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
+| 584 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 585 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 586 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 587 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -636,7 +636,7 @@
 | 634 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 635 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 636 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 637 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
+| 637 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 638 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 639 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 640 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
