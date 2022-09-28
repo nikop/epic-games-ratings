@@ -1,11 +1,11 @@
 {
   "ID": "7f1fa336313d48eca0a802170aa8dd8a",
   "Name": "Surgeon Simulator 2",
-  "Rating": 4.41,
+  "Rating": 4.43,
   "NumberOfRatings": 22,
   "FirstSeen": "2022-07-22T20:17:35.9477941+00:00",
   "FirstSeenRating": "2022-08-10T16:30:22.2242938+00:00",
-  "LastChanged": "2022-08-19T17:00:51.4301551+00:00",
+  "LastChanged": "2022-09-28T19:00:30.5742756+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-10T16:30:22.2242943+00:00",
@@ -21,6 +21,11 @@
       "Time": "2022-08-19T17:00:51.4301554+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-09-28T19:00:30.5742759+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

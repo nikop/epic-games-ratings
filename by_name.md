@@ -11,7 +11,7 @@
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
-| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
@@ -120,7 +120,7 @@
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.41 | 
+| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 123 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -228,7 +228,7 @@
 | 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 227 | [Gamedec](games/g/gamedec.md) | 4.41 | 
 | 228 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
-| 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
@@ -552,7 +552,7 @@
 | 550 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 551 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 552 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
+| 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
 | 554 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 555 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 556 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -684,7 +684,7 @@
 | 682 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 683 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 684 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 685 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
+| 685 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 686 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 687 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 688 | [Weird West](games/w/weird_west.md) | 4.41 | 
