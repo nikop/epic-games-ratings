@@ -127,8 +127,8 @@
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
 | 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
+| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 132 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
@@ -191,7 +191,7 @@
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 192 | [Faeria](games/f/faeria.md) | 4.47 | 
+| 192 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 195 | [Far Cry](games/f/far_cry.md) | 4.39 | 
@@ -620,7 +620,7 @@
 | 618 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 619 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 620 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 621 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 621 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 622 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 623 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 624 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
