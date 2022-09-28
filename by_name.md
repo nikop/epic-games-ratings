@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -246,7 +246,7 @@
 | 244 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 245 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 246 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
-| 247 | [Griftlands](games/g/griftlands.md) | 4.82 | 
+| 247 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 248 | [GRIME](games/g/grime.md) | 4.60 | 
 | 249 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 250 | [Hades](games/h/hades.md) | 4.92 | 
@@ -445,7 +445,7 @@
 | 443 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 444 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 445 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
-| 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 447 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 448 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 449 | [Revita](games/r/revita.md) | 4.74 | 
@@ -600,7 +600,7 @@
 | 598 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 599 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 600 | [The Surge](games/t/the_surge.md) | 4.56 | 
-| 601 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 601 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
 | 602 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 603 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 604 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
