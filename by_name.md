@@ -311,7 +311,7 @@
 | 309 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
 | 310 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 311 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 312 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 312 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 313 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 314 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 315 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
@@ -368,7 +368,7 @@
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 367 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 368 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 369 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 369 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 370 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 371 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 372 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
