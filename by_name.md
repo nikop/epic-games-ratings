@@ -54,7 +54,7 @@
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 55 | [Aztez](games/a/aztez.md) | 4.42 | 
+| 55 | [Aztez](games/a/aztez.md) | 4.43 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
@@ -97,7 +97,7 @@
 | 95 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 97 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
+| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
 | 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -409,7 +409,7 @@
 | 407 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 408 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 409 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 410 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 410 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 411 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 412 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 413 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
@@ -439,7 +439,7 @@
 | 437 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 438 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 439 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 440 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 440 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 441 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
 | 442 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
 | 443 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
@@ -574,7 +574,7 @@
 | 572 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 573 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 575 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
+| 575 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
 | 576 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 577 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 578 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
