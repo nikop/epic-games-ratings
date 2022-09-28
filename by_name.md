@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.20 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -336,7 +336,7 @@
 | 334 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 335 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 338 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
 | 339 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 340 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
@@ -470,7 +470,7 @@
 | 468 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 469 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 470 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 471 | [Sable](games/s/sable.md) | 4.49 | 
+| 471 | [Sable](games/s/sable.md) | 4.50 | 
 | 472 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 473 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 474 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
@@ -596,7 +596,7 @@
 | 594 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 595 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 596 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 597 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
+| 597 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 598 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 599 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 600 | [The Surge](games/t/the_surge.md) | 4.56 | 
