@@ -267,7 +267,7 @@
 | 265 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 266 | [Hob](games/h/hob.md) | 4.58 | 
 | 267 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 268 | [Horace](games/h/horace.md) | 4.57 | 
+| 268 | [Horace](games/h/horace.md) | 4.56 | 
 | 269 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 270 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 271 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -377,7 +377,7 @@
 | 375 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 376 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 377 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 378 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 378 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 379 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 380 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 381 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
@@ -425,7 +425,7 @@
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 424 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 425 | [Pine](games/p/pine.md) | 4.12 | 
-| 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 428 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
@@ -585,7 +585,7 @@
 | 583 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 584 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 585 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 586 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 586 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 587 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 588 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 589 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
