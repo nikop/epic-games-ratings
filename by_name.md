@@ -130,7 +130,7 @@
 | 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 132 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 134 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -389,7 +389,7 @@
 | 387 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 388 | [Observation](games/o/observation.md) | 4.39 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
-| 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
+| 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
 | 391 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 392 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 393 | [Old World](games/o/old_world.md) | 4.63 | 
@@ -419,7 +419,7 @@
 | 417 | [Patron](games/p/patron.md) | 3.98 | 
 | 418 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 419 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 420 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 420 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 421 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 422 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -628,7 +628,7 @@
 | 626 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 627 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.54 | 
 | 628 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 629 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 629 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 630 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 631 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 632 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
@@ -652,7 +652,7 @@
 | 650 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 651 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 652 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 653 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
+| 653 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 654 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 655 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 656 | [TUNIC](games/t/tunic.md) | 4.86 | 
