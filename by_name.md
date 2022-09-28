@@ -164,7 +164,7 @@
 | 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
@@ -203,7 +203,7 @@
 | 201 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 202 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 203 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
+| 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
 | 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 206 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
 | 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 

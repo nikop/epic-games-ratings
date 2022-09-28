@@ -101,15 +101,15 @@
 | 99 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 100 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 102 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.76 | 
-| 103 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 104 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 106 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 107 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 108 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 109 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 110 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 102 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 103 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.76 | 
+| 104 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
+| 105 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 106 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 107 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
+| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 110 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
 | 111 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 113 | [Superliminal](games/s/superliminal.md) | 4.75 | 
@@ -153,23 +153,23 @@
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 152 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
 | 153 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 154 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 156 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 157 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 158 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 160 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 161 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 162 | [Overcooked](games/o/overcooked.md) | 4.70 | 
-| 163 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
-| 164 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
-| 165 | [SOMA](games/s/soma.md) | 4.70 | 
-| 166 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 167 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 168 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
-| 169 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 170 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.70 | 
+| 154 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
+| 155 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 157 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 158 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 159 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 161 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 162 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 163 | [Overcooked](games/o/overcooked.md) | 4.70 | 
+| 164 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
+| 165 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 166 | [SOMA](games/s/soma.md) | 4.70 | 
+| 167 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 168 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 169 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
+| 170 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 172 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
 | 173 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
