@@ -90,7 +90,7 @@
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 91 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 93 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -522,7 +522,7 @@
 | 520 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 522 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 523 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.70 | 
+| 523 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 524 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 526 | [Starsand](games/s/starsand.md) | 4.31 | 
