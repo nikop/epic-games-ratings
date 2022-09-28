@@ -640,13 +640,13 @@
 | 638 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 639 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 640 | [The Fall](games/t/the_fall.md) | 4.21 | 
-| 641 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
-| 642 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 
-| 643 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 644 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 645 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 646 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
+| 641 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 
+| 642 | [Family Man](games/f/family_man.md) | 4.21 | 
+| 643 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 644 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 645 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
+| 647 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 648 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 649 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 650 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
