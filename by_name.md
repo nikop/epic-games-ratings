@@ -319,7 +319,7 @@
 | 317 | [Lake](games/l/lake.md) | 4.09 | 
 | 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 319 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
+| 320 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
 | 321 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 322 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 323 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
@@ -390,7 +390,7 @@
 | 388 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 389 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
 | 390 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 391 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 391 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 392 | [Old World](games/o/old_world.md) | 4.63 | 
 | 393 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 394 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
@@ -592,7 +592,7 @@
 | 590 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 591 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 592 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 593 | [The Pathless](games/t/the_pathless.md) | 4.66 | 
+| 593 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 594 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 595 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 596 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 

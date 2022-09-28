@@ -215,20 +215,20 @@
 | 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 215 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
-| 216 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 217 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 218 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 219 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 220 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 221 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 222 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
-| 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 224 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 225 | [Transistor](games/t/transistor.md) | 4.66 | 
-| 226 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 227 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 228 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 229 | [The Pathless](games/t/the_pathless.md) | 4.66 | 
+| 216 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 217 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 218 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 219 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 221 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 222 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 223 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
+| 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 226 | [Transistor](games/t/transistor.md) | 4.66 | 
+| 227 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 228 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 229 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 230 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 231 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 232 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -602,11 +602,11 @@
 | 600 | [Hammerting](games/h/hammerting.md) | 4.32 | 
 | 601 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 602 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 603 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
-| 604 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 605 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 606 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 607 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 603 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
+| 604 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
+| 605 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 606 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 607 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 608 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 609 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
 | 610 | [EVE Online](games/e/eve_online.md) | 4.29 | 
@@ -620,11 +620,11 @@
 | 618 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 619 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 620 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 621 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.26 | 
-| 622 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 623 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 624 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 625 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 621 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 622 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 623 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 624 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 625 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
 | 626 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 627 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 628 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
