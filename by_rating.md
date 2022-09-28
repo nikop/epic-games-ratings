@@ -71,17 +71,17 @@
 | 69 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 70 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 71 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 72 | [Journey](games/j/journey.md) | 4.80 | 
-| 73 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
-| 74 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 75 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 77 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 78 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 79 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 80 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 81 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 82 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 72 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 73 | [Journey](games/j/journey.md) | 4.80 | 
+| 74 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
+| 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 76 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 77 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 78 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 79 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 80 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 81 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 82 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 83 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 84 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 85 | [Quake](games/q/quake.md) | 4.79 | 
@@ -292,36 +292,36 @@
 | 290 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 291 | [20XX](games/2/20xx.md) | 4.61 | 
 | 292 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 293 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 294 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 295 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 296 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
-| 297 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 298 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
-| 299 | [Control](games/c/control.md) | 4.60 | 
-| 300 | [Prey](games/p/prey.md) | 4.60 | 
-| 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 302 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 303 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 304 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 308 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 293 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 294 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 295 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
+| 296 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 297 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
+| 298 | [Control](games/c/control.md) | 4.60 | 
+| 299 | [Prey](games/p/prey.md) | 4.60 | 
+| 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 302 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 303 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 306 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 307 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 310 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
-| 311 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
-| 312 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 313 | [GRIME](games/g/grime.md) | 4.60 | 
-| 314 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 315 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 316 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 317 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 318 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 319 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 320 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 321 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 322 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 313 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 314 | [GRIME](games/g/grime.md) | 4.60 | 
+| 315 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 316 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 322 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 323 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 324 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 

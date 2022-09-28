@@ -22,7 +22,7 @@
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
@@ -511,7 +511,7 @@
 | 509 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 510 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 511 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 512 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 512 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 513 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 514 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 515 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
@@ -614,7 +614,7 @@
 | 612 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 613 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
 | 614 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 615 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 615 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 616 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 617 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 618 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
