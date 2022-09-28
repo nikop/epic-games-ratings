@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [20XX](games/2/20xx.md) | 4.61 | 
-| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
+| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.44 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -105,7 +105,7 @@
 | 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 106 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 106 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
@@ -493,7 +493,7 @@
 | 491 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 492 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 493 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 494 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
+| 494 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
 | 495 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 496 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
 | 497 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -514,9 +514,9 @@
 | 512 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 513 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 514 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 515 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 515 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 516 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 517 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 517 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 519 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 520 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
@@ -529,7 +529,7 @@
 | 527 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 528 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 529 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 530 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 530 | [Steelrising](games/s/steelrising.md) | 4.23 | 
 | 531 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 532 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 533 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
@@ -582,7 +582,7 @@
 | 580 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.76 | 
 | 581 | [The Fall](games/t/the_fall.md) | 4.21 | 
 | 582 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 583 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 583 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 584 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 585 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 586 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
