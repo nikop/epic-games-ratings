@@ -140,16 +140,16 @@
 | 138 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 141 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
-| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 144 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 145 | [Fez](games/f/fez.md) | 4.72 | 
-| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 147 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 148 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 150 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 143 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 144 | [Fez](games/f/fez.md) | 4.72 | 
+| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 146 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 149 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 152 | [SOMA](games/s/soma.md) | 4.71 | 
 | 153 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
@@ -612,12 +612,12 @@
 | 610 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
 | 611 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 612 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 613 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 614 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 615 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
-| 616 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 617 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 618 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 613 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 614 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
+| 615 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 616 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 617 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 618 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 619 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 620 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 621 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
@@ -640,13 +640,13 @@
 | 638 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 639 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 640 | [The Fall](games/t/the_fall.md) | 4.21 | 
-| 641 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 
-| 642 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 643 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 644 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 645 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
-| 647 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 641 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
+| 642 | [Gloomhaven](games/g/gloomhaven.md) | 4.21 | 
+| 643 | [Family Man](games/f/family_man.md) | 4.21 | 
+| 644 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 645 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 646 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
 | 648 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 649 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 650 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
