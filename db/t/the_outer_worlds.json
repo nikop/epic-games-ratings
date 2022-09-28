@@ -1,10 +1,10 @@
 {
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
-  "Rating": 4.63,
+  "Rating": 4.62,
   "NumberOfRatings": 2487,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-09-23T11:01:52.0468393+00:00",
+  "LastChanged": "2022-09-28T05:01:39.6892551+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -1700,12 +1700,17 @@
       "Time": "2022-09-23T11:01:52.0468395+00:00",
       "Rating": 4.63,
       "NumberOfRatings": 2487
+    },
+    {
+      "Time": "2022-09-28T05:01:39.6892554+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1023
+      "Count": 1031
     },
     {
       "Text": "This game is Extremely Fun",

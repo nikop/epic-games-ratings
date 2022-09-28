@@ -230,21 +230,21 @@
 | 228 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 229 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 230 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 231 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 232 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 233 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 234 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 235 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 236 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 237 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 238 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 239 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 240 | [RiME](games/r/rime.md) | 4.65 | 
-| 241 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
-| 242 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 243 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
-| 244 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 245 | [Eastward](games/e/eastward.md) | 4.65 | 
+| 231 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 232 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 233 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 234 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 235 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 236 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 237 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 238 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 239 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 240 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
+| 241 | [RiME](games/r/rime.md) | 4.65 | 
+| 242 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
+| 243 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 244 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
+| 245 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 246 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 247 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 248 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -256,21 +256,21 @@
 | 254 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 258 | [Old World](games/o/old_world.md) | 4.63 | 
-| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 261 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 265 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
-| 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 267 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 268 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 257 | [Old World](games/o/old_world.md) | 4.63 | 
+| 258 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 259 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 260 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 261 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 262 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 264 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 266 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 271 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
 | 272 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 274 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 

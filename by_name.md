@@ -176,7 +176,7 @@
 | 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 177 | [Eastward](games/e/eastward.md) | 4.65 | 
+| 177 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 178 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 180 | [ELEX](games/e/elex.md) | 4.33 | 
@@ -592,7 +592,7 @@
 | 590 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 591 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 592 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 593 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 593 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
 | 594 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 595 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 596 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
