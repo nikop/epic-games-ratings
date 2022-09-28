@@ -23,15 +23,15 @@
 | 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 24 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 27 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
@@ -167,27 +167,27 @@
 | 165 | [Overcooked](games/o/overcooked.md) | 4.70 | 
 | 166 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 167 | [SOMA](games/s/soma.md) | 4.70 | 
-| 168 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 169 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
-| 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 171 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 172 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 173 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 174 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 175 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 176 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
-| 177 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 178 | [Barony](games/b/barony.md) | 4.69 | 
-| 179 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 180 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 182 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 183 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 184 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 185 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 186 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 187 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 168 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 169 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 170 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
+| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 172 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 173 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 174 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 175 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 176 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 177 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 178 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 179 | [Barony](games/b/barony.md) | 4.69 | 
+| 180 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 181 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 182 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 183 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 184 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 185 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 186 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 189 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 191 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
@@ -508,21 +508,21 @@
 | 506 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
 | 507 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 508 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 509 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 510 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 512 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 513 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 514 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 515 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 516 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 517 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
-| 518 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 519 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 520 | [The Captain](games/t/the_captain.md) | 4.42 | 
-| 521 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 522 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 523 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 509 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 511 | [Aztez](games/a/aztez.md) | 4.43 | 
+| 512 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 513 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 514 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 515 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 516 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
+| 517 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 518 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 519 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 520 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 521 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 522 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 523 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 524 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 525 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 526 | [Sheltered](games/s/sheltered.md) | 4.41 | 

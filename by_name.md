@@ -390,7 +390,7 @@
 | 388 | [Observation](games/o/observation.md) | 4.39 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
-| 391 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 391 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 392 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 393 | [Old World](games/o/old_world.md) | 4.63 | 
 | 394 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -575,7 +575,7 @@
 | 573 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 575 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
-| 576 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 576 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 577 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 578 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 579 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -606,7 +606,7 @@
 | 604 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 605 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 606 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 607 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 607 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 608 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 609 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 610 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
