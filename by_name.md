@@ -313,7 +313,7 @@
 | 311 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 312 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 313 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 314 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 314 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 
 | 315 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 316 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 317 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -562,7 +562,7 @@
 | 560 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 561 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 562 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 563 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 563 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 564 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 565 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 566 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -618,7 +618,7 @@
 | 616 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 617 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 618 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
-| 619 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 619 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 620 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 621 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 622 | [Timberborn](games/t/timberborn.md) | 4.69 | 
@@ -680,9 +680,9 @@
 | 678 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 679 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 680 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 681 | [Warpips](games/w/warpips.md) | 4.48 | 
+| 681 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 682 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 683 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 683 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 684 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 685 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
 | 686 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
