@@ -116,7 +116,7 @@
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
-| 117 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 117 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -158,7 +158,7 @@
 | 156 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 157 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 158 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 160 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 161 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
@@ -239,7 +239,7 @@
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 240 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
+| 240 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 241 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 242 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 243 | [Good Company](games/g/good_company.md) | 4.47 | 
@@ -348,7 +348,7 @@
 | 346 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 347 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 348 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 349 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 349 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 350 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 351 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 352 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
@@ -364,7 +364,7 @@
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 367 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 368 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -693,7 +693,7 @@
 | 691 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
 | 692 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 693 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 694 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
+| 694 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 695 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 696 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 697 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
