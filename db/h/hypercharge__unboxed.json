@@ -1,16 +1,21 @@
 {
   "ID": "a8e307d10c8c4940886205582b00a17a",
   "Name": "HYPERCHARGE: Unboxed",
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 20,
   "FirstSeen": "2022-07-22T20:25:35.1619996+00:00",
   "FirstSeenRating": "2022-09-09T22:01:31.3463712+00:00",
-  "LastChanged": "2022-09-09T22:01:31.3463714+00:00",
+  "LastChanged": "2022-09-28T23:32:33.3233514+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-09T22:01:31.3463715+00:00",
       "Rating": 4.7,
       "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-09-28T23:32:33.3233518+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

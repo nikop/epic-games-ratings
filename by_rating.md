@@ -158,20 +158,20 @@
 | 156 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
 | 157 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 158 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 159 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 160 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 161 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 162 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 163 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 164 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 165 | [Overcooked](games/o/overcooked.md) | 4.70 | 
-| 166 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
-| 167 | [SOMA](games/s/soma.md) | 4.70 | 
-| 168 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 169 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 170 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
-| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 172 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 159 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
+| 160 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 161 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 162 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 163 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 164 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 165 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 166 | [Overcooked](games/o/overcooked.md) | 4.70 | 
+| 167 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 168 | [SOMA](games/s/soma.md) | 4.70 | 
+| 169 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 170 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 171 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
+| 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 173 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 174 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 175 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -581,15 +581,15 @@
 | 579 | [House Party](games/h/house_party.md) | 4.35 | 
 | 580 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 581 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 582 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 583 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 584 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 585 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 586 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 587 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 588 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 589 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
-| 590 | [Tacoma](games/t/tacoma.md) | 4.34 | 
+| 582 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 583 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 584 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
+| 585 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 586 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 587 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 588 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 589 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
+| 590 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
 | 591 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 592 | [Encased](games/e/encased.md) | 4.34 | 
 | 593 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -630,15 +630,15 @@
 | 628 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 629 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 630 | [Steelrising](games/s/steelrising.md) | 4.23 | 
-| 631 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 632 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 633 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
-| 634 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 635 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 636 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
-| 637 | [Gloomhaven](games/g/gloomhaven.md) | 4.22 | 
-| 638 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 639 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 631 | [Gloomhaven](games/g/gloomhaven.md) | 4.23 | 
+| 632 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
+| 633 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 634 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 635 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 636 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 637 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 638 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 639 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 640 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 641 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 642 | [The Fall](games/t/the_fall.md) | 4.21 | 
@@ -707,8 +707,8 @@
 | 705 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 706 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
 | 707 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 708 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 709 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 710 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
+| 708 | [Potion Permit](games/p/potion_permit.md) | 3.84 | 
+| 709 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 710 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 711 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 712 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 

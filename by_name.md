@@ -227,7 +227,7 @@
 | 225 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 227 | [Gamedec](games/g/gamedec.md) | 4.41 | 
-| 228 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.22 | 
+| 228 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.22 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.23 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -277,7 +277,7 @@
 | 275 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 276 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 277 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 278 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 278 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
 | 279 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
 | 280 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 281 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
@@ -427,7 +427,7 @@
 | 425 | [Pine](games/p/pine.md) | 4.12 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 428 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
+| 428 | [Potion Permit](games/p/potion_permit.md) | 3.84 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
@@ -558,7 +558,7 @@
 | 556 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 557 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 558 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 559 | [Tacoma](games/t/tacoma.md) | 4.34 | 
+| 559 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 560 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 561 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 562 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
