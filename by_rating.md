@@ -267,17 +267,17 @@
 | 265 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
 | 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 274 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 275 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 277 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
-| 278 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
+| 268 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
+| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 273 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 275 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 276 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 277 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 278 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 279 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 280 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 281 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -569,13 +569,13 @@
 | 567 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 568 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 569 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 570 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 571 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 572 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
-| 573 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 574 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 575 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 570 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 571 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 572 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 573 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
+| 574 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 575 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 576 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 577 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 578 | [House Party](games/h/house_party.md) | 4.35 | 
 | 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
@@ -588,11 +588,11 @@
 | 586 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 587 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 588 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 589 | [Tacoma](games/t/tacoma.md) | 4.34 | 
-| 590 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 591 | [Encased](games/e/encased.md) | 4.34 | 
-| 592 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 593 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
+| 589 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
+| 590 | [Tacoma](games/t/tacoma.md) | 4.34 | 
+| 591 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 592 | [Encased](games/e/encased.md) | 4.34 | 
+| 593 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 594 | [ELEX](games/e/elex.md) | 4.33 | 
 | 595 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 596 | [Parkitect](games/p/parkitect.md) | 4.33 | 

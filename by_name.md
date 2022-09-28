@@ -26,7 +26,7 @@
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.62 | 
+| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
@@ -353,7 +353,7 @@
 | 351 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 352 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 353 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 354 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.33 | 
+| 354 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
 | 355 | [Minit](games/m/minit.md) | 4.55 | 
 | 356 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 357 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -520,7 +520,7 @@
 | 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 519 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 520 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 522 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 523 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 524 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
