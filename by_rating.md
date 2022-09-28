@@ -119,17 +119,17 @@
 | 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 119 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 123 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 124 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 126 | [Revita](games/r/revita.md) | 4.74 | 
-| 127 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 129 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 130 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.73 | 
+| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 121 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 125 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 127 | [Revita](games/r/revita.md) | 4.74 | 
+| 128 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 130 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 133 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
@@ -701,8 +701,8 @@
 | 699 | [Warface](games/w/warface.md) | 3.96 | 
 | 700 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 701 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 702 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
-| 703 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 702 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 703 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 704 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 705 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 706 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
