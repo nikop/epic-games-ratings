@@ -445,7 +445,7 @@
 | 443 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 444 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 445 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
-| 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 447 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 448 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 449 | [Revita](games/r/revita.md) | 4.74 | 
@@ -520,7 +520,7 @@
 | 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 519 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 520 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 522 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 523 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 524 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 

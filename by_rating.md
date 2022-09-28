@@ -442,21 +442,21 @@
 | 440 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 442 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 443 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
-| 444 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 445 | [Sable](games/s/sable.md) | 4.50 | 
-| 446 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 447 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 448 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 449 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 450 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 451 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 452 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 453 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 454 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 455 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 456 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 457 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 444 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
+| 445 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 446 | [Sable](games/s/sable.md) | 4.50 | 
+| 447 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 448 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 449 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 450 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 451 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 452 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 453 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 454 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 455 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 456 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 457 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 458 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 459 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 460 | [Death Coming](games/d/death_coming.md) | 4.49 | 
@@ -569,13 +569,13 @@
 | 567 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 568 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 569 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 570 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 571 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 572 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 573 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
-| 574 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 575 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 576 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 570 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 571 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 572 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
+| 573 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 574 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 575 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 577 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 578 | [House Party](games/h/house_party.md) | 4.35 | 
 | 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
