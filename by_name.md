@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
@@ -364,7 +364,7 @@
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 367 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 368 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -409,7 +409,7 @@
 | 407 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 408 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 409 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 410 | [Paradigm](games/p/paradigm.md) | 4.51 | 
+| 410 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 411 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 412 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 413 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
@@ -559,7 +559,7 @@
 | 557 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 558 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 559 | [Tacoma](games/t/tacoma.md) | 4.34 | 
-| 560 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 560 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 561 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 562 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 563 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
