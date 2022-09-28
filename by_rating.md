@@ -56,21 +56,21 @@
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 56 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
-| 57 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 58 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 59 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 61 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 63 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
-| 64 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
+| 57 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 58 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 59 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 60 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 61 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 62 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 63 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 64 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
+| 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 73 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 74 | [Journey](games/j/journey.md) | 4.80 | 
@@ -197,22 +197,22 @@
 | 195 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 196 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 197 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 199 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 201 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 202 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
-| 203 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 205 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 206 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 207 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 208 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 210 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 198 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 199 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 200 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
+| 201 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
+| 202 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 203 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 204 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 205 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 206 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 207 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 208 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 209 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 210 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 211 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 212 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 213 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 214 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 
 | 215 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 216 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 

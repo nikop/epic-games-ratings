@@ -10,7 +10,7 @@
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
+| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
@@ -547,7 +547,7 @@
 | 545 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 546 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 547 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
-| 548 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 548 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 549 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 550 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 551 | [Supraland](games/s/supraland.md) | 4.61 | 
