@@ -223,7 +223,7 @@
 | 221 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 222 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 223 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 224 | [FUSER™](games/f/fuser™.md) | 4.74 | 
+| 224 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 225 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 227 | [Gamedec](games/g/gamedec.md) | 4.41 | 
@@ -432,7 +432,7 @@
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
 | 432 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 433 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 433 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 434 | [Quake](games/q/quake.md) | 4.79 | 
 | 435 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -478,7 +478,7 @@
 | 476 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 477 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 478 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 479 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 479 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 480 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 481 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 482 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
@@ -520,15 +520,15 @@
 | 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 519 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 520 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 522 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 523 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 524 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 524 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 526 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 527 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 528 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 529 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 529 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 530 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 531 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 532 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
@@ -674,7 +674,7 @@
 | 672 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 673 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 674 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 
-| 675 | [Warface](games/w/warface.md) | 3.96 | 
+| 675 | [Warface](games/w/warface.md) | 3.95 | 
 | 676 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 677 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 678 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
