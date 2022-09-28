@@ -368,7 +368,7 @@
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 367 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 368 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 369 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 369 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 370 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 371 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 372 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
@@ -498,7 +498,7 @@
 | 496 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
 | 497 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 498 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 499 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
+| 499 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 500 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 501 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 502 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
@@ -533,7 +533,7 @@
 | 531 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 532 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 533 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 534 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
+| 534 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
 | 535 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 536 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
 | 537 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
@@ -627,7 +627,7 @@
 | 625 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 626 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.54 | 
 | 627 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 628 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 628 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 629 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 630 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 631 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 

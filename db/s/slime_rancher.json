@@ -1,10 +1,10 @@
 {
   "ID": "corydalis",
   "Name": "Slime Rancher",
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 5898,
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-09-23T14:01:49.6358478+00:00",
+  "LastChanged": "2022-09-28T06:01:13.5063897+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -2210,6 +2210,11 @@
       "Time": "2022-09-23T14:01:49.6358479+00:00",
       "Rating": 4.84,
       "NumberOfRatings": 5898
+    },
+    {
+      "Time": "2022-09-28T06:01:13.5063899+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [

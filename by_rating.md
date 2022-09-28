@@ -37,17 +37,17 @@
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 37 | [Firework](games/f/firework.md) | 4.85 | 
-| 38 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
-| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 41 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 40 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 42 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
 | 43 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 44 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 45 | [Subnautica](games/s/subnautica.md) | 4.83 | 
-| 46 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 48 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.83 | 
+| 46 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 47 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 48 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 49 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 50 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
 | 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -196,31 +196,31 @@
 | 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 198 | [Crashlands](games/c/crashlands.md) | 4.68 | 
-| 199 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 200 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 201 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
-| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 203 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 204 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 208 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 209 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 210 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 212 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 213 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 214 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 215 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 216 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
-| 217 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 218 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 219 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 220 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 221 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 197 | [Crashlands](games/c/crashlands.md) | 4.68 | 
+| 198 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 199 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 200 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.68 | 
+| 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
+| 203 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 205 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 206 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 207 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 215 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
+| 216 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 217 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 218 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 219 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 222 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 223 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 224 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
