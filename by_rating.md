@@ -203,24 +203,24 @@
 | 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 202 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
 | 203 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
-| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 208 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
-| 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 215 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
-| 216 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 217 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 218 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 219 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 204 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 208 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 209 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 210 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 212 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 213 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 214 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 215 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 216 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
+| 217 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 218 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 219 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 220 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 221 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 222 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 223 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 224 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
@@ -369,17 +369,17 @@
 | 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 368 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
 | 369 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 371 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 372 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 373 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 375 | [The Surge](games/t/the_surge.md) | 4.56 | 
-| 376 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 377 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 378 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 379 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 380 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 370 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 371 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 372 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 373 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 374 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 376 | [The Surge](games/t/the_surge.md) | 4.56 | 
+| 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 378 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 379 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 380 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 382 | [Hue](games/h/hue.md) | 4.55 | 
 | 383 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -556,17 +556,17 @@
 | 554 | [Observation](games/o/observation.md) | 4.39 | 
 | 555 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 556 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 557 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 558 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 559 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 560 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
-| 561 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 562 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
-| 563 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
-| 564 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 565 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
-| 566 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 567 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 557 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 558 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 559 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 560 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 561 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
+| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 563 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
+| 564 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
+| 565 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 566 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
+| 567 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 568 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 569 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 570 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 

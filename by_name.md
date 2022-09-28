@@ -129,7 +129,7 @@
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
-| 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 132 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
@@ -190,7 +190,7 @@
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 192 | [Faeria](games/f/faeria.md) | 4.47 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
@@ -627,7 +627,7 @@
 | 625 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 626 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.54 | 
 | 627 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 628 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 628 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 629 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 630 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 631 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
