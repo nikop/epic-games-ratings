@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
@@ -362,7 +362,7 @@
 | 360 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 361 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 363 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -445,7 +445,7 @@
 | 443 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 444 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 445 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
-| 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 447 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 448 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 449 | [Revita](games/r/revita.md) | 4.74 | 
@@ -673,7 +673,7 @@
 | 671 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 672 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 673 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 674 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 
+| 674 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
 | 675 | [Warface](games/w/warface.md) | 3.95 | 
 | 676 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 677 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
@@ -704,7 +704,7 @@
 | 702 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 703 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 704 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 705 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
+| 705 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 706 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 707 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 708 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
