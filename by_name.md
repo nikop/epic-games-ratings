@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.69 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -441,7 +441,7 @@
 | 439 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 440 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 441 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 442 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 442 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 443 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 444 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 445 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
@@ -527,7 +527,7 @@
 | 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 526 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 527 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 528 | [Startup Panic](games/s/startup_panic.md) | 4.29 | 
+| 528 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 529 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 530 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 531 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 

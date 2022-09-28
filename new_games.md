@@ -4,7 +4,7 @@
 | 2 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 3 | [Gloomhaven](games/g/gloomhaven.md) | 4.22 | 
 | 4 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 5 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 5 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.69 | 
 | 6 | [Isonzo](games/i/isonzo.md) | 4.48 | 
 | 7 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 8 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
@@ -18,7 +18,7 @@
 | 16 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 17 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 18 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.20 | 
-| 19 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.24 | 
+| 19 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 20 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
 | 21 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 22 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
