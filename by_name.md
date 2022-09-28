@@ -169,7 +169,7 @@
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.67 | 
 | 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 170 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 170 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
 | 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -500,7 +500,7 @@
 | 498 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 499 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 500 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
-| 501 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 501 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 502 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 503 | [SMITE](games/s/smite.md) | 4.46 | 
 | 504 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
