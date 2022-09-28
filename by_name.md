@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.69 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.67 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -338,7 +338,7 @@
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 338 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
-| 339 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 339 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 340 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 341 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 342 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -386,7 +386,7 @@
 | 384 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 385 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 386 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 387 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 387 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 388 | [Observation](games/o/observation.md) | 4.39 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
@@ -707,7 +707,7 @@
 | 705 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
 | 706 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 707 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 708 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
+| 708 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 709 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 710 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 711 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
