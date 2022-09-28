@@ -140,16 +140,16 @@
 | 138 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 141 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
-| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 144 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 145 | [Fez](games/f/fez.md) | 4.72 | 
-| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 147 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 148 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 150 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 143 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 144 | [Fez](games/f/fez.md) | 4.72 | 
+| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 146 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 149 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 152 | [SOMA](games/s/soma.md) | 4.71 | 
 | 153 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
@@ -458,15 +458,15 @@
 | 456 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 457 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 458 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 459 | [Isonzo](games/i/isonzo.md) | 4.49 | 
-| 460 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 461 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 462 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 463 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 464 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 465 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 466 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 467 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 459 | [Death Coming](games/d/death_coming.md) | 4.49 | 
+| 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 461 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 462 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 464 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 465 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 467 | [Isonzo](games/i/isonzo.md) | 4.48 | 
 | 468 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 470 | [Warpips](games/w/warpips.md) | 4.48 | 
@@ -670,9 +670,9 @@
 | 668 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
 | 669 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 670 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 671 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 672 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 673 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 671 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 672 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 673 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 674 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 675 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 676 | [Lake](games/l/lake.md) | 4.09 | 

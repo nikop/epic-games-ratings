@@ -271,7 +271,7 @@
 | 269 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 270 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 271 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 272 | [House Flipper](games/h/house_flipper.md) | 4.72 | 
+| 272 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 273 | [House Party](games/h/house_party.md) | 4.35 | 
 | 274 | [Hue](games/h/hue.md) | 4.55 | 
 | 275 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
@@ -291,7 +291,7 @@
 | 289 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 290 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 291 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 292 | [Isonzo](games/i/isonzo.md) | 4.49 | 
+| 292 | [Isonzo](games/i/isonzo.md) | 4.48 | 
 | 293 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 294 | [Journey](games/j/journey.md) | 4.80 | 
 | 295 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
@@ -446,7 +446,7 @@
 | 444 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 445 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 447 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 447 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 448 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 449 | [Revita](games/r/revita.md) | 4.74 | 
 | 450 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
