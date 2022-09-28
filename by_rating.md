@@ -151,20 +151,20 @@
 | 149 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 152 | [SOMA](games/s/soma.md) | 4.71 | 
-| 153 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
-| 154 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 155 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 157 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 158 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 159 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 161 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 162 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 163 | [Overcooked](games/o/overcooked.md) | 4.70 | 
-| 164 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
-| 165 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 152 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
+| 153 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 154 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 156 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 157 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 158 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 160 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 161 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 162 | [Overcooked](games/o/overcooked.md) | 4.70 | 
+| 163 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 
+| 164 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 165 | [SOMA](games/s/soma.md) | 4.70 | 
 | 166 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 167 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 168 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
@@ -705,9 +705,10 @@
 | 703 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 704 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 705 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.87 | 
-| 706 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 707 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 708 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 709 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
-| 710 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 711 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
+| 706 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
+| 707 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 708 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 709 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 710 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
+| 711 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
+| 712 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
