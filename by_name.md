@@ -92,7 +92,7 @@
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 93 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 93 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 95 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -674,7 +674,7 @@
 | 672 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 673 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 674 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
-| 675 | [Warface](games/w/warface.md) | 3.95 | 
+| 675 | [Warface](games/w/warface.md) | 3.96 | 
 | 676 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 677 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 678 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
