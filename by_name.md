@@ -129,7 +129,7 @@
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.57 | 
-| 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 132 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
@@ -347,7 +347,7 @@
 | 345 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 347 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 348 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 348 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 349 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 350 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 351 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 

@@ -177,22 +177,22 @@
 | 175 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 176 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 177 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
-| 178 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 179 | [Barony](games/b/barony.md) | 4.69 | 
-| 180 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 181 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 182 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 183 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 184 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 185 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 186 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 187 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 190 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 191 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
-| 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 193 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 178 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 179 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 180 | [Barony](games/b/barony.md) | 4.69 | 
+| 181 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 182 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 183 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 184 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 185 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 186 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 188 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 189 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 190 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 191 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 192 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.69 | 
+| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 195 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 196 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
@@ -555,16 +555,16 @@
 | 553 | [Observation](games/o/observation.md) | 4.39 | 
 | 554 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 555 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 556 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 557 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 558 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 559 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 561 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
-| 562 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
-| 563 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 564 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
-| 565 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 556 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 557 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 558 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 560 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
+| 561 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
+| 562 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 563 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
+| 564 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 565 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 566 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
 | 567 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 568 | [Paladins](games/p/paladins.md) | 4.36 | 
