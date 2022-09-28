@@ -256,21 +256,21 @@
 | 254 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 255 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 256 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 257 | [Old World](games/o/old_world.md) | 4.63 | 
-| 258 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 259 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 260 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 261 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 262 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 263 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 264 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
-| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 266 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 271 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 257 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 258 | [Old World](games/o/old_world.md) | 4.63 | 
+| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 261 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 265 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 267 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 268 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 273 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
@@ -438,19 +438,19 @@
 | 436 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 437 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 438 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 439 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
-| 440 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 442 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 443 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
-| 444 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 445 | [Sable](games/s/sable.md) | 4.50 | 
-| 446 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 447 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 448 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 449 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 450 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 451 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 439 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 440 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 441 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 442 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.50 | 
+| 443 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 444 | [Sable](games/s/sable.md) | 4.50 | 
+| 445 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 446 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 447 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 448 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 449 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 450 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 451 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 452 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 453 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 454 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 

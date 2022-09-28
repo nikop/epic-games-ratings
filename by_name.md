@@ -364,7 +364,7 @@
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 367 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 368 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -592,7 +592,7 @@
 | 590 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 591 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 592 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 593 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 593 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 594 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 595 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 596 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 

@@ -1,10 +1,10 @@
 {
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 2487,
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-09-28T05:01:39.6892551+00:00",
+  "LastChanged": "2022-09-28T10:02:03.2528096+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -1705,6 +1705,11 @@
       "Time": "2022-09-28T05:01:39.6892554+00:00",
       "Rating": 4.62,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-28T10:02:03.2528101+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1730,7 +1735,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Diverse Characters",
