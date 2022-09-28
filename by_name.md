@@ -76,7 +76,7 @@
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
@@ -578,7 +578,7 @@
 | 576 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 577 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 578 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 579 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
+| 579 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.76 | 
 | 580 | [The Fall](games/t/the_fall.md) | 4.21 | 
 | 581 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 582 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 

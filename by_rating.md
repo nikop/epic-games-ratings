@@ -88,19 +88,19 @@
 | 86 | [Quake](games/q/quake.md) | 4.79 | 
 | 87 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 89 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.78 | 
-| 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 91 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 92 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 93 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 95 | [Northgard](games/n/northgard.md) | 4.77 | 
-| 96 | [Haven](games/h/haven.md) | 4.77 | 
-| 97 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 99 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 100 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 89 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 90 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 92 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 93 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 94 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 95 | [Haven](games/h/haven.md) | 4.77 | 
+| 96 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 98 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 99 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 100 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 101 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.76 | 
 | 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 103 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 104 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
@@ -654,11 +654,11 @@
 | 652 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 653 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 654 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 655 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 656 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
-| 657 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
-| 658 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 659 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 655 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
+| 656 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 657 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 
+| 658 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
+| 659 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 660 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 661 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 662 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
