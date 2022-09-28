@@ -12,7 +12,7 @@
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 13 | [Alan Wake](games/a/alan_wake.md) | 4.49 | 
+| 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -494,7 +494,7 @@
 | 492 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 493 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
 | 494 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 495 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 495 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
 | 496 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 497 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 498 | [Slime Rancher](games/s/slime_rancher.md) | 4.84 | 
@@ -646,7 +646,7 @@
 | 644 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 645 | [Transistor](games/t/transistor.md) | 4.66 | 
 | 646 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 647 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
+| 647 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 648 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 649 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 650 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
@@ -689,7 +689,7 @@
 | 687 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 688 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 689 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
-| 690 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.57 | 
+| 690 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 691 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 692 | [Wildermyth](games/w/wildermyth.md) | 4.73 | 
 | 693 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
