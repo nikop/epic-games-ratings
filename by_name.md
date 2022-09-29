@@ -11,7 +11,7 @@
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
+| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
@@ -291,7 +291,7 @@
 | 289 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 290 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 291 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 292 | [Isonzo](games/i/isonzo.md) | 4.48 | 
+| 292 | [Isonzo](games/i/isonzo.md) | 4.47 | 
 | 293 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 294 | [Journey](games/j/journey.md) | 4.80 | 
 | 295 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
@@ -533,7 +533,7 @@
 | 531 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 532 | [Steelrising](games/s/steelrising.md) | 4.23 | 
 | 533 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
-| 534 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 534 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 535 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 536 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
 | 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
@@ -582,7 +582,7 @@
 | 580 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 581 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 582 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 583 | [The Fall](games/t/the_fall.md) | 4.21 | 
+| 583 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 584 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 585 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 586 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
@@ -645,7 +645,7 @@
 | 643 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 644 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 645 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 646 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 646 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 647 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 648 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 649 | [Transistor](games/t/transistor.md) | 4.64 | 
