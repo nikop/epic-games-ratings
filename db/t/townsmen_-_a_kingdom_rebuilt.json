@@ -1,10 +1,10 @@
 {
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
-  "Rating": 4.22,
+  "Rating": 4.21,
   "NumberOfRatings": 37,
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
-  "LastChanged": "2022-09-13T12:00:39.2037594+00:00",
+  "LastChanged": "2022-09-29T22:00:51.0504689+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:10.6515248+00:00",
@@ -95,6 +95,11 @@
       "Time": "2022-09-13T12:00:39.2037596+00:00",
       "Rating": 4.22,
       "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-09-29T22:00:51.0504692+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

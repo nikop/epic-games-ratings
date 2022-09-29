@@ -133,17 +133,17 @@
 | 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 132 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 134 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
-| 135 | [Fez](games/f/fez.md) | 4.73 | 
-| 136 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 143 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 134 | [Fez](games/f/fez.md) | 4.73 | 
+| 135 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 137 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 142 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 145 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
 | 146 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 147 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
@@ -200,23 +200,23 @@
 | 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 200 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
-| 201 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 203 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 204 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 205 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
-| 206 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
-| 207 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 208 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 209 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 210 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 211 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 212 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 213 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 214 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 215 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 216 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 217 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 201 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 202 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 203 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 204 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 205 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 206 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
+| 207 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 208 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 209 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 210 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 211 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 212 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 213 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 214 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 215 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 216 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 217 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 218 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 219 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 220 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
@@ -576,15 +576,15 @@
 | 574 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 575 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 576 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 577 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
-| 578 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 579 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 580 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 581 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 582 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 583 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 584 | [House Party](games/h/house_party.md) | 4.35 | 
-| 585 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 577 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 578 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 579 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 580 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
+| 581 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 582 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 583 | [House Party](games/h/house_party.md) | 4.35 | 
+| 584 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 585 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
 | 586 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 588 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
@@ -638,13 +638,13 @@
 | 636 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 637 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 638 | [The Fall](games/t/the_fall.md) | 4.22 | 
-| 639 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 640 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 641 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 642 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 643 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 644 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
-| 645 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
+| 639 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 640 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 641 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 642 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 643 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
+| 644 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
+| 645 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 646 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 647 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 648 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 

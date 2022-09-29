@@ -118,7 +118,7 @@
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
+| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -549,7 +549,7 @@
 | 547 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 548 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 549 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
-| 550 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 550 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 551 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
 | 552 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 553 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -599,7 +599,7 @@
 | 597 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 598 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 599 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 600 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
+| 600 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 601 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 602 | [The Surge](games/t/the_surge.md) | 4.55 | 
 | 603 | [The Surge 2](games/t/the_surge_2.md) | 3.92 | 
@@ -641,7 +641,7 @@
 | 639 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
 | 640 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 641 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 642 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 642 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 643 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 644 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 645 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
