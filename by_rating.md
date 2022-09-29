@@ -705,9 +705,9 @@
 | 703 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 704 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 705 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
-| 706 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
-| 707 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 708 | [Potion Permit](games/p/potion_permit.md) | 3.84 | 
+| 706 | [Potion Permit](games/p/potion_permit.md) | 3.87 | 
+| 707 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
+| 708 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 709 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 710 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 711 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
