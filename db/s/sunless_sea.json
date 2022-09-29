@@ -1,10 +1,10 @@
 {
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 401,
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
-  "LastChanged": "2022-09-26T12:30:47.2371948+00:00",
+  "LastChanged": "2022-09-29T09:31:08.8497386+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:36.9352359+00:00",
@@ -479,6 +479,11 @@
     {
       "Time": "2022-09-26T12:30:47.2371952+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-29T09:31:08.8497389+00:00",
+      "Rating": 4.6,
       "NumberOfRatings": null
     }
   ],

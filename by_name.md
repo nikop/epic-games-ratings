@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.24 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.23 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -544,7 +544,7 @@
 | 542 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 543 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
 | 544 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 545 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 545 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 546 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 547 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 548 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
@@ -690,7 +690,7 @@
 | 688 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 689 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 690 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 691 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
+| 691 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
 | 692 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 693 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 694 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
@@ -711,4 +711,4 @@
 | 709 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 710 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 711 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 712 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 712 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
