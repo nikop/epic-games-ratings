@@ -439,19 +439,19 @@
 | 437 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 438 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 439 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 440 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 442 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 443 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 444 | [Sable](games/s/sable.md) | 4.50 | 
-| 445 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 446 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 447 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 448 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 449 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 450 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 451 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 452 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 440 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 441 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 442 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 444 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 445 | [Sable](games/s/sable.md) | 4.50 | 
+| 446 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 447 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 448 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 449 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 450 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 451 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 452 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 453 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 454 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 455 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
