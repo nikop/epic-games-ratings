@@ -383,17 +383,17 @@
 | 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 382 | [Hue](games/h/hue.md) | 4.55 | 
 | 383 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 384 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
-| 385 | [Minit](games/m/minit.md) | 4.55 | 
-| 386 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 387 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 388 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 389 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
-| 390 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 391 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 392 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 393 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 394 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.54 | 
+| 384 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
+| 385 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 386 | [Minit](games/m/minit.md) | 4.55 | 
+| 387 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 388 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 389 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
+| 390 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
+| 391 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
+| 392 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 395 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 396 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 397 | [Souldiers](games/s/souldiers.md) | 4.54 | 
