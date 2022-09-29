@@ -522,13 +522,13 @@
 | 520 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 521 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 522 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 523 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 524 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 525 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 526 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 527 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 528 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 529 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 523 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 524 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 525 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 526 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 527 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 528 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 529 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 530 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 531 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 532 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -628,9 +628,9 @@
 | 626 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
 | 627 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 628 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 629 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 630 | [Steelrising](games/s/steelrising.md) | 4.23 | 
-| 631 | [Gloomhaven](games/g/gloomhaven.md) | 4.23 | 
+| 629 | [Gloomhaven](games/g/gloomhaven.md) | 4.24 | 
+| 630 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 631 | [Steelrising](games/s/steelrising.md) | 4.23 | 
 | 632 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 633 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 634 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
