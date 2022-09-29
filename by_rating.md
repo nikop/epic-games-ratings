@@ -283,29 +283,29 @@
 | 281 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 282 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 283 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 284 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 285 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 286 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 287 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 288 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 289 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 290 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 291 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
-| 292 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
-| 293 | [20XX](games/2/20xx.md) | 4.61 | 
-| 294 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 295 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 297 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 298 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
-| 299 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 300 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
-| 301 | [Control](games/c/control.md) | 4.60 | 
-| 302 | [Prey](games/p/prey.md) | 4.60 | 
-| 303 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 304 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 305 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 306 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 284 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 285 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 286 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 287 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 288 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 289 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 290 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
+| 291 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
+| 292 | [20XX](games/2/20xx.md) | 4.61 | 
+| 293 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 294 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 295 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 296 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 297 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
+| 298 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 299 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
+| 300 | [Control](games/c/control.md) | 4.60 | 
+| 301 | [Prey](games/p/prey.md) | 4.60 | 
+| 302 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 303 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 304 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 305 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 306 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 307 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 308 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 309 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -692,10 +692,10 @@
 | 690 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 691 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 692 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
-| 693 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
-| 694 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
-| 695 | [Conarium](games/c/conarium.md) | 4.00 | 
-| 696 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
+| 693 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
+| 694 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
+| 695 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
+| 696 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 697 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 698 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 699 | [Patron](games/p/patron.md) | 3.98 | 

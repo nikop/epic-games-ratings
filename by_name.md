@@ -412,7 +412,7 @@
 | 410 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 411 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 412 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 414 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 415 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 416 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -426,7 +426,7 @@
 | 424 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
-| 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
+| 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
 | 428 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
