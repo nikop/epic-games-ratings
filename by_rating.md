@@ -92,13 +92,13 @@
 | 90 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 92 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 98 | [Haven](games/h/haven.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 93 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 97 | [Haven](games/h/haven.md) | 4.77 | 
+| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -283,29 +283,29 @@
 | 281 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 282 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 283 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 284 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 285 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 286 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 287 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 288 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 289 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 290 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
-| 291 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
-| 292 | [20XX](games/2/20xx.md) | 4.61 | 
-| 293 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 294 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 295 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 296 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 297 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
-| 298 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 299 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
-| 300 | [Control](games/c/control.md) | 4.60 | 
-| 301 | [Prey](games/p/prey.md) | 4.60 | 
-| 302 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 303 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 304 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 305 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 306 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 284 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 285 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 286 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 287 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 288 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 289 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 290 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 291 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
+| 292 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
+| 293 | [20XX](games/2/20xx.md) | 4.61 | 
+| 294 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 295 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 297 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 298 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
+| 299 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 300 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
+| 301 | [Control](games/c/control.md) | 4.60 | 
+| 302 | [Prey](games/p/prey.md) | 4.60 | 
+| 303 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 304 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 305 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 306 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 307 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 308 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 309 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -569,11 +569,11 @@
 | 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 568 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 569 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 570 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
-| 571 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 572 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 574 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 570 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 571 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
+| 572 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 573 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 574 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 575 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 576 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 577 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 

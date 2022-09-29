@@ -81,7 +81,7 @@
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -119,7 +119,7 @@
 | 117 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
-| 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 120 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 123 | [CryoFall](games/c/cryofall.md) | 4.40 | 
@@ -412,7 +412,7 @@
 | 410 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 411 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 412 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 414 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 415 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 416 | [Pathway](games/p/pathway.md) | 4.44 | 
