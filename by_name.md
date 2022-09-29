@@ -102,7 +102,7 @@
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 102 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 106 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
@@ -383,7 +383,7 @@
 | 381 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 382 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 383 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
-| 384 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 384 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 385 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 386 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 387 | [Obduction](games/o/obduction.md) | 4.10 | 
@@ -412,7 +412,7 @@
 | 410 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 411 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 412 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 414 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 415 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 416 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -601,7 +601,7 @@
 | 599 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 600 | [The Surge](games/t/the_surge.md) | 4.56 | 
 | 601 | [The Surge 2](games/t/the_surge_2.md) | 3.92 | 
-| 602 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
+| 602 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 603 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 604 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 605 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
