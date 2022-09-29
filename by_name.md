@@ -138,7 +138,7 @@
 | 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 

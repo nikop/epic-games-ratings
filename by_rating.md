@@ -360,16 +360,16 @@
 | 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 359 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 360 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 361 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 362 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 364 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 365 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 366 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 367 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
-| 368 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 369 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 361 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 362 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 363 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 368 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 369 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 370 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 371 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 372 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 373 | [RUINER](games/r/ruiner.md) | 4.56 | 
