@@ -423,7 +423,7 @@
 | 421 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 422 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 424 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 424 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 425 | [Pine](games/p/pine.md) | 4.12 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
@@ -692,7 +692,7 @@
 | 690 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 691 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.68 | 
 | 692 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
-| 693 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 693 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 694 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 695 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 696 | [Windbound](games/w/windbound.md) | 4.17 | 

@@ -410,22 +410,22 @@
 | 408 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 412 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 413 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 414 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 415 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 416 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 417 | [Road 96](games/r/road_96.md) | 4.52 | 
-| 418 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 419 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 420 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 421 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 422 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 423 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
-| 424 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 425 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 426 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 411 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 414 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 415 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 418 | [Road 96](games/r/road_96.md) | 4.52 | 
+| 419 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 420 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 422 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 423 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 424 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 425 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 426 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 427 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 428 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
 | 429 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
@@ -695,9 +695,9 @@
 | 693 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 694 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 695 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 696 | [Patron](games/p/patron.md) | 3.98 | 
-| 697 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 698 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 696 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 697 | [Patron](games/p/patron.md) | 3.98 | 
+| 698 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 699 | [Warface](games/w/warface.md) | 3.96 | 
 | 700 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 701 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
