@@ -505,7 +505,7 @@
 | 503 | [SMITE](games/s/smite.md) | 4.46 | 
 | 504 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 505 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 506 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 506 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 507 | [SOMA](games/s/soma.md) | 4.70 | 
 | 508 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -535,7 +535,7 @@
 | 533 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 534 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
 | 535 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
-| 536 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.65 | 
+| 536 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 537 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 538 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 539 | [Submerged](games/s/submerged.md) | 4.04 | 
@@ -570,7 +570,7 @@
 | 568 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 569 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 570 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 571 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 571 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 572 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 573 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
@@ -579,7 +579,7 @@
 | 577 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 578 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 579 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 580 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.76 | 
+| 580 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 581 | [The Fall](games/t/the_fall.md) | 4.21 | 
 | 582 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 583 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
