@@ -92,13 +92,13 @@
 | 90 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 92 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 93 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 97 | [Haven](games/h/haven.md) | 4.77 | 
-| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 98 | [Haven](games/h/haven.md) | 4.77 | 
+| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -148,13 +148,13 @@
 | 146 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 147 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
 | 148 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 149 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 150 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 151 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 152 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 153 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 154 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 155 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.71 | 
+| 149 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.72 | 
+| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 152 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 153 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 154 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 155 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 156 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 157 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
 | 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -187,19 +187,19 @@
 | 185 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 186 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 188 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 189 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 190 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 192 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
-| 193 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
-| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 200 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 189 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 191 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
+| 192 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
+| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 198 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 199 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 200 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 201 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 202 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 203 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
@@ -261,17 +261,17 @@
 | 259 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 260 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 261 | [Old World](games/o/old_world.md) | 4.63 | 
-| 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 263 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 264 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 268 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
-| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 272 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 262 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 263 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 264 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 265 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 266 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 267 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 268 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 269 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
+| 270 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 271 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 272 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 274 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 275 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
@@ -587,15 +587,15 @@
 | 585 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
 | 586 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 588 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 589 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 590 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 591 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 592 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 593 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 594 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
-| 595 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 596 | [Encased](games/e/encased.md) | 4.34 | 
+| 588 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 589 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 590 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 591 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 592 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 593 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
+| 594 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 595 | [Encased](games/e/encased.md) | 4.34 | 
+| 596 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 597 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 598 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 599 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 

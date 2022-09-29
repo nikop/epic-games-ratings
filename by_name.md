@@ -79,9 +79,9 @@
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
+| 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -90,7 +90,7 @@
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 91 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 93 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -516,7 +516,7 @@
 | 514 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 515 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 516 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 517 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 517 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 519 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 520 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
@@ -576,7 +576,7 @@
 | 574 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 575 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 577 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.71 | 
+| 577 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.72 | 
 | 578 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 579 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 580 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
