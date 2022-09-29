@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [20XX](games/2/20xx.md) | 4.61 | 
-| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.44 | 
+| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -190,7 +190,7 @@
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 192 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
@@ -210,7 +210,7 @@
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 209 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 211 | [Fez](games/f/fez.md) | 4.72 | 
+| 211 | [Fez](games/f/fez.md) | 4.73 | 
 | 212 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
 | 213 | [Figment](games/f/figment.md) | 4.42 | 
 | 214 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -531,12 +531,12 @@
 | 529 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 530 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 531 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 532 | [Steelrising](games/s/steelrising.md) | 4.23 | 
+| 532 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 533 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 534 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 535 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 536 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
-| 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
+| 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 538 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 539 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 540 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
@@ -572,7 +572,7 @@
 | 570 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 571 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 572 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 573 | [The Captain](games/t/the_captain.md) | 4.42 | 
+| 573 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 574 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 575 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
