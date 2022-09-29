@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.67 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -130,7 +130,7 @@
 | 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 132 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 134 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -427,7 +427,7 @@
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 428 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 428 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
