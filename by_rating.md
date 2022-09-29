@@ -596,15 +596,15 @@
 | 594 | [ELEX](games/e/elex.md) | 4.33 | 
 | 595 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
 | 596 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 597 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 598 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
-| 600 | [Hammerting](games/h/hammerting.md) | 4.32 | 
-| 601 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 602 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 603 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
-| 604 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 605 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
+| 597 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 598 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 599 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 600 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
+| 601 | [Hammerting](games/h/hammerting.md) | 4.32 | 
+| 602 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 603 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 604 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
+| 605 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 606 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 607 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 608 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 

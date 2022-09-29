@@ -28,7 +28,7 @@
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 29 | [Anno 2070](games/a/anno_2070.md) | 4.31 | 
+| 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.65 | 
