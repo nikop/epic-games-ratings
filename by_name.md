@@ -245,7 +245,7 @@
 | 243 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 244 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 245 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 246 | [Gravewood High](games/g/gravewood_high.md) | 4.18 | 
+| 246 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
 | 247 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 248 | [GRIME](games/g/grime.md) | 4.60 | 
 | 249 | [Grindstone](games/g/grindstone.md) | 4.85 | 
@@ -419,7 +419,7 @@
 | 417 | [Patron](games/p/patron.md) | 3.98 | 
 | 418 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 419 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 420 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 420 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 421 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 422 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
