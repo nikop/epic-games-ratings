@@ -376,19 +376,19 @@
 | 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 375 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 376 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 377 | [The Surge](games/t/the_surge.md) | 4.56 | 
-| 378 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 379 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 380 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 381 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 383 | [Hue](games/h/hue.md) | 4.55 | 
-| 384 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 385 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
-| 386 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
-| 387 | [Minit](games/m/minit.md) | 4.55 | 
-| 388 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 389 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 377 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 378 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 379 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 380 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 382 | [Hue](games/h/hue.md) | 4.55 | 
+| 383 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 384 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
+| 385 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 386 | [Minit](games/m/minit.md) | 4.55 | 
+| 387 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 388 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 389 | [The Surge](games/t/the_surge.md) | 4.55 | 
 | 390 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
 | 391 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
 | 392 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
@@ -491,17 +491,17 @@
 | 489 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 490 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 491 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 492 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 493 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
-| 494 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 495 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 496 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 497 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 498 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 499 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
-| 500 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 501 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 492 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 493 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 494 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
+| 495 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 496 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 497 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 498 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 499 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 500 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 501 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 503 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.44 | 
 | 504 | [Othercide](games/o/othercide.md) | 4.44 | 
 | 505 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 

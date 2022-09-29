@@ -432,7 +432,7 @@
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
 | 432 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 433 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 433 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 434 | [Quake](games/q/quake.md) | 4.79 | 
 | 435 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -601,7 +601,7 @@
 | 599 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 600 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 601 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
-| 602 | [The Surge](games/t/the_surge.md) | 4.56 | 
+| 602 | [The Surge](games/t/the_surge.md) | 4.55 | 
 | 603 | [The Surge 2](games/t/the_surge_2.md) | 3.92 | 
 | 604 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 605 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
