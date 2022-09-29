@@ -631,7 +631,7 @@
 | 629 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 630 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 631 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 632 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 632 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 633 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 634 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 635 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
