@@ -223,7 +223,7 @@
 | 221 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 222 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 223 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 224 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 224 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 225 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 227 | [Gamedec](games/g/gamedec.md) | 4.41 | 
@@ -424,7 +424,7 @@
 | 422 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 424 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 425 | [Pine](games/p/pine.md) | 4.12 | 
+| 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 428 | [Potion Permit](games/p/potion_permit.md) | 3.84 | 
@@ -520,7 +520,7 @@
 | 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 519 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 520 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 521 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 522 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 523 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 524 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 

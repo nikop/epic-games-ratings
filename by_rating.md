@@ -134,16 +134,16 @@
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 133 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 134 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
-| 135 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 137 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 143 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 144 | [Fez](games/f/fez.md) | 4.72 | 
+| 135 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 136 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 137 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 138 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 140 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 142 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 143 | [Fez](games/f/fez.md) | 4.72 | 
+| 144 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
 | 146 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -570,12 +570,12 @@
 | 568 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 569 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 570 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 571 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 572 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 573 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
-| 574 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 575 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 571 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 572 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 573 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 574 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
+| 575 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 576 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 577 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 579 | [House Party](games/h/house_party.md) | 4.35 | 
@@ -664,8 +664,8 @@
 | 662 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 663 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 664 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 665 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 666 | [Pine](games/p/pine.md) | 4.12 | 
+| 665 | [Pine](games/p/pine.md) | 4.13 | 
+| 666 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 667 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
 | 668 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 669 | [Obduction](games/o/obduction.md) | 4.10 | 
