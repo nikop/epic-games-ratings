@@ -216,7 +216,7 @@
 | 214 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 215 | [Firework](games/f/firework.md) | 4.85 | 
 | 216 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 217 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.59 | 
+| 217 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 218 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 219 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 220 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
@@ -605,7 +605,7 @@
 | 603 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 604 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 605 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 606 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 606 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 607 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 608 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 609 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 

@@ -312,22 +312,22 @@
 | 310 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 311 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
 | 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 313 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 314 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
-| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 316 | [GRIME](games/g/grime.md) | 4.60 | 
-| 317 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 318 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 319 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 320 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 321 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 322 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 324 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 325 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 326 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 327 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 328 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.59 | 
+| 313 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 314 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 315 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 316 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 317 | [GRIME](games/g/grime.md) | 4.60 | 
+| 318 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 319 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 320 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 321 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 322 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 323 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 324 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 325 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 326 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 327 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 328 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 329 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 330 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 331 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
@@ -621,10 +621,10 @@
 | 619 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 620 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 621 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 622 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 623 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 624 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
-| 625 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 622 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 623 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 624 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 625 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 626 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
 | 627 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 628 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
