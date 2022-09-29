@@ -22,7 +22,7 @@
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
@@ -30,7 +30,7 @@
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
-| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.43 | 
+| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -90,7 +90,7 @@
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 91 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 93 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -226,7 +226,7 @@
 | 224 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 225 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 227 | [Gamedec](games/g/gamedec.md) | 4.41 | 
+| 227 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
 | 228 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -260,7 +260,7 @@
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 259 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 260 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
-| 261 | [Hero's Hour](games/h/hero's_hour.md) | 4.32 | 
+| 261 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
 | 262 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 263 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
 | 264 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -362,7 +362,7 @@
 | 360 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 361 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 363 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -545,7 +545,7 @@
 | 543 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 544 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 545 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 546 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 546 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
 | 547 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 548 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 549 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
@@ -661,7 +661,7 @@
 | 659 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 660 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 661 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
-| 662 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 662 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 663 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 664 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 665 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
