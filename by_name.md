@@ -127,7 +127,7 @@
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
 | 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -172,7 +172,7 @@
 | 170 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 172 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
-| 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 173 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 174 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 175 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
@@ -337,7 +337,7 @@
 | 335 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 338 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
+| 338 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
 | 339 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 340 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 341 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -364,7 +364,7 @@
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 367 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 368 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -622,7 +622,7 @@
 | 620 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 621 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 622 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 623 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 623 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 624 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 625 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 626 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
