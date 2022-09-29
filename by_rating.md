@@ -400,13 +400,13 @@
 | 398 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 399 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 400 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 401 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 402 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 403 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 404 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 405 | [Outward](games/o/outward.md) | 4.53 | 
-| 406 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 407 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 401 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 402 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 403 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 404 | [Outward](games/o/outward.md) | 4.53 | 
+| 405 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 406 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 407 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 408 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -628,9 +628,9 @@
 | 626 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 627 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 628 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
-| 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
-| 630 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 631 | [Gloomhaven](games/g/gloomhaven.md) | 4.24 | 
+| 629 | [Gloomhaven](games/g/gloomhaven.md) | 4.25 | 
+| 630 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
+| 631 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 632 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 633 | [Steelrising](games/s/steelrising.md) | 4.23 | 
 | 634 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
