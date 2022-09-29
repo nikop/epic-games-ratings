@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Potion Permit](games/p/potion_permit.md) | 3.87 | 
+| 1 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 2 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 3 | [Gloomhaven](games/g/gloomhaven.md) | 4.24 | 
 | 4 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 

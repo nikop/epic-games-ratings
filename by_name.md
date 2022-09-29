@@ -402,7 +402,7 @@
 | 400 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 401 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 402 | [Outward](games/o/outward.md) | 4.53 | 
-| 403 | [Overcooked](games/o/overcooked.md) | 4.70 | 
+| 403 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 404 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 405 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
 | 406 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
@@ -427,7 +427,7 @@
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 428 | [Potion Permit](games/p/potion_permit.md) | 3.87 | 
+| 428 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
@@ -568,7 +568,7 @@
 | 566 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 567 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 568 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 569 | [The Alto Collection](games/t/the_alto_collection.md) | 4.67 | 
+| 569 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 570 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 571 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 572 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
@@ -711,6 +711,6 @@
 | 709 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 710 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 711 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 712 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 712 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
 | 713 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
 | 714 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
