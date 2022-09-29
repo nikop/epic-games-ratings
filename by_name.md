@@ -190,7 +190,7 @@
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 192 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
@@ -253,7 +253,7 @@
 | 251 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 252 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 253 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 254 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 254 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 255 | [Haven](games/h/haven.md) | 4.77 | 
 | 256 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 257 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
@@ -313,7 +313,7 @@
 | 311 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 312 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 313 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 314 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 
+| 314 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 315 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 316 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 317 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -427,7 +427,7 @@
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
-| 428 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
+| 428 | [Potion Permit](games/p/potion_permit.md) | 3.70 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
