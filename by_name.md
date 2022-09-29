@@ -267,7 +267,7 @@
 | 265 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 266 | [Hob](games/h/hob.md) | 4.58 | 
 | 267 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 268 | [Horace](games/h/horace.md) | 4.56 | 
+| 268 | [Horace](games/h/horace.md) | 4.57 | 
 | 269 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 270 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 271 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -362,7 +362,7 @@
 | 360 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 361 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 363 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -373,11 +373,11 @@
 | 371 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 372 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 373 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 374 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 374 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 375 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 376 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 377 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 378 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 378 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 379 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 380 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 381 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
@@ -505,7 +505,7 @@
 | 503 | [SMITE](games/s/smite.md) | 4.46 | 
 | 504 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 505 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 506 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 506 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 507 | [SOMA](games/s/soma.md) | 4.70 | 
 | 508 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -572,7 +572,7 @@
 | 570 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 571 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 572 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 573 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 573 | [The Captain](games/t/the_captain.md) | 4.42 | 
 | 574 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 575 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
