@@ -169,8 +169,8 @@
 | 167 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 168 | [SOMA](games/s/soma.md) | 4.70 | 
 | 169 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 170 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 171 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 170 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 171 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
 | 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 173 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 174 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -190,23 +190,23 @@
 | 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 189 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 191 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
-| 192 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
-| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 198 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 199 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
-| 200 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 201 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 202 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 203 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
-| 204 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 205 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 206 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
-| 207 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 191 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 192 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
+| 193 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
+| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 200 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 201 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 202 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 203 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 204 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 205 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 206 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 207 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 208 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 209 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 210 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -461,13 +461,13 @@
 | 459 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.49 | 
 | 460 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 462 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 463 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 464 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
-| 465 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 466 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 467 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 468 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 462 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 463 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
+| 464 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 465 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 466 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 467 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 468 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
 | 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 471 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
@@ -503,16 +503,16 @@
 | 501 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 503 | [Othercide](games/o/othercide.md) | 4.44 | 
-| 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 505 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 506 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
-| 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 508 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 509 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
-| 510 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 512 | [Aztez](games/a/aztez.md) | 4.43 | 
-| 513 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 505 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 507 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 508 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 510 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
+| 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 513 | [Aztez](games/a/aztez.md) | 4.43 | 
 | 514 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 515 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
 | 516 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 

@@ -11,7 +11,7 @@
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.68 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -145,7 +145,7 @@
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 144 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 145 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 146 | [Death Coming](games/d/death_coming.md) | 4.49 | 
+| 146 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 147 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 148 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 149 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -680,7 +680,7 @@
 | 678 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 679 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 680 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 681 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 681 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 682 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 683 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 684 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
