@@ -1,10 +1,10 @@
 {
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 34,
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
-  "LastChanged": "2022-09-22T15:31:06.8969415+00:00",
+  "LastChanged": "2022-09-29T13:31:04.2424717+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:32.7044805+00:00",
@@ -60,6 +60,11 @@
       "Time": "2022-09-22T15:31:06.8969416+00:00",
       "Rating": 4.44,
       "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-09-29T13:31:04.2424719+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

@@ -75,7 +75,7 @@
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.67 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
@@ -153,7 +153,7 @@
 | 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 153 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
-| 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.49 | 
 | 155 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 156 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 157 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
@@ -190,7 +190,7 @@
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 192 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
@@ -251,7 +251,7 @@
 | 249 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 250 | [Hades](games/h/hades.md) | 4.92 | 
 | 251 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 252 | [Hammerting](games/h/hammerting.md) | 4.32 | 
+| 252 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 253 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 254 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 255 | [Haven](games/h/haven.md) | 4.77 | 
