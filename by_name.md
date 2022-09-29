@@ -524,7 +524,7 @@
 | 522 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 523 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 524 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 526 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 527 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 528 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
@@ -556,7 +556,7 @@
 | 554 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 555 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 556 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 557 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 557 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 558 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 559 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 560 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
@@ -577,7 +577,7 @@
 | 575 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
 | 576 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 577 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 578 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 578 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 579 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 580 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 581 | [The Fall](games/t/the_fall.md) | 4.21 | 
@@ -646,7 +646,7 @@
 | 644 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 645 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 646 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
-| 647 | [Transistor](games/t/transistor.md) | 4.66 | 
+| 647 | [Transistor](games/t/transistor.md) | 4.64 | 
 | 648 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 649 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
 | 650 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
