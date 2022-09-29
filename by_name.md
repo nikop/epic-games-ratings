@@ -253,7 +253,7 @@
 | 251 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 252 | [Hammerting](games/h/hammerting.md) | 4.32 | 
 | 253 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 254 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 254 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 255 | [Haven](games/h/haven.md) | 4.77 | 
 | 256 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 257 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
@@ -412,7 +412,7 @@
 | 410 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 411 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 412 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 413 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 414 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 415 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 416 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -437,7 +437,7 @@
 | 435 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 437 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 438 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 438 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 439 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 440 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 441 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
