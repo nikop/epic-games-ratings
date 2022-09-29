@@ -233,7 +233,7 @@
 | 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
-| 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.23 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
@@ -600,7 +600,7 @@
 | 598 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 599 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 600 | [The Surge](games/t/the_surge.md) | 4.56 | 
-| 601 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
+| 601 | [The Surge 2](games/t/the_surge_2.md) | 3.92 | 
 | 602 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 
 | 603 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 604 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -673,7 +673,7 @@
 | 671 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 672 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 673 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 674 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
+| 674 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
 | 675 | [Warface](games/w/warface.md) | 3.96 | 
 | 676 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 677 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 

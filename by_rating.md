@@ -119,19 +119,19 @@
 | 117 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 118 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 122 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 125 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 127 | [Revita](games/r/revita.md) | 4.74 | 
-| 128 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 130 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 132 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 120 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 121 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 123 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 126 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 133 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 
 | 134 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 135 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
@@ -574,27 +574,27 @@
 | 572 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 573 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 574 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
-| 575 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 576 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 577 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 579 | [House Party](games/h/house_party.md) | 4.35 | 
-| 580 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
-| 581 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 582 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 583 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 584 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 585 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 586 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 587 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 588 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 589 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 590 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
-| 591 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 592 | [Encased](games/e/encased.md) | 4.34 | 
-| 593 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 594 | [ELEX](games/e/elex.md) | 4.33 | 
-| 595 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
+| 575 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 576 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 577 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 578 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
+| 579 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 580 | [House Party](games/h/house_party.md) | 4.35 | 
+| 581 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 582 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 583 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 584 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 585 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
+| 586 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 587 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 588 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 589 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 590 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
+| 591 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
+| 592 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 593 | [Encased](games/e/encased.md) | 4.34 | 
+| 594 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 595 | [ELEX](games/e/elex.md) | 4.33 | 
 | 596 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 597 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 598 | [Parkitect](games/p/parkitect.md) | 4.33 | 
@@ -701,12 +701,12 @@
 | 699 | [Warface](games/w/warface.md) | 3.96 | 
 | 700 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 701 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 702 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
-| 703 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 704 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 705 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
-| 706 | [Potion Permit](games/p/potion_permit.md) | 3.87 | 
-| 707 | [The Surge 2](games/t/the_surge_2.md) | 3.87 | 
+| 702 | [The Surge 2](games/t/the_surge_2.md) | 3.92 | 
+| 703 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 704 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 705 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 706 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
+| 707 | [Potion Permit](games/p/potion_permit.md) | 3.87 | 
 | 708 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 709 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 710 | [Saints Row](games/s/saints_row.md) | 3.77 | 
