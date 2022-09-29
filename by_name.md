@@ -26,7 +26,7 @@
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
+| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.64 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
@@ -200,7 +200,7 @@
 | 198 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 199 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 200 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 201 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 201 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 202 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 203 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
@@ -212,7 +212,7 @@
 | 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 211 | [Fez](games/f/fez.md) | 4.72 | 
 | 212 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 213 | [Figment](games/f/figment.md) | 4.44 | 
+| 213 | [Figment](games/f/figment.md) | 4.42 | 
 | 214 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 215 | [Firework](games/f/firework.md) | 4.85 | 
 | 216 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
