@@ -405,19 +405,19 @@
 | 403 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 404 | [Outward](games/o/outward.md) | 4.53 | 
 | 405 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 406 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 407 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 408 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 411 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 414 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 415 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 417 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 418 | [Road 96](games/r/road_96.md) | 4.52 | 
+| 406 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 407 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 409 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 410 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 412 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 413 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 414 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 415 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 416 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 417 | [Road 96](games/r/road_96.md) | 4.52 | 
+| 418 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 419 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 420 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
@@ -540,17 +540,17 @@
 | 538 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 539 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 540 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 541 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 542 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
-| 543 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 544 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 545 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 546 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 547 | [Core](games/c/core.md) | 4.39 | 
-| 548 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
-| 549 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 550 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 551 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
+| 541 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 542 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 543 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
+| 544 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 545 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 546 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 547 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 548 | [Core](games/c/core.md) | 4.39 | 
+| 549 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
+| 550 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 551 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 552 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 553 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 554 | [Train Valley](games/t/train_valley.md) | 4.39 | 

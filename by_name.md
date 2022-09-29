@@ -332,7 +332,7 @@
 | 330 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
 | 331 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 332 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 333 | [Little Inferno](games/l/little_inferno.md) | 4.39 | 
+| 333 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
 | 334 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 335 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
@@ -706,7 +706,7 @@
 | 704 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
 | 705 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 706 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 707 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 707 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 708 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 709 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 710 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
