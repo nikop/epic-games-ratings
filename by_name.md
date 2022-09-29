@@ -22,7 +22,7 @@
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
@@ -88,7 +88,7 @@
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.01 | 
+| 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
@@ -526,7 +526,7 @@
 | 524 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 525 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
 | 526 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 527 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 527 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 528 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 529 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 530 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
@@ -550,7 +550,7 @@
 | 548 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 549 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 550 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 551 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 551 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
 | 552 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 553 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 554 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
