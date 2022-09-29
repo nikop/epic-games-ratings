@@ -35,7 +35,7 @@
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
-| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
@@ -425,7 +425,7 @@
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 424 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
-| 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 428 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
@@ -478,7 +478,7 @@
 | 476 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 477 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 478 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 479 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 479 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 480 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 481 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 482 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
@@ -576,14 +576,14 @@
 | 574 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 575 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 577 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.70 | 
+| 577 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.71 | 
 | 578 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 579 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 580 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 581 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 582 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 583 | [The Fall](games/t/the_fall.md) | 4.21 | 
-| 584 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 584 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 585 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 586 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 587 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -629,7 +629,7 @@
 | 627 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 628 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 629 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
-| 630 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 630 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 631 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 632 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 633 | [Torchlight](games/t/torchlight.md) | 4.44 | 
@@ -676,7 +676,7 @@
 | 674 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 675 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 676 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 677 | [Warface](games/w/warface.md) | 3.96 | 
+| 677 | [Warface](games/w/warface.md) | 3.95 | 
 | 678 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 679 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 680 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
