@@ -120,7 +120,7 @@
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.36 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 123 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -290,7 +290,7 @@
 | 288 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 289 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 290 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
-| 291 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 291 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 292 | [Isonzo](games/i/isonzo.md) | 4.48 | 
 | 293 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 294 | [Journey](games/j/journey.md) | 4.80 | 

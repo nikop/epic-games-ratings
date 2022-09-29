@@ -536,20 +536,20 @@
 | 534 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 535 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
 | 536 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 537 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 538 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
-| 539 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 540 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 541 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
-| 542 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 543 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
-| 544 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 545 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 546 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 547 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 548 | [Core](games/c/core.md) | 4.39 | 
-| 549 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
-| 550 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
+| 538 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 539 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 540 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 541 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 542 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
+| 543 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 544 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 545 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 546 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 547 | [Core](games/c/core.md) | 4.39 | 
+| 548 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.39 | 
+| 549 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 550 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 551 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 552 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 553 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
@@ -703,8 +703,8 @@
 | 701 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 702 | [The Surge 2](games/t/the_surge_2.md) | 3.92 | 
 | 703 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
-| 704 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 705 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 704 | [Ironcast](games/i/ironcast.md) | 3.90 | 
+| 705 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 706 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 707 | [Potion Permit](games/p/potion_permit.md) | 3.87 | 
 | 708 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
