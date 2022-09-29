@@ -20,7 +20,7 @@
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 21 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.23 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.24 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -385,7 +385,7 @@
 | 383 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
 | 384 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 385 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 386 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 386 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 387 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 388 | [Observation](games/o/observation.md) | 4.39 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
@@ -697,7 +697,7 @@
 | 695 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 696 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 697 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 698 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 698 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 699 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 700 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
 | 701 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
