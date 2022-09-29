@@ -1,6 +1,5 @@
-# SpellForce 3: Soul Harvest
-Rating: 4.80 (-)  (as of 23.09.2022)  
+# Urbek City Builder
+Rating: - (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-09-29 | 4.80 | - |
