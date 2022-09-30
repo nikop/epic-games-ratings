@@ -181,7 +181,7 @@
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 180 | [ELEX](games/e/elex.md) | 4.33 | 
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 
+| 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
@@ -323,7 +323,7 @@
 | 321 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.24 | 
 | 322 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 323 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 324 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.48 | 
+| 324 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 325 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
 | 326 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 327 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
@@ -396,7 +396,7 @@
 | 394 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 395 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 396 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 397 | [Othercide](games/o/othercide.md) | 4.44 | 
+| 397 | [Othercide](games/o/othercide.md) | 4.46 | 
 | 398 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 399 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
 | 400 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
