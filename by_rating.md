@@ -75,19 +75,19 @@
 | 73 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 75 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 76 | [Journey](games/j/journey.md) | 4.80 | 
-| 77 | [Quake](games/q/quake.md) | 4.80 | 
-| 78 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
-| 79 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 81 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
-| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 87 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 88 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
+| 76 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 77 | [Journey](games/j/journey.md) | 4.80 | 
+| 78 | [Quake](games/q/quake.md) | 4.80 | 
+| 79 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
+| 80 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 82 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
+| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 89 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 90 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -243,45 +243,45 @@
 | 241 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 242 | [RiME](games/r/rime.md) | 4.65 | 
 | 243 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
-| 244 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 245 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 246 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 247 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 248 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 249 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 250 | [Transistor](games/t/transistor.md) | 4.64 | 
-| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 252 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 253 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 254 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 255 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 256 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 257 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 258 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 259 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 260 | [Old World](games/o/old_world.md) | 4.63 | 
-| 261 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 263 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 264 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 267 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 268 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
-| 269 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
-| 270 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 271 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 272 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
-| 273 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 274 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 275 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 276 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 277 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
-| 278 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 279 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 280 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
-| 281 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 282 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 244 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 245 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 246 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 247 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 248 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 249 | [Transistor](games/t/transistor.md) | 4.64 | 
+| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 252 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 253 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 254 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 255 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 257 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 258 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 259 | [Old World](games/o/old_world.md) | 4.63 | 
+| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 262 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 266 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 267 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
+| 268 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
+| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 271 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 272 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 274 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 275 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 276 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
+| 277 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 278 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 279 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
+| 280 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 281 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 282 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
 | 283 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 284 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 285 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -643,13 +643,13 @@
 | 641 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 642 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 643 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
-| 644 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
-| 645 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
-| 646 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 647 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 648 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 649 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 650 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 644 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
+| 645 | [Family Man](games/f/family_man.md) | 4.21 | 
+| 646 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 647 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 648 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 649 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 650 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 652 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 653 | [Space Punks](games/s/space_punks.md) | 4.19 | 
