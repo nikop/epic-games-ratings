@@ -81,7 +81,7 @@
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -150,7 +150,7 @@
 | 148 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 149 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 150 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 153 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
 | 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
@@ -353,7 +353,7 @@
 | 351 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 352 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 353 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 354 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
+| 354 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
 | 355 | [Minit](games/m/minit.md) | 4.55 | 
 | 356 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 357 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -676,7 +676,7 @@
 | 674 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 675 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 676 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 677 | [Warface](games/w/warface.md) | 3.96 | 
+| 677 | [Warface](games/w/warface.md) | 3.95 | 
 | 678 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 679 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 680 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 

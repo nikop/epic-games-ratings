@@ -92,13 +92,13 @@
 | 90 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 92 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 93 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 97 | [Haven](games/h/haven.md) | 4.77 | 
-| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 98 | [Haven](games/h/haven.md) | 4.77 | 
+| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -486,20 +486,20 @@
 | 484 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 485 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 486 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 487 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 488 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 489 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
-| 490 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 491 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 492 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 493 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 494 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 495 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
-| 496 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 497 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
-| 498 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 499 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 500 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 487 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 488 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
+| 489 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 490 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 491 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 493 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 494 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 495 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 496 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
+| 497 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 498 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 500 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 501 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 502 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 503 | [Torchlight](games/t/torchlight.md) | 4.44 | 
@@ -584,14 +584,14 @@
 | 582 | [House Party](games/h/house_party.md) | 4.35 | 
 | 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 584 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
-| 585 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 586 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 587 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 588 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 589 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 590 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 591 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 592 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.34 | 
+| 585 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
+| 586 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 588 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 589 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 590 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 591 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 592 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 594 | [Encased](games/e/encased.md) | 4.34 | 
 | 595 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -700,7 +700,7 @@
 | 698 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 699 | [Patron](games/p/patron.md) | 3.98 | 
 | 700 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 701 | [Warface](games/w/warface.md) | 3.96 | 
+| 701 | [Warface](games/w/warface.md) | 3.95 | 
 | 702 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 703 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 704 | [The Surge 2](games/t/the_surge_2.md) | 3.93 | 
