@@ -17,7 +17,7 @@
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.36 | 
@@ -372,7 +372,7 @@
 | 370 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 371 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 372 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 373 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
+| 373 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.16 | 
 | 374 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 375 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 376 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 

@@ -618,11 +618,11 @@
 | 616 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 617 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 618 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 619 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 620 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 621 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 622 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 623 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 619 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 620 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 621 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 622 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 623 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 624 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 625 | [Gloomhaven](games/g/gloomhaven.md) | 4.26 | 
 | 626 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
@@ -661,8 +661,8 @@
 | 659 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 660 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 661 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 662 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
-| 663 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
+| 662 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
+| 663 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.16 | 
 | 664 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 665 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 666 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
