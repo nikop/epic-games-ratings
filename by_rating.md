@@ -178,27 +178,27 @@
 | 176 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 177 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 178 | [Barony](games/b/barony.md) | 4.69 | 
-| 179 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 180 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 182 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 183 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 184 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 185 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 186 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 187 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 188 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 189 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 191 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
-| 192 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
-| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
-| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 179 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 180 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 181 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 182 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 183 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 184 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 185 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 186 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 189 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 191 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 192 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
+| 193 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
+| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 195 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 196 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 197 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 198 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 199 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 200 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 201 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 202 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
@@ -497,16 +497,16 @@
 | 495 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
 | 496 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 497 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 498 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 499 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 500 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 501 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 503 | [Othercide](games/o/othercide.md) | 4.44 | 
-| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 505 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 507 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 498 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 499 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 500 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 501 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 502 | [Othercide](games/o/othercide.md) | 4.44 | 
+| 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 505 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 506 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 508 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 510 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 

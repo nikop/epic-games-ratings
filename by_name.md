@@ -526,7 +526,7 @@
 | 524 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 525 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
 | 526 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 527 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 527 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 528 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 529 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 530 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
@@ -713,4 +713,4 @@
 | 711 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 712 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
 | 713 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 714 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 714 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
