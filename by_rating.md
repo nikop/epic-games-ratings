@@ -58,20 +58,20 @@
 | 56 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
 | 57 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 58 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 59 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 61 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 63 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
-| 64 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 71 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 72 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 59 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 60 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 61 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 62 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 63 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 64 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
+| 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 73 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 74 | [Journey](games/j/journey.md) | 4.80 | 
 | 75 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
@@ -624,10 +624,10 @@
 | 622 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 623 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 624 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 625 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 626 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 627 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
-| 628 | [Gloomhaven](games/g/gloomhaven.md) | 4.25 | 
+| 625 | [Gloomhaven](games/g/gloomhaven.md) | 4.26 | 
+| 626 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 627 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 628 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 630 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 631 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.24 | 
@@ -650,14 +650,14 @@
 | 648 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 649 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 650 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
-| 651 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 652 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
-| 653 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 654 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 655 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 656 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 657 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 658 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 651 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 652 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 654 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 655 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 656 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 657 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 658 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 659 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
 | 660 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 661 | [Windbound](games/w/windbound.md) | 4.17 | 

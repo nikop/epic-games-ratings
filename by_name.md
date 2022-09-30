@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.25 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.26 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -385,7 +385,7 @@
 | 383 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
 | 384 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 385 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 386 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 386 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 387 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 388 | [Observation](games/o/observation.md) | 4.39 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
@@ -536,7 +536,7 @@
 | 534 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 535 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 536 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
-| 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 538 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 539 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 540 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
