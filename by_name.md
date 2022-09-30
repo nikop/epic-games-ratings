@@ -181,7 +181,7 @@
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 180 | [ELEX](games/e/elex.md) | 4.32 | 
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
@@ -225,7 +225,7 @@
 | 223 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 224 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 225 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 227 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
 | 228 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
@@ -389,7 +389,7 @@
 | 387 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 388 | [Observation](games/o/observation.md) | 4.39 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
-| 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.69 | 
+| 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
 | 391 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 392 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 393 | [Old World](games/o/old_world.md) | 4.63 | 
@@ -649,7 +649,7 @@
 | 647 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 648 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 649 | [Transistor](games/t/transistor.md) | 4.64 | 
-| 650 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 650 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 651 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
 | 652 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 653 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
