@@ -120,19 +120,19 @@
 | 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 119 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 121 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
-| 122 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 123 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 124 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 126 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 127 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 121 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 123 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 126 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [Fez](games/f/fez.md) | 4.73 | 
 | 135 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
@@ -703,7 +703,7 @@
 | 701 | [Warface](games/w/warface.md) | 3.95 | 
 | 702 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 703 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 704 | [The Surge 2](games/t/the_surge_2.md) | 3.92 | 
+| 704 | [The Surge 2](games/t/the_surge_2.md) | 3.93 | 
 | 705 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 706 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 707 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
