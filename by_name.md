@@ -338,7 +338,7 @@
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 338 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
-| 339 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 339 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 340 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 341 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 342 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -390,7 +390,7 @@
 | 388 | [Observation](games/o/observation.md) | 4.38 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
-| 391 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 391 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.41 | 
 | 392 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 393 | [Old World](games/o/old_world.md) | 4.63 | 
 | 394 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -427,7 +427,7 @@
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
-| 428 | [Potion Permit](games/p/potion_permit.md) | 3.70 | 
+| 428 | [Potion Permit](games/p/potion_permit.md) | 3.71 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
@@ -577,7 +577,7 @@
 | 575 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 576 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 578 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.73 | 
+| 578 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.18 | 
 | 579 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 580 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 581 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -585,7 +585,7 @@
 | 583 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
 | 584 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 585 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 586 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
+| 586 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 587 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 588 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 589 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
