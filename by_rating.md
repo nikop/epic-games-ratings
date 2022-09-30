@@ -616,10 +616,10 @@
 | 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 615 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 616 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 617 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 618 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 619 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 620 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 617 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 618 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 619 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 620 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 621 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 622 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 623 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
@@ -627,10 +627,10 @@
 | 625 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 626 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 627 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
-| 628 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.25 | 
-| 629 | [Gloomhaven](games/g/gloomhaven.md) | 4.25 | 
-| 630 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
-| 631 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 628 | [Gloomhaven](games/g/gloomhaven.md) | 4.25 | 
+| 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
+| 630 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 631 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.24 | 
 | 632 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 633 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 634 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
