@@ -87,7 +87,7 @@
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 88 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 88 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -342,7 +342,7 @@
 | 340 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 341 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 342 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 343 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
+| 343 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
 | 344 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
 | 345 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 346 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -425,7 +425,7 @@
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 424 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
-| 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
+| 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
 | 428 | [Potion Permit](games/p/potion_permit.md) | 3.70 | 
 | 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
@@ -551,7 +551,7 @@
 | 549 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 550 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 551 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
-| 552 | [Superliminal](games/s/superliminal.md) | 4.75 | 
+| 552 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 553 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 554 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 555 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
