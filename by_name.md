@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [20XX](games/2/20xx.md) | 4.61 | 
-| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
+| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
@@ -451,7 +451,7 @@
 | 449 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 450 | [Revita](games/r/revita.md) | 4.74 | 
 | 451 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 452 | [RiME](games/r/rime.md) | 4.65 | 
+| 452 | [RiME](games/r/rime.md) | 4.64 | 
 | 453 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
 | 454 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 455 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
@@ -494,7 +494,7 @@
 | 492 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
 | 493 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 494 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 495 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
+| 495 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 496 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 497 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 498 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -522,7 +522,7 @@
 | 520 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 521 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 522 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 523 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 523 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 524 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 525 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 526 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
