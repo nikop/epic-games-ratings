@@ -346,23 +346,23 @@
 | 344 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 345 | [Hob](games/h/hob.md) | 4.58 | 
 | 346 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 347 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 348 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 349 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 350 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 351 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 352 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 353 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 354 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 355 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 356 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 358 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 359 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 360 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 361 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 362 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 363 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 348 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 349 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 350 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 351 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 352 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 353 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 354 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 355 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 356 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 357 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 359 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 360 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 361 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 362 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 363 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 364 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 365 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 366 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
@@ -411,23 +411,23 @@
 | 409 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 410 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 412 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 413 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 414 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 415 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
-| 416 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 417 | [Road 96](games/r/road_96.md) | 4.52 | 
-| 418 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 419 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 420 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 422 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 423 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 424 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
-| 425 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
-| 426 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 427 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 428 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 412 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 414 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 415 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 416 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 418 | [Road 96](games/r/road_96.md) | 4.52 | 
+| 419 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 420 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 421 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 422 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 423 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 424 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 425 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 426 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 427 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 428 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 429 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
 | 430 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 431 | [Paradigm](games/p/paradigm.md) | 4.51 | 
@@ -534,15 +534,15 @@
 | 532 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 533 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 534 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 535 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 536 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
-| 538 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 539 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
-| 540 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 541 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
-| 542 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 543 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 535 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 536 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
+| 537 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 538 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
+| 539 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 540 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
+| 541 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 542 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 543 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 544 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 545 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
 | 546 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -659,9 +659,9 @@
 | 657 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 658 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 659 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 660 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 661 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 662 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
+| 660 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 661 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
+| 662 | [Windbound](games/w/windbound.md) | 4.16 | 
 | 663 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.16 | 
 | 664 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 665 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 

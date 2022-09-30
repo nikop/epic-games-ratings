@@ -33,7 +33,7 @@
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
@@ -114,7 +114,7 @@
 | 112 | [Core](games/c/core.md) | 4.39 | 
 | 113 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -255,7 +255,7 @@
 | 253 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 254 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 255 | [Haven](games/h/haven.md) | 4.77 | 
-| 256 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 256 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 257 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 259 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
@@ -697,7 +697,7 @@
 | 695 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 696 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 697 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 698 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 698 | [Windbound](games/w/windbound.md) | 4.16 | 
 | 699 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 700 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 701 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
