@@ -246,7 +246,7 @@
 | 244 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 245 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 246 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
-| 247 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 247 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 248 | [GRIME](games/g/grime.md) | 4.60 | 
 | 249 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 250 | [Hades](games/h/hades.md) | 4.92 | 
