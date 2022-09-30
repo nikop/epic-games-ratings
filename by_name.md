@@ -362,7 +362,7 @@
 | 360 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 361 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 362 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 363 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 363 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 365 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 366 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -521,7 +521,7 @@
 | 519 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 520 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 521 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 522 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 522 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 523 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 524 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 525 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
@@ -532,7 +532,7 @@
 | 530 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 531 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 532 | [Steelrising](games/s/steelrising.md) | 4.23 | 
-| 533 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
+| 533 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 534 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 535 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 536 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
@@ -588,7 +588,7 @@
 | 586 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 587 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 588 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 589 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 589 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
 | 590 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 591 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 592 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
