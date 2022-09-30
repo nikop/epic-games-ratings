@@ -27,7 +27,7 @@
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.64 | 
-| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
@@ -258,7 +258,7 @@
 | 256 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 257 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 259 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 259 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 260 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 261 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
 | 262 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
@@ -333,7 +333,7 @@
 | 331 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 332 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 333 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
-| 334 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 334 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 335 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 

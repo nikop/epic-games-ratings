@@ -45,13 +45,13 @@
 | 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 45 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 46 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
-| 48 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 49 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 50 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 46 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 47 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
+| 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 50 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
+| 51 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
+| 52 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 53 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -178,23 +178,23 @@
 | 176 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 177 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 179 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 180 | [Barony](games/b/barony.md) | 4.69 | 
-| 181 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 182 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 183 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 184 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 185 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 186 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 188 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 190 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 192 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 193 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
-| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 195 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 179 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 181 | [Barony](games/b/barony.md) | 4.69 | 
+| 182 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 183 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 184 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 186 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 188 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 189 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 191 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 192 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 193 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 194 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
+| 195 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 196 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
 | 197 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 198 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
@@ -434,17 +434,17 @@
 | 432 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 433 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
 | 434 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 435 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 436 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 437 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 438 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 439 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 440 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
-| 441 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 442 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 443 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 444 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 445 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 435 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 436 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 437 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 438 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 439 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 440 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 441 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 442 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 443 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 444 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 445 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 446 | [Sable](games/s/sable.md) | 4.50 | 
 | 447 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 448 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
