@@ -149,28 +149,28 @@
 | 147 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 148 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
 | 149 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 152 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 153 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 154 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 155 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 156 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 157 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
-| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 159 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 160 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
-| 161 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 162 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 163 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 164 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 165 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 166 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 167 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
-| 168 | [SOMA](games/s/soma.md) | 4.70 | 
-| 169 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 170 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 171 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
+| 150 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
+| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 153 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 154 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 155 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 156 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 157 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 158 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
+| 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 160 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 161 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
+| 162 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 163 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 164 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 165 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 166 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 167 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 168 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 169 | [SOMA](games/s/soma.md) | 4.70 | 
+| 170 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 171 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 173 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 174 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -541,18 +541,18 @@
 | 539 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 540 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
 | 541 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
-| 542 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 543 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
-| 544 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 545 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
-| 546 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 547 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 548 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 549 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 550 | [Core](games/c/core.md) | 4.39 | 
-| 551 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 552 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 553 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 542 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 543 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 544 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
+| 545 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 546 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 547 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 548 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 549 | [Core](games/c/core.md) | 4.39 | 
+| 550 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 551 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 552 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 553 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 554 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 555 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
 | 556 | [Train Valley](games/t/train_valley.md) | 4.39 | 
@@ -658,9 +658,9 @@
 | 656 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 657 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 658 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
-| 659 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 660 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 661 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 659 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 660 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 661 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 662 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 663 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
 | 664 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 

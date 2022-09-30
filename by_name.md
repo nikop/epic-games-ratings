@@ -76,8 +76,8 @@
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 77 | [Blair Witch](games/b/blair_witch.md) | 4.18 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
+| 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -539,7 +539,7 @@
 | 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
 | 538 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 539 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 540 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 540 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 541 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 542 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 543 | [Subnautica](games/s/subnautica.md) | 4.83 | 

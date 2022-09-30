@@ -4,7 +4,7 @@
 | 2 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 3 | [Gloomhaven](games/g/gloomhaven.md) | 4.26 | 
 | 4 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
-| 5 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.70 | 
+| 5 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
 | 6 | [Isonzo](games/i/isonzo.md) | 4.47 | 
 | 7 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 8 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
