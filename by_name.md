@@ -179,7 +179,7 @@
 | 177 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 178 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 180 | [ELEX](games/e/elex.md) | 4.32 | 
+| 180 | [ELEX](games/e/elex.md) | 4.33 | 
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
@@ -469,7 +469,7 @@
 | 467 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 468 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 469 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 470 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 470 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 471 | [Sable](games/s/sable.md) | 4.50 | 
 | 472 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 473 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -480,7 +480,7 @@
 | 478 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 479 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 480 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 481 | [Scrapnaut](games/s/scrapnaut.md) | 4.39 | 
+| 481 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 482 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 483 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 484 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -594,7 +594,7 @@
 | 592 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 593 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 594 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 595 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 595 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
 | 596 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 597 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 598 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
