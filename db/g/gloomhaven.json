@@ -1,11 +1,11 @@
 {
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
-  "Rating": 4.26,
+  "Rating": 4.27,
   "NumberOfRatings": 68,
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
-  "LastChanged": "2022-09-30T02:01:06.0343095+00:00",
+  "LastChanged": "2022-09-30T09:31:10.3060059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T05:01:45.7957209+00:00",
@@ -126,12 +126,17 @@
       "Time": "2022-09-30T02:01:06.0343098+00:00",
       "Rating": 4.26,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-09-30T09:31:10.3060062+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 71
+      "Count": 330
     }
   ]
 }
