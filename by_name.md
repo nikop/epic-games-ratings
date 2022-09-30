@@ -333,7 +333,7 @@
 | 331 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 332 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 333 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
-| 334 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 334 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 335 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -423,7 +423,7 @@
 | 421 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 422 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 424 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 424 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
@@ -693,7 +693,7 @@
 | 691 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 692 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 693 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
-| 694 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
+| 694 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 695 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 696 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 697 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
