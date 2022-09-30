@@ -11,12 +11,12 @@
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -92,7 +92,7 @@
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 93 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 93 | [CARRION](games/c/carrion.md) | 4.69 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 95 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 96 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -661,7 +661,7 @@
 | 659 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 660 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 661 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 662 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
+| 662 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.43 | 
 | 663 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 664 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 665 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
