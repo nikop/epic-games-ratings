@@ -74,20 +74,20 @@
 | 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 73 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 74 | [Journey](games/j/journey.md) | 4.80 | 
-| 75 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
-| 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 77 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 78 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 79 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
-| 80 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 81 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 82 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 83 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 85 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 86 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 87 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
-| 88 | [Quake](games/q/quake.md) | 4.79 | 
+| 75 | [Quake](games/q/quake.md) | 4.80 | 
+| 76 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
+| 77 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 78 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 79 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 80 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
+| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 83 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 88 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 89 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 90 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -601,11 +601,11 @@
 | 599 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 600 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 601 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 602 | [ELEX](games/e/elex.md) | 4.32 | 
-| 603 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 604 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 605 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
-| 606 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 602 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
+| 603 | [ELEX](games/e/elex.md) | 4.32 | 
+| 604 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 605 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 606 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 607 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
 | 608 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 609 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -631,8 +631,8 @@
 | 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 630 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 631 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.24 | 
-| 632 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 633 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 632 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 633 | [Steelrising](games/s/steelrising.md) | 4.23 | 
 | 634 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 635 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 636 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 

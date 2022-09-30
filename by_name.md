@@ -433,7 +433,7 @@
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
 | 432 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 433 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
-| 434 | [Quake](games/q/quake.md) | 4.79 | 
+| 434 | [Quake](games/q/quake.md) | 4.80 | 
 | 435 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 437 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -531,7 +531,7 @@
 | 529 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 530 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 531 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 532 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 532 | [Steelrising](games/s/steelrising.md) | 4.23 | 
 | 533 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.61 | 
 | 534 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 535 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
@@ -598,7 +598,7 @@
 | 596 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 597 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 598 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 599 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 599 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 600 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 601 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 602 | [The Surge](games/t/the_surge.md) | 4.55 | 
