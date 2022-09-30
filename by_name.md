@@ -26,7 +26,7 @@
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.64 | 
+| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
@@ -139,7 +139,7 @@
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 140 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 141 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 142 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 143 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
@@ -250,7 +250,7 @@
 | 248 | [GRIME](games/g/grime.md) | 4.60 | 
 | 249 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 250 | [Hades](games/h/hades.md) | 4.92 | 
-| 251 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 251 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 252 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 253 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 254 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
@@ -508,7 +508,7 @@
 | 506 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 507 | [SOMA](games/s/soma.md) | 4.70 | 
 | 508 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 510 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 511 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 
 | 512 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -645,7 +645,7 @@
 | 643 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 644 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 645 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 646 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 646 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 647 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 648 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 649 | [Transistor](games/t/transistor.md) | 4.64 | 
