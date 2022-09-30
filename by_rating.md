@@ -66,17 +66,17 @@
 | 64 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 73 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 74 | [Journey](games/j/journey.md) | 4.80 | 
-| 75 | [Quake](games/q/quake.md) | 4.80 | 
-| 76 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
-| 77 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 67 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 69 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 71 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 72 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 74 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 75 | [Journey](games/j/journey.md) | 4.80 | 
+| 76 | [Quake](games/q/quake.md) | 4.80 | 
+| 77 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 78 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 79 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 80 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
@@ -497,15 +497,15 @@
 | 495 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
 | 496 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 497 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 499 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 500 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 501 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 503 | [Othercide](games/o/othercide.md) | 4.44 | 
-| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 505 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
-| 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 498 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 499 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 500 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 501 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 502 | [Othercide](games/o/othercide.md) | 4.44 | 
+| 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.43 | 
+| 505 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 506 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 508 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -700,13 +700,13 @@
 | 698 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 699 | [Patron](games/p/patron.md) | 3.98 | 
 | 700 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 701 | [Warface](games/w/warface.md) | 3.95 | 
+| 701 | [Warface](games/w/warface.md) | 3.96 | 
 | 702 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 703 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 704 | [The Surge 2](games/t/the_surge_2.md) | 3.93 | 
 | 705 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
-| 706 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 707 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 706 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 707 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 708 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 709 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 710 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 

@@ -290,7 +290,7 @@
 | 288 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 289 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 290 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
-| 291 | [Ironcast](games/i/ironcast.md) | 3.90 | 
+| 291 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 292 | [Isonzo](games/i/isonzo.md) | 4.47 | 
 | 293 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 294 | [Journey](games/j/journey.md) | 4.80 | 
@@ -428,7 +428,7 @@
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
 | 428 | [Potion Permit](games/p/potion_permit.md) | 3.70 | 
-| 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
 | 432 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -667,7 +667,7 @@
 | 665 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 666 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 667 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 668 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 668 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 669 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 670 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 671 | [Vampyr](games/v/vampyr.md) | 4.31 | 
@@ -676,7 +676,7 @@
 | 674 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 675 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 676 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 677 | [Warface](games/w/warface.md) | 3.95 | 
+| 677 | [Warface](games/w/warface.md) | 3.96 | 
 | 678 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 679 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 680 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
