@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.27 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.28 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -468,7 +468,7 @@
 | 466 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 467 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 468 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 469 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 469 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 470 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 471 | [Sable](games/s/sable.md) | 4.50 | 
 | 472 | [Saints Row](games/s/saints_row.md) | 3.77 | 

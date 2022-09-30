@@ -373,18 +373,18 @@
 | 371 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 372 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 373 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 374 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 375 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 376 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 377 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 378 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 379 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 380 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 381 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 383 | [Hue](games/h/hue.md) | 4.55 | 
-| 384 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 385 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
+| 374 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 376 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 377 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 378 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 379 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 380 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 382 | [Hue](games/h/hue.md) | 4.55 | 
+| 383 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 384 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
+| 385 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 386 | [Minit](games/m/minit.md) | 4.55 | 
 | 387 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 388 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -617,13 +617,13 @@
 | 615 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 616 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 617 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 618 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 619 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 620 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 621 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 622 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 623 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 624 | [Gloomhaven](games/g/gloomhaven.md) | 4.27 | 
+| 618 | [Gloomhaven](games/g/gloomhaven.md) | 4.28 | 
+| 619 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 620 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 621 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 622 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 623 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 624 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 625 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 627 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
