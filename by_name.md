@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
@@ -66,7 +66,7 @@
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.61 | 
+| 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 69 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 70 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -188,7 +188,7 @@
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 
+| 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 192 | [Faeria](games/f/faeria.md) | 4.45 | 
@@ -592,7 +592,7 @@
 | 590 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
 | 591 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 592 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 593 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 593 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
 | 594 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 595 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 596 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
@@ -654,7 +654,7 @@
 | 652 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
 | 653 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 654 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
-| 655 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 655 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 656 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 657 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 658 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
