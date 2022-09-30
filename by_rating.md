@@ -347,23 +347,23 @@
 | 345 | [Hob](games/h/hob.md) | 4.58 | 
 | 346 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 348 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 349 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 350 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 351 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 352 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 353 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 354 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 355 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 356 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 357 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 359 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 360 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 361 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 362 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 363 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 364 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 348 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 349 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 350 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 351 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 352 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 353 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 354 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 355 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 356 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 358 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 359 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 360 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 361 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 362 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 363 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 364 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 365 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 366 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 367 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 

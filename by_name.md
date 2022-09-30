@@ -622,7 +622,7 @@
 | 620 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
 | 621 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 622 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 623 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 623 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 624 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 625 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 626 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
