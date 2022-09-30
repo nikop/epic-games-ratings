@@ -104,14 +104,14 @@
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 104 | [Northgard](games/n/northgard.md) | 4.76 | 
-| 105 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 106 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 107 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 110 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
-| 111 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 105 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 106 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 107 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 108 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 109 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
+| 110 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 111 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 112 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 113 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 114 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 115 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
@@ -246,18 +246,18 @@
 | 244 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 245 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 246 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 247 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 248 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 249 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 250 | [Transistor](games/t/transistor.md) | 4.64 | 
-| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 252 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 253 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 254 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 255 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.64 | 
-| 256 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 257 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 258 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 247 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 248 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 249 | [Transistor](games/t/transistor.md) | 4.64 | 
+| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 252 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 253 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 254 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.64 | 
+| 255 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 256 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 257 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 258 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 
 | 259 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 260 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 261 | [Old World](games/o/old_world.md) | 4.63 | 

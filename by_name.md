@@ -25,7 +25,7 @@
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
+| 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.64 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
@@ -181,7 +181,7 @@
 | 179 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 180 | [ELEX](games/e/elex.md) | 4.32 | 
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 184 | [Encased](games/e/encased.md) | 4.34 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
