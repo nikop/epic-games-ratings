@@ -205,7 +205,7 @@
 | 203 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 204 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
 | 205 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 206 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
+| 206 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 209 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
@@ -230,7 +230,7 @@
 | 228 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
@@ -298,7 +298,7 @@
 | 296 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 297 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 298 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 299 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 299 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
 | 300 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 301 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 302 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
