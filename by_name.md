@@ -124,7 +124,7 @@
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 123 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 124 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.61 | 
+| 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
@@ -260,14 +260,14 @@
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 259 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 260 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
-| 261 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
+| 261 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 262 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 263 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
 | 264 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 265 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 266 | [Hob](games/h/hob.md) | 4.58 | 
 | 267 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 268 | [Horace](games/h/horace.md) | 4.57 | 
+| 268 | [Horace](games/h/horace.md) | 4.54 | 
 | 269 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 270 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 271 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -278,7 +278,7 @@
 | 276 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 277 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
 | 278 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
-| 279 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.04 | 
+| 279 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 280 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 281 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 282 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
@@ -294,7 +294,7 @@
 | 292 | [Isonzo](games/i/isonzo.md) | 4.47 | 
 | 293 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 294 | [Journey](games/j/journey.md) | 4.80 | 
-| 295 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 295 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 296 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 297 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 298 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -437,7 +437,7 @@
 | 435 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 437 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 438 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 438 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 439 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 440 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 441 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
@@ -661,7 +661,7 @@
 | 659 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 660 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 661 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
-| 662 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 662 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 663 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 664 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 665 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
