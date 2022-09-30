@@ -452,20 +452,20 @@
 | 450 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 451 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 452 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 453 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 454 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 455 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 456 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 457 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 458 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 459 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 460 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 462 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 463 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
-| 464 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 465 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 466 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 453 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 454 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 455 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 456 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 457 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 458 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 459 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 460 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 461 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 462 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
+| 463 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 464 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 465 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 466 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 467 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 468 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 469 | [Death Coming](games/d/death_coming.md) | 4.48 | 
@@ -615,9 +615,9 @@
 | 613 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 615 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 616 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 617 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 618 | [Gloomhaven](games/g/gloomhaven.md) | 4.28 | 
+| 616 | [Gloomhaven](games/g/gloomhaven.md) | 4.29 | 
+| 617 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 618 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 619 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 620 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 621 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 

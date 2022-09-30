@@ -83,7 +83,7 @@
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.28 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.29 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
