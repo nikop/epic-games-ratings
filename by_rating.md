@@ -487,19 +487,19 @@
 | 485 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 486 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 487 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 488 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 489 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 490 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 491 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 492 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
-| 493 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 494 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
-| 495 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 496 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 497 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 498 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 499 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 500 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 488 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
+| 489 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 490 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 491 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 492 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 493 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 494 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 495 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
+| 496 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 497 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 498 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 499 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 500 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 501 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 503 | [Othercide](games/o/othercide.md) | 4.44 | 
@@ -697,9 +697,9 @@
 | 695 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
 | 696 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 697 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 698 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 699 | [Patron](games/p/patron.md) | 3.98 | 
-| 700 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 698 | [Patron](games/p/patron.md) | 3.98 | 
+| 699 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 700 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 701 | [Warface](games/w/warface.md) | 3.95 | 
 | 702 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 703 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 

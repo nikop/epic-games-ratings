@@ -6,7 +6,7 @@
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
@@ -423,7 +423,7 @@
 | 421 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 422 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 423 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 424 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 424 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 425 | [Pine](games/p/pine.md) | 4.13 | 
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
