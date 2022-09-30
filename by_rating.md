@@ -26,14 +26,14 @@
 | 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
-| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 27 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 28 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 29 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 30 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 33 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 34 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 37 | [Firework](games/f/firework.md) | 4.85 | 
@@ -272,20 +272,20 @@
 | 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 272 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
-| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 274 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 275 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 276 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 277 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
-| 278 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 279 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 280 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 281 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
-| 282 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 283 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 284 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 285 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 286 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 273 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 274 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 275 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 276 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 277 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 278 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
+| 279 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 280 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 281 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 282 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
+| 283 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 284 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 285 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 286 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 287 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 288 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 289 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
@@ -617,15 +617,15 @@
 | 615 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 616 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 617 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 618 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 619 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 620 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 621 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 622 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 623 | [Gloomhaven](games/g/gloomhaven.md) | 4.27 | 
-| 624 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 625 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 626 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 618 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 619 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 620 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 621 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 622 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 623 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 624 | [Gloomhaven](games/g/gloomhaven.md) | 4.27 | 
+| 625 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 627 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 628 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 629 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
@@ -651,13 +651,13 @@
 | 649 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 650 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
-| 652 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 654 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 655 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 656 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 657 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 658 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
+| 652 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 653 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 654 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 655 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 656 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 657 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 658 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 659 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 660 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 661 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 

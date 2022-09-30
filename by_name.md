@@ -62,7 +62,7 @@
 | 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
 | 61 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
-| 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -336,7 +336,7 @@
 | 334 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 335 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 336 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 338 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
 | 339 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 340 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
@@ -536,7 +536,7 @@
 | 534 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 535 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 536 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
-| 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.18 | 
+| 537 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 538 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 539 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 540 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
@@ -657,7 +657,7 @@
 | 655 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 656 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 657 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 658 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 658 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 659 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 660 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 661 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.41 | 
