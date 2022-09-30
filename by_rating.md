@@ -55,11 +55,11 @@
 | 53 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 56 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
-| 57 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 58 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 59 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 60 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 56 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 57 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
+| 58 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 59 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 61 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 62 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 63 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
@@ -136,19 +136,19 @@
 | 134 | [Fez](games/f/fez.md) | 4.73 | 
 | 135 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 137 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 142 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 145 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 146 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 147 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 148 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 149 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.72 | 
+| 137 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.73 | 
+| 138 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 143 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 146 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 147 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 148 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 149 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 152 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
@@ -646,11 +646,11 @@
 | 644 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.21 | 
 | 645 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 646 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 647 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 648 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 649 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 650 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
-| 651 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 647 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 648 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 649 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 650 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 652 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 653 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 654 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 

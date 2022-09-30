@@ -2,9 +2,9 @@
 | --- | ---- | ------ | 
 | 1 | [20XX](games/2/20xx.md) | 4.61 | 
 | 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.43 | 
-| 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.19 | 
+| 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.59 | 
@@ -576,7 +576,7 @@
 | 574 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 575 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 577 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.72 | 
+| 577 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.73 | 
 | 578 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 579 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 580 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
