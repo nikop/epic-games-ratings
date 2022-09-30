@@ -387,7 +387,7 @@
 | 385 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 386 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 387 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 388 | [Observation](games/o/observation.md) | 4.39 | 
+| 388 | [Observation](games/o/observation.md) | 4.38 | 
 | 389 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 390 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
 | 391 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
@@ -482,7 +482,7 @@
 | 480 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 481 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 482 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 483 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 483 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 484 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 485 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
 | 486 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
@@ -510,7 +510,7 @@
 | 508 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 510 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 511 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 511 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 
 | 512 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 513 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 514 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
@@ -713,4 +713,4 @@
 | 711 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 712 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
 | 713 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
-| 714 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 714 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
