@@ -34,7 +34,7 @@
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.60 | 
+| 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
@@ -153,7 +153,7 @@
 | 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 153 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
-| 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.49 | 
+| 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 155 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 156 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 157 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
@@ -232,7 +232,7 @@
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.40 | 
+| 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.27 | 
