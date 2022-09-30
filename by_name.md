@@ -52,7 +52,7 @@
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.43 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -116,7 +116,7 @@
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 117 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 117 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
@@ -495,7 +495,7 @@
 | 493 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 494 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
 | 495 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 496 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 
+| 496 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 497 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 498 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 499 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -505,7 +505,7 @@
 | 503 | [SMITE](games/s/smite.md) | 4.46 | 
 | 504 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 505 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 506 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 506 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 507 | [SOMA](games/s/soma.md) | 4.70 | 
 | 508 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -581,7 +581,7 @@
 | 579 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 580 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 581 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 582 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 582 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
 | 583 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 584 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 585 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
