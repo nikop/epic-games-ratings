@@ -499,12 +499,12 @@
 | 497 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 
 | 498 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 499 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 500 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 501 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 504 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 500 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 501 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 502 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 503 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 505 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 506 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 508 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 

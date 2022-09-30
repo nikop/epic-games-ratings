@@ -428,7 +428,7 @@
 | 426 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 427 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
 | 428 | [Potion Permit](games/p/potion_permit.md) | 3.70 | 
-| 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.43 | 
+| 429 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 430 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 431 | [Prey](games/p/prey.md) | 4.60 | 
 | 432 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
