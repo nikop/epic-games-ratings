@@ -118,7 +118,7 @@
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
+| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.33 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -304,7 +304,7 @@
 | 302 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 303 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
 | 304 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 305 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 305 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 306 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 307 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 308 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
@@ -441,7 +441,7 @@
 | 439 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 440 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 441 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
-| 442 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
+| 442 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 443 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 444 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 445 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 

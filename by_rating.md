@@ -101,15 +101,15 @@
 | 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 104 | [Northgard](games/n/northgard.md) | 4.76 | 
-| 105 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 106 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 107 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 110 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.75 | 
+| 102 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
+| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 105 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 106 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 108 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 111 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 113 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
@@ -583,18 +583,18 @@
 | 581 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 582 | [House Party](games/h/house_party.md) | 4.35 | 
 | 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
-| 584 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.35 | 
-| 585 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
-| 586 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 589 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 590 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 591 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 592 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 594 | [Encased](games/e/encased.md) | 4.34 | 
-| 595 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 584 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
+| 585 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 586 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 587 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 588 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 589 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 590 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 591 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 592 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 593 | [Encased](games/e/encased.md) | 4.34 | 
+| 594 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 595 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.33 | 
 | 596 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 597 | [ELEX](games/e/elex.md) | 4.33 | 
 | 598 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
@@ -653,12 +653,12 @@
 | 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 652 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 653 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 654 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 655 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 656 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 657 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 658 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 659 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 654 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 655 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 656 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 657 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 658 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 659 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 660 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.18 | 
 | 661 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
 | 662 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
