@@ -262,7 +262,7 @@
 | 260 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 261 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 262 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 263 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.55 | 
+| 263 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 264 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 265 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 266 | [Hob](games/h/hob.md) | 4.58 | 
@@ -446,7 +446,7 @@
 | 444 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 445 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 446 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 447 | [Relicta](games/r/relicta.md) | 4.09 | 
+| 447 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 448 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 449 | [Revita](games/r/revita.md) | 4.74 | 
 | 450 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
@@ -509,7 +509,7 @@
 | 507 | [SOMA](games/s/soma.md) | 4.70 | 
 | 508 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 510 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 510 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 511 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 
 | 512 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 513 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
