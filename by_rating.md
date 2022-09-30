@@ -19,14 +19,14 @@
 | 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 19 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 20 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
-| 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 24 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 27 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 20 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 21 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
+| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
