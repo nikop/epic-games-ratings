@@ -85,7 +85,7 @@
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
@@ -193,7 +193,7 @@
 | 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 192 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 194 | [Family Man](games/f/family_man.md) | 4.21 | 
+| 194 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 195 | [Far Cry](games/f/far_cry.md) | 4.40 | 
 | 196 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
 | 197 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
@@ -300,7 +300,7 @@
 | 298 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 299 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 300 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
-| 301 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 301 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 302 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 303 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 304 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
@@ -579,7 +579,7 @@
 | 577 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 578 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 579 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.32 | 
+| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.28 | 
 | 581 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 582 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 583 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
