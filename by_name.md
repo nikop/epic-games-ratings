@@ -57,7 +57,7 @@
 | 55 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.93 | 
 | 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
 | 61 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
@@ -105,7 +105,7 @@
 | 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 106 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 106 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
@@ -253,7 +253,7 @@
 | 251 | [Hades](games/h/hades.md) | 4.92 | 
 | 252 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 253 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 254 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 254 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 255 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
 | 256 | [Haven](games/h/haven.md) | 4.77 | 
 | 257 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
@@ -493,7 +493,7 @@
 | 491 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 492 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 493 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 494 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
+| 494 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.10 | 
 | 495 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 496 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 497 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
@@ -629,10 +629,10 @@
 | 627 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 628 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 629 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 630 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 630 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
 | 631 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 632 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
-| 633 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 633 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 634 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 635 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 636 | [Torchlight](games/t/torchlight.md) | 4.44 | 
