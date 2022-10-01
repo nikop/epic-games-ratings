@@ -27,7 +27,7 @@
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
-| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.29 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.30 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -525,7 +525,7 @@
 | 523 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 524 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 525 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 526 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 526 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 527 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
 | 528 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 529 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
@@ -677,7 +677,7 @@
 | 675 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 676 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 677 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 678 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 678 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
 | 679 | [Warface](games/w/warface.md) | 3.95 | 
 | 680 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 681 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 

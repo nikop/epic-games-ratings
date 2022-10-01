@@ -47,11 +47,11 @@
 | 45 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 46 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 48 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 50 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 51 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 52 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 48 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 49 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
+| 50 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
+| 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 53 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -202,18 +202,18 @@
 | 200 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 201 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 202 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 203 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 204 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 208 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 209 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 210 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 212 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 203 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 208 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 212 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 214 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 216 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 217 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
@@ -563,20 +563,20 @@
 | 561 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
 | 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 563 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
-| 564 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
-| 565 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 566 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
-| 567 | [Observation](games/o/observation.md) | 4.38 | 
-| 568 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 569 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 570 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
-| 571 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 572 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 574 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 575 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 576 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
-| 577 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 564 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 565 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
+| 566 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 567 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
+| 568 | [Observation](games/o/observation.md) | 4.38 | 
+| 569 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 570 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 571 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
+| 572 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 573 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 574 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 575 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 576 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 577 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 578 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 579 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 580 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
@@ -612,11 +612,11 @@
 | 610 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 611 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 612 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 613 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
-| 614 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 615 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 616 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 617 | [Gloomhaven](games/g/gloomhaven.md) | 4.29 | 
+| 613 | [Gloomhaven](games/g/gloomhaven.md) | 4.30 | 
+| 614 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
+| 615 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 616 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 617 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 618 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 619 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 620 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
