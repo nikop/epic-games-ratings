@@ -27,7 +27,7 @@
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
-| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
@@ -41,7 +41,7 @@
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 40 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 41 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
@@ -106,7 +106,7 @@
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 106 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
+| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
@@ -286,7 +286,7 @@
 | 284 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 285 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 286 | [INSIDE](games/i/inside.md) | 4.70 | 
-| 287 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 287 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
 | 288 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 289 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 290 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -334,7 +334,7 @@
 | 332 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 333 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 334 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
-| 335 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 335 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
 | 336 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 337 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 338 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
@@ -344,7 +344,7 @@
 | 342 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 343 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 344 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 345 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
+| 345 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 346 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 347 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -397,7 +397,7 @@
 | 395 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 396 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 397 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 398 | [Othercide](games/o/othercide.md) | 4.46 | 
+| 398 | [Othercide](games/o/othercide.md) | 4.43 | 
 | 399 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 400 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
 | 401 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -580,7 +580,7 @@
 | 578 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 579 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
-| 581 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 581 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 582 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 583 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 584 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
