@@ -698,7 +698,7 @@
 | 696 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 697 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 698 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 699 | [Windbound](games/w/windbound.md) | 4.16 | 
+| 699 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 700 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 701 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 702 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 

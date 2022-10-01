@@ -660,9 +660,9 @@
 | 658 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 659 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 660 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.18 | 
-| 661 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 662 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
-| 663 | [Windbound](games/w/windbound.md) | 4.16 | 
+| 661 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 662 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 663 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
 | 664 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.16 | 
 | 665 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 666 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
