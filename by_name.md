@@ -16,7 +16,7 @@
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
@@ -578,7 +578,7 @@
 | 576 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 577 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 578 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 579 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
+| 579 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.31 | 
 | 580 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 581 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 582 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
