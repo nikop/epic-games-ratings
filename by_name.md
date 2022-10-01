@@ -16,7 +16,7 @@
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -183,7 +183,7 @@
 | 181 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 182 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 184 | [Encased](games/e/encased.md) | 4.34 | 
+| 184 | [Encased](games/e/encased.md) | 4.35 | 
 | 185 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
@@ -436,7 +436,7 @@
 | 434 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 435 | [Quake](games/q/quake.md) | 4.80 | 
 | 436 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 437 | [RAILGRADE](games/r/railgrade.md) | 4.63 | 
+| 437 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
 | 438 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 439 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 440 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -621,7 +621,7 @@
 | 619 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
 | 620 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 621 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 622 | [This Is The Police](games/t/this_is_the_police.md) | 4.79 | 
+| 622 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 623 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 624 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 625 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
