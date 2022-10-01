@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
@@ -101,7 +101,7 @@
 | 99 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 100 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 101 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 102 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 102 | [Chorus](games/c/chorus.md) | 4.52 | 
 | 103 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
@@ -135,7 +135,7 @@
 | 133 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 134 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 136 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 137 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 138 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 139 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
@@ -150,7 +150,7 @@
 | 148 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 149 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 150 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 153 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
@@ -312,7 +312,7 @@
 | 310 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
 | 311 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 312 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 313 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 313 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 314 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 315 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 316 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
@@ -334,7 +334,7 @@
 | 332 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 333 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 334 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
-| 335 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 335 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 336 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 337 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 338 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
@@ -428,7 +428,7 @@
 | 426 | [Pine](games/p/pine.md) | 4.13 | 
 | 427 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 428 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
-| 429 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
+| 429 | [Potion Permit](games/p/potion_permit.md) | 3.71 | 
 | 430 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 431 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 432 | [Prey](games/p/prey.md) | 4.61 | 
@@ -436,7 +436,7 @@
 | 434 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
 | 435 | [Quake](games/q/quake.md) | 4.80 | 
 | 436 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 437 | [RAILGRADE](games/r/railgrade.md) | 4.43 | 
+| 437 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
 | 438 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 439 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 440 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -445,7 +445,7 @@
 | 443 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 444 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 445 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 446 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 446 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 447 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 448 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 449 | [Relicta](games/r/relicta.md) | 4.09 | 
@@ -632,7 +632,7 @@
 | 630 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
 | 631 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 632 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
-| 633 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 633 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 634 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 635 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 636 | [Torchlight](games/t/torchlight.md) | 4.44 | 
@@ -648,7 +648,7 @@
 | 646 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 647 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 648 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 649 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 649 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 650 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 651 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 652 | [Transistor](games/t/transistor.md) | 4.64 | 
