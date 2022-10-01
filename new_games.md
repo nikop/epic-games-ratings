@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [RAILGRADE](games/r/railgrade.md) | 4.60 | 
+| 1 | [RAILGRADE](games/r/railgrade.md) | 4.63 | 
 | 2 | [Potion Permit](games/p/potion_permit.md) | 3.71 | 
 | 3 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 4 | [Gloomhaven](games/g/gloomhaven.md) | 4.29 | 

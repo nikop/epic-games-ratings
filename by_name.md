@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [20XX](games/2/20xx.md) | 4.61 | 
+| 1 | [20XX](games/2/20xx.md) | 4.62 | 
 | 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
@@ -435,7 +435,7 @@
 | 433 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 434 | [Quake](games/q/quake.md) | 4.80 | 
 | 435 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 436 | [RAILGRADE](games/r/railgrade.md) | 4.60 | 
+| 436 | [RAILGRADE](games/r/railgrade.md) | 4.63 | 
 | 437 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 438 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 439 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -576,7 +576,7 @@
 | 574 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 575 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 576 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 578 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.18 | 
 | 579 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 580 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
