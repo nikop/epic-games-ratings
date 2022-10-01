@@ -596,7 +596,7 @@
 | 594 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
 | 595 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 596 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 597 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 597 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 598 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 599 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 600 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
@@ -604,7 +604,7 @@
 | 602 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 603 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 604 | [The Surge](games/t/the_surge.md) | 4.55 | 
-| 605 | [The Surge 2](games/t/the_surge_2.md) | 3.93 | 
+| 605 | [The Surge 2](games/t/the_surge_2.md) | 3.97 | 
 | 606 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 607 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 608 | [The Tenants](games/t/the_tenants.md) | 4.55 | 

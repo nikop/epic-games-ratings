@@ -258,19 +258,19 @@
 | 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 257 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 258 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 259 | [Old World](games/o/old_world.md) | 4.63 | 
-| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 262 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 266 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
-| 267 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
-| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 269 | [RAILGRADE](games/r/railgrade.md) | 4.63 | 
-| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 271 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 259 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 260 | [Old World](games/o/old_world.md) | 4.63 | 
+| 261 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 263 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 264 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 267 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
+| 268 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
+| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 270 | [RAILGRADE](games/r/railgrade.md) | 4.63 | 
+| 271 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 272 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 274 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -702,10 +702,10 @@
 | 700 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 701 | [Patron](games/p/patron.md) | 3.98 | 
 | 702 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 703 | [Warface](games/w/warface.md) | 3.95 | 
-| 704 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 705 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 706 | [The Surge 2](games/t/the_surge_2.md) | 3.93 | 
+| 703 | [The Surge 2](games/t/the_surge_2.md) | 3.97 | 
+| 704 | [Warface](games/w/warface.md) | 3.95 | 
+| 705 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 706 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 707 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 708 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 709 | [Ironcast](games/i/ironcast.md) | 3.89 | 
