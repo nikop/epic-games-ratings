@@ -109,11 +109,11 @@
 | 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 113 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 114 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 114 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -404,15 +404,15 @@
 | 402 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 403 | [Outward](games/o/outward.md) | 4.53 | 
 | 404 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 405 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 406 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 407 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 409 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 410 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 412 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 413 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 405 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 406 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 407 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 408 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 409 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 410 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 411 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 412 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 413 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 414 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
 | 415 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 416 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
@@ -663,11 +663,11 @@
 | 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.18 | 
 | 662 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 663 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 664 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
-| 665 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.16 | 
-| 666 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
-| 667 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
-| 668 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 664 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.16 | 
+| 665 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 666 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
+| 667 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 668 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
 | 669 | [Pine](games/p/pine.md) | 4.13 | 
 | 670 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 671 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 

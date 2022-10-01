@@ -245,7 +245,7 @@
 | 243 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 244 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 245 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 246 | [Gravewood High](games/g/gravewood_high.md) | 4.17 | 
+| 246 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
 | 247 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 248 | [GRIME](games/g/grime.md) | 4.60 | 
 | 249 | [Grindstone](games/g/grindstone.md) | 4.85 | 
@@ -361,7 +361,7 @@
 | 359 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 360 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 361 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 362 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 362 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 363 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 364 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 365 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
@@ -647,7 +647,7 @@
 | 645 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 646 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 647 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 648 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 648 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 649 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 650 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 651 | [Transistor](games/t/transistor.md) | 4.64 | 
