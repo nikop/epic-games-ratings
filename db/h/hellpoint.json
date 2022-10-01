@@ -1,11 +1,11 @@
 {
   "ID": "97f91a3e4a7449fa9f4505a09efe1645",
   "Name": "Hellpoint",
-  "Rating": 4.23,
+  "Rating": 4.13,
   "NumberOfRatings": 20,
   "FirstSeen": "2022-07-22T20:22:35.2519959+00:00",
   "FirstSeenRating": "2022-09-19T18:31:22.5343042+00:00",
-  "LastChanged": "2022-09-26T09:01:31.4028609+00:00",
+  "LastChanged": "2022-10-01T21:31:13.3321255+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-19T18:31:22.5343044+00:00",
@@ -20,6 +20,11 @@
     {
       "Time": "2022-09-26T09:01:31.402861+00:00",
       "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-01T21:31:13.3321258+00:00",
+      "Rating": 4.13,
       "NumberOfRatings": null
     }
   ],

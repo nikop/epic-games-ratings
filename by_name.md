@@ -260,7 +260,7 @@
 | 258 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 259 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 260 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 261 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 261 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 262 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 263 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 264 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
@@ -373,7 +373,7 @@
 | 371 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 372 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 373 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 374 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.16 | 
+| 374 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 375 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 376 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 377 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -479,7 +479,7 @@
 | 477 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 478 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 479 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 481 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 482 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 483 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
@@ -496,7 +496,7 @@
 | 494 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.10 | 
 | 495 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 496 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 497 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
+| 497 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 498 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 499 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 500 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -649,7 +649,7 @@
 | 647 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 648 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 649 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
-| 650 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 650 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 651 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 652 | [Transistor](games/t/transistor.md) | 4.64 | 
 | 653 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
