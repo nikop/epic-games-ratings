@@ -52,7 +52,7 @@
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -161,7 +161,7 @@
 | 159 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 160 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 161 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -223,7 +223,7 @@
 | 221 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 222 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 223 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 224 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 224 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 225 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 227 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
@@ -480,7 +480,7 @@
 | 478 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 479 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 480 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 481 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 481 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 482 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 483 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 484 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
@@ -583,7 +583,7 @@
 | 581 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 582 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 583 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 584 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
+| 584 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 585 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 586 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 587 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
