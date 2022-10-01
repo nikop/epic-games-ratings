@@ -27,7 +27,7 @@
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
-| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
@@ -67,7 +67,7 @@
 | 65 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 68 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 68 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 69 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 70 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 71 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
@@ -384,7 +384,7 @@
 | 382 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 383 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 384 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
-| 385 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 385 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 386 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 387 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 388 | [Obduction](games/o/obduction.md) | 4.10 | 
@@ -428,7 +428,7 @@
 | 426 | [Pine](games/p/pine.md) | 4.13 | 
 | 427 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 428 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
-| 429 | [Potion Permit](games/p/potion_permit.md) | 3.71 | 
+| 429 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 430 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 431 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 432 | [Prey](games/p/prey.md) | 4.60 | 

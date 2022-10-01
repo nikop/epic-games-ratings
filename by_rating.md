@@ -47,11 +47,11 @@
 | 45 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 46 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 48 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 49 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 50 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 48 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 50 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
+| 51 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
+| 52 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 53 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -96,17 +96,17 @@
 | 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 97 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
-| 98 | [Haven](games/h/haven.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 103 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 107 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 97 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 98 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
+| 99 | [Haven](games/h/haven.md) | 4.77 | 
+| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 102 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 104 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
+| 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -252,20 +252,20 @@
 | 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 251 | [RiME](games/r/rime.md) | 4.64 | 
 | 252 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 253 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 254 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
-| 255 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 257 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 258 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 259 | [Old World](games/o/old_world.md) | 4.63 | 
-| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 262 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 266 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 253 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 254 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 255 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 256 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 257 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 258 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 259 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 260 | [Old World](games/o/old_world.md) | 4.63 | 
+| 261 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 263 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 264 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
 | 267 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
 | 268 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
 | 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -714,5 +714,5 @@
 | 712 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 713 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 714 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 715 | [Potion Permit](games/p/potion_permit.md) | 3.71 | 
+| 715 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 716 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
