@@ -54,7 +54,7 @@
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
 | 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 55 | [Aztez](games/a/aztez.md) | 4.43 | 
+| 55 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.72 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.52 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -541,7 +541,7 @@
 | 539 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 540 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 541 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 542 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 542 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 543 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 544 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 545 | [Subnautica](games/s/subnautica.md) | 4.83 | 
