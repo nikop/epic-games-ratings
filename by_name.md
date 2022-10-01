@@ -7,7 +7,7 @@
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
-| 8 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 8 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -49,7 +49,7 @@
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 50 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
@@ -579,7 +579,7 @@
 | 577 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 578 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 579 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.31 | 
+| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
 | 581 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 582 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 583 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -692,7 +692,7 @@
 | 690 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 691 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 692 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 693 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 693 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 694 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 695 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 696 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.70 | 
