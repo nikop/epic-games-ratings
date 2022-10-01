@@ -677,11 +677,11 @@
 | 675 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 676 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 677 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 678 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
-| 679 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 680 | [Lake](games/l/lake.md) | 4.09 | 
-| 681 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 682 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
+| 678 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 679 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.09 | 
+| 680 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 681 | [Lake](games/l/lake.md) | 4.09 | 
+| 682 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 683 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 684 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 685 | [Gone Home](games/g/gone_home.md) | 4.07 | 
