@@ -57,13 +57,13 @@
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 56 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
-| 58 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
-| 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 63 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 64 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 59 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
+| 60 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 62 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 63 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -178,23 +178,23 @@
 | 176 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 177 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 179 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 180 | [Barony](games/b/barony.md) | 4.69 | 
-| 181 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 182 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 183 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 184 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 185 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
-| 186 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 187 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 188 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 190 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 192 | [CARRION](games/c/carrion.md) | 4.69 | 
-| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 181 | [Barony](games/b/barony.md) | 4.69 | 
+| 182 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 183 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 184 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 185 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 186 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 188 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 190 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 191 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 192 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 193 | [CARRION](games/c/carrion.md) | 4.69 | 
+| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 195 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
@@ -678,10 +678,10 @@
 | 676 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.10 | 
 | 677 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 678 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 679 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 680 | [Relicta](games/r/relicta.md) | 4.09 | 
-| 681 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 682 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 679 | [Relicta](games/r/relicta.md) | 4.09 | 
+| 680 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 681 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 682 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 683 | [Lake](games/l/lake.md) | 4.08 | 
 | 684 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 685 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
@@ -691,8 +691,8 @@
 | 689 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 690 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
 | 691 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 692 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
-| 693 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 692 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 693 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 694 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 695 | [The Surge 2](games/t/the_surge_2.md) | 4.03 | 
 | 696 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 

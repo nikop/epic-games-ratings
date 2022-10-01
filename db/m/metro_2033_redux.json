@@ -1,10 +1,10 @@
 {
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 5684,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-09-28T14:00:37.4444+00:00",
+  "LastChanged": "2022-10-01T21:00:43.2146535+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -720,12 +720,17 @@
       "Time": "2022-09-28T14:00:37.4444003+00:00",
       "Rating": 4.68,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-01T21:00:43.2146539+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 683
+      "Count": 691
     }
   ]
 }

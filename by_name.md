@@ -106,7 +106,7 @@
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 106 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
+| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
@@ -349,7 +349,7 @@
 | 347 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 349 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 350 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 
+| 350 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 351 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 352 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 353 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
@@ -484,7 +484,7 @@
 | 482 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 483 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 484 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
-| 485 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 485 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 486 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 487 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 488 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -669,7 +669,7 @@
 | 667 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 668 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 669 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 670 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 670 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 671 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 672 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 673 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
