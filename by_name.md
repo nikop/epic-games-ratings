@@ -90,7 +90,7 @@
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 89 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 90 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 91 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 91 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 92 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 93 | [CARRION](games/c/carrion.md) | 4.69 | 
 | 94 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -152,7 +152,7 @@
 | 150 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 151 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 152 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 153 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
+| 153 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 154 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 155 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 156 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
@@ -472,7 +472,7 @@
 | 470 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 471 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 472 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 473 | [Runbow](games/r/runbow.md) | 4.35 | 
+| 473 | [Runbow](games/r/runbow.md) | 4.34 | 
 | 474 | [Sable](games/s/sable.md) | 4.50 | 
 | 475 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 476 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -625,7 +625,7 @@
 | 623 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 624 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 625 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 626 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 626 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 627 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 628 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 629 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
