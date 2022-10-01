@@ -16,13 +16,13 @@
 | 14 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 15 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 16 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 19 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 20 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 21 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
-| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 19 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 20 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
+| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 22 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
+| 23 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
@@ -485,39 +485,39 @@
 | 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
 | 484 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 485 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 486 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
-| 487 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 488 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 489 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
-| 490 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 491 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 493 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 494 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 495 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 496 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 497 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 499 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 500 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 501 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 502 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 503 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 505 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 506 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 508 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 509 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
-| 510 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 513 | [Othercide](games/o/othercide.md) | 4.43 | 
-| 514 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 515 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.43 | 
-| 516 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 517 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 518 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 486 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 487 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 488 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
+| 489 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 490 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 491 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 492 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 493 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 494 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 495 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 498 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 499 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 500 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 501 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 504 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 505 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 506 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 507 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 508 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
+| 509 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 510 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 512 | [Othercide](games/o/othercide.md) | 4.43 | 
+| 513 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
+| 514 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.43 | 
+| 515 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 516 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 517 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 518 | [RAILGRADE](games/r/railgrade.md) | 4.43 | 
 | 519 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 520 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 521 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -636,11 +636,11 @@
 | 634 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 635 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 636 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 637 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 638 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
-| 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 640 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 641 | [The Fall](games/t/the_fall.md) | 4.22 | 
+| 637 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
+| 639 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 640 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 641 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 642 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 643 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 644 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 

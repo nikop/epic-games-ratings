@@ -163,7 +163,7 @@
 | 161 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 162 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 163 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 164 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
@@ -436,7 +436,7 @@
 | 434 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
 | 435 | [Quake](games/q/quake.md) | 4.80 | 
 | 436 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 437 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
+| 437 | [RAILGRADE](games/r/railgrade.md) | 4.43 | 
 | 438 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 439 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 440 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -585,7 +585,7 @@
 | 583 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 584 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 585 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 586 | [The Fall](games/t/the_fall.md) | 4.22 | 
+| 586 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 587 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 588 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 589 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
