@@ -273,7 +273,7 @@
 | 271 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 272 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 273 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 274 | [House Party](games/h/house_party.md) | 4.35 | 
+| 274 | [House Party](games/h/house_party.md) | 4.36 | 
 | 275 | [Hue](games/h/hue.md) | 4.55 | 
 | 276 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 277 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -301,7 +301,7 @@
 | 299 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 300 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
 | 301 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 302 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 302 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 303 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 304 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
 | 305 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
@@ -513,7 +513,7 @@
 | 511 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 512 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 513 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 514 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 
+| 514 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 515 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 516 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 517 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
@@ -585,7 +585,7 @@
 | 583 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 584 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 585 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 586 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 586 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 587 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 588 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 589 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 

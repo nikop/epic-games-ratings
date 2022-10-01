@@ -414,34 +414,34 @@
 | 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 414 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 415 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
-| 416 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 417 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 418 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 419 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 420 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 422 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 423 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 424 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
-| 425 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 426 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 427 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 428 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 429 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 415 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 416 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 418 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 419 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 420 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 421 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 422 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 423 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 424 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 425 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 426 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 427 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 428 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 429 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
 | 430 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 431 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
 | 432 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 433 | [Sonic Origins](games/s/sonic_origins.md) | 4.51 | 
-| 434 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 435 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 436 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 437 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 438 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 439 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 440 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 441 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 442 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 433 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 434 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 435 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 436 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 437 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 438 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 439 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 440 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 442 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 444 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
@@ -576,15 +576,15 @@
 | 574 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 575 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 576 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 577 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 578 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
-| 579 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 580 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 581 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 582 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 583 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 584 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 585 | [House Party](games/h/house_party.md) | 4.35 | 
+| 577 | [House Party](games/h/house_party.md) | 4.36 | 
+| 578 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 579 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
+| 580 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 581 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 582 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
+| 583 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 584 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 585 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 586 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 587 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
 | 588 | [Tacoma](games/t/tacoma.md) | 4.35 | 
@@ -636,11 +636,11 @@
 | 634 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 635 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 636 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 637 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 639 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
-| 640 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 641 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 637 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
+| 638 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 640 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 641 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 642 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 643 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 644 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
