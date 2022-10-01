@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.52 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.53 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -113,7 +113,7 @@
 | 111 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 112 | [Core](games/c/core.md) | 4.39 | 
 | 113 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 114 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 114 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -379,7 +379,7 @@
 | 377 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 378 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 379 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 380 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 380 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 381 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 382 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 383 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -431,7 +431,7 @@
 | 429 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 430 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 431 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 432 | [Prey](games/p/prey.md) | 4.60 | 
+| 432 | [Prey](games/p/prey.md) | 4.61 | 
 | 433 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 434 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 435 | [Quake](games/q/quake.md) | 4.80 | 
@@ -567,7 +567,7 @@
 | 565 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 566 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 567 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 568 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 568 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 569 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 570 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 571 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -579,13 +579,13 @@
 | 577 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 578 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 579 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
+| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
 | 581 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 582 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 583 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 584 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 585 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 586 | [The Fall](games/t/the_fall.md) | 4.22 | 
+| 586 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 587 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 588 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 589 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
@@ -605,7 +605,7 @@
 | 603 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 604 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 605 | [The Surge](games/t/the_surge.md) | 4.55 | 
-| 606 | [The Surge 2](games/t/the_surge_2.md) | 3.97 | 
+| 606 | [The Surge 2](games/t/the_surge_2.md) | 4.03 | 
 | 607 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 608 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 609 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
