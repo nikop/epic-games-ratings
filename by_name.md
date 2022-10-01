@@ -33,7 +33,7 @@
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
@@ -59,7 +59,7 @@
 | 57 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.93 | 
-| 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
 | 61 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 

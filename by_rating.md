@@ -242,19 +242,19 @@
 | 240 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 241 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 242 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
-| 243 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 244 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 245 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 246 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 247 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 248 | [Transistor](games/t/transistor.md) | 4.64 | 
-| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 251 | [RiME](games/r/rime.md) | 4.64 | 
-| 252 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 253 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 254 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 255 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.64 | 
+| 243 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
+| 244 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 245 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 246 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 247 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 248 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 249 | [Transistor](games/t/transistor.md) | 4.64 | 
+| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 252 | [RiME](games/r/rime.md) | 4.64 | 
+| 253 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 254 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 255 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
 | 256 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 257 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 258 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
@@ -412,22 +412,22 @@
 | 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 411 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 413 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 414 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 415 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 416 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 417 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
-| 418 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 419 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 420 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 421 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 422 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 423 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 424 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 425 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
-| 426 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
-| 427 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 428 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 414 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 415 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 416 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 418 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 419 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 420 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 422 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 423 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 424 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 425 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 426 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 427 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 428 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 429 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
 | 430 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 431 | [Paradigm](games/p/paradigm.md) | 4.51 | 
