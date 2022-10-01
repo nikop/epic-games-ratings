@@ -398,17 +398,17 @@
 | 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 397 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 398 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 399 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 400 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 401 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 402 | [Outward](games/o/outward.md) | 4.53 | 
-| 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 404 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 405 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 406 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.53 | 
-| 407 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 408 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 399 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 400 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 401 | [Outward](games/o/outward.md) | 4.53 | 
+| 402 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 403 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 404 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 405 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.53 | 
+| 406 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 407 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 411 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -482,16 +482,16 @@
 | 480 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 481 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 482 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 483 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
-| 484 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 485 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
-| 486 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 487 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 488 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
-| 489 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 490 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 491 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 492 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
+| 484 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
+| 485 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 486 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
+| 487 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 488 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 489 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
+| 490 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 491 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 493 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 494 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 495 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
@@ -673,16 +673,16 @@
 | 671 | [Pine](games/p/pine.md) | 4.13 | 
 | 672 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 673 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 674 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 675 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 676 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 677 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.10 | 
-| 678 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 679 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 680 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 674 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 675 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 676 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.10 | 
+| 677 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 678 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 679 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 680 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 681 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 682 | [Lake](games/l/lake.md) | 4.09 | 
-| 683 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 682 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 683 | [Lake](games/l/lake.md) | 4.08 | 
 | 684 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 685 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 686 | [Gone Home](games/g/gone_home.md) | 4.07 | 

@@ -318,7 +318,7 @@
 | 316 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 317 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 318 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 319 | [Lake](games/l/lake.md) | 4.09 | 
+| 319 | [Lake](games/l/lake.md) | 4.08 | 
 | 320 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 321 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 322 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.24 | 
@@ -433,7 +433,7 @@
 | 431 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 432 | [Prey](games/p/prey.md) | 4.61 | 
 | 433 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 434 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 434 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
 | 435 | [Quake](games/q/quake.md) | 4.80 | 
 | 436 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 437 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
@@ -448,7 +448,7 @@
 | 446 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 447 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 448 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 449 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 449 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 450 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 451 | [Revita](games/r/revita.md) | 4.74 | 
 | 452 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
@@ -687,7 +687,7 @@
 | 685 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 686 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 687 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 688 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 688 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 689 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 690 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 691 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
