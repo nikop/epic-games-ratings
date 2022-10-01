@@ -35,7 +35,7 @@
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
@@ -232,7 +232,7 @@
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
-| 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.30 | 
@@ -295,7 +295,7 @@
 | 293 | [Isonzo](games/i/isonzo.md) | 4.47 | 
 | 294 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 295 | [Journey](games/j/journey.md) | 4.80 | 
-| 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 297 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 298 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 299 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 

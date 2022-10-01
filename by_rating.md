@@ -373,18 +373,18 @@
 | 371 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 372 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 373 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 374 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 376 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 377 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 378 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 379 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 380 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 382 | [Hue](games/h/hue.md) | 4.55 | 
-| 383 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 384 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
-| 385 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 375 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 376 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 377 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 378 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 379 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 380 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 381 | [Hue](games/h/hue.md) | 4.55 | 
+| 382 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 383 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.55 | 
+| 384 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 385 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 386 | [Minit](games/m/minit.md) | 4.55 | 
 | 387 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 388 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -523,14 +523,14 @@
 | 521 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 522 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 523 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 524 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 525 | [Figment](games/f/figment.md) | 4.42 | 
-| 526 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
-| 527 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 528 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 529 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 530 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 531 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 524 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 525 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 526 | [Figment](games/f/figment.md) | 4.42 | 
+| 527 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 528 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 529 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 530 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 531 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 532 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 533 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 534 | [Weird West](games/w/weird_west.md) | 4.41 | 
@@ -671,7 +671,7 @@
 | 669 | [Pine](games/p/pine.md) | 4.13 | 
 | 670 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 671 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
-| 672 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 672 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 673 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 674 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 675 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
