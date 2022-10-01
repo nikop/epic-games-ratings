@@ -1,10 +1,10 @@
 {
   "ID": "a0b8d4482f3d4f939f35f87a3f367865",
   "Name": "Far Cry 2: Standard Edition",
-  "Rating": 4.15,
+  "Rating": 4.16,
   "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:31:40.0657396+00:00",
-  "LastChanged": "2022-09-27T23:03:04.405111+00:00",
+  "LastChanged": "2022-10-01T23:02:30.130121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:40.0657398+00:00",
@@ -144,6 +144,11 @@
     {
       "Time": "2022-09-27T23:03:04.4051113+00:00",
       "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-01T23:02:30.1301213+00:00",
+      "Rating": 4.16,
       "NumberOfRatings": null
     }
   ],

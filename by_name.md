@@ -16,7 +16,7 @@
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -195,7 +195,7 @@
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 195 | [Far Cry](games/f/far_cry.md) | 4.40 | 
-| 196 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 196 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
 | 197 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 198 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 199 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -293,7 +293,7 @@
 | 291 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 292 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 293 | [Isonzo](games/i/isonzo.md) | 4.48 | 
-| 294 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 294 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 295 | [Journey](games/j/journey.md) | 4.80 | 
 | 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 297 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
@@ -663,7 +663,7 @@
 | 661 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 662 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 663 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 664 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.43 | 
+| 664 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 665 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 666 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 667 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 

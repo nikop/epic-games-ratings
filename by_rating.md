@@ -494,35 +494,35 @@
 | 492 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 493 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 494 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 495 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 498 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 499 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 500 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 501 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 504 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
-| 505 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 506 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 508 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 509 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
-| 510 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 513 | [Othercide](games/o/othercide.md) | 4.43 | 
-| 514 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 515 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.43 | 
-| 516 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 517 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 518 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 519 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 520 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 521 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 522 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 523 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 495 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 496 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 497 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 499 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 500 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 501 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 502 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 503 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 505 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
+| 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 507 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 511 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
+| 512 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 513 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 514 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 515 | [Othercide](games/o/othercide.md) | 4.43 | 
+| 516 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
+| 517 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 518 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 519 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 520 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 521 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 522 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 523 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 524 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 525 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 526 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
@@ -664,7 +664,7 @@
 | 662 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 663 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 664 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 665 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 665 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
 | 666 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 667 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 668 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
@@ -682,9 +682,9 @@
 | 680 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 681 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 682 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 683 | [Lake](games/l/lake.md) | 4.08 | 
-| 684 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 685 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 683 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 684 | [Lake](games/l/lake.md) | 4.08 | 
+| 685 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 686 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 687 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 688 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
