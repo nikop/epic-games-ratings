@@ -118,21 +118,21 @@
 | 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 121 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 123 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 124 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 126 | [Revita](games/r/revita.md) | 4.74 | 
-| 127 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 128 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 130 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 131 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 119 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 122 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 125 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 127 | [Revita](games/r/revita.md) | 4.74 | 
+| 128 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 134 | [Fez](games/f/fez.md) | 4.73 | 
 | 135 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 136 | [FUSER™](games/f/fuser™.md) | 4.73 | 
@@ -492,24 +492,24 @@
 | 490 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 491 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 493 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 494 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
-| 495 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
-| 496 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 497 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 498 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
-| 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 500 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 501 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 503 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 504 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 505 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 506 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
-| 507 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 493 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 494 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 495 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 496 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 497 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 499 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 500 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 501 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 502 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 503 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 505 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
+| 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 508 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 509 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 510 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
 | 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 513 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
@@ -667,10 +667,10 @@
 | 665 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 666 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 667 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 668 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
-| 669 | [Pine](games/p/pine.md) | 4.13 | 
-| 670 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 671 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
+| 668 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 669 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
+| 670 | [Pine](games/p/pine.md) | 4.13 | 
+| 671 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 672 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 673 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 674 | [Obduction](games/o/obduction.md) | 4.10 | 
