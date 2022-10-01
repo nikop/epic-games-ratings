@@ -1,11 +1,11 @@
 {
   "ID": "d74efb08c7f449928fcdfdba1dcbda48",
   "Name": "Let\u0027s Build A Zoo",
-  "Rating": 4.38,
+  "Rating": 4.4,
   "NumberOfRatings": 39,
   "FirstSeen": "2022-07-22T20:28:30.4243035+00:00",
   "FirstSeenRating": "2022-08-08T07:31:42.1612375+00:00",
-  "LastChanged": "2022-09-23T14:02:41.4439439+00:00",
+  "LastChanged": "2022-10-01T15:02:18.1293019+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-08T07:31:42.1612377+00:00",
@@ -96,6 +96,11 @@
       "Time": "2022-09-23T14:02:41.443944+00:00",
       "Rating": 4.38,
       "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-10-01T15:02:18.1293022+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

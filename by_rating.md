@@ -92,15 +92,15 @@
 | 90 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 91 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 92 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 98 | [Northgard](games/n/northgard.md) | 4.77 | 
-| 99 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
-| 100 | [Haven](games/h/haven.md) | 4.77 | 
-| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 93 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 97 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 98 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
+| 99 | [Haven](games/h/haven.md) | 4.77 | 
+| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 102 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 104 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
@@ -265,22 +265,22 @@
 | 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 266 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
-| 267 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
-| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 270 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
-| 271 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 273 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 275 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
-| 276 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 277 | [20XX](games/2/20xx.md) | 4.62 | 
-| 278 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 279 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
-| 280 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 281 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 266 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
+| 267 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 268 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 269 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 270 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 272 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 274 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
+| 275 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 276 | [20XX](games/2/20xx.md) | 4.62 | 
+| 277 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 278 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
+| 279 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 280 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 281 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 282 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
 | 283 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 284 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
@@ -548,21 +548,21 @@
 | 546 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 
 | 547 | [Far Cry](games/f/far_cry.md) | 4.40 | 
 | 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 549 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 550 | [Core](games/c/core.md) | 4.39 | 
-| 551 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 552 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 553 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
-| 554 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 555 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 556 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 557 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 558 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 559 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 560 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 561 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
-| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 563 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
+| 549 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 551 | [Core](games/c/core.md) | 4.39 | 
+| 552 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 553 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 554 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 555 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 556 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 557 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 558 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 559 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 560 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 561 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 562 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
+| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 564 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
 | 565 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
 | 566 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 

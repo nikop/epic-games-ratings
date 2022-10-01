@@ -81,7 +81,7 @@
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -330,7 +330,7 @@
 | 328 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 329 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 330 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 331 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
+| 331 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 332 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 333 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 334 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
@@ -653,7 +653,7 @@
 | 651 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 652 | [Transistor](games/t/transistor.md) | 4.64 | 
 | 653 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 654 | [Travellers Rest](games/t/travellers_rest.md) | 4.63 | 
+| 654 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 655 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 656 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 657 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
