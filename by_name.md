@@ -83,7 +83,7 @@
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -191,7 +191,7 @@
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 192 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 192 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
 | 195 | [Far Cry](games/f/far_cry.md) | 4.39 | 
@@ -295,7 +295,7 @@
 | 293 | [Isonzo](games/i/isonzo.md) | 4.47 | 
 | 294 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 295 | [Journey](games/j/journey.md) | 4.80 | 
-| 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 297 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 298 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 299 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
