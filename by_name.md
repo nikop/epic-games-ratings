@@ -194,7 +194,7 @@
 | 192 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 194 | [Family Man](games/f/family_man.md) | 4.21 | 
-| 195 | [Far Cry](games/f/far_cry.md) | 4.39 | 
+| 195 | [Far Cry](games/f/far_cry.md) | 4.40 | 
 | 196 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 197 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 198 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -333,7 +333,7 @@
 | 331 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.38 | 
 | 332 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 333 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 334 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 334 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
 | 335 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 336 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 337 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
@@ -465,7 +465,7 @@
 | 463 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 464 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 465 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 466 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 466 | [Rogue Lords](games/r/rogue_lords.md) | 4.72 | 
 | 467 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 468 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 469 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
@@ -578,7 +578,7 @@
 | 576 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 577 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 578 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 579 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.18 | 
+| 579 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
 | 580 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 581 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 582 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -647,7 +647,7 @@
 | 645 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 646 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 647 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 648 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 648 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 649 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 650 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 651 | [Transistor](games/t/transistor.md) | 4.64 | 
