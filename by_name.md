@@ -118,7 +118,7 @@
 | 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.33 | 
+| 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 120 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 121 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 122 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -231,7 +231,7 @@
 | 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
+| 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -316,7 +316,7 @@
 | 314 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 315 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 316 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 317 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 317 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 318 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 319 | [Lake](games/l/lake.md) | 4.08 | 
 | 320 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -366,7 +366,7 @@
 | 364 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 365 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 366 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 367 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 367 | [Mutazione](games/m/mutazione.md) | 4.67 | 
 | 368 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 369 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 370 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
@@ -472,7 +472,7 @@
 | 470 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 471 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 472 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 473 | [Runbow](games/r/runbow.md) | 4.36 | 
+| 473 | [Runbow](games/r/runbow.md) | 4.40 | 
 | 474 | [Sable](games/s/sable.md) | 4.50 | 
 | 475 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 476 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -602,7 +602,7 @@
 | 600 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 601 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 602 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
-| 603 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 603 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 604 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 605 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 606 | [The Surge 2](games/t/the_surge_2.md) | 4.03 | 
