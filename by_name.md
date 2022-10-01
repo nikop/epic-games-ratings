@@ -49,11 +49,11 @@
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 50 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
-| 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 54 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 55 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.67 | 
@@ -127,7 +127,7 @@
 | 125 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 126 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.62 | 
+| 128 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 130 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 131 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -235,7 +235,7 @@
 | 233 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 234 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 235 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.30 | 
+| 236 | [Gloomhaven](games/g/gloomhaven.md) | 4.31 | 
 | 237 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 238 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 239 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -443,7 +443,7 @@
 | 441 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 442 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 443 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 444 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
+| 444 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 445 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 446 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 447 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
@@ -579,7 +579,7 @@
 | 577 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 578 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 579 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
+| 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.32 | 
 | 581 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 582 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 583 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -604,7 +604,7 @@
 | 602 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 603 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 604 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
-| 605 | [The Surge](games/t/the_surge.md) | 4.55 | 
+| 605 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 606 | [The Surge 2](games/t/the_surge_2.md) | 4.03 | 
 | 607 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 608 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 

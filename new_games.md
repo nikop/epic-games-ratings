@@ -4,7 +4,7 @@
 | 2 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
 | 3 | [Potion Permit](games/p/potion_permit.md) | 3.71 | 
 | 4 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
-| 5 | [Gloomhaven](games/g/gloomhaven.md) | 4.30 | 
+| 5 | [Gloomhaven](games/g/gloomhaven.md) | 4.31 | 
 | 6 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 7 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.53 | 
 | 8 | [Isonzo](games/i/isonzo.md) | 4.48 | 
@@ -20,7 +20,7 @@
 | 18 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 19 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 20 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
-| 21 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
+| 21 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 22 | [The Surge 2](games/t/the_surge_2.md) | 4.03 | 
 | 23 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 24 | [DOOM II](games/d/doom_ii.md) | 4.87 | 

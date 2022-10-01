@@ -1,11 +1,11 @@
 {
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
-  "Rating": 4.3,
+  "Rating": 4.31,
   "NumberOfRatings": 68,
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
-  "LastChanged": "2022-10-01T07:01:26.1359198+00:00",
+  "LastChanged": "2022-10-01T20:31:17.3881291+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T05:01:45.7957209+00:00",
@@ -145,6 +145,11 @@
     {
       "Time": "2022-10-01T07:01:26.1359201+00:00",
       "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-01T20:31:17.3881297+00:00",
+      "Rating": 4.31,
       "NumberOfRatings": null
     }
   ],
