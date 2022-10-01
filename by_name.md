@@ -189,7 +189,7 @@
 | 187 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 188 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 189 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
-| 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 190 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 191 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 192 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 193 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -292,7 +292,7 @@
 | 290 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 291 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
 | 292 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 293 | [Isonzo](games/i/isonzo.md) | 4.47 | 
+| 293 | [Isonzo](games/i/isonzo.md) | 4.48 | 
 | 294 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 295 | [Journey](games/j/journey.md) | 4.80 | 
 | 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
@@ -566,7 +566,7 @@
 | 564 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 565 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
 | 566 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 567 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 567 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 568 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 569 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 570 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -694,7 +694,7 @@
 | 692 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 693 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 694 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 695 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.69 | 
+| 695 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.70 | 
 | 696 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 697 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 698 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
