@@ -105,12 +105,12 @@
 | 103 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 106 | [Northgard](games/n/northgard.md) | 4.76 | 
-| 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 108 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 111 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 107 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 113 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
 | 114 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
