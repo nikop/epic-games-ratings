@@ -76,7 +76,7 @@
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 77 | [Blair Witch](games/b/blair_witch.md) | 4.17 | 
+| 77 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
 | 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.52 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -106,7 +106,7 @@
 | 104 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 105 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 106 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.04 | 
+| 107 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 108 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 109 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 110 | [Control](games/c/control.md) | 4.60 | 
@@ -115,7 +115,7 @@
 | 113 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 114 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 115 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
-| 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 116 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 117 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 118 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 119 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.33 | 
@@ -167,7 +167,7 @@
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 166 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 167 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 
+| 168 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
 | 169 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 170 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 171 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -383,7 +383,7 @@
 | 381 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 382 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 383 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 384 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
+| 384 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 385 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 386 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 387 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
@@ -597,7 +597,7 @@
 | 595 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
 | 596 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 597 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 598 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 598 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
 | 599 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 600 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 601 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
