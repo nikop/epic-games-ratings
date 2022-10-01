@@ -533,7 +533,7 @@
 | 531 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 532 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 533 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 534 | [Steelrising](games/s/steelrising.md) | 4.23 | 
+| 534 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 535 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 536 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 537 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 

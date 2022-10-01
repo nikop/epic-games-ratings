@@ -632,9 +632,9 @@
 | 630 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 631 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
 | 632 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.24 | 
-| 633 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 634 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 635 | [Steelrising](games/s/steelrising.md) | 4.23 | 
+| 633 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 634 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 635 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 636 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 637 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 638 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
