@@ -26,7 +26,7 @@
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
+| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -300,7 +300,7 @@
 | 298 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 299 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 300 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
-| 301 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 301 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 302 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 303 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 304 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
@@ -436,7 +436,7 @@
 | 434 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 435 | [Quake](games/q/quake.md) | 4.80 | 
 | 436 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 437 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
+| 437 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
 | 438 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 439 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 440 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
