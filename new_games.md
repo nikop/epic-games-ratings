@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Runbow](games/r/runbow.md) | 4.34 | 
+| 1 | [Runbow](games/r/runbow.md) | 4.36 | 
 | 2 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
 | 3 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 4 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 

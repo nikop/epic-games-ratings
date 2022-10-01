@@ -247,7 +247,7 @@
 | 245 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 246 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
 | 247 | [Griftlands](games/g/griftlands.md) | 4.82 | 
-| 248 | [GRIME](games/g/grime.md) | 4.60 | 
+| 248 | [GRIME](games/g/grime.md) | 4.59 | 
 | 249 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 250 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
 | 251 | [Hades](games/h/hades.md) | 4.92 | 
@@ -268,7 +268,7 @@
 | 266 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 267 | [Hob](games/h/hob.md) | 4.58 | 
 | 268 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 269 | [Horace](games/h/horace.md) | 4.54 | 
+| 269 | [Horace](games/h/horace.md) | 4.55 | 
 | 270 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 271 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 272 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -295,7 +295,7 @@
 | 293 | [Isonzo](games/i/isonzo.md) | 4.48 | 
 | 294 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 295 | [Journey](games/j/journey.md) | 4.80 | 
-| 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 296 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 297 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 298 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 299 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -354,7 +354,7 @@
 | 352 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 353 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 354 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 355 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
+| 355 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
 | 356 | [Minit](games/m/minit.md) | 4.55 | 
 | 357 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 358 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -363,7 +363,7 @@
 | 361 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 362 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 363 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 364 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 364 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 365 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 366 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 367 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -472,7 +472,7 @@
 | 470 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 471 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 472 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 473 | [Runbow](games/r/runbow.md) | 4.34 | 
+| 473 | [Runbow](games/r/runbow.md) | 4.36 | 
 | 474 | [Sable](games/s/sable.md) | 4.50 | 
 | 475 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 476 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -578,7 +578,7 @@
 | 576 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 577 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 578 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 579 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 579 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 580 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
 | 581 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 582 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
@@ -684,7 +684,7 @@
 | 682 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 683 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 684 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 685 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 685 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 686 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 687 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 688 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
