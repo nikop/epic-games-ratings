@@ -81,7 +81,7 @@
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 82 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 83 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 84 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 85 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -209,7 +209,7 @@
 | 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 208 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 209 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
-| 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 210 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 211 | [Fez](games/f/fez.md) | 4.73 | 
 | 212 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
 | 213 | [Figment](games/f/figment.md) | 4.42 | 
@@ -334,7 +334,7 @@
 | 332 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 333 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 334 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
-| 335 | [Loop Hero](games/l/loop_hero.md) | 4.69 | 
+| 335 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 336 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 337 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 338 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
