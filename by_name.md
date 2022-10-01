@@ -222,13 +222,13 @@
 | 220 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 221 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 222 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 223 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 223 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 
 | 224 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 225 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 226 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 227 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
 | 228 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
+| 229 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 231 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 232 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.83 | 
@@ -443,7 +443,7 @@
 | 441 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 442 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 443 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 444 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
+| 444 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 445 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 446 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 447 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
@@ -536,7 +536,7 @@
 | 534 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 535 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 536 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 537 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 537 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 538 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 539 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
 | 540 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
@@ -570,7 +570,7 @@
 | 568 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 569 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 570 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 571 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 571 | [Tharsis](games/t/tharsis.md) | 4.20 | 
 | 572 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 573 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 574 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
@@ -636,7 +636,7 @@
 | 634 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 635 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 636 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 637 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 637 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
 | 638 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 639 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 640 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
