@@ -25,7 +25,7 @@
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.63 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
@@ -340,7 +340,7 @@
 | 338 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 339 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
 | 340 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 341 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 341 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 342 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 343 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 344 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 

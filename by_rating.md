@@ -113,39 +113,39 @@
 | 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 113 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
-| 114 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 115 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 116 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 119 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 121 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 125 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 127 | [Revita](games/r/revita.md) | 4.74 | 
-| 128 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 131 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [Fez](games/f/fez.md) | 4.73 | 
-| 136 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 142 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 145 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
-| 146 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 114 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
+| 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 116 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 117 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 118 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 123 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 124 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 126 | [Revita](games/r/revita.md) | 4.74 | 
+| 127 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 128 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 130 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 131 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 134 | [Fez](games/f/fez.md) | 4.73 | 
+| 135 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 137 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 140 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 144 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 145 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 146 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
 | 147 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
 | 148 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 149 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -580,18 +580,18 @@
 | 578 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 579 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 580 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 581 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 582 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 583 | [House Party](games/h/house_party.md) | 4.35 | 
-| 584 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
-| 585 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
-| 586 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 589 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 590 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 591 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 592 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 581 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 582 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 583 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 584 | [House Party](games/h/house_party.md) | 4.35 | 
+| 585 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 586 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.35 | 
+| 587 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 588 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 589 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 590 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 591 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 592 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 594 | [Encased](games/e/encased.md) | 4.34 | 
 | 595 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
