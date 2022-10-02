@@ -495,7 +495,7 @@
 | 493 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 494 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 495 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 496 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.10 | 
+| 496 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
 | 497 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 498 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 499 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
@@ -540,7 +540,7 @@
 | 538 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 539 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 540 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
-| 541 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
+| 541 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 542 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 543 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 544 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 

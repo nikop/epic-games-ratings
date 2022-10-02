@@ -35,14 +35,14 @@
 | 33 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 34 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 37 | [Firework](games/f/firework.md) | 4.85 | 
-| 38 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 39 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 40 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 41 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 43 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
+| 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 38 | [Firework](games/f/firework.md) | 4.85 | 
+| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 41 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 42 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 43 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 44 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
 | 45 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 46 | [Subnautica](games/s/subnautica.md) | 4.83 | 
@@ -674,11 +674,11 @@
 | 672 | [Pine](games/p/pine.md) | 4.13 | 
 | 673 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 674 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 675 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 676 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 677 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 678 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 679 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.10 | 
+| 675 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
+| 676 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 677 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 678 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 679 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 680 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 681 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 682 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
