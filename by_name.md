@@ -581,7 +581,7 @@
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.28 | 
+| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -613,7 +613,7 @@
 | 611 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 612 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 613 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 614 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 614 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 615 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 616 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
 | 617 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 

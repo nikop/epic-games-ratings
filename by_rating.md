@@ -24,13 +24,13 @@
 | 22 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
 | 23 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 27 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 28 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 29 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 33 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 34 | [TUNIC](games/t/tunic.md) | 4.85 | 
@@ -619,11 +619,11 @@
 | 617 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 618 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 619 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 620 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 621 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 622 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 623 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 624 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.28 | 
+| 620 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
+| 621 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 622 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 623 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 624 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 625 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 626 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 627 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
