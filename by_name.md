@@ -418,7 +418,7 @@
 | 416 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 418 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 419 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 419 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 420 | [Patron](games/p/patron.md) | 3.98 | 
 | 421 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 422 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
@@ -438,7 +438,7 @@
 | 436 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
 | 437 | [Quake](games/q/quake.md) | 4.80 | 
 | 438 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.44 | 
+| 439 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
 | 440 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 441 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 442 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -581,7 +581,7 @@
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.30 | 
+| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.28 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -694,7 +694,7 @@
 | 692 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 693 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 694 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 695 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 695 | [Weird West](games/w/weird_west.md) | 4.44 | 
 | 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 697 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 698 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
