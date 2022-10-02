@@ -24,7 +24,7 @@
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
+| 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
@@ -191,7 +191,7 @@
 | 189 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 190 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 191 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 192 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 192 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 193 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 194 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 195 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -435,7 +435,7 @@
 | 433 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 434 | [Prey](games/p/prey.md) | 4.61 | 
 | 435 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 436 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
+| 436 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 437 | [Quake](games/q/quake.md) | 4.80 | 
 | 438 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 439 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
