@@ -91,7 +91,7 @@
 | 89 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
 | 90 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 91 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 92 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 92 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 93 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 94 | [CARRION](games/c/carrion.md) | 4.69 | 
 | 95 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -121,7 +121,7 @@
 | 119 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 120 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 121 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 122 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 122 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 123 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 124 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 125 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
@@ -429,7 +429,7 @@
 | 427 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 428 | [Pine](games/p/pine.md) | 4.13 | 
 | 429 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
-| 430 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
+| 430 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 
 | 431 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
 | 432 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 433 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
@@ -450,12 +450,12 @@
 | 448 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 449 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 451 | [Relicta](games/r/relicta.md) | 4.09 | 
+| 451 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 452 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 453 | [Revita](games/r/revita.md) | 4.74 | 
 | 454 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 455 | [RiME](games/r/rime.md) | 4.64 | 
-| 456 | [RiMS Racing](games/r/rims_racing.md) | 4.38 | 
+| 456 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 457 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 458 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 459 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
