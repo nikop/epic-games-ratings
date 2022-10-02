@@ -8,7 +8,7 @@
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
@@ -77,7 +77,7 @@
 | 75 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.53 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.49 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -114,7 +114,7 @@
 | 112 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 113 | [Core](games/c/core.md) | 4.39 | 
 | 114 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 115 | [Costume Quest](games/c/costume_quest.md) | 4.48 | 
+| 115 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 116 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 117 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 118 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -361,11 +361,11 @@
 | 359 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 360 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 361 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 362 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 362 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 363 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 364 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 365 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 366 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 366 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 367 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 368 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 369 | [Mutazione](games/m/mutazione.md) | 4.67 | 
@@ -383,10 +383,10 @@
 | 381 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 382 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 383 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 384 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 384 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 385 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 386 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 387 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 387 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 388 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 389 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 390 | [Obduction](games/o/obduction.md) | 4.10 | 
@@ -494,7 +494,7 @@
 | 492 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 493 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 494 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 495 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 495 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 496 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
 | 497 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 498 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
@@ -607,7 +607,7 @@
 | 605 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 606 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 607 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 608 | [The Surge 2](games/t/the_surge_2.md) | 4.03 | 
+| 608 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
 | 609 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 610 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 611 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
