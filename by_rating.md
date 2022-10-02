@@ -277,39 +277,39 @@
 | 275 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 276 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 277 | [20XX](games/2/20xx.md) | 4.62 | 
-| 278 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 279 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 280 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 281 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
-| 282 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
-| 283 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 284 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 285 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 286 | [Prey](games/p/prey.md) | 4.61 | 
-| 287 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 288 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 289 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 290 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 291 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 292 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 293 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 294 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 295 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 296 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 297 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 298 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 299 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 300 | [Control](games/c/control.md) | 4.60 | 
-| 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 302 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 303 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 304 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 307 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 308 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 310 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 278 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 279 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 280 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
+| 281 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
+| 282 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 283 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 284 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 285 | [Prey](games/p/prey.md) | 4.61 | 
+| 286 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 287 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 288 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 289 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 290 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 291 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 292 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 293 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 294 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 295 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 297 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 298 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 299 | [Control](games/c/control.md) | 4.60 | 
+| 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 302 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 303 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 305 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 311 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 312 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 313 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 

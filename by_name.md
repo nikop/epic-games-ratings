@@ -709,7 +709,7 @@
 | 707 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 708 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 709 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 710 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 710 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 711 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 712 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 713 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
