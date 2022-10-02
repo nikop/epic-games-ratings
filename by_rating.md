@@ -418,33 +418,33 @@
 | 416 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 417 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 418 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 419 | [Chorus](games/c/chorus.md) | 4.52 | 
-| 420 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 421 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 422 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 423 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 424 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 425 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 426 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 427 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 428 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
-| 429 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 430 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
-| 431 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 432 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 435 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
-| 436 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 437 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 438 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 439 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 440 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 441 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 442 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
-| 444 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 445 | [Sable](games/s/sable.md) | 4.50 | 
+| 419 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 420 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 421 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 422 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 423 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 424 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 425 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 426 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 427 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
+| 428 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 429 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 430 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 431 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 432 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 433 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 434 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 435 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 436 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 437 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 438 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 439 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 440 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 441 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 443 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 444 | [Sable](games/s/sable.md) | 4.50 | 
+| 445 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 446 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 447 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 448 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
@@ -633,9 +633,9 @@
 | 631 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 632 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 633 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 634 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 635 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 636 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 634 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 635 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 636 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 637 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 

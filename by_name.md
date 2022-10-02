@@ -102,7 +102,7 @@
 | 100 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 101 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 102 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 103 | [Chorus](games/c/chorus.md) | 4.52 | 
+| 103 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 104 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 105 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 106 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
@@ -226,7 +226,7 @@
 | 224 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 225 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 226 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 227 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 227 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 228 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
 | 229 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 230 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
@@ -667,7 +667,7 @@
 | 665 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 666 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 667 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 668 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 668 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 669 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 670 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 671 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
