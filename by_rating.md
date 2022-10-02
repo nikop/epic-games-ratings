@@ -200,18 +200,18 @@
 | 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 200 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 201 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 202 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 203 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 208 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 211 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 212 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 202 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 203 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 205 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 206 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 207 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 208 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 210 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 212 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 215 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
@@ -227,7 +227,7 @@
 | 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 226 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 227 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 228 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 228 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 229 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 230 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.66 | 
 | 231 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
@@ -587,15 +587,15 @@
 | 585 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 586 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 587 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 588 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 589 | [Encased](games/e/encased.md) | 4.35 | 
-| 590 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 591 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 592 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 593 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 594 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 595 | [ELEX](games/e/elex.md) | 4.34 | 
-| 596 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 588 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 589 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 590 | [Encased](games/e/encased.md) | 4.35 | 
+| 591 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 592 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 593 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 594 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 595 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 596 | [ELEX](games/e/elex.md) | 4.34 | 
 | 597 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 598 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 599 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -711,7 +711,7 @@
 | 709 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 710 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 711 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
-| 712 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 712 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 713 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 714 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 715 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 

@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 46 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 50 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -69,7 +69,7 @@
 | 67 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 68 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 69 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 70 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 70 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 71 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
@@ -293,7 +293,7 @@
 | 291 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 292 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 293 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 294 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 294 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 295 | [Isonzo](games/i/isonzo.md) | 4.50 | 
 | 296 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 297 | [Journey](games/j/journey.md) | 4.80 | 
@@ -554,7 +554,7 @@
 | 552 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 553 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 554 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
-| 555 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 555 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 556 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 557 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 558 | [Supraland](games/s/supraland.md) | 4.61 | 
