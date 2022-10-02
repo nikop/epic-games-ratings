@@ -267,7 +267,7 @@
 | 265 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 266 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 267 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 268 | [Hob](games/h/hob.md) | 4.59 | 
+| 268 | [Hob](games/h/hob.md) | 4.58 | 
 | 269 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 270 | [Horace](games/h/horace.md) | 4.55 | 
 | 271 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -310,7 +310,7 @@
 | 308 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 309 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 310 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 311 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.65 | 
+| 311 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.66 | 
 | 312 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 313 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 314 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
@@ -376,7 +376,7 @@
 | 374 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 375 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
 | 376 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 377 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 377 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
 | 378 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 379 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 380 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
@@ -636,7 +636,7 @@
 | 634 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 635 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 636 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 637 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 637 | [Torchlight](games/t/torchlight.md) | 4.45 | 
 | 638 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
 | 639 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 640 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 

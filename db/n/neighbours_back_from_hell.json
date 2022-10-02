@@ -1,11 +1,11 @@
 {
   "ID": "5d24ed888f9542a09dc406f66705631a",
   "Name": "Neighbours back From Hell",
-  "Rating": 4.61,
+  "Rating": 4.59,
   "NumberOfRatings": 30,
   "FirstSeen": "2022-07-22T20:24:04.1226773+00:00",
   "FirstSeenRating": "2022-08-26T08:01:54.6325484+00:00",
-  "LastChanged": "2022-09-26T05:31:23.2530595+00:00",
+  "LastChanged": "2022-10-02T06:31:26.433007+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T08:01:54.6325486+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2022-09-26T05:31:23.2530599+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-02T06:31:26.4330073+00:00",
+      "Rating": 4.59,
       "NumberOfRatings": null
     }
   ],
