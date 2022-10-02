@@ -26,7 +26,7 @@
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 
+| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
@@ -474,7 +474,7 @@
 | 472 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 473 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 474 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 475 | [Runbow](games/r/runbow.md) | 4.40 | 
+| 475 | [Runbow](games/r/runbow.md) | 4.33 | 
 | 476 | [Sable](games/s/sable.md) | 4.50 | 
 | 477 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 478 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -580,7 +580,7 @@
 | 578 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
