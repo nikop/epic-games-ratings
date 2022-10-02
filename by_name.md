@@ -195,7 +195,7 @@
 | 193 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 194 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 195 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 196 | [Far Cry](games/f/far_cry.md) | 4.40 | 
+| 196 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 197 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
 | 198 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 199 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -581,7 +581,7 @@
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
+| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.30 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.49 | 

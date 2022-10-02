@@ -528,26 +528,26 @@
 | 526 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
 | 527 | [Figment](games/f/figment.md) | 4.42 | 
 | 528 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
-| 529 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 530 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 531 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 532 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 533 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 534 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 535 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 536 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.41 | 
-| 537 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
-| 538 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 539 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
-| 540 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 541 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 542 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 543 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
-| 544 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 545 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 546 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
-| 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 548 | [Far Cry](games/f/far_cry.md) | 4.40 | 
+| 529 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 530 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 531 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 532 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 533 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 534 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 535 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 536 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 537 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.41 | 
+| 538 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
+| 539 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 540 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
+| 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 542 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 543 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 544 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
+| 545 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 546 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 547 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
+| 548 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 549 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 550 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
@@ -615,20 +615,20 @@
 | 613 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 614 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 615 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 616 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 617 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 618 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 619 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 620 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 621 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 622 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 623 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 624 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 625 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 626 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 627 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 628 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 629 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
+| 616 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.30 | 
+| 617 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 618 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 619 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 620 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 621 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 622 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 623 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 624 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 625 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 626 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 627 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 628 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 629 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 630 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 631 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 632 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
