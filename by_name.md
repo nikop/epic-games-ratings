@@ -278,7 +278,7 @@
 | 276 | [Hue](games/h/hue.md) | 4.55 | 
 | 277 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 278 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 279 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 
+| 279 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 280 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
 | 281 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 282 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
@@ -420,7 +420,7 @@
 | 418 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 419 | [Patron](games/p/patron.md) | 3.98 | 
 | 420 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 421 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
+| 421 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 422 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 423 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 424 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
@@ -585,7 +585,7 @@
 | 583 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 584 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 585 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 586 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 586 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 587 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 588 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 589 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
