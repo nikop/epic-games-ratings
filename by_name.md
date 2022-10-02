@@ -30,7 +30,7 @@
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
-| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -508,7 +508,7 @@
 | 506 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 507 | [SMITE](games/s/smite.md) | 4.46 | 
 | 508 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 509 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 509 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 511 | [SOMA](games/s/soma.md) | 4.70 | 
 | 512 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
@@ -566,7 +566,7 @@
 | 564 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 565 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 566 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
-| 567 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.62 | 
+| 567 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 568 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 569 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 570 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
