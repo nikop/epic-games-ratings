@@ -1,11 +1,11 @@
 {
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 810,
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2022-10-02T19:00:29.1997117+00:00",
+  "LastChanged": "2022-10-02T22:00:22.3508927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -781,6 +781,11 @@
       "Time": "2022-10-02T19:00:29.199712+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-02T22:00:22.3508929+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -798,7 +803,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 68
+      "Count": 75
     },
     {
       "Text": "This game has Obsessive Gameplay",

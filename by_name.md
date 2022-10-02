@@ -191,7 +191,7 @@
 | 189 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 190 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 191 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 192 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 192 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 193 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 194 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 195 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -237,7 +237,7 @@
 | 235 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 236 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 237 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 238 | [Gloomhaven](games/g/gloomhaven.md) | 4.31 | 
+| 238 | [Gloomhaven](games/g/gloomhaven.md) | 4.32 | 
 | 239 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 240 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 241 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -268,7 +268,7 @@
 | 266 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 267 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 268 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 269 | [Hob](games/h/hob.md) | 4.59 | 
+| 269 | [Hob](games/h/hob.md) | 4.58 | 
 | 270 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 271 | [Horace](games/h/horace.md) | 4.49 | 
 | 272 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -318,7 +318,7 @@
 | 316 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 317 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 318 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 319 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 319 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 320 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 321 | [Lake](games/l/lake.md) | 4.08 | 
 | 322 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -355,7 +355,7 @@
 | 353 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 354 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 355 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 356 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 356 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 357 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
 | 358 | [Minit](games/m/minit.md) | 4.55 | 
 | 359 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -526,7 +526,7 @@
 | 524 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 525 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 526 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 527 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 527 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 528 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 529 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 530 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
