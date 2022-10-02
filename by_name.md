@@ -30,12 +30,12 @@
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
-| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.45 | 
+| 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 35 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 36 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 38 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
@@ -109,7 +109,7 @@
 | 107 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 108 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 109 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 110 | [Conarium](games/c/conarium.md) | 4.00 | 
+| 110 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 111 | [Control](games/c/control.md) | 4.60 | 
 | 112 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 113 | [Core](games/c/core.md) | 4.39 | 
@@ -270,7 +270,7 @@
 | 268 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 269 | [Hob](games/h/hob.md) | 4.59 | 
 | 270 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 271 | [Horace](games/h/horace.md) | 4.55 | 
+| 271 | [Horace](games/h/horace.md) | 4.49 | 
 | 272 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 273 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 274 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -412,7 +412,7 @@
 | 410 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 411 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 412 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 413 | [Paradigm](games/p/paradigm.md) | 4.51 | 
+| 413 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 414 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 415 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 416 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
@@ -438,7 +438,7 @@
 | 436 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.46 | 
 | 437 | [Quake](games/q/quake.md) | 4.80 | 
 | 438 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
+| 439 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
 | 440 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 441 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 442 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
