@@ -1,7 +1,16 @@
 {
   "ID": "16fc138ed83846bc90d923fe0d87ad72",
   "Name": "GigaBash",
+  "Rating": 4.45,
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
+  "LastChanged": "2022-10-02T07:32:08.4274131+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-02T07:32:08.4274132+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
