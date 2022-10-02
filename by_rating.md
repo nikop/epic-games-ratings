@@ -290,22 +290,22 @@
 | 288 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 289 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 290 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 291 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 292 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 293 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 294 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 295 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 296 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 297 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 298 | [Control](games/c/control.md) | 4.60 | 
-| 299 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 300 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 301 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 302 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 303 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 304 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 306 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 291 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 292 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 293 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 294 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 295 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 297 | [Control](games/c/control.md) | 4.60 | 
+| 298 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 299 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 300 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 301 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 302 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 303 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 304 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 305 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 306 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
 | 307 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 308 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 309 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
@@ -633,15 +633,15 @@
 | 631 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 632 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 633 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
-| 634 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
-| 635 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 636 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 637 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 638 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 639 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 640 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 641 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 642 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 634 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 635 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 636 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 637 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
+| 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 640 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 641 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 642 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
 | 643 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 644 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 645 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 

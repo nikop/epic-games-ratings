@@ -124,7 +124,7 @@
 | 122 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 123 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 124 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 125 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 125 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
 | 126 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 127 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 128 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
@@ -663,7 +663,7 @@
 | 661 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 662 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 663 | [TUNIC](games/t/tunic.md) | 4.85 | 
-| 664 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
+| 664 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
 | 665 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 666 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 667 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
