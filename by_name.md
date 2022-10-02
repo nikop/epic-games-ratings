@@ -217,7 +217,7 @@
 | 215 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 216 | [Firework](games/f/firework.md) | 4.85 | 
 | 217 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 218 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 218 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 219 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 220 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 221 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
@@ -581,7 +581,7 @@
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
+| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.49 | 

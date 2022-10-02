@@ -294,22 +294,22 @@
 | 292 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 293 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 294 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 295 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 297 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 298 | [Control](games/c/control.md) | 4.60 | 
-| 299 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 300 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 301 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 302 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 303 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 304 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 306 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 307 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 308 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 309 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 310 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 295 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 296 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 297 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 298 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 299 | [Control](games/c/control.md) | 4.60 | 
+| 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 302 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 303 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 305 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 311 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 313 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
@@ -620,15 +620,15 @@
 | 618 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 619 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 620 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 621 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
-| 622 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 623 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 624 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 625 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 626 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 627 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 628 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 629 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 621 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 622 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 623 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 624 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 625 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 626 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 627 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 628 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 629 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
 | 630 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 631 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 632 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
