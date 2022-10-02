@@ -146,7 +146,7 @@
 | 144 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 145 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 146 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 147 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 147 | [Death Coming](games/d/death_coming.md) | 4.49 | 
 | 148 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 149 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 150 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -565,7 +565,7 @@
 | 563 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 564 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 565 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 566 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 566 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 567 | [Tails of Iron](games/t/tails_of_iron.md) | 4.81 | 
 | 568 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 569 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -691,7 +691,7 @@
 | 689 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 690 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 691 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 692 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
+| 692 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 693 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 694 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 695 | [Weird West](games/w/weird_west.md) | 4.44 | 

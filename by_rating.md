@@ -461,14 +461,14 @@
 | 459 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 460 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 462 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
-| 463 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 464 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 465 | [Horace](games/h/horace.md) | 4.49 | 
-| 466 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 467 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 468 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 469 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 462 | [Death Coming](games/d/death_coming.md) | 4.49 | 
+| 463 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
+| 464 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 465 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 466 | [Horace](games/h/horace.md) | 4.49 | 
+| 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 469 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 470 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 472 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
@@ -586,26 +586,26 @@
 | 584 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 585 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 586 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 587 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 588 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 589 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 590 | [Encased](games/e/encased.md) | 4.35 | 
-| 591 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 592 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 593 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 594 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 595 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 596 | [ELEX](games/e/elex.md) | 4.34 | 
-| 597 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 598 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 599 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 600 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
-| 601 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 602 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 603 | [Runbow](games/r/runbow.md) | 4.33 | 
-| 604 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 605 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
-| 606 | [Gloomhaven](games/g/gloomhaven.md) | 4.32 | 
+| 587 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 588 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 589 | [Encased](games/e/encased.md) | 4.35 | 
+| 590 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 591 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 592 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 593 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 594 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 595 | [ELEX](games/e/elex.md) | 4.34 | 
+| 596 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 597 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 598 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 599 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
+| 600 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 601 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 602 | [Runbow](games/r/runbow.md) | 4.33 | 
+| 603 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 604 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
+| 605 | [Gloomhaven](games/g/gloomhaven.md) | 4.32 | 
+| 606 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 607 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 608 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 609 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
@@ -641,12 +641,12 @@
 | 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 640 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 641 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 642 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
-| 643 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
-| 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 645 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 646 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 647 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 642 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 643 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 644 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 645 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 646 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 648 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 649 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 650 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
