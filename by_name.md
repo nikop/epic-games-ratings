@@ -74,10 +74,10 @@
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 75 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 75 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 76 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 77 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.49 | 
+| 78 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.45 | 
 | 79 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 80 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -124,7 +124,7 @@
 | 122 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 123 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 124 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 125 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
+| 125 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 126 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 127 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 128 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
@@ -227,7 +227,7 @@
 | 225 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 226 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 227 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 228 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
+| 228 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
 | 229 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 230 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 231 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -375,7 +375,7 @@
 | 373 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 374 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 375 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 376 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.17 | 
+| 376 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 377 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 378 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
 | 379 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -522,7 +522,7 @@
 | 520 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 521 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 522 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 523 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
+| 523 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.46 | 
 | 524 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 525 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 526 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
