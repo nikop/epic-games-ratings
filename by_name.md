@@ -164,7 +164,7 @@
 | 162 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 163 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 164 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 165 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 165 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 166 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 167 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 168 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
@@ -524,7 +524,7 @@
 | 522 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 523 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.45 | 
 | 524 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
-| 525 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
+| 525 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 526 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 527 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 528 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -691,7 +691,7 @@
 | 689 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 690 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 691 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 692 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
+| 692 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
 | 693 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 694 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 695 | [Weird West](games/w/weird_west.md) | 4.44 | 

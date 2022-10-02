@@ -16,13 +16,13 @@
 | 14 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 15 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 16 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 19 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 20 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 22 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
-| 23 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 19 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
+| 20 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 21 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
+| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -641,12 +641,12 @@
 | 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 640 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 641 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 642 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
-| 643 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 644 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 645 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 646 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
+| 642 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
+| 643 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 645 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 646 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 647 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 648 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 649 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 650 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
@@ -718,4 +718,4 @@
 | 716 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 717 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
 | 718 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 719 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
+| 719 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
