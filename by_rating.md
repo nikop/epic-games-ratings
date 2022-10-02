@@ -187,18 +187,18 @@
 | 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 186 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 188 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 190 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 192 | [CARRION](games/c/carrion.md) | 4.69 | 
-| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 198 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 199 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 189 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 191 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 192 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 193 | [CARRION](games/c/carrion.md) | 4.69 | 
+| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 195 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 200 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 202 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
@@ -247,21 +247,21 @@
 | 245 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 246 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 247 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 248 | [Transistor](games/t/transistor.md) | 4.64 | 
-| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 251 | [RiME](games/r/rime.md) | 4.64 | 
-| 252 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 253 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 254 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 255 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 257 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 258 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 259 | [Old World](games/o/old_world.md) | 4.63 | 
-| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 262 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 248 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 249 | [Transistor](games/t/transistor.md) | 4.64 | 
+| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 252 | [RiME](games/r/rime.md) | 4.64 | 
+| 253 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 254 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 255 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 256 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 257 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 258 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 259 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 260 | [Old World](games/o/old_world.md) | 4.63 | 
+| 261 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
