@@ -106,12 +106,12 @@
 | 104 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 108 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 112 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 114 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -437,22 +437,22 @@
 | 435 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 436 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 437 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 438 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 439 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 440 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 442 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 444 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
-| 446 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 447 | [Sable](games/s/sable.md) | 4.50 | 
-| 448 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 449 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 450 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 451 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 452 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 453 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 438 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 439 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 440 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 441 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 442 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 445 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 446 | [Sable](games/s/sable.md) | 4.50 | 
+| 447 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 449 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 450 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 451 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 452 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 453 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 454 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 455 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 456 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -716,5 +716,5 @@
 | 714 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 715 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 716 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 717 | [Potion Permit](games/p/potion_permit.md) | 3.71 | 
+| 717 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 718 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
