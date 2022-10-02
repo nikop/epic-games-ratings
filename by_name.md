@@ -41,7 +41,7 @@
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 40 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 41 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
@@ -253,12 +253,12 @@
 | 251 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 252 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
 | 253 | [Hades](games/h/hades.md) | 4.92 | 
-| 254 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 254 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 255 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 256 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 257 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
 | 258 | [Haven](games/h/haven.md) | 4.77 | 
-| 259 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 259 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 260 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 261 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 262 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
@@ -294,7 +294,7 @@
 | 292 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 293 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 294 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 295 | [Isonzo](games/i/isonzo.md) | 4.48 | 
+| 295 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 296 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 297 | [Journey](games/j/journey.md) | 4.80 | 
 | 298 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
@@ -385,7 +385,7 @@
 | 383 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 384 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 385 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 386 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
+| 386 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 387 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 388 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 389 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
@@ -402,7 +402,7 @@
 | 400 | [Othercide](games/o/othercide.md) | 4.43 | 
 | 401 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 402 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
-| 403 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 403 | [Outer Wilds](games/o/outer_wilds.md) | 4.91 | 
 | 404 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 405 | [Outward](games/o/outward.md) | 4.53 | 
 | 406 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -474,7 +474,7 @@
 | 472 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 473 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 474 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 475 | [Runbow](games/r/runbow.md) | 4.33 | 
+| 475 | [Runbow](games/r/runbow.md) | 4.34 | 
 | 476 | [Sable](games/s/sable.md) | 4.50 | 
 | 477 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 478 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -555,7 +555,7 @@
 | 553 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 554 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 555 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 556 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
+| 556 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 557 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 558 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 559 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -655,7 +655,7 @@
 | 653 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 654 | [Transistor](games/t/transistor.md) | 4.64 | 
 | 655 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 656 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
+| 656 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
 | 657 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 658 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
 | 659 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
