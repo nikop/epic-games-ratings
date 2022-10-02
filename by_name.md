@@ -234,7 +234,7 @@
 | 232 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 233 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
 | 234 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 235 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 235 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 236 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 237 | [Gloomhaven](games/g/gloomhaven.md) | 4.31 | 
 | 238 | [God of War](games/g/god_of_war.md) | 4.89 | 
@@ -291,7 +291,7 @@
 | 289 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 290 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 291 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 292 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 292 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 293 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 294 | [Isonzo](games/i/isonzo.md) | 4.48 | 
 | 295 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 

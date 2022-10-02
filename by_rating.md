@@ -118,22 +118,22 @@
 | 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 119 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
-| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 122 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 124 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
-| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 126 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
-| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 128 | [Revita](games/r/revita.md) | 4.74 | 
-| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 133 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 134 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 121 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 123 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
+| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 125 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 127 | [Revita](games/r/revita.md) | 4.74 | 
+| 128 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 135 | [Fez](games/f/fez.md) | 4.73 | 
 | 136 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
@@ -577,16 +577,16 @@
 | 575 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 576 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 577 | [House Party](games/h/house_party.md) | 4.36 | 
-| 578 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 579 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
-| 580 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
-| 581 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 582 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 583 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
-| 584 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 585 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 586 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 587 | [Iron Harvest](games/i/iron_harvest.md) | 4.35 | 
+| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 579 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 580 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
+| 581 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
+| 582 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 583 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 584 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
+| 585 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 586 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 587 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 588 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 589 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 590 | [Encased](games/e/encased.md) | 4.35 | 
