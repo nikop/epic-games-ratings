@@ -1,9 +1,9 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Runbow](games/r/runbow.md) | 4.34 | 
-| 2 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
+| 1 | [Runbow](games/r/runbow.md) | 4.33 | 
+| 2 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 3 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
-| 4 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 4 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
 | 5 | [Gloomhaven](games/g/gloomhaven.md) | 4.31 | 
 | 6 | [Tails of Iron](games/t/tails_of_iron.md) | 4.81 | 
 | 7 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.49 | 

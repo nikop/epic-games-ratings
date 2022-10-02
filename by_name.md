@@ -49,7 +49,7 @@
 | 47 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 48 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 49 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 50 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 
+| 50 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 51 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 52 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 53 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
@@ -301,7 +301,7 @@
 | 299 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 300 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 301 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 302 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 302 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 303 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 304 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 305 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -438,7 +438,7 @@
 | 436 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 437 | [Quake](games/q/quake.md) | 4.80 | 
 | 438 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
+| 439 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 440 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 441 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 442 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -474,7 +474,7 @@
 | 472 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 473 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 474 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 475 | [Runbow](games/r/runbow.md) | 4.34 | 
+| 475 | [Runbow](games/r/runbow.md) | 4.33 | 
 | 476 | [Sable](games/s/sable.md) | 4.50 | 
 | 477 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 478 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -504,7 +504,7 @@
 | 502 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 503 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 504 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 505 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.84 | 
+| 505 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
 | 506 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 507 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 508 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -605,7 +605,7 @@
 | 603 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 604 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 605 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 606 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
+| 606 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 607 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 608 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
 | 609 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
