@@ -115,7 +115,7 @@
 | 113 | [Core](games/c/core.md) | 4.39 | 
 | 114 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 115 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 116 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
+| 116 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 117 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 118 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 119 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -180,7 +180,7 @@
 | 178 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 179 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 180 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 181 | [ELEX](games/e/elex.md) | 4.33 | 
+| 181 | [ELEX](games/e/elex.md) | 4.34 | 
 | 182 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 183 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 184 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
@@ -216,7 +216,7 @@
 | 214 | [Figment](games/f/figment.md) | 4.42 | 
 | 215 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 216 | [Firework](games/f/firework.md) | 4.85 | 
-| 217 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 217 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
 | 218 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 219 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 220 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -224,7 +224,7 @@
 | 222 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 223 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 224 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 225 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 225 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 226 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 227 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 228 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.41 | 
@@ -263,7 +263,7 @@
 | 261 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 262 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 263 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 264 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 264 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 265 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 266 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 267 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -288,7 +288,7 @@
 | 286 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 287 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 288 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 289 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
+| 289 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
 | 290 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 291 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 292 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -581,7 +581,7 @@
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
+| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.30 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
