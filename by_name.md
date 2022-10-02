@@ -487,7 +487,7 @@
 | 485 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
 | 486 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 487 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 488 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 488 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 489 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 490 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 491 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
@@ -638,7 +638,7 @@
 | 636 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 637 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 638 | [Torchlight](games/t/torchlight.md) | 4.45 | 
-| 639 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 639 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 640 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 641 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 642 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 

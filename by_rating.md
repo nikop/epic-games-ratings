@@ -278,23 +278,23 @@
 | 276 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 277 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 278 | [20XX](games/2/20xx.md) | 4.62 | 
-| 279 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 280 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 281 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
-| 282 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 283 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 284 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 285 | [Prey](games/p/prey.md) | 4.61 | 
-| 286 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 287 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 288 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 289 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 290 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 291 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 292 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 293 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 294 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 295 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 279 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 280 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 281 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 282 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
+| 283 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 284 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 285 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 286 | [Prey](games/p/prey.md) | 4.61 | 
+| 287 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 288 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 289 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 290 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 291 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 292 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 293 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 294 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 295 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 297 | [Control](games/c/control.md) | 4.60 | 
 | 298 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -353,20 +353,20 @@
 | 351 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 352 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 353 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 354 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 355 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 356 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 357 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 358 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 359 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 360 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
-| 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 362 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 363 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
-| 364 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 365 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 366 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 367 | [Torchlight II](games/t/torchlight_ii.md) | 4.56 | 
+| 354 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 355 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 356 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 357 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 358 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 359 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 360 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 361 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 362 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 364 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
+| 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 368 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 369 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 370 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
