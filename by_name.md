@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
@@ -136,7 +136,7 @@
 | 134 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 135 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 136 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 137 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 137 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 138 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 139 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 140 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
@@ -397,7 +397,7 @@
 | 395 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 396 | [Old World](games/o/old_world.md) | 4.63 | 
 | 397 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 398 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 398 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 399 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 400 | [Othercide](games/o/othercide.md) | 4.43 | 
 | 401 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
@@ -438,7 +438,7 @@
 | 436 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 437 | [Quake](games/q/quake.md) | 4.80 | 
 | 438 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 439 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
 | 440 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 441 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 442 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -447,7 +447,7 @@
 | 445 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 446 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 447 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 448 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 448 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 449 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 451 | [Relicta](games/r/relicta.md) | 4.10 | 
@@ -483,7 +483,7 @@
 | 481 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 482 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 483 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 484 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 484 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 485 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
 | 486 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 487 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
@@ -643,7 +643,7 @@
 | 641 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 642 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 643 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 644 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
+| 644 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 645 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 646 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 647 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
