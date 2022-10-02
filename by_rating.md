@@ -429,21 +429,21 @@
 | 427 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 428 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 429 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.51 | 
-| 430 | [Paradigm](games/p/paradigm.md) | 4.51 | 
-| 431 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
-| 432 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 433 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 434 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 435 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 436 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 437 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 438 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 439 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 440 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 442 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 444 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 430 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
+| 431 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 432 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 433 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 434 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 435 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 436 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 437 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 438 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 439 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 440 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 441 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 442 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 444 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
 | 446 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 447 | [Sable](games/s/sable.md) | 4.50 | 
@@ -632,14 +632,14 @@
 | 630 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 631 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 632 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 
-| 633 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.24 | 
-| 634 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 635 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 636 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 637 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 640 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 633 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 634 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 635 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 636 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 637 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
+| 638 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 639 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 640 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 641 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 642 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 643 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
