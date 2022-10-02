@@ -430,7 +430,7 @@
 | 428 | [Pine](games/p/pine.md) | 4.13 | 
 | 429 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 430 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 
-| 431 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
+| 431 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
 | 432 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 433 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 434 | [Prey](games/p/prey.md) | 4.61 | 
@@ -484,7 +484,7 @@
 | 482 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 483 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 484 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 485 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 485 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
 | 486 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 487 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
 | 488 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 

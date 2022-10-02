@@ -90,12 +90,12 @@
 | 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 89 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 90 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 91 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 92 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 93 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 91 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
+| 92 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 96 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
 | 97 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 98 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
 | 99 | [Haven](games/h/haven.md) | 4.77 | 
@@ -716,6 +716,6 @@
 | 714 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 715 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 716 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 717 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 718 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
+| 717 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
+| 718 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 719 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
