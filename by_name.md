@@ -16,7 +16,7 @@
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -196,7 +196,7 @@
 | 194 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 195 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 196 | [Far Cry](games/f/far_cry.md) | 4.42 | 
-| 197 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
+| 197 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 198 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 199 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 200 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -295,7 +295,7 @@
 | 293 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 294 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 295 | [Isonzo](games/i/isonzo.md) | 4.50 | 
-| 296 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 296 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 297 | [Journey](games/j/journey.md) | 4.80 | 
 | 298 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 299 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
@@ -430,7 +430,7 @@
 | 428 | [Pine](games/p/pine.md) | 4.13 | 
 | 429 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 430 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 
-| 431 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
+| 431 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 432 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 433 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 434 | [Prey](games/p/prey.md) | 4.61 | 
@@ -490,7 +490,7 @@
 | 488 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 489 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 490 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 491 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 491 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
 | 492 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 493 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 494 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 

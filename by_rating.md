@@ -93,15 +93,15 @@
 | 91 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 92 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 96 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
-| 97 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
-| 98 | [Haven](games/h/haven.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 94 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
+| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 97 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
+| 98 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
+| 99 | [Haven](games/h/haven.md) | 4.77 | 
+| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 102 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 103 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -506,25 +506,25 @@
 | 504 | [Weird West](games/w/weird_west.md) | 4.44 | 
 | 505 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 507 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 511 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
-| 512 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 513 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 514 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 515 | [Othercide](games/o/othercide.md) | 4.43 | 
-| 516 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 517 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
-| 518 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 519 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 520 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 521 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 522 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 523 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 524 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 525 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 508 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 509 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 510 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
+| 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 512 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 513 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 514 | [Othercide](games/o/othercide.md) | 4.43 | 
+| 515 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
+| 516 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
+| 517 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 518 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 519 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 520 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 521 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 522 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 523 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 524 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 525 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 526 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 527 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
 | 528 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
@@ -665,13 +665,13 @@
 | 663 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 664 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 665 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 666 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
-| 667 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
-| 668 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 669 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 670 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 671 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
-| 672 | [Pine](games/p/pine.md) | 4.13 | 
+| 666 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
+| 667 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 668 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 669 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 670 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
+| 671 | [Pine](games/p/pine.md) | 4.13 | 
+| 672 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 673 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 674 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 675 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
@@ -685,9 +685,9 @@
 | 683 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 684 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 685 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 686 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 687 | [Lake](games/l/lake.md) | 4.08 | 
-| 688 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 686 | [Lake](games/l/lake.md) | 4.08 | 
+| 687 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 688 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 689 | [Gone Home](games/g/gone_home.md) | 4.07 | 
 | 690 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 691 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -715,7 +715,7 @@
 | 713 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 714 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 715 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 716 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 717 | [Potion Permit](games/p/potion_permit.md) | 3.74 | 
+| 716 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 717 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 718 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 719 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
