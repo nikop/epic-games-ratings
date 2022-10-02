@@ -1,10 +1,10 @@
 {
   "ID": "dd9648d29088406e9e2a61ba33fc13f6",
   "Name": "Paradigm",
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 247,
   "FirstSeen": "2022-07-22T20:32:34.4741735+00:00",
-  "LastChanged": "2022-10-02T00:32:34.2316445+00:00",
+  "LastChanged": "2022-10-02T01:02:40.1513783+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:34.4741737+00:00",
@@ -289,6 +289,11 @@
     {
       "Time": "2022-10-02T00:32:34.2316448+00:00",
       "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-02T01:02:40.1513786+00:00",
+      "Rating": 4.51,
       "NumberOfRatings": null
     }
   ],

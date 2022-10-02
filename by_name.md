@@ -410,7 +410,7 @@
 | 408 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 409 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 410 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 411 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 411 | [Paradigm](games/p/paradigm.md) | 4.51 | 
 | 412 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 413 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 414 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
