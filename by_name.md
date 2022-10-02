@@ -511,8 +511,8 @@
 | 509 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 510 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 511 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 512 | [SOMA](games/s/soma.md) | 4.70 | 
-| 513 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 512 | [SOMA](games/s/soma.md) | 4.69 | 
+| 513 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 514 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 515 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 516 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 

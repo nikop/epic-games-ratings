@@ -168,7 +168,7 @@
 | 166 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 167 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 168 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
-| 169 | [SOMA](games/s/soma.md) | 4.70 | 
+| 169 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 170 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 172 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
@@ -189,7 +189,7 @@
 | 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 189 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 190 | [SOMA](games/s/soma.md) | 4.69 | 
 | 191 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 192 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 193 | [CARRION](games/c/carrion.md) | 4.69 | 
