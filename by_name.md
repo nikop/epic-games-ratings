@@ -267,7 +267,7 @@
 | 265 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 266 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 267 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 268 | [Hob](games/h/hob.md) | 4.58 | 
+| 268 | [Hob](games/h/hob.md) | 4.59 | 
 | 269 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 270 | [Horace](games/h/horace.md) | 4.55 | 
 | 271 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -286,7 +286,7 @@
 | 284 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 285 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 286 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 287 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 287 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 288 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
 | 289 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 290 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
@@ -565,7 +565,7 @@
 | 563 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 564 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 565 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 566 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
+| 566 | [Tails of Iron](games/t/tails_of_iron.md) | 4.81 | 
 | 567 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 568 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 569 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
