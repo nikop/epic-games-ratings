@@ -159,7 +159,7 @@
 | 157 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 158 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 159 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 160 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 160 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 161 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 162 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 163 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
@@ -294,14 +294,14 @@
 | 292 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 293 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 294 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 295 | [Isonzo](games/i/isonzo.md) | 4.49 | 
+| 295 | [Isonzo](games/i/isonzo.md) | 4.50 | 
 | 296 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 297 | [Journey](games/j/journey.md) | 4.80 | 
 | 298 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 299 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 300 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 301 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 302 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 302 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
 | 303 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 304 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 305 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -645,7 +645,7 @@
 | 643 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 644 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 645 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
-| 646 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 646 | [Townscaper](games/t/townscaper.md) | 4.69 | 
 | 647 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 648 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 649 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
