@@ -393,7 +393,7 @@
 | 391 | [Observation](games/o/observation.md) | 4.38 | 
 | 392 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 393 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
-| 394 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.41 | 
+| 394 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 395 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 396 | [Old World](games/o/old_world.md) | 4.63 | 
 | 397 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -445,7 +445,7 @@
 | 443 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 444 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 445 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 446 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
+| 446 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 447 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 448 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 449 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
@@ -549,7 +549,7 @@
 | 547 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 548 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 549 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 550 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.72 | 
+| 550 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 551 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
 | 552 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 553 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
