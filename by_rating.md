@@ -524,14 +524,14 @@
 | 522 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 523 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 524 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 525 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 526 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 527 | [Figment](games/f/figment.md) | 4.42 | 
-| 528 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
-| 529 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 530 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 531 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 532 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 525 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 526 | [Figment](games/f/figment.md) | 4.42 | 
+| 527 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 528 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 529 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 530 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 531 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 532 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 533 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 534 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 535 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.41 | 
