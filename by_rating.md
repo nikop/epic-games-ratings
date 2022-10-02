@@ -570,11 +570,11 @@
 | 568 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
 | 569 | [Observation](games/o/observation.md) | 4.38 | 
 | 570 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 571 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 572 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 573 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 574 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 575 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 571 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 572 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 573 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 574 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 575 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 576 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 577 | [House Party](games/h/house_party.md) | 4.36 | 
 | 578 | [Among Trees](games/a/among_trees.md) | 4.36 | 

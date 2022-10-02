@@ -525,7 +525,7 @@
 | 523 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 524 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.60 | 
 | 525 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 526 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 526 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 527 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 528 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 529 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
