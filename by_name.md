@@ -58,7 +58,7 @@
 | 56 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 57 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.93 | 
+| 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
 | 61 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
@@ -256,7 +256,7 @@
 | 254 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 255 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 256 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 257 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
+| 257 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
 | 258 | [Haven](games/h/haven.md) | 4.77 | 
 | 259 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 260 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
@@ -581,7 +581,7 @@
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.28 | 
+| 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.49 | 

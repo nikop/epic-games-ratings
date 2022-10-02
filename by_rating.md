@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.93 | 
+| 1 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 2 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 4 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
@@ -266,21 +266,21 @@
 | 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 267 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 268 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 271 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 273 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 275 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
-| 276 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 277 | [20XX](games/2/20xx.md) | 4.62 | 
-| 278 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 279 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 280 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
-| 281 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
+| 267 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
+| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 269 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 272 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 274 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 275 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 276 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
+| 277 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 278 | [20XX](games/2/20xx.md) | 4.62 | 
+| 279 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 280 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 281 | [Travellers Rest](games/t/travellers_rest.md) | 4.62 | 
 | 282 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 283 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 284 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -620,10 +620,10 @@
 | 618 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 619 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 620 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 621 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 622 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 623 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 624 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.28 | 
+| 621 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.29 | 
+| 622 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 623 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 624 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 625 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 626 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 627 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
