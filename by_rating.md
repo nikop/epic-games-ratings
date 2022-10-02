@@ -63,19 +63,19 @@
 | 61 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 63 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 65 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
-| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 71 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 72 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 73 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 74 | [Journey](games/j/journey.md) | 4.80 | 
-| 75 | [Quake](games/q/quake.md) | 4.80 | 
-| 76 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
+| 64 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 73 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 74 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 75 | [Journey](games/j/journey.md) | 4.80 | 
+| 76 | [Quake](games/q/quake.md) | 4.80 | 
 | 77 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 78 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
 | 79 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
@@ -257,19 +257,19 @@
 | 255 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 256 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 257 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 258 | [Old World](games/o/old_world.md) | 4.63 | 
-| 259 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 260 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 261 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
-| 262 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 264 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 265 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
-| 266 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 267 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 268 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 269 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 270 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 258 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 259 | [Old World](games/o/old_world.md) | 4.63 | 
+| 260 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 261 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 262 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.63 | 
+| 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 266 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 267 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 268 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 269 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 270 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 271 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 273 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 

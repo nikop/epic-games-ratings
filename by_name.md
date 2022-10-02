@@ -442,7 +442,7 @@
 | 440 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 441 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 442 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 443 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
+| 443 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 444 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 445 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.25 | 
 | 446 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
@@ -598,7 +598,7 @@
 | 596 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
 | 597 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 598 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 599 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.62 | 
+| 599 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 600 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 601 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 602 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
