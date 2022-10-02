@@ -1,5 +1,5 @@
 # Lifeless Planet: Premier Edition
-Rating: 4.01 (287)  (as of 23.09.2022)  
+Rating: 4.00 (287)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -60,3 +60,4 @@ Rating: 4.01 (287)  (as of 23.09.2022)
 | 2022-09-22 | 4.00 | 285 |
 | 2022-09-23 | 4.00 | 287 |
 | 2022-09-28 | 4.01 | - |
+| 2022-10-02 | 4.00 | - |

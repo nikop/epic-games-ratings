@@ -20,7 +20,7 @@
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 21 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -60,7 +60,7 @@
 | 58 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 59 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 60 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
-| 61 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.82 | 
+| 61 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 62 | [Barony](games/b/barony.md) | 4.69 | 
 | 63 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 64 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
@@ -333,7 +333,7 @@
 | 331 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 332 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 333 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 334 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
+| 334 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 335 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 336 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
 | 337 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -385,7 +385,7 @@
 | 383 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 384 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 385 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 386 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 386 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.58 | 
 | 387 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 388 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 389 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
@@ -529,7 +529,7 @@
 | 527 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 528 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 529 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 530 | [Star Renegades](games/s/star_renegades.md) | 4.48 | 
+| 530 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
 | 531 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 532 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 533 | [Starsand](games/s/starsand.md) | 4.31 | 
