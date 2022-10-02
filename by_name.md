@@ -407,7 +407,7 @@
 | 405 | [Outward](games/o/outward.md) | 4.53 | 
 | 406 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 407 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 408 | [OVERPASS™](games/o/overpass™.md) | 4.30 | 
+| 408 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 409 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
 | 410 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 411 | [Paladins](games/p/paladins.md) | 4.36 | 
@@ -478,7 +478,7 @@
 | 476 | [Sable](games/s/sable.md) | 4.50 | 
 | 477 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 478 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 479 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 479 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
 | 480 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 481 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 482 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
@@ -580,7 +580,7 @@
 | 578 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 579 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 580 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 581 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 582 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.27 | 
 | 583 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 584 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
@@ -697,7 +697,7 @@
 | 695 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 697 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 698 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.70 | 
+| 698 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 699 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 700 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 701 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
