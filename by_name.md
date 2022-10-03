@@ -410,7 +410,7 @@
 | 408 | [Overcooked](games/o/overcooked.md) | 4.70 | 
 | 409 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 410 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 411 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
+| 411 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
 | 412 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 413 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 414 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
@@ -432,7 +432,7 @@
 | 430 | [Pine](games/p/pine.md) | 4.13 | 
 | 431 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 432 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 
-| 433 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 433 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 434 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 435 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 436 | [Prey](games/p/prey.md) | 4.61 | 
@@ -440,7 +440,7 @@
 | 438 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 439 | [Quake](games/q/quake.md) | 4.80 | 
 | 440 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 441 | [RAILGRADE](games/r/railgrade.md) | 4.45 | 
+| 441 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
 | 442 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 443 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 444 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
@@ -450,7 +450,7 @@
 | 448 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 449 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 450 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 451 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
+| 451 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 453 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 454 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
@@ -474,7 +474,7 @@
 | 472 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 473 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 474 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 475 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 475 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 476 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 477 | [Runbow](games/r/runbow.md) | 4.36 | 
 | 478 | [Sable](games/s/sable.md) | 4.50 | 
@@ -561,7 +561,7 @@
 | 559 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 560 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 561 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 562 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 562 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
 | 563 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 564 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 565 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -583,7 +583,7 @@
 | 581 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 582 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 584 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.34 | 
+| 584 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.35 | 
 | 585 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 586 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 587 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -696,7 +696,7 @@
 | 694 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
 | 695 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 696 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 697 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 697 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 698 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 699 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 700 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 

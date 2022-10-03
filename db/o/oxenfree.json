@@ -1,10 +1,10 @@
 {
   "ID": "hibiscus",
   "Name": "Oxenfree",
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 99,
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
-  "LastChanged": "2022-09-26T08:32:19.0929685+00:00",
+  "LastChanged": "2022-10-03T19:03:16.3155817+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:37.999966+00:00",
@@ -209,6 +209,11 @@
     {
       "Time": "2022-09-26T08:32:19.0929688+00:00",
       "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-03T19:03:16.315582+00:00",
+      "Rating": 4.64,
       "NumberOfRatings": null
     }
   ],
