@@ -420,7 +420,7 @@
 | 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 419 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 420 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 421 | [Patron](games/p/patron.md) | 3.98 | 
+| 421 | [Patron](games/p/patron.md) | 3.90 | 
 | 422 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 423 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 424 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
@@ -439,7 +439,7 @@
 | 437 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 438 | [Quake](games/q/quake.md) | 4.80 | 
 | 439 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 440 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
+| 440 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
 | 441 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 442 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 443 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 

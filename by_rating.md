@@ -469,14 +469,14 @@
 | 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 468 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 469 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 470 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
-| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 473 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 475 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
-| 476 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 477 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 470 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 472 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 473 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 474 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
+| 475 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 476 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 477 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
 | 478 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 479 | [SMITE](games/s/smite.md) | 4.46 | 
 | 480 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -704,14 +704,14 @@
 | 702 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 703 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 704 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 705 | [Patron](games/p/patron.md) | 3.98 | 
-| 706 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 707 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
-| 708 | [Warface](games/w/warface.md) | 3.95 | 
-| 709 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 710 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 711 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 712 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 705 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 706 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 707 | [Warface](games/w/warface.md) | 3.95 | 
+| 708 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 709 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
+| 710 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
+| 711 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 712 | [Patron](games/p/patron.md) | 3.90 | 
 | 713 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 714 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 715 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
