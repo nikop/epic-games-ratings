@@ -394,13 +394,13 @@
 | 392 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 393 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 394 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
-| 395 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 396 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 397 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 398 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 399 | [Outward](games/o/outward.md) | 4.53 | 
-| 400 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 401 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 395 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 397 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 398 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 399 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 400 | [Outward](games/o/outward.md) | 4.53 | 
+| 401 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 402 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 403 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 404 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
@@ -434,26 +434,26 @@
 | 432 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 435 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
-| 436 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 437 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 438 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 439 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 440 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 441 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 442 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
-| 444 | [Isonzo](games/i/isonzo.md) | 4.50 | 
-| 445 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 446 | [Sable](games/s/sable.md) | 4.50 | 
-| 447 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 448 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 449 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 450 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 451 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 452 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 453 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 454 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 435 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 436 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 437 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 438 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 439 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 440 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 441 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 442 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 443 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 445 | [Isonzo](games/i/isonzo.md) | 4.50 | 
+| 446 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 447 | [Sable](games/s/sable.md) | 4.50 | 
+| 448 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 449 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 450 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 451 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 452 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 453 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 454 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 455 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 456 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 457 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -567,19 +567,19 @@
 | 565 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 566 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 568 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
-| 569 | [Observation](games/o/observation.md) | 4.38 | 
-| 570 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 571 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 572 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 573 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 574 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 575 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 576 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 577 | [House Party](games/h/house_party.md) | 4.36 | 
-| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 579 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
-| 580 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
+| 568 | [Observation](games/o/observation.md) | 4.38 | 
+| 569 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 570 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 571 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 572 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 573 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 574 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 575 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 576 | [House Party](games/h/house_party.md) | 4.36 | 
+| 577 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 578 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
+| 579 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
+| 580 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 581 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 582 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 583 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
@@ -615,13 +615,13 @@
 | 613 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 614 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.30 | 
-| 616 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 618 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 619 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
-| 620 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.29 | 
-| 621 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 622 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 616 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 617 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 618 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
+| 619 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.29 | 
+| 620 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 621 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 622 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 623 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 624 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 625 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
@@ -640,10 +640,10 @@
 | 638 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 639 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 640 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 641 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 642 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 643 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
-| 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 641 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 642 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 643 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 644 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 645 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 646 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 

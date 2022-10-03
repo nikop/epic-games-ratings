@@ -41,7 +41,7 @@
 | 39 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 40 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 41 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 42 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 43 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 44 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
 | 45 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
@@ -133,7 +133,7 @@
 | 131 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 132 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 133 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 134 | [Dark Deity](games/d/dark_deity.md) | 4.38 | 
+| 134 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 135 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 136 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 137 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
@@ -187,7 +187,7 @@
 | 185 | [Encased](games/e/encased.md) | 4.35 | 
 | 186 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 187 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 188 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 188 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 189 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 190 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 191 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
@@ -325,7 +325,7 @@
 | 323 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 324 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 325 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 326 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 326 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 327 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 328 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 329 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
@@ -462,7 +462,7 @@
 | 460 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 461 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 462 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 463 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 463 | [Road 96](games/r/road_96.md) | 4.54 | 
 | 464 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 465 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 466 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
