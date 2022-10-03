@@ -134,7 +134,7 @@
 | 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 133 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 134 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 135 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 135 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 136 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 137 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 138 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -469,7 +469,7 @@
 | 467 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 468 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 469 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 470 | [Rogue Lords](games/r/rogue_lords.md) | 4.72 | 
+| 470 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 471 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 472 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 473 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -495,7 +495,7 @@
 | 493 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
 | 494 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 495 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 496 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 496 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 497 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 498 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
 | 499 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
@@ -552,7 +552,7 @@
 | 550 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 551 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 552 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 553 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
+| 553 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 554 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 555 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 556 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
@@ -582,7 +582,7 @@
 | 580 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 581 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 582 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 584 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.34 | 
 | 585 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 586 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
@@ -681,7 +681,7 @@
 | 679 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 680 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 681 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 682 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 682 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 683 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 684 | [Warface](games/w/warface.md) | 3.95 | 
 | 685 | [Warframe](games/w/warframe.md) | 4.63 | 
