@@ -70,7 +70,7 @@
 | 68 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 69 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 70 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 71 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
+| 71 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 72 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 74 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
@@ -122,7 +122,7 @@
 | 120 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 121 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 122 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 123 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 123 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 124 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 125 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 126 | [CryoFall](games/c/cryofall.md) | 4.40 | 
@@ -340,7 +340,7 @@
 | 338 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
 | 339 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 340 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 341 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 341 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 342 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 343 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 344 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -383,7 +383,7 @@
 | 381 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 382 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 383 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 384 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 384 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 385 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 386 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 387 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -629,7 +629,7 @@
 | 627 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 628 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 629 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 630 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 630 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 631 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 632 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 633 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
@@ -682,7 +682,7 @@
 | 680 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 681 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 682 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 683 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 683 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
 | 684 | [Warface](games/w/warface.md) | 3.95 | 
 | 685 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 686 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
