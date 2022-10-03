@@ -405,27 +405,27 @@
 | 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 404 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 405 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 406 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 407 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 412 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 413 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 414 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 415 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 416 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 418 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 419 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 420 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 421 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 422 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 423 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 424 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 425 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 426 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 406 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 407 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 409 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 410 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 411 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 412 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 414 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 415 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 418 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 419 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 420 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 421 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 422 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 423 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 424 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 425 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 426 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
 | 427 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 428 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 429 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
@@ -610,12 +610,12 @@
 | 608 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 609 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 610 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
-| 611 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 612 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 613 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 614 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 615 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 616 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.30 | 
+| 611 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.31 | 
+| 612 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 613 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 614 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 615 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 616 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 618 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 619 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
@@ -641,10 +641,10 @@
 | 639 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 640 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 641 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 642 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 643 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
-| 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 645 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 642 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 643 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 644 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 645 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 646 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 647 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
