@@ -634,9 +634,9 @@
 | 632 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 633 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 634 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 635 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 636 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 637 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 635 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 636 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 637 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 638 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 639 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 640 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
