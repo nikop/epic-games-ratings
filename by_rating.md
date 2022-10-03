@@ -324,32 +324,32 @@
 | 322 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 323 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 324 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
-| 325 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 326 | [GRIME](games/g/grime.md) | 4.59 | 
-| 327 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 328 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 329 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.59 | 
-| 330 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 331 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
-| 332 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 333 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
-| 334 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 335 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 336 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 337 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 338 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 339 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
-| 340 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 341 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 342 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 343 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 344 | [Hob](games/h/hob.md) | 4.58 | 
-| 345 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 346 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 348 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 349 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 350 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 325 | [GRIME](games/g/grime.md) | 4.59 | 
+| 326 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 327 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 328 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.59 | 
+| 329 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 330 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
+| 331 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 332 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
+| 333 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 334 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 335 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 336 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 337 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 338 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
+| 339 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 340 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 341 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 342 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 343 | [Hob](games/h/hob.md) | 4.58 | 
+| 344 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 345 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 346 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 347 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 348 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 349 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 350 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 351 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 352 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
 | 353 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
