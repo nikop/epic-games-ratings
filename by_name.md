@@ -302,7 +302,7 @@
 | 300 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 301 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 302 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 303 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 303 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 304 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 305 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 306 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -638,7 +638,7 @@
 | 636 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 637 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 638 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 639 | [Torchlight](games/t/torchlight.md) | 4.45 | 
+| 639 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 640 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 641 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 642 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 

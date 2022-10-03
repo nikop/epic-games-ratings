@@ -405,26 +405,26 @@
 | 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 404 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 405 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 406 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 407 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 409 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 410 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 411 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 412 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 413 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 414 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 415 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 417 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 418 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 419 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 420 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 421 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 422 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 423 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 424 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 425 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 406 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 407 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 412 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 413 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 414 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 415 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 416 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 418 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 419 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 420 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 421 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 422 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 423 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 424 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 425 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 426 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 427 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 428 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
@@ -493,18 +493,18 @@
 | 491 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
 | 492 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 493 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 494 | [Torchlight](games/t/torchlight.md) | 4.45 | 
-| 495 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 496 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 497 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 498 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.45 | 
-| 499 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 500 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
-| 501 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 502 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 503 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 504 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 505 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 494 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 495 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 496 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 497 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.45 | 
+| 498 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 499 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
+| 500 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 501 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 503 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 504 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 505 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 506 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 507 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
