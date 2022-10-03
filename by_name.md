@@ -182,7 +182,7 @@
 | 180 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 181 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 182 | [ELEX](games/e/elex.md) | 4.34 | 
-| 183 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 183 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 184 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 185 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 186 | [Encased](games/e/encased.md) | 4.35 | 
@@ -214,7 +214,7 @@
 | 212 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 213 | [Fez](games/f/fez.md) | 4.73 | 
 | 214 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.59 | 
-| 215 | [Figment](games/f/figment.md) | 4.42 | 
+| 215 | [Figment](games/f/figment.md) | 4.43 | 
 | 216 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 217 | [Firework](games/f/firework.md) | 4.85 | 
 | 218 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
@@ -254,7 +254,7 @@
 | 252 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 253 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
 | 254 | [Hades](games/h/hades.md) | 4.92 | 
-| 255 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 255 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 256 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 257 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 258 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
@@ -333,7 +333,7 @@
 | 331 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 332 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 333 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 334 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 334 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
 | 335 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 336 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 337 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
@@ -341,7 +341,7 @@
 | 339 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 340 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 341 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 342 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
+| 342 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 343 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 344 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 345 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -582,7 +582,7 @@
 | 580 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 581 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 582 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 583 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.31 | 
+| 583 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.32 | 
 | 584 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 585 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 586 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
