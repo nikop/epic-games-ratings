@@ -78,7 +78,7 @@
 | 76 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.45 | 
+| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.40 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 81 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -149,7 +149,7 @@
 | 147 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 148 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 149 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 151 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 152 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 153 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -583,7 +583,7 @@
 | 581 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 582 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 584 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.33 | 
+| 584 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.34 | 
 | 585 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 586 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 587 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
