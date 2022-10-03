@@ -88,7 +88,7 @@
 | 86 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 87 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 88 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 89 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 89 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.29 | 
 | 90 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 91 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 92 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
