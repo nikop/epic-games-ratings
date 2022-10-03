@@ -1,5 +1,5 @@
 # Trials Rising Standard Edition
-Rating: 4.67 (81)  (as of 23.09.2022)  
+Rating: 4.68 (81)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Rating: 4.67 (81)  (as of 23.09.2022)
 | 2022-09-18 | 4.66 | 79 |
 | 2022-09-20 | 4.66 | 80 |
 | 2022-09-22 | 4.67 | 81 |
+| 2022-10-03 | 4.68 | - |

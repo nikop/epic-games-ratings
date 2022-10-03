@@ -148,7 +148,7 @@
 | 146 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 147 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 148 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 149 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 149 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 150 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 151 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 152 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -203,7 +203,7 @@
 | 201 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 202 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 203 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 204 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 204 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 206 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
 | 207 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
@@ -302,7 +302,7 @@
 | 300 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 301 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 302 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 303 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 303 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 304 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 305 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 306 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -475,7 +475,7 @@
 | 473 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 474 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 475 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 476 | [Runbow](games/r/runbow.md) | 4.36 | 
+| 476 | [Runbow](games/r/runbow.md) | 4.37 | 
 | 477 | [Sable](games/s/sable.md) | 4.50 | 
 | 478 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 479 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -658,7 +658,7 @@
 | 656 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 657 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
 | 658 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 659 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.67 | 
+| 659 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
 | 660 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 661 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 662 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
@@ -692,7 +692,7 @@
 | 690 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 691 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 692 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 693 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
+| 693 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
 | 694 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 695 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
 | 696 | [Weird West](games/w/weird_west.md) | 4.44 | 
