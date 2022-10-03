@@ -280,21 +280,21 @@
 | 278 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 279 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 280 | [20XX](games/2/20xx.md) | 4.62 | 
-| 281 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 282 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 283 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 284 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 285 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 286 | [Prey](games/p/prey.md) | 4.61 | 
-| 287 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 288 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 289 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 290 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 291 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 292 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 293 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 294 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 295 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 281 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 283 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 284 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 285 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 286 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 287 | [Prey](games/p/prey.md) | 4.61 | 
+| 288 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 289 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 290 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 291 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 292 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 293 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 294 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 295 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 296 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 297 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 298 | [Control](games/c/control.md) | 4.60 | 
@@ -682,10 +682,10 @@
 | 680 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 681 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 682 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 683 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 684 | [Gone Home](games/g/gone_home.md) | 4.09 | 
-| 685 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 686 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
+| 683 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 684 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 685 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 686 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 687 | [Lake](games/l/lake.md) | 4.08 | 
 | 688 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 689 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -710,7 +710,7 @@
 | 708 | [Warface](games/w/warface.md) | 3.95 | 
 | 709 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 710 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 711 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 711 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 712 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 713 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 714 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 

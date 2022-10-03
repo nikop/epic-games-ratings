@@ -86,7 +86,7 @@
 | 84 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 85 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 86 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 87 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 87 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 88 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 89 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.29 | 
@@ -487,7 +487,7 @@
 | 485 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 486 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
 | 487 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
-| 488 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
+| 488 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
 | 489 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 490 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 491 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -592,7 +592,7 @@
 | 590 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 591 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 592 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 593 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 593 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
 | 594 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 595 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
 | 596 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
