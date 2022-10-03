@@ -497,7 +497,7 @@
 | 495 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 496 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 497 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
-| 498 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 498 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 499 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 500 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 501 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
@@ -553,7 +553,7 @@
 | 551 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 552 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
 | 553 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 554 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 554 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 555 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 556 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 557 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
