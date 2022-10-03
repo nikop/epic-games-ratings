@@ -307,17 +307,17 @@
 | 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 306 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 307 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 308 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 309 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 310 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 312 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 313 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 314 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 315 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 316 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 317 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 318 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 308 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 311 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 313 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 314 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 315 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 316 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 317 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 318 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 319 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 320 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 321 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
@@ -670,30 +670,30 @@
 | 668 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 669 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 670 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 671 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
-| 672 | [Pine](games/p/pine.md) | 4.13 | 
-| 673 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 674 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 675 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 676 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 677 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
-| 678 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 679 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 680 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 681 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 682 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 683 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 684 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 685 | [Gone Home](games/g/gone_home.md) | 4.09 | 
-| 686 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 687 | [Lake](games/l/lake.md) | 4.08 | 
-| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
-| 689 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 690 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
-| 691 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
-| 692 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
-| 694 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
+| 671 | [Pine](games/p/pine.md) | 4.13 | 
+| 672 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 673 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 674 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 675 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 676 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
+| 677 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 678 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 679 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 680 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 681 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 682 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 683 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 684 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 685 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 686 | [Lake](games/l/lake.md) | 4.08 | 
+| 687 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 688 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 689 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 690 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
+| 691 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 692 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 693 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 
+| 694 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
 | 695 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 696 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 697 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 

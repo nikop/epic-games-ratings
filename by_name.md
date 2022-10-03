@@ -248,7 +248,7 @@
 | 246 | [Good Company](games/g/good_company.md) | 4.47 | 
 | 247 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 248 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 249 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 
+| 249 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
 | 250 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 251 | [GRIME](games/g/grime.md) | 4.59 | 
 | 252 | [Grindstone](games/g/grindstone.md) | 4.85 | 
@@ -552,7 +552,7 @@
 | 550 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 551 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 552 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
-| 553 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 553 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 554 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 555 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 556 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
