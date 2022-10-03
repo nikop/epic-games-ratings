@@ -16,7 +16,7 @@
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
@@ -331,7 +331,7 @@
 | 329 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 330 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 331 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 332 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 332 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 333 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 334 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 335 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
@@ -695,7 +695,7 @@
 | 693 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 694 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
 | 695 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 696 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
+| 696 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 697 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 698 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 699 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
