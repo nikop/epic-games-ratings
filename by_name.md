@@ -176,7 +176,7 @@
 | 174 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 175 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
 | 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
+| 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 178 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 179 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 180 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -272,7 +272,7 @@
 | 270 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 271 | [Hob](games/h/hob.md) | 4.58 | 
 | 272 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 273 | [Horace](games/h/horace.md) | 4.49 | 
+| 273 | [Horace](games/h/horace.md) | 4.51 | 
 | 274 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 275 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 276 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -304,7 +304,7 @@
 | 302 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 303 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 304 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 305 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 305 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 306 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 307 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 308 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
@@ -326,7 +326,7 @@
 | 324 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 325 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 326 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
-| 327 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 327 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
 | 328 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 329 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 330 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -476,7 +476,7 @@
 | 474 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 475 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 476 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 477 | [Runbow](games/r/runbow.md) | 4.37 | 
+| 477 | [Runbow](games/r/runbow.md) | 4.36 | 
 | 478 | [Sable](games/s/sable.md) | 4.50 | 
 | 479 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 480 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -574,7 +574,7 @@
 | 572 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 573 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 574 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 575 | [Tharsis](games/t/tharsis.md) | 4.20 | 
+| 575 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 576 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 577 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 578 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
