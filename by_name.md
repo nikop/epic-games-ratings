@@ -71,7 +71,7 @@
 | 69 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 70 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 71 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
-| 72 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 72 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 74 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -306,7 +306,7 @@
 | 304 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 305 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 306 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 307 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.74 | 
+| 307 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
 | 308 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 309 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 310 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
@@ -651,10 +651,10 @@
 | 649 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 650 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 651 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 652 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 652 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 653 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 654 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
-| 655 | [Transistor](games/t/transistor.md) | 4.64 | 
+| 655 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 656 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 657 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
 | 658 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
@@ -718,5 +718,5 @@
 | 716 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 717 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 718 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 719 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.55 | 
+| 719 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 720 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
