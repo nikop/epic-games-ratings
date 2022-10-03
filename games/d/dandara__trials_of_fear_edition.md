@@ -1,5 +1,5 @@
 # Dandara: Trials of Fear Edition
-Rating: 4.58 (164)  (as of 23.09.2022)  
+Rating: 4.59 (164)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -50,3 +50,4 @@ Rating: 4.58 (164)  (as of 23.09.2022)
 | 2022-09-23 | 4.58 | 164 |
 | 2022-09-28 | 4.57 | - |
 | 2022-09-29 | 4.58 | - |
+| 2022-10-03 | 4.59 | - |
