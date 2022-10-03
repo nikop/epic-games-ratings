@@ -19,7 +19,7 @@
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -114,7 +114,7 @@
 | 112 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 113 | [Control](games/c/control.md) | 4.60 | 
 | 114 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 115 | [Core](games/c/core.md) | 4.39 | 
+| 115 | [Core](games/c/core.md) | 4.38 | 
 | 116 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 117 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 118 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
@@ -428,7 +428,7 @@
 | 426 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 427 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 428 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 429 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 429 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 430 | [Pine](games/p/pine.md) | 4.13 | 
 | 431 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 432 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 

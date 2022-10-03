@@ -553,15 +553,15 @@
 | 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 554 | [Core](games/c/core.md) | 4.39 | 
-| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 556 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
-| 557 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 558 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 559 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 560 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 561 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 562 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 555 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 556 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 557 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 558 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 559 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 560 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 561 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 562 | [Core](games/c/core.md) | 4.38 | 
 | 563 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 564 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 565 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
@@ -625,11 +625,11 @@
 | 623 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 624 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 625 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 626 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 627 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 628 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 629 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 630 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 626 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 627 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 628 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 629 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 630 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 631 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 632 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 633 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
@@ -705,8 +705,8 @@
 | 703 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 704 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 705 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 706 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 707 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 706 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 707 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 708 | [Warface](games/w/warface.md) | 3.95 | 
 | 709 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 710 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
