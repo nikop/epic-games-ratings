@@ -41,7 +41,7 @@
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
@@ -262,7 +262,7 @@
 | 260 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 261 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 262 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 263 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 263 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 264 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 265 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 266 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
@@ -471,7 +471,7 @@
 | 469 | [Rogue Lords](games/r/rogue_lords.md) | 4.72 | 
 | 470 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 471 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 472 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 472 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 473 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 474 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 475 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
@@ -545,7 +545,7 @@
 | 543 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 544 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
 | 545 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 546 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 546 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 547 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 548 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 549 | [Subnautica](games/s/subnautica.md) | 4.83 | 
