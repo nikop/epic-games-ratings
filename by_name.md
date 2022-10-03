@@ -439,7 +439,7 @@
 | 437 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 438 | [Quake](games/q/quake.md) | 4.80 | 
 | 439 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 440 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 440 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
 | 441 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 442 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 443 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 

@@ -432,44 +432,44 @@
 | 430 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 431 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 432 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 433 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
-| 434 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 435 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 436 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 437 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
-| 438 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 439 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 440 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 441 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 442 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 444 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
-| 446 | [Isonzo](games/i/isonzo.md) | 4.50 | 
-| 447 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 448 | [Sable](games/s/sable.md) | 4.50 | 
-| 449 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 450 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 453 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 454 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 455 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 456 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 457 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 458 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 459 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 460 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 461 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 462 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 463 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 464 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
-| 465 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 466 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 467 | [Horace](games/h/horace.md) | 4.49 | 
-| 468 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 469 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 470 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 435 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 436 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 437 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 438 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 439 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 440 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 441 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 442 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 443 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 445 | [Isonzo](games/i/isonzo.md) | 4.50 | 
+| 446 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 447 | [Sable](games/s/sable.md) | 4.50 | 
+| 448 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 449 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 450 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 451 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 452 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 453 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 454 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 455 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 456 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 457 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 458 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 459 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 460 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 462 | [Death Coming](games/d/death_coming.md) | 4.49 | 
+| 463 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
+| 464 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 465 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 466 | [Horace](games/h/horace.md) | 4.49 | 
+| 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 469 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 470 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
 | 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 473 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
