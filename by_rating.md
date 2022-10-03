@@ -138,17 +138,17 @@
 | 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 137 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 138 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 142 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 143 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 144 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 146 | [Rogue Lords](games/r/rogue_lords.md) | 4.72 | 
-| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 149 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 139 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 144 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 145 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 147 | [Rogue Lords](games/r/rogue_lords.md) | 4.72 | 
+| 148 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 152 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
@@ -469,13 +469,13 @@
 | 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 468 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 469 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 470 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 472 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 473 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 474 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
-| 475 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 476 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 473 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 474 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 475 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
+| 476 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 477 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
 | 478 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 479 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -489,18 +489,18 @@
 | 487 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 488 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 489 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 490 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 491 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
-| 492 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 493 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 494 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 495 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 496 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 497 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.45 | 
-| 498 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 499 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 500 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 501 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 490 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 491 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 492 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 493 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 494 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 495 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.45 | 
+| 496 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 497 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
+| 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 499 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 500 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 501 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
 | 502 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 503 | [Weird West](games/w/weird_west.md) | 4.44 | 
 | 504 | [Torchlight](games/t/torchlight.md) | 4.44 | 
@@ -542,16 +542,16 @@
 | 540 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 542 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 543 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 544 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
-| 545 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 546 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 548 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 549 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 550 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 551 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 552 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 543 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.40 | 
+| 544 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 545 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 546 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 547 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 548 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 549 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 550 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 555 | [Core](games/c/core.md) | 4.39 | 
@@ -657,10 +657,10 @@
 | 655 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 656 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 657 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 658 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 659 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 660 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 661 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 658 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 659 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 660 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 661 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 662 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 663 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 664 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 

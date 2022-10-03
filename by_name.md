@@ -6,7 +6,7 @@
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 
+| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
@@ -177,7 +177,7 @@
 | 175 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 176 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 177 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 178 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 178 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 179 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 180 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 181 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -375,7 +375,7 @@
 | 373 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 374 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 375 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 376 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 376 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 377 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 378 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 379 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
@@ -419,7 +419,7 @@
 | 417 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 419 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 420 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 420 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 421 | [Patron](games/p/patron.md) | 3.90 | 
 | 422 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 423 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
@@ -484,7 +484,7 @@
 | 482 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 483 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 484 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 485 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 485 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 486 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
 | 487 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 488 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
@@ -540,7 +540,7 @@
 | 538 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 539 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 540 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 541 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 541 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 542 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 543 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 544 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
