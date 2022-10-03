@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Runbow](games/r/runbow.md) | 4.33 | 
+| 1 | [Runbow](games/r/runbow.md) | 4.36 | 
 | 2 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 3 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 4 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
@@ -28,8 +28,9 @@
 | 26 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 27 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 29 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 30 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 31 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 32 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 33 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 29 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 30 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 31 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 32 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 33 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 34 | [MultiVersus](games/m/multiversus.md) | 4.57 | 

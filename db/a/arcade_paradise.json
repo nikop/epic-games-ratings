@@ -1,7 +1,16 @@
 {
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
+  "Rating": 4.65,
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
+  "LastChanged": "2022-10-03T03:02:52.8117427+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-03T03:02:52.8117429+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
