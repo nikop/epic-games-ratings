@@ -131,14 +131,14 @@
 | 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 131 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
-| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 136 | [Fez](games/f/fez.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 135 | [Fez](games/f/fez.md) | 4.73 | 
+| 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 137 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 138 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 142 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
@@ -408,23 +408,23 @@
 | 406 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 407 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 408 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 409 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 410 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 411 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 412 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 413 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 414 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 415 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 416 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 417 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 418 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 419 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 420 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 421 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 422 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 423 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
-| 424 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 425 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 409 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 410 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 411 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 412 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 413 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 414 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 415 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 416 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 417 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 418 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 419 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 420 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 421 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 422 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 423 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 424 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 425 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 426 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 427 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.51 | 
 | 428 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
@@ -639,11 +639,11 @@
 | 637 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 638 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 639 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 640 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 641 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 642 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
-| 643 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 644 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 640 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 641 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 642 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 643 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 645 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 646 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
@@ -703,9 +703,9 @@
 | 701 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 702 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 703 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 704 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 705 | [Patron](games/p/patron.md) | 3.98 | 
-| 706 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 704 | [Patron](games/p/patron.md) | 3.98 | 
+| 705 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 706 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 707 | [Warface](games/w/warface.md) | 3.95 | 
 | 708 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 709 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 

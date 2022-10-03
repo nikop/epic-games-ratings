@@ -325,7 +325,7 @@
 | 323 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 324 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 325 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
-| 326 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 326 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 327 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 328 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 329 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
@@ -426,7 +426,7 @@
 | 424 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 425 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 426 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 427 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 427 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 428 | [Pine](games/p/pine.md) | 4.13 | 
 | 429 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 430 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 
@@ -535,7 +535,7 @@
 | 533 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 534 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 535 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 536 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 536 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 537 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 538 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 539 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
@@ -699,7 +699,7 @@
 | 697 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 698 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 699 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 700 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 700 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 701 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 702 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 703 | [Windbound](games/w/windbound.md) | 4.17 | 
