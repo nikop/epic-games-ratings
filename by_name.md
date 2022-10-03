@@ -116,7 +116,7 @@
 | 114 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 115 | [Core](games/c/core.md) | 4.39 | 
 | 116 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 117 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 117 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 118 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 119 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 120 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -537,7 +537,7 @@
 | 535 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 536 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 537 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 538 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 538 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 539 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 540 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 541 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
@@ -579,7 +579,7 @@
 | 577 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 578 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 579 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 580 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 580 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 581 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 582 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
@@ -590,7 +590,7 @@
 | 588 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 589 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 590 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 591 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
+| 591 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
 | 592 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 593 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 594 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 

@@ -1,11 +1,11 @@
 {
   "ID": "301980d060324bb29202677f468c6c44",
   "Name": "The Captain",
-  "Rating": 4.43,
+  "Rating": 4.44,
   "NumberOfRatings": 2117,
   "FirstSeen": "2022-07-22T20:28:04.1173029+00:00",
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
-  "LastChanged": "2022-09-29T21:02:14.3101287+00:00",
+  "LastChanged": "2022-10-03T17:02:02.5640674+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-16T04:31:51.019228+00:00",
@@ -361,6 +361,11 @@
       "Time": "2022-09-29T21:02:14.310129+00:00",
       "Rating": 4.43,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-03T17:02:02.5640677+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -394,7 +399,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game is Great for Beginners",
