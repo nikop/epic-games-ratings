@@ -149,7 +149,7 @@
 | 147 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 148 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 149 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 151 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 152 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 153 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -178,7 +178,7 @@
 | 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 178 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 179 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 179 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 180 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 181 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 182 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -645,7 +645,7 @@
 | 643 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 644 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 645 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 646 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 646 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
 | 647 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.76 | 
 | 648 | [Townscaper](games/t/townscaper.md) | 4.69 | 
 | 649 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 

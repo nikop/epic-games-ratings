@@ -30,15 +30,15 @@
 | 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 33 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
-| 34 | [TUNIC](games/t/tunic.md) | 4.85 | 
-| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 38 | [Firework](games/f/firework.md) | 4.85 | 
-| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 31 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 35 | [TUNIC](games/t/tunic.md) | 4.85 | 
+| 36 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 37 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 38 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 39 | [Firework](games/f/firework.md) | 4.85 | 
 | 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 42 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -139,15 +139,15 @@
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 140 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 144 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 145 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 142 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 143 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 144 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 146 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 147 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 148 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 149 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 150 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 151 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
@@ -418,19 +418,19 @@
 | 416 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 417 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 419 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 420 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 421 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 422 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 423 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 424 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 425 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 426 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 427 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 428 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 429 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 430 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 431 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 419 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
+| 420 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 421 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 422 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 423 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 424 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 425 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 426 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 427 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 428 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 429 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 430 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 431 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 432 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 433 | [Horace](games/h/horace.md) | 4.51 | 
 | 434 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
