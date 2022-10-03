@@ -308,17 +308,17 @@
 | 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 309 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 311 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 313 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 314 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
-| 315 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 316 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 317 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 318 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 319 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 309 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 310 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 312 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 313 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
+| 314 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 315 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 316 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 317 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 318 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 319 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 320 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 321 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 322 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
