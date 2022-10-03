@@ -156,7 +156,7 @@
 | 154 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 155 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 156 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 157 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 157 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 158 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 159 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 160 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
@@ -214,7 +214,7 @@
 | 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
 | 213 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 214 | [Fez](games/f/fez.md) | 4.73 | 
-| 215 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.59 | 
+| 215 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
 | 216 | [Figment](games/f/figment.md) | 4.43 | 
 | 217 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 218 | [Firework](games/f/firework.md) | 4.85 | 
@@ -309,7 +309,7 @@
 | 307 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 308 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
 | 309 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 310 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 310 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 311 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 312 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 313 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
@@ -452,7 +452,7 @@
 | 450 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 451 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 453 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 453 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 454 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 455 | [Revita](games/r/revita.md) | 4.74 | 
 | 456 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
