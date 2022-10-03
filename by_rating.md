@@ -501,13 +501,13 @@
 | 499 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
 | 500 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
 | 501 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 503 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 504 | [Weird West](games/w/weird_west.md) | 4.44 | 
-| 505 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 506 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 507 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 502 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 503 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 504 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 505 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 508 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 511 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 

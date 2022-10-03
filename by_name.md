@@ -442,7 +442,7 @@
 | 440 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 441 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 442 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 443 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 443 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 444 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 445 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 446 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
