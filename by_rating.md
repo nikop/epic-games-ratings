@@ -241,16 +241,16 @@
 | 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 240 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 241 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 
-| 242 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
-| 243 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 244 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 245 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 246 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 247 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 248 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 249 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 242 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 243 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
+| 244 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 245 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 246 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 247 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 248 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 249 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 250 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 252 | [RiME](games/r/rime.md) | 4.64 | 
 | 253 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 254 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
@@ -602,12 +602,12 @@
 | 600 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 601 | [Gloomhaven](games/g/gloomhaven.md) | 4.33 | 
 | 602 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
-| 603 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 604 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 605 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 606 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
-| 607 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 608 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.32 | 
+| 603 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.33 | 
+| 604 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 605 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 606 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 607 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
+| 608 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 609 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 610 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 611 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
@@ -666,27 +666,27 @@
 | 664 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 665 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 666 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 667 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
-| 668 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 669 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 670 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 671 | [Pine](games/p/pine.md) | 4.13 | 
+| 667 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 668 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 669 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 670 | [Pine](games/p/pine.md) | 4.13 | 
+| 671 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
 | 672 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 673 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 674 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 675 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 676 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
-| 677 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 678 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 679 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 680 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 681 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 682 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 683 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 684 | [Gone Home](games/g/gone_home.md) | 4.09 | 
-| 685 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 686 | [Lake](games/l/lake.md) | 4.08 | 
-| 687 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 677 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
+| 678 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 679 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 680 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 681 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 682 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 683 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 684 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 685 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 686 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 687 | [Lake](games/l/lake.md) | 4.08 | 
 | 688 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 689 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 690 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 

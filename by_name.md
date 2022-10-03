@@ -376,7 +376,7 @@
 | 374 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 375 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 376 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 377 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
+| 377 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
 | 378 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 379 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
 | 380 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -582,7 +582,7 @@
 | 580 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 581 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 582 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.44 | 
-| 583 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.32 | 
+| 583 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.33 | 
 | 584 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 585 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 586 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -608,7 +608,7 @@
 | 606 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 607 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 608 | [The Surge](games/t/the_surge.md) | 4.54 | 
-| 609 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 609 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 610 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 611 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 612 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -702,7 +702,7 @@
 | 700 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 701 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 702 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 703 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 703 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 704 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 705 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 706 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
