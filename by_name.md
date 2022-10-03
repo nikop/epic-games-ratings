@@ -45,7 +45,7 @@
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
-| 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 47 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 48 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 49 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
@@ -373,7 +373,7 @@
 | 371 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 372 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 373 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 374 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 374 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 375 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 376 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 377 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
@@ -486,7 +486,7 @@
 | 484 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 485 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 486 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
-| 487 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
+| 487 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 488 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
 | 489 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 490 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -530,7 +530,7 @@
 | 528 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 529 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 530 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 531 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
+| 531 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
 | 532 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 533 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 534 | [Starsand](games/s/starsand.md) | 4.31 | 

@@ -1,11 +1,11 @@
 {
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
-  "Rating": 4.36,
+  "Rating": 4.35,
   "NumberOfRatings": 38,
   "FirstSeen": "2022-07-22T20:32:19.6180607+00:00",
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
-  "LastChanged": "2022-09-30T13:02:53.8446659+00:00",
+  "LastChanged": "2022-10-03T13:03:17.2182831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-06T21:32:12.5323833+00:00",
@@ -70,6 +70,11 @@
     {
       "Time": "2022-09-30T13:02:53.8446662+00:00",
       "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-03T13:03:17.2182834+00:00",
+      "Rating": 4.35,
       "NumberOfRatings": null
     }
   ],
