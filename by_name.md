@@ -288,7 +288,7 @@
 | 286 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 287 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 288 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 289 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 289 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
 | 290 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 291 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 292 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -323,7 +323,7 @@
 | 321 | [Lake](games/l/lake.md) | 4.08 | 
 | 322 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 323 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 324 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 324 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 325 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
 | 326 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 327 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
@@ -364,7 +364,7 @@
 | 362 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 363 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 364 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 365 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 365 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 366 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 367 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 368 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
@@ -438,7 +438,7 @@
 | 436 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 437 | [Quake](games/q/quake.md) | 4.80 | 
 | 438 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
+| 439 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 440 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 441 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 442 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
@@ -607,7 +607,7 @@
 | 605 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 606 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 607 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 608 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
+| 608 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 609 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 610 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 611 | [The Tenants](games/t/the_tenants.md) | 4.55 | 

@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Runbow](games/r/runbow.md) | 4.33 | 
-| 2 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
+| 2 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 3 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 4 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
 | 5 | [Gloomhaven](games/g/gloomhaven.md) | 4.32 | 
@@ -21,7 +21,7 @@
 | 19 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 20 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.21 | 
 | 21 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
-| 22 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
+| 22 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 23 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 24 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
 | 25 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
