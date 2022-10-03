@@ -184,7 +184,7 @@
 | 182 | [ELEX](games/e/elex.md) | 4.34 | 
 | 183 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 184 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 185 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 185 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 186 | [Encased](games/e/encased.md) | 4.35 | 
 | 187 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 188 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -607,7 +607,7 @@
 | 605 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 606 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 607 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 608 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 608 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 609 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 610 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 611 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 

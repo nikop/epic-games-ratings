@@ -113,12 +113,12 @@
 | 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 114 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 115 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 116 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 118 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 119 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 122 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
@@ -397,12 +397,12 @@
 | 395 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 396 | [Road 96](games/r/road_96.md) | 4.54 | 
 | 397 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 398 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 399 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 400 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 401 | [Outward](games/o/outward.md) | 4.53 | 
-| 402 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 403 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 398 | [The Surge](games/t/the_surge.md) | 4.54 | 
+| 399 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 400 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 401 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 402 | [Outward](games/o/outward.md) | 4.53 | 
+| 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 404 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 405 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 406 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
