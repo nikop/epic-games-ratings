@@ -59,14 +59,14 @@
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 63 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 64 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
-| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
-| 67 | [Tails of Iron](games/t/tails_of_iron.md) | 4.81 | 
+| 60 | [Tails of Iron](games/t/tails_of_iron.md) | 4.82 | 
+| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 62 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 63 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 65 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 67 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 69 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
