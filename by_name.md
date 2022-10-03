@@ -81,7 +81,7 @@
 | 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.45 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 81 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 83 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 84 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 85 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -368,7 +368,7 @@
 | 366 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 367 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 368 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 369 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 369 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 370 | [Mutazione](games/m/mutazione.md) | 4.67 | 
 | 371 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 372 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -400,13 +400,13 @@
 | 398 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 399 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 400 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 401 | [Othercide](games/o/othercide.md) | 4.43 | 
+| 401 | [Othercide](games/o/othercide.md) | 4.41 | 
 | 402 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 403 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
 | 404 | [Outer Wilds](games/o/outer_wilds.md) | 4.91 | 
 | 405 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 406 | [Outward](games/o/outward.md) | 4.53 | 
-| 407 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 407 | [Overcooked](games/o/overcooked.md) | 4.70 | 
 | 408 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 409 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 410 | [Oxenfree](games/o/oxenfree.md) | 4.63 | 
