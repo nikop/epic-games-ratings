@@ -17,7 +17,7 @@
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
-| 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -256,7 +256,7 @@
 | 254 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 255 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 256 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 257 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
+| 257 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 258 | [Haven](games/h/haven.md) | 4.77 | 
 | 259 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 260 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
