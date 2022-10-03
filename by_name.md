@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [20XX](games/2/20xx.md) | 4.62 | 
-| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
@@ -109,7 +109,7 @@
 | 107 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 108 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 109 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 110 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
+| 110 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.02 | 
 | 111 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 112 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 113 | [Control](games/c/control.md) | 4.60 | 
@@ -189,7 +189,7 @@
 | 187 | [Encased](games/e/encased.md) | 4.35 | 
 | 188 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 189 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 190 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 190 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 191 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 192 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 193 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
@@ -403,7 +403,7 @@
 | 401 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 402 | [Othercide](games/o/othercide.md) | 4.41 | 
 | 403 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 404 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.64 | 
+| 404 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 405 | [Outer Wilds](games/o/outer_wilds.md) | 4.91 | 
 | 406 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 407 | [Outward](games/o/outward.md) | 4.53 | 
@@ -494,7 +494,7 @@
 | 492 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 493 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
 | 494 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 495 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 495 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 496 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 497 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 498 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
@@ -647,7 +647,7 @@
 | 645 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 646 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
 | 647 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.76 | 
-| 648 | [Townscaper](games/t/townscaper.md) | 4.69 | 
+| 648 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 649 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 650 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 651 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
@@ -669,7 +669,7 @@
 | 667 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 668 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 669 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 670 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 670 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 671 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 672 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 673 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
