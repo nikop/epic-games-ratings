@@ -454,7 +454,7 @@
 | 452 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 453 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 454 | [Revita](games/r/revita.md) | 4.74 | 
-| 455 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 455 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 456 | [RiME](games/r/rime.md) | 4.64 | 
 | 457 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 458 | [RimWorld](games/r/rimworld.md) | 4.89 | 
