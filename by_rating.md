@@ -682,13 +682,13 @@
 | 680 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 681 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 682 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 683 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 684 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
-| 685 | [Lake](games/l/lake.md) | 4.08 | 
-| 686 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
-| 687 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 688 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
-| 689 | [Gone Home](games/g/gone_home.md) | 4.07 | 
+| 683 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 684 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 685 | [Second Extinction™](games/s/second_extinction™.md) | 4.08 | 
+| 686 | [Lake](games/l/lake.md) | 4.08 | 
+| 687 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 688 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 689 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 690 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 691 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 692 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
