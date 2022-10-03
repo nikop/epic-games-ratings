@@ -69,7 +69,7 @@
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 68 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 69 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 70 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 70 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 71 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 72 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -148,7 +148,7 @@
 | 146 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 147 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 148 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 149 | [Death Coming](games/d/death_coming.md) | 4.49 | 
+| 149 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 151 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 152 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -191,7 +191,7 @@
 | 189 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 190 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 191 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 192 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
+| 192 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 193 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 194 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 195 | [Faeria](games/f/faeria.md) | 4.42 | 
@@ -598,7 +598,7 @@
 | 596 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
 | 597 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 598 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 599 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
+| 599 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 600 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 601 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 602 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 

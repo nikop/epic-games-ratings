@@ -1,10 +1,10 @@
 {
   "ID": "58c35a214bbb4656a536126ad1552d42",
   "Name": "Death Coming",
-  "Rating": 4.49,
+  "Rating": 4.48,
   "NumberOfRatings": 91,
   "FirstSeen": "2022-07-22T20:20:20.4886047+00:00",
-  "LastChanged": "2022-10-02T23:30:49.527667+00:00",
+  "LastChanged": "2022-10-03T23:31:49.9138416+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:20.4886049+00:00",
@@ -194,6 +194,11 @@
     {
       "Time": "2022-10-02T23:30:49.5276673+00:00",
       "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-03T23:31:49.9138419+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],
