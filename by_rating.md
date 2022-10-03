@@ -56,14 +56,14 @@
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 56 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
-| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 60 | [Tails of Iron](games/t/tails_of_iron.md) | 4.82 | 
-| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 62 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 63 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 58 | [Griftlands](games/g/griftlands.md) | 4.82 | 
+| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 61 | [Tails of Iron](games/t/tails_of_iron.md) | 4.82 | 
+| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 63 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 64 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 65 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 67 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
@@ -454,21 +454,21 @@
 | 452 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 453 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 454 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 455 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 456 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 457 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 458 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 459 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 460 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 462 | [Death Coming](games/d/death_coming.md) | 4.49 | 
-| 463 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
+| 455 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 456 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 457 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 458 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 459 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 460 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 461 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 462 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 463 | [Death Coming](games/d/death_coming.md) | 4.49 | 
 | 464 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 465 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 466 | [Horace](games/h/horace.md) | 4.49 | 
 | 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 469 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 468 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.48 | 
+| 469 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 470 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
 | 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
@@ -600,12 +600,12 @@
 | 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 599 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 600 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 601 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
-| 602 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 603 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 604 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 605 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
-| 606 | [Gloomhaven](games/g/gloomhaven.md) | 4.32 | 
+| 601 | [Gloomhaven](games/g/gloomhaven.md) | 4.33 | 
+| 602 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
+| 603 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 604 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 605 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 606 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 607 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 608 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 609 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 

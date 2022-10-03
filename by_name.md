@@ -29,7 +29,7 @@
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 
+| 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -84,7 +84,7 @@
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 83 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 84 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 85 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 85 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 86 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 87 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 88 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -238,7 +238,7 @@
 | 236 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 237 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 238 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 239 | [Gloomhaven](games/g/gloomhaven.md) | 4.32 | 
+| 239 | [Gloomhaven](games/g/gloomhaven.md) | 4.33 | 
 | 240 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 241 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 242 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -355,7 +355,7 @@
 | 353 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 354 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 355 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 356 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 356 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 357 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 358 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
 | 359 | [Minit](games/m/minit.md) | 4.55 | 
