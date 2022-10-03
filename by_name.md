@@ -194,7 +194,7 @@
 | 192 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 193 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 194 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 195 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 195 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 196 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 197 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 198 | [Far Cry](games/f/far_cry.md) | 4.42 | 
@@ -440,7 +440,7 @@
 | 438 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 439 | [Quake](games/q/quake.md) | 4.80 | 
 | 440 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 441 | [RAILGRADE](games/r/railgrade.md) | 4.46 | 
+| 441 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
 | 442 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 443 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 444 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
@@ -500,7 +500,7 @@
 | 498 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
 | 499 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 500 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 501 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 501 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 502 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 503 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 504 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -524,7 +524,7 @@
 | 522 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 523 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 524 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 525 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.46 | 
+| 525 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 526 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 527 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 528 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
@@ -653,7 +653,7 @@
 | 651 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 652 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 653 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 654 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 654 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 655 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 656 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 657 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
