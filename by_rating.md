@@ -172,24 +172,24 @@
 | 170 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 172 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 173 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 174 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
-| 175 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 178 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 179 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 182 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 183 | [Barony](games/b/barony.md) | 4.69 | 
-| 184 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 185 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 187 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 188 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 189 | [SOMA](games/s/soma.md) | 4.69 | 
-| 190 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 173 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
+| 174 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 175 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 176 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 177 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 181 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 182 | [Barony](games/b/barony.md) | 4.69 | 
+| 183 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 184 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 186 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 188 | [SOMA](games/s/soma.md) | 4.69 | 
+| 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 191 | [CARRION](games/c/carrion.md) | 4.69 | 
 | 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 193 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
