@@ -1,10 +1,10 @@
 {
   "ID": "puffin",
   "Name": "AXIOM VERGE",
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 132,
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2022-10-01T07:31:37.8964616+00:00",
+  "LastChanged": "2022-10-04T11:02:18.4186864+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:58.5809407+00:00",
@@ -254,6 +254,11 @@
     {
       "Time": "2022-10-01T07:31:37.8964618+00:00",
       "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-04T11:02:18.4186867+00:00",
+      "Rating": 4.51,
       "NumberOfRatings": null
     }
   ],

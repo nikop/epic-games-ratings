@@ -53,7 +53,7 @@
 | 51 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 52 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 53 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 54 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 54 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 55 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 56 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 57 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -444,7 +444,7 @@
 | 442 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
 | 443 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 444 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 445 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 445 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 446 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 447 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 448 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 

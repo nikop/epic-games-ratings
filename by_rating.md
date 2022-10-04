@@ -430,20 +430,20 @@
 | 428 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 429 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 430 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 431 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 432 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 433 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 434 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 435 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 436 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 437 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 438 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 439 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 440 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 441 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 442 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 443 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 431 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 432 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 433 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 434 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 435 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 436 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 437 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 438 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 439 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 440 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 442 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 443 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 444 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 445 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 446 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 447 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
@@ -504,26 +504,26 @@
 | 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 504 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 505 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 506 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
-| 507 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
-| 508 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 509 | [Figment](games/f/figment.md) | 4.43 | 
-| 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 513 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 514 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 515 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
-| 516 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 517 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 518 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 519 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 520 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 521 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 522 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 523 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 524 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 505 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 506 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
+| 507 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 508 | [Figment](games/f/figment.md) | 4.43 | 
+| 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 510 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 512 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 513 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
+| 514 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
+| 515 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 516 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 517 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 518 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 519 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 520 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 521 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 522 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 523 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 524 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 525 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 526 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 527 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
