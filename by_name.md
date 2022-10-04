@@ -8,7 +8,7 @@
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
@@ -246,7 +246,7 @@
 | 244 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 245 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 246 | [Gone Home](games/g/gone_home.md) | 4.09 | 
-| 247 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 247 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 248 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 249 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 250 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
@@ -456,7 +456,7 @@
 | 454 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 455 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 456 | [Revita](games/r/revita.md) | 4.74 | 
-| 457 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 457 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 458 | [RiME](games/r/rime.md) | 4.64 | 
 | 459 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 460 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -477,7 +477,7 @@
 | 475 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 476 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 477 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 478 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 478 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 479 | [Sable](games/s/sable.md) | 4.50 | 
 | 480 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 481 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
