@@ -198,18 +198,18 @@
 | 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 198 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 199 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 200 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
-| 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 202 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 203 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 204 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 208 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 209 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 210 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 199 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
+| 200 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 201 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 202 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 203 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 208 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 212 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 213 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
@@ -446,25 +446,25 @@
 | 444 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
 | 446 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 447 | [Isonzo](games/i/isonzo.md) | 4.50 | 
-| 448 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 449 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 450 | [Sable](games/s/sable.md) | 4.50 | 
-| 451 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 452 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 454 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 455 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 456 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 457 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 458 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 459 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 460 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 461 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 462 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 463 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
-| 465 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 447 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 448 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 449 | [Sable](games/s/sable.md) | 4.50 | 
+| 450 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 453 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 454 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 455 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 456 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 457 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 458 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 459 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 460 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 461 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 462 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 463 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
+| 464 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 465 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 466 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 467 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 468 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
@@ -501,11 +501,11 @@
 | 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 500 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 501 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 502 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
-| 503 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 504 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 505 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 506 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 504 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 505 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 506 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 507 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
 | 508 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 509 | [Figment](games/f/figment.md) | 4.43 | 

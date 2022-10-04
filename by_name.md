@@ -6,7 +6,7 @@
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.44 | 
+| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
@@ -296,7 +296,7 @@
 | 294 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 295 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 296 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 297 | [Isonzo](games/i/isonzo.md) | 4.50 | 
+| 297 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 298 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 299 | [Journey](games/j/journey.md) | 4.80 | 
 | 300 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
@@ -473,7 +473,7 @@
 | 471 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 472 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 473 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 474 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 474 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 475 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 476 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 477 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
