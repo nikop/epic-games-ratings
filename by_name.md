@@ -674,7 +674,7 @@
 | 672 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 673 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 674 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 675 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 675 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.79 | 
 | 676 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 677 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 678 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
