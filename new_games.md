@@ -24,7 +24,7 @@
 | 22 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 23 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 24 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 25 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
+| 25 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 26 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 27 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 28 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 

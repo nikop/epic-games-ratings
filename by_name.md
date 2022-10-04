@@ -90,7 +90,7 @@
 | 88 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 89 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 90 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
-| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.29 | 
+| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 92 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 93 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 94 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
@@ -174,7 +174,7 @@
 | 172 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 173 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 174 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 175 | [DOOM II](games/d/doom_ii.md) | 4.87 | 
+| 175 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 178 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
@@ -185,7 +185,7 @@
 | 183 | [ELEX](games/e/elex.md) | 4.34 | 
 | 184 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 185 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 186 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 186 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 187 | [Encased](games/e/encased.md) | 4.35 | 
 | 188 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 189 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -287,7 +287,7 @@
 | 285 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 286 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 287 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 288 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 288 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 289 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 290 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 291 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 

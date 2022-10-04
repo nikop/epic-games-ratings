@@ -1,10 +1,10 @@
 {
   "ID": "4c436646d6f0400da483546a70e3a6e0",
   "Name": "Empires of the Undergrowth",
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 212,
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2022-10-03T04:32:44.9993917+00:00",
+  "LastChanged": "2022-10-04T01:32:36.5353668+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:38.7992192+00:00",
@@ -420,6 +420,11 @@
       "Time": "2022-10-03T04:32:44.999392+00:00",
       "Rating": 4.74,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-04T01:32:36.535367+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -445,7 +450,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 21
+      "Count": 22
     }
   ]
 }
