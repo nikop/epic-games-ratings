@@ -48,16 +48,16 @@
 | 46 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 48 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 49 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
-| 50 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 54 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 55 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
-| 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 49 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 51 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
+| 53 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 54 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 55 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 56 | [Griftlands](games/g/griftlands.md) | 4.82 | 
+| 57 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 58 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 59 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 61 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
@@ -131,14 +131,14 @@
 | 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 135 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 136 | [Fez](games/f/fez.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 133 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 134 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 135 | [Fez](games/f/fez.md) | 4.73 | 
+| 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 137 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 138 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 141 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 142 | [FUSER™](games/f/fuser™.md) | 4.72 | 

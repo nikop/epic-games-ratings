@@ -507,7 +507,7 @@
 | 505 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 506 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 507 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 508 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.83 | 
+| 508 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 509 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 510 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 511 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -538,7 +538,7 @@
 | 536 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 537 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.17 | 
 | 538 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 539 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 539 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 540 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 541 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 542 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
