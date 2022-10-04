@@ -327,7 +327,7 @@
 | 325 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 326 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 327 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
-| 328 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
+| 328 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 329 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 330 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 331 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -522,7 +522,7 @@
 | 520 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 521 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 522 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 523 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 523 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 524 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 525 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 526 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
@@ -575,7 +575,7 @@
 | 573 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 574 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 575 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 576 | [Tharsis](games/t/tharsis.md) | 4.21 | 
+| 576 | [Tharsis](games/t/tharsis.md) | 4.23 | 
 | 577 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 578 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 579 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 

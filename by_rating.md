@@ -463,17 +463,17 @@
 | 461 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 462 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 463 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
-| 465 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 466 | [Isonzo](games/i/isonzo.md) | 4.49 | 
-| 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 468 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 469 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 470 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 471 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 473 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 464 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 465 | [Isonzo](games/i/isonzo.md) | 4.49 | 
+| 466 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 467 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 468 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 469 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 473 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 474 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 475 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 476 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 477 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -641,15 +641,15 @@
 | 639 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 640 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 641 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 642 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 643 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 644 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 645 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 646 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
-| 647 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 648 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 649 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 650 | [Tharsis](games/t/tharsis.md) | 4.21 | 
+| 642 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 643 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
+| 644 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 645 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 646 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
+| 648 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 649 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 650 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 651 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
 | 652 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
 | 653 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
@@ -658,9 +658,9 @@
 | 656 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 657 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 658 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 659 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 660 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 661 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 659 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 660 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 661 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 662 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 663 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 664 | [Windbound](games/w/windbound.md) | 4.17 | 
