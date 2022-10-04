@@ -434,7 +434,7 @@
 | 432 | [Pine](games/p/pine.md) | 4.13 | 
 | 433 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 434 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 
-| 435 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 435 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 436 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 437 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 438 | [Prey](games/p/prey.md) | 4.61 | 
@@ -478,7 +478,7 @@
 | 476 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 477 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 478 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 479 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 479 | [Runbow](games/r/runbow.md) | 4.40 | 
 | 480 | [Sable](games/s/sable.md) | 4.50 | 
 | 481 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 482 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 

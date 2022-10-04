@@ -529,28 +529,28 @@
 | 527 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 528 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 529 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 530 | [Runbow](games/r/runbow.md) | 4.42 | 
-| 531 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
-| 532 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 533 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 534 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 535 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 536 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 537 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 538 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
-| 539 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 540 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
-| 541 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 543 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 544 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 545 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 546 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 530 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
+| 531 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 532 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 534 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 535 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 536 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 537 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
+| 538 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 539 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
+| 540 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 542 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 543 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 544 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 545 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 546 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 547 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 548 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 549 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.40 | 
 | 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -720,6 +720,6 @@
 | 718 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 719 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 720 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 721 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 721 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 722 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 723 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
