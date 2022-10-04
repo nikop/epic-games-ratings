@@ -10,7 +10,7 @@
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
+| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
@@ -239,7 +239,7 @@
 | 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 238 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.34 | 
+| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.35 | 
 | 241 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 242 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -258,7 +258,7 @@
 | 256 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 257 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 258 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 259 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
+| 259 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 260 | [Haven](games/h/haven.md) | 4.77 | 
 | 261 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 262 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
@@ -334,7 +334,7 @@
 | 332 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 333 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 334 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
-| 335 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 335 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
 | 336 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 337 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
 | 338 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
@@ -585,7 +585,7 @@
 | 583 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.37 | 
+| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.38 | 
 | 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -609,7 +609,7 @@
 | 607 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 608 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 609 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 610 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 610 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 611 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 612 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 613 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
