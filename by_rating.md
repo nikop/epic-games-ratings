@@ -142,15 +142,15 @@
 | 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 142 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 143 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 144 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 145 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 146 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 147 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 148 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 149 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 150 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 151 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 144 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 145 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 149 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 152 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.71 | 
 | 153 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 154 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -280,24 +280,24 @@
 | 278 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 279 | [20XX](games/2/20xx.md) | 4.62 | 
 | 280 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 281 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 283 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 284 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
-| 285 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 286 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 287 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 288 | [Prey](games/p/prey.md) | 4.61 | 
-| 289 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 290 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 291 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 292 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 293 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 294 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 295 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
-| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 298 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 281 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 282 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 284 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 285 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
+| 286 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 287 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 288 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 289 | [Prey](games/p/prey.md) | 4.61 | 
+| 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 291 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 296 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
+| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 299 | [Control](games/c/control.md) | 4.60 | 
 | 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 

@@ -219,7 +219,7 @@
 | 217 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 218 | [Firework](games/f/firework.md) | 4.85 | 
 | 219 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
-| 220 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 220 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 221 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 222 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 223 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
@@ -608,7 +608,7 @@
 | 606 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 607 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 608 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 609 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 609 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 610 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 611 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 612 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
