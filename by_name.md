@@ -164,7 +164,7 @@
 | 162 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 163 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 164 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 165 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 165 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 166 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 167 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
