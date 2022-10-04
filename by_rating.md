@@ -3,10 +3,10 @@
 | 1 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 2 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 4 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
-| 5 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 6 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 4 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
+| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 7 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 9 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -215,22 +215,22 @@
 | 213 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 214 | [Mutazione](games/m/mutazione.md) | 4.67 | 
 | 215 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 216 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 217 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
-| 218 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 219 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 222 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 223 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 224 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 225 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 227 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
-| 228 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 229 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 231 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.66 | 
+| 216 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
+| 217 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 218 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
+| 219 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 220 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 221 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 222 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 223 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 224 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 225 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 226 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 227 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 228 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
+| 229 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 230 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 232 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 233 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 

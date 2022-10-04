@@ -313,7 +313,7 @@
 | 311 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 312 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 313 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 314 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.66 | 
+| 314 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
 | 315 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 316 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 317 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
@@ -451,7 +451,7 @@
 | 449 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 450 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 451 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 452 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 452 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 453 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 454 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 455 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
