@@ -236,7 +236,7 @@
 | 234 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 235 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
 | 236 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 238 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
 | 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.34 | 
@@ -569,7 +569,7 @@
 | 567 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 568 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 569 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 570 | [Tails of Iron](games/t/tails_of_iron.md) | 4.82 | 
+| 570 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 571 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 572 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 573 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 

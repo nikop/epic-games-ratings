@@ -59,29 +59,29 @@
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 60 | [Tails of Iron](games/t/tails_of_iron.md) | 4.82 | 
-| 61 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 63 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 64 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
-| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
-| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 73 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
-| 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 75 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 76 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 77 | [Journey](games/j/journey.md) | 4.80 | 
-| 78 | [Quake](games/q/quake.md) | 4.80 | 
-| 79 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 80 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
-| 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 82 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
+| 60 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 63 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 65 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 71 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
+| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 74 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 75 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 76 | [Journey](games/j/journey.md) | 4.80 | 
+| 77 | [Quake](games/q/quake.md) | 4.80 | 
+| 78 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 79 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
+| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 81 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
+| 82 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
@@ -118,21 +118,21 @@
 | 116 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 122 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
-| 123 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 124 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 125 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
-| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 127 | [Revita](games/r/revita.md) | 4.74 | 
-| 128 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 129 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 131 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 119 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 123 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
+| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 125 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 126 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 135 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 136 | [Fez](games/f/fez.md) | 4.73 | 
