@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
@@ -78,7 +78,7 @@
 | 76 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.42 | 
+| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.35 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 81 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -183,7 +183,7 @@
 | 181 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 182 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 183 | [ELEX](games/e/elex.md) | 4.34 | 
-| 184 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 184 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 185 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 186 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 187 | [Encased](games/e/encased.md) | 4.35 | 
@@ -647,7 +647,7 @@
 | 645 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
 | 646 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 647 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 648 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
+| 648 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 649 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 650 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 651 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
