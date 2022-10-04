@@ -1,10 +1,10 @@
 {
   "ID": "32ef234417314b65a4f76041b684f4d0",
   "Name": "The Spectrum Retreat",
-  "Rating": 4.32,
+  "Rating": 4.31,
   "NumberOfRatings": 230,
   "FirstSeen": "2022-07-22T20:22:27.9603268+00:00",
-  "LastChanged": "2022-09-30T05:31:00.2911242+00:00",
+  "LastChanged": "2022-10-04T16:02:01.4272069+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:27.960327+00:00",
@@ -294,6 +294,11 @@
     {
       "Time": "2022-09-30T05:31:00.2911246+00:00",
       "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-04T16:02:01.4272071+00:00",
+      "Rating": 4.31,
       "NumberOfRatings": null
     }
   ],

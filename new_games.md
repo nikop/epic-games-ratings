@@ -1,8 +1,8 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Runbow](games/r/runbow.md) | 4.36 | 
+| 1 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 2 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
-| 3 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 3 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 4 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 5 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 6 | [Gloomhaven](games/g/gloomhaven.md) | 4.34 | 

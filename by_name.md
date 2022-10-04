@@ -89,7 +89,7 @@
 | 87 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 88 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 89 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 90 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 90 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 92 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 93 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -345,7 +345,7 @@
 | 343 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 344 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 345 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 346 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 346 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 347 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 348 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 349 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
@@ -477,7 +477,7 @@
 | 475 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 476 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 477 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 478 | [Runbow](games/r/runbow.md) | 4.36 | 
+| 478 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 479 | [Sable](games/s/sable.md) | 4.50 | 
 | 480 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 481 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -529,7 +529,7 @@
 | 527 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 528 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 529 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 530 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 530 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 531 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 532 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 533 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
@@ -606,7 +606,7 @@
 | 604 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 605 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 606 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 607 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
+| 607 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 608 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 609 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 610 | [The Surge](games/t/the_surge.md) | 4.53 | 
@@ -665,7 +665,7 @@
 | 663 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
 | 664 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 665 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 666 | [TUNIC](games/t/tunic.md) | 4.85 | 
+| 666 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 667 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
 | 668 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 669 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
