@@ -394,13 +394,13 @@
 | 392 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 395 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 397 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 398 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 399 | [Outward](games/o/outward.md) | 4.53 | 
-| 400 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 401 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 395 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 396 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 397 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 398 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 399 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 400 | [Outward](games/o/outward.md) | 4.53 | 
+| 401 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 402 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 403 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 404 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
