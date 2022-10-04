@@ -272,7 +272,7 @@
 | 270 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 271 | [Hob](games/h/hob.md) | 4.58 | 
 | 272 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 273 | [Horace](games/h/horace.md) | 4.51 | 
+| 273 | [Horace](games/h/horace.md) | 4.50 | 
 | 274 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 275 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 276 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -402,7 +402,7 @@
 | 400 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 401 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 402 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 403 | [Othercide](games/o/othercide.md) | 4.41 | 
+| 403 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 404 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 405 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 406 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -487,7 +487,7 @@
 | 485 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 486 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 487 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 488 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
+| 488 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 489 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 490 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
 | 491 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
@@ -609,7 +609,7 @@
 | 607 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 608 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 609 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 610 | [The Surge](games/t/the_surge.md) | 4.54 | 
+| 610 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 611 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 612 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 613 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
