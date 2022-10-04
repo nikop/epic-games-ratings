@@ -172,7 +172,7 @@
 | 170 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
 | 171 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
 | 172 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 173 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 173 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 174 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 175 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -304,7 +304,7 @@
 | 302 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 303 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 304 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 305 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 305 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 306 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 307 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 308 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
@@ -647,7 +647,7 @@
 | 645 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 646 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 647 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.52 | 
-| 648 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.76 | 
+| 648 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 649 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 650 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 651 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -658,7 +658,7 @@
 | 656 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 657 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 658 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 659 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
+| 659 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
 | 660 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 661 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
 | 662 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 

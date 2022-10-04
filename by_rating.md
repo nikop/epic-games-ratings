@@ -108,22 +108,22 @@
 | 106 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 108 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 109 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.76 | 
-| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 114 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
-| 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 117 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 118 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 123 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
-| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 113 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
+| 114 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 115 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 116 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 122 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
+| 123 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 124 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 125 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
 | 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 127 | [Revita](games/r/revita.md) | 4.74 | 
@@ -191,17 +191,17 @@
 | 189 | [SOMA](games/s/soma.md) | 4.69 | 
 | 190 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 191 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 192 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 193 | [CARRION](games/c/carrion.md) | 4.69 | 
-| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 195 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 198 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 200 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 201 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
-| 202 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 192 | [CARRION](games/c/carrion.md) | 4.69 | 
+| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 194 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 197 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 198 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 199 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 200 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
+| 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 202 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 203 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
 | 204 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
 | 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
@@ -312,20 +312,20 @@
 | 310 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 312 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 313 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
-| 314 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 315 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 316 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 317 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 318 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 319 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 320 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 321 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 322 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 323 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 324 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 325 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 326 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
+| 313 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
+| 314 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
+| 315 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 316 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 317 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 318 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 319 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 320 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 321 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 322 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 323 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 324 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 325 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 326 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 327 | [GRIME](games/g/grime.md) | 4.59 | 
 | 328 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 329 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -553,13 +553,13 @@
 | 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 555 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
-| 556 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 557 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 558 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 559 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 560 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 556 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 557 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 558 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 559 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 560 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 561 | [Core](games/c/core.md) | 4.38 | 
 | 562 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 563 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
