@@ -319,7 +319,7 @@
 | 317 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 318 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 319 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
-| 320 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 320 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 321 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 322 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 323 | [Lake](games/l/lake.md) | 4.08 | 
@@ -544,7 +544,7 @@
 | 542 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 543 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 544 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 545 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
+| 545 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
 | 546 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 547 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 548 | [Submerged](games/s/submerged.md) | 4.04 | 
@@ -603,7 +603,7 @@
 | 601 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 602 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 603 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 604 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 604 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 605 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 606 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 607 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 

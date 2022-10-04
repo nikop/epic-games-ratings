@@ -135,12 +135,12 @@
 | 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 136 | [Fez](games/f/fez.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 136 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 137 | [Fez](games/f/fez.md) | 4.73 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 142 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 143 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 144 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
@@ -216,21 +216,21 @@
 | 214 | [Mutazione](games/m/mutazione.md) | 4.67 | 
 | 215 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 216 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 217 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 218 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
-| 219 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 220 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 221 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 222 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 223 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 226 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
-| 227 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 228 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 229 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 230 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.66 | 
-| 231 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.66 | 
+| 217 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
+| 218 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 219 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 222 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 223 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 224 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 225 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 227 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
+| 228 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 229 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 231 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.66 | 
 | 232 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 233 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -428,16 +428,16 @@
 | 426 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 427 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 428 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 429 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 430 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 431 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 432 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 433 | [Horace](games/h/horace.md) | 4.51 | 
-| 434 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 435 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 436 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 437 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 438 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 429 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 430 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 431 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 432 | [Horace](games/h/horace.md) | 4.51 | 
+| 433 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 434 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 435 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 436 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 437 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 438 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 439 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 440 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 441 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
