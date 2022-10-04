@@ -78,7 +78,7 @@
 | 76 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.40 | 
+| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.42 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 81 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -362,7 +362,7 @@
 | 360 | [Minit](games/m/minit.md) | 4.55 | 
 | 361 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 362 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 363 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 363 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 364 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 365 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 366 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -404,7 +404,7 @@
 | 402 | [Othercide](games/o/othercide.md) | 4.41 | 
 | 403 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 404 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 405 | [Outer Wilds](games/o/outer_wilds.md) | 4.91 | 
+| 405 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 406 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 407 | [Outward](games/o/outward.md) | 4.53 | 
 | 408 | [Overcooked](games/o/overcooked.md) | 4.70 | 

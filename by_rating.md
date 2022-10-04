@@ -3,8 +3,8 @@
 | 1 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 2 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 4 | [Outer Wilds](games/o/outer_wilds.md) | 4.91 | 
-| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 4 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 5 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 6 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
@@ -527,29 +527,29 @@
 | 525 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 526 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 527 | [Far Cry](games/f/far_cry.md) | 4.42 | 
-| 528 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
-| 529 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
-| 530 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 531 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 532 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 533 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 534 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 535 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 536 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
-| 537 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 538 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 539 | [Othercide](games/o/othercide.md) | 4.41 | 
-| 540 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
-| 541 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 543 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 544 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 545 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 546 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 550 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.40 | 
+| 528 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.42 | 
+| 529 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
+| 530 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
+| 531 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 532 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 534 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 535 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 536 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 537 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
+| 538 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 539 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 540 | [Othercide](games/o/othercide.md) | 4.41 | 
+| 541 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
+| 542 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 543 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 544 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 545 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 546 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 547 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 548 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 549 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 550 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -575,16 +575,16 @@
 | 573 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 574 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 575 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 576 | [House Party](games/h/house_party.md) | 4.36 | 
-| 577 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 578 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
-| 579 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
-| 580 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 581 | [Runbow](games/r/runbow.md) | 4.36 | 
-| 582 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 583 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 584 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 585 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 576 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 577 | [House Party](games/h/house_party.md) | 4.36 | 
+| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 579 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
+| 580 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
+| 581 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 582 | [Runbow](games/r/runbow.md) | 4.36 | 
+| 583 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 584 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 585 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 586 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 587 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 588 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
