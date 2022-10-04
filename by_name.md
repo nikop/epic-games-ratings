@@ -10,7 +10,7 @@
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
@@ -536,7 +536,7 @@
 | 534 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 535 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 536 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 537 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 537 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.17 | 
 | 538 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 539 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 540 | [Steelrising](games/s/steelrising.md) | 4.25 | 

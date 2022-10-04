@@ -60,19 +60,19 @@
 | 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
 | 60 | [Tails of Iron](games/t/tails_of_iron.md) | 4.82 | 
-| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 62 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 63 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 64 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 65 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
-| 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 67 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
-| 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 69 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 71 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 72 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 73 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 61 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 63 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 64 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 73 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 75 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 76 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -659,12 +659,12 @@
 | 657 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
 | 658 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 659 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 660 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 661 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 662 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 663 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 664 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 665 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 660 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 661 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 662 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 663 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 664 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 665 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.17 | 
 | 666 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 667 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 668 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
