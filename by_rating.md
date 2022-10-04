@@ -138,13 +138,13 @@
 | 136 | [Fez](games/f/fez.md) | 4.73 | 
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 139 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 142 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 143 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 144 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 145 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 141 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 142 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 143 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 144 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 145 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 146 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 147 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 148 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -394,13 +394,13 @@
 | 392 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 395 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
-| 396 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 397 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 398 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 399 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 400 | [Outward](games/o/outward.md) | 4.53 | 
-| 401 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 395 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 396 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 397 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 398 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 399 | [Outward](games/o/outward.md) | 4.53 | 
+| 400 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 401 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 402 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 403 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 404 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
@@ -494,15 +494,15 @@
 | 492 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 493 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 494 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 495 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 496 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 497 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 498 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 500 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 501 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 502 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 503 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 495 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 496 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 497 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 498 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 499 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 500 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 501 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 502 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 503 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 504 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 505 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 506 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
@@ -677,15 +677,15 @@
 | 675 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 676 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 677 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 678 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
+| 678 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 679 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 680 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
-| 681 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 682 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 683 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 684 | [Relicta](games/r/relicta.md) | 4.09 | 
+| 681 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 682 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 683 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 684 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
 | 685 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 686 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 686 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 687 | [Gone Home](games/g/gone_home.md) | 4.09 | 
 | 688 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 689 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 

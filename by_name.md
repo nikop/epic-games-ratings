@@ -210,7 +210,7 @@
 | 208 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 213 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 214 | [Fez](games/f/fez.md) | 4.73 | 
@@ -241,7 +241,7 @@
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
 | 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.34 | 
 | 241 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 242 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 242 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 244 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 245 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -383,7 +383,7 @@
 | 381 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
 | 382 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 383 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 384 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 384 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 385 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 386 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 387 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -453,7 +453,7 @@
 | 451 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 452 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
 | 453 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 454 | [Relicta](games/r/relicta.md) | 4.09 | 
+| 454 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 455 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 456 | [Revita](games/r/revita.md) | 4.74 | 
 | 457 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -498,7 +498,7 @@
 | 496 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 497 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 498 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 499 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
+| 499 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 500 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 501 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 502 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
@@ -653,7 +653,7 @@
 | 651 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 652 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 653 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 654 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 654 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 655 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 656 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 657 | [Transistor](games/t/transistor.md) | 4.62 | 
@@ -688,7 +688,7 @@
 | 686 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 687 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 688 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 689 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 689 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 690 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 691 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 692 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
