@@ -470,13 +470,13 @@
 | 468 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 469 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 472 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 473 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 474 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 475 | [Good Company](games/g/good_company.md) | 4.47 | 
-| 476 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 477 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
+| 471 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
+| 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 473 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 475 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 476 | [Good Company](games/g/good_company.md) | 4.47 | 
+| 477 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 478 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 479 | [SMITE](games/s/smite.md) | 4.46 | 
 | 480 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -712,7 +712,7 @@
 | 710 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 711 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 712 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 713 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 713 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 714 | [Patron](games/p/patron.md) | 3.90 | 
 | 715 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 716 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 

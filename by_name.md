@@ -211,7 +211,7 @@
 | 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.90 | 
+| 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 213 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 214 | [Fez](games/f/fez.md) | 4.73 | 
 | 215 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
@@ -441,7 +441,7 @@
 | 439 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 440 | [Quake](games/q/quake.md) | 4.80 | 
 | 441 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 442 | [RAILGRADE](games/r/railgrade.md) | 4.47 | 
+| 442 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
 | 443 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 444 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 445 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
