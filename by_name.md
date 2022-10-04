@@ -149,7 +149,7 @@
 | 147 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 148 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 149 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 151 | [Death's Door](games/d/death's_door.md) | 4.63 | 
 | 152 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 153 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -303,7 +303,7 @@
 | 301 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 302 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 303 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 304 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 304 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
 | 305 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 306 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 307 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -456,7 +456,7 @@
 | 454 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 455 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 456 | [Revita](games/r/revita.md) | 4.74 | 
-| 457 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 457 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 458 | [RiME](games/r/rime.md) | 4.64 | 
 | 459 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 460 | [RimWorld](games/r/rimworld.md) | 4.89 | 
