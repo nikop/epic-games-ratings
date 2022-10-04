@@ -1,7 +1,16 @@
 {
   "ID": "orchid",
   "Name": "Jackbox Party Pack 3",
+  "Rating": 4.95,
   "FirstSeen": "2022-07-22T20:30:19.1154075+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-04T19:03:12.7540662+00:00",
+  "LastChanged": "2022-10-04T19:03:12.7540665+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-04T19:03:12.7540667+00:00",
+      "Rating": 4.95,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

@@ -1,6 +1,5 @@
-# Jackbox Party Pack 3
-Rating: 4.95 (-)  (as of 23.09.2022)  
+# Shrine's Legacy
+Rating: - (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-10-04 | 4.95 | - |
