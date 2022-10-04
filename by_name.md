@@ -299,7 +299,7 @@
 | 297 | [Isonzo](games/i/isonzo.md) | 4.49 | 
 | 298 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 299 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 300 | [Journey](games/j/journey.md) | 4.80 | 
+| 300 | [Journey](games/j/journey.md) | 4.76 | 
 | 301 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 302 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 303 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -496,7 +496,7 @@
 | 494 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 495 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 496 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 497 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 497 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 498 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 499 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 500 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
@@ -530,7 +530,7 @@
 | 528 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 529 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 530 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 531 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 531 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 532 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 533 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 534 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
@@ -615,7 +615,7 @@
 | 613 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 614 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 615 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 616 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 616 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 617 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 618 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 619 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -649,12 +649,12 @@
 | 647 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 648 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 649 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 650 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 650 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 651 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 652 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 653 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 654 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 655 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 655 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 656 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 658 | [Transistor](games/t/transistor.md) | 4.62 | 
