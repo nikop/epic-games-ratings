@@ -225,21 +225,21 @@
 | 223 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 224 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 225 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 226 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 227 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 228 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
-| 229 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 230 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 232 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 233 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 235 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 236 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 237 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 238 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 240 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 226 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 227 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 228 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 229 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
+| 230 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 231 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 232 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 233 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 234 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 235 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 236 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 237 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 238 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 239 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 240 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 241 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 242 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 243 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -372,24 +372,24 @@
 | 370 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 372 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 374 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 375 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
-| 376 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 377 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 378 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 379 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 380 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 381 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 382 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 383 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
-| 384 | [Hue](games/h/hue.md) | 4.55 | 
-| 385 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 386 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 387 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
-| 388 | [Minit](games/m/minit.md) | 4.55 | 
-| 389 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 390 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 373 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 375 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 376 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
+| 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 378 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 379 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 380 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 381 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 382 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 383 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 384 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
+| 385 | [Hue](games/h/hue.md) | 4.55 | 
+| 386 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 387 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 388 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 389 | [Minit](games/m/minit.md) | 4.55 | 
+| 390 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 391 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 392 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
