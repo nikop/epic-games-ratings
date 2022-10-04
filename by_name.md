@@ -93,7 +93,7 @@
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.29 | 
 | 92 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 93 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 94 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 94 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 95 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 96 | [CARRION](games/c/carrion.md) | 4.69 | 
 | 97 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -141,7 +141,7 @@
 | 139 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 140 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 141 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 142 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 142 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 143 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 144 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 145 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -318,7 +318,7 @@
 | 316 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 317 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 318 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 319 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 319 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
 | 320 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 321 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 322 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
