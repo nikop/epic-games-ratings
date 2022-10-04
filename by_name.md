@@ -142,7 +142,7 @@
 | 140 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 141 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 142 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 143 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 143 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 144 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 145 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 146 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
@@ -255,13 +255,13 @@
 | 253 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 254 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
 | 255 | [Hades](games/h/hades.md) | 4.92 | 
-| 256 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 256 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 257 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 258 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 259 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
 | 260 | [Haven](games/h/haven.md) | 4.77 | 
 | 261 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 262 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 262 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 263 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 264 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 265 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
@@ -456,7 +456,7 @@
 | 454 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 455 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 456 | [Revita](games/r/revita.md) | 4.74 | 
-| 457 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 457 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 458 | [RiME](games/r/rime.md) | 4.64 | 
 | 459 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 460 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -589,7 +589,7 @@
 | 587 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 588 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 589 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 590 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 590 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 591 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 592 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
 | 593 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
