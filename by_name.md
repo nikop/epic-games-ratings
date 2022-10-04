@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 
+| 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
 | 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 47 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 48 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -117,7 +117,7 @@
 | 115 | [Core](games/c/core.md) | 4.38 | 
 | 116 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 117 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 118 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 118 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 119 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 120 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 121 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -210,7 +210,7 @@
 | 208 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 213 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 214 | [Fez](games/f/fez.md) | 4.73 | 
@@ -441,7 +441,7 @@
 | 439 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 440 | [Quake](games/q/quake.md) | 4.80 | 
 | 441 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 442 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
+| 442 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 443 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 444 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 445 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -451,7 +451,7 @@
 | 449 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 450 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 451 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 452 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.90 | 
+| 452 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 453 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 454 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 455 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
