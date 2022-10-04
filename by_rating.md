@@ -676,7 +676,7 @@
 | 674 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 675 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 676 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 677 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 677 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 678 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.11 | 
 | 679 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 680 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
