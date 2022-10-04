@@ -71,7 +71,7 @@
 | 69 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 70 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 71 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 72 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 72 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 74 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -100,7 +100,7 @@
 | 98 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 99 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 100 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.38 | 
+| 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
 | 102 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 103 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 104 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -277,7 +277,7 @@
 | 275 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 276 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 277 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 278 | [House Party](games/h/house_party.md) | 4.36 | 
+| 278 | [House Party](games/h/house_party.md) | 4.35 | 
 | 279 | [Hue](games/h/hue.md) | 4.55 | 
 | 280 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 281 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -533,7 +533,7 @@
 | 531 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 532 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 533 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
-| 534 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 534 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 535 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 536 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 537 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.17 | 
