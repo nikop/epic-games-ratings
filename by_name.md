@@ -176,7 +176,7 @@
 | 174 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 175 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 178 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 179 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 180 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -392,7 +392,7 @@
 | 390 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 391 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 392 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 393 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 393 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 394 | [Observation](games/o/observation.md) | 4.38 | 
 | 395 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 396 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
@@ -408,7 +408,7 @@
 | 406 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 407 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 408 | [Outward](games/o/outward.md) | 4.53 | 
-| 409 | [Overcooked](games/o/overcooked.md) | 4.70 | 
+| 409 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 410 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 411 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 412 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
@@ -529,7 +529,7 @@
 | 527 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 528 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 529 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 530 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 530 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 531 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 532 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 533 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
@@ -552,7 +552,7 @@
 | 550 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 551 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 552 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 553 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 553 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 554 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 555 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 556 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
@@ -713,7 +713,7 @@
 | 711 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 712 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 713 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 714 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 714 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 715 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 716 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 717 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
