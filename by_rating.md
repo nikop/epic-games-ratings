@@ -309,18 +309,18 @@
 | 307 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 308 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 310 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 312 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 313 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
-| 314 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
-| 315 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
-| 316 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 321 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 310 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 311 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 313 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 314 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 315 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
+| 316 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
+| 317 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 322 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 323 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 324 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
@@ -367,22 +367,22 @@
 | 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 368 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 369 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 371 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 373 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 374 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 376 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 377 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
-| 378 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 379 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 380 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 381 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 382 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 383 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 368 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 369 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 370 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 372 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 373 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 375 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 376 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
+| 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 378 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 379 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 380 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 381 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 382 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 383 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 384 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 386 | [Hue](games/h/hue.md) | 4.55 | 
@@ -476,15 +476,15 @@
 | 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 476 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 477 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 478 | [SMITE](games/s/smite.md) | 4.46 | 
-| 479 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 480 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
-| 481 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 482 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 483 | [Good Company](games/g/good_company.md) | 4.46 | 
-| 484 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 485 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
+| 477 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 478 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 479 | [SMITE](games/s/smite.md) | 4.46 | 
+| 480 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 481 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
+| 482 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 483 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 484 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 485 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 486 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 487 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 488 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 

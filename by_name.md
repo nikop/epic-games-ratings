@@ -502,7 +502,7 @@
 | 500 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 501 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 502 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 503 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
+| 503 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 504 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 505 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 506 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -555,7 +555,7 @@
 | 553 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 554 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 555 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 556 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 556 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 557 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 558 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 559 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
@@ -636,7 +636,7 @@
 | 634 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 635 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 636 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
-| 637 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 637 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 638 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 639 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 640 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
