@@ -336,7 +336,7 @@
 | 334 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 335 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 336 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
-| 337 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 337 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 338 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 339 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
 | 340 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -441,7 +441,7 @@
 | 439 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 440 | [Quake](games/q/quake.md) | 4.80 | 
 | 441 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 442 | [RAILGRADE](games/r/railgrade.md) | 4.49 | 
+| 442 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
 | 443 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 444 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 445 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 

@@ -452,21 +452,21 @@
 | 450 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 453 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 454 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 455 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 456 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 457 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 458 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 459 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 460 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 461 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 462 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 463 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
-| 464 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 465 | [Isonzo](games/i/isonzo.md) | 4.49 | 
-| 466 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 467 | [RAILGRADE](games/r/railgrade.md) | 4.49 | 
+| 453 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
+| 454 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 455 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 456 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 457 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 458 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 459 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 460 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 461 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 462 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 464 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.49 | 
+| 465 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 466 | [Isonzo](games/i/isonzo.md) | 4.49 | 
+| 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 468 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 469 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
 | 470 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
@@ -704,7 +704,7 @@
 | 702 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
 | 703 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.02 | 
 | 704 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
-| 705 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 705 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 706 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 707 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 708 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
