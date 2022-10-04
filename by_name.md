@@ -239,7 +239,7 @@
 | 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 238 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.33 | 
+| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.34 | 
 | 241 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 242 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -617,7 +617,7 @@
 | 615 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 616 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 617 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 618 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
+| 618 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.71 | 
 | 619 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 620 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 621 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
