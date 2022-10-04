@@ -93,14 +93,14 @@
 | 91 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 92 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 94 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.77 | 
-| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 97 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
-| 98 | [Haven](games/h/haven.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 96 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 
+| 97 | [Haven](games/h/haven.md) | 4.77 | 
+| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 102 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
 | 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
