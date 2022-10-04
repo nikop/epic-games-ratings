@@ -68,7 +68,7 @@
 | 66 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 68 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 69 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 69 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 70 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 71 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 72 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
@@ -91,7 +91,7 @@
 | 89 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 90 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
-| 92 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.02 | 
+| 92 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.03 | 
 | 93 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 94 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 95 | [Card Shark](games/c/card_shark.md) | 4.57 | 
@@ -210,7 +210,7 @@
 | 208 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 213 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 214 | [Fez](games/f/fez.md) | 4.73 | 
@@ -296,7 +296,7 @@
 | 294 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 295 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 296 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 297 | [Isonzo](games/i/isonzo.md) | 4.49 | 
+| 297 | [Isonzo](games/i/isonzo.md) | 4.50 | 
 | 298 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 299 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 300 | [Journey](games/j/journey.md) | 4.76 | 
@@ -395,7 +395,7 @@
 | 393 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 394 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 395 | [Observation](games/o/observation.md) | 4.38 | 
-| 396 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 396 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
 | 397 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
 | 398 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 399 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
@@ -558,7 +558,7 @@
 | 556 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 557 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 558 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
-| 559 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
+| 559 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 560 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 561 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 562 | [Supraland](games/s/supraland.md) | 4.61 | 
