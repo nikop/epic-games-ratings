@@ -197,7 +197,7 @@
 | 195 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 196 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 197 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 198 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 198 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 199 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 200 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 201 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -368,7 +368,7 @@
 | 366 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 367 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 368 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 369 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 369 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 370 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 371 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 372 | [Mutazione](games/m/mutazione.md) | 4.67 | 
@@ -584,7 +584,7 @@
 | 582 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 583 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 584 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 585 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.35 | 
+| 585 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.37 | 
 | 586 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 587 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 588 | [The Escapists](games/t/the_escapists.md) | 4.49 | 

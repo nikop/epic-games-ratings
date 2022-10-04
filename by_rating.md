@@ -257,20 +257,20 @@
 | 255 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 256 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 257 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 258 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 259 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 260 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 261 | [Old World](games/o/old_world.md) | 4.63 | 
-| 262 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 263 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 264 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 266 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 267 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 268 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
-| 269 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 270 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 271 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 258 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 259 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 260 | [Old World](games/o/old_world.md) | 4.63 | 
+| 261 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 263 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 265 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 266 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 267 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
+| 268 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 269 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 270 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 271 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 272 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 274 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -512,21 +512,21 @@
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 513 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 514 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
-| 515 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 516 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 517 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 518 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 519 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 520 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 521 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 522 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 523 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 524 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 525 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 526 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 527 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 513 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 514 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
+| 515 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
+| 516 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 517 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 518 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 519 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 520 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 521 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 522 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 523 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 524 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 525 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 526 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 527 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 528 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 529 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.42 | 
 | 530 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
@@ -572,26 +572,26 @@
 | 570 | [Observation](games/o/observation.md) | 4.38 | 
 | 571 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 572 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 573 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 574 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 575 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 576 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 577 | [House Party](games/h/house_party.md) | 4.36 | 
-| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 579 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
-| 580 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
-| 581 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 582 | [Runbow](games/r/runbow.md) | 4.36 | 
-| 583 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 584 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 585 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 586 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
-| 587 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 588 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 589 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 590 | [Encased](games/e/encased.md) | 4.35 | 
-| 591 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 592 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.35 | 
+| 573 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.37 | 
+| 574 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 575 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 577 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 578 | [House Party](games/h/house_party.md) | 4.36 | 
+| 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 580 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
+| 581 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
+| 582 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 583 | [Runbow](games/r/runbow.md) | 4.36 | 
+| 584 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 585 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 586 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 587 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 588 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 589 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 590 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 591 | [Encased](games/e/encased.md) | 4.35 | 
+| 592 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 593 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 594 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 595 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
