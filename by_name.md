@@ -441,7 +441,7 @@
 | 439 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 440 | [Quake](games/q/quake.md) | 4.80 | 
 | 441 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 442 | [RAILGRADE](games/r/railgrade.md) | 4.48 | 
+| 442 | [RAILGRADE](games/r/railgrade.md) | 4.49 | 
 | 443 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 444 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 445 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -576,7 +576,7 @@
 | 574 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 575 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 576 | [Tharsis](games/t/tharsis.md) | 4.21 | 
-| 577 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 577 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 578 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 579 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 580 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
@@ -662,11 +662,11 @@
 | 660 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 661 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
 | 662 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 663 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 
+| 663 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
 | 664 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
 | 665 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 666 | [TUNIC](games/t/tunic.md) | 4.85 | 
-| 667 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 667 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
 | 668 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 669 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 670 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
