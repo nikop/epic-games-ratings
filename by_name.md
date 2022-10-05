@@ -89,7 +89,7 @@
 | 87 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 88 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 89 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 90 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 90 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 92 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.03 | 
 | 93 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -206,7 +206,7 @@
 | 204 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 205 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 207 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
+| 207 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 208 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
@@ -329,7 +329,7 @@
 | 327 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 328 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 329 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
-| 330 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 330 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 331 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 332 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 333 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
@@ -442,7 +442,7 @@
 | 440 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 441 | [Quake](games/q/quake.md) | 4.80 | 
 | 442 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 443 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 443 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 444 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 445 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 446 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 

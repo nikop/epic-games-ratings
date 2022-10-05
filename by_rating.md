@@ -146,19 +146,19 @@
 | 144 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 145 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
 | 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 148 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 152 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
-| 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.71 | 
-| 154 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 155 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 156 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 157 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 158 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 159 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
+| 147 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 148 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 149 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 150 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 151 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 152 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 153 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
+| 154 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.71 | 
+| 155 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 156 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 157 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 158 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 159 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 160 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 161 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 162 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
@@ -427,15 +427,15 @@
 | 425 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 426 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 427 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 428 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 429 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 430 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 431 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 432 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
-| 433 | [Isonzo](games/i/isonzo.md) | 4.51 | 
-| 434 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 435 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 436 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 428 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 429 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 430 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 431 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 432 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 433 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 434 | [Isonzo](games/i/isonzo.md) | 4.51 | 
+| 435 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 436 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 437 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 438 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 439 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -614,14 +614,14 @@
 | 612 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 613 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 614 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
-| 615 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 616 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 617 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 618 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 619 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 620 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 621 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 622 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
+| 615 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 616 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 617 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 618 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 619 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 620 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 621 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
+| 622 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 623 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 624 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 625 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
@@ -647,9 +647,9 @@
 | 645 | [Tharsis](games/t/tharsis.md) | 4.23 | 
 | 646 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 647 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 648 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 649 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 650 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 648 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 649 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 650 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 651 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 652 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
 | 653 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
