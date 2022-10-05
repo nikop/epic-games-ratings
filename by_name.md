@@ -366,7 +366,7 @@
 | 364 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 365 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 366 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 367 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 367 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 368 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 369 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 370 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
@@ -508,7 +508,7 @@
 | 506 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 507 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 508 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 510 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 511 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 512 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -517,7 +517,7 @@
 | 515 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 516 | [SOMA](games/s/soma.md) | 4.70 | 
 | 517 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 518 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 518 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 519 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 520 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 521 | [Souldiers](games/s/souldiers.md) | 4.54 | 

@@ -58,10 +58,10 @@
 | 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 61 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 62 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 59 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 63 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 65 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
@@ -372,25 +372,25 @@
 | 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 371 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 373 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 375 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 376 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
-| 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 378 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 379 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 380 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 381 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 382 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 383 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
-| 384 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 385 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 386 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
-| 387 | [Hue](games/h/hue.md) | 4.55 | 
-| 388 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 389 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 390 | [Minit](games/m/minit.md) | 4.55 | 
-| 391 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 373 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 374 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
+| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 376 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 377 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
+| 378 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 379 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 380 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 381 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 382 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 383 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 384 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
+| 385 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 386 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
+| 388 | [Hue](games/h/hue.md) | 4.55 | 
+| 389 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 390 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 391 | [Minit](games/m/minit.md) | 4.55 | 
 | 392 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
 | 393 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 394 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -491,19 +491,19 @@
 | 489 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 490 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 491 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 492 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 493 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 494 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 495 | [Torchlight](games/t/torchlight.md) | 4.45 | 
-| 496 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 497 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 498 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 499 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 500 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 501 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 502 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 503 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 504 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 492 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 493 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 494 | [Torchlight](games/t/torchlight.md) | 4.45 | 
+| 495 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 496 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 497 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 498 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 499 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 500 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 501 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 502 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 503 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 504 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 505 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
 | 506 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
