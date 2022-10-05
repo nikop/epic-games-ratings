@@ -109,7 +109,7 @@
 | 107 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 108 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 109 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 110 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.02 | 
+| 110 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 111 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 112 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 113 | [Control](games/c/control.md) | 4.60 | 
@@ -530,7 +530,7 @@
 | 528 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 529 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 530 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 531 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 531 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 532 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 533 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 534 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 

@@ -572,11 +572,11 @@
 | 570 | [Observation](games/o/observation.md) | 4.38 | 
 | 571 | [Runbow](games/r/runbow.md) | 4.38 | 
 | 572 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
-| 574 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
-| 575 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 576 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 577 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 573 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
+| 574 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 575 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 576 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 577 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 579 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 580 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
@@ -704,7 +704,7 @@
 | 702 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 703 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 704 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.03 | 
-| 705 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.02 | 
+| 705 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 706 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 707 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 708 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
