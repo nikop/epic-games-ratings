@@ -116,7 +116,7 @@
 | 114 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 115 | [Core](games/c/core.md) | 4.38 | 
 | 116 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 117 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 117 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 118 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 119 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 120 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -134,7 +134,7 @@
 | 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 133 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 134 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 135 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 135 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
 | 136 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 137 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 138 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -387,7 +387,7 @@
 | 385 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 386 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 387 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 388 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 388 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 389 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 390 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 391 | [Northgard](games/n/northgard.md) | 4.76 | 
@@ -396,7 +396,7 @@
 | 394 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 395 | [Observation](games/o/observation.md) | 4.38 | 
 | 396 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
-| 397 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
+| 397 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 398 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 399 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
 | 400 | [Old World](games/o/old_world.md) | 4.63 | 
@@ -428,7 +428,7 @@
 | 426 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 427 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 428 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 429 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 429 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 430 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 431 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 432 | [Pine](games/p/pine.md) | 4.13 | 
@@ -581,7 +581,7 @@
 | 579 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 580 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 581 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 582 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 582 | [The Captain](games/t/the_captain.md) | 4.43 | 
 | 583 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
@@ -673,7 +673,7 @@
 | 671 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 672 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 673 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 674 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 674 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 675 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 676 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 677 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
