@@ -226,20 +226,20 @@
 | 224 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 226 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
-| 227 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 228 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 230 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 231 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 232 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 233 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 234 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 235 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 236 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 237 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 238 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 239 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 240 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 228 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 232 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 233 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 235 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 236 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 237 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 238 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 240 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 241 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 242 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 243 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
@@ -507,24 +507,24 @@
 | 505 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 506 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 508 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
-| 509 | [Figment](games/f/figment.md) | 4.43 | 
-| 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 513 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 514 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
-| 515 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
-| 516 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 517 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 518 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 519 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 520 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 521 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 522 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 523 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
-| 524 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
-| 525 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 508 | [Figment](games/f/figment.md) | 4.43 | 
+| 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 510 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 512 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 513 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
+| 514 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
+| 515 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 516 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 517 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 518 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 519 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 520 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 521 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 522 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 523 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 524 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 525 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 526 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 527 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 528 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 

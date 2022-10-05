@@ -6,7 +6,7 @@
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
@@ -200,7 +200,7 @@
 | 198 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 199 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 200 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 201 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 201 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 202 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 203 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 204 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
