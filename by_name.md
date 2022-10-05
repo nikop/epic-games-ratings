@@ -469,7 +469,7 @@
 | 467 | [Road 96](games/r/road_96.md) | 4.54 | 
 | 468 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 469 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 470 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 470 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 471 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 472 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 473 | [Roguebook](games/r/roguebook.md) | 4.59 | 
@@ -600,7 +600,7 @@
 | 598 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 599 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 600 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 601 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 601 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
 | 602 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 603 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 604 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
@@ -675,7 +675,7 @@
 | 673 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 674 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 675 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 676 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.79 | 
+| 676 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
 | 677 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 678 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 679 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 

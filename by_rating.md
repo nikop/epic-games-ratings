@@ -74,19 +74,19 @@
 | 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 73 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
 | 74 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 75 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 76 | [Quake](games/q/quake.md) | 4.80 | 
-| 77 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 78 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
-| 79 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 80 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
-| 81 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 87 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.79 | 
+| 75 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
+| 76 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 77 | [Quake](games/q/quake.md) | 4.80 | 
+| 78 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 79 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
+| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 81 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
+| 82 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
+| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 88 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 89 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
@@ -290,21 +290,21 @@
 | 288 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 289 | [Prey](games/p/prey.md) | 4.61 | 
 | 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 291 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 296 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
-| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 299 | [Control](games/c/control.md) | 4.60 | 
-| 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 302 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 303 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 305 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 291 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 292 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 297 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
+| 298 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 299 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 300 | [Control](games/c/control.md) | 4.60 | 
+| 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 302 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 303 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 304 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 307 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 308 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -476,15 +476,15 @@
 | 474 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 476 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 477 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 478 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 479 | [SMITE](games/s/smite.md) | 4.46 | 
-| 480 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 481 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
-| 482 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 483 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 484 | [Good Company](games/g/good_company.md) | 4.46 | 
-| 485 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 477 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
+| 478 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 479 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 480 | [SMITE](games/s/smite.md) | 4.46 | 
+| 481 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 482 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
+| 483 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 484 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 485 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 486 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 487 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 488 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
