@@ -258,21 +258,21 @@
 | 256 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 257 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 258 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 259 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 260 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 261 | [Old World](games/o/old_world.md) | 4.63 | 
-| 262 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 263 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 264 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 266 | [Death's Door](games/d/death's_door.md) | 4.63 | 
-| 267 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 268 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 269 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 270 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 271 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 272 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 273 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 259 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 260 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 261 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 262 | [Old World](games/o/old_world.md) | 4.63 | 
+| 263 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 265 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 267 | [Death's Door](games/d/death's_door.md) | 4.63 | 
+| 268 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 269 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 270 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 271 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 272 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 273 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 274 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 275 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 276 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 

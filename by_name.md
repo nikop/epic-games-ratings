@@ -369,7 +369,7 @@
 | 367 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 368 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 369 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 370 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 370 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 371 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 372 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 373 | [Mutazione](games/m/mutazione.md) | 4.67 | 
