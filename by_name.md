@@ -131,7 +131,7 @@
 | 129 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 130 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 131 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
+| 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 133 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 134 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 135 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
@@ -259,7 +259,7 @@
 | 257 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 258 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 259 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 260 | [Haven](games/h/haven.md) | 4.77 | 
+| 260 | [Haven](games/h/haven.md) | 4.78 | 
 | 261 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 262 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 263 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
@@ -291,7 +291,7 @@
 | 289 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 290 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 291 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 292 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 292 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 293 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 294 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 295 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
@@ -572,7 +572,7 @@
 | 570 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 571 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 572 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 573 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 573 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 574 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 575 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 576 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
