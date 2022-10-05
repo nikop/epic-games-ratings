@@ -112,15 +112,15 @@
 | 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 113 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
-| 114 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 115 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 116 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 117 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 119 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 120 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 114 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
+| 115 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 116 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 117 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 118 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 121 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 123 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
 | 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
@@ -233,17 +233,17 @@
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 233 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 235 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 236 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 237 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 238 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 240 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 241 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 242 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 243 | [RiME](games/r/rime.md) | 4.65 | 
-| 244 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 234 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 235 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 236 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 238 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 239 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 240 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 241 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 242 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
+| 243 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 244 | [RiME](games/r/rime.md) | 4.65 | 
 | 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 246 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
 | 247 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
@@ -675,11 +675,11 @@
 | 673 | [Pine](games/p/pine.md) | 4.13 | 
 | 674 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 675 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
-| 676 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 677 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 678 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 679 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 680 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
+| 676 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 677 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 678 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 679 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
+| 680 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
 | 681 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 682 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 683 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 

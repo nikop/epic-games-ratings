@@ -115,7 +115,7 @@
 | 113 | [Control](games/c/control.md) | 4.60 | 
 | 114 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 115 | [Core](games/c/core.md) | 4.38 | 
-| 116 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 116 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 117 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 118 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 119 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
@@ -198,7 +198,7 @@
 | 196 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 197 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 198 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 199 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 199 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
 | 200 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 201 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 202 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -510,7 +510,7 @@
 | 508 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 510 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 511 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 511 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 512 | [SMITE](games/s/smite.md) | 4.46 | 
 | 513 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 514 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
