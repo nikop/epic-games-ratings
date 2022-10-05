@@ -151,24 +151,24 @@
 | 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 152 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.71 | 
-| 153 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 154 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 155 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 156 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 157 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 158 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
-| 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 160 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 161 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
-| 162 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
-| 163 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 164 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 165 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 166 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 167 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 168 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 169 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 152 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
+| 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.71 | 
+| 154 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 155 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 156 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 157 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 158 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 159 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.71 | 
+| 160 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 161 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 162 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
+| 163 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
+| 164 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 165 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 166 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 167 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 168 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 169 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 170 | [SOMA](games/s/soma.md) | 4.70 | 
 | 171 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
@@ -428,17 +428,17 @@
 | 426 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 427 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 428 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 429 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 430 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 431 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
-| 432 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 433 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 434 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 435 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 436 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 437 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 438 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 439 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 429 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 430 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 431 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 432 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 433 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 434 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 435 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 436 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 437 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 438 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 439 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 440 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
 | 441 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 442 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
@@ -650,12 +650,12 @@
 | 648 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 649 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 650 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 651 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 652 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
-| 653 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
-| 654 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
-| 655 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 656 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 651 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
+| 652 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
+| 653 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
+| 654 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 655 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 656 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 657 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 658 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 659 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 

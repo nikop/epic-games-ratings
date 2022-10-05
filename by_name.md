@@ -39,7 +39,7 @@
 | 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -227,7 +227,7 @@
 | 225 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 226 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 227 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 228 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 228 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 229 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 230 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
 | 231 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
@@ -683,7 +683,7 @@
 | 681 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 682 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 683 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 684 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 684 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 685 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
 | 686 | [Warface](games/w/warface.md) | 3.95 | 
 | 687 | [Warframe](games/w/warframe.md) | 4.63 | 
