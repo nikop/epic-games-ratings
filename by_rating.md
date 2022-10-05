@@ -321,25 +321,25 @@
 | 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 322 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 323 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 324 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 325 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 326 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 327 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 328 | [GRIME](games/g/grime.md) | 4.59 | 
-| 329 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 330 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 331 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 332 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
-| 333 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
-| 335 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 336 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 337 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 338 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 339 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 340 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
+| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 323 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 324 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 325 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 326 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 327 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 328 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 329 | [GRIME](games/g/grime.md) | 4.59 | 
+| 330 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 331 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 332 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 333 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
+| 334 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 335 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
+| 336 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 337 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 338 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 339 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 340 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 341 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 342 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 343 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
@@ -591,28 +591,28 @@
 | 589 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 590 | [Encased](games/e/encased.md) | 4.35 | 
 | 591 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 592 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.35 | 
-| 593 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 594 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 595 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 596 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 597 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 598 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 599 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 600 | [ELEX](games/e/elex.md) | 4.34 | 
-| 601 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 602 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 603 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 604 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
-| 605 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 606 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 607 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 608 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 609 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 610 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 611 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
-| 612 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 613 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 592 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 593 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 594 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 595 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 596 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 597 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 598 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 599 | [ELEX](games/e/elex.md) | 4.34 | 
+| 600 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 601 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 602 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 603 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
+| 604 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 605 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 606 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 607 | [Tacoma](games/t/tacoma.md) | 4.32 | 
+| 608 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 609 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 610 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
+| 611 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 612 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 613 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
 | 614 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 615 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 616 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 

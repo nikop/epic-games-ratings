@@ -78,7 +78,7 @@
 | 76 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.35 | 
+| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 81 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -290,7 +290,7 @@
 | 288 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 289 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 290 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 291 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.58 | 
+| 291 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
 | 292 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 293 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 294 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
