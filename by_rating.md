@@ -494,17 +494,17 @@
 | 492 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 493 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 494 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 495 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 496 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 497 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 498 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 499 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 500 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 501 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 502 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 503 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 504 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
-| 505 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 495 | [Torchlight](games/t/torchlight.md) | 4.45 | 
+| 496 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 497 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 498 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 499 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 500 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 501 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 502 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 503 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 504 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 505 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
 | 506 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 508 | [Figment](games/f/figment.md) | 4.43 | 
@@ -692,9 +692,9 @@
 | 690 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 691 | [Lake](games/l/lake.md) | 4.08 | 
 | 692 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 693 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 694 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 695 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
+| 694 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 695 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 696 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
 | 697 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
 | 698 | [The World Next Door](games/t/the_world_next_door.md) | 4.05 | 

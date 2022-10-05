@@ -641,7 +641,7 @@
 | 639 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 640 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 641 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 642 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 642 | [Torchlight](games/t/torchlight.md) | 4.45 | 
 | 643 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 644 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 645 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
@@ -656,7 +656,7 @@
 | 654 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 655 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 656 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 658 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 659 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 660 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
