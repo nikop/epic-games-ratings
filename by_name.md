@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
+| 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 47 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 48 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -134,7 +134,7 @@
 | 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 133 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 134 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 135 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 135 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
 | 136 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 137 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 138 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -161,7 +161,7 @@
 | 159 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 160 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 161 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 162 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 162 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 163 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 164 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 165 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -218,7 +218,7 @@
 | 216 | [Figment](games/f/figment.md) | 4.43 | 
 | 217 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 218 | [Firework](games/f/firework.md) | 4.85 | 
-| 219 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
+| 219 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
 | 220 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 221 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 222 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -265,7 +265,7 @@
 | 263 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 264 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 265 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 266 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 266 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 267 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 268 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 269 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -691,7 +691,7 @@
 | 689 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 690 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 691 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 692 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 692 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 693 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 694 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 695 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
