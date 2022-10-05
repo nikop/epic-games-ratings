@@ -554,14 +554,14 @@
 | 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
 | 553 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 554 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 557 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
-| 558 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 559 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 560 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 561 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 562 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 555 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 558 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
+| 559 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 560 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 561 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 562 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 563 | [Core](games/c/core.md) | 4.38 | 
 | 564 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 565 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
