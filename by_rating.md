@@ -58,10 +58,10 @@
 | 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 59 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 62 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 61 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 62 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 63 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 65 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
@@ -371,24 +371,24 @@
 | 369 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 371 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 372 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 374 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 375 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
-| 376 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 377 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 378 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 379 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 380 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 381 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
-| 383 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 384 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
-| 386 | [Hue](games/h/hue.md) | 4.55 | 
-| 387 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 388 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 389 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 373 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 375 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 376 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
+| 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 378 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 379 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 380 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 381 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 382 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 383 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
+| 384 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 385 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 386 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
+| 387 | [Hue](games/h/hue.md) | 4.55 | 
+| 388 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 389 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 390 | [Minit](games/m/minit.md) | 4.55 | 
 | 391 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 392 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 

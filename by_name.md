@@ -300,7 +300,7 @@
 | 298 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 299 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 300 | [Journey](games/j/journey.md) | 4.76 | 
-| 301 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 301 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 302 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 303 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 304 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -508,7 +508,7 @@
 | 506 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 507 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 508 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 510 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 511 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 512 | [SMITE](games/s/smite.md) | 4.46 | 
