@@ -586,7 +586,7 @@
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
-| 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.67 | 
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 590 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
