@@ -641,12 +641,12 @@
 | 639 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
 | 640 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 641 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
-| 642 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 643 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 644 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
-| 645 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 646 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
+| 642 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 643 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 644 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 645 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
+| 646 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 647 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 648 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 649 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 650 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
@@ -680,17 +680,17 @@
 | 678 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 679 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 680 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 681 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
-| 682 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 683 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 684 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 685 | [Gone Home](games/g/gone_home.md) | 4.10 | 
-| 686 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 687 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 688 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 689 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 690 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 691 | [Lake](games/l/lake.md) | 4.08 | 
+| 681 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 682 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 683 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 684 | [Gone Home](games/g/gone_home.md) | 4.10 | 
+| 685 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 686 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 687 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 688 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 689 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 690 | [Lake](games/l/lake.md) | 4.08 | 
+| 691 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 692 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 694 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 

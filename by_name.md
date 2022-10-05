@@ -611,7 +611,7 @@
 | 609 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 610 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 611 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 612 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
+| 612 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 613 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 614 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 615 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
@@ -695,7 +695,7 @@
 | 693 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 694 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 695 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 696 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
+| 696 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 697 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 698 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 699 | [Weird West](games/w/weird_west.md) | 4.40 | 
