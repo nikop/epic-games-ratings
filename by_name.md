@@ -434,7 +434,7 @@
 | 432 | [Pine](games/p/pine.md) | 4.13 | 
 | 433 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 434 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
-| 435 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 435 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 436 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 437 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 438 | [Prey](games/p/prey.md) | 4.61 | 
@@ -458,7 +458,7 @@
 | 456 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 457 | [Revita](games/r/revita.md) | 4.74 | 
 | 458 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 459 | [RiME](games/r/rime.md) | 4.64 | 
+| 459 | [RiME](games/r/rime.md) | 4.65 | 
 | 460 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 461 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 462 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
@@ -582,10 +582,10 @@
 | 580 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 581 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 582 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 583 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 583 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.40 | 
+| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.41 | 
 | 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 

@@ -225,37 +225,37 @@
 | 223 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 224 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 226 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
-| 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 228 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 232 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 233 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 235 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 236 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 237 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 238 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 240 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 226 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 227 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
+| 228 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 229 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 233 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 234 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 235 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 236 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 238 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 239 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 240 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 241 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 242 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 243 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 244 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 245 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
-| 246 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 247 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 248 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 249 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 250 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 251 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 252 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 253 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 255 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
-| 256 | [RiME](games/r/rime.md) | 4.64 | 
+| 244 | [RiME](games/r/rime.md) | 4.65 | 
+| 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 246 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
+| 247 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 248 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 249 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 250 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 251 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 252 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 254 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 256 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
 | 257 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 258 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 259 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
@@ -541,13 +541,13 @@
 | 539 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
 | 540 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 541 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 543 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 544 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 545 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 546 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 547 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 548 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.40 | 
+| 542 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.41 | 
+| 543 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 544 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 545 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 546 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 547 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
@@ -720,7 +720,7 @@
 | 718 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 719 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 720 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 721 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 722 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 721 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 722 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 723 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 724 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
