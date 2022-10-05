@@ -189,7 +189,7 @@
 | 187 | [Encased](games/e/encased.md) | 4.35 | 
 | 188 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 189 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 190 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 190 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 191 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 192 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 193 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
@@ -239,7 +239,7 @@
 | 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 238 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.36 | 
+| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.35 | 
 | 241 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 242 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -349,7 +349,7 @@
 | 347 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 348 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 349 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 350 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 350 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
 | 351 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 352 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 353 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -508,7 +508,7 @@
 | 506 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 507 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 508 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 510 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 511 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 512 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -585,7 +585,7 @@
 | 583 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.41 | 
+| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.40 | 
 | 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.67 | 
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -675,7 +675,7 @@
 | 673 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 674 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 675 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 676 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 676 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 677 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
 | 678 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 679 | [VALORANT](games/v/valorant.md) | 4.55 | 
