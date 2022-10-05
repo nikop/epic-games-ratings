@@ -363,13 +363,13 @@
 | 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 362 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 363 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 365 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 366 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 367 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 368 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 369 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 370 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 364 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 365 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 366 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 367 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 368 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 369 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 372 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 373 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
@@ -401,23 +401,23 @@
 | 399 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 400 | [Outward](games/o/outward.md) | 4.53 | 
 | 401 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 402 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 403 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 404 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 405 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 406 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 407 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 409 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 410 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 412 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 413 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 414 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 415 | [MythForce](games/m/mythforce.md) | 4.52 | 
-| 416 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 417 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 418 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 402 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 403 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 404 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 405 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 406 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 407 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 411 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 413 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 414 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 415 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 416 | [MythForce](games/m/mythforce.md) | 4.52 | 
+| 417 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 418 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 420 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 421 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
@@ -684,10 +684,10 @@
 | 682 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 683 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 684 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 685 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 686 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 687 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 688 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 685 | [Gone Home](games/g/gone_home.md) | 4.10 | 
+| 686 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 687 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 688 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 689 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 690 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 691 | [Lake](games/l/lake.md) | 4.08 | 

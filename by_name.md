@@ -18,7 +18,7 @@
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -245,7 +245,7 @@
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 244 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 245 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 246 | [Gone Home](games/g/gone_home.md) | 4.09 | 
+| 246 | [Gone Home](games/g/gone_home.md) | 4.10 | 
 | 247 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 248 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 249 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -654,7 +654,7 @@
 | 652 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 653 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 654 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 655 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 655 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 656 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 658 | [Transistor](games/t/transistor.md) | 4.62 | 
