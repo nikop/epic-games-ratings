@@ -210,7 +210,7 @@
 | 208 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 213 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 214 | [Fez](games/f/fez.md) | 4.73 | 
@@ -236,7 +236,7 @@
 | 234 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 235 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
 | 236 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 238 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
 | 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.35 | 
@@ -585,7 +585,7 @@
 | 583 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
+| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.40 | 
 | 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.67 | 
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -646,7 +646,7 @@
 | 644 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 645 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
 | 646 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 647 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 647 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 648 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 649 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 650 | [Townscaper](games/t/townscaper.md) | 4.71 | 

@@ -88,12 +88,12 @@
 | 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 88 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
-| 89 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 91 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 92 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 93 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 89 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 90 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 91 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 92 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 93 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
+| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 97 | [Haven](games/h/haven.md) | 4.77 | 
@@ -119,35 +119,35 @@
 | 117 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 118 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 120 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
-| 121 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 124 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
-| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 127 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 123 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
+| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 125 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 126 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 135 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 136 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 137 | [Fez](games/f/fez.md) | 4.73 | 
 | 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 142 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 144 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 145 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 146 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
-| 147 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 148 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 141 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 142 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 143 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 145 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 146 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 147 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 148 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 150 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
@@ -547,16 +547,16 @@
 | 545 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 546 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 547 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 548 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 549 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 551 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 552 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 553 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 556 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 557 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
+| 548 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.40 | 
+| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 557 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 558 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 559 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 560 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
