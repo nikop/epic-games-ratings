@@ -198,21 +198,21 @@
 | 196 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 197 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 198 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 199 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
-| 200 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
-| 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 202 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 203 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 208 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 209 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 210 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 212 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 213 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 199 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
+| 200 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 201 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 202 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 203 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 205 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 206 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 207 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 208 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 212 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 213 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 214 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 215 | [Mutazione](games/m/mutazione.md) | 4.67 | 
 | 216 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
@@ -311,21 +311,21 @@
 | 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 310 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 312 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
-| 313 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
-| 314 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
-| 315 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 316 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 322 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 323 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 324 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 325 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 326 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
+| 312 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
+| 313 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 314 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
+| 315 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
+| 316 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 317 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 323 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 324 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 325 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 326 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 327 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 328 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 329 | [GRIME](games/g/grime.md) | 4.59 | 
@@ -614,10 +614,10 @@
 | 612 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 613 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
 | 614 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 615 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
-| 616 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 617 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 618 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 615 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 616 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 617 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 618 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.30 | 
 | 619 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 620 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 621 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 

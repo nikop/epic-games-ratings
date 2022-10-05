@@ -78,7 +78,7 @@
 | 76 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
+| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.30 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 81 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -161,7 +161,7 @@
 | 159 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 160 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 161 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 162 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
+| 162 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 163 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 164 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 165 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -556,7 +556,7 @@
 | 554 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 555 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 556 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 557 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
+| 557 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 558 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
 | 559 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 560 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
