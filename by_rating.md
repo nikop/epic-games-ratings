@@ -199,20 +199,20 @@
 | 197 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
 | 198 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 199 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
-| 200 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 201 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 202 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 203 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 205 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 206 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 207 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 208 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 211 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 212 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.67 | 
+| 200 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
+| 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 202 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 203 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 206 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 207 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 208 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 209 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 210 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 212 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 213 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 214 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 215 | [Mutazione](games/m/mutazione.md) | 4.67 | 
 | 216 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
@@ -505,17 +505,17 @@
 | 503 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 504 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 505 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 506 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 508 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 510 | [Figment](games/f/figment.md) | 4.43 | 
-| 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 512 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 513 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 514 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 515 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 516 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
+| 506 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 507 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 509 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 510 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 511 | [Figment](games/f/figment.md) | 4.43 | 
+| 512 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 513 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 514 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 515 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 516 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 517 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 518 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 519 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 

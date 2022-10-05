@@ -229,7 +229,7 @@
 | 227 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 228 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 229 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
-| 230 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.43 | 
+| 230 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 231 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 232 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -586,7 +586,7 @@
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.40 | 
-| 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.67 | 
+| 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 590 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
