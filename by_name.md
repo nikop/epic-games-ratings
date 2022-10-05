@@ -210,7 +210,7 @@
 | 208 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 213 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 214 | [Fez](games/f/fez.md) | 4.73 | 
@@ -337,7 +337,7 @@
 | 335 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
 | 336 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 337 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 338 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
+| 338 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
 | 339 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 340 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
 | 341 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -428,7 +428,7 @@
 | 426 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 427 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 428 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 429 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 429 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 430 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 431 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 432 | [Pine](games/p/pine.md) | 4.13 | 
@@ -631,7 +631,7 @@
 | 629 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 630 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 631 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 632 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 632 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 633 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 634 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 635 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
