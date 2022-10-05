@@ -19,16 +19,16 @@
 | 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 19 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 20 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 27 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
-| 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 29 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 20 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 26 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
+| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 29 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
@@ -58,10 +58,10 @@
 | 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 61 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 62 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 59 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 63 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 65 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 

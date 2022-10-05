@@ -75,7 +75,7 @@
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 74 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 76 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 76 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
 | 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
@@ -508,7 +508,7 @@
 | 506 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 507 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 508 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 509 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 510 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 511 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.74 | 
 | 512 | [SMITE](games/s/smite.md) | 4.46 | 
