@@ -467,13 +467,13 @@
 | 465 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
-| 468 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 469 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 470 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 471 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 473 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 468 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 469 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 470 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 471 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 472 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 473 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 474 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 476 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 477 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
@@ -533,17 +533,17 @@
 | 531 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 532 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 534 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 535 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 536 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 537 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
-| 538 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 539 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
-| 540 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 542 | [Runbow](games/r/runbow.md) | 4.41 | 
-| 543 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 544 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 534 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 535 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 536 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 537 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 538 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
+| 539 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 540 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
+| 541 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 543 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 544 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 545 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 546 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 

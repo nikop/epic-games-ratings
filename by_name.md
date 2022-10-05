@@ -359,13 +359,13 @@
 | 357 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 358 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 359 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 360 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 360 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 361 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
 | 362 | [Minit](games/m/minit.md) | 4.55 | 
 | 363 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 364 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 365 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 366 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 366 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 367 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 368 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 369 | [Moving Out](games/m/moving_out.md) | 4.58 | 
