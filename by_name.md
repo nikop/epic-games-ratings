@@ -76,7 +76,7 @@
 | 74 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 76 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.43 | 
+| 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
 | 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
@@ -442,7 +442,7 @@
 | 440 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 441 | [Quake](games/q/quake.md) | 4.80 | 
 | 442 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 443 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
+| 443 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 444 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 445 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 446 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -610,7 +610,7 @@
 | 608 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 609 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 610 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
-| 611 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 611 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 612 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 613 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 614 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -654,7 +654,7 @@
 | 652 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 653 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 654 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 655 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 655 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 656 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 658 | [Transistor](games/t/transistor.md) | 4.62 | 
