@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
@@ -26,7 +26,7 @@
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
+| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
@@ -185,7 +185,7 @@
 | 183 | [ELEX](games/e/elex.md) | 4.34 | 
 | 184 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 185 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 186 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 186 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 187 | [Encased](games/e/encased.md) | 4.35 | 
 | 188 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 189 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -282,7 +282,7 @@
 | 280 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 281 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 282 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 283 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 
+| 283 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
 | 284 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 285 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 286 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
