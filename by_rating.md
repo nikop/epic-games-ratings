@@ -60,19 +60,19 @@
 | 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
 | 59 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
-| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 63 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 64 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
-| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
-| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 63 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 65 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 71 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 73 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
 | 74 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 75 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 76 | [Quake](games/q/quake.md) | 4.80 | 
@@ -169,25 +169,25 @@
 | 167 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 168 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 169 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
-| 170 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 172 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 173 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
-| 174 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 175 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 176 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 177 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 181 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 182 | [Barony](games/b/barony.md) | 4.69 | 
-| 183 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 184 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 186 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 188 | [SOMA](games/s/soma.md) | 4.69 | 
+| 170 | [SOMA](games/s/soma.md) | 4.70 | 
+| 171 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 173 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 174 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.70 | 
+| 175 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 178 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 179 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 182 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 183 | [Barony](games/b/barony.md) | 4.69 | 
+| 184 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 185 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 187 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 188 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 191 | [CARRION](games/c/carrion.md) | 4.69 | 

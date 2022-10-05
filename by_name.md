@@ -515,7 +515,7 @@
 | 513 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 514 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 515 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 516 | [SOMA](games/s/soma.md) | 4.69 | 
+| 516 | [SOMA](games/s/soma.md) | 4.70 | 
 | 517 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 518 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
 | 519 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -644,7 +644,7 @@
 | 642 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 643 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 644 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 645 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.81 | 
+| 645 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
 | 646 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 647 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 648 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
