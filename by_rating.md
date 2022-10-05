@@ -233,17 +233,17 @@
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 233 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 234 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 235 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 236 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 238 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 239 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 240 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 241 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 242 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 243 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 244 | [RiME](games/r/rime.md) | 4.65 | 
+| 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 235 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 236 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 237 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 238 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 240 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 241 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
+| 242 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 243 | [RiME](games/r/rime.md) | 4.65 | 
+| 244 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 246 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
 | 247 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
@@ -562,16 +562,16 @@
 | 560 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 561 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 562 | [Core](games/c/core.md) | 4.38 | 
-| 563 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 564 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 565 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 566 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 567 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 568 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 569 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 570 | [Observation](games/o/observation.md) | 4.38 | 
-| 571 | [Runbow](games/r/runbow.md) | 4.38 | 
-| 572 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 563 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 564 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 565 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 566 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 567 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 568 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 569 | [Observation](games/o/observation.md) | 4.38 | 
+| 570 | [Runbow](games/r/runbow.md) | 4.38 | 
+| 571 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 572 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 573 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
 | 574 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 575 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 

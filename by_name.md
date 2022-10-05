@@ -115,14 +115,14 @@
 | 113 | [Control](games/c/control.md) | 4.60 | 
 | 114 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 115 | [Core](games/c/core.md) | 4.38 | 
-| 116 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 116 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 117 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 118 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 119 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 120 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 121 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 122 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 123 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 123 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 124 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 125 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 126 | [CryoFall](games/c/cryofall.md) | 4.40 | 
