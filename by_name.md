@@ -41,7 +41,7 @@
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
+| 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 
@@ -369,7 +369,7 @@
 | 367 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 368 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 369 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 370 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 370 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 371 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 372 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 373 | [Mutazione](games/m/mutazione.md) | 4.67 | 
@@ -547,7 +547,7 @@
 | 545 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 546 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 547 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
-| 548 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 548 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 549 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 550 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 551 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
@@ -570,7 +570,7 @@
 | 568 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 569 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 570 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 571 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
+| 571 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 572 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 573 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 574 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -637,7 +637,7 @@
 | 635 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 636 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
 | 637 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
-| 638 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 638 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 639 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 640 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 641 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
@@ -719,7 +719,7 @@
 | 717 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 718 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 719 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 720 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 720 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 721 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
 | 722 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 723 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
