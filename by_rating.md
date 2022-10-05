@@ -544,19 +544,19 @@
 | 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 543 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 544 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 545 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
-| 546 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 548 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 549 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 550 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 553 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 554 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 555 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 545 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 546 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 547 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 557 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 558 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
 | 559 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 560 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
@@ -617,15 +617,15 @@
 | 615 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 616 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 617 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 618 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 619 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 620 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 621 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 622 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
-| 623 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 624 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 625 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 626 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 618 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 619 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 620 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 621 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.29 | 
+| 622 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 623 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 624 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 625 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 626 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 627 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 628 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 629 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 

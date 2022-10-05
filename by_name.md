@@ -524,7 +524,7 @@
 | 522 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 523 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 524 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 525 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 525 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 526 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 527 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 528 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
@@ -548,7 +548,7 @@
 | 546 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 547 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
 | 548 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 549 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
+| 549 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 550 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 551 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 552 | [Subnautica](games/s/subnautica.md) | 4.83 | 
