@@ -178,7 +178,7 @@
 | 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 178 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 179 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 179 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 180 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 181 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 182 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -478,7 +478,7 @@
 | 476 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 477 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 478 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 479 | [Runbow](games/r/runbow.md) | 4.40 | 
+| 479 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 480 | [Sable](games/s/sable.md) | 4.50 | 
 | 481 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 482 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -491,7 +491,7 @@
 | 489 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 490 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 491 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 492 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 492 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 493 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 494 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 495 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
@@ -585,7 +585,7 @@
 | 583 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 584 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.38 | 
+| 586 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
 | 587 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -703,7 +703,7 @@
 | 701 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 702 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 703 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 704 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 704 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 705 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 706 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 707 | [Windbound](games/w/windbound.md) | 4.17 | 
