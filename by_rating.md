@@ -368,22 +368,22 @@
 | 366 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 367 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 368 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 369 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 372 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 373 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 375 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 376 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
-| 377 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
-| 378 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 379 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
-| 380 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 381 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 382 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 383 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
-| 384 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 369 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 371 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 372 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
+| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 374 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 375 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 
+| 376 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 377 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 378 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 379 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 380 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 381 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
+| 383 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 384 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 386 | [Hue](games/h/hue.md) | 4.55 | 
 | 387 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -547,16 +547,16 @@
 | 545 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.40 | 
 | 546 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 557 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 548 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 549 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 550 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 553 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 554 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 555 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 558 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
 | 559 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 560 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
@@ -669,7 +669,7 @@
 | 667 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 668 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
 | 669 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
-| 670 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 670 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 671 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 672 | [Pine](games/p/pine.md) | 4.13 | 
 | 673 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
@@ -692,8 +692,8 @@
 | 690 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 691 | [Lake](games/l/lake.md) | 4.08 | 
 | 692 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 693 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
-| 694 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 693 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 694 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 695 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 696 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
 | 697 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
@@ -707,16 +707,16 @@
 | 705 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
 | 706 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 707 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 708 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 709 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 708 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 709 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 710 | [Warface](games/w/warface.md) | 3.95 | 
 | 711 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 712 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 713 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 714 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 715 | [Patron](games/p/patron.md) | 3.90 | 
-| 716 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 717 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
+| 716 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
+| 717 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 718 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 719 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 720 | [Saints Row](games/s/saints_row.md) | 3.77 | 

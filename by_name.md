@@ -102,7 +102,7 @@
 | 100 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
 | 102 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 103 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
+| 103 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 104 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 105 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 106 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
@@ -243,7 +243,7 @@
 | 241 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 242 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 244 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
+| 244 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 245 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 246 | [Gone Home](games/g/gone_home.md) | 4.10 | 
 | 247 | [Good Company](games/g/good_company.md) | 4.46 | 
@@ -257,7 +257,7 @@
 | 255 | [Hades](games/h/hades.md) | 4.92 | 
 | 256 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 257 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 258 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 258 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 259 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 260 | [Haven](games/h/haven.md) | 4.77 | 
 | 261 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
@@ -430,7 +430,7 @@
 | 428 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 429 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 430 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 431 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 431 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 432 | [Pine](games/p/pine.md) | 4.13 | 
 | 433 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 434 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
@@ -597,7 +597,7 @@
 | 595 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 596 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
 | 597 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 598 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 598 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 599 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 600 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 601 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
@@ -699,7 +699,7 @@
 | 697 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
 | 698 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 699 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 700 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 700 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 701 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 702 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 703 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
