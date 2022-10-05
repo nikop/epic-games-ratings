@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 1 | [Runbow](games/r/runbow.md) | 4.38 | 
 | 2 | [RAILGRADE](games/r/railgrade.md) | 4.50 | 
 | 3 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 4 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 

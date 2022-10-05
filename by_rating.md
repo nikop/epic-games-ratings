@@ -542,35 +542,35 @@
 | 540 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
 | 541 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 543 | [Runbow](games/r/runbow.md) | 4.41 | 
-| 544 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 545 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 546 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 547 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 554 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 557 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 558 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
-| 559 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 560 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 561 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 562 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 563 | [Core](games/c/core.md) | 4.38 | 
-| 564 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 565 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 566 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 567 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 568 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 569 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 570 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 571 | [Observation](games/o/observation.md) | 4.38 | 
+| 543 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 544 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 545 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 546 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 547 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 548 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 549 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 551 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 552 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 553 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 556 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 557 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
+| 558 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 559 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 560 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 561 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 562 | [Core](games/c/core.md) | 4.38 | 
+| 563 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 564 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 565 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 566 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 567 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 568 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 569 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 570 | [Observation](games/o/observation.md) | 4.38 | 
+| 571 | [Runbow](games/r/runbow.md) | 4.38 | 
 | 572 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 574 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 

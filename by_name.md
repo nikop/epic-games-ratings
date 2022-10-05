@@ -478,7 +478,7 @@
 | 476 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 477 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 478 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 479 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 479 | [Runbow](games/r/runbow.md) | 4.38 | 
 | 480 | [Sable](games/s/sable.md) | 4.50 | 
 | 481 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 482 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
