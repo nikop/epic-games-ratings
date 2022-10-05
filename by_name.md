@@ -610,7 +610,7 @@
 | 608 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 609 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 610 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
-| 611 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 611 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 612 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 613 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 614 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 

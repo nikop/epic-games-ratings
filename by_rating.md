@@ -402,28 +402,28 @@
 | 400 | [Outward](games/o/outward.md) | 4.53 | 
 | 401 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 402 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 403 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 404 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 405 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 406 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 407 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 408 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 409 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 410 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 411 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 412 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 413 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 414 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 415 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 416 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 417 | [MythForce](games/m/mythforce.md) | 4.52 | 
-| 418 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
-| 419 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 420 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 421 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 422 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 423 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 424 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 403 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 404 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 405 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 406 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 407 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 408 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 410 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 411 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 412 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 413 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 414 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 415 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 416 | [MythForce](games/m/mythforce.md) | 4.52 | 
+| 417 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 418 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 420 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 421 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 422 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 423 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 424 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 425 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 426 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 427 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
