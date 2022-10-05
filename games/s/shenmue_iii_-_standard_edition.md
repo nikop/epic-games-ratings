@@ -1,5 +1,5 @@
 # Shenmue III - Standard Edition
-Rating: 4.12 (172)  (as of 23.09.2022)  
+Rating: 4.13 (172)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -50,3 +50,4 @@ Rating: 4.12 (172)  (as of 23.09.2022)
 | 2022-10-01 | 4.10 | - |
 | 2022-10-02 | 4.11 | - |
 | 2022-10-04 | 4.12 | - |
+| 2022-10-05 | 4.13 | - |

@@ -452,21 +452,21 @@
 | 450 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 451 | [Horace](games/h/horace.md) | 4.50 | 
 | 452 | [Sable](games/s/sable.md) | 4.50 | 
-| 453 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 456 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 457 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 458 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 459 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 460 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 461 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 462 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 463 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 464 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 465 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 454 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 457 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 458 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 459 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 460 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 461 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 462 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 463 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 464 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 465 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 466 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 467 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 468 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 469 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 470 | [Death Coming](games/d/death_coming.md) | 4.48 | 
@@ -673,12 +673,12 @@
 | 671 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 672 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 673 | [Pine](games/p/pine.md) | 4.13 | 
-| 674 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
-| 675 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 676 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 677 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 678 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 679 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 674 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 675 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
+| 676 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 677 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 678 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 679 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 680 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 681 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 682 | [Relicta](games/r/relicta.md) | 4.10 | 

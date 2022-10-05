@@ -330,7 +330,7 @@
 | 328 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 329 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 330 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 331 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
+| 331 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
 | 332 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 333 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 334 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
@@ -499,7 +499,7 @@
 | 497 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 498 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 499 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 500 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 500 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 501 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 502 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 503 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
