@@ -19,7 +19,7 @@
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -127,7 +127,7 @@
 | 125 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 126 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 127 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 128 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
+| 128 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 129 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 130 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 131 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
@@ -239,7 +239,7 @@
 | 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 238 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.35 | 
+| 240 | [Gloomhaven](games/g/gloomhaven.md) | 4.36 | 
 | 241 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 242 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -369,7 +369,7 @@
 | 367 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 368 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 369 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 370 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 370 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 371 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 372 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 373 | [Mutazione](games/m/mutazione.md) | 4.67 | 
@@ -442,7 +442,7 @@
 | 440 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 441 | [Quake](games/q/quake.md) | 4.80 | 
 | 442 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 443 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 443 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 444 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 445 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 446 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -485,7 +485,7 @@
 | 483 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
 | 484 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 485 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 486 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 486 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 487 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 488 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 489 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 

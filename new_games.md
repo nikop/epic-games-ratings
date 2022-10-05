@@ -1,11 +1,11 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Runbow](games/r/runbow.md) | 4.38 | 
-| 2 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 2 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 3 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 4 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 5 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
-| 6 | [Gloomhaven](games/g/gloomhaven.md) | 4.35 | 
+| 6 | [Gloomhaven](games/g/gloomhaven.md) | 4.36 | 
 | 7 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 8 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.31 | 
 | 9 | [Isonzo](games/i/isonzo.md) | 4.51 | 
