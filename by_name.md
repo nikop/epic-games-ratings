@@ -175,7 +175,7 @@
 | 173 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 174 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 175 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 176 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 177 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 178 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 179 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
@@ -304,7 +304,7 @@
 | 302 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 303 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 304 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 305 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 305 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 306 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 307 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 308 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -329,7 +329,7 @@
 | 327 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 328 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 329 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
-| 330 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 330 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 331 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 
 | 332 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 333 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
