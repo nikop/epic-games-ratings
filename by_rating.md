@@ -40,11 +40,11 @@
 | 38 | [Firework](games/f/firework.md) | 4.85 | 
 | 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 41 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
-| 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
-| 45 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
+| 43 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 44 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
@@ -554,14 +554,14 @@
 | 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
 | 553 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 554 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 555 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 558 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
-| 559 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 560 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 561 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 562 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 557 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.39 | 
+| 558 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 559 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 560 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 561 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 562 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 563 | [Core](games/c/core.md) | 4.38 | 
 | 564 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 565 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 

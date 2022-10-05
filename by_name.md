@@ -88,7 +88,7 @@
 | 86 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 87 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 88 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 89 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 89 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 90 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 92 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.03 | 
@@ -305,7 +305,7 @@
 | 303 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 304 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 305 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 306 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 306 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 307 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 308 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 309 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
