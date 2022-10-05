@@ -71,7 +71,7 @@
 | 69 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 70 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 71 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 72 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 72 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 74 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -134,7 +134,7 @@
 | 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 133 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 134 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 135 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 135 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 136 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 137 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 138 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -595,7 +595,7 @@
 | 593 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
 | 594 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 595 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 596 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 596 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 597 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 598 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 599 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 

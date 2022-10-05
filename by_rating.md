@@ -280,24 +280,24 @@
 | 278 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.62 | 
 | 279 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 280 | [20XX](games/2/20xx.md) | 4.62 | 
-| 281 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 282 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 283 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 284 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 285 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
-| 286 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 287 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 288 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 289 | [Prey](games/p/prey.md) | 4.61 | 
-| 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 291 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 292 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 281 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 282 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 283 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 284 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
+| 285 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 286 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 287 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 288 | [Prey](games/p/prey.md) | 4.61 | 
+| 289 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 290 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 291 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 299 | [Control](games/c/control.md) | 4.60 | 
 | 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -450,28 +450,28 @@
 | 448 | [Paradigm](games/p/paradigm.md) | 4.50 | 
 | 449 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 450 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 451 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 452 | [Horace](games/h/horace.md) | 4.50 | 
-| 453 | [Sable](games/s/sable.md) | 4.50 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 455 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 458 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 459 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 460 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 462 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 463 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 464 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 465 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 466 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 467 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 468 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 469 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 470 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 471 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 472 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 451 | [Horace](games/h/horace.md) | 4.50 | 
+| 452 | [Sable](games/s/sable.md) | 4.50 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 454 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 457 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 458 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 459 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 460 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 461 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 462 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 463 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 464 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 465 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 466 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 467 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 468 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
+| 469 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 470 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 471 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 472 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 473 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 474 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
@@ -597,10 +597,10 @@
 | 595 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 596 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 597 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 598 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 599 | [ELEX](games/e/elex.md) | 4.34 | 
-| 600 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 601 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 598 | [ELEX](games/e/elex.md) | 4.34 | 
+| 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 600 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 601 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 602 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 603 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 604 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
