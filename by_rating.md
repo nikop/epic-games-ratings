@@ -470,12 +470,12 @@
 | 468 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 469 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 470 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 471 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 472 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 473 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 474 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 475 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 476 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
+| 471 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 472 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 473 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
+| 476 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 477 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 478 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
 | 479 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 

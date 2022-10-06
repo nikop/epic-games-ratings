@@ -148,7 +148,7 @@
 | 146 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 147 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 148 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 149 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 149 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 151 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 152 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
