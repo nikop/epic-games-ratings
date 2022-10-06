@@ -11,7 +11,7 @@
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
@@ -96,7 +96,7 @@
 | 94 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 95 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 96 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 97 | [CARRION](games/c/carrion.md) | 4.69 | 
+| 97 | [CARRION](games/c/carrion.md) | 4.70 | 
 | 98 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 99 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 100 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -252,7 +252,7 @@
 | 250 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 251 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 252 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 253 | [Griftlands](games/g/griftlands.md) | 4.82 | 
+| 253 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 254 | [GRIME](games/g/grime.md) | 4.60 | 
 | 255 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 256 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
@@ -300,7 +300,7 @@
 | 298 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 299 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 300 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 301 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 301 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 302 | [Journey](games/j/journey.md) | 4.76 | 
 | 303 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 304 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
@@ -437,7 +437,7 @@
 | 435 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 436 | [Pine](games/p/pine.md) | 4.13 | 
 | 437 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
-| 438 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
+| 438 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 439 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 440 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 441 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
@@ -702,7 +702,7 @@
 | 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 701 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 702 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.64 | 
-| 703 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 703 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 704 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 705 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 706 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
