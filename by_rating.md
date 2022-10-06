@@ -254,22 +254,22 @@
 | 252 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 253 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 255 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 257 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 258 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
-| 259 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 260 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 261 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 262 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 263 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 264 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 265 | [Old World](games/o/old_world.md) | 4.63 | 
-| 266 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 267 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 255 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 256 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 258 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 259 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
+| 260 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 261 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 262 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 263 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 264 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 265 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 266 | [Old World](games/o/old_world.md) | 4.63 | 
+| 267 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 268 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 271 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 272 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 273 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
@@ -689,14 +689,14 @@
 | 687 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 688 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 689 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 690 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 691 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 692 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 693 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 694 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 695 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 696 | [Lake](games/l/lake.md) | 4.08 | 
-| 697 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 690 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
+| 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 692 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 693 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 694 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 695 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 696 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 697 | [Lake](games/l/lake.md) | 4.08 | 
 | 698 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 700 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 

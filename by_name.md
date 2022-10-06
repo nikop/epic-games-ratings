@@ -131,7 +131,7 @@
 | 129 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 130 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 131 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 132 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 132 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 133 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 135 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
@@ -615,7 +615,7 @@
 | 613 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 614 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 615 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 616 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 616 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
 | 617 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 618 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 619 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
