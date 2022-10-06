@@ -40,12 +40,12 @@
 | 38 | [Firework](games/f/firework.md) | 4.85 | 
 | 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 41 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
-| 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
-| 45 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 46 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 41 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 42 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 43 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 44 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
+| 45 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 46 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 49 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
@@ -242,23 +242,23 @@
 | 240 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 241 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 242 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 243 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 244 | [RiME](games/r/rime.md) | 4.65 | 
-| 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 246 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
-| 247 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 248 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
-| 249 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 250 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 251 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 252 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 253 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 255 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 256 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 258 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 259 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
+| 243 | [RiME](games/r/rime.md) | 4.65 | 
+| 244 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 245 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
+| 246 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 247 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 248 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 249 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 250 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 251 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 252 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 254 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 255 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 257 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 258 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
+| 259 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 260 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 261 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 262 | [Warframe](games/w/warframe.md) | 4.63 | 
@@ -295,20 +295,20 @@
 | 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 296 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 301 | [Control](games/c/control.md) | 4.60 | 
-| 302 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 303 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 304 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 305 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 306 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 307 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 308 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 309 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 300 | [Control](games/c/control.md) | 4.60 | 
+| 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 302 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 303 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 304 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 307 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 308 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 310 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 311 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 312 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
