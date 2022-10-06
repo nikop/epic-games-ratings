@@ -36,10 +36,10 @@
 | 34 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 35 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
 | 36 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
@@ -308,11 +308,11 @@
 | 306 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 307 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 308 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 309 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 309 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 310 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 311 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
 | 312 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 313 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 313 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 314 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 315 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 316 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
@@ -482,7 +482,7 @@
 | 480 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 481 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 482 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 483 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 483 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 484 | [Sable](games/s/sable.md) | 4.51 | 
 | 485 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 486 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -639,7 +639,7 @@
 | 637 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 638 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 639 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 640 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
+| 640 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 
 | 641 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 642 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 643 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
