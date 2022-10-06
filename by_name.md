@@ -160,7 +160,7 @@
 | 158 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 159 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 160 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 161 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 161 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 162 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 163 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 164 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -298,7 +298,7 @@
 | 296 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 297 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 298 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 299 | [Isonzo](games/i/isonzo.md) | 4.51 | 
+| 299 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 300 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 301 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 302 | [Journey](games/j/journey.md) | 4.76 | 
@@ -461,7 +461,7 @@
 | 459 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 460 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 461 | [Revita](games/r/revita.md) | 4.74 | 
-| 462 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 462 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 463 | [RiME](games/r/rime.md) | 4.65 | 
 | 464 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 465 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -652,7 +652,7 @@
 | 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 654 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 655 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 656 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 

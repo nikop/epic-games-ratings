@@ -1,5 +1,5 @@
 # Totally Reliable Delivery Service Standard Edition
-Rating: 4.51 (112)  (as of 23.09.2022)  
+Rating: 4.49 (112)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -43,3 +43,4 @@ Rating: 4.51 (112)  (as of 23.09.2022)
 | 2022-10-02 | 4.51 | - |
 | 2022-10-03 | 4.52 | - |
 | 2022-10-04 | 4.51 | - |
+| 2022-10-06 | 4.49 | - |
