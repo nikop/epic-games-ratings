@@ -1,10 +1,10 @@
 {
   "ID": "a646020cb93b4ea995cda70647bbe001",
   "Name": "Steep Standard Edition",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 414,
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2022-09-30T19:31:36.4954205+00:00",
+  "LastChanged": "2022-10-06T21:31:37.3700372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:40.9407936+00:00",
@@ -384,6 +384,11 @@
     {
       "Time": "2022-09-30T19:31:36.4954207+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-06T21:31:37.3700375+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

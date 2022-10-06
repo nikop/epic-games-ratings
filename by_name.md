@@ -79,7 +79,7 @@
 | 77 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 78 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
 | 79 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 80 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.25 | 
+| 80 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 81 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 82 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 83 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -438,7 +438,7 @@
 | 436 | [Pine](games/p/pine.md) | 4.13 | 
 | 437 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 438 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
-| 439 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 439 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 440 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 441 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 442 | [Prey](games/p/prey.md) | 4.61 | 
@@ -545,7 +545,7 @@
 | 543 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 544 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 545 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 546 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 546 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 547 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 548 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 549 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
@@ -669,7 +669,7 @@
 | 667 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 668 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 669 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
-| 670 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
+| 670 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 671 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 672 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 673 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 

@@ -271,16 +271,16 @@
 | 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 270 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 274 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
-| 275 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 276 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 277 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 278 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 279 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 272 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 273 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 275 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 276 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 277 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 278 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 279 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [20XX](games/2/20xx.md) | 4.62 | 
 | 283 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 284 | [Transistor](games/t/transistor.md) | 4.62 | 
@@ -479,17 +479,17 @@
 | 477 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 478 | [SMITE](games/s/smite.md) | 4.46 | 
 | 479 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 480 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
-| 481 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 482 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
-| 483 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 484 | [Good Company](games/g/good_company.md) | 4.46 | 
-| 485 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
-| 486 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 487 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 488 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 489 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 490 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 480 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 481 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
+| 482 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 483 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 484 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
+| 485 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 486 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 487 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 488 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 489 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 490 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 491 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 492 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 493 | [Pathway](games/p/pathway.md) | 4.45 | 
@@ -641,8 +641,8 @@
 | 639 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 640 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 641 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 642 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.25 | 
-| 643 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 642 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 643 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 644 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
 | 645 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 646 | [The Fall](games/t/the_fall.md) | 4.23 | 
@@ -724,7 +724,7 @@
 | 722 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 723 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 724 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 725 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 726 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 727 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
+| 725 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 726 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
+| 727 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 728 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
