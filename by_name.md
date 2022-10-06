@@ -159,7 +159,7 @@
 | 157 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 158 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 159 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 160 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 160 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 161 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 162 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 163 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -208,7 +208,7 @@
 | 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 207 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 208 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
+| 209 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 210 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 211 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 212 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -245,7 +245,7 @@
 | 243 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 244 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 245 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 246 | [Gone Home](games/g/gone_home.md) | 4.10 | 
+| 246 | [Gone Home](games/g/gone_home.md) | 4.12 | 
 | 247 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 248 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 249 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 

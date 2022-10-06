@@ -439,27 +439,27 @@
 | 437 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 438 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 439 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 440 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 441 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 442 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 443 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 444 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 445 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
-| 446 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 447 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 448 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 450 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 452 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 453 | [Sable](games/s/sable.md) | 4.50 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 455 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 458 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 459 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 460 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 440 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 441 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 442 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 443 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 444 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 445 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 446 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
+| 447 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 448 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 451 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 452 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 453 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 454 | [Sable](games/s/sable.md) | 4.50 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 456 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 459 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 462 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 463 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -681,11 +681,11 @@
 | 679 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 680 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 681 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
-| 682 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 683 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 684 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 685 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 686 | [Gone Home](games/g/gone_home.md) | 4.10 | 
+| 682 | [Gone Home](games/g/gone_home.md) | 4.12 | 
+| 683 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 684 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 685 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 686 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 687 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
 | 688 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 689 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
@@ -706,7 +706,7 @@
 | 704 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 705 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 706 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
-| 707 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.02 | 
+| 707 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 708 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 709 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
 | 710 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
