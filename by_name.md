@@ -79,7 +79,7 @@
 | 77 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 78 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
 | 79 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 80 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
+| 80 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.25 | 
 | 81 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 82 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 83 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -118,7 +118,7 @@
 | 116 | [Core](games/c/core.md) | 4.38 | 
 | 117 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 118 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 119 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 119 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 121 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 122 | [Crayta](games/c/crayta.md) | 4.20 | 
@@ -150,7 +150,7 @@
 | 148 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 149 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 150 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 152 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 153 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 154 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -362,7 +362,7 @@
 | 360 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 361 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 362 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
-| 363 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
+| 363 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
 | 364 | [Minit](games/m/minit.md) | 4.55 | 
 | 365 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 366 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -461,7 +461,7 @@
 | 459 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 460 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 461 | [Revita](games/r/revita.md) | 4.74 | 
-| 462 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 462 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 463 | [RiME](games/r/rime.md) | 4.65 | 
 | 464 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 465 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -720,7 +720,7 @@
 | 718 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 719 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 
 | 720 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 721 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 721 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.60 | 
 | 722 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 723 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 724 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
