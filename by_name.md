@@ -71,7 +71,7 @@
 | 69 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 70 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 71 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 72 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 72 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 73 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 74 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 75 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
@@ -132,7 +132,7 @@
 | 130 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 131 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 132 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 133 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
+| 133 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 135 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 136 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
@@ -378,7 +378,7 @@
 | 376 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 377 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 378 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 379 | [MythForce](games/m/mythforce.md) | 4.52 | 
+| 379 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 380 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 381 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 382 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
@@ -423,7 +423,7 @@
 | 421 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 422 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 423 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
-| 424 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 424 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 425 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 426 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 427 | [Pathway](games/p/pathway.md) | 4.45 | 
@@ -701,7 +701,7 @@
 | 699 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 701 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 702 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.67 | 
+| 702 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.64 | 
 | 703 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 704 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 705 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
