@@ -57,10 +57,10 @@
 | 55 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
-| 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 61 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 58 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 62 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 63 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 64 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
@@ -232,18 +232,18 @@
 | 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 232 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 233 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 234 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 235 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 236 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 237 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 238 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 240 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 241 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 242 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 243 | [RiME](games/r/rime.md) | 4.65 | 
-| 244 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 233 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 235 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 236 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 237 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 238 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 240 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 241 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 242 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
+| 243 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 244 | [RiME](games/r/rime.md) | 4.65 | 
 | 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 246 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
 | 247 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
@@ -694,16 +694,16 @@
 | 692 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 693 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 694 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 695 | [Lake](games/l/lake.md) | 4.08 | 
-| 696 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
-| 697 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 698 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 699 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
-| 700 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 701 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 702 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
-| 703 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
-| 704 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
+| 695 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 696 | [Lake](games/l/lake.md) | 4.08 | 
+| 697 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 698 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 700 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
+| 701 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 702 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
+| 703 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
+| 704 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
 | 705 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 706 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 707 | [Conarium](games/c/conarium.md) | 4.04 | 

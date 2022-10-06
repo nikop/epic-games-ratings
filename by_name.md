@@ -116,7 +116,7 @@
 | 114 | [Control](games/c/control.md) | 4.60 | 
 | 115 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 116 | [Core](games/c/core.md) | 4.38 | 
-| 117 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 117 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 118 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 119 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
@@ -175,7 +175,7 @@
 | 173 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 174 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 175 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 176 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 176 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 179 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
@@ -251,7 +251,7 @@
 | 249 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 250 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.23 | 
 | 251 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 252 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
+| 252 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 253 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 254 | [GRIME](games/g/grime.md) | 4.59 | 
 | 255 | [Grindstone](games/g/grindstone.md) | 4.85 | 
