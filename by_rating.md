@@ -572,12 +572,12 @@
 | 570 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 571 | [Observation](games/o/observation.md) | 4.38 | 
 | 572 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 573 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 574 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
-| 575 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 576 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 577 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 578 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 574 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 575 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
+| 576 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 577 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 578 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 579 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 580 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 581 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
@@ -666,8 +666,8 @@
 | 664 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 665 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 666 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 667 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 668 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.17 | 
+| 667 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
+| 668 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 669 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 670 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 671 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 

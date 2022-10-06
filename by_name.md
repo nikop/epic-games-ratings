@@ -532,14 +532,14 @@
 | 530 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 531 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 532 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 533 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 533 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
 | 534 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 535 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 536 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
 | 537 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 538 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 539 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 540 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.17 | 
+| 540 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 541 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 542 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 543 | [Steelrising](games/s/steelrising.md) | 4.25 | 
