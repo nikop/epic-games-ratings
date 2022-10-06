@@ -96,15 +96,15 @@
 | 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 102 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 105 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 97 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 99 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 100 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 101 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
+| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 104 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 105 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 106 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 107 | [Journey](games/j/journey.md) | 4.76 | 
 | 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
@@ -504,11 +504,11 @@
 | 502 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
 | 503 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 504 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 506 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 507 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 508 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 509 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 505 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 506 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 507 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 508 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 509 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 510 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 511 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 512 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 

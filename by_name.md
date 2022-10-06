@@ -82,7 +82,7 @@
 | 80 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
 | 81 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 82 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 83 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 83 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 84 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 85 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 86 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -585,7 +585,7 @@
 | 583 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 584 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 586 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 587 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 588 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 589 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
