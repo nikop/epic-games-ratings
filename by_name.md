@@ -557,7 +557,7 @@
 | 555 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 556 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 557 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 558 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 558 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 559 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 560 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 561 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
@@ -649,7 +649,7 @@
 | 647 | [Torchlight](games/t/torchlight.md) | 4.45 | 
 | 648 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 649 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
+| 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 

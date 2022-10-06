@@ -71,18 +71,18 @@
 | 69 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 70 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 71 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
-| 73 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 74 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
-| 75 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 76 | [Quake](games/q/quake.md) | 4.80 | 
-| 77 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 78 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
-| 79 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 80 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
-| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 83 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 72 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 73 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
+| 74 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 75 | [Quake](games/q/quake.md) | 4.80 | 
+| 76 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 77 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
+| 78 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 79 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
+| 80 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 81 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 82 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 83 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 85 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 86 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
@@ -172,32 +172,32 @@
 | 170 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 171 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 173 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 174 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 175 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 176 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 177 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 181 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 182 | [Barony](games/b/barony.md) | 4.69 | 
-| 183 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 184 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 186 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 188 | [SOMA](games/s/soma.md) | 4.69 | 
-| 189 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 191 | [CARRION](games/c/carrion.md) | 4.69 | 
-| 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 193 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 195 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 196 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 197 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
-| 198 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 173 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 174 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 175 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 176 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 177 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 178 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 179 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 180 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 181 | [Barony](games/b/barony.md) | 4.69 | 
+| 182 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 183 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 184 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 185 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 186 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 187 | [SOMA](games/s/soma.md) | 4.69 | 
+| 188 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 189 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 190 | [CARRION](games/c/carrion.md) | 4.69 | 
+| 191 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 192 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 194 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 196 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 197 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 198 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 199 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 200 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 201 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
