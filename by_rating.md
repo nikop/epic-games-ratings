@@ -32,13 +32,13 @@
 | 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 35 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 36 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 37 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 38 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 39 | [Firework](games/f/firework.md) | 4.85 | 
+| 33 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 38 | [Firework](games/f/firework.md) | 4.85 | 
+| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 41 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -87,14 +87,14 @@
 | 85 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 86 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 87 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
-| 88 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 89 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 91 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 92 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 93 | [Haven](games/h/haven.md) | 4.78 | 
-| 94 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
-| 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 91 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
+| 92 | [Haven](games/h/haven.md) | 4.78 | 
+| 93 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
+| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
@@ -137,18 +137,18 @@
 | 135 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 136 | [Fez](games/f/fez.md) | 4.73 | 
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 143 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 144 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 146 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 147 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 148 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
-| 149 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 138 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
+| 139 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
+| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 141 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 142 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 143 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 144 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 145 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 146 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 147 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 148 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 149 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
 | 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 152 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
@@ -538,15 +538,15 @@
 | 536 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 537 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 538 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 539 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
-| 540 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 541 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 542 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.41 | 
-| 543 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
-| 544 | [Runbow](games/r/runbow.md) | 4.41 | 
-| 545 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 546 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 547 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 539 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 540 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 541 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.41 | 
+| 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 543 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 544 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 545 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 546 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 547 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
 | 548 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 549 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 550 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 

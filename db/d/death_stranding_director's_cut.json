@@ -1,10 +1,10 @@
 {
   "ID": "0a9e3c5ab6684506bd624a849ca0cf39",
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 3099,
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2022-10-06T06:32:34.3149789+00:00",
+  "LastChanged": "2022-10-06T11:32:13.4167184+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -1984,6 +1984,11 @@
     {
       "Time": "2022-10-06T06:32:34.3149792+00:00",
       "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-06T11:32:13.4167186+00:00",
+      "Rating": 4.84,
       "NumberOfRatings": null
     }
   ],

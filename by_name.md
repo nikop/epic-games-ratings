@@ -150,7 +150,7 @@
 | 148 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 149 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 150 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 152 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 153 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 154 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -341,7 +341,7 @@
 | 339 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 340 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
 | 341 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 342 | [Little Inferno](games/l/little_inferno.md) | 4.41 | 
+| 342 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
 | 343 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 344 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 345 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
@@ -651,7 +651,7 @@
 | 649 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.80 | 
 | 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 654 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 655 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -715,7 +715,7 @@
 | 713 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 714 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 715 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 716 | [World of Goo](games/w/world_of_goo.md) | 4.72 | 
+| 716 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 717 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 718 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 719 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
