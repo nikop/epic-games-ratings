@@ -425,17 +425,17 @@
 | 423 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 424 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 425 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 426 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 427 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 428 | [Horace](games/h/horace.md) | 4.52 | 
-| 429 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 430 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 431 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 432 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 433 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 434 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 435 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
-| 436 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 426 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 427 | [Horace](games/h/horace.md) | 4.52 | 
+| 428 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 429 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 430 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 431 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 432 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 433 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 434 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 435 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 436 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 437 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 438 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 439 | [Sable](games/s/sable.md) | 4.51 | 
@@ -506,16 +506,16 @@
 | 504 | [GigaBash](games/g/gigabash.md) | 4.45 | 
 | 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 506 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 507 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 508 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 509 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 510 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 511 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 512 | [Figment](games/f/figment.md) | 4.43 | 
-| 513 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 514 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 515 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 516 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 507 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 508 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 509 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 510 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 511 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 512 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 513 | [Figment](games/f/figment.md) | 4.43 | 
+| 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 515 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 516 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 517 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 518 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 519 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 

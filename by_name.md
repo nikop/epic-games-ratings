@@ -199,7 +199,7 @@
 | 197 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 198 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 199 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 200 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 200 | [Far Cry](games/f/far_cry.md) | 4.44 | 
 | 201 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
 | 202 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 203 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -265,7 +265,7 @@
 | 263 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 264 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 265 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 266 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 266 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 267 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 268 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 269 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
