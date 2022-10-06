@@ -176,7 +176,7 @@
 | 174 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 175 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 176 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
+| 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 179 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 180 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
@@ -298,7 +298,7 @@
 | 296 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 297 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 298 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 299 | [Isonzo](games/i/isonzo.md) | 4.51 | 
+| 299 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 300 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 301 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 302 | [Journey](games/j/journey.md) | 4.76 | 
@@ -512,7 +512,7 @@
 | 510 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 511 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 512 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 513 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 513 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 514 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 515 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 516 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -661,7 +661,7 @@
 | 659 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 660 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 661 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 662 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
+| 662 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 663 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 664 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 665 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 

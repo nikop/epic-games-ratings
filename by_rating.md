@@ -40,12 +40,12 @@
 | 38 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 39 | [Firework](games/f/firework.md) | 4.85 | 
 | 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
-| 43 | [Subnautica](games/s/subnautica.md) | 4.83 | 
-| 44 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 45 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
+| 41 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
+| 44 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 45 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 46 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 49 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
@@ -58,10 +58,10 @@
 | 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 57 | [Griftlands](games/g/griftlands.md) | 4.82 | 
 | 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 61 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 62 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 59 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 63 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 64 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 65 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -422,19 +422,19 @@
 | 420 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 421 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 422 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 423 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 424 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 425 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 426 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 427 | [Horace](games/h/horace.md) | 4.52 | 
-| 428 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 429 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 430 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 431 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 432 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 433 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 434 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
-| 435 | [Isonzo](games/i/isonzo.md) | 4.51 | 
+| 423 | [Isonzo](games/i/isonzo.md) | 4.52 | 
+| 424 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 425 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 426 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 427 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 428 | [Horace](games/h/horace.md) | 4.52 | 
+| 429 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 430 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 431 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 432 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 433 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 434 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 435 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 436 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 437 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 438 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
@@ -699,13 +699,13 @@
 | 697 | [Lake](games/l/lake.md) | 4.08 | 
 | 698 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 700 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
-| 701 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 702 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 703 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
-| 704 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
-| 705 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 706 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 700 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 701 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
+| 702 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
+| 703 | [Port Royale 4](games/p/port_royale_4.md) | 4.05 | 
+| 704 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 705 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 706 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 707 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 708 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 709 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
