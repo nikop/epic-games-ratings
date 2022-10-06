@@ -69,7 +69,7 @@
 | 67 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 69 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 70 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 70 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 71 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 72 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 73 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
