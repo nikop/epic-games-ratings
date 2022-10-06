@@ -443,21 +443,21 @@
 | 441 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 442 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 443 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 444 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 445 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 446 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
-| 447 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 448 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 450 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 451 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 453 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 456 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 457 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 458 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 444 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 445 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 446 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 447 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
+| 448 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 449 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 452 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 454 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 457 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 458 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 459 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 460 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 461 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -721,7 +721,7 @@
 | 719 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 720 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 721 | [Patron](games/p/patron.md) | 3.90 | 
-| 722 | [Ironcast](games/i/ironcast.md) | 3.88 | 
+| 722 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 723 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 724 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 725 | [Saints Row](games/s/saints_row.md) | 3.77 | 

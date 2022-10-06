@@ -42,7 +42,7 @@
 | 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
@@ -297,7 +297,7 @@
 | 295 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 296 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 297 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 298 | [Ironcast](games/i/ironcast.md) | 3.88 | 
+| 298 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 299 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 300 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 301 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
