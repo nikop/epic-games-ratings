@@ -31,7 +31,7 @@
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 32 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 34 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 35 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
@@ -39,7 +39,7 @@
 | 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
+| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
@@ -205,7 +205,7 @@
 | 203 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 204 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 205 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 206 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 206 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
 | 207 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 208 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 209 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
@@ -298,7 +298,7 @@
 | 296 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 297 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 298 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 299 | [Isonzo](games/i/isonzo.md) | 4.52 | 
+| 299 | [Isonzo](games/i/isonzo.md) | 4.51 | 
 | 300 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 301 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 302 | [Journey](games/j/journey.md) | 4.76 | 
@@ -386,7 +386,7 @@
 | 384 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
 | 385 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 386 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 387 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 387 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 388 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 389 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 390 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
@@ -482,7 +482,7 @@
 | 480 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 481 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 482 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 483 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 483 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 484 | [Sable](games/s/sable.md) | 4.51 | 
 | 485 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 486 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -666,7 +666,7 @@
 | 664 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 665 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 
 | 666 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 667 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 667 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 668 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 669 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
 | 670 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 

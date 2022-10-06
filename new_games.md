@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
-| 2 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 2 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 3 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 4 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 5 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
@@ -9,7 +9,7 @@
 | 7 | [Gloomhaven](games/g/gloomhaven.md) | 4.36 | 
 | 8 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 9 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
-| 10 | [Isonzo](games/i/isonzo.md) | 4.52 | 
+| 10 | [Isonzo](games/i/isonzo.md) | 4.51 | 
 | 11 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 12 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 13 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
