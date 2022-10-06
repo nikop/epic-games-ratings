@@ -29,7 +29,7 @@
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 31 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 32 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 33 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -534,7 +534,7 @@
 | 532 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
 | 533 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 534 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 535 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
+| 535 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 536 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 537 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 538 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 

@@ -469,36 +469,36 @@
 | 467 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 468 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 469 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 470 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 471 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 473 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
-| 474 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 475 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 476 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
-| 477 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 478 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 479 | [SMITE](games/s/smite.md) | 4.46 | 
-| 480 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 481 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
-| 482 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 483 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
-| 484 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 485 | [Good Company](games/g/good_company.md) | 4.46 | 
-| 486 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
-| 487 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 488 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 489 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 490 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 491 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 492 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 493 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 494 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 495 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 496 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 497 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 498 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 499 | [Torchlight](games/t/torchlight.md) | 4.45 | 
+| 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 472 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
+| 473 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 475 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
+| 476 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 477 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 478 | [SMITE](games/s/smite.md) | 4.46 | 
+| 479 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 480 | [Tropico 5](games/t/tropico_5.md) | 4.46 | 
+| 481 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 482 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
+| 483 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 484 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 485 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
+| 486 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 487 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 488 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 489 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 490 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 491 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 492 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 493 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 494 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 495 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 496 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 497 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 498 | [Torchlight](games/t/torchlight.md) | 4.45 | 
+| 499 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 500 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 501 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 502 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
@@ -572,12 +572,12 @@
 | 570 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 571 | [Observation](games/o/observation.md) | 4.38 | 
 | 572 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.37 | 
-| 574 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 575 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
-| 576 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 577 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 578 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 573 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 574 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
+| 575 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 576 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 577 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 578 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 579 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 580 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 581 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
