@@ -1,7 +1,16 @@
 {
   "ID": "c0783fd957634390af33808d1a1f56dd",
   "Name": "No Straight Roads",
+  "Rating": 4.65,
   "FirstSeen": "2022-07-22T20:18:32.9254114+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-06T02:00:31.3504442+00:00",
+  "LastChanged": "2022-10-06T02:00:31.3504447+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-06T02:00:31.3504448+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
