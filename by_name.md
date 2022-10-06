@@ -272,7 +272,7 @@
 | 270 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 271 | [Hob](games/h/hob.md) | 4.58 | 
 | 272 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 273 | [Horace](games/h/horace.md) | 4.50 | 
+| 273 | [Horace](games/h/horace.md) | 4.52 | 
 | 274 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 275 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 276 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -359,7 +359,7 @@
 | 357 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 358 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 359 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 360 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 360 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 361 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
 | 362 | [Minit](games/m/minit.md) | 4.55 | 
 | 363 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -590,7 +590,7 @@
 | 588 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 589 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 590 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 591 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 591 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 592 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 593 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
 | 594 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 

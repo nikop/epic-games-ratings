@@ -121,20 +121,20 @@
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 120 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 121 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 123 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
-| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 125 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 126 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
-| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 128 | [Revita](games/r/revita.md) | 4.74 | 
-| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 134 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 135 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 122 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 124 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.74 | 
+| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 127 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
+| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 129 | [Revita](games/r/revita.md) | 4.74 | 
+| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 135 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 136 | [Fez](games/f/fez.md) | 4.73 | 
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 138 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
@@ -425,33 +425,33 @@
 | 423 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 424 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 425 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 426 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 427 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 428 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 429 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 430 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 431 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 432 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 433 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
-| 434 | [Isonzo](games/i/isonzo.md) | 4.51 | 
-| 435 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 436 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 437 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 438 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 439 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 440 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 441 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 442 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 443 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 444 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
-| 445 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 446 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 447 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 448 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 449 | [Paradigm](games/p/paradigm.md) | 4.50 | 
-| 450 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 451 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 452 | [Horace](games/h/horace.md) | 4.50 | 
+| 426 | [Horace](games/h/horace.md) | 4.52 | 
+| 427 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 428 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 429 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 430 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 431 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 432 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 433 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 434 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
+| 435 | [Isonzo](games/i/isonzo.md) | 4.51 | 
+| 436 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 437 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 438 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 439 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 440 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 441 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 442 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 443 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 444 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 445 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
+| 446 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 447 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 448 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 450 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 452 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
 | 453 | [Sable](games/s/sable.md) | 4.50 | 
 | 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
 | 455 | [Warpips](games/w/warpips.md) | 4.50 | 
@@ -469,11 +469,11 @@
 | 467 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 468 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 469 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 470 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 471 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 472 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
-| 473 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 474 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 470 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 471 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 
+| 472 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 473 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 476 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 477 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
