@@ -45,7 +45,7 @@
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
 | 47 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 48 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 49 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
@@ -85,7 +85,7 @@
 | 83 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 84 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 85 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 86 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 86 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 87 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 88 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 89 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -108,8 +108,8 @@
 | 106 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 107 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 108 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
-| 110 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 110 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 111 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 112 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 113 | [Conarium](games/c/conarium.md) | 4.04 | 
@@ -121,10 +121,10 @@
 | 119 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 121 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 122 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 122 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 123 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 124 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 125 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 125 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 126 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 127 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 128 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -346,7 +346,7 @@
 | 344 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 345 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 346 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 347 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 347 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 348 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 349 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 350 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -543,7 +543,7 @@
 | 541 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 542 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 543 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 544 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 544 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 545 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 546 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 547 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
@@ -555,7 +555,7 @@
 | 553 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 554 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 555 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 556 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 556 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 557 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 558 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 559 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
@@ -650,7 +650,7 @@
 | 648 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 649 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
-| 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 654 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
