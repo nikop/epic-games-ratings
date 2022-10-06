@@ -175,7 +175,7 @@
 | 173 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 174 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 175 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 176 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 176 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 179 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
@@ -476,7 +476,7 @@
 | 474 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 475 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 476 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
-| 477 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 477 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 478 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 479 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 480 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
