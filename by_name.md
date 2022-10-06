@@ -76,7 +76,7 @@
 | 74 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 75 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 76 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 77 | [Black Book](games/b/black_book.md) | 4.86 | 
+| 77 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 78 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
 | 79 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
 | 80 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
@@ -245,7 +245,7 @@
 | 243 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 244 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 245 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 246 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
+| 246 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 247 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 248 | [Gone Home](games/g/gone_home.md) | 4.12 | 
 | 249 | [Good Company](games/g/good_company.md) | 4.46 | 
@@ -253,7 +253,7 @@
 | 251 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 252 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 253 | [Griftlands](games/g/griftlands.md) | 4.82 | 
-| 254 | [GRIME](games/g/grime.md) | 4.59 | 
+| 254 | [GRIME](games/g/grime.md) | 4.60 | 
 | 255 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 256 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
 | 257 | [Hades](games/h/hades.md) | 4.92 | 

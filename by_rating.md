@@ -19,16 +19,16 @@
 | 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 19 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 20 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 26 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
-| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 29 | [Black Book](games/b/black_book.md) | 4.86 | 
+| 20 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 27 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
+| 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 29 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
@@ -313,20 +313,20 @@
 | 311 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 312 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 313 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 314 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
-| 315 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 316 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 317 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 318 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 319 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 320 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 321 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 322 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 323 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 324 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 325 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 326 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 327 | [GRIME](games/g/grime.md) | 4.59 | 
+| 314 | [GRIME](games/g/grime.md) | 4.60 | 
+| 315 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
+| 316 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 322 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 323 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 324 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 325 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 326 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 327 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 328 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 329 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 330 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
@@ -719,8 +719,8 @@
 | 717 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 718 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 719 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 720 | [Patron](games/p/patron.md) | 3.90 | 
-| 721 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
+| 720 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
+| 721 | [Patron](games/p/patron.md) | 3.90 | 
 | 722 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 723 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 724 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
