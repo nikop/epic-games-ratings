@@ -160,7 +160,7 @@
 | 158 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 159 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 160 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 161 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 161 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 162 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 163 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 164 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -432,7 +432,7 @@
 | 430 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 431 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 432 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 433 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 433 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 434 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 435 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 436 | [Pine](games/p/pine.md) | 4.13 | 
@@ -482,7 +482,7 @@
 | 480 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 481 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 482 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 483 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 483 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 484 | [Sable](games/s/sable.md) | 4.51 | 
 | 485 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 486 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -596,7 +596,7 @@
 | 594 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 595 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 596 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 597 | [The First Tree](games/t/the_first_tree.md) | 4.05 | 
+| 597 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 598 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 599 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 600 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -718,13 +718,13 @@
 | 716 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 717 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 718 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 719 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 719 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 
 | 720 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 721 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 722 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 723 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 724 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 725 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 726 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.42 | 
+| 726 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 727 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 728 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
