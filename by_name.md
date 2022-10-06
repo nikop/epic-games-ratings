@@ -175,7 +175,7 @@
 | 173 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 174 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 175 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 176 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 176 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 179 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
@@ -262,7 +262,7 @@
 | 260 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 261 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 262 | [Haven](games/h/haven.md) | 4.78 | 
-| 263 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 263 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 264 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 265 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 266 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
@@ -321,7 +321,7 @@
 | 319 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 320 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 321 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 322 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
+| 322 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
 | 323 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 324 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 325 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -512,7 +512,7 @@
 | 510 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 511 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 512 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 513 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 513 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 514 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 515 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 516 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -586,7 +586,7 @@
 | 584 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 587 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 587 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 588 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 589 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 590 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.41 | 
@@ -664,7 +664,7 @@
 | 662 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 663 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 664 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 665 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
+| 665 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 
 | 666 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 667 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 668 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 

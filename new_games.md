@@ -5,7 +5,7 @@
 | 3 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 4 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 5 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 6 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 6 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 7 | [Gloomhaven](games/g/gloomhaven.md) | 4.36 | 
 | 8 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 9 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
@@ -17,7 +17,7 @@
 | 15 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 16 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 17 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 18 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
+| 18 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 
 | 19 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 20 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 21 | [Saints Row](games/s/saints_row.md) | 3.77 | 
@@ -25,7 +25,7 @@
 | 23 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 24 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
 | 25 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 26 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 26 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 27 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 28 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 29 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 

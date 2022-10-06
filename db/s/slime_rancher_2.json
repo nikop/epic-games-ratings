@@ -1,11 +1,11 @@
 {
   "ID": "4f09ede568514ca6ad487f9c22a66b81",
   "Name": "Slime Rancher 2",
-  "Rating": 4.82,
+  "Rating": 4.81,
   "NumberOfRatings": 36,
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2022-10-06T09:32:04.4316697+00:00",
+  "LastChanged": "2022-10-06T14:33:12.1000582+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T13:02:43.6402725+00:00",
@@ -111,6 +111,11 @@
       "Time": "2022-10-06T09:32:04.43167+00:00",
       "Rating": 4.82,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-06T14:33:12.1000584+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -144,7 +149,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Obsessive Gameplay",
