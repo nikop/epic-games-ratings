@@ -625,14 +625,14 @@
 | 623 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 624 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 625 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 626 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 627 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 628 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 629 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 630 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 631 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 632 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 633 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 626 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 627 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 628 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 629 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 630 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 631 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 632 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 633 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 634 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 635 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 636 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
