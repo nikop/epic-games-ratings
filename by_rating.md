@@ -97,18 +97,18 @@
 | 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 102 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 105 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 106 | [Northgard](games/n/northgard.md) | 4.76 | 
-| 107 | [Journey](games/j/journey.md) | 4.76 | 
-| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 98 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 103 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
+| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 107 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 108 | [Journey](games/j/journey.md) | 4.76 | 
+| 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -346,22 +346,22 @@
 | 344 | [Hob](games/h/hob.md) | 4.58 | 
 | 345 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 346 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 348 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 349 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 350 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 351 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 352 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
-| 353 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 354 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 356 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 357 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 359 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 360 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 361 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 362 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 347 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 348 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 349 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 350 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 351 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
+| 352 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 353 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 354 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 355 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 356 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 357 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 358 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 359 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 360 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 361 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 362 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.57 | 
 | 363 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 364 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
 | 365 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 

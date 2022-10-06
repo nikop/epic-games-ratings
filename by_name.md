@@ -108,7 +108,7 @@
 | 106 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 107 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 108 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
+| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 110 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 111 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 112 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
@@ -498,7 +498,7 @@
 | 496 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 497 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 498 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 499 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 499 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.57 | 
 | 500 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 501 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 502 | [Sheltered](games/s/sheltered.md) | 4.42 | 
