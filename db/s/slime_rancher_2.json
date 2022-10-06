@@ -1,11 +1,11 @@
 {
   "ID": "4f09ede568514ca6ad487f9c22a66b81",
   "Name": "Slime Rancher 2",
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 36,
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2022-10-06T14:33:12.1000582+00:00",
+  "LastChanged": "2022-10-06T21:02:44.6011092+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T13:02:43.6402725+00:00",
@@ -116,6 +116,11 @@
       "Time": "2022-10-06T14:33:12.1000584+00:00",
       "Rating": 4.81,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-06T21:02:44.6011095+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -125,7 +130,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 33
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",

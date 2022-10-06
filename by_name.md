@@ -110,7 +110,7 @@
 | 108 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 110 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 111 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
+| 111 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
 | 112 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 113 | [Conarium](games/c/conarium.md) | 4.04 | 
 | 114 | [Control](games/c/control.md) | 4.60 | 
@@ -452,7 +452,7 @@
 | 450 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 451 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 452 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
-| 453 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
+| 453 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 454 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 455 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 456 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
@@ -512,7 +512,7 @@
 | 510 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 511 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 512 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 513 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 513 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 514 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 515 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 516 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -525,7 +525,7 @@
 | 523 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 524 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 525 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 526 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 526 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 527 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 528 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 529 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
@@ -558,7 +558,7 @@
 | 556 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 557 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 558 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 559 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
+| 559 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
 | 560 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 561 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 562 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
