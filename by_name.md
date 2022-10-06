@@ -108,7 +108,7 @@
 | 106 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 107 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 108 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 110 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 111 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.03 | 
 | 112 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
@@ -150,7 +150,7 @@
 | 148 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 149 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 150 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 152 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 153 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 154 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -198,7 +198,7 @@
 | 196 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 197 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 198 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 199 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 199 | [Far Cry](games/f/far_cry.md) | 4.44 | 
 | 200 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
 | 201 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 202 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 

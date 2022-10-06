@@ -32,13 +32,13 @@
 | 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 33 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 38 | [Firework](games/f/firework.md) | 4.85 | 
-| 39 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 35 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 36 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 37 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 38 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 39 | [Firework](games/f/firework.md) | 4.85 | 
 | 40 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
@@ -97,18 +97,18 @@
 | 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 98 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 103 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
-| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 107 | [Northgard](games/n/northgard.md) | 4.76 | 
-| 108 | [Journey](games/j/journey.md) | 4.76 | 
-| 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 102 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.76 | 
+| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 105 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 106 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 107 | [Journey](games/j/journey.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.76 | 
 | 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -506,16 +506,16 @@
 | 504 | [GigaBash](games/g/gigabash.md) | 4.45 | 
 | 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 506 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 507 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 508 | [The Captain](games/t/the_captain.md) | 4.43 | 
-| 509 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 510 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 511 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 512 | [Figment](games/f/figment.md) | 4.43 | 
-| 513 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 514 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 515 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 516 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 507 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 508 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 509 | [The Captain](games/t/the_captain.md) | 4.43 | 
+| 510 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 511 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 512 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 513 | [Figment](games/f/figment.md) | 4.43 | 
+| 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 515 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 516 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 517 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 518 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 519 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
