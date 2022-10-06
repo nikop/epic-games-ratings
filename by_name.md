@@ -370,7 +370,7 @@
 | 368 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 369 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 370 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 371 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 371 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 372 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 373 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 374 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -443,7 +443,7 @@
 | 441 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 442 | [Prey](games/p/prey.md) | 4.61 | 
 | 443 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 444 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 444 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 445 | [Quake](games/q/quake.md) | 4.80 | 
 | 446 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 447 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
@@ -651,7 +651,7 @@
 | 649 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 654 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 655 | [Townscaper](games/t/townscaper.md) | 4.71 | 
