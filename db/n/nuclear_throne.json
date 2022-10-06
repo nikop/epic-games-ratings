@@ -765,7 +765,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 225
+      "Count": 228
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -810,6 +810,10 @@
     {
       "Text": "This game has Challenging Combat",
       "Count": 23
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 28
     }
   ]
 }

@@ -90,7 +90,7 @@
 | 88 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 89 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 90 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 91 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 91 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
 | 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 93 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 94 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -134,7 +134,7 @@
 | 132 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 133 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 135 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 135 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 136 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
 | 137 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 138 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -446,7 +446,7 @@
 | 444 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 445 | [Quake](games/q/quake.md) | 4.80 | 
 | 446 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 447 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 447 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 448 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 449 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 450 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -544,7 +544,7 @@
 | 542 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 543 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 544 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 545 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 545 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 546 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 547 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 548 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
@@ -611,7 +611,7 @@
 | 609 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 610 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 611 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 612 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 612 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 613 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 614 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 615 | [The Surge](games/t/the_surge.md) | 4.53 | 
