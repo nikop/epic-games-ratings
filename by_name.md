@@ -324,7 +324,7 @@
 | 322 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 323 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 324 | [Lake](games/l/lake.md) | 4.08 | 
-| 325 | [Lamentum](games/l/lamentum.md) | 4.25 | 
+| 325 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 326 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 327 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 328 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.23 | 
@@ -480,7 +480,7 @@
 | 478 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 479 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 480 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 481 | [Runbow](games/r/runbow.md) | 4.38 | 
+| 481 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 482 | [Sable](games/s/sable.md) | 4.50 | 
 | 483 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 484 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -510,7 +510,7 @@
 | 508 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 509 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 510 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 511 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 511 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 512 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 513 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 514 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -657,7 +657,7 @@
 | 655 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 656 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 657 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 658 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 658 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 659 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 660 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 661 | [Transistor](games/t/transistor.md) | 4.62 | 
