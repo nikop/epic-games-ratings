@@ -271,18 +271,18 @@
 | 269 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 272 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 273 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 275 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 276 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 277 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 278 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 279 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 280 | [20XX](games/2/20xx.md) | 4.62 | 
-| 281 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 282 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 283 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 272 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 273 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 274 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 277 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 278 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 279 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 280 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 281 | [20XX](games/2/20xx.md) | 4.62 | 
+| 282 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 283 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 284 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.62 | 
 | 285 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 286 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
@@ -316,24 +316,24 @@
 | 314 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 315 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
 | 316 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 317 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 323 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 324 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 326 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 327 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 328 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 329 | [GRIME](games/g/grime.md) | 4.59 | 
-| 330 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 331 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 332 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 333 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
-| 334 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 322 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 323 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 324 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 325 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 326 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 327 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 328 | [GRIME](games/g/grime.md) | 4.59 | 
+| 329 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 330 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 331 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 332 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
+| 333 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 335 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 336 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 337 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 

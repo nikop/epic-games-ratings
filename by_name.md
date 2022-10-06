@@ -132,7 +132,7 @@
 | 130 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 131 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 132 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 133 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 133 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.58 | 
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 135 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 136 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
@@ -161,7 +161,7 @@
 | 159 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 160 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 161 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 162 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 162 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 163 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 164 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 165 | [Diabotical](games/d/diabotical.md) | 4.79 | 
