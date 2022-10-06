@@ -116,7 +116,7 @@
 | 114 | [Control](games/c/control.md) | 4.60 | 
 | 115 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 116 | [Core](games/c/core.md) | 4.38 | 
-| 117 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 117 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 118 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 119 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
@@ -155,7 +155,7 @@
 | 153 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 154 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 155 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 156 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 156 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 157 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 158 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 159 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
