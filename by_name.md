@@ -8,7 +8,7 @@
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
@@ -82,7 +82,7 @@
 | 80 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
 | 81 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 82 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 83 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 83 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 84 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 85 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 86 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
@@ -116,7 +116,7 @@
 | 114 | [Control](games/c/control.md) | 4.60 | 
 | 115 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 116 | [Core](games/c/core.md) | 4.38 | 
-| 117 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 117 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 118 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 119 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
@@ -191,7 +191,7 @@
 | 189 | [Encased](games/e/encased.md) | 4.35 | 
 | 190 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 191 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 192 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 192 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 193 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 194 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 195 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
@@ -532,7 +532,7 @@
 | 530 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 531 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 532 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
-| 533 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
+| 533 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
 | 534 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 535 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 536 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -561,7 +561,7 @@
 | 559 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.52 | 
 | 560 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 561 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 562 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.84 | 
+| 562 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 563 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 564 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
 | 565 | [Superliminal](games/s/superliminal.md) | 4.76 | 
@@ -589,7 +589,7 @@
 | 587 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 588 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 589 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 590 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.41 | 
+| 590 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.43 | 
 | 591 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 592 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 593 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -677,7 +677,7 @@
 | 675 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 676 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 677 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 678 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
+| 678 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 679 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 680 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 681 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
@@ -723,7 +723,7 @@
 | 721 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 722 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 723 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 724 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 724 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 725 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 726 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 727 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
