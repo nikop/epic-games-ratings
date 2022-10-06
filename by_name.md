@@ -361,7 +361,7 @@
 | 359 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 360 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 361 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 362 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 362 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
 | 363 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
 | 364 | [Minit](games/m/minit.md) | 4.55 | 
 | 365 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
