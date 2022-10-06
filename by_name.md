@@ -360,7 +360,7 @@
 | 358 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 359 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 360 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 361 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 361 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 362 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
 | 363 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.36 | 
 | 364 | [Minit](games/m/minit.md) | 4.55 | 
@@ -420,7 +420,7 @@
 | 418 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 419 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 420 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 421 | [Paradigm](games/p/paradigm.md) | 4.50 | 
+| 421 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 422 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 423 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
 | 424 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
@@ -446,7 +446,7 @@
 | 444 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 445 | [Quake](games/q/quake.md) | 4.80 | 
 | 446 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 447 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 447 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 448 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 449 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 450 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -586,7 +586,7 @@
 | 584 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 587 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 587 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 588 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 589 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 590 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.43 | 
@@ -619,7 +619,7 @@
 | 617 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 618 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 619 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 620 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 620 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 621 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 622 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 623 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -651,7 +651,7 @@
 | 649 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.51 | 
 | 654 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 655 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -710,7 +710,7 @@
 | 708 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 709 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 710 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 711 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 711 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 712 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 713 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 714 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
