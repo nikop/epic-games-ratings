@@ -78,7 +78,7 @@
 | 76 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 77 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 78 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
-| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.30 | 
+| 79 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
 | 80 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 81 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -305,7 +305,7 @@
 | 303 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 304 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 305 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 306 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 306 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 307 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 308 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 309 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
