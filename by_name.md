@@ -291,7 +291,7 @@
 | 289 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 290 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 291 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 292 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 292 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 293 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 294 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 295 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
@@ -515,7 +515,7 @@
 | 513 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 514 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 515 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 516 | [SOMA](games/s/soma.md) | 4.70 | 
+| 516 | [SOMA](games/s/soma.md) | 4.69 | 
 | 517 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 518 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 519 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -660,7 +660,7 @@
 | 658 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 659 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 660 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 661 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 
+| 661 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
 | 662 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 663 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 664 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
