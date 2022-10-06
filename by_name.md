@@ -22,7 +22,7 @@
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
@@ -235,7 +235,7 @@
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 234 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 235 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
-| 236 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 236 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 237 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 238 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 239 | [GigaBash](games/g/gigabash.md) | 4.45 | 
@@ -365,7 +365,7 @@
 | 363 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 364 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 365 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 366 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 366 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 367 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 368 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 369 | [Moving Out](games/m/moving_out.md) | 4.58 | 
@@ -424,7 +424,7 @@
 | 422 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 423 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 424 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 425 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 425 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 426 | [Patron](games/p/patron.md) | 3.90 | 
 | 427 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 428 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
