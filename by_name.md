@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 44 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 45 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 46 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
 | 47 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 48 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -137,7 +137,7 @@
 | 135 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 136 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 137 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 138 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 138 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 139 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 140 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 141 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -310,7 +310,7 @@
 | 308 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 309 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 310 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 311 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 311 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 312 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 313 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
 | 314 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
@@ -515,7 +515,7 @@
 | 513 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 514 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 515 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 516 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 516 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 517 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 518 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 519 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -592,7 +592,7 @@
 | 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 591 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 
+| 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
 | 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -654,7 +654,7 @@
 | 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 654 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 656 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 657 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 658 | [Townscaper](games/t/townscaper.md) | 4.71 | 

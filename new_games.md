@@ -5,7 +5,7 @@
 | 3 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 4 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
 | 5 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
-| 6 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 6 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 7 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
 | 8 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 9 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
