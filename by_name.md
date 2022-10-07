@@ -200,7 +200,7 @@
 | 198 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 199 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 200 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 201 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 201 | [Far Cry](games/f/far_cry.md) | 4.45 | 
 | 202 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
 | 203 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 204 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -218,14 +218,14 @@
 | 216 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 217 | [Fez](games/f/fez.md) | 4.72 | 
 | 218 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
-| 219 | [Figment](games/f/figment.md) | 4.43 | 
+| 219 | [Figment](games/f/figment.md) | 4.42 | 
 | 220 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 221 | [Firework](games/f/firework.md) | 4.85 | 
 | 222 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
-| 223 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 223 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 224 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 225 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 226 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 226 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
 | 227 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 228 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 229 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -394,7 +394,7 @@
 | 392 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 393 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 394 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
-| 395 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 395 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 396 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 397 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 398 | [Obduction](games/o/obduction.md) | 4.09 | 
@@ -544,7 +544,7 @@
 | 542 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 543 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 544 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 545 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 545 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 546 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 547 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 548 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
@@ -558,7 +558,7 @@
 | 556 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 557 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 558 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 559 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 559 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 560 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
 | 561 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 562 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
@@ -609,7 +609,7 @@
 | 607 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 608 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 609 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 610 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 610 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 611 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 612 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 613 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
@@ -676,7 +676,7 @@
 | 674 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 675 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 676 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 677 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 677 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 678 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 679 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 680 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
