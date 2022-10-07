@@ -36,7 +36,7 @@
 | 34 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 35 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
 | 36 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
@@ -218,7 +218,7 @@
 | 216 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 217 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 218 | [Fez](games/f/fez.md) | 4.72 | 
-| 219 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
+| 219 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
 | 220 | [Figment](games/f/figment.md) | 4.42 | 
 | 221 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 222 | [Firework](games/f/firework.md) | 4.85 | 
@@ -440,7 +440,7 @@
 | 438 | [Pine](games/p/pine.md) | 4.13 | 
 | 439 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
 | 440 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 441 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 441 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 442 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 443 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 444 | [Prey](games/p/prey.md) | 4.61 | 
@@ -523,7 +523,7 @@
 | 521 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 522 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 523 | [SOMA](games/s/soma.md) | 4.69 | 
-| 524 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 524 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 525 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 526 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 527 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
