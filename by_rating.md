@@ -619,13 +619,13 @@
 | 617 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 618 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 619 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 620 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 621 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 622 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 623 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 624 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 625 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 626 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 620 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 621 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 622 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 623 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 624 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 625 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 626 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 627 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 628 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 629 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
@@ -653,12 +653,12 @@
 | 651 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 652 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 653 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 654 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 655 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
-| 656 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
-| 657 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
-| 658 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 659 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 654 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
+| 655 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 656 | [Twin Mirror](games/t/twin_mirror.md) | 4.21 | 
+| 657 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.21 | 
+| 658 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
+| 659 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 660 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 661 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 662 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 

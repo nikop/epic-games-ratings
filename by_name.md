@@ -52,7 +52,7 @@
 | 50 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 51 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 52 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 53 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 53 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 54 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 55 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 56 | [Aztez](games/a/aztez.md) | 4.45 | 
@@ -191,7 +191,7 @@
 | 189 | [Encased](games/e/encased.md) | 4.35 | 
 | 190 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 191 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 192 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 192 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 193 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 194 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 195 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
