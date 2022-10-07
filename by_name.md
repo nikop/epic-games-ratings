@@ -19,7 +19,7 @@
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 22 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -238,7 +238,7 @@
 | 236 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 237 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 238 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 239 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
+| 239 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.81 | 
 | 240 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 241 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 242 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -723,7 +723,7 @@
 | 721 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 722 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 
 | 723 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 724 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.60 | 
+| 724 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 725 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 726 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 727 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

@@ -64,19 +64,19 @@
 | 62 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 63 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 65 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 66 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 67 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 68 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 69 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 70 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
-| 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 73 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
-| 74 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 75 | [Quake](games/q/quake.md) | 4.80 | 
-| 76 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
-| 77 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.80 | 
+| 65 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.81 | 
+| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 71 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
+| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 74 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
+| 75 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 76 | [Quake](games/q/quake.md) | 4.80 | 
+| 77 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 78 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 79 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 80 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -309,26 +309,26 @@
 | 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 310 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.60 | 
-| 311 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 312 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 313 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 314 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 315 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
-| 316 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 317 | [GRIME](games/g/grime.md) | 4.60 | 
-| 318 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 319 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 320 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 321 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 322 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 323 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 324 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 325 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 326 | [Hob](games/h/hob.md) | 4.59 | 
-| 327 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 328 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 329 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 311 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 313 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 314 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
+| 315 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 316 | [GRIME](games/g/grime.md) | 4.60 | 
+| 317 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 318 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 319 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 320 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 321 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 322 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 324 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 325 | [Hob](games/h/hob.md) | 4.59 | 
+| 326 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 327 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 328 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 329 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 330 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 331 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 332 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
@@ -630,14 +630,14 @@
 | 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 629 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 632 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 633 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 634 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 635 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 636 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 637 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 638 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 631 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 633 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 634 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 635 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 636 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 637 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 638 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 639 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 640 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 641 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
