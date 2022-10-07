@@ -672,7 +672,7 @@
 | 670 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 671 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 672 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 673 | [Blair Witch](games/b/blair_witch.md) | 4.16 | 
+| 673 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 
 | 674 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 675 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 676 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
