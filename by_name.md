@@ -26,7 +26,7 @@
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
+| 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 30 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
@@ -592,7 +592,7 @@
 | 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 591 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
+| 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 
 | 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 

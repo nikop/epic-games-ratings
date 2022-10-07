@@ -353,25 +353,25 @@
 | 351 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
 | 352 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 
 | 353 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 354 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 355 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
-| 356 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 357 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 358 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 359 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 360 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 362 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 363 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 364 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 365 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
-| 369 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 370 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 372 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
+| 354 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
+| 355 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 356 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
+| 357 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 358 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 359 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 360 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 361 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 362 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 363 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 365 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 366 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 369 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 370 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 371 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 373 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
 | 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
@@ -487,21 +487,21 @@
 | 485 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 486 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 487 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
-| 488 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
-| 489 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
-| 490 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 491 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 492 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 493 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 494 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 495 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 496 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 497 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 498 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 499 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 500 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 501 | [Far Cry](games/f/far_cry.md) | 4.45 | 
-| 502 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 488 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
+| 489 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 490 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 491 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 492 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 493 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 494 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 495 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 496 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 497 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 498 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 499 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 500 | [Far Cry](games/f/far_cry.md) | 4.45 | 
+| 501 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 502 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 
 | 503 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 504 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
