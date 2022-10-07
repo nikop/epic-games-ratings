@@ -177,7 +177,7 @@
 | 175 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 176 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
 | 179 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 180 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 181 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
@@ -240,7 +240,7 @@
 | 238 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 239 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 240 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 241 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 241 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 242 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
 | 243 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 244 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 

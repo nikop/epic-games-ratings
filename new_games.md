@@ -33,6 +33,6 @@
 | 31 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 32 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 33 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 34 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 34 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 35 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 36 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
