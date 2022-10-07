@@ -39,7 +39,7 @@
 | 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
+| 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 42 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 43 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
@@ -349,7 +349,7 @@
 | 347 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 348 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 349 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 350 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 350 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 351 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 352 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 353 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
@@ -387,7 +387,7 @@
 | 385 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
 | 386 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 387 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 388 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 388 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 389 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 390 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 391 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
@@ -420,7 +420,7 @@
 | 418 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
 | 419 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 420 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 421 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 421 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 422 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 423 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 424 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
@@ -642,7 +642,7 @@
 | 640 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 641 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.72 | 
 | 642 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
-| 643 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
+| 643 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 644 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 645 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 646 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
@@ -691,7 +691,7 @@
 | 689 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 690 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 691 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 692 | [Warface](games/w/warface.md) | 3.95 | 
+| 692 | [Warface](games/w/warface.md) | 3.94 | 
 | 693 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 694 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 695 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
