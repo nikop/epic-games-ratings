@@ -25,15 +25,15 @@
 | 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 26 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
-| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 32 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 33 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 31 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
@@ -618,7 +618,7 @@
 | 616 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 617 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 618 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 619 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 619 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
 | 620 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 621 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 622 | [Ashen](games/a/ashen.md) | 4.29 | 
@@ -626,15 +626,15 @@
 | 624 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 625 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 626 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 627 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 628 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 629 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 630 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 631 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 632 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 633 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 634 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 635 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
+| 627 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 628 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 629 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 630 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 631 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 632 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 633 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 634 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 635 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 636 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 637 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 638 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 

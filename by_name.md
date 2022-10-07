@@ -91,7 +91,7 @@
 | 89 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 90 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 91 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
-| 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
+| 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
 | 93 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 94 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 95 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
@@ -191,7 +191,7 @@
 | 189 | [Encased](games/e/encased.md) | 4.35 | 
 | 190 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 191 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 192 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 192 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 193 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 194 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 195 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
@@ -398,7 +398,7 @@
 | 396 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 397 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 398 | [Observation](games/o/observation.md) | 4.38 | 
-| 399 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
+| 399 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 400 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 401 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 402 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
