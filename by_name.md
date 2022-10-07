@@ -106,7 +106,7 @@
 | 104 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 105 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 106 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 107 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 107 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 108 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 109 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 110 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
@@ -260,7 +260,7 @@
 | 258 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 259 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 260 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 261 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 261 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 262 | [Haven](games/h/haven.md) | 4.78 | 
 | 263 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 264 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
@@ -359,7 +359,7 @@
 | 357 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 358 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 359 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 360 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 360 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 361 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 362 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
 | 363 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
@@ -537,7 +537,7 @@
 | 535 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 536 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 537 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 538 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
+| 538 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
 | 539 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 540 | [Star Trek Online](games/s/star_trek_online.md) | 4.42 | 
 | 541 | [Starsand](games/s/starsand.md) | 4.31 | 
