@@ -185,7 +185,7 @@
 | 183 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 184 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 185 | [ELEX](games/e/elex.md) | 4.34 | 
-| 186 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 186 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 187 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 188 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 189 | [Encased](games/e/encased.md) | 4.35 | 
@@ -551,7 +551,7 @@
 | 549 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 550 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 551 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 552 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
+| 552 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 553 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 554 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 555 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 

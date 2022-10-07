@@ -468,9 +468,9 @@
 | 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 467 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
-| 469 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 471 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 469 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 470 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 471 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 472 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
 | 473 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
@@ -620,13 +620,13 @@
 | 618 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 619 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
 | 620 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 621 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 622 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 623 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 624 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 625 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 626 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 627 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 621 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 622 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 623 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 624 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 625 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 626 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 627 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 628 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 629 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 630 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
