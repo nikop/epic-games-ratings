@@ -230,7 +230,7 @@
 | 228 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 229 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 230 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 231 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.24 | 
+| 231 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 232 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 233 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 234 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
@@ -631,7 +631,7 @@
 | 629 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 630 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 631 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 632 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 632 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 633 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 634 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 635 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 

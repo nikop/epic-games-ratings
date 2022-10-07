@@ -257,5 +257,10 @@
       "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
+    }
+  ]
 }
