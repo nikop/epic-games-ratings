@@ -210,12 +210,12 @@
 | 208 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 209 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 210 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 211 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
+| 211 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
 | 212 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 213 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 214 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 215 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 216 | [Fez](games/f/fez.md) | 4.73 | 
+| 216 | [Fez](games/f/fez.md) | 4.72 | 
 | 217 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.60 | 
 | 218 | [Figment](games/f/figment.md) | 4.43 | 
 | 219 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -521,7 +521,7 @@
 | 519 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 520 | [SOMA](games/s/soma.md) | 4.69 | 
 | 521 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 522 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 522 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 523 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 524 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 525 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -550,7 +550,7 @@
 | 548 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 549 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 550 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 551 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
+| 551 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 552 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 553 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 554 | [Submerged](games/s/submerged.md) | 4.04 | 

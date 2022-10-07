@@ -1,10 +1,10 @@
 {
   "ID": "41f47fd0d3e248bc938a5815d6d64daa",
   "Name": "Fez",
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 103,
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
-  "LastChanged": "2022-09-29T21:01:19.8223835+00:00",
+  "LastChanged": "2022-10-07T01:30:57.9865701+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:13.4186643+00:00",
@@ -184,6 +184,11 @@
     {
       "Time": "2022-09-29T21:01:19.8223838+00:00",
       "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-07T01:30:57.9865703+00:00",
+      "Rating": 4.72,
       "NumberOfRatings": null
     }
   ],
