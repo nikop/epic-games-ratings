@@ -189,18 +189,18 @@
 | 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 188 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 189 | [SOMA](games/s/soma.md) | 4.69 | 
-| 190 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 191 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 193 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 194 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 195 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 196 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
-| 197 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 198 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 199 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
-| 200 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 201 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 191 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 192 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 194 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 196 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 197 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 198 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 199 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 200 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
+| 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 202 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
 | 203 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 204 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
@@ -253,26 +253,26 @@
 | 251 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 252 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 254 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 255 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 257 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 258 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
-| 259 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 260 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 261 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.64 | 
-| 262 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 263 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 264 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 265 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 267 | [Old World](games/o/old_world.md) | 4.63 | 
-| 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 270 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 272 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 273 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 254 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 256 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 257 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
+| 258 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 259 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 260 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.64 | 
+| 261 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 262 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 263 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 264 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 265 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 266 | [Old World](games/o/old_world.md) | 4.63 | 
+| 267 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 268 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 269 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 271 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 273 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 275 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
 | 276 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 

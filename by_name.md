@@ -131,7 +131,7 @@
 | 129 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 130 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 131 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 132 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 132 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 133 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 135 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -173,7 +173,7 @@
 | 171 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
 | 172 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
 | 173 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 174 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 174 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 175 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 176 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
