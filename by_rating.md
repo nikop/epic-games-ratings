@@ -509,16 +509,16 @@
 | 507 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 509 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 510 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 511 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
-| 512 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 513 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 514 | [Figment](games/f/figment.md) | 4.43 | 
-| 515 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 516 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 518 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 519 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.43 | 
+| 510 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.44 | 
+| 511 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 512 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
+| 513 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 514 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 515 | [Figment](games/f/figment.md) | 4.43 | 
+| 516 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 517 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 519 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 520 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 521 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 522 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 

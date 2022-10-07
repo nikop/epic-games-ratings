@@ -589,7 +589,7 @@
 | 587 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 588 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 589 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 590 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.43 | 
+| 590 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.44 | 
 | 591 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 592 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 593 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
