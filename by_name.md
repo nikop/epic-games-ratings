@@ -84,7 +84,7 @@
 | 82 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 83 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 84 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 85 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 85 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 86 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 87 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 88 | [Breathedge](games/b/breathedge.md) | 4.57 | 
@@ -274,7 +274,7 @@
 | 272 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 273 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 274 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 275 | [Hob](games/h/hob.md) | 4.58 | 
+| 275 | [Hob](games/h/hob.md) | 4.59 | 
 | 276 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 277 | [Horace](games/h/horace.md) | 4.52 | 
 | 278 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -515,7 +515,7 @@
 | 513 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 514 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 515 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 516 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 516 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 517 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 518 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 519 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -546,7 +546,7 @@
 | 544 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 545 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 546 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 547 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 547 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 548 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 549 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 550 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
