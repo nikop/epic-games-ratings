@@ -48,16 +48,16 @@
 | 46 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 49 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 50 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 54 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 55 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 57 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 49 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 
+| 50 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
+| 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 53 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
+| 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 56 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 58 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 59 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 60 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -144,16 +144,16 @@
 | 142 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 144 | [Fez](games/f/fez.md) | 4.72 | 
-| 145 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 146 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
-| 147 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
-| 148 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 149 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 150 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 152 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 153 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 154 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 
+| 145 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.72 | 
+| 146 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 147 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 148 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
+| 149 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 151 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 153 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 154 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 155 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 156 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 157 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -188,15 +188,15 @@
 | 186 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 188 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 189 | [SOMA](games/s/soma.md) | 4.69 | 
-| 190 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 191 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 192 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 194 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 196 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 197 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 190 | [SOMA](games/s/soma.md) | 4.69 | 
+| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 192 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 193 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 195 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 196 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 197 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 198 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 199 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
 | 200 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
@@ -409,26 +409,26 @@
 | 407 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 408 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 409 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 410 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 411 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 412 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 413 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 414 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 415 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 416 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 417 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 418 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 420 | [Isonzo](games/i/isonzo.md) | 4.52 | 
-| 421 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 422 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 423 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 424 | [Horace](games/h/horace.md) | 4.52 | 
-| 425 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 426 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 427 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 428 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 429 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 410 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 411 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 412 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 414 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 415 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 416 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 417 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 418 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 419 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 420 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 421 | [Isonzo](games/i/isonzo.md) | 4.52 | 
+| 422 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 423 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 424 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 425 | [Horace](games/h/horace.md) | 4.52 | 
+| 426 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 427 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 428 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 429 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 430 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 431 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 432 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 

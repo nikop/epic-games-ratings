@@ -172,7 +172,7 @@
 | 170 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 171 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 172 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 173 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 173 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 
 | 174 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 175 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 176 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -307,7 +307,7 @@
 | 305 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 306 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 307 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 308 | [Just Die Already](games/j/just_die_already.md) | 4.51 | 
+| 308 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 309 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 310 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 311 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -582,7 +582,7 @@
 | 580 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 581 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 582 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 583 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 
+| 583 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 584 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 585 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 586 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
@@ -640,7 +640,7 @@
 | 638 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 639 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 640 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 641 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.71 | 
+| 641 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.72 | 
 | 642 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 643 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 644 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
