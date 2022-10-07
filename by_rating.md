@@ -526,17 +526,17 @@
 | 524 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 525 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 526 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 527 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 528 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 529 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 530 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 531 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 532 | [Figment](games/f/figment.md) | 4.42 | 
-| 533 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 534 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 535 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 536 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 537 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 527 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 528 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 529 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 530 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 531 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 532 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 533 | [Figment](games/f/figment.md) | 4.42 | 
+| 534 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
+| 536 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 537 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 538 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 539 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 540 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
@@ -607,10 +607,10 @@
 | 605 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
 | 606 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 607 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 608 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 609 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 610 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 611 | [Tacoma](games/t/tacoma.md) | 4.32 | 
+| 608 | [Tacoma](games/t/tacoma.md) | 4.33 | 
+| 609 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 610 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 611 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 612 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 613 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 614 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 

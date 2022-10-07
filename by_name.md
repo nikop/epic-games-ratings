@@ -302,7 +302,7 @@
 | 300 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 301 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 302 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 303 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 303 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 304 | [Journey](games/j/journey.md) | 4.75 | 
 | 305 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
@@ -576,7 +576,7 @@
 | 574 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 575 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 576 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 577 | [Tacoma](games/t/tacoma.md) | 4.32 | 
+| 577 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 578 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
 | 579 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 580 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
