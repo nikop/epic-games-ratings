@@ -55,13 +55,13 @@
 | 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 54 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 55 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 56 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 57 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
-| 58 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
-| 59 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 62 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 57 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 
+| 59 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 60 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
+| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 63 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 65 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -689,10 +689,10 @@
 | 687 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 688 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 689 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 690 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 691 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
-| 692 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 693 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 690 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
+| 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 692 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 693 | [The Guild 3](games/t/the_guild_3.md) | 4.09 | 
 | 694 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 695 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 696 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 

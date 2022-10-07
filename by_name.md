@@ -361,7 +361,7 @@
 | 359 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 360 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 361 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 362 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 362 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 363 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
 | 364 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
 | 365 | [Minit](games/m/minit.md) | 4.55 | 
@@ -599,7 +599,7 @@
 | 597 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 598 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 599 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 600 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 600 | [The Guild 3](games/t/the_guild_3.md) | 4.09 | 
 | 601 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 602 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 603 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
