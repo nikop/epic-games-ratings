@@ -1,10 +1,10 @@
 {
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 565,
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2022-10-07T07:00:27.3775559+00:00",
+  "LastChanged": "2022-10-07T16:00:23.9086634+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:13.4550296+00:00",
@@ -709,6 +709,11 @@
     {
       "Time": "2022-10-07T07:00:27.377556+00:00",
       "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-07T16:00:23.9086639+00:00",
+      "Rating": 4.43,
       "NumberOfRatings": null
     }
   ],
