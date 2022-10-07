@@ -87,15 +87,15 @@
 | 85 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 86 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 87 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
-| 88 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 89 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 91 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 92 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 93 | [Haven](games/h/haven.md) | 4.78 | 
-| 94 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
-| 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 91 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
+| 92 | [Haven](games/h/haven.md) | 4.78 | 
+| 93 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
+| 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 96 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 99 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -218,20 +218,20 @@
 | 216 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 217 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 218 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 219 | [Mutazione](games/m/mutazione.md) | 4.67 | 
-| 220 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
-| 221 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 222 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 223 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 224 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 225 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 227 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 228 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 229 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 232 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 219 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
+| 220 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 221 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 222 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 223 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 224 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 226 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 228 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 233 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 235 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -644,18 +644,18 @@
 | 642 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 643 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 644 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 645 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
-| 646 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 647 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 649 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 650 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 651 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
-| 652 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 653 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 654 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 655 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 656 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 645 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 646 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 648 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 649 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 650 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 652 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 653 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 654 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 655 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 656 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 657 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 658 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 659 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 

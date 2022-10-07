@@ -80,7 +80,7 @@
 | 78 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 79 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
 | 80 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 
-| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
+| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 82 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 83 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 84 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -376,7 +376,7 @@
 | 374 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 375 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 376 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 377 | [Mutazione](games/m/mutazione.md) | 4.67 | 
+| 377 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 378 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 379 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 380 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
@@ -654,7 +654,7 @@
 | 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 654 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 656 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 657 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 658 | [Townscaper](games/t/townscaper.md) | 4.71 | 
