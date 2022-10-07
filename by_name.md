@@ -515,7 +515,7 @@
 | 513 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 514 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 515 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 516 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
+| 516 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 517 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 518 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 519 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -548,7 +548,7 @@
 | 546 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 547 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 548 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 549 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 549 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 550 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 551 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 552 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
@@ -679,7 +679,7 @@
 | 677 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 678 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 679 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 680 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 680 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 681 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 682 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 683 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
