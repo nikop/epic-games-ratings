@@ -80,7 +80,7 @@
 | 78 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 79 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
 | 80 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 
-| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
+| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
 | 82 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 83 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 84 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -247,7 +247,7 @@
 | 245 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 246 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 247 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 248 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
+| 248 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 249 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 250 | [Gone Home](games/g/gone_home.md) | 4.12 | 
 | 251 | [Good Company](games/g/good_company.md) | 4.46 | 
@@ -448,7 +448,7 @@
 | 446 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 447 | [Quake](games/q/quake.md) | 4.80 | 
 | 448 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 449 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 449 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 450 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 451 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 452 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -516,7 +516,7 @@
 | 514 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 515 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 516 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 517 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 517 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 518 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 519 | [SMITE](games/s/smite.md) | 4.46 | 
 | 520 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
@@ -636,7 +636,7 @@
 | 634 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 635 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 636 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 637 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 637 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 638 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 639 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 640 | [Timberborn](games/t/timberborn.md) | 4.69 | 
@@ -649,7 +649,7 @@
 | 647 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 648 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 649 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 650 | [Torchlight](games/t/torchlight.md) | 4.45 | 
+| 650 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 651 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
