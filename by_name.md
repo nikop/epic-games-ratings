@@ -164,7 +164,7 @@
 | 162 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 163 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 165 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
+| 165 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.58 | 
 | 166 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 167 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 168 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -346,7 +346,7 @@
 | 344 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
 | 345 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 346 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 347 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 347 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 348 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 349 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 350 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -593,7 +593,7 @@
 | 591 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 
-| 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.68 | 
+| 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 597 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -721,7 +721,7 @@
 | 719 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 720 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 721 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 722 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 
+| 722 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 723 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 724 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 725 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
