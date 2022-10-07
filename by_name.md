@@ -12,7 +12,7 @@
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 13 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 13 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -178,7 +178,7 @@
 | 176 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 177 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 178 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 179 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
+| 179 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 180 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 181 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 182 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
@@ -339,7 +339,7 @@
 | 337 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 338 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
 | 339 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 340 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 340 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 341 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
 | 342 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 343 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
@@ -382,7 +382,7 @@
 | 380 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 381 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 382 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 383 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
+| 383 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 384 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 385 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
 | 386 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -423,7 +423,7 @@
 | 421 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 422 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 423 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 424 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
+| 424 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
 | 425 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 426 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 427 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -564,7 +564,7 @@
 | 562 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 563 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 564 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 565 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.56 | 
+| 565 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
 | 566 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 567 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 568 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -616,7 +616,7 @@
 | 614 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 615 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 616 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 617 | [The Surge 2](games/t/the_surge_2.md) | 4.10 | 
+| 617 | [The Surge 2](games/t/the_surge_2.md) | 4.06 | 
 | 618 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 619 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 620 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
