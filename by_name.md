@@ -177,7 +177,7 @@
 | 175 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 176 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 177 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 
+| 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 179 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 180 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 181 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
@@ -202,7 +202,7 @@
 | 200 | [Far Cry](games/f/far_cry.md) | 4.44 | 
 | 201 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
 | 202 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 203 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 203 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 204 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 205 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 206 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
