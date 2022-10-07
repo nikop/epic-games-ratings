@@ -600,10 +600,10 @@
 | 598 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 599 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 600 | [ELEX](games/e/elex.md) | 4.34 | 
-| 601 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 602 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
-| 603 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 604 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
+| 601 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
+| 602 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 603 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 604 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 605 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 606 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 607 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 

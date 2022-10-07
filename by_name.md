@@ -436,7 +436,7 @@
 | 434 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 435 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 436 | [Pine](games/p/pine.md) | 4.13 | 
-| 437 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
+| 437 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
 | 438 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 439 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 440 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
