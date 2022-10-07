@@ -142,7 +142,7 @@
 | 140 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 141 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 142 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 143 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 143 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 144 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 145 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 146 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -180,7 +180,7 @@
 | 178 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 179 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 180 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 181 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 181 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
 | 182 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 183 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 184 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -461,7 +461,7 @@
 | 459 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 460 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 461 | [Revita](games/r/revita.md) | 4.74 | 
-| 462 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 462 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 463 | [RiME](games/r/rime.md) | 4.65 | 
 | 464 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 465 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -539,7 +539,7 @@
 | 537 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 538 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
 | 539 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 540 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 540 | [Star Trek Online](games/s/star_trek_online.md) | 4.42 | 
 | 541 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 542 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 543 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
