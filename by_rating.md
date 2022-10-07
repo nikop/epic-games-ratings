@@ -407,14 +407,14 @@
 | 405 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 406 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 407 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 408 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 409 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 410 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 411 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 412 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
-| 414 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 415 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 408 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 409 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 410 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 411 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 412 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 413 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 414 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 415 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 416 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 417 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
 | 418 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
@@ -428,9 +428,9 @@
 | 426 | [Horace](games/h/horace.md) | 4.52 | 
 | 427 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 428 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 429 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 430 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 431 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 429 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 430 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 431 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 432 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 433 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 434 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
@@ -450,22 +450,22 @@
 | 448 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
 | 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 450 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 451 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 453 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 456 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 457 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 458 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 459 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 460 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 461 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 462 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 463 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 464 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 465 | [Paradigm](games/p/paradigm.md) | 4.49 | 
-| 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 451 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 452 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 454 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 457 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 458 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 459 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 460 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 461 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 462 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 463 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 464 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 465 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 466 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 467 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 469 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 

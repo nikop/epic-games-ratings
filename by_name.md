@@ -141,7 +141,7 @@
 | 139 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 140 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 141 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 142 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 142 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 143 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 144 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 145 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -446,7 +446,7 @@
 | 444 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 445 | [Quake](games/q/quake.md) | 4.80 | 
 | 446 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 447 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 447 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 448 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 449 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 450 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -708,7 +708,7 @@
 | 706 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 707 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 708 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 709 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 709 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 710 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 711 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 712 | [Windbound](games/w/windbound.md) | 4.17 | 
