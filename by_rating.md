@@ -61,16 +61,16 @@
 | 59 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 60 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
 | 61 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
-| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 63 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 64 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 71 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 63 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 65 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 66 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 67 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 68 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 69 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 70 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
 | 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 73 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
 | 74 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -468,7 +468,7 @@
 | 466 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 467 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 468 | [Paradigm](games/p/paradigm.md) | 4.49 | 
-| 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 471 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -598,53 +598,53 @@
 | 596 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 597 | [Hammerting](games/h/hammerting.md) | 4.35 | 
 | 598 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 599 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 600 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 601 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 602 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 603 | [ELEX](games/e/elex.md) | 4.34 | 
-| 604 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
-| 605 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 606 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 607 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 608 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 609 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 610 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 611 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 612 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 613 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 614 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
-| 615 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 616 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
-| 617 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 618 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 619 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 620 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 621 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 622 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 623 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 624 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 625 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
-| 626 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 627 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 628 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 629 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 630 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 631 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 633 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 634 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 635 | [Rising Hell](games/r/rising_hell.md) | 4.28 | 
+| 599 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
+| 600 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 601 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 602 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 603 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 604 | [ELEX](games/e/elex.md) | 4.34 | 
+| 605 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
+| 606 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 607 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 608 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 609 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 610 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 611 | [Tacoma](games/t/tacoma.md) | 4.32 | 
+| 612 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 613 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 614 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 615 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
+| 616 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 617 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
+| 618 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 619 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 620 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 621 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 622 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 623 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 624 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 625 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 626 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 627 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 629 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 632 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 633 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 634 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 635 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
 | 636 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 637 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 638 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 639 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 640 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 641 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 642 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
-| 643 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 644 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 645 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 642 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 643 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 644 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 645 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 646 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 647 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
