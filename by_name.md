@@ -73,7 +73,7 @@
 | 71 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 72 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 73 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 74 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 74 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 75 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 76 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 77 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -189,7 +189,7 @@
 | 187 | [ELEX](games/e/elex.md) | 4.34 | 
 | 188 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 189 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 190 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 190 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 191 | [Encased](games/e/encased.md) | 4.35 | 
 | 192 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 193 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -418,7 +418,7 @@
 | 416 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 417 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 418 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 419 | [Oxenfree](games/o/oxenfree.md) | 4.64 | 
+| 419 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 420 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 421 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 422 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
@@ -704,7 +704,7 @@
 | 702 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 703 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 704 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 705 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.64 | 
+| 705 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
 | 706 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 707 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 708 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
