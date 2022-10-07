@@ -69,7 +69,7 @@
 | 67 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 69 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 70 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 70 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 71 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 72 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 73 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -531,7 +531,7 @@
 | 529 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 530 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 531 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 532 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.80 | 
+| 532 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.76 | 
 | 533 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
 | 534 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 535 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -695,7 +695,7 @@
 | 693 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 694 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 695 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 696 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 696 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 697 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 698 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 699 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
