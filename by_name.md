@@ -241,7 +241,7 @@
 | 239 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 240 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 241 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 242 | [Gloomhaven](games/g/gloomhaven.md) | 4.36 | 
+| 242 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
 | 243 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 244 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 245 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -426,7 +426,7 @@
 | 424 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 425 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 426 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 427 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 427 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 428 | [Patron](games/p/patron.md) | 3.90 | 
 | 429 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 430 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
@@ -438,7 +438,7 @@
 | 436 | [Pine](games/p/pine.md) | 4.13 | 
 | 437 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.33 | 
 | 438 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 439 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
+| 439 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 440 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 441 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
 | 442 | [Prey](games/p/prey.md) | 4.61 | 
@@ -518,7 +518,7 @@
 | 516 | [SMITE](games/s/smite.md) | 4.46 | 
 | 517 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 518 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 519 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 519 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 520 | [SOMA](games/s/soma.md) | 4.69 | 
 | 521 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 522 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 

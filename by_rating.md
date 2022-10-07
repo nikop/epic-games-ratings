@@ -447,23 +447,23 @@
 | 445 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 446 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 447 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
-| 448 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 449 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
-| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 452 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 454 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 457 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 458 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 459 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 460 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 461 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 462 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 463 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 464 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 448 | [Alan Wake](games/a/alan_wake.md) | 4.50 | 
+| 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 450 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 451 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 453 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 456 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 457 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 458 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 459 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 460 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 461 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 462 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 464 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 465 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 466 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 467 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
@@ -492,20 +492,20 @@
 | 490 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 491 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 492 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 493 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 494 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 495 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
-| 496 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 497 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 498 | [Torchlight](games/t/torchlight.md) | 4.45 | 
-| 499 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 500 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 501 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 502 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
-| 503 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 504 | [GigaBash](games/g/gigabash.md) | 4.45 | 
-| 505 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 506 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 493 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 494 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.45 | 
+| 495 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 496 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 497 | [Torchlight](games/t/torchlight.md) | 4.45 | 
+| 498 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 499 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 500 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 501 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 
+| 502 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 503 | [GigaBash](games/g/gigabash.md) | 4.45 | 
+| 504 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 506 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 507 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 509 | [Far Cry](games/f/far_cry.md) | 4.44 | 
@@ -575,14 +575,14 @@
 | 573 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
 | 575 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
-| 576 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 577 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 578 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 579 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 580 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 581 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 582 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 583 | [Gloomhaven](games/g/gloomhaven.md) | 4.36 | 
+| 576 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
+| 577 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 578 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 579 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 580 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 581 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 582 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 584 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 585 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 586 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
@@ -725,6 +725,6 @@
 | 723 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 724 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 725 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 726 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 727 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
+| 726 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 727 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 728 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
