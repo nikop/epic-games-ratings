@@ -25,7 +25,7 @@
 | 23 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 24 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 25 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.72 | 
+| 26 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
 | 27 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
 | 28 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 29 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
@@ -162,7 +162,7 @@
 | 160 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 161 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 162 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 163 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 163 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 165 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 166 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -303,7 +303,7 @@
 | 301 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 302 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 303 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 304 | [Journey](games/j/journey.md) | 4.76 | 
+| 304 | [Journey](games/j/journey.md) | 4.75 | 
 | 305 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 307 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -431,7 +431,7 @@
 | 429 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 430 | [Patron](games/p/patron.md) | 3.90 | 
 | 431 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 433 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 434 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 435 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
@@ -448,7 +448,7 @@
 | 446 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 447 | [Quake](games/q/quake.md) | 4.80 | 
 | 448 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 449 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 449 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 450 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 451 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 452 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -693,7 +693,7 @@
 | 691 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 692 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 693 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 694 | [Warface](games/w/warface.md) | 3.94 | 
+| 694 | [Warface](games/w/warface.md) | 3.95 | 
 | 695 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 696 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 697 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 

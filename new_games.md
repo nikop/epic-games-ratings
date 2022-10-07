@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
 | 2 | [Runbow](games/r/runbow.md) | 4.41 | 
-| 3 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 3 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 4 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
 | 5 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 6 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.82 | 
@@ -19,7 +19,7 @@
 | 17 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 18 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 
 | 19 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 20 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 20 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 21 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 22 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 23 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 

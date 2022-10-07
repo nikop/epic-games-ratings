@@ -1,10 +1,10 @@
 {
   "ID": "lemur",
   "Name": "Journey",
-  "Rating": 4.76,
+  "Rating": 4.75,
   "NumberOfRatings": 54,
   "FirstSeen": "2022-07-22T20:24:29.6928731+00:00",
-  "LastChanged": "2022-10-04T21:01:57.5257186+00:00",
+  "LastChanged": "2022-10-07T21:01:22.2985574+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:29.6928733+00:00",
@@ -109,6 +109,11 @@
     {
       "Time": "2022-10-04T21:01:57.5257189+00:00",
       "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-07T21:01:22.2985577+00:00",
+      "Rating": 4.75,
       "NumberOfRatings": null
     }
   ],
