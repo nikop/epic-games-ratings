@@ -20,23 +20,23 @@
 | 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 19 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 20 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 27 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
-| 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 29 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 35 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 36 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 37 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 26 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
+| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 32 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 33 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 38 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 39 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 40 | [Firework](games/f/firework.md) | 4.85 | 
@@ -532,16 +532,16 @@
 | 530 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 531 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 532 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 533 | [Runbow](games/r/runbow.md) | 4.42 | 
-| 534 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
-| 535 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 536 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 537 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 538 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 539 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 540 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 541 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 533 | [Star Renegades](games/s/star_renegades.md) | 4.42 | 
+| 534 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 535 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 536 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 537 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 538 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 539 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 540 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 542 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 543 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 544 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
 | 545 | [Weird West](games/w/weird_west.md) | 4.40 | 

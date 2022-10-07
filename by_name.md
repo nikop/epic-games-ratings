@@ -37,7 +37,7 @@
 | 35 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
 | 36 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 37 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 39 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 40 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.70 | 
 | 41 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
@@ -482,7 +482,7 @@
 | 480 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 481 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 482 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 483 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 483 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 484 | [Sable](games/s/sable.md) | 4.51 | 
 | 485 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 486 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
