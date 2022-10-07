@@ -122,7 +122,7 @@
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 121 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 122 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 123 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 123 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 124 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 125 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 126 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -719,7 +719,7 @@
 | 717 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 718 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 719 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 
-| 720 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 720 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 721 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.60 | 
 | 722 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 723 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 

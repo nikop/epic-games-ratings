@@ -297,19 +297,19 @@
 | 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 300 | [Control](games/c/control.md) | 4.60 | 
-| 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 302 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 303 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 304 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 305 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 310 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.60 | 
+| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 299 | [Control](games/c/control.md) | 4.60 | 
+| 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 302 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 303 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 304 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 306 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 307 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 308 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 309 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.60 | 
+| 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 311 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 313 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
@@ -617,17 +617,17 @@
 | 615 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 616 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 617 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 618 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 619 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 620 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 621 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 622 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 623 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 624 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
-| 625 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 626 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 627 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 628 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 618 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 619 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 620 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 621 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 622 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 623 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 624 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 625 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 626 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 627 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 628 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 629 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 630 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 631 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
