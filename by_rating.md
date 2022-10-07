@@ -423,20 +423,20 @@
 | 421 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 422 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 423 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 424 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 425 | [Horace](games/h/horace.md) | 4.52 | 
-| 426 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 427 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 428 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 429 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 430 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 431 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 432 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 433 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 434 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 435 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 436 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 437 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 424 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 425 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 426 | [Horace](games/h/horace.md) | 4.52 | 
+| 427 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 428 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 429 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 430 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 431 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 432 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 433 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 434 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 435 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 437 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 438 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 439 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 440 | [Sable](games/s/sable.md) | 4.51 | 
@@ -576,15 +576,15 @@
 | 574 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 575 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
-| 577 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
-| 578 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
-| 579 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 580 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 581 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 582 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 583 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 584 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 585 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 577 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
+| 578 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 579 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 580 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 581 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 582 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 583 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 584 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 585 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
 | 586 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 587 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 588 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
@@ -689,10 +689,10 @@
 | 687 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 688 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 689 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 690 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
-| 692 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 693 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 690 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 691 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 692 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 693 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 694 | [The Guild 3](games/t/the_guild_3.md) | 4.09 | 
 | 695 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 696 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 

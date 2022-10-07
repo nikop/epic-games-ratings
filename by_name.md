@@ -102,7 +102,7 @@
 | 100 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 102 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 103 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.37 | 
+| 103 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
 | 104 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 105 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 106 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -245,7 +245,7 @@
 | 243 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 244 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
 | 245 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 246 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 246 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 247 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 248 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 249 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -267,7 +267,7 @@
 | 265 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 266 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 267 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 268 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 268 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 269 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 270 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 271 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
