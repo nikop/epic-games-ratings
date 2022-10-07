@@ -610,7 +610,7 @@
 | 608 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 609 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 610 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 611 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
+| 611 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 612 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.32 | 
 | 613 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 614 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
@@ -651,7 +651,7 @@
 | 649 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 650 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
 | 651 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 652 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 653 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 654 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 655 | [Townscaper](games/t/townscaper.md) | 4.71 | 

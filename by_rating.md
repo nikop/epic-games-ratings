@@ -87,14 +87,14 @@
 | 85 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 86 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 87 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
-| 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 91 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 92 | [Haven](games/h/haven.md) | 4.78 | 
-| 93 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
-| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 88 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 89 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 91 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 92 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
+| 93 | [Haven](games/h/haven.md) | 4.78 | 
+| 94 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
+| 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 96 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 98 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -391,22 +391,22 @@
 | 389 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 390 | [Minit](games/m/minit.md) | 4.55 | 
 | 391 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 392 | [The Silent Age](games/t/the_silent_age.md) | 4.55 | 
-| 393 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 394 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 395 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 396 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 397 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 
-| 398 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 399 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 400 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 401 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 402 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 403 | [Outward](games/o/outward.md) | 4.53 | 
-| 404 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
-| 405 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 406 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 407 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 392 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 395 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 396 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.54 | 
+| 397 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 398 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 399 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 400 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 401 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 402 | [Outward](games/o/outward.md) | 4.53 | 
+| 403 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
+| 404 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 405 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 406 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 407 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 408 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 409 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 410 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
