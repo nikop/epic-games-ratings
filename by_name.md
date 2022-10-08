@@ -113,7 +113,7 @@
 | 111 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 112 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
 | 113 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 114 | [Conarium](games/c/conarium.md) | 4.04 | 
+| 114 | [Conarium](games/c/conarium.md) | 4.05 | 
 | 115 | [Control](games/c/control.md) | 4.60 | 
 | 116 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 117 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -622,7 +622,7 @@
 | 620 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 621 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 622 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 623 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 623 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 624 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 625 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 626 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -711,7 +711,7 @@
 | 709 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 710 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 711 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 712 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 712 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 713 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 714 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 715 | [Windbound](games/w/windbound.md) | 4.17 | 

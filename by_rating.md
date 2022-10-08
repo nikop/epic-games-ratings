@@ -313,22 +313,22 @@
 | 311 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 312 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 313 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 314 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 315 | [GRIME](games/g/grime.md) | 4.60 | 
-| 316 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 317 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 323 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 324 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 325 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 327 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 328 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 329 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 314 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 315 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 316 | [GRIME](games/g/grime.md) | 4.60 | 
+| 317 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 318 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 319 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 320 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 321 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 322 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 324 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 325 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 326 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 327 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 328 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 329 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 330 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 331 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
 | 332 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
@@ -417,23 +417,23 @@
 | 415 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 416 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
 | 417 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 418 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 419 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 420 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 421 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 422 | [Isonzo](games/i/isonzo.md) | 4.52 | 
-| 423 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 424 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 425 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 426 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 427 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 428 | [Horace](games/h/horace.md) | 4.52 | 
-| 429 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 430 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 431 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 432 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 433 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 434 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 418 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 419 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 420 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 421 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 422 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 423 | [Isonzo](games/i/isonzo.md) | 4.52 | 
+| 424 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 425 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 426 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 427 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 428 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 429 | [Horace](games/h/horace.md) | 4.52 | 
+| 430 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 431 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 432 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 433 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 434 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 435 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 436 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 437 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
@@ -704,10 +704,10 @@
 | 702 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 703 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 704 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 705 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 706 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
-| 708 | [Conarium](games/c/conarium.md) | 4.04 | 
+| 705 | [Conarium](games/c/conarium.md) | 4.05 | 
+| 706 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 707 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 708 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 709 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 710 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 711 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 

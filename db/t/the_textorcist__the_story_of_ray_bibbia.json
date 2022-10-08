@@ -1,10 +1,10 @@
 {
   "ID": "0f7039ef44ad4ee18f16f19d96cf2a6b",
   "Name": "The Textorcist: The Story of Ray Bibbia",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 78,
   "FirstSeen": "2022-07-22T20:21:57.7786659+00:00",
-  "LastChanged": "2022-10-06T18:02:07.3696932+00:00",
+  "LastChanged": "2022-10-08T18:01:13.3186601+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:57.7786661+00:00",
@@ -149,6 +149,11 @@
     {
       "Time": "2022-10-06T18:02:07.3696936+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-08T18:01:13.3186606+00:00",
+      "Rating": 4.6,
       "NumberOfRatings": null
     }
   ],
