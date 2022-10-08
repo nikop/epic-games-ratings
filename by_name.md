@@ -636,7 +636,7 @@
 | 634 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 635 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 636 | [This Is The Police](games/t/this_is_the_police.md) | 4.77 | 
-| 637 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 637 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 638 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 639 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 640 | [Timberborn](games/t/timberborn.md) | 4.69 | 
