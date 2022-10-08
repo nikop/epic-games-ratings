@@ -182,7 +182,7 @@
 | 180 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 181 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 182 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 183 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 183 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 184 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 185 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 186 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -595,7 +595,7 @@
 | 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 
 | 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 596 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 597 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 598 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 599 | [The Fall](games/t/the_fall.md) | 4.23 | 

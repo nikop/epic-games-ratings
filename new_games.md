@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 1 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 2 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 3 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 4 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
