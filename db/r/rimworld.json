@@ -1,10 +1,10 @@
 {
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
-  "Rating": 4.89,
+  "Rating": 4.88,
   "NumberOfRatings": 870,
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2022-09-22T18:01:32.877978+00:00",
+  "LastChanged": "2022-10-08T00:30:34.9072183+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -1090,6 +1090,11 @@
       "Time": "2022-09-22T18:01:32.8779781+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 870
+    },
+    {
+      "Time": "2022-10-08T00:30:34.9072186+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1103,7 +1108,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 191
+      "Count": 193
     },
     {
       "Text": "This game is Relaxing",

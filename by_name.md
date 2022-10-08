@@ -11,7 +11,7 @@
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
 | 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
-| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
@@ -283,7 +283,7 @@
 | 281 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 282 | [House Party](games/h/house_party.md) | 4.35 | 
 | 283 | [Hue](games/h/hue.md) | 4.55 | 
-| 284 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 284 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 285 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 286 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 287 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
@@ -466,7 +466,7 @@
 | 464 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 465 | [RiME](games/r/rime.md) | 4.65 | 
 | 466 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 467 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 467 | [RimWorld](games/r/rimworld.md) | 4.88 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 470 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
@@ -497,7 +497,7 @@
 | 495 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 496 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 497 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 498 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 
+| 498 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 499 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
 | 500 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 501 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -595,7 +595,7 @@
 | 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 
 | 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 596 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 597 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 598 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 599 | [The Fall](games/t/the_fall.md) | 4.23 | 
@@ -652,9 +652,9 @@
 | 650 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 651 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.79 | 
+| 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.78 | 
 | 654 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 656 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 657 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 658 | [Townscaper](games/t/townscaper.md) | 4.71 | 
