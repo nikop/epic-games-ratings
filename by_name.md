@@ -196,7 +196,7 @@
 | 194 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 195 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 196 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 197 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 197 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 198 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 199 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 200 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -343,7 +343,7 @@
 | 341 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 342 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
 | 343 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 344 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 344 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
 | 345 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 346 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 347 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.88 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.28 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.20 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -652,7 +652,7 @@
 | 650 | [Torchlight](games/t/torchlight.md) | 4.44 | 
 | 651 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.78 | 
+| 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
 | 654 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 656 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
