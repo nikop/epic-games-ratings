@@ -133,7 +133,7 @@
 | 131 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 132 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 133 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 134 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 134 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
 | 135 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 136 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 137 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -162,7 +162,7 @@
 | 160 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 161 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 162 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 163 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 163 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 165 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.58 | 
 | 166 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -310,7 +310,7 @@
 | 308 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 309 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 310 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 311 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 311 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 312 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 313 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
 | 314 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
@@ -589,7 +589,7 @@
 | 587 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 588 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 589 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 591 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
