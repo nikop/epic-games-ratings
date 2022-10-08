@@ -311,23 +311,23 @@
 | 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 311 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 313 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 314 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 315 | [GRIME](games/g/grime.md) | 4.60 | 
-| 316 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 317 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 318 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 319 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 320 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
-| 321 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 323 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 324 | [Hob](games/h/hob.md) | 4.59 | 
-| 325 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 326 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 327 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 328 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 312 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 313 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 314 | [GRIME](games/g/grime.md) | 4.60 | 
+| 315 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 316 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 317 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 318 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 319 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 322 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 323 | [Hob](games/h/hob.md) | 4.59 | 
+| 324 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 325 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 327 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 328 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 329 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 330 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
 | 331 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
@@ -473,16 +473,16 @@
 | 471 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 473 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 474 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
-| 475 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 476 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 477 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
-| 478 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 479 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 480 | [SMITE](games/s/smite.md) | 4.46 | 
-| 481 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 482 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 483 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
+| 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
+| 476 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 477 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 478 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
+| 479 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 480 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 481 | [SMITE](games/s/smite.md) | 4.46 | 
+| 482 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 483 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 484 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 485 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 486 | [Good Company](games/g/good_company.md) | 4.46 | 
@@ -545,20 +545,20 @@
 | 543 | [Runbow](games/r/runbow.md) | 4.41 | 
 | 544 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 545 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
-| 546 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 547 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
-| 548 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 549 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 550 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 551 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 552 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 554 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 555 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 557 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 558 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 559 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 546 | [Little Inferno](games/l/little_inferno.md) | 4.40 | 
+| 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 548 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 549 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 550 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 553 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 554 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 556 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 558 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 559 | [Weird West](games/w/weird_west.md) | 4.39 | 
 | 560 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 561 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 562 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
@@ -699,9 +699,9 @@
 | 697 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 698 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 699 | [Lake](games/l/lake.md) | 4.08 | 
-| 700 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 701 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 702 | [The Surge 2](games/t/the_surge_2.md) | 4.06 | 
+| 700 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 701 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 702 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 703 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 704 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 705 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 

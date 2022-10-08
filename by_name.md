@@ -363,7 +363,7 @@
 | 361 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 362 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 363 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 364 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.46 | 
+| 364 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 365 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
 | 366 | [Minit](games/m/minit.md) | 4.55 | 
 | 367 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -618,7 +618,7 @@
 | 616 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 617 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 618 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 619 | [The Surge 2](games/t/the_surge_2.md) | 4.06 | 
+| 619 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 620 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 621 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 622 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
@@ -634,7 +634,7 @@
 | 632 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 633 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 634 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 635 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 635 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 636 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
 | 637 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 638 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
@@ -706,7 +706,7 @@
 | 704 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 705 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
 | 706 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
-| 707 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 707 | [Weird West](games/w/weird_west.md) | 4.39 | 
 | 708 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 709 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 710 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
