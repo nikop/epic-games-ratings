@@ -587,18 +587,18 @@
 | 585 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 586 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 587 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 588 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 589 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 590 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 591 | [House Party](games/h/house_party.md) | 4.35 | 
-| 592 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 594 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 595 | [Encased](games/e/encased.md) | 4.35 | 
-| 596 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 597 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 598 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 599 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
+| 588 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 589 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 590 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 591 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 592 | [House Party](games/h/house_party.md) | 4.35 | 
+| 593 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 594 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 596 | [Encased](games/e/encased.md) | 4.35 | 
+| 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 598 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 599 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 600 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 601 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 602 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
