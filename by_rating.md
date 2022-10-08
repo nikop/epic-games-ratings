@@ -10,10 +10,10 @@
 | 8 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 9 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 10 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 11 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 12 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 13 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 14 | [RimWorld](games/r/rimworld.md) | 4.88 | 
+| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 12 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 15 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 16 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -296,20 +296,20 @@
 | 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 297 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 298 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 299 | [Control](games/c/control.md) | 4.60 | 
-| 300 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 301 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 302 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 303 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 304 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 306 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 307 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 310 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 299 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 300 | [Control](games/c/control.md) | 4.60 | 
+| 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 302 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 303 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 304 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 305 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 307 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 308 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 310 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 311 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 312 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 313 | [Roguebook](games/r/roguebook.md) | 4.60 | 
@@ -569,15 +569,15 @@
 | 567 | [Core](games/c/core.md) | 4.38 | 
 | 568 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 569 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 570 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
-| 571 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 572 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 573 | [Observation](games/o/observation.md) | 4.38 | 
-| 574 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 575 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 576 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 577 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
-| 578 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
+| 570 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
+| 571 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 572 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 573 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 574 | [Observation](games/o/observation.md) | 4.38 | 
+| 575 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 576 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 577 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 578 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
 | 579 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 580 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 581 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 

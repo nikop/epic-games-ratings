@@ -243,7 +243,7 @@
 | 241 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 242 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 243 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 244 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
+| 244 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
 | 245 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 246 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 247 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -466,7 +466,7 @@
 | 464 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 465 | [RiME](games/r/rime.md) | 4.65 | 
 | 466 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 467 | [RimWorld](games/r/rimworld.md) | 4.88 | 
+| 467 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 470 | [Rising Hell](games/r/rising_hell.md) | 4.18 | 
@@ -722,7 +722,7 @@
 | 720 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 721 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 722 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 723 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 723 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 724 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 725 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 726 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 

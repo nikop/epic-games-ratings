@@ -6,7 +6,7 @@
 | 4 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
 | 5 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 6 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 7 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
+| 7 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
 | 8 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 9 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 10 | [Isonzo](games/i/isonzo.md) | 4.52 | 
