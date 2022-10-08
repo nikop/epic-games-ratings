@@ -317,19 +317,19 @@
 | 315 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 316 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 317 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 318 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 319 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 320 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 321 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 322 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 324 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 325 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 326 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 327 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 328 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 329 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 330 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 318 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 319 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 320 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 321 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 322 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 323 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 324 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 325 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 326 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 327 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 328 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 329 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 330 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 331 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 332 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 333 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
@@ -460,14 +460,14 @@
 | 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 459 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 461 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 462 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 463 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 464 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 465 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 466 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 467 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 468 | [Paradigm](games/p/paradigm.md) | 4.49 | 
+| 461 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 462 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 463 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 464 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 465 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 466 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 467 | [Paradigm](games/p/paradigm.md) | 4.49 | 
+| 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 471 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -590,22 +590,22 @@
 | 588 | [House Party](games/h/house_party.md) | 4.35 | 
 | 589 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 590 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
-| 591 | [ELEX](games/e/elex.md) | 4.35 | 
-| 592 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 593 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 594 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 595 | [Encased](games/e/encased.md) | 4.35 | 
-| 596 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 597 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 598 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 599 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 600 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 601 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 602 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
-| 603 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 604 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 605 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 606 | [Tacoma](games/t/tacoma.md) | 4.33 | 
+| 591 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 592 | [ELEX](games/e/elex.md) | 4.35 | 
+| 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 594 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 596 | [Encased](games/e/encased.md) | 4.35 | 
+| 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 598 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 599 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 600 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 601 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 602 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 603 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 604 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 605 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 606 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 607 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 608 | [Parkitect](games/p/parkitect.md) | 4.33 | 
 | 609 | [Automachef](games/a/automachef.md) | 4.32 | 

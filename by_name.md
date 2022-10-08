@@ -54,7 +54,7 @@
 | 52 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 53 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 54 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 55 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 55 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 56 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 57 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 58 | [Backbone](games/b/backbone.md) | 4.39 | 
@@ -86,7 +86,7 @@
 | 84 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 85 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 86 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 87 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 87 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 88 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 89 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 90 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -577,7 +577,7 @@
 | 575 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 576 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 577 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 578 | [Tacoma](games/t/tacoma.md) | 4.33 | 
+| 578 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 579 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 580 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 581 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
