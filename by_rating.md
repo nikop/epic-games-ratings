@@ -258,19 +258,19 @@
 | 256 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 257 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 259 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 260 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 261 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 262 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 263 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 264 | [Old World](games/o/old_world.md) | 4.63 | 
-| 265 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 266 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 267 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 270 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 259 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 260 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 261 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 262 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 263 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 264 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 265 | [Old World](games/o/old_world.md) | 4.63 | 
+| 266 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 267 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 268 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 271 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 272 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 273 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -365,18 +365,18 @@
 | 363 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 365 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
-| 369 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 370 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 372 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
-| 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 366 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 367 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 368 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 369 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 370 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 371 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
+| 372 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 373 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 374 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 377 | [Heavy Rain](games/h/heavy_rain.md) | 4.56 | 
 | 378 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 379 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 380 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 

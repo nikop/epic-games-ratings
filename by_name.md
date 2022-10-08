@@ -264,7 +264,7 @@
 | 262 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 263 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 264 | [Haven](games/h/haven.md) | 4.78 | 
-| 265 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 265 | [Heavy Rain](games/h/heavy_rain.md) | 4.56 | 
 | 266 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 267 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 268 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
@@ -323,7 +323,7 @@
 | 321 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 322 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 323 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 324 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 324 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 325 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 326 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 327 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
