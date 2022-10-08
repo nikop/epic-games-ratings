@@ -270,20 +270,20 @@
 | 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 271 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 272 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 273 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 275 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 277 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
-| 278 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 279 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 280 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 281 | [20XX](games/2/20xx.md) | 4.62 | 
-| 282 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 283 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 284 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 271 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 272 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 273 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 275 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 276 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 277 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 278 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 279 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 280 | [20XX](games/2/20xx.md) | 4.62 | 
+| 281 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 282 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 284 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 285 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 286 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 287 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
@@ -545,18 +545,18 @@
 | 543 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 544 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 545 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 546 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
-| 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 548 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 549 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 550 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 551 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 553 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 554 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 556 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 546 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 547 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 555 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 557 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 558 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 559 | [Weird West](games/w/weird_west.md) | 4.39 | 
 | 560 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
@@ -628,14 +628,14 @@
 | 626 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 627 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 628 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 629 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 630 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 631 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 632 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 633 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 634 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 635 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 636 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 629 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 630 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 631 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 632 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 633 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 634 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 635 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 636 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 637 | [Rising Hell](games/r/rising_hell.md) | 4.27 | 
 | 638 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 639 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
