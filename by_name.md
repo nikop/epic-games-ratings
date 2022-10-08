@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.88 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.31 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.28 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -662,7 +662,7 @@
 | 660 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 661 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 662 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 663 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 663 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 664 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 665 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 666 | [Transistor](games/t/transistor.md) | 4.62 | 

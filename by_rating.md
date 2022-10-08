@@ -396,15 +396,15 @@
 | 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 395 | [Outward](games/o/outward.md) | 4.54 | 
 | 396 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 397 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 398 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 399 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 400 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 401 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 402 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 404 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
-| 405 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 397 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 398 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 399 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 400 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 401 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 402 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 403 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 404 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 405 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
 | 406 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 407 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 408 | [UnMetal](games/u/unmetal.md) | 4.53 | 
@@ -617,23 +617,23 @@
 | 615 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 616 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
 | 617 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 618 | [Rising Hell](games/r/rising_hell.md) | 4.31 | 
-| 619 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 620 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 621 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 622 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 623 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 624 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 625 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 626 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
-| 627 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 629 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 631 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 633 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 634 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 618 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 619 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 620 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 621 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 622 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 623 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 624 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 625 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 626 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 627 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 628 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 629 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 630 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 631 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 632 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 633 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 634 | [Rising Hell](games/r/rising_hell.md) | 4.28 | 
 | 635 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 636 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 637 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
