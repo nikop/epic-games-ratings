@@ -52,7 +52,7 @@
 | 50 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 51 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 52 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 53 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
+| 53 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 54 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 55 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 56 | [Aztez](games/a/aztez.md) | 4.45 | 
@@ -205,7 +205,7 @@
 | 203 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 204 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 205 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 206 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 206 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 207 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 208 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
 | 209 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
@@ -503,7 +503,7 @@
 | 501 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 502 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 504 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 504 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 505 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 506 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 507 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
@@ -592,7 +592,7 @@
 | 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 591 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 
+| 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
 | 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
 | 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -617,7 +617,7 @@
 | 615 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 616 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 617 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
-| 618 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 618 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 619 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 620 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 621 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
