@@ -90,16 +90,16 @@
 | 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
-| 91 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
-| 92 | [Haven](games/h/haven.md) | 4.78 | 
-| 93 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
-| 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 96 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
-| 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 99 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 100 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 91 | [Haven](games/h/haven.md) | 4.78 | 
+| 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
+| 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 94 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 95 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
+| 96 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
+| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 98 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 99 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 100 | [This Is The Police](games/t/this_is_the_police.md) | 4.77 | 
 | 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 103 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -448,25 +448,25 @@
 | 446 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 447 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 448 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
-| 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 450 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 451 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 453 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 456 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 457 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 458 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 459 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 460 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 461 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 462 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 463 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 464 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 465 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 466 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 467 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 449 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 452 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 454 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 457 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 458 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 459 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 460 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 461 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 462 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 463 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 464 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 465 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 466 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 467 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 468 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 470 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 

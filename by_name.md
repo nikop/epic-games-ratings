@@ -521,7 +521,7 @@
 | 519 | [SMITE](games/s/smite.md) | 4.46 | 
 | 520 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 521 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 522 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 522 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 523 | [SOMA](games/s/soma.md) | 4.69 | 
 | 524 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 525 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -635,7 +635,7 @@
 | 633 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 634 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 635 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 636 | [This Is The Police](games/t/this_is_the_police.md) | 4.78 | 
+| 636 | [This Is The Police](games/t/this_is_the_police.md) | 4.77 | 
 | 637 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 638 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 639 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
