@@ -438,7 +438,7 @@
 | 436 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 437 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 438 | [Pine](games/p/pine.md) | 4.13 | 
-| 439 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
+| 439 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
 | 440 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 441 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 442 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
@@ -541,7 +541,7 @@
 | 539 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 540 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 541 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
-| 542 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 542 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 543 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 544 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 545 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
