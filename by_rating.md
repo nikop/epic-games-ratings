@@ -232,32 +232,32 @@
 | 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 233 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 235 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 236 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 237 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 239 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 240 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 241 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 242 | [RiME](games/r/rime.md) | 4.65 | 
-| 243 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 244 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 246 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 247 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 248 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
-| 249 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 250 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
-| 251 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 252 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 253 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 254 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 255 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 257 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 233 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 234 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 235 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 236 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 237 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 238 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 239 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
+| 240 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 241 | [RiME](games/r/rime.md) | 4.65 | 
+| 242 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 243 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 244 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 245 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 246 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 247 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
+| 248 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 249 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 250 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 251 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 252 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 253 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 254 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 256 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 258 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 259 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 260 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 261 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
