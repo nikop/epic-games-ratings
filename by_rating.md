@@ -515,19 +515,19 @@
 | 513 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
 | 514 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 515 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 516 | [Figment](games/f/figment.md) | 4.43 | 
-| 517 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 519 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 520 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 521 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 522 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 523 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 524 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 525 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 526 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 527 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 528 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 516 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 517 | [Figment](games/f/figment.md) | 4.43 | 
+| 518 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 520 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 521 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 522 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 523 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 524 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 525 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 526 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 527 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 528 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 529 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 530 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 531 | [Torchlight](games/t/torchlight.md) | 4.42 | 
@@ -636,42 +636,42 @@
 | 634 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 635 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 636 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 637 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
-| 638 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 639 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 640 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
-| 641 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 642 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 643 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 645 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
-| 646 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 647 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 649 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 650 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
-| 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 652 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 653 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 654 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 655 | [The Fall](games/t/the_fall.md) | 4.22 | 
-| 656 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 657 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 658 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
-| 659 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 660 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 661 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 662 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 663 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 664 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 665 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 666 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 667 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
-| 668 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 669 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 670 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
-| 671 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
-| 672 | [Rising Hell](games/r/rising_hell.md) | 4.18 | 
+| 637 | [Rising Hell](games/r/rising_hell.md) | 4.27 | 
+| 638 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
+| 639 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 640 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 641 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
+| 642 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 643 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 644 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 645 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 646 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 647 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 648 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 649 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 650 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 651 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 652 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 653 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 654 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 655 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 656 | [The Fall](games/t/the_fall.md) | 4.22 | 
+| 657 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 658 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 659 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
+| 660 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 661 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 662 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 663 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 664 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 665 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 666 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 667 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 668 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
+| 669 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 670 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 671 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
+| 672 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 673 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 674 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 675 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 

@@ -239,7 +239,7 @@
 | 237 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 238 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 239 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 240 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 240 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 241 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 242 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 243 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.18 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.27 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
