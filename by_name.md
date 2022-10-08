@@ -80,7 +80,7 @@
 | 78 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 79 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
 | 80 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 
-| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
+| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
 | 82 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 83 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 84 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -436,7 +436,7 @@
 | 434 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 435 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 436 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 437 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 437 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 438 | [Pine](games/p/pine.md) | 4.13 | 
 | 439 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
 | 440 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
@@ -485,7 +485,7 @@
 | 483 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 484 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 485 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 486 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 486 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 487 | [Sable](games/s/sable.md) | 4.51 | 
 | 488 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 489 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -558,7 +558,7 @@
 | 556 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 557 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 558 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 559 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 559 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 560 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 561 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 562 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
@@ -589,7 +589,7 @@
 | 587 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 588 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 589 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 591 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
@@ -649,7 +649,7 @@
 | 647 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 648 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 649 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 650 | [Torchlight](games/t/torchlight.md) | 4.44 | 
+| 650 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 651 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 

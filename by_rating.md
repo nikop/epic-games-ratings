@@ -41,11 +41,11 @@
 | 39 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 40 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 41 | [Firework](games/f/firework.md) | 4.85 | 
-| 42 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 43 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 44 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 45 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 46 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 42 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 43 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 44 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 45 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 46 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 48 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
@@ -227,15 +227,15 @@
 | 225 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 226 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 228 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 229 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 231 | [Limbo](games/l/limbo.md) | 4.66 | 
-| 232 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 233 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 235 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 236 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 228 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 230 | [Limbo](games/l/limbo.md) | 4.66 | 
+| 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 233 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 234 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 235 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 236 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 237 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 238 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 239 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
@@ -509,18 +509,18 @@
 | 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 508 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 509 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 510 | [Torchlight](games/t/torchlight.md) | 4.44 | 
-| 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 512 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 513 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
-| 514 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 515 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 516 | [Figment](games/f/figment.md) | 4.43 | 
-| 517 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 518 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 520 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 521 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 511 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 512 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
+| 513 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 514 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 515 | [Figment](games/f/figment.md) | 4.43 | 
+| 516 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 517 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 519 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 520 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 521 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 522 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 523 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 524 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -531,11 +531,11 @@
 | 529 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 530 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 531 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 532 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 533 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
-| 534 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 536 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 532 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 533 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 534 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
+| 535 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 536 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 537 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 538 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 539 | [Sheltered](games/s/sheltered.md) | 4.41 | 
@@ -639,10 +639,10 @@
 | 637 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 638 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 639 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 640 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 641 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 642 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 643 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
+| 640 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
+| 641 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 642 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 643 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 645 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 646 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
@@ -713,9 +713,9 @@
 | 711 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
 | 712 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
 | 713 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 714 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
-| 715 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 716 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
+| 714 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 715 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
+| 716 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 717 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 718 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 719 | [Warface](games/w/warface.md) | 3.94 | 
