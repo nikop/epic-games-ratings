@@ -4,7 +4,7 @@
 | 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
@@ -505,7 +505,7 @@
 | 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 504 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 505 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 506 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 506 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 507 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 508 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 509 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
@@ -667,7 +667,7 @@
 | 665 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 666 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 667 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 668 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 
+| 668 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
 | 669 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 670 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 671 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
