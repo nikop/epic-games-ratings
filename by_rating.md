@@ -229,15 +229,15 @@
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 228 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 231 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 232 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 233 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 234 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 235 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 236 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 237 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 238 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 230 | [Limbo](games/l/limbo.md) | 4.66 | 
+| 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 233 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 234 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 235 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 236 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 237 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 239 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 240 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 241 | [RiME](games/r/rime.md) | 4.65 | 
@@ -691,10 +691,10 @@
 | 689 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 690 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 691 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 692 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 693 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 694 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 695 | [The Guild 3](games/t/the_guild_3.md) | 4.09 | 
+| 692 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 693 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 694 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 695 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 696 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 697 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 698 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 

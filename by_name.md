@@ -342,7 +342,7 @@
 | 340 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 341 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 342 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
-| 343 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 343 | [Limbo](games/l/limbo.md) | 4.66 | 
 | 344 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
 | 345 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 346 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
@@ -601,7 +601,7 @@
 | 599 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 600 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 601 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 602 | [The Guild 3](games/t/the_guild_3.md) | 4.09 | 
+| 602 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
 | 603 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 604 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 605 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
