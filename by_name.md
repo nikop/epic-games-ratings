@@ -238,7 +238,7 @@
 | 236 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 237 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 238 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 239 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.81 | 
+| 239 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 240 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 241 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 242 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 

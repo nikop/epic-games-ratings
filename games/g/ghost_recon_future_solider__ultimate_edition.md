@@ -1,5 +1,5 @@
 # Ghost Recon Future Solider: Ultimate Edition
-Rating: 4.81 (23)  (as of 23.09.2022)  
+Rating: 4.79 (23)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Rating: 4.81 (23)  (as of 23.09.2022)
 | 2022-09-19 | 4.83 | 23 |
 | 2022-10-01 | 4.80 | - |
 | 2022-10-07 | 4.81 | - |
+| 2022-10-08 | 4.79 | - |
