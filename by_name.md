@@ -14,7 +14,7 @@
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
+| 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
@@ -186,7 +186,7 @@
 | 184 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 185 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 186 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 187 | [ELEX](games/e/elex.md) | 4.34 | 
+| 187 | [ELEX](games/e/elex.md) | 4.35 | 
 | 188 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 189 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 190 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
@@ -204,7 +204,7 @@
 | 202 | [Far Cry](games/f/far_cry.md) | 4.45 | 
 | 203 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 204 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 205 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 205 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 206 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 207 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 208 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
@@ -219,7 +219,7 @@
 | 217 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 218 | [Fez](games/f/fez.md) | 4.72 | 
 | 219 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
-| 220 | [Figment](games/f/figment.md) | 4.42 | 
+| 220 | [Figment](games/f/figment.md) | 4.43 | 
 | 221 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 222 | [Firework](games/f/firework.md) | 4.85 | 
 | 223 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
@@ -375,13 +375,13 @@
 | 373 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 374 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 375 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 376 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 376 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 377 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 378 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
 | 379 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 380 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 381 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 382 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 382 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 383 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 384 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 385 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -560,7 +560,7 @@
 | 558 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 559 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 560 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 561 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
+| 561 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 562 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
 | 563 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 564 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
@@ -577,7 +577,7 @@
 | 575 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 576 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 577 | [Tacoma](games/t/tacoma.md) | 4.33 | 
-| 578 | [Tails of Iron](games/t/tails_of_iron.md) | 4.79 | 
+| 578 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 579 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 580 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 581 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -662,7 +662,7 @@
 | 660 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 661 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 662 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 663 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 663 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 664 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 665 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 666 | [Transistor](games/t/transistor.md) | 4.62 | 
