@@ -10,7 +10,7 @@
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 9 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 10 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
-| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.80 | 
+| 11 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 12 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 13 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 14 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
@@ -57,7 +57,7 @@
 | 55 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 56 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 57 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 58 | [Backbone](games/b/backbone.md) | 4.38 | 
+| 58 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 59 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 60 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 61 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
@@ -102,7 +102,7 @@
 | 100 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 102 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 103 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
+| 103 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
 | 104 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 105 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 106 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -150,7 +150,7 @@
 | 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 149 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 150 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 151 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 151 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 152 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 153 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 154 | [Death's Door](games/d/death's_door.md) | 4.64 | 
@@ -158,7 +158,7 @@
 | 156 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 157 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 158 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 159 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 159 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 160 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 161 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 162 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
@@ -202,13 +202,13 @@
 | 200 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 201 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 202 | [Far Cry](games/f/far_cry.md) | 4.45 | 
-| 203 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
+| 203 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 204 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 205 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 206 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 207 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 208 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
-| 209 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 209 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 210 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 211 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 212 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
@@ -314,7 +314,7 @@
 | 312 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 313 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
 | 314 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 315 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 315 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 316 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 317 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 318 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
@@ -381,7 +381,7 @@
 | 379 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 380 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 381 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 382 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 382 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 383 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 384 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 385 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -391,7 +391,7 @@
 | 389 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 390 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 391 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 392 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 392 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 393 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 394 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 395 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
@@ -448,7 +448,7 @@
 | 446 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 447 | [Quake](games/q/quake.md) | 4.80 | 
 | 448 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 449 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 449 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 450 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 451 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 452 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -684,7 +684,7 @@
 | 682 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 683 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 684 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
-| 685 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
+| 685 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 686 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 687 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 688 | [Vampyr](games/v/vampyr.md) | 4.31 | 
@@ -692,7 +692,7 @@
 | 690 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 691 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 692 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 693 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 693 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 694 | [Warface](games/w/warface.md) | 3.94 | 
 | 695 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 696 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
