@@ -510,12 +510,12 @@
 | 508 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 509 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 511 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 512 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
-| 513 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 514 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 515 | [Figment](games/f/figment.md) | 4.43 | 
-| 516 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 511 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 512 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 513 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
+| 514 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 515 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 516 | [Figment](games/f/figment.md) | 4.43 | 
 | 517 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 519 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
@@ -709,25 +709,26 @@
 | 707 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 708 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 709 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 710 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 711 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
-| 712 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
-| 713 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 714 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 715 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
-| 716 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 717 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
-| 718 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 719 | [Warface](games/w/warface.md) | 3.94 | 
-| 720 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 721 | [Patron](games/p/patron.md) | 3.93 | 
-| 722 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 723 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 724 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
-| 725 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 726 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 727 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 728 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 729 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 730 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
-| 731 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
+| 710 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.04 | 
+| 711 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 712 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
+| 713 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
+| 714 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 715 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 716 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
+| 717 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 718 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
+| 719 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 720 | [Warface](games/w/warface.md) | 3.94 | 
+| 721 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
+| 722 | [Patron](games/p/patron.md) | 3.93 | 
+| 723 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
+| 724 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 725 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
+| 726 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 727 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 728 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 729 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 730 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
+| 731 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
+| 732 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
