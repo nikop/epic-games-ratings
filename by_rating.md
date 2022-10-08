@@ -280,24 +280,24 @@
 | 278 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 279 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 280 | [20XX](games/2/20xx.md) | 4.62 | 
-| 281 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 283 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 284 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 285 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
-| 286 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 287 | [Prey](games/p/prey.md) | 4.61 | 
-| 288 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 289 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 290 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 291 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 297 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 298 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 281 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 282 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 284 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 285 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 286 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
+| 287 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 288 | [Prey](games/p/prey.md) | 4.61 | 
+| 289 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 290 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 291 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 292 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 299 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
 | 300 | [Control](games/c/control.md) | 4.60 | 
 | 301 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
