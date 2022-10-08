@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
-| 2 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 2 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 3 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 4 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
 | 5 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 

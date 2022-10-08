@@ -119,7 +119,7 @@
 | 117 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 118 | [Core](games/c/core.md) | 4.38 | 
 | 119 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 120 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 120 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 121 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 122 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 123 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -283,7 +283,7 @@
 | 281 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 282 | [House Party](games/h/house_party.md) | 4.35 | 
 | 283 | [Hue](games/h/hue.md) | 4.55 | 
-| 284 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 284 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 285 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 286 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 287 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
@@ -385,7 +385,7 @@
 | 383 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 384 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 385 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 386 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
+| 386 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 387 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 388 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 389 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
@@ -408,7 +408,7 @@
 | 406 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 407 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 408 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 409 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 409 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 410 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 411 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 412 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -429,7 +429,7 @@
 | 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 428 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 429 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 430 | [Patron](games/p/patron.md) | 3.90 | 
+| 430 | [Patron](games/p/patron.md) | 3.93 | 
 | 431 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 433 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
@@ -485,7 +485,7 @@
 | 483 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 484 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 485 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 486 | [Runbow](games/r/runbow.md) | 4.41 | 
+| 486 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 487 | [Sable](games/s/sable.md) | 4.51 | 
 | 488 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 489 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
