@@ -305,7 +305,7 @@
 | 303 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 304 | [Journey](games/j/journey.md) | 4.75 | 
 | 305 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 307 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 308 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 309 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
