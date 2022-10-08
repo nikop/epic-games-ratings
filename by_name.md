@@ -198,7 +198,7 @@
 | 196 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
 | 197 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 198 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 199 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 199 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 200 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 201 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 202 | [Far Cry](games/f/far_cry.md) | 4.45 | 
@@ -594,7 +594,7 @@
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
 | 594 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
+| 595 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 597 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 598 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 

@@ -51,29 +51,29 @@
 | 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 51 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 
-| 52 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.83 | 
-| 53 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 54 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 58 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 59 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 62 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 63 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 64 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 65 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 66 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 67 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 68 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 69 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 70 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 71 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 72 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
-| 73 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 74 | [Quake](games/q/quake.md) | 4.80 | 
+| 52 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 53 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 54 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
+| 56 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 58 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 61 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 62 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 63 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 64 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 65 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 66 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 67 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 68 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 69 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 70 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 71 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
+| 72 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 73 | [Quake](games/q/quake.md) | 4.80 | 
+| 74 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 75 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
 | 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 77 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
@@ -530,16 +530,16 @@
 | 528 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 529 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 530 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 531 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 532 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 533 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 534 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
-| 535 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 536 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 537 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 538 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 539 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 540 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 531 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 532 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 533 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
+| 534 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
+| 536 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 537 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 538 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 539 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 540 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 541 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 542 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 543 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
