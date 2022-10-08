@@ -322,29 +322,29 @@
 | 320 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
 | 322 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 323 | [Hob](games/h/hob.md) | 4.59 | 
-| 324 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 325 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
-| 327 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
-| 328 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 329 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 330 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
-| 331 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
-| 332 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 333 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 334 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 335 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 336 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
-| 337 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 338 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 339 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 340 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 341 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 342 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 343 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 344 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 345 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 323 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 324 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 326 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 327 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
+| 328 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 329 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 330 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
+| 331 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 332 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 333 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 334 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 335 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.59 | 
+| 336 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 337 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 338 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 339 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 340 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 341 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 342 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 343 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 344 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 345 | [Hob](games/h/hob.md) | 4.58 | 
 | 346 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 348 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -375,16 +375,16 @@
 | 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 377 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 378 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 379 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 380 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 381 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 382 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 383 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 384 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 385 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
+| 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 378 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 379 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 380 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 381 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
+| 382 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 383 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 384 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 385 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 386 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 387 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
