@@ -1,5 +1,5 @@
 # Baldur's Gate Dark Alliance II
-Rating: 4.38 (31)  (as of 23.09.2022)  
+Rating: 4.37 (31)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Rating: 4.38 (31)  (as of 23.09.2022)
 | 2022-09-05 | 4.33 | 30 |
 | 2022-09-19 | 4.35 | 31 |
 | 2022-10-01 | 4.38 | - |
+| 2022-10-08 | 4.37 | - |

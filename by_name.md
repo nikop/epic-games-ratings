@@ -58,8 +58,8 @@
 | 56 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 57 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 58 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 59 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 60 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 59 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 60 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
 | 61 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 62 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
 | 63 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
@@ -137,7 +137,7 @@
 | 135 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 136 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 137 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 138 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 138 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 139 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 140 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 141 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -255,7 +255,7 @@
 | 253 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 254 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 255 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 256 | [GRIME](games/g/grime.md) | 4.60 | 
+| 256 | [GRIME](games/g/grime.md) | 4.61 | 
 | 257 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 258 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
 | 259 | [Hades](games/h/hades.md) | 4.92 | 
@@ -565,7 +565,7 @@
 | 563 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 564 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
 | 565 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 566 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
+| 566 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 567 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
 | 568 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 569 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -598,7 +598,7 @@
 | 596 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 597 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 598 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 599 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 599 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 600 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 601 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 602 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
