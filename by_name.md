@@ -231,7 +231,7 @@
 | 229 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 230 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 231 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 232 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 232 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 233 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 234 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 235 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 

@@ -657,9 +657,9 @@
 | 655 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 656 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 657 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 658 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
-| 659 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 660 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 658 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 659 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
+| 660 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 661 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 662 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 663 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
