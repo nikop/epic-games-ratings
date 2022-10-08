@@ -381,7 +381,7 @@
 | 379 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 380 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 381 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 382 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 382 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 383 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 384 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 385 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.88 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.20 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.18 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 

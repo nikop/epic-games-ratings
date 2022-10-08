@@ -645,13 +645,13 @@
 | 643 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 644 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 645 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
-| 646 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 648 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 649 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 650 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
-| 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 652 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 646 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 647 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 649 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 650 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 651 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 652 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 653 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 654 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 655 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
@@ -664,14 +664,14 @@
 | 662 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 663 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 664 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 665 | [Rising Hell](games/r/rising_hell.md) | 4.20 | 
-| 666 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 667 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 668 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
-| 669 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 670 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 671 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
-| 672 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
+| 665 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 666 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 667 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
+| 668 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 669 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 670 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
+| 671 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
+| 672 | [Rising Hell](games/r/rising_hell.md) | 4.18 | 
 | 673 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 674 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 675 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 
