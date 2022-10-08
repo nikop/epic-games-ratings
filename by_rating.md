@@ -587,37 +587,37 @@
 | 585 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 586 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 587 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 588 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
-| 589 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 590 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 591 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 592 | [House Party](games/h/house_party.md) | 4.35 | 
-| 593 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 594 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 596 | [Encased](games/e/encased.md) | 4.35 | 
-| 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 598 | [Hammerting](games/h/hammerting.md) | 4.35 | 
-| 599 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 600 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 601 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 602 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 603 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 604 | [ELEX](games/e/elex.md) | 4.34 | 
-| 605 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
-| 606 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 607 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 608 | [Tacoma](games/t/tacoma.md) | 4.33 | 
-| 609 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 610 | [Parkitect](games/p/parkitect.md) | 4.33 | 
-| 611 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 612 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 613 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 614 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 615 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
-| 616 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 617 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
-| 618 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 588 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 589 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 590 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 591 | [House Party](games/h/house_party.md) | 4.35 | 
+| 592 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 594 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 595 | [Encased](games/e/encased.md) | 4.35 | 
+| 596 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 597 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 598 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 599 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 600 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 601 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 602 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 603 | [ELEX](games/e/elex.md) | 4.34 | 
+| 604 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.34 | 
+| 605 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 606 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 607 | [Tacoma](games/t/tacoma.md) | 4.33 | 
+| 608 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 609 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 610 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 611 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 612 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 613 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 614 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
+| 615 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 616 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
+| 617 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 618 | [Rising Hell](games/r/rising_hell.md) | 4.31 | 
 | 619 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 620 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 621 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
@@ -644,18 +644,18 @@
 | 642 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 643 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 644 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 645 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 646 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 647 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 648 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 649 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 650 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
-| 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 652 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 653 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 654 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 655 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 656 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
+| 645 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
+| 646 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 647 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 648 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 649 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 650 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 651 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 652 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 653 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 654 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 655 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 656 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 657 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 658 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 659 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 

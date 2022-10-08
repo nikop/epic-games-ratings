@@ -80,7 +80,7 @@
 | 78 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 79 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
 | 80 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 
-| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
+| 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 82 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 83 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 84 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.88 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.31 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
