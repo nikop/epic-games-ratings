@@ -1,10 +1,10 @@
 {
   "ID": "52326e805bac4619a4a8fac165363a42",
   "Name": "Gone Home",
-  "Rating": 4.12,
+  "Rating": 4.13,
   "NumberOfRatings": 55,
   "FirstSeen": "2022-07-22T20:25:36.6755135+00:00",
-  "LastChanged": "2022-10-06T01:31:50.7087742+00:00",
+  "LastChanged": "2022-10-08T01:31:46.1111973+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:36.6755139+00:00",
@@ -159,6 +159,11 @@
     {
       "Time": "2022-10-06T01:31:50.7087745+00:00",
       "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-08T01:31:46.1111975+00:00",
+      "Rating": 4.13,
       "NumberOfRatings": null
     }
   ],

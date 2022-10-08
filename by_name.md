@@ -249,7 +249,7 @@
 | 247 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 248 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 249 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 250 | [Gone Home](games/g/gone_home.md) | 4.12 | 
+| 250 | [Gone Home](games/g/gone_home.md) | 4.13 | 
 | 251 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 252 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 253 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -414,7 +414,7 @@
 | 412 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 413 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 414 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 415 | [Outward](games/o/outward.md) | 4.53 | 
+| 415 | [Outward](games/o/outward.md) | 4.54 | 
 | 416 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 417 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 418 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
@@ -498,7 +498,7 @@
 | 496 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
 | 497 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 498 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
-| 499 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 499 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 500 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 501 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 502 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 

@@ -258,30 +258,30 @@
 | 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 257 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 259 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 260 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 261 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 262 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 263 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 264 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 265 | [Old World](games/o/old_world.md) | 4.63 | 
-| 266 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 267 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 268 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 271 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
-| 272 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 273 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
-| 274 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 275 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 276 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 277 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 278 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 279 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 280 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 281 | [20XX](games/2/20xx.md) | 4.62 | 
-| 282 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 259 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 260 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 261 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 262 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 263 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 264 | [Old World](games/o/old_world.md) | 4.63 | 
+| 265 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 266 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 267 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 271 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 273 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 274 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 277 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 278 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 279 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 280 | [20XX](games/2/20xx.md) | 4.62 | 
+| 281 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 283 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 284 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 285 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
@@ -394,14 +394,14 @@
 | 392 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 393 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 394 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 395 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 396 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 397 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 398 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 399 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 400 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 401 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 402 | [Outward](games/o/outward.md) | 4.53 | 
+| 395 | [Outward](games/o/outward.md) | 4.54 | 
+| 396 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 397 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 398 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 399 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 400 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 401 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 402 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 403 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 404 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
 | 405 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
@@ -682,13 +682,13 @@
 | 680 | [Pine](games/p/pine.md) | 4.13 | 
 | 681 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 682 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 683 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 684 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 685 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 686 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 687 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
-| 688 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
-| 689 | [Gone Home](games/g/gone_home.md) | 4.12 | 
+| 683 | [Gone Home](games/g/gone_home.md) | 4.13 | 
+| 684 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 685 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 686 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 687 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 688 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
+| 689 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.12 | 
 | 690 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 691 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 692 | [Obduction](games/o/obduction.md) | 4.09 | 
