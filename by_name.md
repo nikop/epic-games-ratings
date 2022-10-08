@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.27 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.29 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -668,7 +668,7 @@
 | 666 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 667 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 668 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 669 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 
+| 669 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
 | 670 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 671 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 672 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
