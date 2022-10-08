@@ -133,7 +133,7 @@
 | 131 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 132 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 133 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 134 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 134 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 135 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 136 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 137 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -298,7 +298,7 @@
 | 296 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 297 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 298 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 299 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 299 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 300 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 301 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 302 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 

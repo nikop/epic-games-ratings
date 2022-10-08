@@ -255,21 +255,21 @@
 | 253 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 254 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 256 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 258 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 259 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 260 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 261 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 262 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 263 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 264 | [Old World](games/o/old_world.md) | 4.63 | 
-| 265 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 266 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 267 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 256 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 257 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 259 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 260 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 261 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 262 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 263 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 264 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 265 | [Old World](games/o/old_world.md) | 4.63 | 
+| 266 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 267 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 268 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 271 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
 | 273 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -575,14 +575,14 @@
 | 573 | [Backbone](games/b/backbone.md) | 4.38 | 
 | 574 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 575 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
-| 577 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
-| 578 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 579 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 580 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 581 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 582 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 576 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 577 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
+| 578 | [Gloomhaven](games/g/gloomhaven.md) | 4.37 | 
+| 579 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 580 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 581 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 582 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 583 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 584 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
 | 585 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 586 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
