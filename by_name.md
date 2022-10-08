@@ -589,7 +589,7 @@
 | 587 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 588 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
 | 589 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 590 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 591 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 593 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.45 | 

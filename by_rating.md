@@ -225,16 +225,16 @@
 | 223 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 224 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 226 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 228 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
-| 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 233 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 234 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 235 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 226 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 227 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 228 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 231 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 232 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 233 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 234 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 235 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 236 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 237 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 238 | [Limbo](games/l/limbo.md) | 4.65 | 
