@@ -169,7 +169,7 @@
 | 167 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 168 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 169 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 170 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 170 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 171 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 172 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 173 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 

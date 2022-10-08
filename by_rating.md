@@ -16,12 +16,12 @@
 | 14 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 15 | [RimWorld](games/r/rimworld.md) | 4.88 | 
 | 16 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 18 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 19 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 20 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 19 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 20 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
+| 21 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
