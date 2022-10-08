@@ -111,7 +111,7 @@
 | 109 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 110 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 111 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 112 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
+| 112 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 113 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 114 | [Conarium](games/c/conarium.md) | 4.05 | 
 | 115 | [Control](games/c/control.md) | 4.60 | 
@@ -195,7 +195,7 @@
 | 193 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 194 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 195 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 196 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 
+| 196 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 197 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 198 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 199 | [Faeria](games/f/faeria.md) | 4.41 | 
@@ -303,7 +303,7 @@
 | 301 | [Isonzo](games/i/isonzo.md) | 4.52 | 
 | 302 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 303 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 304 | [Journey](games/j/journey.md) | 4.75 | 
+| 304 | [Journey](games/j/journey.md) | 4.76 | 
 | 305 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 307 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -364,7 +364,7 @@
 | 362 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 363 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 364 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 365 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.37 | 
+| 365 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 366 | [Minit](games/m/minit.md) | 4.55 | 
 | 367 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 368 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -403,7 +403,7 @@
 | 401 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 402 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 403 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 404 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.31 | 
+| 404 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 405 | [Old World](games/o/old_world.md) | 4.63 | 
 | 406 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 407 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -702,7 +702,7 @@
 | 700 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 701 | [Warpips](games/w/warpips.md) | 4.50 | 
 | 702 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 703 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.52 | 
+| 703 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 704 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 705 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 706 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 

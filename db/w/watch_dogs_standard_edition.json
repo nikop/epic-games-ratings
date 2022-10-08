@@ -1,10 +1,10 @@
 {
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 1912,
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2022-10-01T18:30:48.1739763+00:00",
+  "LastChanged": "2022-10-08T21:00:51.5797248+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -870,6 +870,11 @@
       "Time": "2022-10-01T18:30:48.1739765+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-08T21:00:51.5797252+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -891,6 +896,10 @@
     },
     {
       "Text": "This game is Relaxing",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
       "Count": 20
     }
   ]
