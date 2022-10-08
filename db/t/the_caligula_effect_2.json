@@ -1,10 +1,10 @@
 {
   "ID": "380b93eff8d14bf5b7ba9e39979af8f3",
   "Name": "The Caligula Effect 2",
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 32,
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
-  "LastChanged": "2022-08-14T06:37:12.2001339+00:00",
+  "LastChanged": "2022-10-08T23:00:50.0485935+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:58.3140989+00:00",
@@ -25,6 +25,11 @@
       "Time": "2022-08-14T06:37:12.2001342+00:00",
       "Rating": 4.41,
       "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-10-08T23:00:50.0485946+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

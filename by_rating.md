@@ -83,13 +83,13 @@
 | 81 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 82 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 83 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 84 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
-| 85 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
-| 86 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 87 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 88 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 90 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 84 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
+| 85 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
+| 86 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
+| 87 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 88 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 89 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 91 | [Haven](games/h/haven.md) | 4.78 | 
 | 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
@@ -535,30 +535,30 @@
 | 533 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
 | 534 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 536 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 537 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 538 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 539 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 540 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 541 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 542 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 543 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 544 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 536 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 537 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 538 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 539 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 540 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 541 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 542 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 543 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 544 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 545 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 546 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 547 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 548 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 550 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
-| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 555 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 557 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 558 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 559 | [Weird West](games/w/weird_west.md) | 4.39 | 
+| 548 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 549 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 551 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 552 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 553 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 554 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 556 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 557 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 558 | [Weird West](games/w/weird_west.md) | 4.39 | 
+| 559 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
 | 560 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 561 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 562 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
@@ -706,10 +706,10 @@
 | 704 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 705 | [Conarium](games/c/conarium.md) | 4.05 | 
 | 706 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 707 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 708 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
-| 709 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 710 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.04 | 
+| 707 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.05 | 
+| 708 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 709 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
+| 710 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 711 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 712 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 713 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 

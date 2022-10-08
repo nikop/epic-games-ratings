@@ -317,7 +317,7 @@
 | 315 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 316 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 317 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 318 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 318 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
 | 319 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
 | 320 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 321 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -495,7 +495,7 @@
 | 493 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 494 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 495 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 496 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 
+| 496 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 497 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 498 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 499 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
@@ -514,7 +514,7 @@
 | 512 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 513 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 514 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 515 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.04 | 
+| 515 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.05 | 
 | 516 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 517 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 518 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -588,7 +588,7 @@
 | 586 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 587 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 588 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
-| 589 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.41 | 
+| 589 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 590 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 591 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 592 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
