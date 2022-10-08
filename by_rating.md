@@ -201,23 +201,23 @@
 | 199 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 200 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 201 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 202 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
-| 203 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 204 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 205 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 207 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 208 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 209 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 210 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 211 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 213 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 214 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 215 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
-| 216 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
-| 217 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
-| 218 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 202 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 203 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 204 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 205 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 206 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 207 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 208 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 209 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 210 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 211 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 212 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 213 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 214 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 215 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 216 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 217 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
+| 218 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 219 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
 | 220 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 221 | [APE OUT](games/a/ape_out.md) | 4.67 | 
@@ -364,18 +364,18 @@
 | 362 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 363 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 365 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 366 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 369 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
-| 370 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 371 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 373 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
-| 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 365 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 369 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 370 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 372 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
+| 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 377 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 378 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 379 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
@@ -717,8 +717,8 @@
 | 715 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 716 | [Pinball FX](games/p/pinball_fx.md) | 3.97 | 
 | 717 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
-| 718 | [Warface](games/w/warface.md) | 3.95 | 
-| 719 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 718 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 719 | [Warface](games/w/warface.md) | 3.94 | 
 | 720 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
 | 721 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 722 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 

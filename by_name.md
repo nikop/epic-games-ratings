@@ -144,7 +144,7 @@
 | 142 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 143 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 144 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 145 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 145 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 146 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
 | 147 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 148 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -539,7 +539,7 @@
 | 537 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 538 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 539 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 540 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 540 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 541 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
 | 542 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 543 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
@@ -693,7 +693,7 @@
 | 691 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 692 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 693 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 694 | [Warface](games/w/warface.md) | 3.95 | 
+| 694 | [Warface](games/w/warface.md) | 3.94 | 
 | 695 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 696 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 697 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
