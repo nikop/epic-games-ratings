@@ -141,7 +141,7 @@
 | 139 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
 | 140 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 141 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 142 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 142 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 143 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 144 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 145 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -549,7 +549,7 @@
 | 547 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 548 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 549 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 550 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.59 | 
+| 550 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 551 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 552 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 553 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
@@ -563,7 +563,7 @@
 | 561 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 562 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
 | 563 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 564 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.67 | 
+| 564 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 565 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 566 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 567 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
@@ -620,7 +620,7 @@
 | 618 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 619 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
 | 620 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 621 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 621 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 622 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
 | 623 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 624 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
@@ -628,7 +628,7 @@
 | 626 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 627 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
 | 628 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 629 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.80 | 
+| 629 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
 | 630 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 631 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 632 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -651,7 +651,7 @@
 | 649 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 650 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 651 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 652 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 653 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
 | 654 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 655 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 

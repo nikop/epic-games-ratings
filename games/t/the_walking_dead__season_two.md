@@ -1,5 +1,5 @@
 # The Walking Dead: Season Two
-Rating: 4.80 (24)  (as of 23.09.2022)  
+Rating: 4.81 (24)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Rating: 4.80 (24)  (as of 23.09.2022)
 | 2022-09-17 | 4.87 | 23 |
 | 2022-09-20 | 4.79 | 24 |
 | 2022-09-24 | 4.80 | - |
+| 2022-10-08 | 4.81 | - |
