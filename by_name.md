@@ -92,7 +92,7 @@
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.19 | 
+| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -167,7 +167,7 @@
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 167 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 168 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 168 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 169 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 170 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 171 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
@@ -444,7 +444,7 @@
 | 442 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 443 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 444 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
-| 445 | [Prey](games/p/prey.md) | 4.60 | 
+| 445 | [Prey](games/p/prey.md) | 4.61 | 
 | 446 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 447 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 448 | [Quake](games/q/quake.md) | 4.80 | 
@@ -531,7 +531,7 @@
 | 529 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 530 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 531 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 532 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 532 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 533 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 534 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 535 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -653,7 +653,7 @@
 | 651 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 652 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 653 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 654 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
+| 654 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 655 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
 | 656 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 657 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 

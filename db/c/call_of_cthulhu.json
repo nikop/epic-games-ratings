@@ -1,10 +1,10 @@
 {
   "ID": "9e7e8e8f6a324e1183e9aa63cc901b9a",
   "Name": "Call of Cthulhu",
-  "Rating": 4.19,
+  "Rating": 4.23,
   "FirstSeen": "2022-09-24T13:06:25.3949128+00:00",
   "FirstSeenRating": "2022-10-03T16:01:44.7804784+00:00",
-  "LastChanged": "2022-10-07T16:00:58.3270083+00:00",
+  "LastChanged": "2022-10-09T16:01:18.6593987+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-03T16:01:44.7804788+00:00",
@@ -29,6 +29,11 @@
     {
       "Time": "2022-10-07T16:00:58.3270087+00:00",
       "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-09T16:01:18.6593989+00:00",
+      "Rating": 4.23,
       "NumberOfRatings": null
     }
   ],
