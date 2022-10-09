@@ -52,7 +52,7 @@
 | 50 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 51 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 52 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 53 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 53 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 54 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 55 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 56 | [Aztez](games/a/aztez.md) | 4.45 | 
@@ -71,7 +71,7 @@
 | 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 70 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 71 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 72 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 72 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
 | 73 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 74 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 75 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -383,7 +383,7 @@
 | 381 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 382 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 383 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 384 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
+| 384 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 385 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 386 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 387 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.29 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.27 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
