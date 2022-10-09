@@ -241,7 +241,7 @@
 | 239 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 240 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 241 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 242 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 242 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 243 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 244 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 245 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
@@ -357,7 +357,7 @@
 | 355 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 356 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
 | 357 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 358 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 358 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 359 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 360 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 361 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
@@ -487,7 +487,7 @@
 | 485 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 486 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 487 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 488 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 488 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 489 | [Sable](games/s/sable.md) | 4.51 | 
 | 490 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 491 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -579,7 +579,7 @@
 | 577 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 578 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 579 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 580 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 580 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 581 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 582 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 583 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
@@ -596,7 +596,7 @@
 | 594 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 595 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 596 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
-| 597 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 597 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 598 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 599 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 600 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
