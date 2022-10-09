@@ -1,5 +1,5 @@
 # Diplomacy is Not an Option
-Rating: 4.53 (51)  (as of 23.09.2022)  
+Rating: 4.54 (51)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Rating: 4.53 (51)  (as of 23.09.2022)
 | 2022-09-27 | 4.51 | - |
 | 2022-10-01 | 4.52 | - |
 | 2022-10-04 | 4.53 | - |
+| 2022-10-09 | 4.54 | - |

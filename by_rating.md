@@ -19,11 +19,11 @@
 | 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 19 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 20 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 21 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 20 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 22 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 23 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 24 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
@@ -400,15 +400,15 @@
 | 398 | [Road 96](games/r/road_96.md) | 4.54 | 
 | 399 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 400 | [The Surge](games/t/the_surge.md) | 4.54 | 
-| 401 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 402 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 403 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 404 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 405 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 406 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
-| 407 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 408 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 409 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 401 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 402 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 403 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 404 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 405 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 406 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 407 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
+| 408 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 409 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 410 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 411 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 412 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
@@ -505,18 +505,18 @@
 | 503 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 504 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 505 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 506 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 507 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 508 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 509 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 510 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 511 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
-| 512 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
-| 513 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 514 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 515 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 516 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
-| 517 | [Figment](games/f/figment.md) | 4.43 | 
+| 506 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 507 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 508 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 509 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 510 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
+| 511 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
+| 512 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 513 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 514 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 515 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
+| 516 | [Figment](games/f/figment.md) | 4.43 | 
+| 517 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 518 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 519 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
@@ -649,13 +649,13 @@
 | 647 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 648 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 649 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 650 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 651 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 652 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
-| 653 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 654 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 655 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 656 | [The Fall](games/t/the_fall.md) | 4.22 | 
+| 650 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 651 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 652 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 653 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
+| 654 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 655 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 656 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 657 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
 | 658 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 659 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
@@ -682,13 +682,13 @@
 | 680 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 681 | [Pine](games/p/pine.md) | 4.13 | 
 | 682 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 683 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 684 | [Gone Home](games/g/gone_home.md) | 4.13 | 
-| 685 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 686 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 687 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 688 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 689 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
+| 683 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
+| 684 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 685 | [Gone Home](games/g/gone_home.md) | 4.13 | 
+| 686 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 687 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 689 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 690 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
 | 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 692 | [Relicta](games/r/relicta.md) | 4.10 | 

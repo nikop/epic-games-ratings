@@ -1,10 +1,10 @@
 {
   "ID": "8b8fd2fe87a04bbab2eca292e71b5e2c",
   "Name": "Desperados III",
-  "Rating": 4.87,
+  "Rating": 4.86,
   "NumberOfRatings": 351,
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2022-09-26T21:34:55.4512944+00:00",
+  "LastChanged": "2022-10-09T19:30:56.8356816+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:02.5074384+00:00",
@@ -405,6 +405,11 @@
       "Time": "2022-09-26T21:34:55.4512947+00:00",
       "Rating": 4.87,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-09T19:30:56.8356819+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -426,6 +431,10 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
       "Count": 21
     }
   ]

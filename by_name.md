@@ -162,13 +162,13 @@
 | 160 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 161 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 162 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 163 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
+| 163 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
 | 164 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 167 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 168 | [Diabotical](games/d/diabotical.md) | 4.80 | 
-| 169 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 169 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 170 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 171 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -446,7 +446,7 @@
 | 444 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
 | 445 | [Prey](games/p/prey.md) | 4.61 | 
 | 446 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 447 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 447 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 448 | [Quake](games/q/quake.md) | 4.80 | 
 | 449 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 450 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
@@ -600,7 +600,7 @@
 | 598 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 599 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 600 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
-| 601 | [The Fall](games/t/the_fall.md) | 4.22 | 
+| 601 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 602 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 603 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 604 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
@@ -618,7 +618,7 @@
 | 616 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 617 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 618 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 619 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
+| 619 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 620 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 621 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
 | 622 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
