@@ -1,7 +1,16 @@
 {
   "ID": "f61b77d79ac34dc08ac9649b225168dd",
   "Name": "Mago",
+  "Rating": 4.9,
   "FirstSeen": "2022-07-24T02:02:00.1291984+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-09T22:02:14.1425861+00:00",
+  "LastChanged": "2022-10-09T22:02:14.1425864+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-09T22:02:14.1425865+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
