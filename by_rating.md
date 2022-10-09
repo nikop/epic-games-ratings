@@ -48,14 +48,14 @@
 | 46 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 48 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 49 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 51 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 
-| 52 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 53 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 54 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 56 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 50 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 
+| 51 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 53 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
+| 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 56 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 58 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 

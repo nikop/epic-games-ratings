@@ -4,7 +4,7 @@
 | 2 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 3 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 4 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 5 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 6 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 7 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 8 | [ABZU](games/a/abzu.md) | 4.60 | 
