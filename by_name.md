@@ -351,7 +351,7 @@
 | 349 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 350 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 351 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 352 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 352 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 353 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 354 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 355 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
@@ -477,7 +477,7 @@
 | 475 | [Road 96](games/r/road_96.md) | 4.54 | 
 | 476 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 477 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 478 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 478 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 479 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 480 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
 | 481 | [Roguebook](games/r/roguebook.md) | 4.60 | 
@@ -486,7 +486,7 @@
 | 484 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 485 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 486 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 487 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 487 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 488 | [Sable](games/s/sable.md) | 4.51 | 
 | 489 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 490 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
