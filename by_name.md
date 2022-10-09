@@ -187,10 +187,10 @@
 | 185 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 186 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 187 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 188 | [ELEX](games/e/elex.md) | 4.35 | 
+| 188 | [ELEX](games/e/elex.md) | 4.33 | 
 | 189 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 190 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 191 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 191 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 192 | [Encased](games/e/encased.md) | 4.35 | 
 | 193 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 194 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -246,7 +246,7 @@
 | 244 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 245 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
 | 246 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 247 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 247 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 248 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 249 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 250 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 

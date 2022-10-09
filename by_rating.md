@@ -112,29 +112,29 @@
 | 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 115 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
-| 116 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 
-| 117 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
-| 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 119 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 120 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 121 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 127 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 114 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
+| 115 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 
+| 116 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
+| 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 119 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 120 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 122 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 124 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 125 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 126 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 134 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 136 | [Fez](games/f/fez.md) | 4.73 | 
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 138 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
@@ -589,23 +589,23 @@
 | 587 | [House Party](games/h/house_party.md) | 4.35 | 
 | 588 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 589 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 590 | [ELEX](games/e/elex.md) | 4.35 | 
-| 591 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 592 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 593 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 594 | [Encased](games/e/encased.md) | 4.35 | 
-| 595 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 596 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 597 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 598 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 599 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 600 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 601 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 602 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 603 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
-| 604 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 605 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 606 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 590 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 591 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 592 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 593 | [Encased](games/e/encased.md) | 4.35 | 
+| 594 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 595 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 596 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 597 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 598 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 599 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 600 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 601 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 602 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 603 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 604 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 605 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 606 | [ELEX](games/e/elex.md) | 4.33 | 
 | 607 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 608 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 609 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
@@ -696,9 +696,9 @@
 | 694 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
 | 695 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 696 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 697 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 698 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 699 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 697 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 698 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 699 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 700 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 701 | [Lake](games/l/lake.md) | 4.08 | 
 | 702 | [Godfall](games/g/godfall.md) | 4.07 | 
