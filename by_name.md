@@ -662,7 +662,7 @@
 | 660 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 661 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
 | 662 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 663 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
+| 663 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
 | 664 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 665 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 666 | [Train Valley](games/t/train_valley.md) | 4.40 | 

@@ -719,9 +719,9 @@
 | 717 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
 | 718 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 719 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
-| 720 | [Warface](games/w/warface.md) | 3.95 | 
-| 721 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 722 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
+| 720 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
+| 721 | [Warface](games/w/warface.md) | 3.95 | 
+| 722 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 723 | [Patron](games/p/patron.md) | 3.93 | 
 | 724 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 725 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
