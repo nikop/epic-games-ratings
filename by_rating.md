@@ -446,22 +446,22 @@
 | 444 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 447 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
-| 448 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 449 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 450 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 451 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 453 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 454 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 455 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 457 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 458 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 459 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 460 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 461 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 462 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 447 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 450 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 453 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 454 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 456 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 459 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 461 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 462 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 463 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 464 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 465 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 

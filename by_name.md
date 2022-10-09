@@ -376,7 +376,7 @@
 | 374 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 375 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 376 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 377 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 377 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 378 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 379 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 380 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
