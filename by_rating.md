@@ -240,22 +240,22 @@
 | 238 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 240 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 241 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 242 | [RiME](games/r/rime.md) | 4.65 | 
-| 243 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 244 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 246 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 247 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 248 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
-| 249 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 250 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 251 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 252 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 253 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 255 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 256 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 241 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 242 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 243 | [RiME](games/r/rime.md) | 4.65 | 
+| 244 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 245 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 246 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 247 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 248 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 249 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 250 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 251 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 252 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 253 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 254 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 256 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 258 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 259 | [Eastward](games/e/eastward.md) | 4.64 | 
@@ -266,17 +266,17 @@
 | 264 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 265 | [Old World](games/o/old_world.md) | 4.63 | 
 | 266 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 267 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 268 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 271 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 273 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
-| 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 275 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 277 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 267 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 270 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 271 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 272 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 273 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 275 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 276 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 277 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 278 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 279 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 280 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 

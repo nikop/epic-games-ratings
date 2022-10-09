@@ -154,7 +154,7 @@
 | 152 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 153 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 154 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 155 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 155 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 156 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 157 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 158 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
@@ -655,7 +655,7 @@
 | 653 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 654 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 655 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
-| 656 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 656 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 657 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 658 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 659 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
