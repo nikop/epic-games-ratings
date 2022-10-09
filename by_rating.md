@@ -420,22 +420,22 @@
 | 418 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 419 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 420 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 421 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 422 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 423 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 424 | [Isonzo](games/i/isonzo.md) | 4.52 | 
-| 425 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 426 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 427 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 428 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 429 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 430 | [Horace](games/h/horace.md) | 4.52 | 
-| 431 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 432 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 433 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 434 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 435 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 436 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 421 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 422 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 423 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 424 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 425 | [Isonzo](games/i/isonzo.md) | 4.52 | 
+| 426 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 427 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 428 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 429 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 430 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 431 | [Horace](games/h/horace.md) | 4.52 | 
+| 432 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 433 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 434 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 435 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 436 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 437 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 438 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 

@@ -283,7 +283,7 @@
 | 281 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 282 | [House Party](games/h/house_party.md) | 4.35 | 
 | 283 | [Hue](games/h/hue.md) | 4.55 | 
-| 284 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 284 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 285 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 286 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 287 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
