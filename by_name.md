@@ -163,7 +163,7 @@
 | 161 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 162 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 163 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
-| 164 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 164 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 167 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -301,7 +301,7 @@
 | 299 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 300 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 301 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 302 | [Isonzo](games/i/isonzo.md) | 4.52 | 
+| 302 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 303 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 304 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 305 | [Journey](games/j/journey.md) | 4.76 | 
@@ -661,7 +661,7 @@
 | 659 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 660 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 661 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 662 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 
+| 662 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
 | 663 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 664 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
 | 665 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
