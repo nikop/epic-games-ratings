@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.14 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -163,7 +163,7 @@
 | 161 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 162 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 163 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 164 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 164 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 167 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -268,7 +268,7 @@
 | 266 | [Heavy Rain](games/h/heavy_rain.md) | 4.56 | 
 | 267 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 268 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 269 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 269 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 270 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 271 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 272 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
@@ -549,7 +549,7 @@
 | 547 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 548 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
 | 549 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 550 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 550 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 551 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 552 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
 | 553 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
@@ -690,7 +690,7 @@
 | 688 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 689 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 690 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 691 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 691 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 692 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 693 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 694 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 

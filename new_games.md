@@ -9,9 +9,9 @@
 | 7 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 8 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
 | 9 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 10 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
+| 10 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 11 | [Isonzo](games/i/isonzo.md) | 4.52 | 
-| 12 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 12 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 13 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 14 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 15 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
@@ -20,7 +20,7 @@
 | 18 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 19 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 20 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 21 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 21 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 22 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 23 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 24 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
