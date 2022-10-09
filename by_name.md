@@ -223,7 +223,7 @@
 | 221 | [Figment](games/f/figment.md) | 4.43 | 
 | 222 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 223 | [Firework](games/f/firework.md) | 4.85 | 
-| 224 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
+| 224 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 225 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 226 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 227 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -685,7 +685,7 @@
 | 683 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 684 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 685 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 686 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
+| 686 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
 | 687 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 688 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 689 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
@@ -701,7 +701,7 @@
 | 699 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 700 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 701 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 702 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 702 | [Warpips](games/w/warpips.md) | 4.52 | 
 | 703 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 704 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 705 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 

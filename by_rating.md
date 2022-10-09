@@ -59,20 +59,20 @@
 | 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 58 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 59 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 60 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 61 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 62 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 63 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
-| 64 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 65 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 66 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 67 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 68 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 69 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 70 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 71 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 72 | [Diabotical](games/d/diabotical.md) | 4.80 | 
-| 73 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
+| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 61 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 62 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 63 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 64 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 65 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 66 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 67 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 68 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 69 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 70 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 71 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 72 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 73 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 74 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 75 | [Quake](games/q/quake.md) | 4.80 | 
 | 76 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -432,29 +432,29 @@
 | 430 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 431 | [Horace](games/h/horace.md) | 4.52 | 
 | 432 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 433 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 434 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 435 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 436 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 437 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 438 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 439 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 440 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 442 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 443 | [Sable](games/s/sable.md) | 4.51 | 
-| 444 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 447 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 448 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 449 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 450 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 451 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 452 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 453 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 455 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 433 | [Warpips](games/w/warpips.md) | 4.52 | 
+| 434 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 435 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 436 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 437 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 438 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 439 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 440 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 441 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 443 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 444 | [Sable](games/s/sable.md) | 4.51 | 
+| 445 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 446 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 447 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 450 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 453 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 454 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
 | 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 458 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -606,14 +606,14 @@
 | 604 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 605 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 606 | [ELEX](games/e/elex.md) | 4.33 | 
-| 607 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 608 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 609 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 610 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 611 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 612 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 613 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
-| 614 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
+| 607 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 608 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 609 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 610 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 611 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 612 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 613 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 614 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 615 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 616 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 617 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
