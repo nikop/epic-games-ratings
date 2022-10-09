@@ -443,24 +443,24 @@
 | 441 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 442 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 443 | [Sable](games/s/sable.md) | 4.51 | 
-| 444 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 445 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 446 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 447 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
-| 448 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 449 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 450 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 451 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 453 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 454 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 455 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 457 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 458 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 459 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 460 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 461 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 444 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 446 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
+| 447 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 450 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 453 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 454 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 456 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 459 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 461 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 462 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 463 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 464 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -693,18 +693,18 @@
 | 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 692 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 693 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 694 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 695 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 696 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 697 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 698 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 699 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 700 | [Lake](games/l/lake.md) | 4.08 | 
-| 701 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 702 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 703 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 704 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 705 | [Conarium](games/c/conarium.md) | 4.05 | 
+| 694 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 695 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 696 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 697 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 698 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 699 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 700 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 701 | [Lake](games/l/lake.md) | 4.08 | 
+| 702 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 703 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 704 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 705 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 706 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 707 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.05 | 
 | 708 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
@@ -713,22 +713,23 @@
 | 711 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 712 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 713 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
-| 714 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 715 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 716 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
-| 717 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 718 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
-| 719 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 720 | [Warface](games/w/warface.md) | 3.94 | 
-| 721 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
-| 722 | [Patron](games/p/patron.md) | 3.93 | 
-| 723 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 724 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 725 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
-| 726 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 727 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 728 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 729 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 730 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 731 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 732 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
+| 714 | [Conarium](games/c/conarium.md) | 4.00 | 
+| 715 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 716 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 717 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
+| 718 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 719 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
+| 720 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 721 | [Warface](games/w/warface.md) | 3.94 | 
+| 722 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.94 | 
+| 723 | [Patron](games/p/patron.md) | 3.93 | 
+| 724 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
+| 725 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 726 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
+| 727 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 728 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 729 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 730 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 731 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
+| 732 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
+| 733 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
