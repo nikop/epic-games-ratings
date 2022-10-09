@@ -17,7 +17,7 @@
 | 15 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 16 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 17 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 18 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 19 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 20 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 21 | [Among Trees](games/a/among_trees.md) | 4.35 | 

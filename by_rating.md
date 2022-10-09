@@ -634,9 +634,9 @@
 | 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 633 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 634 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 635 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 636 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 637 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 635 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 636 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 637 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 638 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 639 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 640 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
