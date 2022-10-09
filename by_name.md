@@ -202,7 +202,7 @@
 | 200 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 201 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 202 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 203 | [Far Cry](games/f/far_cry.md) | 4.45 | 
+| 203 | [Far Cry](games/f/far_cry.md) | 4.44 | 
 | 204 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 205 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 206 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -433,7 +433,7 @@
 | 431 | [Patron](games/p/patron.md) | 3.93 | 
 | 432 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 433 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 434 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
+| 434 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 436 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 437 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -524,7 +524,7 @@
 | 522 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 523 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 524 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 525 | [SOMA](games/s/soma.md) | 4.69 | 
+| 525 | [SOMA](games/s/soma.md) | 4.70 | 
 | 526 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 527 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 528 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -594,7 +594,7 @@
 | 592 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 593 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 594 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 595 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
+| 595 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 596 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 597 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 598 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
