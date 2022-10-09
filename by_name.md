@@ -43,7 +43,7 @@
 | 41 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
 | 42 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 43 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
@@ -58,7 +58,7 @@
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 59 | [Backbone](games/b/backbone.md) | 4.39 | 
+| 59 | [Backbone](games/b/backbone.md) | 4.28 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
@@ -392,7 +392,7 @@
 | 390 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 391 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 392 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 393 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 393 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 394 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 395 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 396 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
@@ -448,8 +448,8 @@
 | 446 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 447 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 448 | [Quake](games/q/quake.md) | 4.80 | 
-| 449 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 450 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 449 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 450 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 451 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 452 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 453 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -667,7 +667,7 @@
 | 665 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 666 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 667 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
-| 668 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 668 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 669 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 670 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
 | 671 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
