@@ -117,21 +117,21 @@
 | 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 116 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
 | 117 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
-| 118 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 126 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
-| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 130 | [Revita](games/r/revita.md) | 4.74 | 
-| 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 119 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 120 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 121 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 127 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
+| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 129 | [Revita](games/r/revita.md) | 4.74 | 
+| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 

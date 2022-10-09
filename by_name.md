@@ -362,7 +362,7 @@
 | 360 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 361 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 362 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 363 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 363 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 364 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 365 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 366 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
