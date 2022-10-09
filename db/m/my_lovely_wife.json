@@ -1,10 +1,10 @@
 {
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
-  "Rating": 4.4,
+  "Rating": 4.38,
   "NumberOfRatings": 25,
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
-  "LastChanged": "2022-08-05T00:31:50.580963+00:00",
+  "LastChanged": "2022-10-09T08:01:14.2439586+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:06.1147594+00:00",
@@ -20,6 +20,11 @@
       "Time": "2022-08-05T00:31:50.5809631+00:00",
       "Rating": 4.4,
       "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-10-09T08:01:14.2439587+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

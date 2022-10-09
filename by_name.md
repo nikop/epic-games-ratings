@@ -329,7 +329,7 @@
 | 327 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 328 | [Lake](games/l/lake.md) | 4.08 | 
 | 329 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 330 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 330 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 331 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 332 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 333 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
@@ -338,7 +338,7 @@
 | 336 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 337 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 338 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
-| 339 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
+| 339 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 340 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 341 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 342 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
@@ -377,7 +377,7 @@
 | 375 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 376 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 377 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 378 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 
+| 378 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 379 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 380 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 381 | [MythForce](games/m/mythforce.md) | 4.53 | 
