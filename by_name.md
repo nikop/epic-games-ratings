@@ -7,7 +7,7 @@
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 6 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 7 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 9 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -70,7 +70,7 @@
 | 68 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 69 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 70 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.60 | 
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -87,7 +87,7 @@
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
+| 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -159,7 +159,7 @@
 | 157 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 158 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 159 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 160 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
+| 160 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 161 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 162 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 163 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
@@ -359,7 +359,7 @@
 | 357 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 358 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 359 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 360 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 360 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
 | 361 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 362 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 363 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -441,7 +441,7 @@
 | 439 | [Pine](games/p/pine.md) | 4.13 | 
 | 440 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
 | 441 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 442 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
+| 442 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 443 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 444 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
 | 445 | [Prey](games/p/prey.md) | 4.61 | 
@@ -698,7 +698,7 @@
 | 696 | [Warface](games/w/warface.md) | 3.95 | 
 | 697 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 698 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 699 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 699 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 700 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 701 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 702 | [Warpips](games/w/warpips.md) | 4.52 | 

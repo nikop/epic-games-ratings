@@ -1,10 +1,10 @@
 {
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
-  "Rating": 3.76,
+  "Rating": 3.77,
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
-  "LastChanged": "2022-10-09T07:00:20.591429+00:00",
+  "LastChanged": "2022-10-09T21:30:24.788459+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-26T13:31:30.2639771+00:00",
@@ -120,12 +120,17 @@
       "Time": "2022-10-09T07:00:20.5914292+00:00",
       "Rating": 3.76,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-09T21:30:24.7884593+00:00",
+      "Rating": 3.77,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 29
+      "Count": 31
     }
   ]
 }
