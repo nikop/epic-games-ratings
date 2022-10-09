@@ -61,7 +61,7 @@
 | 59 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 60 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
 | 61 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
-| 62 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.65 | 
+| 62 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
 | 63 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 64 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
 | 65 | [Barony](games/b/barony.md) | 4.69 | 
@@ -138,7 +138,7 @@
 | 136 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 137 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 138 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 139 | [Dark Deity](games/d/dark_deity.md) | 4.36 | 
+| 139 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 140 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 141 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 142 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
@@ -469,7 +469,7 @@
 | 467 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 468 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 469 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 470 | [Rising Hell](games/r/rising_hell.md) | 4.27 | 
+| 470 | [Rising Hell](games/r/rising_hell.md) | 4.29 | 
 | 471 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 472 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -485,7 +485,7 @@
 | 483 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 484 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 485 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 486 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 486 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 487 | [Sable](games/s/sable.md) | 4.51 | 
 | 488 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 489 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
