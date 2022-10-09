@@ -10,7 +10,7 @@
 | 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 9 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.43 | 
+| 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
@@ -73,7 +73,7 @@
 | 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
-| 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 75 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
@@ -263,7 +263,7 @@
 | 261 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 262 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 263 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 264 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 264 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
 | 265 | [Haven](games/h/haven.md) | 4.78 | 
 | 266 | [Heavy Rain](games/h/heavy_rain.md) | 4.56 | 
 | 267 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
@@ -622,7 +622,7 @@
 | 620 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 621 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
 | 622 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 623 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 623 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 624 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
 | 625 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
