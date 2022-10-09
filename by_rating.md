@@ -616,18 +616,18 @@
 | 614 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 615 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 
 | 616 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 617 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 618 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 619 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 620 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 621 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 622 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
-| 623 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 624 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 625 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 626 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 627 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 628 | [Rising Hell](games/r/rising_hell.md) | 4.29 | 
+| 617 | [Rising Hell](games/r/rising_hell.md) | 4.31 | 
+| 618 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 619 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 620 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 621 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 622 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 623 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
+| 624 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 625 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 626 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 627 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 629 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
@@ -729,6 +729,6 @@
 | 727 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 728 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 729 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 730 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
-| 731 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
+| 730 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
+| 731 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 732 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
