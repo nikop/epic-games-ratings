@@ -1,5 +1,5 @@
 # The Vanishing of Ethan Carter
-Rating: 4.26 (490)  (as of 23.09.2022)  
+Rating: 4.27 (490)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -68,3 +68,4 @@ Rating: 4.26 (490)  (as of 23.09.2022)
 | 2022-09-22 | 4.24 | 490 |
 | 2022-09-26 | 4.25 | - |
 | 2022-09-29 | 4.26 | - |
+| 2022-10-09 | 4.27 | - |

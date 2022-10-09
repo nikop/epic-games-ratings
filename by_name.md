@@ -103,7 +103,7 @@
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -444,7 +444,7 @@
 | 442 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 443 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 444 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
-| 445 | [Prey](games/p/prey.md) | 4.61 | 
+| 445 | [Prey](games/p/prey.md) | 4.60 | 
 | 446 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 447 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 448 | [Quake](games/q/quake.md) | 4.80 | 
@@ -493,7 +493,7 @@
 | 491 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
 | 492 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 493 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 494 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 494 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 495 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 496 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 497 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
@@ -625,7 +625,7 @@
 | 623 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 624 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
 | 625 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
-| 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 627 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 628 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 629 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
