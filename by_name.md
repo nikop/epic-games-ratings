@@ -470,7 +470,7 @@
 | 468 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 469 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 470 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 471 | [Rising Hell](games/r/rising_hell.md) | 4.30 | 
+| 471 | [Rising Hell](games/r/rising_hell.md) | 4.29 | 
 | 472 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 473 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 474 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -715,7 +715,7 @@
 | 713 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 714 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 715 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 716 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 716 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 717 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 718 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 719 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
