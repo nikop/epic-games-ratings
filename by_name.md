@@ -261,7 +261,7 @@
 | 259 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
 | 260 | [Hades](games/h/hades.md) | 4.92 | 
 | 261 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 262 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 262 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 263 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 264 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 265 | [Haven](games/h/haven.md) | 4.78 | 
@@ -637,7 +637,7 @@
 | 635 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 636 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 637 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 638 | [This Is The Police](games/t/this_is_the_police.md) | 4.77 | 
+| 638 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 
 | 639 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 640 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 641 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 

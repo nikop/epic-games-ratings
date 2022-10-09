@@ -99,23 +99,23 @@
 | 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 98 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 99 | [Northgard](games/n/northgard.md) | 4.77 | 
-| 100 | [This Is The Police](games/t/this_is_the_police.md) | 4.77 | 
-| 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 103 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 104 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 108 | [Journey](games/j/journey.md) | 4.76 | 
-| 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 110 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.76 | 
-| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 116 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
+| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 102 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 107 | [Journey](games/j/journey.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.76 | 
+| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 115 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
+| 116 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 
 | 117 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
 | 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 119 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -574,31 +574,31 @@
 | 572 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 573 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 574 | [Observation](games/o/observation.md) | 4.38 | 
-| 575 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 576 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 577 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 578 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 579 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 580 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 581 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 582 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 583 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 584 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 585 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 586 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 587 | [House Party](games/h/house_party.md) | 4.35 | 
-| 588 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 589 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
-| 590 | [Tacoma](games/t/tacoma.md) | 4.35 | 
-| 591 | [ELEX](games/e/elex.md) | 4.35 | 
-| 592 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 593 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 594 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 595 | [Encased](games/e/encased.md) | 4.35 | 
-| 596 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 597 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 598 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 599 | [Hammerting](games/h/hammerting.md) | 4.35 | 
+| 575 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 576 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 577 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 579 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 580 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 581 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 582 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 583 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 584 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 585 | [Parkitect](games/p/parkitect.md) | 4.36 | 
+| 586 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 587 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 588 | [House Party](games/h/house_party.md) | 4.35 | 
+| 589 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 590 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 591 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 592 | [ELEX](games/e/elex.md) | 4.35 | 
+| 593 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 594 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 596 | [Encased](games/e/encased.md) | 4.35 | 
+| 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 599 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 600 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 601 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 602 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
