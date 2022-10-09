@@ -559,7 +559,7 @@
 | 557 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 558 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 559 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 560 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 560 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 561 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 562 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 563 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 

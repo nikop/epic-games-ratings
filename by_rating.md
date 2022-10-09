@@ -40,13 +40,13 @@
 | 38 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 39 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 40 | [Firework](games/f/firework.md) | 4.85 | 
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
-| 42 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 43 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 44 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 45 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 46 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 47 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 41 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 43 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 44 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 45 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 46 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 48 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 49 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
