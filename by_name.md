@@ -160,10 +160,10 @@
 | 158 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 159 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 160 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
-| 161 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 161 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 162 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 163 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
-| 164 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 164 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 167 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -219,7 +219,7 @@
 | 217 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 218 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 219 | [Fez](games/f/fez.md) | 4.73 | 
-| 220 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
+| 220 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
 | 221 | [Figment](games/f/figment.md) | 4.43 | 
 | 222 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 223 | [Firework](games/f/firework.md) | 4.85 | 
@@ -638,7 +638,7 @@
 | 636 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 637 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 638 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 
-| 639 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
+| 639 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.69 | 
 | 640 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 641 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 642 | [Timberborn](games/t/timberborn.md) | 4.69 | 
@@ -682,7 +682,7 @@
 | 680 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 681 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 682 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 683 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 683 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 684 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 685 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 686 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
