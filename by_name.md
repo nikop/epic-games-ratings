@@ -165,7 +165,7 @@
 | 163 | [Desperados III](games/d/desperados_iii.md) | 4.87 | 
 | 164 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.58 | 
+| 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 167 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 168 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 169 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -270,7 +270,7 @@
 | 268 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 269 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 270 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 271 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 271 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 272 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 273 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
 | 274 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -344,7 +344,7 @@
 | 342 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 343 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
 | 344 | [Limbo](games/l/limbo.md) | 4.66 | 
-| 345 | [Little Inferno](games/l/little_inferno.md) | 4.42 | 
+| 345 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 346 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 347 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 348 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
@@ -470,7 +470,7 @@
 | 468 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 469 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 470 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 471 | [Rising Hell](games/r/rising_hell.md) | 4.31 | 
+| 471 | [Rising Hell](games/r/rising_hell.md) | 4.30 | 
 | 472 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 473 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 474 | [Riverbond](games/r/riverbond.md) | 4.49 | 
