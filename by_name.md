@@ -170,7 +170,7 @@
 | 168 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 169 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 170 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 171 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 171 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 173 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 174 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
@@ -404,7 +404,7 @@
 | 402 | [Observation](games/o/observation.md) | 4.38 | 
 | 403 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 404 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
-| 405 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 405 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 406 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 407 | [Old World](games/o/old_world.md) | 4.63 | 
 | 408 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -450,7 +450,7 @@
 | 448 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 449 | [Quake](games/q/quake.md) | 4.80 | 
 | 450 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 451 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 451 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 452 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 453 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 454 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -516,7 +516,7 @@
 | 514 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 515 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 516 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 517 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.05 | 
+| 517 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.13 | 
 | 518 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 519 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 520 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -691,7 +691,7 @@
 | 689 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 690 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 691 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 692 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 692 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 693 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 694 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 695 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 

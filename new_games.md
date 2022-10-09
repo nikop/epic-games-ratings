@@ -1,9 +1,9 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.05 | 
+| 1 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.13 | 
 | 2 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 3 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 4 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 4 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 5 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
 | 6 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 7 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 

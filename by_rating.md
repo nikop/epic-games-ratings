@@ -16,12 +16,12 @@
 | 14 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 16 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 19 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 21 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 17 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 18 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 19 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 20 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 21 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
@@ -435,19 +435,19 @@
 | 433 | [Warpips](games/w/warpips.md) | 4.52 | 
 | 434 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
 | 435 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 436 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 437 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 438 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 439 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 440 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 441 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 442 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 444 | [Sable](games/s/sable.md) | 4.51 | 
-| 445 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 446 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 447 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 448 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 436 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 437 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 438 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 439 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 440 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 442 | [Sable](games/s/sable.md) | 4.51 | 
+| 443 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 444 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 445 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 446 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 447 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 448 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 449 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 450 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 451 | [Solitairica](games/s/solitairica.md) | 4.50 | 
@@ -516,22 +516,22 @@
 | 514 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 515 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 516 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
-| 517 | [Figment](games/f/figment.md) | 4.43 | 
-| 518 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 519 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
-| 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 522 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 523 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 524 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 525 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 526 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 527 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 528 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 529 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 530 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 531 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 532 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 517 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 518 | [Figment](games/f/figment.md) | 4.43 | 
+| 519 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 520 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
+| 521 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 523 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 524 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 526 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 527 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 528 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 529 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 530 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 531 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 532 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 533 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 534 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
@@ -688,27 +688,27 @@
 | 686 | [Gone Home](games/g/gone_home.md) | 4.13 | 
 | 687 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 688 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 691 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
-| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
-| 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
-| 694 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 695 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 696 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 697 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 698 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 699 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 700 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 701 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 702 | [Lake](games/l/lake.md) | 4.08 | 
-| 703 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 704 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 705 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 706 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
-| 708 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 709 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.05 | 
+| 689 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.13 | 
+| 690 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 691 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 692 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
+| 693 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 694 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 695 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 696 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 697 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 698 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 699 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 700 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 701 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 702 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 703 | [Lake](games/l/lake.md) | 4.08 | 
+| 704 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 706 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 707 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
+| 708 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 709 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 710 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 711 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 712 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
