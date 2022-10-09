@@ -674,10 +674,10 @@
 | 672 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 673 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 674 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 675 | [Blair Witch](games/b/blair_witch.md) | 4.15 | 
-| 676 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
-| 677 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
-| 678 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 675 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
+| 676 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
+| 677 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 678 | [Blair Witch](games/b/blair_witch.md) | 4.14 | 
 | 679 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 680 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 681 | [Pine](games/p/pine.md) | 4.13 | 
