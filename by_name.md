@@ -217,7 +217,7 @@
 | 215 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 216 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 217 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 218 | [Fez](games/f/fez.md) | 4.72 | 
+| 218 | [Fez](games/f/fez.md) | 4.73 | 
 | 219 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.61 | 
 | 220 | [Figment](games/f/figment.md) | 4.43 | 
 | 221 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -257,7 +257,7 @@
 | 255 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 256 | [GRIME](games/g/grime.md) | 4.61 | 
 | 257 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 258 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.71 | 
+| 258 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
 | 259 | [Hades](games/h/hades.md) | 4.92 | 
 | 260 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 261 | [Hammerting](games/h/hammerting.md) | 4.35 | 
@@ -397,7 +397,7 @@
 | 395 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
 | 396 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 397 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 398 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 398 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 399 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 400 | [Observation](games/o/observation.md) | 4.38 | 
 | 401 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
@@ -423,7 +423,7 @@
 | 421 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 422 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 423 | [Paradigm](games/p/paradigm.md) | 4.49 | 
-| 424 | [Parkitect](games/p/parkitect.md) | 4.33 | 
+| 424 | [Parkitect](games/p/parkitect.md) | 4.36 | 
 | 425 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
 | 426 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
@@ -628,7 +628,7 @@
 | 626 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 627 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 628 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
-| 629 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 629 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 630 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
 | 631 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 632 | [The Witness](games/t/the_witness.md) | 4.69 | 
@@ -652,7 +652,7 @@
 | 650 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 651 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 652 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 653 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 653 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.59 | 
 | 654 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
 | 655 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 656 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
@@ -722,7 +722,7 @@
 | 720 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 721 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 722 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 723 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 723 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 724 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 725 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
 | 726 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
