@@ -215,20 +215,20 @@
 | 213 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 214 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 215 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 217 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
-| 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
-| 221 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
-| 222 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 223 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 224 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 225 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 226 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 228 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 216 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 217 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 218 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
+| 219 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
+| 220 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
+| 221 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 222 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 223 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 224 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 225 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 227 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 228 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 230 | [Limbo](games/l/limbo.md) | 4.66 | 
 | 231 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -474,17 +474,17 @@
 | 472 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 473 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 474 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 475 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
-| 476 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 477 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 478 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
-| 479 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 480 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 481 | [SMITE](games/s/smite.md) | 4.46 | 
-| 482 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 483 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 484 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 485 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 475 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 476 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
+| 477 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 478 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 479 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
+| 480 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 481 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 482 | [SMITE](games/s/smite.md) | 4.46 | 
+| 483 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 484 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 485 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 486 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 487 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
 | 488 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
