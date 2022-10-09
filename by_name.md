@@ -152,7 +152,7 @@
 | 150 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 151 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 152 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 153 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 153 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 154 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 155 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 156 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -182,7 +182,7 @@
 | 180 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 181 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 182 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 183 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 183 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 184 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 185 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
 | 186 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -596,7 +596,7 @@
 | 594 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
 | 595 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 596 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 597 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 597 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 598 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 599 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
 | 600 | [The Fall](games/t/the_fall.md) | 4.22 | 

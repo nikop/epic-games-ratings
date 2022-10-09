@@ -30,17 +30,17 @@
 | 28 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 29 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 30 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 31 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
-| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
-| 38 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 39 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 40 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 41 | [Firework](games/f/firework.md) | 4.85 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 33 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 34 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 35 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 36 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 37 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 38 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 39 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 40 | [Firework](games/f/firework.md) | 4.85 | 
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
 | 42 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 44 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -448,24 +448,24 @@
 | 446 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 
 | 447 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 449 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
-| 450 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 453 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 454 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 456 | [Warpips](games/w/warpips.md) | 4.50 | 
-| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 459 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 461 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 462 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 463 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 464 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 465 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 466 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 450 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.50 | 
+| 451 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 453 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 454 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 455 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 457 | [Warpips](games/w/warpips.md) | 4.50 | 
+| 458 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 459 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 460 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 461 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 462 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 463 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 464 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 465 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 466 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 467 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.48 | 
 | 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
@@ -621,31 +621,31 @@
 | 619 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 620 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
 | 621 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 622 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 623 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 624 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 625 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 626 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 627 | [Rising Hell](games/r/rising_hell.md) | 4.29 | 
-| 628 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 629 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 630 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 631 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 633 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 634 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
-| 635 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 636 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 637 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 638 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
-| 639 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 640 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 641 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
-| 642 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 643 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 644 | [Steelrising](games/s/steelrising.md) | 4.24 | 
-| 645 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 646 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 622 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
+| 623 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 624 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 625 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 626 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 627 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 628 | [Rising Hell](games/r/rising_hell.md) | 4.29 | 
+| 629 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 632 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 633 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 634 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 635 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 636 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 637 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 638 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 639 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
+| 640 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 641 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 642 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
+| 643 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 644 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 645 | [Steelrising](games/s/steelrising.md) | 4.24 | 
+| 646 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 647 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 648 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 649 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
