@@ -172,7 +172,7 @@
 | 170 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 171 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 172 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 173 | [Divine Knockout](games/d/divine_knockout.md) | 4.68 | 
+| 173 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 174 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 
 | 175 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 176 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
@@ -231,7 +231,7 @@
 | 229 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 230 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 231 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 232 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 232 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 233 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 234 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 235 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
@@ -498,7 +498,7 @@
 | 496 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 497 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 498 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
-| 499 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 499 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 500 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 501 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 502 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
@@ -676,7 +676,7 @@
 | 674 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 675 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 676 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 677 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 677 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
 | 678 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 679 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 680 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
