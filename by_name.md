@@ -185,7 +185,7 @@
 | 183 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 184 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 185 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 186 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 
+| 186 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 187 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 188 | [ELEX](games/e/elex.md) | 4.33 | 
 | 189 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
@@ -333,7 +333,7 @@
 | 331 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 332 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 333 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 334 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 
+| 334 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 335 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 336 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
 | 337 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -423,7 +423,7 @@
 | 421 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 422 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 423 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 424 | [Paradigm](games/p/paradigm.md) | 4.49 | 
+| 424 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 425 | [Parkitect](games/p/parkitect.md) | 4.36 | 
 | 426 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
 | 427 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -624,7 +624,7 @@
 | 622 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 623 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 624 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
-| 625 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 625 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 626 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 627 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 628 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -713,7 +713,7 @@
 | 711 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 712 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 713 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 714 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 714 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 715 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 716 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 717 | [Windbound](games/w/windbound.md) | 4.17 | 
