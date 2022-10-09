@@ -57,9 +57,9 @@
 | 55 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 56 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 58 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 60 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 58 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 59 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 60 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 61 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 62 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 63 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
@@ -625,13 +625,13 @@
 | 623 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 624 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 625 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 626 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 627 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 629 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 632 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 626 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 627 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 628 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 629 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 630 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 631 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 632 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 633 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 634 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 635 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 

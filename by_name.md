@@ -125,7 +125,7 @@
 | 123 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 124 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 125 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 126 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 126 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 127 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 128 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 129 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -178,7 +178,7 @@
 | 176 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 177 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 178 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 179 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 179 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 180 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 181 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 182 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
