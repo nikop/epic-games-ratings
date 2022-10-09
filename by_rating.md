@@ -488,28 +488,28 @@
 | 486 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 487 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
 | 488 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.46 | 
-| 489 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
-| 490 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 491 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 492 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 493 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 494 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 495 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 496 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 497 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 498 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 499 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 500 | [Far Cry](games/f/far_cry.md) | 4.45 | 
-| 501 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 502 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 503 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 505 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 506 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
-| 507 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 508 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 510 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 489 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 490 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 491 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 492 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 493 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 494 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 495 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 496 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 497 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 498 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 499 | [Far Cry](games/f/far_cry.md) | 4.45 | 
+| 500 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 501 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 502 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 504 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 505 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 506 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 507 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 509 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 510 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 511 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 512 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
 | 513 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
@@ -689,17 +689,17 @@
 | 687 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 688 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 689 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
-| 690 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
-| 691 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 692 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
-| 693 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 694 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 695 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 696 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 697 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 698 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 699 | [Lake](games/l/lake.md) | 4.08 | 
-| 700 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 690 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 692 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 693 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 694 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 695 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 696 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 697 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 698 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 699 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 700 | [Lake](games/l/lake.md) | 4.08 | 
 | 701 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 702 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 703 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 

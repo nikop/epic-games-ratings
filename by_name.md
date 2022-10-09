@@ -78,7 +78,7 @@
 | 76 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 77 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 78 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 79 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.46 | 
+| 79 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 80 | [Blair Witch](games/b/blair_witch.md) | 4.14 | 
 | 81 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.26 | 
 | 82 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
@@ -619,7 +619,7 @@
 | 617 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 618 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.12 | 
 | 619 | [The Surge](games/t/the_surge.md) | 4.54 | 
-| 620 | [The Surge 2](games/t/the_surge_2.md) | 4.08 | 
+| 620 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
 | 621 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 622 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 623 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
