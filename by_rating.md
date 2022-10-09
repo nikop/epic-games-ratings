@@ -115,15 +115,15 @@
 | 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 114 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 116 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
-| 117 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 119 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 120 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 121 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 124 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 116 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
+| 117 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
+| 118 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 126 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
 | 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
@@ -143,19 +143,19 @@
 | 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 142 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 143 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 144 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 146 | [Fez](games/f/fez.md) | 4.72 | 
-| 147 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.72 | 
-| 148 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 149 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
-| 150 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 151 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 155 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 144 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 145 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 146 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 147 | [Fez](games/f/fez.md) | 4.72 | 
+| 148 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.72 | 
+| 149 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 150 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
+| 151 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 152 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 153 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 154 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 156 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 157 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
 | 158 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 159 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
@@ -559,19 +559,19 @@
 | 557 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 558 | [Weird West](games/w/weird_west.md) | 4.39 | 
 | 559 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 560 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 561 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 562 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 563 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 564 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 565 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 566 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 567 | [Core](games/c/core.md) | 4.38 | 
-| 568 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 569 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 570 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 571 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
-| 572 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
+| 561 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 562 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 563 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 564 | [Backbone](games/b/backbone.md) | 4.39 | 
+| 565 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 566 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 567 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 568 | [Core](games/c/core.md) | 4.38 | 
+| 569 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 570 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 571 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
+| 572 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
 | 573 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 574 | [Observation](games/o/observation.md) | 4.38 | 
 | 575 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 

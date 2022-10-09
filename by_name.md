@@ -434,7 +434,7 @@
 | 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 433 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.59 | 
 | 434 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 435 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 435 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 436 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 437 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 438 | [Pine](games/p/pine.md) | 4.13 | 
@@ -442,7 +442,7 @@
 | 440 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 441 | [Potion Permit](games/p/potion_permit.md) | 3.73 | 
 | 442 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 443 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.38 | 
+| 443 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
 | 444 | [Prey](games/p/prey.md) | 4.61 | 
 | 445 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 446 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
@@ -598,7 +598,7 @@
 | 596 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 597 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 598 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 599 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 599 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
 | 600 | [The Fall](games/t/the_fall.md) | 4.22 | 
 | 601 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 602 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
