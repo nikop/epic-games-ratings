@@ -107,7 +107,7 @@
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 108 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 108 | [Chorus](games/c/chorus.md) | 4.50 | 
 | 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 110 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
@@ -121,7 +121,7 @@
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 121 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 122 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 122 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 123 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 124 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 125 | [Crayta](games/c/crayta.md) | 4.20 | 
@@ -171,7 +171,7 @@
 | 169 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 170 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 171 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 173 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 174 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 175 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
@@ -449,7 +449,7 @@
 | 447 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 448 | [Quake](games/q/quake.md) | 4.80 | 
 | 449 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 450 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 450 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 451 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 452 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 453 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -591,7 +591,7 @@
 | 589 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 590 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 591 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 592 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 592 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 593 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 594 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 595 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
@@ -603,7 +603,7 @@
 | 601 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 602 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 603 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 604 | [The Guild 3](games/t/the_guild_3.md) | 4.10 | 
+| 604 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
 | 605 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 606 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 607 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -666,7 +666,7 @@
 | 664 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 665 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 666 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 667 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
+| 667 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 668 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 669 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 670 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
