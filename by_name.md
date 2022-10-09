@@ -174,7 +174,7 @@
 | 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 173 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 174 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 175 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 
+| 175 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 176 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 177 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 178 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -547,7 +547,7 @@
 | 545 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 546 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 547 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
-| 548 | [Startup Panic](games/s/startup_panic.md) | 4.28 | 
+| 548 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
 | 549 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 550 | [Steelrising](games/s/steelrising.md) | 4.24 | 
 | 551 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
@@ -562,7 +562,7 @@
 | 560 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 561 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 562 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 563 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 563 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 564 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
 | 565 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 566 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
@@ -669,7 +669,7 @@
 | 667 | [Train Valley 2](games/t/train_valley_2.md) | 4.04 | 
 | 668 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 669 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 670 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
+| 670 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 671 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 672 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 673 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
@@ -695,7 +695,7 @@
 | 693 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 694 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 695 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 696 | [Warface](games/w/warface.md) | 3.94 | 
+| 696 | [Warface](games/w/warface.md) | 3.95 | 
 | 697 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 698 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 699 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
