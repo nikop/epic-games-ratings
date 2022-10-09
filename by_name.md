@@ -133,7 +133,7 @@
 | 131 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 132 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 133 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 134 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 134 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 135 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 136 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 137 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 

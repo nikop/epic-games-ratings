@@ -254,22 +254,22 @@
 | 252 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 253 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 255 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 257 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 258 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 259 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 260 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 261 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 262 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 263 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 264 | [Old World](games/o/old_world.md) | 4.63 | 
-| 265 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 266 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 267 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 
+| 255 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 256 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 258 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 259 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 260 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 261 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 262 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 263 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 264 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 265 | [Old World](games/o/old_world.md) | 4.63 | 
+| 266 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 267 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 268 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 271 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 272 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
 | 273 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
