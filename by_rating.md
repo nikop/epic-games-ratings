@@ -184,21 +184,21 @@
 | 182 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 183 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 184 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 185 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 186 | [Barony](games/b/barony.md) | 4.69 | 
-| 187 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 188 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 190 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 191 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 192 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 194 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 195 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 196 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.69 | 
-| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 185 | [Barony](games/b/barony.md) | 4.69 | 
+| 186 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 187 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 189 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 190 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 191 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 193 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 194 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 195 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.69 | 
+| 196 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 197 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 198 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 199 | [INSIDE](games/i/inside.md) | 4.68 | 
 | 200 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 202 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
@@ -583,25 +583,25 @@
 | 581 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 582 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 583 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 584 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 585 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 586 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 587 | [House Party](games/h/house_party.md) | 4.35 | 
-| 588 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 589 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 590 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 591 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 592 | [Encased](games/e/encased.md) | 4.35 | 
-| 593 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 595 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 596 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 597 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 598 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 599 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 600 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 601 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
-| 602 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 584 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 585 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 586 | [Parkitect](games/p/parkitect.md) | 4.36 | 
+| 587 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 588 | [House Party](games/h/house_party.md) | 4.35 | 
+| 589 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 590 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 591 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 592 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 593 | [Encased](games/e/encased.md) | 4.35 | 
+| 594 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 595 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 596 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 597 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 598 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 599 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 600 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 601 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 602 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 603 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 604 | [ELEX](games/e/elex.md) | 4.34 | 
 | 605 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 

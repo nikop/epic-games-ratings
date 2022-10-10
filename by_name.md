@@ -74,7 +74,7 @@
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -294,7 +294,7 @@
 | 292 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 293 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 294 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 295 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 295 | [INSIDE](games/i/inside.md) | 4.68 | 
 | 296 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
 | 297 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 298 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
