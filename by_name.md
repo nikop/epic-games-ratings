@@ -158,7 +158,7 @@
 | 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 157 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 158 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 160 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 161 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 162 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
@@ -443,7 +443,7 @@
 | 441 | [Pine](games/p/pine.md) | 4.13 | 
 | 442 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
 | 443 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 444 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 444 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 445 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 446 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.40 | 
 | 447 | [Prey](games/p/prey.md) | 4.61 | 
@@ -679,7 +679,7 @@
 | 677 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 678 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 679 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 680 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 680 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 681 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 682 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
 | 683 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
@@ -696,7 +696,7 @@
 | 694 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 695 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 696 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 697 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 697 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 698 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 699 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 700 | [Warface](games/w/warface.md) | 3.95 | 

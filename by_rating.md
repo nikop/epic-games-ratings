@@ -201,22 +201,22 @@
 | 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 200 | [INSIDE](games/i/inside.md) | 4.68 | 
 | 201 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 202 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
-| 203 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 204 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 205 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 206 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 207 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 208 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 209 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 210 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 211 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 212 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 213 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 214 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 215 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 216 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 217 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 202 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 203 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
+| 204 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 205 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 206 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 207 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 208 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 209 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 210 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 211 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 212 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 213 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 214 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 215 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 216 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 217 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 218 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
@@ -278,21 +278,21 @@
 | 276 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 277 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 278 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
-| 279 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 282 | [20XX](games/2/20xx.md) | 4.62 | 
-| 283 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 284 | [RiME](games/r/rime.md) | 4.62 | 
-| 285 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 286 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 287 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 288 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
-| 289 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 290 | [Prey](games/p/prey.md) | 4.61 | 
-| 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 292 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 279 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 283 | [20XX](games/2/20xx.md) | 4.62 | 
+| 284 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 285 | [RiME](games/r/rime.md) | 4.62 | 
+| 286 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 287 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 288 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 289 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
+| 290 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 291 | [Prey](games/p/prey.md) | 4.61 | 
+| 292 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 293 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
@@ -498,14 +498,14 @@
 | 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 497 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 498 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 499 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 500 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 501 | [Far Cry](games/f/far_cry.md) | 4.45 | 
-| 502 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 503 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 504 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 506 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 499 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 500 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 501 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 502 | [Far Cry](games/f/far_cry.md) | 4.45 | 
+| 503 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 504 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 505 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 506 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 507 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 508 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -731,9 +731,9 @@
 | 729 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 730 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 731 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 732 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 733 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
-| 734 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 735 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 732 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 733 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 734 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
+| 735 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 736 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
 | 737 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
