@@ -603,10 +603,10 @@
 | 601 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 602 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 603 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 604 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 605 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 606 | [Tacoma](games/t/tacoma.md) | 4.33 | 
-| 607 | [ELEX](games/e/elex.md) | 4.33 | 
+| 604 | [ELEX](games/e/elex.md) | 4.34 | 
+| 605 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 606 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 607 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 608 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 609 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 610 | [Automachef](games/a/automachef.md) | 4.32 | 
