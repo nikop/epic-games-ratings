@@ -366,7 +366,7 @@
 | 364 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 365 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 366 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 367 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 367 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 368 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 369 | [Minit](games/m/minit.md) | 4.55 | 
 | 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -467,7 +467,7 @@
 | 465 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 466 | [Revita](games/r/revita.md) | 4.74 | 
 | 467 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 468 | [RiME](games/r/rime.md) | 4.61 | 
+| 468 | [RiME](games/r/rime.md) | 4.62 | 
 | 469 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 470 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 471 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 

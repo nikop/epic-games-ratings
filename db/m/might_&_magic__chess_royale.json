@@ -1,10 +1,10 @@
 {
   "ID": "82225e5cb4714006b335a50d840208c6",
   "Name": "Might \u0026 Magic: Chess Royale",
-  "Rating": 4.47,
+  "Rating": 4.48,
   "NumberOfRatings": 238,
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2022-10-08T05:31:37.8702743+00:00",
+  "LastChanged": "2022-10-10T22:01:40.428036+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:16.1959449+00:00",
@@ -399,6 +399,11 @@
     {
       "Time": "2022-10-08T05:31:37.8702746+00:00",
       "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-10T22:01:40.4280362+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],

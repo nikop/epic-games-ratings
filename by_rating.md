@@ -283,22 +283,22 @@
 | 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 282 | [20XX](games/2/20xx.md) | 4.62 | 
 | 283 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 284 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 285 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 286 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 287 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
-| 288 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 289 | [Prey](games/p/prey.md) | 4.61 | 
-| 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 291 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 295 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 296 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 297 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 298 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 299 | [RiME](games/r/rime.md) | 4.61 | 
+| 284 | [RiME](games/r/rime.md) | 4.62 | 
+| 285 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 286 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 287 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 288 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
+| 289 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 290 | [Prey](games/p/prey.md) | 4.61 | 
+| 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 292 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 299 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 300 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
 | 301 | [GRIME](games/g/grime.md) | 4.61 | 
 | 302 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
@@ -471,12 +471,12 @@
 | 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 470 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 471 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 472 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
-| 473 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 474 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 475 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 476 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 477 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 472 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 473 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 474 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 475 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 476 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 477 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 478 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 479 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
