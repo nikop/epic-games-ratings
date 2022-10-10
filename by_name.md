@@ -59,7 +59,7 @@
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.31 | 
-| 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 60 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 63 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
@@ -123,7 +123,7 @@
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
+| 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
@@ -203,7 +203,7 @@
 | 201 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 202 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 203 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 204 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 204 | [Far Cry](games/f/far_cry.md) | 4.45 | 
 | 205 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 206 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 207 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -266,7 +266,7 @@
 | 264 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
 | 265 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
 | 266 | [Haven](games/h/haven.md) | 4.78 | 
-| 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.56 | 
+| 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 269 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
@@ -325,7 +325,7 @@
 | 323 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 324 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 325 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 326 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 326 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 327 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 328 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 329 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -650,7 +650,7 @@
 | 648 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 649 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 650 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 651 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 651 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 652 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 653 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 654 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
@@ -672,7 +672,7 @@
 | 670 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 671 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 672 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 673 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 673 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 674 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 675 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 676 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
