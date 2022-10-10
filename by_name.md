@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 48 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 49 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
@@ -487,7 +487,7 @@
 | 485 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 486 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 487 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 488 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 488 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 489 | [Sable](games/s/sable.md) | 4.51 | 
 | 490 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 491 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -655,7 +655,7 @@
 | 653 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 654 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 655 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 656 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
+| 656 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
 | 657 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 658 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 659 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 

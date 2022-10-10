@@ -95,14 +95,14 @@
 | 93 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 96 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.77 | 
-| 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 99 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 100 | [Northgard](games/n/northgard.md) | 4.77 | 
-| 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 103 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 96 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
+| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 98 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 99 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 102 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 103 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
 | 104 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
@@ -497,15 +497,15 @@
 | 495 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 496 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 497 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 498 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 499 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 500 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 501 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 502 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 503 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 505 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 506 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 498 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 499 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 500 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 501 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 502 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 504 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 505 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 506 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 507 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 508 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 509 | [Far Cry](games/f/far_cry.md) | 4.44 | 
@@ -523,19 +523,19 @@
 | 521 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 523 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 524 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 525 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 526 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 527 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 528 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 529 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 530 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 531 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 532 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 533 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 534 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 535 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 536 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 524 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 526 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 527 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 528 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 529 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 530 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 531 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 532 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 533 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 534 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
+| 536 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 537 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 538 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 539 | [Sheltered](games/s/sheltered.md) | 4.41 | 
