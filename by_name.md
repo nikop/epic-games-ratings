@@ -500,7 +500,7 @@
 | 498 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 499 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 500 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 501 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 501 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 502 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 503 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 504 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -647,7 +647,7 @@
 | 645 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 646 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 647 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 648 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.72 | 
+| 648 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
 | 649 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 650 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 651 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 

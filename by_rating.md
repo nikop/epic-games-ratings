@@ -135,20 +135,20 @@
 | 133 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 134 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 135 | [Fez](games/f/fez.md) | 4.73 | 
-| 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 137 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
-| 138 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 139 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
-| 140 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
-| 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 142 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 143 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 144 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 145 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 146 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 147 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 148 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 149 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.72 | 
+| 136 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 138 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
+| 139 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 140 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
+| 141 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
+| 142 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 143 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 144 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 145 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 146 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 148 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 149 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 150 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 151 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
 | 152 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -692,7 +692,7 @@
 | 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 691 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
 | 692 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
-| 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 694 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 695 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 696 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
