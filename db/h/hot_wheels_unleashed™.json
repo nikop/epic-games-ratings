@@ -1,10 +1,10 @@
 {
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 312,
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
-  "LastChanged": "2022-09-26T15:00:24.8466862+00:00",
+  "LastChanged": "2022-10-10T18:30:21.735076+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.8982998+00:00",
@@ -345,6 +345,11 @@
       "Time": "2022-09-26T15:00:24.8466865+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-10T18:30:21.7350763+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -366,7 +371,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
