@@ -213,7 +213,7 @@
 | 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 213 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 214 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.00 | 
+| 214 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 215 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 216 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 217 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
