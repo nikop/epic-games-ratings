@@ -35,7 +35,7 @@
 | 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 34 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 36 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 36 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 37 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
@@ -189,7 +189,7 @@
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 189 | [ELEX](games/e/elex.md) | 4.34 | 
-| 190 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 190 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 193 | [Encased](games/e/encased.md) | 4.35 | 
@@ -451,7 +451,7 @@
 | 449 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 450 | [Quake](games/q/quake.md) | 4.80 | 
 | 451 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 452 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 452 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 453 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 454 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 

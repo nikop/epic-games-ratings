@@ -421,27 +421,27 @@
 | 419 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 420 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 421 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 422 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 423 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 424 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 425 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 426 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 427 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 428 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 429 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 430 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 431 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 432 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 433 | [Warpips](games/w/warpips.md) | 4.52 | 
-| 434 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 422 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 423 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 424 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 425 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 426 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 427 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 428 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 429 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 430 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 431 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 432 | [Warpips](games/w/warpips.md) | 4.52 | 
+| 433 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 434 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 435 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 436 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 437 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 438 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 439 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 441 | [Sable](games/s/sable.md) | 4.51 | 
-| 442 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 438 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 439 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 440 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 442 | [Sable](games/s/sable.md) | 4.51 | 
 | 443 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 444 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 445 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -621,12 +621,12 @@
 | 619 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 620 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 621 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 622 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
-| 623 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 624 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 625 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 626 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 627 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 622 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
+| 623 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
+| 624 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 625 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 626 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 627 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 628 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 629 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 630 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
