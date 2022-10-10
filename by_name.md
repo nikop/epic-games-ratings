@@ -30,7 +30,7 @@
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 34 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -119,7 +119,7 @@
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 118 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 119 | [Core](games/c/core.md) | 4.38 | 
-| 120 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 122 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 123 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
@@ -142,7 +142,7 @@
 | 140 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 141 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 142 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 143 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 143 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 144 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 145 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 146 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
