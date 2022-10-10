@@ -278,8 +278,8 @@
 | 276 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 277 | [Hob](games/h/hob.md) | 4.58 | 
 | 278 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 279 | [Horace](games/h/horace.md) | 4.52 | 
-| 280 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 279 | [Horace](games/h/horace.md) | 4.53 | 
+| 280 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 281 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 282 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 283 | [House Flipper](games/h/house_flipper.md) | 4.71 | 

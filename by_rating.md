@@ -289,24 +289,24 @@
 | 287 | [Prey](games/p/prey.md) | 4.61 | 
 | 288 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 289 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 290 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 291 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 292 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 293 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 294 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 295 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 296 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 297 | [RiME](games/r/rime.md) | 4.61 | 
-| 298 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
-| 299 | [GRIME](games/g/grime.md) | 4.61 | 
-| 300 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 301 | [Control](games/c/control.md) | 4.60 | 
-| 302 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 303 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 304 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 305 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 306 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 307 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 290 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 291 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 292 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 293 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 294 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 295 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 296 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 297 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 298 | [RiME](games/r/rime.md) | 4.61 | 
+| 299 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
+| 300 | [GRIME](games/g/grime.md) | 4.61 | 
+| 301 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 302 | [Control](games/c/control.md) | 4.60 | 
+| 303 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 304 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 305 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 306 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 307 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 308 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 309 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 310 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -411,25 +411,25 @@
 | 409 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 410 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 411 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 412 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 413 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 414 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 415 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 416 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 417 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 418 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 419 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 420 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 421 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 422 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 423 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 424 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 425 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 426 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 427 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 428 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 429 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 430 | [Horace](games/h/horace.md) | 4.52 | 
+| 412 | [Horace](games/h/horace.md) | 4.53 | 
+| 413 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 414 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 415 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 416 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 417 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 418 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 419 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 420 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 421 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 422 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 423 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 424 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 425 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 426 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 427 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 428 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 429 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 430 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 431 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 432 | [Warpips](games/w/warpips.md) | 4.52 | 
 | 433 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
