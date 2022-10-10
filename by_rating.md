@@ -216,20 +216,20 @@
 | 214 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 215 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 216 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 217 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
-| 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
-| 221 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
-| 222 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 223 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 224 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
-| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 226 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 227 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 229 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 230 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 217 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 218 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 219 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 220 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
+| 221 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
+| 222 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
+| 223 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 224 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 225 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
+| 226 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 227 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 230 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 233 | [Limbo](games/l/limbo.md) | 4.66 | 
