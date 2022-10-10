@@ -74,7 +74,7 @@
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -264,7 +264,7 @@
 | 262 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 263 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 264 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 265 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
+| 265 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
 | 266 | [Haven](games/h/haven.md) | 4.78 | 
 | 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
