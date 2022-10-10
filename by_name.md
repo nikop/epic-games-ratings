@@ -17,7 +17,7 @@
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
+| 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
@@ -171,7 +171,7 @@
 | 169 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 170 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 171 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 172 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 172 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 174 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 175 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
@@ -189,7 +189,7 @@
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 189 | [ELEX](games/e/elex.md) | 4.34 | 
-| 190 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
+| 190 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 193 | [Encased](games/e/encased.md) | 4.35 | 
@@ -649,7 +649,7 @@
 | 647 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 648 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 649 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.70 | 
-| 650 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 650 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 651 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 652 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 653 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 

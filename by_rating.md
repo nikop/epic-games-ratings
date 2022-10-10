@@ -17,12 +17,12 @@
 | 15 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 19 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 21 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 22 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
-| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 18 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 22 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 23 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 24 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -375,16 +375,16 @@
 | 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 377 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 378 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 379 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 380 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 381 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 382 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 383 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 384 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 385 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 376 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 378 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 379 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 380 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 381 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 382 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 383 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 384 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 385 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 386 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 388 | [Hue](games/h/hue.md) | 4.55 | 
@@ -621,17 +621,17 @@
 | 619 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 620 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 621 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 622 | [ELEX II](games/e/elex_ii.md) | 4.30 | 
-| 623 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
-| 624 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 625 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 626 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 627 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 628 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 629 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 630 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 631 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 632 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 622 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
+| 623 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 624 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 625 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 626 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 627 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 628 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 629 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 632 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 633 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 634 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 635 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
@@ -700,10 +700,10 @@
 | 698 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 699 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 700 | [Obduction](games/o/obduction.md) | 4.08 | 
-| 701 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
-| 702 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 703 | [Lake](games/l/lake.md) | 4.08 | 
-| 704 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 701 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 702 | [Lake](games/l/lake.md) | 4.08 | 
+| 703 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 704 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 706 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 707 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
