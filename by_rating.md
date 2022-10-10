@@ -443,24 +443,24 @@
 | 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 442 | [Sable](games/s/sable.md) | 4.51 | 
 | 443 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
-| 444 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 445 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 446 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 447 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 448 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 449 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 450 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 451 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 453 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 454 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 455 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 456 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 457 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 458 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 459 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 460 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 461 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 444 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 447 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 450 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 453 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 454 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 455 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 459 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 461 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 462 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 463 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 464 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -548,18 +548,18 @@
 | 546 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 547 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 548 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 549 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 551 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 552 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 553 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 554 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
-| 556 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 557 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 558 | [Weird West](games/w/weird_west.md) | 4.39 | 
-| 559 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
+| 549 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.40 | 
+| 550 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 552 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 553 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 555 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 557 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 558 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 559 | [Weird West](games/w/weird_west.md) | 4.39 | 
+| 560 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
 | 561 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 562 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 563 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 

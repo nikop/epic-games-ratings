@@ -163,7 +163,7 @@
 | 161 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 162 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 163 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
-| 164 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 164 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 166 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 167 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -444,7 +444,7 @@
 | 442 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 443 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 444 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 445 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.39 | 
+| 445 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.40 | 
 | 446 | [Prey](games/p/prey.md) | 4.61 | 
 | 447 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 448 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
