@@ -19,7 +19,7 @@
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 22 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 23 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -72,7 +72,7 @@
 | 70 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.60 | 
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 73 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
+| 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 75 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -103,7 +103,7 @@
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.36 | 
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -385,7 +385,7 @@
 | 383 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 384 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 385 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 386 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
+| 386 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 387 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 388 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 389 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -600,7 +600,7 @@
 | 598 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 599 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 600 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 601 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.75 | 
+| 601 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 602 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 603 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 604 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
