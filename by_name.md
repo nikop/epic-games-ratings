@@ -53,7 +53,7 @@
 | 51 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 53 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 54 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
+| 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
@@ -238,7 +238,7 @@
 | 236 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 237 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 239 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 239 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 240 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 241 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 242 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 

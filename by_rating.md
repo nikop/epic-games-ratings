@@ -403,18 +403,18 @@
 | 401 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 402 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 403 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 404 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 405 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 406 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 407 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 408 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
-| 409 | [Isonzo](games/i/isonzo.md) | 4.53 | 
-| 410 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 411 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 412 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 413 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 414 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 415 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 404 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 405 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 406 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 407 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 408 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 409 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
+| 410 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 411 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 412 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 413 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 414 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 415 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 416 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 417 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 418 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -659,9 +659,9 @@
 | 657 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 658 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 659 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
-| 660 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
-| 661 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 662 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 660 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 661 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 662 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 663 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 664 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 665 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
