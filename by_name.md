@@ -121,7 +121,7 @@
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
-| 122 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 122 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
@@ -530,7 +530,7 @@
 | 528 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 529 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 530 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 531 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 531 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 532 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 533 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 534 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
@@ -731,7 +731,7 @@
 | 729 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
 | 730 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 731 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 732 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 732 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 733 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 734 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 735 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
