@@ -80,7 +80,7 @@
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 81 | [Blair Witch](games/b/blair_witch.md) | 4.14 | 
+| 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -137,7 +137,7 @@
 | 135 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 136 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 137 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 138 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 138 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 139 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 140 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 141 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
