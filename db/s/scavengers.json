@@ -1,10 +1,10 @@
 {
   "ID": "0ffb7cf5cff64cd0a621222a8e969c28",
   "Name": "Scavengers",
-  "Rating": 4.18,
+  "Rating": 4.19,
   "NumberOfRatings": 403,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
-  "LastChanged": "2022-10-03T13:31:38.2321701+00:00",
+  "LastChanged": "2022-10-10T20:30:33.7095964+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:46.6635411+00:00",
@@ -510,6 +510,11 @@
       "Time": "2022-10-03T13:31:38.2321703+00:00",
       "Rating": 4.18,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-10T20:30:33.7095968+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -539,7 +544,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game is Relaxing",

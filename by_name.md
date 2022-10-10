@@ -27,7 +27,7 @@
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
-| 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
+| 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
@@ -158,7 +158,7 @@
 | 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 157 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 158 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 160 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 161 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 162 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
@@ -306,7 +306,7 @@
 | 304 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 305 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 306 | [Journey](games/j/journey.md) | 4.76 | 
-| 307 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 307 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 308 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 309 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 310 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -497,7 +497,7 @@
 | 495 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 496 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 497 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 498 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 498 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 499 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 500 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 501 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -596,7 +596,7 @@
 | 594 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 595 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 596 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
+| 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 598 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 599 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 5.00 | 
 | 600 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -661,7 +661,7 @@
 | 659 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
 | 660 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 661 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 662 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 662 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 663 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 664 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
