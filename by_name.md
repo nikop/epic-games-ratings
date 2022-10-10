@@ -145,7 +145,7 @@
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -245,7 +245,7 @@
 | 243 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 244 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 245 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 246 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
+| 246 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
 | 247 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 248 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 249 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -361,7 +361,7 @@
 | 359 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 360 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 361 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 362 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 362 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 363 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 364 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 365 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -448,7 +448,7 @@
 | 446 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.40 | 
 | 447 | [Prey](games/p/prey.md) | 4.61 | 
 | 448 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 449 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 449 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 450 | [Quake](games/q/quake.md) | 4.80 | 
 | 451 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 452 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
@@ -659,7 +659,7 @@
 | 657 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 658 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 659 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
-| 660 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 660 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 661 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 662 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 663 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
@@ -668,7 +668,7 @@
 | 666 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 667 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
 | 668 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 669 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 669 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 670 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 671 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 672 | [Transistor](games/t/transistor.md) | 4.63 | 

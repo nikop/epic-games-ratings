@@ -1,11 +1,11 @@
 {
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 68,
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
-  "LastChanged": "2022-10-08T16:01:49.2733229+00:00",
+  "LastChanged": "2022-10-10T19:31:53.6256342+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T05:01:45.7957209+00:00",
@@ -196,6 +196,11 @@
       "Time": "2022-10-08T16:01:49.273323+00:00",
       "Rating": 4.38,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-10T19:31:53.6256345+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -209,7 +214,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 61
+      "Count": 72
     },
     {
       "Text": "This game is Extremely Fun",

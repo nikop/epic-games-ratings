@@ -8,13 +8,13 @@
 | 6 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
 | 7 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 8 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 9 | [Gloomhaven](games/g/gloomhaven.md) | 4.38 | 
+| 9 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
 | 10 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 11 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 12 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 13 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 14 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 15 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 15 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 16 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 17 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 18 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
