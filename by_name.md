@@ -326,7 +326,7 @@
 | 324 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 325 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 326 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 327 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 327 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 328 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 329 | [Lake](games/l/lake.md) | 4.08 | 
 | 330 | [Lamentum](games/l/lamentum.md) | 4.29 | 

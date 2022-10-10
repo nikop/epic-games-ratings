@@ -348,24 +348,24 @@
 | 346 | [Hob](games/h/hob.md) | 4.58 | 
 | 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 348 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
-| 349 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 350 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 351 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
-| 352 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 353 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
-| 354 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 355 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
-| 356 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 357 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 358 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 359 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 360 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
-| 362 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 363 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 364 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 365 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 366 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 349 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 350 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
+| 351 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 352 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
+| 353 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 354 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
+| 355 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 356 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 358 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 359 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 360 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 361 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 362 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 363 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 364 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 365 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 366 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 367 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 368 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 369 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
