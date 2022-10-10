@@ -4,7 +4,7 @@
 | 2 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 5.00 | 
 | 3 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
 | 4 | [Runbow](games/r/runbow.md) | 4.42 | 
-| 5 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 5 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 6 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
 | 7 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 8 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
@@ -12,7 +12,7 @@
 | 10 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 11 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
 | 12 | [Isonzo](games/i/isonzo.md) | 4.53 | 
-| 13 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 13 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 14 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 15 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 16 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 

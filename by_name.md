@@ -70,7 +70,7 @@
 | 68 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 69 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 70 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.60 | 
+| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -451,7 +451,7 @@
 | 449 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 450 | [Quake](games/q/quake.md) | 4.80 | 
 | 451 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 452 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 452 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 453 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 454 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -551,7 +551,7 @@
 | 549 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 550 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
 | 551 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 552 | [Steelrising](games/s/steelrising.md) | 4.25 | 
+| 552 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 553 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 554 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
 | 555 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
