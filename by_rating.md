@@ -268,33 +268,33 @@
 | 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 267 | [Old World](games/o/old_world.md) | 4.63 | 
 | 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 270 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 273 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 274 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 276 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 277 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 278 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
-| 279 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 269 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 272 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 275 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 277 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 278 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 283 | [20XX](games/2/20xx.md) | 4.62 | 
-| 284 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 285 | [RiME](games/r/rime.md) | 4.62 | 
-| 286 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 287 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 288 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
-| 289 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
-| 290 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 291 | [Prey](games/p/prey.md) | 4.61 | 
-| 292 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 293 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 283 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 284 | [RiME](games/r/rime.md) | 4.62 | 
+| 285 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 286 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 287 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 288 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
+| 289 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 290 | [Prey](games/p/prey.md) | 4.61 | 
+| 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 292 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 295 | [20XX](games/2/20xx.md) | 4.61 | 
 | 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -518,20 +518,20 @@
 | 516 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 517 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 518 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
-| 519 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 520 | [Figment](games/f/figment.md) | 4.43 | 
-| 521 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
-| 522 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 523 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 524 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 526 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 527 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 528 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 529 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 530 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 531 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 532 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 519 | [Figment](games/f/figment.md) | 4.43 | 
+| 520 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
+| 521 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 523 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 524 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 525 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 526 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 527 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 528 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 529 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 530 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 531 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 532 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 533 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 534 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 535 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
@@ -676,23 +676,23 @@
 | 674 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 675 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 676 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 677 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 678 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
-| 679 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 677 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 678 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 679 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 680 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 681 | [Pine](games/p/pine.md) | 4.13 | 
 | 682 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 683 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 684 | [The Guild 3](games/t/the_guild_3.md) | 4.13 | 
 | 685 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
-| 686 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 687 | [Gone Home](games/g/gone_home.md) | 4.13 | 
-| 688 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 689 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 690 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
-| 691 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 692 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 686 | [Gone Home](games/g/gone_home.md) | 4.13 | 
+| 687 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 688 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 689 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
+| 690 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 691 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 692 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 693 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 694 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 695 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 

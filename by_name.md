@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 2 | [20XX](games/2/20xx.md) | 4.62 | 
+| 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
@@ -204,7 +204,7 @@
 | 202 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 203 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 204 | [Far Cry](games/f/far_cry.md) | 4.45 | 
-| 205 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 205 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 206 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 207 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 208 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
@@ -348,7 +348,7 @@
 | 346 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 347 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 348 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 349 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 349 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 350 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 351 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 352 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -405,7 +405,7 @@
 | 403 | [Observation](games/o/observation.md) | 4.38 | 
 | 404 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
 | 405 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
-| 406 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 406 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 407 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 408 | [Old World](games/o/old_world.md) | 4.63 | 
 | 409 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -659,7 +659,7 @@
 | 657 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 658 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 659 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
-| 660 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 660 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 661 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 662 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 663 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
