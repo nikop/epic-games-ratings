@@ -346,7 +346,7 @@
 | 344 | [Limbo](games/l/limbo.md) | 4.66 | 
 | 345 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 346 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 347 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
+| 347 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 348 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 349 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 350 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -402,7 +402,7 @@
 | 400 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 401 | [Obduction](games/o/obduction.md) | 4.08 | 
 | 402 | [Observation](games/o/observation.md) | 4.38 | 
-| 403 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 403 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
 | 404 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 405 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 406 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 

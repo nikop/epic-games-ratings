@@ -26,14 +26,14 @@
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
 | 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 32 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 34 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 27 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
+| 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 29 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 33 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
@@ -433,31 +433,31 @@
 | 431 | [Horace](games/h/horace.md) | 4.52 | 
 | 432 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 433 | [Warpips](games/w/warpips.md) | 4.52 | 
-| 434 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.52 | 
-| 435 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 436 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 437 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 438 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 439 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 440 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 442 | [Sable](games/s/sable.md) | 4.51 | 
-| 443 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
-| 444 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 447 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 450 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 452 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 453 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 454 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 455 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
-| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 434 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 435 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 436 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 437 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 438 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 439 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 441 | [Sable](games/s/sable.md) | 4.51 | 
+| 442 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 443 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 444 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 445 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 446 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 447 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 448 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 449 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 450 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 451 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 452 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 453 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 454 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 458 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 459 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 461 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
