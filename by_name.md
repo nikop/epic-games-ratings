@@ -88,7 +88,7 @@
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 89 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
@@ -726,7 +726,7 @@
 | 724 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 725 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 726 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 727 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.59 | 
+| 727 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
 | 728 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 729 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 730 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
