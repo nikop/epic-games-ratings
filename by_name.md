@@ -350,7 +350,7 @@
 | 348 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 349 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 350 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 351 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 351 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 352 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 353 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 354 | [Mago](games/m/mago.md) | 4.90 | 
@@ -639,7 +639,7 @@
 | 637 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 638 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 639 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 640 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 
+| 640 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 641 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.69 | 
 | 642 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 643 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
