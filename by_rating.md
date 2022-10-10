@@ -728,9 +728,10 @@
 | 726 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 727 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 728 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 729 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 730 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 731 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
-| 732 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 733 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
-| 734 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
+| 729 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
+| 730 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 731 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 732 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
+| 733 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 734 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 735 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
