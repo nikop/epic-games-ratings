@@ -472,7 +472,7 @@
 | 470 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 471 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 472 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 473 | [Rising Hell](games/r/rising_hell.md) | 4.32 | 
+| 473 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
 | 474 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 475 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 476 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -526,7 +526,7 @@
 | 524 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 525 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 526 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 527 | [SOMA](games/s/soma.md) | 4.70 | 
+| 527 | [SOMA](games/s/soma.md) | 4.69 | 
 | 528 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 529 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 530 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -554,7 +554,7 @@
 | 552 | [Steelrising](games/s/steelrising.md) | 4.25 | 
 | 553 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 554 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
-| 555 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 555 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 556 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 557 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 558 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -565,7 +565,7 @@
 | 563 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 564 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 565 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 566 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
+| 566 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
 | 567 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 568 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 569 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
