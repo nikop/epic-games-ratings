@@ -381,7 +381,7 @@
 | 379 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 380 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 381 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 382 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 382 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 383 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 384 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 385 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -471,7 +471,7 @@
 | 469 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 470 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 471 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 472 | [Rising Hell](games/r/rising_hell.md) | 4.31 | 
+| 472 | [Rising Hell](games/r/rising_hell.md) | 4.32 | 
 | 473 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 474 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 475 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -480,7 +480,7 @@
 | 478 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 479 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 480 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
-| 481 | [Rogue Lords](games/r/rogue_lords.md) | 4.71 | 
+| 481 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
 | 482 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 483 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 484 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
@@ -516,7 +516,7 @@
 | 514 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 515 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 516 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 517 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.13 | 
+| 517 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.19 | 
 | 518 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 519 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 520 | [Slipways](games/s/slipways.md) | 4.72 | 
