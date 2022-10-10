@@ -581,7 +581,7 @@
 | 579 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 580 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 581 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 582 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 582 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
 | 583 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 584 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 585 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 

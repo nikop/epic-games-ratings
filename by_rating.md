@@ -259,19 +259,19 @@
 | 257 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 258 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 259 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 260 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 261 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 262 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 263 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 264 | [Old World](games/o/old_world.md) | 4.63 | 
-| 265 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 266 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
-| 267 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 270 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 271 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 272 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.63 | 
+| 260 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
+| 261 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 262 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 263 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 264 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 265 | [Old World](games/o/old_world.md) | 4.63 | 
+| 266 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 267 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 268 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 271 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 273 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 275 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
