@@ -242,20 +242,20 @@
 | 240 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 241 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 242 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 243 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 245 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 246 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 247 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 248 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
-| 249 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 250 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
-| 251 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 252 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 253 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 254 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 256 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 243 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 244 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 245 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 246 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 247 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
+| 248 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 249 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 250 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 251 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 252 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 253 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 255 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 256 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 258 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 259 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
@@ -374,10 +374,10 @@
 | 372 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 373 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 375 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 376 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 377 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 378 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 375 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 377 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 378 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 379 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 380 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 381 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
@@ -386,11 +386,11 @@
 | 384 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 385 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 386 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 387 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
-| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
-| 389 | [Hue](games/h/hue.md) | 4.55 | 
-| 390 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 391 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
+| 388 | [Hue](games/h/hue.md) | 4.55 | 
+| 389 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 390 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 391 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 392 | [Minit](games/m/minit.md) | 4.55 | 
 | 393 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 394 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -506,15 +506,15 @@
 | 504 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 506 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
-| 508 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 510 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 511 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 512 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 513 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 514 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 515 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 507 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 508 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 509 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 510 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 511 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 512 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 513 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 514 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 515 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 516 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 517 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 518 | [Figment](games/f/figment.md) | 4.43 | 
@@ -548,17 +548,17 @@
 | 546 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 548 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 549 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 550 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 551 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.40 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 554 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 555 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 557 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 558 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 559 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 549 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 550 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.40 | 
+| 551 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 553 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 554 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 555 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 556 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 557 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 558 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 559 | [CryoFall](games/c/cryofall.md) | 4.39 | 
 | 560 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
 | 561 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 562 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
@@ -715,9 +715,9 @@
 | 713 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 714 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 715 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
-| 716 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 717 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 718 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
+| 716 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
+| 717 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 718 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 719 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 720 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
 | 721 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 

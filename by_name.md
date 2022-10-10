@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.39 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -155,7 +155,7 @@
 | 153 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 154 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 155 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 156 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 157 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 158 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
@@ -263,7 +263,7 @@
 | 261 | [Hades](games/h/hades.md) | 4.92 | 
 | 262 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 263 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 264 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 
+| 264 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 265 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
 | 266 | [Haven](games/h/haven.md) | 4.78 | 
 | 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
@@ -343,7 +343,7 @@
 | 341 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 342 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 343 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 344 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 
+| 344 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 345 | [Limbo](games/l/limbo.md) | 4.66 | 
 | 346 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 347 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -486,7 +486,7 @@
 | 484 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 485 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 486 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 487 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 487 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 488 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 489 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 490 | [Sable](games/s/sable.md) | 4.51 | 
@@ -506,7 +506,7 @@
 | 504 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 505 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 506 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 508 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 509 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 510 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
