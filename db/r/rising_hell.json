@@ -1,10 +1,10 @@
 {
   "ID": "8d123dcc4b5c4d168f7de7b3e1ed7d47",
   "Name": "Rising Hell",
-  "Rating": 4.29,
+  "Rating": 4.31,
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2022-10-09T18:31:32.5748843+00:00",
+  "LastChanged": "2022-10-10T04:31:35.3455884+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-07T17:01:28.5689969+00:00",
@@ -74,6 +74,11 @@
     {
       "Time": "2022-10-09T18:31:32.5748846+00:00",
       "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-10T04:31:35.3455885+00:00",
+      "Rating": 4.31,
       "NumberOfRatings": null
     }
   ],
