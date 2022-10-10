@@ -89,7 +89,7 @@
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
+| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
@@ -146,7 +146,7 @@
 | 144 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 145 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 146 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 147 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.39 | 
+| 147 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 148 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 149 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 150 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
@@ -183,7 +183,7 @@
 | 181 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 182 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 183 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 184 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
+| 184 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
 | 185 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 186 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 187 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -709,7 +709,7 @@
 | 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 708 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
 | 709 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
-| 710 | [Weird West](games/w/weird_west.md) | 4.39 | 
+| 710 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 711 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 712 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 713 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
