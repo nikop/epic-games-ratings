@@ -267,7 +267,7 @@
 | 265 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 
 | 266 | [Haven](games/h/haven.md) | 4.78 | 
 | 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 269 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 271 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
@@ -622,7 +622,7 @@
 | 620 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 621 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 622 | [The Surge](games/t/the_surge.md) | 4.54 | 
-| 623 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 623 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 624 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 625 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 626 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
@@ -647,7 +647,7 @@
 | 645 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 646 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 647 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 648 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.73 | 
+| 648 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.70 | 
 | 649 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 650 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 651 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
