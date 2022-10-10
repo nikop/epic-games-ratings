@@ -122,7 +122,7 @@
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -279,7 +279,7 @@
 | 277 | [Hob](games/h/hob.md) | 4.58 | 
 | 278 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 279 | [Horace](games/h/horace.md) | 4.53 | 
-| 280 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 280 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 281 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 282 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
 | 283 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -606,7 +606,7 @@
 | 604 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 605 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 606 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 607 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
+| 607 | [The Guild 3](games/t/the_guild_3.md) | 4.13 | 
 | 608 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 609 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
 | 610 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -626,7 +626,7 @@
 | 624 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
 | 625 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 626 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 627 | [The Tenants](games/t/the_tenants.md) | 4.56 | 
+| 627 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
 | 628 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 629 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 630 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
