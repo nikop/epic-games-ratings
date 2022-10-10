@@ -163,7 +163,7 @@
 | 161 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 162 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 163 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 164 | [Desperados III](games/d/desperados_iii.md) | 4.86 | 
+| 164 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
 | 165 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 166 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 167 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
@@ -544,7 +544,7 @@
 | 542 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 543 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 544 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 545 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 
+| 545 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
 | 546 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 547 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 548 | [Starsand](games/s/starsand.md) | 4.31 | 
