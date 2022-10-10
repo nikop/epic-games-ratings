@@ -394,7 +394,7 @@
 | 392 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 393 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 394 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 395 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 395 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 396 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 397 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 398 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
@@ -472,7 +472,7 @@
 | 470 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 471 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 472 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 473 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
+| 473 | [Rising Hell](games/r/rising_hell.md) | 4.32 | 
 | 474 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 475 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 476 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -603,7 +603,7 @@
 | 601 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 602 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 603 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 604 | [The First Tree](games/t/the_first_tree.md) | 3.97 | 
+| 604 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 605 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 606 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
 | 607 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -641,7 +641,7 @@
 | 639 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 640 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 641 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 642 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.69 | 
+| 642 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 643 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 644 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 645 | [Timberborn](games/t/timberborn.md) | 4.69 | 
@@ -685,7 +685,7 @@
 | 683 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 684 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 685 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 686 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
+| 686 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 687 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 688 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 689 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
