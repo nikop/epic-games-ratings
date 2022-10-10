@@ -668,37 +668,37 @@
 | 666 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 667 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 668 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 669 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 669 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 670 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 671 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 672 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 673 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 674 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 675 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
-| 676 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 677 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
-| 678 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 679 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 680 | [Pine](games/p/pine.md) | 4.13 | 
-| 681 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 682 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 683 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
-| 684 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 685 | [Gone Home](games/g/gone_home.md) | 4.13 | 
-| 686 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 687 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 688 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
-| 689 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.13 | 
-| 690 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 691 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 692 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
-| 693 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
-| 694 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
-| 695 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 675 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 676 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
+| 677 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 678 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 679 | [Pine](games/p/pine.md) | 4.13 | 
+| 680 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 681 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 682 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
+| 683 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 684 | [Gone Home](games/g/gone_home.md) | 4.13 | 
+| 685 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 686 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 687 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
+| 688 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.13 | 
+| 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 691 | [The Guild 3](games/t/the_guild_3.md) | 4.12 | 
+| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 694 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 695 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 696 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 697 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 698 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 699 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 697 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 698 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 699 | [Obduction](games/o/obduction.md) | 4.08 | 
 | 700 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 701 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 702 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 

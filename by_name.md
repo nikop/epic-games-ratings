@@ -350,7 +350,7 @@
 | 348 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 349 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 350 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 351 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 351 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 352 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 353 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 354 | [Mago](games/m/mago.md) | 4.90 | 
@@ -400,7 +400,7 @@
 | 398 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 399 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 400 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 401 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 401 | [Obduction](games/o/obduction.md) | 4.08 | 
 | 402 | [Observation](games/o/observation.md) | 4.38 | 
 | 403 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 404 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
@@ -710,7 +710,7 @@
 | 708 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
 | 709 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 710 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 711 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
+| 711 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 712 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 713 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 714 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
