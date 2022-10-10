@@ -244,17 +244,17 @@
 | 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 243 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
 | 244 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 245 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 246 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 247 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 248 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
-| 249 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 250 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 251 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 252 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 254 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 245 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 246 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 247 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 248 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 249 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 250 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 251 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 252 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 253 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 255 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 257 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 258 | [Eastward](games/e/eastward.md) | 4.64 | 
@@ -665,10 +665,10 @@
 | 663 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 664 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 665 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 666 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 667 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 668 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 669 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 666 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 667 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 668 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 669 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 670 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 671 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 672 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
@@ -701,20 +701,20 @@
 | 699 | [Obduction](games/o/obduction.md) | 4.08 | 
 | 700 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.08 | 
 | 701 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 702 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 703 | [Lake](games/l/lake.md) | 4.08 | 
-| 704 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 706 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 707 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
-| 708 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
-| 709 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 710 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 711 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 712 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
-| 713 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 714 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
-| 715 | [Conarium](games/c/conarium.md) | 4.00 | 
+| 702 | [Lake](games/l/lake.md) | 4.08 | 
+| 703 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 704 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 705 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 706 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
+| 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 708 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 709 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 710 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 711 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
+| 712 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 713 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
+| 714 | [Conarium](games/c/conarium.md) | 4.00 | 
+| 715 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
 | 716 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 717 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 718 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.98 | 

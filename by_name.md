@@ -124,7 +124,7 @@
 | 122 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 123 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 124 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 125 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 125 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 126 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 127 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 128 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
@@ -254,7 +254,7 @@
 | 252 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 253 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 254 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 255 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 255 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
 | 256 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 257 | [GRIME](games/g/grime.md) | 4.61 | 
 | 258 | [Grindstone](games/g/grindstone.md) | 4.85 | 
@@ -577,7 +577,7 @@
 | 575 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 576 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 577 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 578 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 578 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 579 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 580 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 581 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
