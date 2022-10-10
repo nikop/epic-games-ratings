@@ -32,17 +32,17 @@
 | 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 33 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 35 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 36 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
-| 38 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 39 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 40 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 41 | [Firework](games/f/firework.md) | 4.85 | 
-| 42 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 35 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 36 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 37 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 39 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 40 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 41 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 42 | [Firework](games/f/firework.md) | 4.85 | 
+| 43 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -523,19 +523,19 @@
 | 521 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 523 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 524 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 526 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 527 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 528 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 529 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 530 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 531 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 532 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 533 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 534 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 536 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 524 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 525 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 526 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 527 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 528 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 529 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 530 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 531 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 532 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 533 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 534 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
+| 535 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 536 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 537 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 538 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 539 | [Sheltered](games/s/sheltered.md) | 4.41 | 
@@ -625,12 +625,12 @@
 | 623 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 624 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 625 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 626 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 627 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 628 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 629 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 626 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 627 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 629 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 630 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 631 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 633 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 634 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 

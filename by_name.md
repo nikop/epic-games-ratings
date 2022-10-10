@@ -125,7 +125,7 @@
 | 123 | [Cozy Grove](games/c/cozy_grove.md) | 4.79 | 
 | 124 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 125 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 126 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 126 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 127 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 128 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 129 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -153,7 +153,7 @@
 | 151 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 152 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 153 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 154 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.84 | 
+| 154 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 155 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 156 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 157 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -487,7 +487,7 @@
 | 485 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 486 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 487 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 488 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 488 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 489 | [Sable](games/s/sable.md) | 4.51 | 
 | 490 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 491 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
