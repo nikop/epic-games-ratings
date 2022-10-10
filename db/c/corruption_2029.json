@@ -1,7 +1,16 @@
 {
   "ID": "3102f48ad7bd409ab6e34f2ad697e961",
   "Name": "CORRUPTION 2029",
+  "Rating": 3.6,
   "FirstSeen": "2022-07-22T20:20:05.407172+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-10T12:30:41.7210732+00:00",
+  "LastChanged": "2022-10-10T12:30:41.7210735+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-10T12:30:41.721074+00:00",
+      "Rating": 3.6,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

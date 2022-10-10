@@ -1,10 +1,10 @@
 {
   "ID": "09d8b60b834a47d48fb0aba85a6d6a2e",
   "Name": "Backbone",
-  "Rating": 4.28,
+  "Rating": 4.31,
   "FirstSeen": "2022-07-22T20:23:12.4596639+00:00",
   "FirstSeenRating": "2022-10-07T12:31:08.1263406+00:00",
-  "LastChanged": "2022-10-09T12:32:10.793165+00:00",
+  "LastChanged": "2022-10-10T12:31:07.3659639+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-07T12:31:08.126341+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2022-10-09T12:32:10.7931653+00:00",
       "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-10T12:31:07.3659642+00:00",
+      "Rating": 4.31,
       "NumberOfRatings": null
     }
   ],

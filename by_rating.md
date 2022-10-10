@@ -398,18 +398,18 @@
 | 396 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 397 | [Outward](games/o/outward.md) | 4.54 | 
 | 398 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 399 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 400 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 401 | [The Surge](games/t/the_surge.md) | 4.54 | 
-| 402 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 403 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 404 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 405 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 406 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 407 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 408 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 409 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
-| 410 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 399 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 400 | [The Surge](games/t/the_surge.md) | 4.54 | 
+| 401 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 402 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 403 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 404 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 405 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 406 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 407 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 408 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.53 | 
+| 409 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 410 | [Road 96](games/r/road_96.md) | 4.53 | 
 | 411 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 412 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 413 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
@@ -479,16 +479,16 @@
 | 477 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 478 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 479 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 480 | [The Lion's Song](games/t/the_lion's_song.md) | 4.47 | 
-| 481 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 482 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
-| 483 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 484 | [SMITE](games/s/smite.md) | 4.46 | 
-| 485 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 486 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 487 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 488 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
-| 489 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 480 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 481 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
+| 482 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 483 | [SMITE](games/s/smite.md) | 4.46 | 
+| 484 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 485 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 486 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 487 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
+| 488 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 489 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 490 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
 | 491 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 492 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
@@ -616,25 +616,25 @@
 | 614 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 615 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 616 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 617 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 618 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 619 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 620 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
-| 621 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 622 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 623 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 624 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 625 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 626 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 627 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 629 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 630 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 631 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
-| 633 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 634 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 635 | [Backbone](games/b/backbone.md) | 4.28 | 
+| 617 | [Backbone](games/b/backbone.md) | 4.31 | 
+| 618 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 619 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 620 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 621 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
+| 622 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 623 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 624 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 625 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 626 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 627 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 628 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 629 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 630 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 631 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 632 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 633 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 634 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 635 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 636 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 637 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 638 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -734,4 +734,5 @@
 | 732 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 733 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 734 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
-| 735 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
+| 735 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
+| 736 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
