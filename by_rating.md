@@ -410,23 +410,23 @@
 | 408 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 409 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 410 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 411 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 412 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 413 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 414 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 415 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 416 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 417 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 418 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 419 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 420 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
-| 421 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 422 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 423 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 424 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 426 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 427 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 411 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 412 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 413 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 414 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 415 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 416 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 417 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 418 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 419 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.52 | 
+| 420 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 421 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 422 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 423 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 424 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 425 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 426 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 427 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 428 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 429 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 430 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 

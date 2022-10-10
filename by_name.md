@@ -269,7 +269,7 @@
 | 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 269 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 271 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 272 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 273 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
