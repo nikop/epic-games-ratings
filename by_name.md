@@ -553,7 +553,7 @@
 | 551 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 552 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 553 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 554 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
+| 554 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 555 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 556 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 557 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 

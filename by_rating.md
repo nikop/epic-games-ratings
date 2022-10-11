@@ -299,24 +299,24 @@
 | 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 300 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.61 | 
-| 301 | [GRIME](games/g/grime.md) | 4.61 | 
-| 302 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 303 | [Control](games/c/control.md) | 4.60 | 
-| 304 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 305 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 306 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 307 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 308 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 309 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 310 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 311 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 312 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 313 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 314 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 316 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 317 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 300 | [GRIME](games/g/grime.md) | 4.61 | 
+| 301 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 302 | [Control](games/c/control.md) | 4.60 | 
+| 303 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 304 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 305 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 306 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 307 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 308 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 309 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 310 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 311 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 312 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 313 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 315 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 316 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 317 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 318 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 319 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 320 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
