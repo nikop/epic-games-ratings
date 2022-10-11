@@ -710,8 +710,8 @@
 | 708 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 709 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 710 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 711 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 712 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
+| 711 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
+| 712 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 713 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 714 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 715 | [Conarium](games/c/conarium.md) | 4.00 | 
