@@ -112,7 +112,7 @@
 | 110 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
+| 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
 | 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 115 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
@@ -281,7 +281,7 @@
 | 279 | [Horace](games/h/horace.md) | 4.53 | 
 | 280 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 281 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 282 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
+| 282 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 283 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 284 | [House Party](games/h/house_party.md) | 4.35 | 
 | 285 | [Hue](games/h/hue.md) | 4.55 | 

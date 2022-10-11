@@ -327,29 +327,29 @@
 | 325 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
 | 326 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 327 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 328 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 329 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 330 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 331 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
-| 332 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 333 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 334 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 336 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 337 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
-| 338 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 339 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 340 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 341 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 342 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 343 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 344 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 345 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 346 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 347 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 348 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 349 | [Hob](games/h/hob.md) | 4.58 | 
-| 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
+| 328 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 329 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 330 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
+| 331 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 332 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
+| 333 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 334 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 335 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
+| 336 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 337 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 338 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
+| 339 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 340 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 341 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 342 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 343 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 344 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 345 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 346 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 347 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 348 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 349 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 350 | [Hob](games/h/hob.md) | 4.58 | 
 | 351 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 352 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
 | 353 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
@@ -714,7 +714,7 @@
 | 712 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
 | 713 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 714 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 715 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
+| 715 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
 | 716 | [Conarium](games/c/conarium.md) | 4.00 | 
 | 717 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 718 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
