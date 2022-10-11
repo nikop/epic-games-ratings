@@ -125,7 +125,7 @@
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 126 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 126 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 

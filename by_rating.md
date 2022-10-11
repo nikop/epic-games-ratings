@@ -666,10 +666,10 @@
 | 664 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 665 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 666 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 667 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 668 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 669 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 670 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 667 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 668 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 669 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 670 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 671 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.19 | 
 | 672 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 673 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
