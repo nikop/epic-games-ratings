@@ -40,7 +40,7 @@
 | 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 40 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 41 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.71 | 
+| 41 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 42 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 43 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -88,7 +88,7 @@
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 89 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
@@ -132,7 +132,7 @@
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.39 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
@@ -149,7 +149,7 @@
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 150 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 150 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 151 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 152 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 153 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -686,7 +686,7 @@
 | 684 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 685 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 686 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 687 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 687 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 688 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 689 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 690 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
