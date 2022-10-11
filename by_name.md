@@ -79,7 +79,7 @@
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.38 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
@@ -192,7 +192,7 @@
 | 190 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 193 | [Encased](games/e/encased.md) | 4.35 | 
+| 193 | [Encased](games/e/encased.md) | 4.36 | 
 | 194 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 196 | [EVE Online](games/e/eve_online.md) | 4.28 | 
@@ -454,7 +454,7 @@
 | 452 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 453 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 454 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 456 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
 | 457 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 458 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
@@ -535,7 +535,7 @@
 | 533 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 534 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 535 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 536 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
+| 536 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
 | 537 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 538 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 539 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
