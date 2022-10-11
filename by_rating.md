@@ -609,9 +609,9 @@
 | 607 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 608 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 609 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 610 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 611 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 612 | [Rising Hell](games/r/rising_hell.md) | 4.32 | 
+| 610 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
+| 611 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 612 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 613 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 614 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 615 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
