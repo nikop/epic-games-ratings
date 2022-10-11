@@ -241,20 +241,20 @@
 | 239 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 240 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 241 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 242 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 243 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 244 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 245 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 246 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
-| 247 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 248 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 249 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
-| 250 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 251 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 252 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 253 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 254 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 242 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 243 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 245 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 246 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 247 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
+| 248 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 249 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 250 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 251 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 252 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 253 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 254 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 255 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 256 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 257 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
@@ -542,12 +542,12 @@
 | 540 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 541 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 542 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 543 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 544 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 545 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 546 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 547 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 548 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 543 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 544 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 545 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 546 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 548 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 549 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 550 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 551 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 

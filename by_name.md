@@ -200,7 +200,7 @@
 | 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 200 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 201 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 201 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 202 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 203 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 204 | [Far Cry](games/f/far_cry.md) | 4.45 | 
@@ -337,7 +337,7 @@
 | 335 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 336 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 337 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 338 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 338 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 339 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 340 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 341 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
