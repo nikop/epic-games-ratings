@@ -471,17 +471,17 @@
 | 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 470 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 471 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 472 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
-| 473 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 474 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 475 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 476 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 477 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 478 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 479 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 481 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 482 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 472 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 473 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 474 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 475 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 476 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 477 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 478 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 479 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 480 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 481 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 482 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 483 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 484 | [SMITE](games/s/smite.md) | 4.46 | 
 | 485 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -512,13 +512,13 @@
 | 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 511 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 512 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 513 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 514 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 515 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 516 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 517 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 518 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
-| 519 | [Figment](games/f/figment.md) | 4.43 | 
+| 513 | [Figment](games/f/figment.md) | 4.44 | 
+| 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 515 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 516 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 517 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 518 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 519 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 520 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 521 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
@@ -625,10 +625,10 @@
 | 623 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
 | 624 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
 | 625 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 626 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 627 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 628 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 629 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 626 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 627 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 628 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 629 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 630 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 631 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 632 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
@@ -659,8 +659,8 @@
 | 657 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
 | 659 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
-| 660 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.22 | 
-| 661 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 660 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 661 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.21 | 
 | 662 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 663 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 664 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
@@ -673,9 +673,9 @@
 | 671 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 672 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 673 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
-| 674 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
-| 675 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 676 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 674 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 675 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 676 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
 | 677 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 678 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 679 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 

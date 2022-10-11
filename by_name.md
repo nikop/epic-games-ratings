@@ -15,7 +15,7 @@
 | 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
+| 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
@@ -195,7 +195,7 @@
 | 193 | [Encased](games/e/encased.md) | 4.36 | 
 | 194 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 196 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 196 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
 | 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -221,7 +221,7 @@
 | 219 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 220 | [Fez](games/f/fez.md) | 4.73 | 
 | 221 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 222 | [Figment](games/f/figment.md) | 4.43 | 
+| 222 | [Figment](games/f/figment.md) | 4.44 | 
 | 223 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 224 | [Firework](games/f/firework.md) | 4.85 | 
 | 225 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
@@ -517,7 +517,7 @@
 | 515 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 516 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 517 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.22 | 
+| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.21 | 
 | 519 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 520 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 521 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -596,7 +596,7 @@
 | 594 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 595 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 596 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 598 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 599 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 5.00 | 
 | 600 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
