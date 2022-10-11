@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.19 | 
 | 2 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 5.00 | 
-| 3 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
+| 3 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
 | 4 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 5 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 6 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 

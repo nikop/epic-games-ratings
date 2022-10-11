@@ -143,7 +143,7 @@
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -184,7 +184,7 @@
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 183 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 184 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 185 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
+| 185 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
 | 186 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -366,7 +366,7 @@
 | 364 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 365 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 366 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 367 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 367 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 368 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 369 | [Minit](games/m/minit.md) | 4.55 | 
 | 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -698,7 +698,7 @@
 | 696 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 697 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 698 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 699 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 699 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 700 | [Warface](games/w/warface.md) | 3.95 | 
 | 701 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 702 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 

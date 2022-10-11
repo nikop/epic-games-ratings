@@ -412,22 +412,22 @@
 | 410 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 411 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 412 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 413 | [Horace](games/h/horace.md) | 4.53 | 
-| 414 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 415 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 416 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 417 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 418 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 419 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 420 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 421 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 422 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 423 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 424 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 425 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 426 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 427 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 428 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 413 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 414 | [Horace](games/h/horace.md) | 4.53 | 
+| 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 416 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 417 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 418 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 419 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 420 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 421 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 422 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 423 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 424 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 425 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 426 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 427 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 428 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 429 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 430 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 431 | [Warpips](games/w/warpips.md) | 4.52 | 
@@ -471,12 +471,12 @@
 | 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 470 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 471 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 472 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 473 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
-| 474 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 475 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 476 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 477 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 472 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 473 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 474 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 475 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 476 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 477 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 478 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 479 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
@@ -551,18 +551,18 @@
 | 549 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 550 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 551 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 554 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 555 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 557 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 558 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 559 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 560 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
-| 561 | [CryoFall](games/c/cryofall.md) | 4.39 | 
-| 562 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 563 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 552 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
+| 553 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 554 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 555 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 556 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 558 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 559 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 560 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 561 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
+| 562 | [CryoFall](games/c/cryofall.md) | 4.39 | 
+| 563 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
 | 564 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 565 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 566 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
@@ -687,22 +687,22 @@
 | 685 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 686 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 687 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 688 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
-| 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 690 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 691 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 692 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 693 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
-| 695 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 697 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 698 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 699 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 700 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 701 | [Obduction](games/o/obduction.md) | 4.08 | 
-| 702 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 703 | [Lake](games/l/lake.md) | 4.08 | 
+| 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 689 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 692 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 693 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
+| 694 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 695 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 696 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 697 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 698 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 699 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 700 | [Obduction](games/o/obduction.md) | 4.08 | 
+| 701 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 702 | [Lake](games/l/lake.md) | 4.08 | 
+| 703 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
 | 704 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 705 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 706 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
