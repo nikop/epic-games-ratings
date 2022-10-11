@@ -101,7 +101,7 @@
 | 99 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 102 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -301,7 +301,7 @@
 | 299 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 300 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 301 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 302 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 302 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 303 | [Isonzo](games/i/isonzo.md) | 4.53 | 
 | 304 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 305 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -334,7 +334,7 @@
 | 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 333 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 334 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 335 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
+| 335 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 336 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 337 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
 | 338 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -525,7 +525,7 @@
 | 523 | [SMITE](games/s/smite.md) | 4.46 | 
 | 524 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 525 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 526 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 526 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 527 | [SOMA](games/s/soma.md) | 4.69 | 
 | 528 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 529 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -593,7 +593,7 @@
 | 591 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 592 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 593 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 594 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 594 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 595 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 596 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
