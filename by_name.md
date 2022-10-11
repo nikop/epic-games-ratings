@@ -70,7 +70,7 @@
 | 68 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 69 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 70 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
+| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
@@ -540,7 +540,7 @@
 | 538 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 539 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
 | 540 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
-| 541 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 541 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 542 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 543 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 544 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
