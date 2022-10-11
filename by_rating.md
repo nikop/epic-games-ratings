@@ -732,8 +732,8 @@
 | 730 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 731 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 732 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
-| 733 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
-| 734 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 735 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 733 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 734 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 735 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 736 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
 | 737 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
