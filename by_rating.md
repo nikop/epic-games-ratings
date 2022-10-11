@@ -398,63 +398,63 @@
 | 396 | [Outward](games/o/outward.md) | 4.54 | 
 | 397 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 398 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
-| 399 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 400 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 401 | [The Surge](games/t/the_surge.md) | 4.54 | 
-| 402 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 403 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 404 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 405 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 406 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 407 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 408 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 409 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 410 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 399 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 400 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 401 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 402 | [The Surge](games/t/the_surge.md) | 4.54 | 
+| 403 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 404 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 405 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 406 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 407 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 408 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 409 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 410 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 411 | [Road 96](games/r/road_96.md) | 4.53 | 
 | 412 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 413 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 414 | [Horace](games/h/horace.md) | 4.53 | 
 | 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 416 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 417 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 418 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 419 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 420 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 421 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 422 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 423 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 424 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 425 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 426 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 427 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 428 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 429 | [Sable](games/s/sable.md) | 4.52 | 
-| 430 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 431 | [Warpips](games/w/warpips.md) | 4.52 | 
-| 432 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 433 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 434 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 435 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 436 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 437 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 438 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 439 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 440 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 441 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 442 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 444 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 447 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 448 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 452 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 453 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 416 | [Warpips](games/w/warpips.md) | 4.53 | 
+| 417 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 418 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 419 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 420 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 421 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 422 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 423 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 424 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 425 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 426 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 427 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 428 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 429 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 430 | [Sable](games/s/sable.md) | 4.52 | 
+| 431 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 433 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 434 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 435 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 436 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 437 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 438 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 439 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 440 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 441 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 442 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 445 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 446 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 447 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 450 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 451 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 452 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 453 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 454 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
 | 456 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 458 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 

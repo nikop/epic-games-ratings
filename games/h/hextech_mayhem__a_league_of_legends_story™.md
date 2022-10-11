@@ -1,5 +1,5 @@
 # Hextech Mayhem: A League of Legends Story™
-Rating: 4.50 (30)  (as of 23.09.2022)  
+Rating: 4.52 (30)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Rating: 4.50 (30)  (as of 23.09.2022)
 | 2022-09-16 | 4.53 | 30 |
 | 2022-09-24 | 4.55 | - |
 | 2022-09-30 | 4.50 | - |
+| 2022-10-11 | 4.52 | - |

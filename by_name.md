@@ -273,7 +273,7 @@
 | 271 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 272 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 273 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 274 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.50 | 
+| 274 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 275 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 276 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 277 | [Hob](games/h/hob.md) | 4.58 | 
@@ -302,7 +302,7 @@
 | 300 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 301 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 302 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 303 | [Isonzo](games/i/isonzo.md) | 4.53 | 
+| 303 | [Isonzo](games/i/isonzo.md) | 4.54 | 
 | 304 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 305 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 306 | [Journey](games/j/journey.md) | 4.76 | 
@@ -706,7 +706,7 @@
 | 704 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 705 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 706 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 707 | [Warpips](games/w/warpips.md) | 4.52 | 
+| 707 | [Warpips](games/w/warpips.md) | 4.53 | 
 | 708 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 709 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 710 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
