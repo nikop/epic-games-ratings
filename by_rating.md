@@ -586,15 +586,15 @@
 | 584 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 585 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 586 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 587 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 588 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 589 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 590 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 591 | [House Party](games/h/house_party.md) | 4.35 | 
-| 592 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 593 | [ELEX](games/e/elex.md) | 4.35 | 
-| 594 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 587 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 588 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 589 | [Parkitect](games/p/parkitect.md) | 4.36 | 
+| 590 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 591 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 592 | [House Party](games/h/house_party.md) | 4.35 | 
+| 593 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 594 | [ELEX](games/e/elex.md) | 4.35 | 
+| 595 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
 | 596 | [Encased](games/e/encased.md) | 4.35 | 
 | 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
