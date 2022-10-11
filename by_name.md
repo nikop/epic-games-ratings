@@ -142,7 +142,7 @@
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
