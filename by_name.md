@@ -12,7 +12,7 @@
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
+| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
@@ -285,7 +285,7 @@
 | 283 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 284 | [House Party](games/h/house_party.md) | 4.35 | 
 | 285 | [Hue](games/h/hue.md) | 4.55 | 
-| 286 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 286 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 287 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 288 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 289 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
@@ -344,7 +344,7 @@
 | 342 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 343 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 344 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
-| 345 | [Limbo](games/l/limbo.md) | 4.66 | 
+| 345 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 346 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 347 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 348 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
@@ -386,7 +386,7 @@
 | 384 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 385 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 386 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 387 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
+| 387 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 388 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 389 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 390 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -451,7 +451,7 @@
 | 449 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 450 | [Quake](games/q/quake.md) | 4.80 | 
 | 451 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 452 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
+| 452 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 453 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 454 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
