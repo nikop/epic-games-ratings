@@ -109,13 +109,13 @@
 | 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 109 | [Journey](games/j/journey.md) | 4.76 | 
-| 110 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 115 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 116 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.75 | 
+| 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 111 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 115 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 119 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -507,16 +507,16 @@
 | 505 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 506 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 507 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 508 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 509 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 510 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 512 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 513 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 514 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 515 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 516 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 517 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 508 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
+| 509 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 510 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 511 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 512 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 513 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
+| 514 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 515 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 516 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 517 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 518 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 519 | [Figment](games/f/figment.md) | 4.43 | 
 | 520 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
