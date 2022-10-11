@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 48 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 49 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 51 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 53 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -59,7 +59,7 @@
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.31 | 
-| 60 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 63 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
@@ -80,7 +80,7 @@
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
-| 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
