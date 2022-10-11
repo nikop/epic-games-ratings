@@ -255,7 +255,7 @@
 | 253 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 254 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 255 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 256 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
+| 256 | [Gravewood High](games/g/gravewood_high.md) | 3.93 | 
 | 257 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 258 | [GRIME](games/g/grime.md) | 4.61 | 
 | 259 | [Grindstone](games/g/grindstone.md) | 4.85 | 
