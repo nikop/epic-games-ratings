@@ -153,7 +153,7 @@
 | 151 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 152 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 153 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 154 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 154 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 155 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 157 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -269,7 +269,7 @@
 | 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 269 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 271 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 272 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 273 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
@@ -371,7 +371,7 @@
 | 369 | [Minit](games/m/minit.md) | 4.55 | 
 | 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 371 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 372 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 372 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 373 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 374 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 375 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -593,7 +593,7 @@
 | 591 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 592 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 593 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 594 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 594 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 595 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 596 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
