@@ -427,7 +427,7 @@
 | 425 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 426 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 427 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 428 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
+| 428 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 429 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
