@@ -188,7 +188,7 @@
 | 186 | [Eastward](games/e/eastward.md) | 4.64 | 
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 189 | [ELEX](games/e/elex.md) | 4.34 | 
+| 189 | [ELEX](games/e/elex.md) | 4.35 | 
 | 190 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
