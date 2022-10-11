@@ -62,20 +62,20 @@
 | 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 61 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 63 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 64 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 66 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
-| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 74 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 75 | [Diabotical](games/d/diabotical.md) | 4.80 | 
-| 76 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 63 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
+| 64 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 65 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 67 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 69 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 71 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 72 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 73 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 75 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 76 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 77 | [Quake](games/q/quake.md) | 4.80 | 
 | 78 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 79 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -366,21 +366,21 @@
 | 364 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 365 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 366 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 367 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
-| 368 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 369 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 370 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
-| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 372 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
-| 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 376 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 378 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 379 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 380 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 381 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 367 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 368 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
+| 369 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 370 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 371 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
+| 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 373 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
+| 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 377 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 378 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 379 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 380 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 381 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 382 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 383 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 384 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -687,13 +687,13 @@
 | 685 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 686 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 687 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 689 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 691 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
-| 692 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 693 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
+| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 690 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 691 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 692 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 694 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 695 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 697 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 

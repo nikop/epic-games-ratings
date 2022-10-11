@@ -373,7 +373,7 @@
 | 371 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 372 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 373 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 374 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 374 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 375 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 376 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 377 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
@@ -503,7 +503,7 @@
 | 501 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 502 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 503 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 504 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 504 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 505 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 506 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
@@ -624,7 +624,7 @@
 | 622 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 623 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 624 | [The Surge](games/t/the_surge.md) | 4.54 | 
-| 625 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 
+| 625 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 626 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 627 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 628 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
