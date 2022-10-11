@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.57 | 
@@ -161,7 +161,7 @@
 | 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 160 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 161 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 162 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 162 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 163 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 164 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
 | 165 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
@@ -292,7 +292,7 @@
 | 290 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 291 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 292 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 293 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 293 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 294 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 295 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 296 | [INSIDE](games/i/inside.md) | 4.68 | 
@@ -545,7 +545,7 @@
 | 543 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 544 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 545 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
-| 546 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 546 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 547 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 548 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 549 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
@@ -596,7 +596,7 @@
 | 594 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 595 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 596 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
+| 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 598 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 599 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 5.00 | 
 | 600 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -694,7 +694,7 @@
 | 692 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 693 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 694 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 695 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 695 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 696 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 697 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 698 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -732,7 +732,7 @@
 | 730 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.58 | 
 | 731 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 732 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 733 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 733 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 734 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 735 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 736 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
