@@ -55,7 +55,7 @@
 | 53 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.33 | 
@@ -121,7 +121,7 @@
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
-| 122 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
@@ -539,7 +539,7 @@
 | 537 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 538 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 539 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
-| 540 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
+| 540 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
 | 541 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 542 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 543 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -608,7 +608,7 @@
 | 606 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 607 | [The Guild 3](games/t/the_guild_3.md) | 4.13 | 
 | 608 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 609 | [The Last Campfire](games/t/the_last_campfire.md) | 4.87 | 
+| 609 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 610 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 611 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 612 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
@@ -642,7 +642,7 @@
 | 640 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 641 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 642 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 643 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 643 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 644 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 645 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 646 | [Timberborn](games/t/timberborn.md) | 4.69 | 
