@@ -165,7 +165,7 @@
 | 163 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 164 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
 | 165 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 166 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 166 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 167 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 168 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 169 | [Diabotical](games/d/diabotical.md) | 4.80 | 
@@ -186,7 +186,7 @@
 | 184 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 185 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
 | 186 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
+| 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 189 | [ELEX](games/e/elex.md) | 4.35 | 
 | 190 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
@@ -546,7 +546,7 @@
 | 544 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 545 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
 | 546 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 547 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 547 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 548 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 549 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 550 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
@@ -648,7 +648,7 @@
 | 646 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 647 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 648 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 649 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.70 | 
+| 649 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
 | 650 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 651 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 652 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
