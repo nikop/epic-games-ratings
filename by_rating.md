@@ -578,13 +578,13 @@
 | 576 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 577 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 578 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 579 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
-| 580 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 581 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 582 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 583 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 584 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 585 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 580 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 581 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 582 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 583 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 584 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 585 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 586 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 587 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 588 | [Encased](games/e/encased.md) | 4.36 | 
@@ -609,15 +609,15 @@
 | 607 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 608 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
 | 609 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 610 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
-| 611 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 612 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 613 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 614 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 615 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 616 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 617 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 618 | [Backbone](games/b/backbone.md) | 4.31 | 
+| 610 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 611 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
+| 612 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 613 | [Tacoma](games/t/tacoma.md) | 4.32 | 
+| 614 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 615 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 616 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 617 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 618 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 619 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 620 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 621 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 

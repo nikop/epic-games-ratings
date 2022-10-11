@@ -58,7 +58,7 @@
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 59 | [Backbone](games/b/backbone.md) | 4.31 | 
+| 59 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
@@ -74,7 +74,7 @@
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
+| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
