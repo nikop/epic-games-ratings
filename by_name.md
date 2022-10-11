@@ -105,7 +105,7 @@
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 106 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
+| 106 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 108 | [Chorus](games/c/chorus.md) | 4.50 | 
 | 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
@@ -149,7 +149,7 @@
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 150 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 150 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 151 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 152 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 153 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -401,7 +401,7 @@
 | 399 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 400 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 401 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 402 | [Obduction](games/o/obduction.md) | 4.08 | 
+| 402 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 403 | [Observation](games/o/observation.md) | 4.38 | 
 | 404 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
 | 405 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
@@ -456,7 +456,7 @@
 | 454 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 456 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 457 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
+| 457 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 458 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 459 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 460 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
@@ -489,7 +489,7 @@
 | 487 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 488 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 489 | [Runbow](games/r/runbow.md) | 4.42 | 
-| 490 | [Sable](games/s/sable.md) | 4.51 | 
+| 490 | [Sable](games/s/sable.md) | 4.52 | 
 | 491 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 492 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 493 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
