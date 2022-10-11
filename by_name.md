@@ -471,7 +471,7 @@
 | 469 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 470 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 471 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 472 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 472 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
 | 473 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
 | 474 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 475 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
@@ -517,7 +517,7 @@
 | 515 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 516 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 517 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.19 | 
+| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.22 | 
 | 519 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 520 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 521 | [Slipways](games/s/slipways.md) | 4.72 | 

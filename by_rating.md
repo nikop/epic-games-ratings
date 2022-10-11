@@ -177,24 +177,24 @@
 | 175 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 178 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 179 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 182 | [Barony](games/b/barony.md) | 4.69 | 
-| 183 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 184 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 186 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 187 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 189 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 190 | [SOMA](games/s/soma.md) | 4.69 | 
-| 191 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 193 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 194 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 195 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 181 | [Barony](games/b/barony.md) | 4.69 | 
+| 182 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 183 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 184 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 185 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 186 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 187 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 188 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 189 | [SOMA](games/s/soma.md) | 4.69 | 
+| 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 191 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 192 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 193 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 194 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 195 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
 | 196 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 197 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 198 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
@@ -659,18 +659,18 @@
 | 657 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
 | 659 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
-| 660 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 661 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 662 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 663 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 664 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 665 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 666 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 667 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 668 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 669 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 670 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 671 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.19 | 
+| 660 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.22 | 
+| 661 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 662 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 663 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 664 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 665 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 666 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 667 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 668 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 669 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 670 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 671 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 672 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 673 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 674 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
