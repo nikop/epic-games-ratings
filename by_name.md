@@ -249,7 +249,7 @@
 | 247 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 248 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 249 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 250 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
+| 250 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 251 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 252 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 253 | [Good Company](games/g/good_company.md) | 4.46 | 
@@ -460,7 +460,7 @@
 | 458 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 459 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 460 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 461 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 461 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 462 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 463 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 464 | [Relicta](games/r/relicta.md) | 4.10 | 

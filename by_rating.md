@@ -487,21 +487,21 @@
 | 485 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 486 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 487 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 488 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
-| 489 | [Good Company](games/g/good_company.md) | 4.46 | 
-| 490 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 491 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
-| 492 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
-| 493 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 494 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 495 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
-| 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 497 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 498 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 500 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 501 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 502 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 489 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
+| 490 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 491 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 492 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
+| 493 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
+| 494 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 495 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 496 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
+| 497 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 498 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 499 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 500 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 501 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 502 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 503 | [Far Cry](games/f/far_cry.md) | 4.45 | 
 | 504 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 505 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
@@ -726,8 +726,8 @@
 | 724 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 725 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 726 | [Patron](games/p/patron.md) | 3.93 | 
-| 727 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 728 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
+| 727 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
+| 728 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 729 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 730 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 731 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
