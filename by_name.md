@@ -671,7 +671,7 @@
 | 669 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 670 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 671 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 672 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 672 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 673 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 674 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 675 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 

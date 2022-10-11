@@ -702,13 +702,13 @@
 | 700 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 701 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 702 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 703 | [Lake](games/l/lake.md) | 4.08 | 
-| 704 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
-| 705 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
-| 706 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 707 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
-| 708 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 709 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 703 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 704 | [Lake](games/l/lake.md) | 4.08 | 
+| 705 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
+| 706 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 707 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 708 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
+| 709 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 710 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 711 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 712 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
