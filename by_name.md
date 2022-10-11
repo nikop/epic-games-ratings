@@ -251,7 +251,7 @@
 | 249 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 250 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 251 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 252 | [Gone Home](games/g/gone_home.md) | 4.13 | 
+| 252 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 253 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 254 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 255 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -444,7 +444,7 @@
 | 442 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
 | 443 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 444 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
-| 445 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 445 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 446 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
 | 447 | [Prey](games/p/prey.md) | 4.61 | 
 | 448 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -538,7 +538,7 @@
 | 536 | [Speed Brawl](games/s/speed_brawl.md) | 4.28 | 
 | 537 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 538 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 539 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.76 | 
+| 539 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
 | 540 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.58 | 
 | 541 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.46 | 
 | 542 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -638,7 +638,7 @@
 | 636 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 637 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 638 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 639 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 639 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 640 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 641 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 642 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
