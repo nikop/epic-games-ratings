@@ -451,7 +451,7 @@
 | 449 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 450 | [Quake](games/q/quake.md) | 4.80 | 
 | 451 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 452 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 452 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 453 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 454 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
@@ -569,7 +569,7 @@
 | 567 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 568 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 569 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 570 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
+| 570 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 571 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
 | 572 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 573 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -733,7 +733,7 @@
 | 731 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 732 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 733 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 734 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 734 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 735 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 736 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 737 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

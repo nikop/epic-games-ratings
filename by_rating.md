@@ -232,17 +232,17 @@
 | 230 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 233 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
-| 234 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 235 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 236 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 237 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 238 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 239 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 240 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 241 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 242 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 243 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 233 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 235 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 236 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 237 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 238 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 240 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 241 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 242 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 243 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 245 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 246 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -433,15 +433,15 @@
 | 431 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 432 | [Warpips](games/w/warpips.md) | 4.52 | 
 | 433 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
-| 434 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 435 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 436 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 437 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 438 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 439 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 440 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 441 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 434 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 435 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 436 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 437 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 438 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 439 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 440 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 442 | [RAILGRADE](games/r/railgrade.md) | 4.51 | 
 | 443 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 444 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 445 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -638,10 +638,10 @@
 | 636 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 637 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 638 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 639 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
-| 640 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 641 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
-| 642 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 639 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 640 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
+| 641 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 642 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 643 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 644 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 645 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
