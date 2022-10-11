@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.44 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.24 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -98,7 +98,7 @@
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 97 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 98 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 99 | [CARRION](games/c/carrion.md) | 4.70 | 
+| 99 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -325,7 +325,7 @@
 | 323 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 324 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 325 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 326 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 326 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 327 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 328 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 329 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -445,7 +445,7 @@
 | 443 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 444 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 445 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 446 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.40 | 
+| 446 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
 | 447 | [Prey](games/p/prey.md) | 4.61 | 
 | 448 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 449 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
@@ -521,7 +521,7 @@
 | 519 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 520 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 521 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 522 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 522 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 523 | [SMITE](games/s/smite.md) | 4.46 | 
 | 524 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 525 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
@@ -545,7 +545,7 @@
 | 543 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 544 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 545 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
-| 546 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 546 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 547 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 548 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 549 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
@@ -580,7 +580,7 @@
 | 578 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 579 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 580 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 581 | [Tacoma](games/t/tacoma.md) | 4.33 | 
+| 581 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 582 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 583 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
 | 584 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
