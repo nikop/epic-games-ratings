@@ -389,14 +389,14 @@
 | 387 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 389 | [Hue](games/h/hue.md) | 4.55 | 
-| 390 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 391 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
-| 392 | [Minit](games/m/minit.md) | 4.55 | 
-| 393 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 394 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 395 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 396 | [Outward](games/o/outward.md) | 4.54 | 
-| 397 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 390 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 391 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 392 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 393 | [Minit](games/m/minit.md) | 4.55 | 
+| 394 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 395 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 396 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 397 | [Outward](games/o/outward.md) | 4.54 | 
 | 398 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
 | 399 | [Isonzo](games/i/isonzo.md) | 4.54 | 
 | 400 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
@@ -671,8 +671,8 @@
 | 669 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 670 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 671 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 672 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 673 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 672 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 673 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 674 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 675 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 676 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -681,9 +681,9 @@
 | 679 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 680 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 681 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 682 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 683 | [Pine](games/p/pine.md) | 4.13 | 
-| 684 | [The Guild 3](games/t/the_guild_3.md) | 4.13 | 
+| 682 | [The Guild 3](games/t/the_guild_3.md) | 4.14 | 
+| 683 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 684 | [Pine](games/p/pine.md) | 4.13 | 
 | 685 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
 | 686 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 687 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
@@ -704,8 +704,8 @@
 | 702 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 703 | [Lake](games/l/lake.md) | 4.08 | 
 | 704 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
-| 705 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 706 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 705 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 706 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 707 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 708 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 709 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 

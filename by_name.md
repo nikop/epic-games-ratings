@@ -248,7 +248,7 @@
 | 246 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
 | 247 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 248 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 249 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 249 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 250 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 251 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 252 | [Gone Home](games/g/gone_home.md) | 4.16 | 
@@ -497,7 +497,7 @@
 | 495 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 496 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 497 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 498 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 498 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 499 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 500 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 501 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -584,7 +584,7 @@
 | 582 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 583 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 584 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
-| 585 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 585 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 586 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 587 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 588 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -607,7 +607,7 @@
 | 605 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 606 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 607 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 608 | [The Guild 3](games/t/the_guild_3.md) | 4.13 | 
+| 608 | [The Guild 3](games/t/the_guild_3.md) | 4.14 | 
 | 609 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 610 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 611 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
