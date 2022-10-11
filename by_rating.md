@@ -606,11 +606,11 @@
 | 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 605 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 606 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 607 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 608 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 609 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 610 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 611 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
+| 607 | [Rising Hell](games/r/rising_hell.md) | 4.34 | 
+| 608 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 609 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 610 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 611 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 612 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 613 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 614 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 

@@ -472,7 +472,7 @@
 | 470 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 471 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 472 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 473 | [Rising Hell](games/r/rising_hell.md) | 4.33 | 
+| 473 | [Rising Hell](games/r/rising_hell.md) | 4.34 | 
 | 474 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 475 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 476 | [Riverbond](games/r/riverbond.md) | 4.49 | 
