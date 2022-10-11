@@ -73,7 +73,7 @@
 | 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.62 | 
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
@@ -145,7 +145,7 @@
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -279,7 +279,7 @@
 | 277 | [Hob](games/h/hob.md) | 4.58 | 
 | 278 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 279 | [Horace](games/h/horace.md) | 4.53 | 
-| 280 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 280 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 281 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 282 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
 | 283 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -667,7 +667,7 @@
 | 665 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 666 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
 | 667 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 668 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
+| 668 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 669 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 670 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 671 | [Train Valley](games/t/train_valley.md) | 4.40 | 

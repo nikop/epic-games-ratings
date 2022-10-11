@@ -230,17 +230,17 @@
 | 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 229 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 232 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 233 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 234 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 235 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 236 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 237 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 238 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 240 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 241 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 231 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 233 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 235 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 236 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 237 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 238 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 240 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 242 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 243 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
@@ -293,23 +293,23 @@
 | 291 | [Prey](games/p/prey.md) | 4.61 | 
 | 292 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 293 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 297 | [20XX](games/2/20xx.md) | 4.61 | 
-| 298 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 299 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 300 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 301 | [GRIME](games/g/grime.md) | 4.61 | 
-| 302 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 303 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 304 | [Control](games/c/control.md) | 4.60 | 
-| 305 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 306 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 307 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 308 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 309 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 294 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 295 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 296 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 297 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 298 | [20XX](games/2/20xx.md) | 4.61 | 
+| 299 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 300 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 301 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 302 | [GRIME](games/g/grime.md) | 4.61 | 
+| 303 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 304 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 305 | [Control](games/c/control.md) | 4.60 | 
+| 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 310 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 311 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 312 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 313 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -468,9 +468,9 @@
 | 466 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 467 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 468 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 469 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 470 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 471 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 470 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 471 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 472 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 473 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 474 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -720,8 +720,8 @@
 | 718 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 719 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 720 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
-| 721 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 722 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
+| 721 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 722 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 723 | [Warface](games/w/warface.md) | 3.95 | 
 | 724 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 725 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
