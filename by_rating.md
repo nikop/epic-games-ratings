@@ -295,22 +295,22 @@
 | 293 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 296 | [20XX](games/2/20xx.md) | 4.61 | 
-| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 300 | [GRIME](games/g/grime.md) | 4.61 | 
-| 301 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 302 | [Control](games/c/control.md) | 4.60 | 
-| 303 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 304 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 305 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 306 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 307 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 308 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 309 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 310 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 311 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 297 | [20XX](games/2/20xx.md) | 4.61 | 
+| 298 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 299 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 300 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 301 | [GRIME](games/g/grime.md) | 4.61 | 
+| 302 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 303 | [Control](games/c/control.md) | 4.60 | 
+| 304 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 305 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 306 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 307 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 308 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 309 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 310 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 311 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 312 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 313 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
@@ -379,17 +379,17 @@
 | 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 378 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 379 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 380 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 381 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 382 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 383 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 384 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 385 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
-| 386 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
-| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
-| 388 | [Hue](games/h/hue.md) | 4.55 | 
-| 389 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 390 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 380 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 381 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 382 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 383 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 384 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 385 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 386 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
+| 387 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
+| 389 | [Hue](games/h/hue.md) | 4.55 | 
+| 390 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 391 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
 | 392 | [Minit](games/m/minit.md) | 4.55 | 
 | 393 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -549,18 +549,18 @@
 | 547 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 548 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 549 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
-| 550 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 551 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 554 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 555 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 557 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 558 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 559 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 560 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
-| 561 | [CryoFall](games/c/cryofall.md) | 4.39 | 
+| 550 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 551 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 552 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
+| 553 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 554 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 555 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 556 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 558 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 559 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 560 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 561 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
 | 562 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
 | 563 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 564 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
@@ -682,14 +682,14 @@
 | 680 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 681 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 682 | [Pine](games/p/pine.md) | 4.13 | 
-| 683 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 684 | [The Guild 3](games/t/the_guild_3.md) | 4.13 | 
-| 685 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
-| 686 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 687 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 689 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 683 | [The Guild 3](games/t/the_guild_3.md) | 4.13 | 
+| 684 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
+| 685 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 686 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 687 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 688 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 689 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 690 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 692 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 693 | [The Surge 2](games/t/the_surge_2.md) | 4.11 | 

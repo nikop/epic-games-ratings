@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.39 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.40 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -198,7 +198,7 @@
 | 196 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
-| 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 200 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 201 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 202 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -486,7 +486,7 @@
 | 484 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 485 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 486 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 487 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 487 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 488 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 489 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 490 | [Sable](games/s/sable.md) | 4.52 | 
@@ -509,7 +509,7 @@
 | 507 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
 | 508 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 509 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 510 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 510 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 511 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 512 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 513 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
