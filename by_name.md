@@ -659,7 +659,7 @@
 | 657 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 658 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 659 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
-| 660 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 660 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 661 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 662 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 663 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 

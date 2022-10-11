@@ -268,17 +268,17 @@
 | 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 267 | [Old World](games/o/old_world.md) | 4.63 | 
 | 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
-| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 272 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 275 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 277 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
-| 278 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 270 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.63 | 
+| 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 273 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 274 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 276 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 277 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 278 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 279 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
