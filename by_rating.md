@@ -190,20 +190,20 @@
 | 188 | [SOMA](games/s/soma.md) | 4.69 | 
 | 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 190 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 191 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 192 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 193 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 194 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 195 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 196 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 197 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 198 | [INSIDE](games/i/inside.md) | 4.68 | 
-| 199 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 200 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 201 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 202 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 203 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
-| 204 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 191 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 192 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 193 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 194 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 195 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
+| 196 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 197 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 198 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 199 | [INSIDE](games/i/inside.md) | 4.68 | 
+| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 201 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 202 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 203 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 204 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 205 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 206 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 207 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -518,17 +518,17 @@
 | 516 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 517 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 518 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 519 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 520 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
-| 521 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
-| 523 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 524 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 525 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 526 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 527 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 528 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 529 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 519 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
+| 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 522 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 523 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 524 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 525 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 526 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 527 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 528 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 529 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 530 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 531 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 532 | [Othercide](games/o/othercide.md) | 4.42 | 
@@ -679,23 +679,23 @@
 | 677 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
 | 678 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 679 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
-| 680 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
-| 681 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 682 | [The Guild 3](games/t/the_guild_3.md) | 4.14 | 
-| 683 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 684 | [Pine](games/p/pine.md) | 4.13 | 
-| 685 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
-| 686 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 687 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
-| 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 690 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 691 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 692 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
-| 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 694 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 695 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 680 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 681 | [The Guild 3](games/t/the_guild_3.md) | 4.14 | 
+| 682 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 683 | [Pine](games/p/pine.md) | 4.13 | 
+| 684 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
+| 685 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 686 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 687 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 689 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 691 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 692 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 693 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 694 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 695 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 696 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
 | 697 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 698 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
 | 699 | [Obduction](games/o/obduction.md) | 4.09 | 
