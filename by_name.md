@@ -197,7 +197,7 @@
 | 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 196 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 
+| 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 200 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
 | 201 | [Faeria](games/f/faeria.md) | 4.40 | 
@@ -239,7 +239,7 @@
 | 237 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 238 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 240 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 240 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 241 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 242 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 243 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
