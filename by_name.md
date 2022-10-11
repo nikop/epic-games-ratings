@@ -189,7 +189,7 @@
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 189 | [ELEX](games/e/elex.md) | 4.35 | 
-| 190 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 190 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 193 | [Encased](games/e/encased.md) | 4.36 | 
@@ -712,7 +712,7 @@
 | 710 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 711 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 712 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
-| 713 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
+| 713 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 714 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 715 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 716 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
