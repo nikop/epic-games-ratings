@@ -444,23 +444,23 @@
 | 442 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 445 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 446 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 447 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 448 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 449 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 450 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 451 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 452 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 453 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 454 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
-| 456 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 458 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 459 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 460 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 461 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 447 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 448 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 452 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 453 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 455 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 457 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 458 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 459 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 460 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 461 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 462 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 463 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 464 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -578,12 +578,12 @@
 | 576 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 577 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 578 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 580 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 581 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 582 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 583 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 584 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 579 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
+| 580 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 581 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 582 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 583 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 584 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 585 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 586 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 587 | [Encased](games/e/encased.md) | 4.36 | 

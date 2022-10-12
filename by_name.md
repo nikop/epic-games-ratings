@@ -74,7 +74,7 @@
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -196,7 +196,7 @@
 | 194 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 196 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 200 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
