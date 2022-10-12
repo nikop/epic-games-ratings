@@ -292,7 +292,7 @@
 | 290 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 291 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 292 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 293 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 293 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
 | 294 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 295 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 296 | [INSIDE](games/i/inside.md) | 4.68 | 
@@ -532,7 +532,7 @@
 | 530 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 531 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 532 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 533 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 533 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 534 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 535 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 536 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
@@ -627,7 +627,7 @@
 | 625 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 626 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 627 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 628 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
+| 628 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
 | 629 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 630 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 631 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 

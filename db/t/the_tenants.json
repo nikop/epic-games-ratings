@@ -1,10 +1,10 @@
 {
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 82,
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
-  "LastChanged": "2022-10-10T21:02:26.9714113+00:00",
+  "LastChanged": "2022-10-12T02:31:49.0587645+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.0535217+00:00",
@@ -199,6 +199,11 @@
     {
       "Time": "2022-10-10T21:02:26.9714115+00:00",
       "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-12T02:31:49.0587647+00:00",
+      "Rating": 4.58,
       "NumberOfRatings": null
     }
   ],
