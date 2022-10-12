@@ -594,7 +594,7 @@
 | 592 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 593 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 594 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 595 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 595 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 596 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 597 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 598 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
@@ -656,7 +656,7 @@
 | 654 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 655 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 656 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 657 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 657 | [Torchlight](games/t/torchlight.md) | 4.43 | 
 | 658 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 659 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 660 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
@@ -710,7 +710,7 @@
 | 708 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 709 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 710 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 711 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 711 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
 | 712 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 713 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 714 | [Weird West](games/w/weird_west.md) | 4.40 | 
