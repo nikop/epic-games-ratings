@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.43 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -189,7 +189,7 @@
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 189 | [ELEX](games/e/elex.md) | 4.36 | 
-| 190 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 190 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
 | 193 | [Encased](games/e/encased.md) | 4.36 | 
@@ -391,7 +391,7 @@
 | 389 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 390 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 391 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 392 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 392 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 393 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 394 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 395 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -472,7 +472,7 @@
 | 470 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 471 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 472 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 473 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 473 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
 | 474 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 475 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 476 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -571,7 +571,7 @@
 | 569 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 570 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 571 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 572 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.57 | 
+| 572 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
 | 573 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 574 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 575 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
