@@ -443,13 +443,13 @@
 | 441 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 442 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 447 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 448 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 444 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 445 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 446 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 447 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 448 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 450 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
 | 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 452 | [Chorus](games/c/chorus.md) | 4.50 | 
 | 453 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
@@ -472,34 +472,34 @@
 | 470 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 471 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 472 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 473 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
-| 474 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 475 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 476 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 477 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 478 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 479 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 480 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 473 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 474 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 475 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 476 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 477 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 478 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 479 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 480 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 481 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 482 | [SMITE](games/s/smite.md) | 4.46 | 
 | 483 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 484 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 485 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 486 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
-| 487 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
-| 488 | [Death Coming](games/d/death_coming.md) | 4.46 | 
-| 489 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
-| 490 | [Good Company](games/g/good_company.md) | 4.46 | 
-| 491 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 492 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
-| 493 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 494 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 495 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
-| 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 497 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 498 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 500 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 485 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 486 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 487 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 488 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
+| 489 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 490 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 491 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
+| 492 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 493 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 494 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
+| 495 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 496 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 497 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 499 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 500 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 501 | [Far Cry](games/f/far_cry.md) | 4.45 | 
 | 502 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 503 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
@@ -594,19 +594,19 @@
 | 592 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 593 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
 | 594 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 595 | [House Party](games/h/house_party.md) | 4.35 | 
-| 596 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 597 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
-| 598 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 599 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 600 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 601 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 602 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 603 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 604 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 605 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 606 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 595 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 596 | [House Party](games/h/house_party.md) | 4.35 | 
+| 597 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 598 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 599 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 600 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 601 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 602 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 603 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 604 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 605 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 606 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 607 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
 | 608 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 609 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 610 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 

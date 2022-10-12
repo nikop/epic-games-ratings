@@ -54,7 +54,7 @@
 | 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 53 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -261,7 +261,7 @@
 | 259 | [Grindstone](games/g/grindstone.md) | 4.85 | 
 | 260 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
 | 261 | [Hades](games/h/hades.md) | 4.92 | 
-| 262 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 262 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 263 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 264 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 265 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
@@ -546,7 +546,7 @@
 | 544 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 545 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 546 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
-| 547 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 547 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 548 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 549 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 550 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
@@ -597,7 +597,7 @@
 | 595 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 596 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 597 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 598 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 598 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 599 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 600 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 5.00 | 
 | 601 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
