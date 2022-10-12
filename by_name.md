@@ -28,7 +28,7 @@
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
@@ -88,11 +88,11 @@
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 89 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
+| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.25 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -158,7 +158,7 @@
 | 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 157 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 158 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 160 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 161 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 162 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
@@ -599,7 +599,7 @@
 | 597 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 598 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 599 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 600 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 5.00 | 
+| 600 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.97 | 
 | 601 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 602 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 603 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -654,7 +654,7 @@
 | 652 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 653 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 654 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 655 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 655 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 656 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 657 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 658 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
