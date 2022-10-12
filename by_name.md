@@ -606,7 +606,7 @@
 | 604 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 605 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 606 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
-| 607 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
+| 607 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 608 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 609 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 610 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
@@ -621,9 +621,9 @@
 | 619 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 620 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 621 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 622 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 622 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 623 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 624 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 624 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 625 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 626 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 627 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
