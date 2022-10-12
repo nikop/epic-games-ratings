@@ -114,7 +114,7 @@
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
 | 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 115 | [Conarium](games/c/conarium.md) | 4.00 | 
+| 115 | [Conarium](games/c/conarium.md) | 3.97 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 118 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -484,7 +484,7 @@
 | 482 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
 | 483 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 484 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 485 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 485 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 486 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 487 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 488 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
