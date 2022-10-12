@@ -96,15 +96,15 @@
 | 94 | [Haven](games/h/haven.md) | 4.78 | 
 | 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 96 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 97 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
-| 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 99 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 100 | [Northgard](games/n/northgard.md) | 4.77 | 
-| 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 104 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
-| 105 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 98 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 99 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 103 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
+| 104 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 108 | [Journey](games/j/journey.md) | 4.76 | 
@@ -207,19 +207,19 @@
 | 205 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 206 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 207 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 208 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 209 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 210 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 211 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 212 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 213 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 214 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 215 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 216 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 217 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 219 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 220 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
+| 208 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
+| 209 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 210 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 211 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 212 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 213 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 214 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 215 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 216 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 217 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 218 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 219 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 220 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 221 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 222 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
 | 223 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 

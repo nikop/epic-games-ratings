@@ -101,7 +101,7 @@
 | 99 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
+| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -320,7 +320,7 @@
 | 318 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 319 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 320 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 321 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
+| 321 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
 | 322 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 323 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 324 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
