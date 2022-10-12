@@ -404,20 +404,20 @@
 | 402 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 403 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 404 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 405 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 406 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 407 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 408 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 409 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 410 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 411 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 412 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 413 | [Horace](games/h/horace.md) | 4.53 | 
-| 414 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 415 | [Warpips](games/w/warpips.md) | 4.53 | 
-| 416 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 417 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 418 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 405 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 406 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 407 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 408 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 409 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 410 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 411 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 412 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 413 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 414 | [Horace](games/h/horace.md) | 4.53 | 
+| 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 416 | [Warpips](games/w/warpips.md) | 4.53 | 
+| 417 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 418 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 419 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 420 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 421 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
