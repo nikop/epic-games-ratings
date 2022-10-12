@@ -609,11 +609,11 @@
 | 607 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 608 | [Rising Hell](games/r/rising_hell.md) | 4.34 | 
 | 609 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 610 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 611 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 612 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 613 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 614 | [Tacoma](games/t/tacoma.md) | 4.32 | 
+| 610 | [Tacoma](games/t/tacoma.md) | 4.33 | 
+| 611 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 612 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 613 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 614 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 615 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 616 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 617 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
