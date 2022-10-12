@@ -64,7 +64,7 @@
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 63 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
 | 64 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 65 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 65 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 66 | [Barony](games/b/barony.md) | 4.69 | 
 | 67 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 68 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
@@ -171,7 +171,7 @@
 | 169 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 170 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 171 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 172 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 172 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 174 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 175 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
@@ -455,7 +455,7 @@
 | 453 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 454 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 455 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 456 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 456 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
 | 457 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 458 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 459 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
@@ -544,7 +544,7 @@
 | 542 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 543 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 544 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 545 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 545 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 546 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
 | 547 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
 | 548 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 

@@ -17,11 +17,11 @@
 | 15 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 18 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 22 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 19 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 21 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -205,19 +205,19 @@
 | 203 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 204 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
 | 205 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 206 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 207 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 208 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 209 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 210 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 211 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 212 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 213 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 214 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 215 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 216 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 217 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 206 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 207 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 208 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 209 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 210 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 211 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 212 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 213 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 214 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 215 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 216 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 217 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 218 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 219 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.67 | 
 | 220 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 221 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
@@ -514,13 +514,13 @@
 | 512 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 513 | [Figment](games/f/figment.md) | 4.44 | 
 | 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 515 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 516 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 517 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 518 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 519 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
-| 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
+| 515 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
+| 516 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 517 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 518 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 519 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 520 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
+| 521 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 522 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 523 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 524 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
@@ -623,12 +623,12 @@
 | 621 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 622 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 623 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
-| 624 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 625 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 626 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 627 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 628 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 629 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 624 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 625 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 626 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 627 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 628 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 629 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 630 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 631 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 632 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
