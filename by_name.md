@@ -682,7 +682,7 @@
 | 680 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 681 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 682 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 683 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 683 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 684 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 685 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 686 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 

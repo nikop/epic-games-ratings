@@ -646,19 +646,19 @@
 | 644 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 645 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 646 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 647 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 648 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 649 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 650 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 651 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 652 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 653 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 654 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
-| 655 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
-| 656 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 657 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 658 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 659 | [Twin Mirror](games/t/twin_mirror.md) | 4.22 | 
+| 647 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 648 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 649 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 650 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 651 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 652 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 653 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 654 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 655 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
+| 656 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
+| 657 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 658 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 659 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 660 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 661 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
 | 662 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.21 | 
