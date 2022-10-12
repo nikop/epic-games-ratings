@@ -37,7 +37,7 @@
 | 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 36 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 37 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 40 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 41 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
@@ -121,7 +121,7 @@
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
-| 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 122 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
@@ -146,7 +146,7 @@
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 150 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -361,7 +361,7 @@
 | 359 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 360 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 361 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 362 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 362 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 363 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 364 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 365 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -539,7 +539,7 @@
 | 537 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 538 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 539 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
-| 540 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
+| 540 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
 | 541 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 542 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 543 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 

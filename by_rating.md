@@ -254,22 +254,22 @@
 | 252 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 253 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 254 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 255 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
-| 256 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 257 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 259 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 260 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 261 | [Eastward](games/e/eastward.md) | 4.64 | 
-| 262 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
-| 263 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 264 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 265 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 267 | [Old World](games/o/old_world.md) | 4.63 | 
-| 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 270 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 255 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 256 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
+| 257 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 258 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 259 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 260 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 261 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 262 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 263 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
+| 264 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 265 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 266 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 267 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 268 | [Old World](games/o/old_world.md) | 4.63 | 
+| 269 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 270 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 273 | [Transistor](games/t/transistor.md) | 4.63 | 
@@ -378,15 +378,15 @@
 | 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 377 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 378 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 380 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 381 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 382 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 383 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 384 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 385 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 386 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 387 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 379 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 380 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 381 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 382 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 383 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 384 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 385 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 386 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 389 | [Hue](games/h/hue.md) | 4.55 | 
 | 390 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -443,16 +443,16 @@
 | 441 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 442 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 444 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 445 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 446 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
-| 447 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 448 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 449 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 450 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
-| 451 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 452 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 453 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 444 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 445 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 446 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 447 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
+| 448 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 450 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 452 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 453 | [Chorus](games/c/chorus.md) | 4.50 | 
 | 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
 | 455 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
@@ -689,9 +689,9 @@
 | 687 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 689 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 691 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
-| 692 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 690 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 691 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 692 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 693 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 694 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 695 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
@@ -736,5 +736,5 @@
 | 734 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 735 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 736 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 737 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
-| 738 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
+| 737 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
+| 738 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
