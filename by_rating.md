@@ -470,13 +470,13 @@
 | 468 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 470 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 471 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 472 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
-| 473 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 474 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 475 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 476 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 477 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 471 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 473 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 474 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 475 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 476 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 477 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 478 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 479 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 480 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
@@ -593,19 +593,19 @@
 | 591 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 592 | [House Party](games/h/house_party.md) | 4.35 | 
 | 593 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 594 | [ELEX](games/e/elex.md) | 4.35 | 
-| 595 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 596 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 597 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 598 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 599 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 600 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 601 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 602 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 603 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 604 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
-| 605 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 606 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 594 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 595 | [ELEX](games/e/elex.md) | 4.35 | 
+| 596 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 599 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 600 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 601 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 602 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 603 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 606 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 607 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 608 | [Rising Hell](games/r/rising_hell.md) | 4.34 | 
 | 609 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
