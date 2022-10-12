@@ -517,7 +517,7 @@
 | 515 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 516 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 517 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.21 | 
+| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
 | 519 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 520 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 521 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -643,7 +643,7 @@
 | 641 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 642 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 643 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 644 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 644 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 645 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 646 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 647 | [Timberborn](games/t/timberborn.md) | 4.69 | 
