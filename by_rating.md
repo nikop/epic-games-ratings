@@ -317,20 +317,20 @@
 | 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 316 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 317 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 318 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 319 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 320 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 321 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 322 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 323 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 324 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 325 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
-| 326 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 327 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 328 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 329 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 330 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 331 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 318 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 319 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 320 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 321 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 322 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 323 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 324 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 325 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 327 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 328 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 329 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 330 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 331 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 332 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 333 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 334 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -704,8 +704,8 @@
 | 702 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 703 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 704 | [Lake](games/l/lake.md) | 4.08 | 
-| 705 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.08 | 
-| 706 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 705 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 706 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.07 | 
 | 707 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 708 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 709 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -724,11 +724,11 @@
 | 722 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 723 | [Warface](games/w/warface.md) | 3.95 | 
 | 724 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 725 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 726 | [Patron](games/p/patron.md) | 3.93 | 
-| 727 | [Gravewood High](games/g/gravewood_high.md) | 3.93 | 
-| 728 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
-| 729 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 725 | [Patron](games/p/patron.md) | 3.93 | 
+| 726 | [Gravewood High](games/g/gravewood_high.md) | 3.93 | 
+| 727 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
+| 728 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 729 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 730 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 731 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 732 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
