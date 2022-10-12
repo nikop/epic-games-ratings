@@ -103,17 +103,17 @@
 | 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 104 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
-| 105 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 108 | [Journey](games/j/journey.md) | 4.76 | 
-| 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 110 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 104 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 105 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
+| 106 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 109 | [Journey](games/j/journey.md) | 4.76 | 
+| 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 111 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 115 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -228,13 +228,13 @@
 | 226 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 227 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 229 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 231 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 232 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 233 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 234 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 235 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 230 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 231 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 232 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 233 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 234 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 235 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 236 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 237 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 238 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 

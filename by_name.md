@@ -430,7 +430,7 @@
 | 428 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 429 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.93 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
@@ -594,7 +594,7 @@
 | 592 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 593 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 594 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 595 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 595 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 596 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 597 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 598 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
