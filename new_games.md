@@ -1,40 +1,41 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
-| 2 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.97 | 
-| 3 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.07 | 
-| 4 | [Runbow](games/r/runbow.md) | 4.42 | 
-| 5 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 6 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.25 | 
-| 7 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 8 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 9 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
-| 10 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 11 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
-| 12 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 13 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 14 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 15 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
-| 16 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 17 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 18 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
-| 19 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 20 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
-| 21 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
-| 22 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 23 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 24 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
-| 25 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
-| 26 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
-| 27 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 28 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 29 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 30 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 31 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 33 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 34 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 35 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 36 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 37 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 38 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 1 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.72 | 
+| 2 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
+| 3 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.97 | 
+| 4 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.07 | 
+| 5 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 6 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 7 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.25 | 
+| 8 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 9 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 10 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
+| 11 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
+| 12 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
+| 13 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 14 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 15 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 16 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 17 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 18 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 19 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
+| 20 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 21 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 22 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
+| 23 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 24 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 25 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
+| 26 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
+| 27 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 28 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 29 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 30 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 31 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 32 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 33 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 34 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 35 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 36 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 37 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 38 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 39 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
