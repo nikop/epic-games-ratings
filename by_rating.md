@@ -112,11 +112,11 @@
 | 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 111 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 115 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 116 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
+| 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 115 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 119 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 120 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -499,13 +499,13 @@
 | 497 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 498 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 500 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 501 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 502 | [Far Cry](games/f/far_cry.md) | 4.45 | 
-| 503 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 504 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 505 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 506 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 500 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 501 | [Far Cry](games/f/far_cry.md) | 4.45 | 
+| 502 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 503 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 504 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 505 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 506 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 508 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
@@ -600,14 +600,14 @@
 | 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 599 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 600 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 601 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 602 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 603 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
-| 606 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 607 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 608 | [Rising Hell](games/r/rising_hell.md) | 4.34 | 
+| 601 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
+| 602 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 603 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 604 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 606 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 607 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
+| 608 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 609 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 610 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 611 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
