@@ -593,16 +593,16 @@
 | 591 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 592 | [Parkitect](games/p/parkitect.md) | 4.36 | 
 | 593 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 594 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 595 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 596 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 597 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
-| 598 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 599 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 600 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 601 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 602 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 603 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
+| 594 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 595 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 596 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 597 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 598 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 599 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 600 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 601 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 602 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 603 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 604 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 605 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 606 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
@@ -725,10 +725,10 @@
 | 723 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 724 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 725 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
-| 726 | [Patron](games/p/patron.md) | 3.93 | 
-| 727 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
-| 728 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 729 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 726 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
+| 727 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 728 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 729 | [Patron](games/p/patron.md) | 3.91 | 
 | 730 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 731 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 732 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
