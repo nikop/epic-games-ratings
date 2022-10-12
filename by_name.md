@@ -165,7 +165,7 @@
 | 163 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 164 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
 | 165 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 166 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 166 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 167 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 168 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 169 | [Diabotical](games/d/diabotical.md) | 4.80 | 
@@ -331,7 +331,7 @@
 | 329 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 330 | [Lake](games/l/lake.md) | 4.08 | 
 | 331 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
 | 333 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 334 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 335 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
@@ -361,7 +361,7 @@
 | 359 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 360 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 361 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 362 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 362 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
 | 363 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 364 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 365 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -650,7 +650,7 @@
 | 648 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 649 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 650 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 651 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
+| 651 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 652 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 653 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 654 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
@@ -674,7 +674,7 @@
 | 672 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 673 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 674 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 675 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 675 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
 | 676 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 677 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 678 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
