@@ -142,7 +142,7 @@
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
@@ -156,7 +156,7 @@
 | 154 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 155 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 157 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 157 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 158 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 160 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
@@ -411,7 +411,7 @@
 | 409 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 410 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 411 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 412 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 412 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
 | 413 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 414 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 415 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -669,12 +669,12 @@
 | 667 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 668 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 669 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 670 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 670 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 671 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 672 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 673 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 674 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 675 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
+| 675 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
 | 676 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 677 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 678 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
@@ -711,7 +711,7 @@
 | 709 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 710 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 711 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 712 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
+| 712 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 713 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 714 | [Weird West](games/w/weird_west.md) | 4.40 | 
 | 715 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
