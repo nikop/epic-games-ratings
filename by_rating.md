@@ -488,19 +488,19 @@
 | 486 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 487 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 488 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
-| 489 | [Good Company](games/g/good_company.md) | 4.46 | 
-| 490 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 491 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
-| 492 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
-| 493 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 494 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
-| 495 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 496 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 497 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 499 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 500 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 501 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 489 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 490 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
+| 491 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 492 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 493 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
+| 494 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 495 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 496 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 498 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 499 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 500 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 501 | [Good Company](games/g/good_company.md) | 4.45 | 
 | 502 | [Far Cry](games/f/far_cry.md) | 4.45 | 
 | 503 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 504 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 

@@ -252,7 +252,7 @@
 | 250 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 251 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 252 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 253 | [Good Company](games/g/good_company.md) | 4.46 | 
+| 253 | [Good Company](games/g/good_company.md) | 4.45 | 
 | 254 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 255 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 256 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
