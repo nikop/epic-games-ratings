@@ -51,9 +51,9 @@
 | 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 50 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 51 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 52 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 53 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 54 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -111,12 +111,12 @@
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 110 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 115 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 114 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 115 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 116 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
 | 118 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 119 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 120 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -279,20 +279,20 @@
 | 277 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 278 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 279 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 280 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
-| 281 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 282 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 283 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 284 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 285 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 286 | [RiME](games/r/rime.md) | 4.62 | 
-| 287 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 288 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 289 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
-| 290 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 291 | [Prey](games/p/prey.md) | 4.61 | 
-| 292 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 293 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 280 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 281 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 282 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 284 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 285 | [RiME](games/r/rime.md) | 4.62 | 
+| 286 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 287 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 288 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
+| 289 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 290 | [Prey](games/p/prey.md) | 4.61 | 
+| 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 292 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 293 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 294 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 295 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 296 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
