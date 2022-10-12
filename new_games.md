@@ -33,7 +33,7 @@
 | 31 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 32 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 33 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 34 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 34 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 35 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 36 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 37 | [GigaBash](games/g/gigabash.md) | 4.48 | 

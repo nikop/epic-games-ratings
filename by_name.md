@@ -34,7 +34,7 @@
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 34 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 36 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 37 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
@@ -696,7 +696,7 @@
 | 694 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 695 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 696 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 697 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 697 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 698 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 699 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 700 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
