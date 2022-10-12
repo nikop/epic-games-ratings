@@ -8,7 +8,7 @@
 | 6 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 7 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 9 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 9 | [ABZU](games/a/abzu.md) | 4.58 | 
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -145,7 +145,7 @@
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -245,7 +245,7 @@
 | 243 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 244 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 245 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 246 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
+| 246 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
 | 247 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 248 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 249 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -642,7 +642,7 @@
 | 640 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 641 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 642 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 643 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 643 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 644 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 645 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 646 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
