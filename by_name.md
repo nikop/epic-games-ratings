@@ -296,7 +296,7 @@
 | 294 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 295 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 296 | [INSIDE](games/i/inside.md) | 4.68 | 
-| 297 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 297 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 298 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 299 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 300 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -348,7 +348,7 @@
 | 346 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 347 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 348 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 349 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 349 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
 | 350 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 351 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 352 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 

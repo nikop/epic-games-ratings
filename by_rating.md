@@ -310,22 +310,22 @@
 | 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 310 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 311 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 312 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 313 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 314 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 316 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 317 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 318 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 319 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 320 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 321 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 322 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 323 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 324 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 325 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.59 | 
+| 311 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 312 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 314 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 315 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 316 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 317 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 318 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 319 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 320 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 321 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 322 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 323 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 324 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 325 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 326 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 327 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 328 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 329 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -692,14 +692,14 @@
 | 690 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 691 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 692 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 693 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 694 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 695 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 696 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
-| 697 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 698 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 699 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 700 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 693 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 694 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 695 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
+| 696 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 697 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 698 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 699 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 700 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
 | 701 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 702 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 703 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
