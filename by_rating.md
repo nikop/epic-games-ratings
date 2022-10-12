@@ -134,20 +134,20 @@
 | 132 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 133 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 134 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 136 | [Fez](games/f/fez.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
-| 139 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 140 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
-| 141 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
-| 142 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
-| 143 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 144 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 145 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 146 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 147 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 148 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 135 | [Fez](games/f/fez.md) | 4.73 | 
+| 136 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 137 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
+| 138 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 139 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
+| 140 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
+| 141 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
+| 142 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 143 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 144 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 145 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 146 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 148 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
 | 149 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 150 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 151 | [FUSER™](games/f/fuser™.md) | 4.72 | 
@@ -591,39 +591,39 @@
 | 589 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 590 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 591 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 592 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 593 | [House Party](games/h/house_party.md) | 4.35 | 
-| 594 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 595 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
-| 596 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 599 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 600 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 601 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
-| 602 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 603 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 604 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
-| 606 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
-| 607 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 608 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 609 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 610 | [Tacoma](games/t/tacoma.md) | 4.33 | 
-| 611 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 612 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 613 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 614 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 615 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 616 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 617 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 618 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 619 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 620 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 621 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 622 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 623 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
-| 624 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 592 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 593 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 594 | [House Party](games/h/house_party.md) | 4.35 | 
+| 595 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 596 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 597 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 598 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 600 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 601 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 602 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
+| 603 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 604 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 605 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 606 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.34 | 
+| 608 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
+| 609 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 610 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 611 | [Tacoma](games/t/tacoma.md) | 4.33 | 
+| 612 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 613 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 614 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 615 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 616 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 617 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 618 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 619 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 620 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 621 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 622 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 623 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 624 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
 | 625 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 626 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 627 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 

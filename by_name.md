@@ -58,7 +58,7 @@
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.45 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 59 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 59 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
@@ -93,7 +93,7 @@
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.23 | 
-| 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 97 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
@@ -191,7 +191,7 @@
 | 189 | [ELEX](games/e/elex.md) | 4.36 | 
 | 190 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
 | 193 | [Encased](games/e/encased.md) | 4.36 | 
 | 194 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
