@@ -158,7 +158,7 @@
 | 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 157 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 158 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 160 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 161 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 162 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
@@ -392,7 +392,7 @@
 | 390 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 391 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 392 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 393 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 393 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 394 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 395 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 396 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -575,7 +575,7 @@
 | 573 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 574 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 575 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
 | 577 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 578 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 579 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -607,7 +607,7 @@
 | 605 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 606 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 607 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 608 | [The Guild 3](games/t/the_guild_3.md) | 4.14 | 
+| 608 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 609 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 610 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 611 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -620,9 +620,9 @@
 | 618 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 619 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 620 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 621 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 621 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 622 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 623 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
+| 623 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 624 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 625 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 626 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
