@@ -677,9 +677,9 @@
 | 675 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 676 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 677 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
-| 678 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 679 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
-| 680 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
+| 678 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 679 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 680 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 681 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 682 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 683 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 

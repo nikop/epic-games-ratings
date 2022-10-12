@@ -607,7 +607,7 @@
 | 605 | [The Fall](games/t/the_fall.md) | 4.23 | 
 | 606 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 607 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.67 | 
-| 608 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
+| 608 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 609 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 610 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 611 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
