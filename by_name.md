@@ -199,7 +199,7 @@
 | 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 200 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 200 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 201 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 202 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 203 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -472,7 +472,7 @@
 | 470 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 471 | [Ring of Pain](games/r/ring_of_pain.md) | 4.57 | 
 | 472 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 473 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
+| 473 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
 | 474 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 475 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 476 | [Riverbond](games/r/riverbond.md) | 4.49 | 

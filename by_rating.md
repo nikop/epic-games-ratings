@@ -376,17 +376,17 @@
 | 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 377 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 378 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 379 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 380 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 381 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 382 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 383 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 384 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 385 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 386 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 387 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.55 | 
+| 377 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 378 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 380 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 381 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 382 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 383 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 384 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 385 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 386 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 387 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
 | 389 | [Hue](games/h/hue.md) | 4.55 | 
 | 390 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -592,16 +592,16 @@
 | 590 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 591 | [Parkitect](games/p/parkitect.md) | 4.36 | 
 | 592 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 593 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 594 | [House Party](games/h/house_party.md) | 4.35 | 
-| 595 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 596 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
-| 597 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
-| 598 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 599 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 600 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 601 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 602 | [Rising Hell](games/r/rising_hell.md) | 4.35 | 
+| 593 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 594 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 595 | [House Party](games/h/house_party.md) | 4.35 | 
+| 596 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 597 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 598 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 599 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 600 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 601 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 602 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 603 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 604 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 605 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
