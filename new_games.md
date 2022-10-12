@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
+| 1 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
 | 2 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.97 | 
 | 3 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.07 | 
 | 4 | [Runbow](games/r/runbow.md) | 4.42 | 
@@ -11,7 +11,7 @@
 | 9 | [Gloomhaven](games/g/gloomhaven.md) | 4.39 | 
 | 10 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 11 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
-| 12 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 12 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 13 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 14 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 15 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 

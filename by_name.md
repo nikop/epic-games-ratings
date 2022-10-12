@@ -52,7 +52,7 @@
 | 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 51 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 53 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 53 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
@@ -269,7 +269,7 @@
 | 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 269 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 271 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 272 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 273 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
@@ -302,7 +302,7 @@
 | 300 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 301 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 302 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 303 | [Isonzo](games/i/isonzo.md) | 4.54 | 
+| 303 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 304 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 305 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 306 | [Journey](games/j/journey.md) | 4.76 | 
@@ -392,7 +392,7 @@
 | 390 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 391 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 392 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 393 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 393 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 394 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 395 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 396 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -437,7 +437,7 @@
 | 435 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 436 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 437 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 438 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 438 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 439 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 440 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 441 | [Pine](games/p/pine.md) | 4.13 | 
@@ -517,7 +517,7 @@
 | 515 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 516 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 517 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
+| 518 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
 | 519 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 520 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 521 | [Slipways](games/s/slipways.md) | 4.72 | 
