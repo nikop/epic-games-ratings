@@ -45,7 +45,7 @@
 | 43 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 48 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 49 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -459,7 +459,7 @@
 | 457 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 458 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 459 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
-| 460 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 460 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 461 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 462 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 463 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 

@@ -477,16 +477,16 @@
 | 475 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 476 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 477 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 478 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 479 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 480 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 481 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 482 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 483 | [SMITE](games/s/smite.md) | 4.46 | 
-| 484 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 485 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 486 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 487 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 478 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 479 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 480 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 481 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 482 | [SMITE](games/s/smite.md) | 4.46 | 
+| 483 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 484 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 485 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 486 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 487 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 488 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 489 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
 | 490 | [Good Company](games/g/good_company.md) | 4.46 | 
@@ -544,19 +544,19 @@
 | 542 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 543 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 544 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 545 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 546 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 547 | [Faeria](games/f/faeria.md) | 4.40 | 
-| 548 | [Weird West](games/w/weird_west.md) | 4.40 | 
-| 549 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
-| 550 | [CryoFall](games/c/cryofall.md) | 4.40 | 
-| 551 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 552 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 553 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 554 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
-| 555 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 556 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 545 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 546 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 548 | [Faeria](games/f/faeria.md) | 4.40 | 
+| 549 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 550 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
+| 551 | [CryoFall](games/c/cryofall.md) | 4.40 | 
+| 552 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 553 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
+| 554 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 555 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.40 | 
+| 556 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 557 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 558 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 559 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 560 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
