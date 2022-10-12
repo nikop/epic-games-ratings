@@ -402,7 +402,7 @@
 | 400 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 401 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 402 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 403 | [Observation](games/o/observation.md) | 4.38 | 
+| 403 | [Observation](games/o/observation.md) | 4.42 | 
 | 404 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
 | 405 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 406 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
@@ -430,7 +430,7 @@
 | 428 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 429 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.93 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
@@ -492,7 +492,7 @@
 | 490 | [Sable](games/s/sable.md) | 4.52 | 
 | 491 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 492 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 493 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 
+| 493 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 494 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 495 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 496 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
@@ -550,7 +550,7 @@
 | 548 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 549 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 550 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
-| 551 | [Startup Panic](games/s/startup_panic.md) | 4.30 | 
+| 551 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 552 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 553 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 554 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
@@ -623,7 +623,7 @@
 | 621 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 622 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 623 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.13 | 
-| 624 | [The Surge](games/t/the_surge.md) | 4.54 | 
+| 624 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 625 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 626 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 627 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
@@ -690,7 +690,7 @@
 | 688 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 689 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 690 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 691 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 691 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
 | 692 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 693 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 694 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
