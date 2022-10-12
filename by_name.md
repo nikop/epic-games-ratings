@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.38 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -103,7 +103,7 @@
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -122,7 +122,7 @@
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.40 | 
+| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.20 | 
@@ -143,7 +143,7 @@
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
@@ -368,7 +368,7 @@
 | 366 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 367 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 368 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 369 | [Minit](games/m/minit.md) | 4.55 | 
+| 369 | [Minit](games/m/minit.md) | 4.54 | 
 | 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 371 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 372 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
