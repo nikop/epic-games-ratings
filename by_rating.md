@@ -584,17 +584,17 @@
 | 582 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 583 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 584 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 585 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 586 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 587 | [Encased](games/e/encased.md) | 4.36 | 
-| 588 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 589 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 590 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 591 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 592 | [House Party](games/h/house_party.md) | 4.35 | 
-| 593 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 594 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
-| 595 | [ELEX](games/e/elex.md) | 4.35 | 
+| 585 | [ELEX](games/e/elex.md) | 4.36 | 
+| 586 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 587 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 588 | [Encased](games/e/encased.md) | 4.36 | 
+| 589 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 590 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 591 | [Parkitect](games/p/parkitect.md) | 4.36 | 
+| 592 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 593 | [House Party](games/h/house_party.md) | 4.35 | 
+| 594 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 595 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.35 | 
 | 596 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
 | 597 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
