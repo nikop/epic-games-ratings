@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 2 | [20XX](games/2/20xx.md) | 4.61 | 
+| 2 | [20XX](games/2/20xx.md) | 4.62 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
@@ -145,7 +145,7 @@
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 

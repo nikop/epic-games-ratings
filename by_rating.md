@@ -283,21 +283,21 @@
 | 281 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 282 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 284 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 285 | [RiME](games/r/rime.md) | 4.62 | 
-| 286 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 287 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 288 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
-| 289 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 290 | [Prey](games/p/prey.md) | 4.61 | 
-| 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 292 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 293 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 294 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 295 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 296 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 297 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 298 | [20XX](games/2/20xx.md) | 4.61 | 
+| 284 | [20XX](games/2/20xx.md) | 4.62 | 
+| 285 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 286 | [RiME](games/r/rime.md) | 4.62 | 
+| 287 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 288 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 289 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.62 | 
+| 290 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 291 | [Prey](games/p/prey.md) | 4.61 | 
+| 292 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 293 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 294 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 296 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 297 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 298 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 299 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 300 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 301 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -468,10 +468,10 @@
 | 466 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 467 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 468 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 469 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 470 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 471 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 469 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 470 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 471 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 472 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 473 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 474 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 475 | [GigaBash](games/g/gigabash.md) | 4.48 | 
