@@ -138,7 +138,7 @@
 | 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -283,7 +283,7 @@
 | 281 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 282 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 283 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 284 | [House Party](games/h/house_party.md) | 4.35 | 
+| 284 | [House Party](games/h/house_party.md) | 4.36 | 
 | 285 | [Hue](games/h/hue.md) | 4.55 | 
 | 286 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 287 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -302,7 +302,7 @@
 | 300 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 301 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 302 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 303 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 303 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 304 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 305 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 306 | [Journey](games/j/journey.md) | 4.76 | 
@@ -537,7 +537,7 @@
 | 535 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 536 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
 | 537 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 538 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 538 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 539 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
 | 540 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
 | 541 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -588,7 +588,7 @@
 | 586 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 587 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 588 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 589 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 589 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 590 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 591 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
 | 592 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
@@ -667,7 +667,7 @@
 | 665 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 666 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
 | 667 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 668 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 668 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 669 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 670 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 671 | [Train Valley](games/t/train_valley.md) | 4.40 | 
