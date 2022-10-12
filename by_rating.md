@@ -508,16 +508,16 @@
 | 506 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 507 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 508 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.44 | 
-| 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 511 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 512 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 513 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 514 | [Figment](games/f/figment.md) | 4.44 | 
-| 515 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 516 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 517 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 518 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 509 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 510 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 511 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 512 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 513 | [Figment](games/f/figment.md) | 4.44 | 
+| 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 515 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 516 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 517 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 518 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 519 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
 | 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.43 | 
