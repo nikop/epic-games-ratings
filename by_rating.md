@@ -159,21 +159,21 @@
 | 157 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 158 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 159 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 160 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 161 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 162 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 163 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 164 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 166 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 167 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 168 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 169 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 170 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 172 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 174 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 160 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
+| 161 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 162 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 163 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 164 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 166 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 167 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 168 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 169 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 170 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 171 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 173 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 174 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 175 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 

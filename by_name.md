@@ -12,7 +12,7 @@
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
