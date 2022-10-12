@@ -255,7 +255,7 @@
 | 253 | [Good Company](games/g/good_company.md) | 4.46 | 
 | 254 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 255 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 256 | [Gravewood High](games/g/gravewood_high.md) | 3.93 | 
+| 256 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
 | 257 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 258 | [GRIME](games/g/grime.md) | 4.61 | 
 | 259 | [Grindstone](games/g/grindstone.md) | 4.85 | 
@@ -287,7 +287,7 @@
 | 285 | [Hue](games/h/hue.md) | 4.55 | 
 | 286 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 287 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 288 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 288 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 289 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
 | 290 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 291 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
@@ -430,7 +430,7 @@
 | 428 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 429 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.93 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 

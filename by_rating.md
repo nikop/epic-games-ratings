@@ -103,17 +103,17 @@
 | 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 104 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 105 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
-| 106 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 109 | [Journey](games/j/journey.md) | 4.76 | 
-| 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 111 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 104 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
+| 105 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 108 | [Journey](games/j/journey.md) | 4.76 | 
+| 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 110 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 115 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 117 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -159,18 +159,18 @@
 | 157 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 158 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 159 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 160 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
-| 161 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 162 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 163 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 164 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 166 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 167 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 168 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 169 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 170 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 171 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 160 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 161 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
+| 162 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 163 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 164 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 165 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 166 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 167 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 168 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 169 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 170 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 171 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 173 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 174 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
@@ -724,8 +724,8 @@
 | 722 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 723 | [Warface](games/w/warface.md) | 3.95 | 
 | 724 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 725 | [Patron](games/p/patron.md) | 3.93 | 
-| 726 | [Gravewood High](games/g/gravewood_high.md) | 3.93 | 
+| 725 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
+| 726 | [Patron](games/p/patron.md) | 3.93 | 
 | 727 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 728 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 729 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
