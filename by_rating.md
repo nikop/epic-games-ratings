@@ -51,9 +51,9 @@
 | 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 50 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 51 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 52 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 53 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 54 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 

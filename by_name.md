@@ -28,7 +28,7 @@
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
