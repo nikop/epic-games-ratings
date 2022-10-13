@@ -12,7 +12,7 @@
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
+| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -386,7 +386,7 @@
 | 384 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 385 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 386 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 387 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
+| 387 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 388 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 389 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 390 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -591,7 +591,7 @@
 | 589 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 590 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 591 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 592 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.52 | 
+| 592 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.55 | 
 | 593 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 594 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 595 | [The Captain](games/t/the_captain.md) | 4.44 | 
