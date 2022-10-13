@@ -124,7 +124,7 @@
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
-| 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -518,7 +518,7 @@
 | 516 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 517 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 518 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 519 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
+| 519 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
 | 520 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 521 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 522 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -662,7 +662,7 @@
 | 660 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 661 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 662 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
-| 663 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 663 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 664 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 665 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 666 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 

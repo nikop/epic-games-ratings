@@ -218,17 +218,17 @@
 | 216 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 217 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 218 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 219 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 220 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 221 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 222 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 223 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 224 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
-| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 226 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 227 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 219 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 220 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 221 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 222 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 223 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
+| 224 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 225 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 226 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 227 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 229 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 231 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 232 | [Coromon](games/c/coromon.md) | 4.66 | 
@@ -268,17 +268,17 @@
 | 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 267 | [Old World](games/o/old_world.md) | 4.63 | 
 | 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 271 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 275 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
-| 276 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 277 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 278 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 279 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 274 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
+| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 276 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 277 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 278 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [20XX](games/2/20xx.md) | 4.62 | 
@@ -647,13 +647,13 @@
 | 645 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 646 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 647 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 648 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
-| 649 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 650 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 651 | [The Fall](games/t/the_fall.md) | 4.24 | 
-| 652 | [Tharsis](games/t/tharsis.md) | 4.24 | 
-| 653 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 654 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 648 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 649 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 650 | [The Fall](games/t/the_fall.md) | 4.24 | 
+| 651 | [Tharsis](games/t/tharsis.md) | 4.24 | 
+| 652 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 653 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 654 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
 | 655 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 656 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 657 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
