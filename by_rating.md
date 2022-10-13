@@ -95,13 +95,13 @@
 | 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 94 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 95 | [Haven](games/h/haven.md) | 4.78 | 
-| 96 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 98 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 100 | [Northgard](games/n/northgard.md) | 4.77 | 
-| 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
+| 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 99 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 103 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
 | 104 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -210,23 +210,23 @@
 | 208 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
 | 209 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 210 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 211 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 212 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 213 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 214 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 215 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 216 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 217 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 218 | [Crashlands](games/c/crashlands.md) | 4.67 | 
-| 219 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 220 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 221 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 222 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 223 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
-| 224 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 225 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 226 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 227 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 211 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 212 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 213 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 214 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 215 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 216 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 217 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 218 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 219 | [Crashlands](games/c/crashlands.md) | 4.67 | 
+| 220 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 221 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 222 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 223 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 224 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
+| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 226 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 227 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 230 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -532,18 +532,18 @@
 | 530 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 531 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 532 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 533 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 534 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 535 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 536 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
-| 537 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
-| 538 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 539 | [Observation](games/o/observation.md) | 4.42 | 
-| 540 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
-| 541 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 542 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 543 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 544 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 533 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 534 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 535 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
+| 536 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
+| 537 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 538 | [Observation](games/o/observation.md) | 4.42 | 
+| 539 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
+| 540 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 541 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 542 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 543 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 544 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
 | 545 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 546 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 547 | [Weird West](games/w/weird_west.md) | 4.41 | 
