@@ -51,10 +51,10 @@
 | 49 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 50 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 51 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 55 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 54 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
@@ -543,13 +543,13 @@
 | 541 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 542 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 543 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 544 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 545 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 546 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 547 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 548 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 549 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 550 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 544 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 545 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 547 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 548 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 549 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 550 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 551 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 552 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 553 | [Faeria](games/f/faeria.md) | 4.40 | 

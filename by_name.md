@@ -28,7 +28,7 @@
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
@@ -372,7 +372,7 @@
 | 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 371 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 372 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 373 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 373 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 374 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 375 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 376 | [Moving Out](games/m/moving_out.md) | 4.60 | 

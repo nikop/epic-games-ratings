@@ -1,10 +1,10 @@
 {
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 4392,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-10-13T15:31:32.863279+00:00",
+  "LastChanged": "2022-10-13T22:00:34.9591572+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -2619,6 +2619,11 @@
     {
       "Time": "2022-10-13T15:31:32.8632794+00:00",
       "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-13T22:00:34.9591575+00:00",
+      "Rating": 4.83,
       "NumberOfRatings": null
     }
   ],
