@@ -434,7 +434,7 @@
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.91 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.72 | 
+| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.63 | 
 | 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 437 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 438 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
