@@ -292,7 +292,7 @@
 | 290 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 291 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 292 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 293 | [In Sound Mind](games/i/in_sound_mind.md) | 4.57 | 
+| 293 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 294 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 295 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 296 | [INSIDE](games/i/inside.md) | 4.68 | 
@@ -539,7 +539,7 @@
 | 537 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
 | 538 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 539 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 540 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.73 | 
+| 540 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
 | 541 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
 | 542 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 543 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
