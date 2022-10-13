@@ -116,7 +116,7 @@
 | 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.97 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
-| 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
 | 118 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
@@ -269,7 +269,7 @@
 | 267 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 268 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 269 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 270 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 271 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 272 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 273 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
@@ -554,7 +554,7 @@
 | 552 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 553 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 554 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 555 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 555 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 556 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 557 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 558 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 

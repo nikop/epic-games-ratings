@@ -30,19 +30,19 @@
 | 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 36 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
-| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 39 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 40 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 41 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 43 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 31 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
+| 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 33 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 34 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 37 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
+| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 40 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 41 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 42 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 44 | [Firework](games/f/firework.md) | 4.85 | 
 | 45 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 46 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
@@ -270,18 +270,18 @@
 | 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 274 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
-| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 276 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 277 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 278 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 279 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 271 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 275 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
+| 276 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 277 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 278 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 279 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 280 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 281 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 282 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 283 | [20XX](games/2/20xx.md) | 4.62 | 
 | 284 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 285 | [Transistor](games/t/transistor.md) | 4.62 | 
@@ -413,23 +413,23 @@
 | 411 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 412 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 413 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 414 | [Horace](games/h/horace.md) | 4.53 | 
-| 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 416 | [Warpips](games/w/warpips.md) | 4.53 | 
-| 417 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 418 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.53 | 
-| 419 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 420 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 421 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 422 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 423 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 424 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 426 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 427 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 428 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 429 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 430 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 414 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 415 | [Horace](games/h/horace.md) | 4.53 | 
+| 416 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 417 | [Warpips](games/w/warpips.md) | 4.53 | 
+| 418 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 419 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.53 | 
+| 420 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 421 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 422 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 423 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 424 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 425 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 427 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 428 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 429 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 430 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 431 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
 | 432 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
