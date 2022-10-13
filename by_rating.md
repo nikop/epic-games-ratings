@@ -379,17 +379,17 @@
 | 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 378 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 379 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 380 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 381 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 382 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 383 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 384 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 385 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 386 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 387 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 388 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 390 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 
+| 380 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 381 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 382 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 383 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 384 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 385 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 386 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 387 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 388 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 389 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 391 | [Hue](games/h/hue.md) | 4.55 | 
 | 392 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 393 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
