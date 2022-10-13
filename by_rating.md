@@ -99,22 +99,22 @@
 | 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 98 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 100 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 101 | [Northgard](games/n/northgard.md) | 4.77 | 
-| 102 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 103 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 104 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
-| 105 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 106 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 107 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 109 | [Journey](games/j/journey.md) | 4.76 | 
-| 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 111 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 115 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 100 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 103 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
+| 104 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 108 | [Journey](games/j/journey.md) | 4.76 | 
+| 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 110 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 114 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
 | 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 117 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -547,12 +547,12 @@
 | 545 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 546 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 547 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 548 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 549 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 550 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 551 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 552 | [Faeria](games/f/faeria.md) | 4.40 | 
-| 553 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 548 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 549 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 550 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 551 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 552 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 553 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 554 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
 | 555 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 556 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
@@ -694,12 +694,12 @@
 | 692 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 694 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 695 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 696 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 697 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 698 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
-| 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 700 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 695 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 697 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
+| 698 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 699 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 700 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 701 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 702 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
 | 703 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 

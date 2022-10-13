@@ -84,7 +84,7 @@
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -464,7 +464,7 @@
 | 462 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 463 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 464 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 465 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 465 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 466 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 467 | [Revita](games/r/revita.md) | 4.74 | 
 | 468 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -715,7 +715,7 @@
 | 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
 | 714 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 715 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 716 | [Weird West](games/w/weird_west.md) | 4.40 | 
+| 716 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 717 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 718 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 719 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
