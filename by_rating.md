@@ -372,19 +372,19 @@
 | 370 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 372 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 373 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.57 | 
-| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 377 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 378 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 379 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 380 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 381 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 382 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 383 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 384 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 385 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 373 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 374 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 376 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 377 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 378 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 379 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 380 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 381 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 382 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 383 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 384 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 385 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.56 | 
 | 386 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 387 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 388 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -626,12 +626,12 @@
 | 624 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 626 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 627 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 628 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 629 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 630 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 631 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 632 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 627 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 628 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 629 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 631 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 632 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 633 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 634 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 635 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 

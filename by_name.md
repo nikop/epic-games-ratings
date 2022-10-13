@@ -434,7 +434,7 @@
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.91 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.57 | 
+| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.56 | 
 | 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 437 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 438 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -451,7 +451,7 @@
 | 449 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 450 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 451 | [Quake](games/q/quake.md) | 4.80 | 
-| 452 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 452 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 453 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 454 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 455 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
