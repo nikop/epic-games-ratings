@@ -1,10 +1,10 @@
 {
   "ID": "742f165671424189aecdfdadf5ea9755",
   "Name": "Nuclear Throne",
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 631,
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2022-10-09T01:32:09.1589757+00:00",
+  "LastChanged": "2022-10-13T15:02:40.6403009+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
@@ -764,6 +764,11 @@
     {
       "Time": "2022-10-09T01:32:09.158976+00:00",
       "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-13T15:02:40.6403014+00:00",
+      "Rating": 4.81,
       "NumberOfRatings": null
     }
   ],

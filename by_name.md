@@ -352,11 +352,11 @@
 | 350 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 351 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 352 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 353 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.34 | 
+| 353 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 354 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 355 | [Mago](games/m/mago.md) | 4.90 | 
 | 356 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 357 | [Mars Horizon](games/m/mars_horizon.md) | 4.58 | 
+| 357 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
 | 358 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 359 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 360 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -400,7 +400,7 @@
 | 398 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 399 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 400 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 401 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 401 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 402 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 403 | [Observation](games/o/observation.md) | 4.42 | 
 | 404 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
@@ -692,7 +692,7 @@
 | 690 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
 | 691 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 692 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 693 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 
+| 693 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
 | 694 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 695 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 696 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
