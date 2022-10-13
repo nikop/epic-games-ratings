@@ -249,19 +249,19 @@
 | 247 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 248 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 249 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
-| 250 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 251 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 252 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 253 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 254 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 255 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 256 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 257 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
-| 258 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 259 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 260 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 261 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 262 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 250 | [Eastward](games/e/eastward.md) | 4.65 | 
+| 251 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 252 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 253 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 254 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 255 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 256 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 257 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 258 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
+| 259 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 260 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 262 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 263 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
 | 264 | [Warframe](games/w/warframe.md) | 4.63 | 
 | 265 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
@@ -578,25 +578,25 @@
 | 576 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 577 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 578 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 579 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 580 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 581 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
-| 582 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 583 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 584 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 585 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 586 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 587 | [House Party](games/h/house_party.md) | 4.36 | 
-| 588 | [ELEX](games/e/elex.md) | 4.36 | 
-| 589 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 590 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
-| 591 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 592 | [Encased](games/e/encased.md) | 4.36 | 
-| 593 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 594 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 595 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 596 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 597 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 579 | [Rising Hell](games/r/rising_hell.md) | 4.38 | 
+| 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 581 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 582 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
+| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 584 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 585 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 586 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 587 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 588 | [House Party](games/h/house_party.md) | 4.36 | 
+| 589 | [ELEX](games/e/elex.md) | 4.36 | 
+| 590 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 591 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
+| 592 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 593 | [Encased](games/e/encased.md) | 4.36 | 
+| 594 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 595 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 596 | [Parkitect](games/p/parkitect.md) | 4.36 | 
+| 597 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 600 | [Among Trees](games/a/among_trees.md) | 4.35 | 

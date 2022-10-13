@@ -185,7 +185,7 @@
 | 183 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 184 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 185 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.06 | 
-| 186 | [Eastward](games/e/eastward.md) | 4.64 | 
+| 186 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 189 | [ELEX](games/e/elex.md) | 4.36 | 
@@ -473,7 +473,7 @@
 | 471 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 472 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 474 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 474 | [Rising Hell](games/r/rising_hell.md) | 4.38 | 
 | 475 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 476 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 477 | [Riverbond](games/r/riverbond.md) | 4.49 | 
