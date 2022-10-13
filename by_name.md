@@ -142,7 +142,7 @@
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
@@ -398,7 +398,7 @@
 | 396 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 397 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 398 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 399 | [Northgard](games/n/northgard.md) | 4.77 | 
+| 399 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 400 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 401 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 402 | [Obduction](games/o/obduction.md) | 4.10 | 
@@ -472,7 +472,7 @@
 | 470 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 471 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 472 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
 | 474 | [Rising Hell](games/r/rising_hell.md) | 4.38 | 
 | 475 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 476 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
@@ -627,7 +627,7 @@
 | 625 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 626 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 627 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
-| 628 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 628 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 629 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 630 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
 | 631 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
