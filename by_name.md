@@ -369,7 +369,7 @@
 | 367 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 368 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 369 | [Minit](games/m/minit.md) | 4.54 | 
-| 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 371 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 372 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 373 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
@@ -397,7 +397,7 @@
 | 395 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 396 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 397 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 398 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 398 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 399 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 400 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 401 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 

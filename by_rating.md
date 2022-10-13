@@ -227,29 +227,29 @@
 | 225 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.67 | 
 | 226 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 227 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 230 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 232 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 233 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 234 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 235 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 236 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 237 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 238 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 240 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 242 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 243 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
-| 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 245 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 246 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 247 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
-| 248 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 249 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 250 | [No Straight Roads](games/n/no_straight_roads.md) | 4.65 | 
+| 228 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 229 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 230 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 231 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 232 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 233 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 235 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 236 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 237 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 238 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 240 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 241 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 242 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 243 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 244 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
+| 245 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 246 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 247 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 248 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
+| 249 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 250 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 251 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 252 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 253 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -733,7 +733,7 @@
 | 731 | [Patron](games/p/patron.md) | 3.91 | 
 | 732 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 733 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
-| 734 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 734 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 735 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
 | 736 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 737 | [Saints Row](games/s/saints_row.md) | 3.77 | 
