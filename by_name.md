@@ -203,7 +203,7 @@
 | 201 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 202 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 203 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 204 | [Far Cry](games/f/far_cry.md) | 4.45 | 
+| 204 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 205 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
 | 206 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 207 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -434,7 +434,7 @@
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.91 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 437 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 438 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -545,7 +545,7 @@
 | 543 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 544 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 545 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 546 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 546 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 547 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
 | 548 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 549 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -620,7 +620,7 @@
 | 618 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 619 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 620 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 621 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 621 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 622 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 623 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 624 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
@@ -645,7 +645,7 @@
 | 643 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 644 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 645 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 646 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 646 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 647 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 648 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 649 | [Timberborn](games/t/timberborn.md) | 4.69 | 
