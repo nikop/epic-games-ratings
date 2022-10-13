@@ -263,28 +263,28 @@
 | 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 262 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 263 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
-| 264 | [Warframe](games/w/warframe.md) | 4.63 | 
-| 265 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 266 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 267 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 268 | [Old World](games/o/old_world.md) | 4.63 | 
-| 269 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 270 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 273 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 274 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 276 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
-| 277 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 278 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 279 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 280 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 281 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 282 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 284 | [20XX](games/2/20xx.md) | 4.62 | 
-| 285 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 264 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 265 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 267 | [Old World](games/o/old_world.md) | 4.63 | 
+| 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 274 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
+| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 276 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 277 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 278 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 279 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 283 | [20XX](games/2/20xx.md) | 4.62 | 
+| 284 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 285 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 286 | [RiME](games/r/rime.md) | 4.62 | 
 | 287 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
 | 288 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 

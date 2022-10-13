@@ -674,7 +674,7 @@
 | 672 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 673 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 674 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 675 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 675 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 676 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 677 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
 | 678 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
@@ -703,7 +703,7 @@
 | 701 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 702 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 703 | [Warface](games/w/warface.md) | 3.95 | 
-| 704 | [Warframe](games/w/warframe.md) | 4.63 | 
+| 704 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 705 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 706 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 707 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
