@@ -122,7 +122,7 @@
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 
+| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.20 | 
@@ -143,7 +143,7 @@
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
-| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
+| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -368,7 +368,7 @@
 | 366 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 367 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 368 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 369 | [Minit](games/m/minit.md) | 4.54 | 
+| 369 | [Minit](games/m/minit.md) | 4.51 | 
 | 370 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 371 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 372 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 

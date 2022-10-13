@@ -1,10 +1,10 @@
 {
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
-  "Rating": 4.54,
+  "Rating": 4.51,
   "NumberOfRatings": 67,
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
-  "LastChanged": "2022-10-12T21:01:19.5641366+00:00",
+  "LastChanged": "2022-10-13T21:01:59.0125627+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.918021+00:00",
@@ -160,12 +160,17 @@
       "Time": "2022-10-12T21:01:19.564137+00:00",
       "Rating": 4.54,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-13T21:01:59.012563+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
