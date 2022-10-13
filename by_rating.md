@@ -394,17 +394,17 @@
 | 392 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 393 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 394 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
-| 395 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.55 | 
-| 396 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 397 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 398 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 399 | [Outward](games/o/outward.md) | 4.54 | 
-| 400 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
-| 401 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
-| 402 | [Minit](games/m/minit.md) | 4.54 | 
-| 403 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
-| 404 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 405 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 395 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 396 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.55 | 
+| 397 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 398 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 399 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 400 | [Outward](games/o/outward.md) | 4.54 | 
+| 401 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
+| 402 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 403 | [Minit](games/m/minit.md) | 4.54 | 
+| 404 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
+| 405 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 406 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
 | 407 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
@@ -437,17 +437,17 @@
 | 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 436 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 437 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 438 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 439 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 440 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 441 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 442 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 443 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 444 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 445 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 446 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 447 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 448 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 438 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 439 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 440 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 441 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 442 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 443 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 444 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 445 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 446 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 447 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 448 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 449 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
 | 450 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
@@ -494,16 +494,16 @@
 | 492 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
 | 493 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 494 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 495 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
-| 496 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 497 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 498 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 499 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 500 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 501 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 502 | [Aztez](games/a/aztez.md) | 4.45 | 
-| 503 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 504 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 495 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 496 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 497 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 498 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 499 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 500 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 501 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 502 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 503 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 504 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
 | 505 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 506 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 507 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 

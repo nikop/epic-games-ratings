@@ -169,7 +169,7 @@
 | 167 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
 | 168 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 169 | [Diabotical](games/d/diabotical.md) | 4.80 | 
-| 170 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 170 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 171 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 172 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
@@ -546,7 +546,7 @@
 | 544 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 545 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 546 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 547 | [Star Renegades](games/s/star_renegades.md) | 4.46 | 
+| 547 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
 | 548 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 549 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 550 | [Starsand](games/s/starsand.md) | 4.31 | 
@@ -697,7 +697,7 @@
 | 695 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 696 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 697 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 698 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 698 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 699 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 700 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 701 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
