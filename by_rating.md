@@ -123,21 +123,21 @@
 | 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 124 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 128 | [Revita](games/r/revita.md) | 4.74 | 
-| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 134 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 136 | [Fez](games/f/fez.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
+| 124 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 125 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 126 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 129 | [Revita](games/r/revita.md) | 4.74 | 
+| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 135 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 136 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 137 | [Fez](games/f/fez.md) | 4.73 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 139 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 140 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
 | 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
@@ -177,29 +177,29 @@
 | 175 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 181 | [Barony](games/b/barony.md) | 4.69 | 
-| 182 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 183 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 184 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 185 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 186 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 187 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 188 | [SOMA](games/s/soma.md) | 4.69 | 
-| 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 190 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
-| 191 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 192 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 193 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 194 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 195 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 196 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 200 | [INSIDE](games/i/inside.md) | 4.68 | 
+| 178 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 179 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 182 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 183 | [Barony](games/b/barony.md) | 4.69 | 
+| 184 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 185 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 187 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 189 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 190 | [SOMA](games/s/soma.md) | 4.69 | 
+| 191 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
+| 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 194 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 195 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 196 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 197 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 200 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 202 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 203 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -389,16 +389,16 @@
 | 387 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 388 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 389 | [Hue](games/h/hue.md) | 4.55 | 
-| 390 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 391 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 392 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 393 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
-| 394 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 395 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.55 | 
-| 396 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 397 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 398 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 399 | [Outward](games/o/outward.md) | 4.54 | 
+| 390 | [Outward](games/o/outward.md) | 4.55 | 
+| 391 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 392 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 393 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 394 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.55 | 
+| 395 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 396 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.55 | 
+| 397 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 398 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 399 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 400 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
 | 401 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 402 | [Minit](games/m/minit.md) | 4.54 | 

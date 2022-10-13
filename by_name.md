@@ -26,7 +26,7 @@
 | 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
+| 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
@@ -295,7 +295,7 @@
 | 293 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 294 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 295 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 296 | [INSIDE](games/i/inside.md) | 4.68 | 
+| 296 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 297 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 298 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 299 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
@@ -417,7 +417,7 @@
 | 415 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 416 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 417 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 418 | [Outward](games/o/outward.md) | 4.54 | 
+| 418 | [Outward](games/o/outward.md) | 4.55 | 
 | 419 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 420 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 421 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
@@ -472,7 +472,7 @@
 | 470 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 471 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 472 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
+| 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 474 | [Rising Hell](games/r/rising_hell.md) | 4.38 | 
 | 475 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 476 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
