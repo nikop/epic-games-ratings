@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -156,7 +156,7 @@
 | 154 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 155 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 156 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 157 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 157 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 158 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 159 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 160 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
@@ -408,7 +408,7 @@
 | 406 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 407 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 408 | [Old World](games/o/old_world.md) | 4.63 | 
-| 409 | [Ooblets](games/o/ooblets.md) | 4.88 | 
+| 409 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 410 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 411 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 412 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
@@ -571,7 +571,7 @@
 | 569 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 570 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
 | 571 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 572 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
+| 572 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 573 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
 | 574 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 575 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -599,7 +599,7 @@
 | 597 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 598 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 599 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
-| 600 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 600 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 601 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
 | 602 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 603 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
@@ -676,7 +676,7 @@
 | 674 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 675 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 676 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 677 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 677 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
 | 678 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 679 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 680 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
