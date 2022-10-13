@@ -91,11 +91,11 @@
 | 89 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 90 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 91 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 93 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
-| 94 | [Haven](games/h/haven.md) | 4.78 | 
-| 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 96 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 92 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 94 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
+| 95 | [Haven](games/h/haven.md) | 4.78 | 
+| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 99 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -686,11 +686,11 @@
 | 684 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 685 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 686 | [Pine](games/p/pine.md) | 4.13 | 
-| 687 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 688 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 689 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
-| 690 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 691 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 687 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 688 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 689 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 690 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 691 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 692 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 694 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 

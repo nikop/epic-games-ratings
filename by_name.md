@@ -80,7 +80,7 @@
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.38 | 
-| 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -663,7 +663,7 @@
 | 661 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 662 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
 | 663 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 664 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 664 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 665 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 666 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 667 | [Townscaper](games/t/townscaper.md) | 4.71 | 
