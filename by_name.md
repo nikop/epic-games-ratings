@@ -489,7 +489,7 @@
 | 487 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 488 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 489 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 490 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 490 | [Runbow](games/r/runbow.md) | 4.42 | 
 | 491 | [Sable](games/s/sable.md) | 4.52 | 
 | 492 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 493 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -623,7 +623,7 @@
 | 621 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 622 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 623 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 624 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 624 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 625 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 626 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 627 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
