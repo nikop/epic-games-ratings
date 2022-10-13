@@ -2,12 +2,12 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
 | 2 | [20XX](games/2/20xx.md) | 4.62 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 6 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 7 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 9 | [ABZU](games/a/abzu.md) | 4.58 | 
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -20,7 +20,7 @@
 | 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 22 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 23 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -444,7 +444,7 @@
 | 442 | [Pine](games/p/pine.md) | 4.13 | 
 | 443 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
 | 444 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 445 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 445 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 446 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 447 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
 | 448 | [Prey](games/p/prey.md) | 4.61 | 
@@ -473,7 +473,7 @@
 | 471 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 472 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 474 | [Rising Hell](games/r/rising_hell.md) | 4.38 | 
+| 474 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
 | 475 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 476 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 477 | [Riverbond](games/r/riverbond.md) | 4.49 | 
