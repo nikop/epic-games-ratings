@@ -123,16 +123,16 @@
 | 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 124 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
-| 125 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 126 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 124 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 125 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 136 | [Fez](games/f/fez.md) | 4.73 | 

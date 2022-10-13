@@ -242,7 +242,7 @@
 | 240 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 241 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 242 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 243 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 243 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 244 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 245 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 246 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
