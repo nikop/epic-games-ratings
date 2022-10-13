@@ -134,7 +134,7 @@
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
@@ -401,7 +401,7 @@
 | 399 | [Northgard](games/n/northgard.md) | 4.77 | 
 | 400 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 401 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 402 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 402 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 403 | [Observation](games/o/observation.md) | 4.42 | 
 | 404 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
 | 405 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
@@ -442,7 +442,7 @@
 | 440 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 441 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 442 | [Pine](games/p/pine.md) | 4.13 | 
-| 443 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 443 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
 | 444 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 445 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 446 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 

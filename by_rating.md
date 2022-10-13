@@ -165,16 +165,16 @@
 | 163 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 164 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 166 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 167 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 168 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 169 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 170 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 172 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 174 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 175 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 166 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 167 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 168 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 169 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 170 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 171 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 173 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 174 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 175 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 178 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -589,17 +589,17 @@
 | 587 | [House Party](games/h/house_party.md) | 4.36 | 
 | 588 | [ELEX](games/e/elex.md) | 4.36 | 
 | 589 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 590 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 591 | [Encased](games/e/encased.md) | 4.36 | 
-| 592 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 593 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 594 | [Parkitect](games/p/parkitect.md) | 4.36 | 
-| 595 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 596 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
-| 597 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 598 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 599 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 600 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.35 | 
+| 590 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
+| 591 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 592 | [Encased](games/e/encased.md) | 4.36 | 
+| 593 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 594 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 595 | [Parkitect](games/p/parkitect.md) | 4.36 | 
+| 596 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 597 | [Rising Hell](games/r/rising_hell.md) | 4.36 | 
+| 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 600 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 601 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 602 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 603 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
@@ -694,13 +694,13 @@
 | 692 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 694 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 695 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 696 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 697 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
-| 698 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 699 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 700 | [Relicta](games/r/relicta.md) | 4.09 | 
-| 701 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 695 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 696 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 697 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 698 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
+| 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 700 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 701 | [Relicta](games/r/relicta.md) | 4.09 | 
 | 702 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
 | 703 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 704 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
