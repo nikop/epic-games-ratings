@@ -1,10 +1,10 @@
 {
   "ID": "weaver",
   "Name": "Rebel Galaxy",
-  "Rating": 4.4,
+  "Rating": 4.39,
   "NumberOfRatings": 774,
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2022-10-12T04:01:43.0631026+00:00",
+  "LastChanged": "2022-10-13T00:02:00.1622633+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:15.7165482+00:00",
@@ -619,6 +619,11 @@
     {
       "Time": "2022-10-12T04:01:43.0631028+00:00",
       "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-13T00:02:00.1622636+00:00",
+      "Rating": 4.39,
       "NumberOfRatings": null
     }
   ],
