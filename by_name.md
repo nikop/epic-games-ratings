@@ -92,7 +92,7 @@
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.25 | 
+| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -142,7 +142,7 @@
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
@@ -176,7 +176,7 @@
 | 174 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 175 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 176 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
-| 177 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 177 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 178 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 179 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 180 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
@@ -340,7 +340,7 @@
 | 338 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 339 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 340 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 341 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 341 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 342 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 343 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 344 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
@@ -428,7 +428,7 @@
 | 426 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 427 | [Parkitect](games/p/parkitect.md) | 4.36 | 
 | 428 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 429 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 429 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 431 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -472,7 +472,7 @@
 | 470 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 471 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 472 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 473 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
 | 474 | [Rising Hell](games/r/rising_hell.md) | 4.38 | 
 | 475 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 476 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
@@ -506,7 +506,7 @@
 | 504 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 505 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 506 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 507 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 507 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
 | 508 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 509 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 510 | [Sheltered](games/s/sheltered.md) | 4.41 | 
@@ -564,7 +564,7 @@
 | 562 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 563 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 564 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 565 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 565 | [Subnautica](games/s/subnautica.md) | 4.83 | 
 | 566 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 567 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 568 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
