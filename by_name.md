@@ -28,7 +28,7 @@
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.73 | 
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
@@ -135,7 +135,7 @@
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
@@ -434,7 +434,7 @@
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.91 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.56 | 
+| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.53 | 
 | 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 437 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 438 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -600,7 +600,7 @@
 | 598 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 599 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 600 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 601 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.97 | 
+| 601 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
 | 602 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 603 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 604 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -661,7 +661,7 @@
 | 659 | [Torchlight](games/t/torchlight.md) | 4.43 | 
 | 660 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 661 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 662 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.76 | 
+| 662 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
 | 663 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 664 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 665 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
