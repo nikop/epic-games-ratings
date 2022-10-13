@@ -345,7 +345,7 @@
 | 343 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 344 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 345 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 346 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
+| 346 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 347 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 348 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 349 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
@@ -569,7 +569,7 @@
 | 567 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 568 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
 | 569 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 570 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
+| 570 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
 | 571 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 572 | [SUPERHOT](games/s/superhot.md) | 4.65 | 
 | 573 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 

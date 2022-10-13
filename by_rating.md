@@ -190,21 +190,21 @@
 | 188 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
 | 189 | [SOMA](games/s/soma.md) | 4.69 | 
 | 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 191 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 192 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 193 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 194 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 195 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 196 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 197 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 198 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 199 | [INSIDE](games/i/inside.md) | 4.68 | 
-| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 201 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 202 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 203 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 205 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.68 | 
+| 191 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
+| 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 193 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 194 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 195 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 196 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 200 | [INSIDE](games/i/inside.md) | 4.68 | 
+| 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 202 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 203 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 204 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 206 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 207 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 208 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
@@ -515,13 +515,13 @@
 | 513 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 514 | [Figment](games/f/figment.md) | 4.44 | 
 | 515 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 516 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
-| 517 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 518 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 519 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 520 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 521 | [Torchlight](games/t/torchlight.md) | 4.43 | 
-| 522 | [Little Inferno](games/l/little_inferno.md) | 4.43 | 
+| 516 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
+| 518 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 519 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 520 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 521 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 522 | [Torchlight](games/t/torchlight.md) | 4.43 | 
 | 523 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 524 | [CryoFall](games/c/cryofall.md) | 4.43 | 
 | 525 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
