@@ -1,10 +1,10 @@
 {
   "ID": "d1479d6f93fa4e6ca4415e83a7a5d703",
   "Name": "Costume Quest",
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 53,
   "FirstSeen": "2022-07-22T20:24:30.9149572+00:00",
-  "LastChanged": "2022-10-12T17:31:26.2126942+00:00",
+  "LastChanged": "2022-10-13T17:32:09.3556309+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:30.9149574+00:00",
@@ -199,6 +199,11 @@
     {
       "Time": "2022-10-12T17:31:26.2126945+00:00",
       "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-13T17:32:09.3556314+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],

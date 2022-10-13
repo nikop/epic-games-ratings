@@ -121,7 +121,7 @@
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
-| 122 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.43 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.45 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -146,7 +146,7 @@
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
+| 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 148 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 149 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 150 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -177,7 +177,7 @@
 | 175 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 176 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 177 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 178 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 178 | [DOOM 3](games/d/doom_3.md) | 4.70 | 
 | 179 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 180 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 181 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -323,7 +323,7 @@
 | 321 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
 | 322 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 323 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 324 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 324 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.77 | 
 | 325 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 326 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 327 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
@@ -336,7 +336,7 @@
 | 334 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 335 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 336 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 337 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.50 | 
+| 337 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 338 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 339 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 340 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
@@ -606,7 +606,7 @@
 | 604 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 605 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 606 | [The Fall](games/t/the_fall.md) | 4.23 | 
-| 607 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
+| 607 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 608 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 609 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 610 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
@@ -630,7 +630,7 @@
 | 628 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
 | 629 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 630 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 631 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 631 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 632 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 633 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 634 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -699,7 +699,7 @@
 | 697 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 698 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 699 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 700 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 700 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 701 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 702 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 703 | [Warface](games/w/warface.md) | 3.95 | 
