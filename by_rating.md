@@ -701,10 +701,10 @@
 | 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 700 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
 | 701 | [Relicta](games/r/relicta.md) | 4.09 | 
-| 702 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
-| 703 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 704 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 705 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 702 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 703 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
+| 704 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 705 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 706 | [Lake](games/l/lake.md) | 4.08 | 
 | 707 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 708 | [Godfall](games/g/godfall.md) | 4.06 | 
