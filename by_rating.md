@@ -17,8 +17,8 @@
 | 15 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 
+| 19 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 22 | [Black Book](games/b/black_book.md) | 4.87 | 
@@ -141,21 +141,21 @@
 | 139 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 140 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
 | 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 142 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 143 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 144 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 145 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
-| 146 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 147 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
-| 148 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 149 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 150 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 151 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
-| 152 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 153 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 154 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 155 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 156 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 142 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 144 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 
+| 145 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 146 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
+| 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 148 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 149 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 150 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
+| 151 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 152 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 153 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 154 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 156 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 157 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 158 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 159 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
