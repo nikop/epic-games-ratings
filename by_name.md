@@ -527,7 +527,7 @@
 | 525 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 526 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 527 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 528 | [SOMA](games/s/soma.md) | 4.69 | 
+| 528 | [SOMA](games/s/soma.md) | 4.68 | 
 | 529 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 530 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 531 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -605,7 +605,7 @@
 | 603 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 604 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 605 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 606 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 606 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 607 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 608 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
 | 609 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 

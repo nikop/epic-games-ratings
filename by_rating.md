@@ -190,21 +190,21 @@
 | 188 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 190 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 191 | [SOMA](games/s/soma.md) | 4.69 | 
-| 192 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 193 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
-| 194 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 195 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 196 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 197 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 200 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 202 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 203 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 204 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 191 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
+| 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 194 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 195 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 196 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 201 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 202 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 203 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 205 | [SOMA](games/s/soma.md) | 4.68 | 
 | 206 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 207 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 208 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
@@ -650,13 +650,13 @@
 | 648 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
 | 649 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 650 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 651 | [Tharsis](games/t/tharsis.md) | 4.24 | 
-| 652 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 653 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 654 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 655 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 656 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 657 | [The Fall](games/t/the_fall.md) | 4.23 | 
+| 651 | [The Fall](games/t/the_fall.md) | 4.24 | 
+| 652 | [Tharsis](games/t/tharsis.md) | 4.24 | 
+| 653 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 654 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 655 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 656 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 657 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 658 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 659 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
 | 660 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
