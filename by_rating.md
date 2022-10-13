@@ -314,20 +314,20 @@
 | 312 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 314 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 315 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 316 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 317 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 318 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 319 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 320 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 321 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 322 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 323 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 324 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 325 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 326 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 327 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 328 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 315 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 316 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 317 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 318 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 319 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 320 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 321 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 322 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 323 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 324 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 325 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 326 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 327 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 328 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 329 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 330 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 331 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
