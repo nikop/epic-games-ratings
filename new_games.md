@@ -1,10 +1,10 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.63 | 
+| 1 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.64 | 
 | 2 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
 | 3 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.97 | 
 | 4 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.07 | 
-| 5 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 5 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 6 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 7 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.25 | 
 | 8 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 

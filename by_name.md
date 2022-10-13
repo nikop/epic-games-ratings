@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -434,7 +434,7 @@
 | 432 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 433 | [Patron](games/p/patron.md) | 3.91 | 
 | 434 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.63 | 
+| 435 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.64 | 
 | 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 437 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 438 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -489,7 +489,7 @@
 | 487 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 488 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 489 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 490 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 490 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 491 | [Sable](games/s/sable.md) | 4.52 | 
 | 492 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 493 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
