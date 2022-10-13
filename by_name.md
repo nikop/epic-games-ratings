@@ -451,7 +451,7 @@
 | 449 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 450 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 451 | [Quake](games/q/quake.md) | 4.80 | 
-| 452 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 452 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 453 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 454 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 455 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -518,7 +518,7 @@
 | 516 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 517 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 518 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 519 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
+| 519 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
 | 520 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 521 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 522 | [Slipways](games/s/slipways.md) | 4.72 | 

@@ -626,12 +626,12 @@
 | 624 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 626 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 627 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 628 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 629 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 631 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 632 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 627 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 628 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 629 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 630 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 631 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 632 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 633 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 634 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 635 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
@@ -646,10 +646,10 @@
 | 644 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 645 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 646 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 647 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 648 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 649 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.25 | 
-| 650 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
+| 647 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
+| 648 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 649 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 650 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.25 | 
 | 651 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 652 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 653 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 

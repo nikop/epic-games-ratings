@@ -1,10 +1,10 @@
 {
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
-  "Rating": 4.25,
+  "Rating": 4.26,
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
-  "LastChanged": "2022-10-12T16:33:14.8931555+00:00",
+  "LastChanged": "2022-10-13T10:32:57.8812173+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-08T20:32:24.8625513+00:00",
@@ -44,6 +44,11 @@
     {
       "Time": "2022-10-12T16:33:14.8931559+00:00",
       "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-13T10:32:57.8812177+00:00",
+      "Rating": 4.26,
       "NumberOfRatings": null
     }
   ],
