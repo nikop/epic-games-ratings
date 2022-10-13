@@ -127,7 +127,7 @@
 | 125 | [Crashlands](games/c/crashlands.md) | 4.67 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 128 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.45 | 
@@ -375,7 +375,7 @@
 | 373 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 374 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 375 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 376 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 376 | [Moving Out](games/m/moving_out.md) | 4.60 | 
 | 377 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 378 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 379 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -445,7 +445,7 @@
 | 443 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
 | 444 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 445 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 446 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 446 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 447 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
 | 448 | [Prey](games/p/prey.md) | 4.61 | 
 | 449 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -526,7 +526,7 @@
 | 524 | [SMITE](games/s/smite.md) | 4.46 | 
 | 525 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 526 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
-| 527 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 527 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 528 | [SOMA](games/s/soma.md) | 4.69 | 
 | 529 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 530 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -595,7 +595,7 @@
 | 593 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 594 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 595 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 596 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 596 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 597 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 598 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 599 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
@@ -658,7 +658,7 @@
 | 656 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 657 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 658 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 659 | [Torchlight](games/t/torchlight.md) | 4.43 | 
+| 659 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 660 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 661 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 662 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
@@ -712,7 +712,7 @@
 | 710 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 711 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 712 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.22 | 
+| 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 714 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 715 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 716 | [Weird West](games/w/weird_west.md) | 4.41 | 
