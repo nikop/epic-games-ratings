@@ -56,7 +56,7 @@
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 57 | [Aztez](games/a/aztez.md) | 4.45 | 
+| 57 | [Aztez](games/a/aztez.md) | 4.47 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -204,7 +204,7 @@
 | 202 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 203 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 204 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 205 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.10 | 
+| 205 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.11 | 
 | 206 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 207 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 208 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -232,7 +232,7 @@
 | 230 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 231 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 232 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 233 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 233 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 234 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 235 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 236 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
@@ -525,7 +525,7 @@
 | 523 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 524 | [SMITE](games/s/smite.md) | 4.46 | 
 | 525 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 526 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
+| 526 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 527 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 528 | [SOMA](games/s/soma.md) | 4.68 | 
 | 529 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
