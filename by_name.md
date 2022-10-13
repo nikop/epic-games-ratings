@@ -125,7 +125,7 @@
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 126 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 126 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
@@ -607,7 +607,7 @@
 | 605 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 606 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 607 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 608 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
+| 608 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
 | 609 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 610 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 611 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 

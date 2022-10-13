@@ -1,10 +1,10 @@
 {
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
-  "Rating": 4.2,
+  "Rating": 4.19,
   "NumberOfRatings": 94,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-10-11T09:31:40.1594284+00:00",
+  "LastChanged": "2022-10-13T23:02:01.7389244+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -170,12 +170,17 @@
       "Time": "2022-10-11T09:31:40.1594287+00:00",
       "Rating": 4.2,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-13T23:02:01.7389245+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Educational",

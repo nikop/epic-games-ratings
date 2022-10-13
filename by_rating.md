@@ -195,20 +195,20 @@
 | 193 | [Solar Ash](games/s/solar_ash.md) | 4.69 | 
 | 194 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
 | 195 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 196 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 201 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 202 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 203 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 205 | [SOMA](games/s/soma.md) | 4.68 | 
-| 206 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 207 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 208 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
-| 209 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.68 | 
+| 196 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 197 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
+| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 200 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 202 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 203 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 204 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 206 | [SOMA](games/s/soma.md) | 4.68 | 
+| 207 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 208 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 209 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
 | 210 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 211 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 212 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
@@ -670,9 +670,9 @@
 | 668 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 669 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 670 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 671 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 672 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
-| 673 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 671 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 672 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 673 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 674 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 675 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 676 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
