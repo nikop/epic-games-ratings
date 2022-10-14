@@ -164,7 +164,7 @@
 | 162 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 163 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 164 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 165 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
+| 165 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 166 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 167 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 168 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
@@ -623,7 +623,7 @@
 | 621 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 622 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 623 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 624 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 624 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 625 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 626 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 627 | [The Surge](games/t/the_surge.md) | 4.52 | 
@@ -722,7 +722,7 @@
 | 720 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 721 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 722 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 723 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 723 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 724 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 725 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 726 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 

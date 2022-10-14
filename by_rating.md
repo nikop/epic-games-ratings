@@ -35,16 +35,16 @@
 | 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 36 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
-| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 39 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 40 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 41 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 42 | [Firework](games/f/firework.md) | 4.85 | 
-| 43 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 36 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 37 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 38 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 39 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 40 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 41 | [Firework](games/f/firework.md) | 4.85 | 
+| 42 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 43 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 44 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 45 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 47 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 48 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
@@ -117,17 +117,17 @@
 | 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
 | 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 124 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 127 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
-| 128 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 119 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 125 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 128 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 129 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 131 | [Revita](games/r/revita.md) | 4.74 | 
@@ -620,11 +620,11 @@
 | 618 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 619 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 620 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 621 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 622 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 623 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 624 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 621 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 622 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 623 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 624 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 625 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 626 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 627 | [Darkwood](games/d/darkwood.md) | 4.30 | 
 | 628 | [Rage 2](games/r/rage_2.md) | 4.29 | 
