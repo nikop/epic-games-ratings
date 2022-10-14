@@ -7,7 +7,7 @@
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 6 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 7 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 9 | [ABZU](games/a/abzu.md) | 4.58 | 
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.30 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.29 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -218,7 +218,7 @@
 | 216 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
 | 217 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 219 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 219 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 220 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 221 | [Fez](games/f/fez.md) | 4.73 | 
 | 222 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
@@ -369,7 +369,7 @@
 | 367 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 368 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 369 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 370 | [Minit](games/m/minit.md) | 4.51 | 
+| 370 | [Minit](games/m/minit.md) | 4.52 | 
 | 371 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 372 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 373 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
@@ -410,7 +410,7 @@
 | 408 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 409 | [Old World](games/o/old_world.md) | 4.63 | 
 | 410 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 411 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 411 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
 | 412 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 413 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 414 | [Othercide](games/o/othercide.md) | 4.42 | 
@@ -662,7 +662,7 @@
 | 660 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 661 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 662 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 663 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
+| 663 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
 | 664 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 665 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 666 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 

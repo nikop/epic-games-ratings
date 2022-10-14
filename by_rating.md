@@ -112,18 +112,18 @@
 | 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 113 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 124 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
+| 113 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
+| 114 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 119 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 125 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
@@ -149,18 +149,18 @@
 | 147 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 148 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
 | 149 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 150 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 151 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 155 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 157 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 158 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 159 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 160 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 161 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 150 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 151 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 152 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 153 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 154 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 156 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 157 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 158 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 159 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 160 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 161 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 162 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 163 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 164 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -427,25 +427,25 @@
 | 425 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 427 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 428 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 429 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 430 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
-| 431 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 432 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 433 | [Sable](games/s/sable.md) | 4.52 | 
-| 434 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 436 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 437 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 438 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 439 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 440 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 441 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 442 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 444 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 446 | [Minit](games/m/minit.md) | 4.51 | 
+| 428 | [Minit](games/m/minit.md) | 4.52 | 
+| 429 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 430 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 431 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 432 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 434 | [Sable](games/s/sable.md) | 4.52 | 
+| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 437 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 438 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 439 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 440 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 441 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 442 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 443 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 444 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 445 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 446 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 447 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 448 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 449 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
@@ -547,11 +547,11 @@
 | 545 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 546 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 547 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 548 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 549 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 550 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 551 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 552 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 548 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 549 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 550 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 551 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 552 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 553 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 554 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
 | 555 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -626,12 +626,12 @@
 | 624 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 625 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 626 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 627 | [Darkwood](games/d/darkwood.md) | 4.30 | 
-| 628 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 630 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 631 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 627 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 628 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 629 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 630 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 632 | [Darkwood](games/d/darkwood.md) | 4.29 | 
 | 633 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 635 | [Rage 2](games/r/rage_2.md) | 4.28 | 
@@ -728,8 +728,8 @@
 | 726 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 727 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 728 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
-| 729 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
-| 730 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 729 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 730 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 731 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 732 | [Patron](games/p/patron.md) | 3.91 | 
 | 733 | [Ironcast](games/i/ironcast.md) | 3.90 | 
