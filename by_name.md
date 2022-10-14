@@ -80,7 +80,7 @@
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.38 | 
-| 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -258,7 +258,7 @@
 | 256 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
 | 257 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 258 | [GRIME](games/g/grime.md) | 4.61 | 
-| 259 | [Grindstone](games/g/grindstone.md) | 4.85 | 
+| 259 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 260 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
 | 261 | [Hades](games/h/hades.md) | 4.92 | 
 | 262 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
@@ -323,7 +323,7 @@
 | 321 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
 | 322 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 323 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 324 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.77 | 
+| 324 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 325 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 326 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 327 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.50 | 
@@ -598,7 +598,7 @@
 | 596 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 597 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 598 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 599 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
+| 599 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 600 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 601 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
 | 602 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 

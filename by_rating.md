@@ -39,21 +39,21 @@
 | 37 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
 | 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 40 | [Grindstone](games/g/grindstone.md) | 4.85 | 
-| 41 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 42 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 44 | [Firework](games/f/firework.md) | 4.85 | 
-| 45 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 46 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 48 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 49 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
-| 50 | [Subnautica](games/s/subnautica.md) | 4.83 | 
-| 51 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 54 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 40 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 41 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 43 | [Firework](games/f/firework.md) | 4.85 | 
+| 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
+| 48 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
+| 49 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -98,13 +98,13 @@
 | 96 | [Haven](games/h/haven.md) | 4.78 | 
 | 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 98 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 99 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.77 | 
-| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 104 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 105 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 107 | [Journey](games/j/journey.md) | 4.76 | 
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
@@ -475,14 +475,14 @@
 | 473 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 474 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 475 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 476 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 477 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 478 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 479 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 481 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 482 | [Aztez](games/a/aztez.md) | 4.47 | 
-| 483 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
+| 476 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 477 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 478 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 479 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 480 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 481 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 482 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 483 | [Aztez](games/a/aztez.md) | 4.47 | 
 | 484 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 485 | [SMITE](games/s/smite.md) | 4.46 | 
 | 486 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -687,10 +687,10 @@
 | 685 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 686 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 687 | [Pine](games/p/pine.md) | 4.13 | 
-| 688 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 689 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 690 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 691 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 688 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 689 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 690 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 691 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 692 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 693 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 694 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
