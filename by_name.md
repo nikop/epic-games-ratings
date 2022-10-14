@@ -88,7 +88,7 @@
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
@@ -243,7 +243,7 @@
 | 241 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 242 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 243 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 244 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 244 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 245 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 246 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 247 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
@@ -262,7 +262,7 @@
 | 260 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 261 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
 | 262 | [Hades](games/h/hades.md) | 4.92 | 
-| 263 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 263 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 264 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 265 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 266 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
@@ -385,7 +385,7 @@
 | 383 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 384 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 385 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 386 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 386 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 387 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 388 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 389 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -445,7 +445,7 @@
 | 443 | [Pine](games/p/pine.md) | 4.13 | 
 | 444 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
 | 445 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 446 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
+| 446 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 447 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 448 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
 | 449 | [Prey](games/p/prey.md) | 4.61 | 
