@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
@@ -392,7 +392,7 @@
 | 390 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 391 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 392 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 393 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 393 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 394 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 395 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 396 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -511,7 +511,7 @@
 | 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 510 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 511 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 512 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 512 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 513 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 514 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 515 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
@@ -554,7 +554,7 @@
 | 552 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 553 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 554 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 555 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 555 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 556 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 557 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 558 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
@@ -640,7 +640,7 @@
 | 638 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 639 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
 | 640 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 641 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 641 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 642 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 643 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 644 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
@@ -648,7 +648,7 @@
 | 646 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 647 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 649 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 649 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 650 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 651 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 652 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
