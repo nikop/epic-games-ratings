@@ -92,7 +92,7 @@
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -113,7 +113,7 @@
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
-| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
@@ -343,7 +343,7 @@
 | 341 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 342 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 343 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 344 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
+| 344 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 345 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 346 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 347 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
@@ -573,7 +573,7 @@
 | 571 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
 | 572 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 573 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
-| 574 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
+| 574 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
 | 575 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 576 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 577 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
