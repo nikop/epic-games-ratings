@@ -167,7 +167,7 @@
 | 165 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 166 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 167 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 168 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
+| 168 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 169 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 170 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 171 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
@@ -453,13 +453,13 @@
 | 451 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
 | 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 458 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
 | 459 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 460 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
+| 460 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 461 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 462 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 463 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
@@ -469,7 +469,7 @@
 | 467 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 468 | [Revita](games/r/revita.md) | 4.74 | 
 | 469 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 470 | [RiME](games/r/rime.md) | 4.62 | 
+| 470 | [RiME](games/r/rime.md) | 4.63 | 
 | 471 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 472 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 473 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -580,7 +580,7 @@
 | 578 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
 | 579 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 580 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 581 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 581 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
 | 582 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 583 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 584 | [Tacoma](games/t/tacoma.md) | 4.30 | 

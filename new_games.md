@@ -6,7 +6,7 @@
 | 4 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 5 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
 | 6 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 7 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 7 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 8 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 9 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 10 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
@@ -19,7 +19,7 @@
 | 17 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 18 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 19 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 20 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.59 | 
+| 20 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 21 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 22 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
 | 23 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
