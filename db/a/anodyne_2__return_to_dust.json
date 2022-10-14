@@ -1,11 +1,11 @@
 {
   "ID": "395be8a9aed24142b30b6abb2778e995",
   "Name": "Anodyne 2: Return To Dust",
-  "Rating": 4.39,
+  "Rating": 4.33,
   "NumberOfRatings": 20,
   "FirstSeen": "2022-07-22T20:21:11.6078191+00:00",
   "FirstSeenRating": "2022-09-16T04:00:52.6824492+00:00",
-  "LastChanged": "2022-10-02T18:00:55.811111+00:00",
+  "LastChanged": "2022-10-14T18:01:49.3419018+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-16T04:00:52.6824495+00:00",
@@ -35,6 +35,11 @@
     {
       "Time": "2022-10-02T18:00:55.8111112+00:00",
       "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-14T18:01:49.341902+00:00",
+      "Rating": 4.33,
       "NumberOfRatings": null
     }
   ],

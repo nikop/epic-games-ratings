@@ -31,7 +31,7 @@
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
+| 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 34 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
@@ -78,7 +78,7 @@
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 79 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.29 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.30 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -574,7 +574,7 @@
 | 572 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 573 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
 | 574 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 575 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 575 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 576 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 577 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 578 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
@@ -731,7 +731,7 @@
 | 729 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 730 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 731 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 732 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 732 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 733 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 734 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 735 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
