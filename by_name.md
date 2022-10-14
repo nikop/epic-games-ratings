@@ -185,7 +185,7 @@
 | 183 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 184 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 185 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 186 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.11 | 
+| 186 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
 | 187 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 188 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 189 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -385,7 +385,7 @@
 | 383 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 384 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 385 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 386 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 386 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 387 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 388 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 389 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -435,7 +435,7 @@
 | 433 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 434 | [Patron](games/p/patron.md) | 3.91 | 
 | 435 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
+| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.57 | 
 | 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 438 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 439 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -555,7 +555,7 @@
 | 553 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 554 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 555 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 556 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 556 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 557 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 558 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 559 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
