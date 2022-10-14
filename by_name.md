@@ -727,7 +727,7 @@
 | 725 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 726 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 727 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 728 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
+| 728 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 729 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 730 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 731 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 

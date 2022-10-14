@@ -125,21 +125,21 @@
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 124 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 125 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 126 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 136 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 137 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 138 | [Fez](games/f/fez.md) | 4.73 | 
-| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 140 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
+| 126 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
+| 127 | [Wildermyth](games/w/wildermyth.md) | 4.74 | 
+| 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 133 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 134 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 135 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 136 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 137 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 138 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 139 | [Fez](games/f/fez.md) | 4.73 | 
+| 140 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 141 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
 | 142 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 143 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
