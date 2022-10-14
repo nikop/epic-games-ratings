@@ -1,11 +1,11 @@
 {
   "ID": "23fa6640c6eb41f7af62a1da4ee212d2",
   "Name": "Baldur\u0027s Gate: Dark Alliance",
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 22,
   "FirstSeen": "2022-07-22T20:30:55.7149756+00:00",
   "FirstSeenRating": "2022-09-12T00:32:33.7215945+00:00",
-  "LastChanged": "2022-10-09T04:02:08.7200189+00:00",
+  "LastChanged": "2022-10-14T04:32:22.1077753+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-12T00:32:33.7215948+00:00",
@@ -30,6 +30,11 @@
     {
       "Time": "2022-10-09T04:02:08.7200191+00:00",
       "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-14T04:32:22.1077756+00:00",
+      "Rating": 4.68,
       "NumberOfRatings": null
     }
   ],
