@@ -45,7 +45,7 @@
 | 43 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 48 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 49 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -249,7 +249,7 @@
 | 247 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
 | 248 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 249 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 250 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 250 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 251 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 252 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 253 | [Gone Home](games/g/gone_home.md) | 4.16 | 
@@ -450,9 +450,9 @@
 | 448 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
 | 449 | [Prey](games/p/prey.md) | 4.61 | 
 | 450 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 451 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 451 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
-| 453 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -474,7 +474,7 @@
 | 472 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 473 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 474 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 475 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 475 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
 | 476 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 477 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 478 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -519,7 +519,7 @@
 | 517 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 518 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 519 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 520 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
+| 520 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
 | 521 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 522 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 523 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -527,7 +527,7 @@
 | 525 | [SMITE](games/s/smite.md) | 4.46 | 
 | 526 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 527 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
-| 528 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 528 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 529 | [SOMA](games/s/soma.md) | 4.68 | 
 | 530 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 531 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
@@ -586,7 +586,7 @@
 | 584 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 585 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 586 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
-| 587 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 587 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 588 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 589 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 590 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -736,7 +736,7 @@
 | 734 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 735 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 736 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 737 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 737 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 738 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 739 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 740 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
