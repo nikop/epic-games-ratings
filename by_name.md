@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.45 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.46 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -435,7 +435,7 @@
 | 433 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 434 | [Patron](games/p/patron.md) | 3.91 | 
 | 435 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.57 | 
+| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
 | 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 438 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 439 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -541,7 +541,7 @@
 | 539 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 540 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 541 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
-| 542 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
+| 542 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 543 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 544 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 545 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -603,7 +603,7 @@
 | 601 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 603 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 604 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 604 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 605 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 606 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 607 | [The Fall](games/t/the_fall.md) | 4.24 | 
