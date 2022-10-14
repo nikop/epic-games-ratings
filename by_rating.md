@@ -25,27 +25,27 @@
 | 23 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 26 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
-| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 31 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
-| 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 33 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 34 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 37 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
-| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 40 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 41 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 43 | [Firework](games/f/firework.md) | 4.85 | 
-| 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 30 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
+| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 36 | [Desperados III](games/d/desperados_iii.md) | 4.85 | 
+| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 39 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 40 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 41 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 42 | [Firework](games/f/firework.md) | 4.85 | 
+| 43 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 44 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 45 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 46 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 48 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 49 | [Subnautica](games/s/subnautica.md) | 4.83 | 
@@ -351,20 +351,20 @@
 | 349 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 350 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 351 | [Hob](games/h/hob.md) | 4.58 | 
-| 352 | [ABZU](games/a/abzu.md) | 4.58 | 
-| 353 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 354 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 355 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 356 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
-| 357 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 358 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 359 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 360 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 361 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 362 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 363 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 365 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 352 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 353 | [ABZU](games/a/abzu.md) | 4.58 | 
+| 354 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 355 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
+| 356 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 357 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
+| 358 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 359 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 360 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 361 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 362 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 363 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 364 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 365 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 367 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 368 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 

@@ -404,7 +404,7 @@
 | 402 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 403 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 404 | [Observation](games/o/observation.md) | 4.42 | 
-| 405 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
+| 405 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 406 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 407 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 408 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
@@ -706,7 +706,7 @@
 | 704 | [Warface](games/w/warface.md) | 3.95 | 
 | 705 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 706 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 707 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 707 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 708 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 709 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 710 | [Warpips](games/w/warpips.md) | 4.53 | 
