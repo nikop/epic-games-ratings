@@ -171,17 +171,17 @@
 | 169 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 171 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 172 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 173 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 174 | [DOOM 3](games/d/doom_3.md) | 4.70 | 
-| 175 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 176 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 177 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 178 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 179 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 182 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 173 | [DOOM 3](games/d/doom_3.md) | 4.70 | 
+| 174 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 175 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 178 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 181 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 182 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 183 | [Barony](games/b/barony.md) | 4.69 | 
 | 184 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 185 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -557,17 +557,17 @@
 | 555 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 556 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 557 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 558 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 559 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 560 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 561 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 562 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 563 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 564 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 565 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 566 | [Parkitect](games/p/parkitect.md) | 4.39 | 
-| 567 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
-| 568 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
+| 558 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 559 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 560 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 561 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 562 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 563 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 564 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 565 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 566 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 567 | [Parkitect](games/p/parkitect.md) | 4.39 | 
+| 568 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 569 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 570 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -611,12 +611,12 @@
 | 609 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 610 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 611 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 612 | [Automachef](games/a/automachef.md) | 4.33 | 
-| 613 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 614 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 615 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 616 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 617 | [Darkwood](games/d/darkwood.md) | 4.33 | 
+| 612 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 613 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 614 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 615 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 616 | [Darkwood](games/d/darkwood.md) | 4.33 | 
+| 617 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 618 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 619 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 620 | [Vampyr](games/v/vampyr.md) | 4.31 | 

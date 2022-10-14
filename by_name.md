@@ -52,7 +52,7 @@
 | 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 51 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 53 | [Automachef](games/a/automachef.md) | 4.33 | 
+| 53 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
@@ -371,7 +371,7 @@
 | 369 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 370 | [Minit](games/m/minit.md) | 4.51 | 
 | 371 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 372 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 372 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 373 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 374 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 375 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -474,7 +474,7 @@
 | 472 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 473 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 474 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 475 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
+| 475 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 476 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 477 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 478 | [Riverbond](games/r/riverbond.md) | 4.49 | 
