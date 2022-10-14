@@ -43,7 +43,7 @@
 | 41 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 42 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 43 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
@@ -371,7 +371,7 @@
 | 369 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 370 | [Minit](games/m/minit.md) | 4.51 | 
 | 371 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 372 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 372 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 373 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 374 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 375 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -456,7 +456,7 @@
 | 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 458 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
 | 459 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 460 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
@@ -538,7 +538,7 @@
 | 536 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 537 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 538 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
-| 539 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 539 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 540 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 541 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
 | 542 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
