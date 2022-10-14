@@ -362,17 +362,17 @@
 | 360 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 361 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 362 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 363 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 365 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 366 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 367 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 369 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 370 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
-| 371 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 372 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 373 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 363 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 364 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 365 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 366 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 367 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 368 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 369 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
+| 370 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 371 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 372 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 373 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 375 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 376 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
@@ -673,10 +673,10 @@
 | 671 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 672 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 673 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 674 | [Scavengers](games/s/scavengers.md) | 4.19 | 
-| 675 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 676 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 677 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 674 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 675 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 676 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 677 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 678 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 679 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 680 | [Family Man](games/f/family_man.md) | 4.17 | 

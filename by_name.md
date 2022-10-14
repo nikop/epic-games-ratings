@@ -113,7 +113,7 @@
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
-| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
@@ -499,7 +499,7 @@
 | 497 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 498 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 499 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 500 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 500 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 501 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 502 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 503 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
