@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
@@ -204,7 +204,7 @@
 | 202 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 203 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 204 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 205 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 205 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 206 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.11 | 
 | 207 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 208 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -646,7 +646,7 @@
 | 644 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 645 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 646 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 647 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 647 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 649 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
 | 650 | [Timberborn](games/t/timberborn.md) | 4.69 | 

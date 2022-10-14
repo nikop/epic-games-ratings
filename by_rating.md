@@ -234,24 +234,24 @@
 | 232 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 235 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 236 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 237 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 238 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 239 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 240 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 241 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 242 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 243 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 244 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 245 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 246 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 247 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 249 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 250 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
-| 251 | [Eastward](games/e/eastward.md) | 4.65 | 
-| 252 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 235 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 236 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 237 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 238 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 239 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 240 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 241 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 242 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 243 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 244 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 245 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 246 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 247 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 248 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 249 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
+| 250 | [Eastward](games/e/eastward.md) | 4.65 | 
+| 251 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 252 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 253 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 254 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 255 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -581,19 +581,19 @@
 | 579 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 580 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 581 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 582 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 583 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 584 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 585 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 586 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 587 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 588 | [House Party](games/h/house_party.md) | 4.36 | 
-| 589 | [ELEX](games/e/elex.md) | 4.36 | 
-| 590 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 591 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
-| 592 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 593 | [Encased](games/e/encased.md) | 4.36 | 
-| 594 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 582 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 583 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 584 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 585 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 586 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 587 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 588 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 589 | [House Party](games/h/house_party.md) | 4.36 | 
+| 590 | [ELEX](games/e/elex.md) | 4.36 | 
+| 591 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 592 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
+| 593 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
+| 594 | [Encased](games/e/encased.md) | 4.36 | 
 | 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 597 | [Backbone](games/b/backbone.md) | 4.36 | 
@@ -660,11 +660,11 @@
 | 658 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 659 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 660 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
-| 661 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
-| 662 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 663 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
-| 664 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 665 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 661 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 662 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 663 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 664 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 665 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 666 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 667 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 668 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
