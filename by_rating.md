@@ -356,22 +356,22 @@
 | 354 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 355 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
 | 356 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 357 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 358 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 359 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 360 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 361 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 362 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 363 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 364 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 365 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
-| 366 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 367 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 368 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 369 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
-| 370 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 371 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 372 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.57 | 
+| 357 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
+| 358 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 359 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 360 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 361 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 362 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 363 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 364 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 365 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 366 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.57 | 
+| 367 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 369 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 370 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
+| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 372 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 373 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 374 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
