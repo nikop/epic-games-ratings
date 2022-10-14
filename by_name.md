@@ -170,7 +170,7 @@
 | 168 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 169 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 170 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 171 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 171 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 172 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 174 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
@@ -344,7 +344,7 @@
 | 342 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 343 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 
 | 344 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
-| 345 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 345 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 346 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 347 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 348 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
@@ -384,7 +384,7 @@
 | 382 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 383 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 384 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 385 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 385 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 386 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 387 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 388 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -452,7 +452,7 @@
 | 450 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 451 | [Quake](games/q/quake.md) | 4.80 | 
 | 452 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 453 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 453 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 454 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 455 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 456 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
@@ -489,7 +489,7 @@
 | 487 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 488 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 489 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 490 | [Runbow](games/r/runbow.md) | 4.42 | 
+| 490 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 491 | [Sable](games/s/sable.md) | 4.52 | 
 | 492 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 493 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
