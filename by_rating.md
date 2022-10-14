@@ -521,17 +521,17 @@
 | 519 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 520 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 521 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 522 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 523 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 524 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 525 | [Darkwood](games/d/darkwood.md) | 4.43 | 
-| 526 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 527 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 528 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 529 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 530 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 531 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 532 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 522 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 523 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 524 | [Darkwood](games/d/darkwood.md) | 4.43 | 
+| 525 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 526 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 527 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 528 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 529 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 530 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 531 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 532 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 533 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 534 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 535 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
@@ -624,11 +624,11 @@
 | 622 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 623 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 624 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 625 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 626 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 627 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 628 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 629 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 626 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 627 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 628 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 630 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 631 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 

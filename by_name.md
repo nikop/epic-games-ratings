@@ -407,7 +407,7 @@
 | 405 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.86 | 
 | 406 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 407 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 408 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 408 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 409 | [Old World](games/o/old_world.md) | 4.63 | 
 | 410 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 411 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -508,7 +508,7 @@
 | 506 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 507 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 508 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 510 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 511 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 512 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
