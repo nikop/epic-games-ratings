@@ -120,7 +120,7 @@
 | 118 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.60 | 
+| 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
@@ -590,7 +590,7 @@
 | 588 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 589 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 590 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 591 | [Tharsis](games/t/tharsis.md) | 4.24 | 
+| 591 | [Tharsis](games/t/tharsis.md) | 4.26 | 
 | 592 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 593 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.55 | 
 | 594 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
@@ -605,7 +605,7 @@
 | 603 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 604 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 605 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 606 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 606 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 607 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 608 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 609 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
@@ -627,11 +627,11 @@
 | 625 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 626 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 627 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 628 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 628 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
 | 629 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 630 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 631 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 632 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 632 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 633 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 634 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 635 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
