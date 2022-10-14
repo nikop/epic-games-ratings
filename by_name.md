@@ -122,7 +122,7 @@
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -286,10 +286,10 @@
 | 284 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 285 | [House Party](games/h/house_party.md) | 4.36 | 
 | 286 | [Hue](games/h/hue.md) | 4.55 | 
-| 287 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 287 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 288 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 289 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 290 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
+| 290 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
 | 291 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 292 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 293 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
@@ -599,7 +599,7 @@
 | 597 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 598 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 599 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
+| 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 601 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 603 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -662,7 +662,7 @@
 | 660 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 661 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 662 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 663 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
+| 663 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
 | 664 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 665 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 666 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
