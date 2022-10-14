@@ -21,7 +21,7 @@
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 22 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 22 | [Among Trees](games/a/among_trees.md) | 4.34 | 
 | 23 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -740,4 +740,4 @@
 | 738 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 739 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 740 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 741 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 741 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
