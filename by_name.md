@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.33 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.29 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -519,7 +519,7 @@
 | 517 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 518 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 519 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 520 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
+| 520 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
 | 521 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 522 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 523 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -675,7 +675,7 @@
 | 673 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 674 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 675 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 676 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 676 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 677 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 678 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
 | 679 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
@@ -730,7 +730,7 @@
 | 728 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 729 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 730 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 731 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 731 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 732 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 733 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 734 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
