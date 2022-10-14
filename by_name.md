@@ -452,7 +452,7 @@
 | 450 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 451 | [Quake](games/q/quake.md) | 4.80 | 
 | 452 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 453 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 453 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 454 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 455 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 456 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
@@ -712,7 +712,7 @@
 | 710 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 711 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 712 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 714 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 715 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 716 | [Weird West](games/w/weird_west.md) | 4.41 | 

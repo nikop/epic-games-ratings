@@ -5,7 +5,7 @@
 | 3 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
 | 4 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.06 | 
 | 5 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 6 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 6 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 7 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 8 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 9 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
@@ -24,7 +24,7 @@
 | 22 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 23 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 24 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 25 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 25 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 26 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 27 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 28 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 

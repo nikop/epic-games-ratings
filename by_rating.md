@@ -417,24 +417,24 @@
 | 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 416 | [Warpips](games/w/warpips.md) | 4.53 | 
 | 417 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 418 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 419 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 420 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 421 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 422 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 423 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 424 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 425 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 427 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 428 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 429 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 430 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 431 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 432 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 433 | [Sable](games/s/sable.md) | 4.52 | 
-| 434 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 418 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 419 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 420 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 421 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 422 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 423 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 424 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 426 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 427 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 428 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 429 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 430 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 431 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 432 | [Sable](games/s/sable.md) | 4.52 | 
+| 433 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 434 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 435 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 436 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 437 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 438 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -649,13 +649,13 @@
 | 647 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 648 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 649 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 650 | [The Fall](games/t/the_fall.md) | 4.24 | 
-| 651 | [Tharsis](games/t/tharsis.md) | 4.24 | 
-| 652 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 653 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 654 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
-| 655 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 656 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 650 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
+| 651 | [The Fall](games/t/the_fall.md) | 4.24 | 
+| 652 | [Tharsis](games/t/tharsis.md) | 4.24 | 
+| 653 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 654 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
+| 655 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
+| 656 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 657 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 658 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
 | 659 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
