@@ -247,21 +247,21 @@
 | 245 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 246 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 247 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 248 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 249 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
-| 250 | [Eastward](games/e/eastward.md) | 4.65 | 
-| 251 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 252 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 253 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 254 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 255 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 256 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 257 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 258 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
-| 259 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 260 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 262 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 248 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 249 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 250 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
+| 251 | [Eastward](games/e/eastward.md) | 4.65 | 
+| 252 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 253 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 254 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 255 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 256 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 257 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 258 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 259 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
+| 260 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 261 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 262 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 263 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 264 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
 | 265 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
@@ -424,24 +424,24 @@
 | 422 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 423 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 424 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 425 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 427 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 428 | [Minit](games/m/minit.md) | 4.52 | 
-| 429 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 430 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 431 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
-| 432 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 434 | [Sable](games/s/sable.md) | 4.52 | 
-| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 437 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 438 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 439 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 440 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 441 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 442 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 426 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 427 | [Minit](games/m/minit.md) | 4.52 | 
+| 428 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 429 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 430 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 431 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 432 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 433 | [Sable](games/s/sable.md) | 4.52 | 
+| 434 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 436 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 437 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 438 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 439 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 440 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 441 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 442 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 443 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 444 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 445 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 

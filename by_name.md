@@ -198,7 +198,7 @@
 | 196 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 197 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 198 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 199 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 199 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 200 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 201 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 202 | [Faeria](games/f/faeria.md) | 4.40 | 
@@ -286,7 +286,7 @@
 | 284 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 285 | [House Party](games/h/house_party.md) | 4.36 | 
 | 286 | [Hue](games/h/hue.md) | 4.55 | 
-| 287 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 287 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 288 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 289 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 290 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
