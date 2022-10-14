@@ -144,7 +144,7 @@
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 148 | [Darkwood](games/d/darkwood.md) | 4.29 | 
@@ -206,7 +206,7 @@
 | 204 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 205 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 206 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.11 | 
-| 207 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 207 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
 | 208 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 209 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 210 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
@@ -565,7 +565,7 @@
 | 563 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
 | 564 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 565 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 566 | [Subnautica](games/s/subnautica.md) | 4.83 | 
+| 566 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 567 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 568 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 569 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
