@@ -1,10 +1,10 @@
 {
   "ID": "f7dc2f3c915444f1a6ba4105bc00d592",
   "Name": "BIOMUTANT",
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 198,
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
-  "LastChanged": "2022-10-12T02:00:59.6634535+00:00",
+  "LastChanged": "2022-10-14T04:00:56.6814527+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.6090067+00:00",
@@ -280,6 +280,11 @@
       "Time": "2022-10-12T02:00:59.6634538+00:00",
       "Rating": 4.37,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-14T04:00:56.6814531+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -289,7 +294,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 25
+      "Count": 26
     }
   ]
 }

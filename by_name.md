@@ -74,7 +74,7 @@
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.37 | 
+| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -196,7 +196,7 @@
 | 194 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 196 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 197 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 198 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 199 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 200 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
@@ -568,7 +568,7 @@
 | 566 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 567 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 568 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
-| 569 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 569 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 570 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
 | 571 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 572 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
