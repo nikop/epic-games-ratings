@@ -1,10 +1,10 @@
 {
   "ID": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
   "Name": "Conarium",
-  "Rating": 3.97,
+  "Rating": 3.95,
   "NumberOfRatings": 53,
   "FirstSeen": "2022-07-22T20:26:30.4733415+00:00",
-  "LastChanged": "2022-10-12T09:32:14.9090909+00:00",
+  "LastChanged": "2022-10-14T10:01:48.0050313+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.4733418+00:00",
@@ -144,6 +144,11 @@
     {
       "Time": "2022-10-12T09:32:14.9090913+00:00",
       "Rating": 3.97,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-14T10:01:48.0050316+00:00",
+      "Rating": 3.95,
       "NumberOfRatings": null
     }
   ],

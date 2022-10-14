@@ -262,17 +262,17 @@
 | 260 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 262 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 263 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
-| 264 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 265 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 267 | [Old World](games/o/old_world.md) | 4.63 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 269 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 271 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 272 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 273 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
+| 263 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 264 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
+| 265 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 266 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 267 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 268 | [Old World](games/o/old_world.md) | 4.63 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 275 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 276 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -673,9 +673,9 @@
 | 671 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 672 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 673 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 674 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 675 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 676 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 674 | [Scavengers](games/s/scavengers.md) | 4.19 | 
+| 675 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 676 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 677 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
 | 678 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 679 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -723,9 +723,9 @@
 | 721 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 722 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 723 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 724 | [Conarium](games/c/conarium.md) | 3.97 | 
-| 725 | [Warface](games/w/warface.md) | 3.95 | 
-| 726 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 724 | [Warface](games/w/warface.md) | 3.95 | 
+| 725 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 726 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 727 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 728 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
 | 729 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
