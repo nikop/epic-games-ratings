@@ -205,7 +205,7 @@
 | 203 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 204 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 205 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 206 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.11 | 
+| 206 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 207 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
 | 208 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 209 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -474,7 +474,7 @@
 | 472 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 473 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 474 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 475 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
+| 475 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 476 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 477 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 478 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -626,7 +626,7 @@
 | 624 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 625 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 626 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 627 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 627 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 628 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
 | 629 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 630 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 

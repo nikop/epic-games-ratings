@@ -413,23 +413,23 @@
 | 411 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 412 | [Road 96](games/r/road_96.md) | 4.53 | 
 | 413 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 414 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 415 | [Warpips](games/w/warpips.md) | 4.53 | 
-| 416 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 417 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 418 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 419 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 420 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 421 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 422 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 423 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 424 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 425 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 426 | [Minit](games/m/minit.md) | 4.52 | 
-| 427 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 428 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 429 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
-| 430 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 414 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 416 | [Warpips](games/w/warpips.md) | 4.53 | 
+| 417 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 418 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 419 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 420 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 421 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 422 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 423 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 424 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 426 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 427 | [Minit](games/m/minit.md) | 4.52 | 
+| 428 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 429 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 430 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
 | 431 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 432 | [Sable](games/s/sable.md) | 4.52 | 
 | 433 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
@@ -557,15 +557,15 @@
 | 555 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 556 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 557 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 558 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 559 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 560 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 561 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 562 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 563 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 564 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 565 | [Parkitect](games/p/parkitect.md) | 4.39 | 
-| 566 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
+| 558 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 559 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 560 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 561 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 562 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 563 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 564 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 565 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 566 | [Parkitect](games/p/parkitect.md) | 4.39 | 
 | 567 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 568 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 569 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -688,14 +688,14 @@
 | 686 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 687 | [Pine](games/p/pine.md) | 4.13 | 
 | 688 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 689 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 690 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 691 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
-| 692 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 693 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
-| 695 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 696 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.11 | 
+| 689 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 690 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 691 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 692 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
+| 693 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 694 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 695 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 696 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 697 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 698 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 699 | [Obduction](games/o/obduction.md) | 4.10 | 
