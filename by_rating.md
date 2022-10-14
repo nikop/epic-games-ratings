@@ -105,16 +105,16 @@
 | 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 105 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 107 | [Journey](games/j/journey.md) | 4.76 | 
-| 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 114 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
-| 115 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 106 | [Journey](games/j/journey.md) | 4.76 | 
+| 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 113 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
+| 114 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
 | 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
@@ -337,26 +337,26 @@
 | 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 336 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 337 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
-| 338 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 339 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 340 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 341 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 342 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 343 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 344 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 345 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 346 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 347 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 348 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
-| 349 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 350 | [Hob](games/h/hob.md) | 4.58 | 
-| 351 | [ABZU](games/a/abzu.md) | 4.58 | 
-| 352 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 353 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 354 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 355 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
-| 356 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 357 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
+| 338 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
+| 339 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 340 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 341 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 342 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 343 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 344 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 345 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 346 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 347 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 348 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 349 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 350 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 351 | [Hob](games/h/hob.md) | 4.58 | 
+| 352 | [ABZU](games/a/abzu.md) | 4.58 | 
+| 353 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 354 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
+| 355 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 356 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 
+| 357 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 358 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 359 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 360 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -656,10 +656,10 @@
 | 654 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 655 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 656 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
-| 657 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 658 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 659 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 660 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
+| 657 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 658 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 659 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
+| 660 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 661 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 662 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 663 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
