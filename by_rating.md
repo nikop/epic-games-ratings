@@ -501,19 +501,19 @@
 | 499 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 500 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 501 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 502 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 503 | [CryoFall](games/c/cryofall.md) | 4.45 | 
-| 504 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 505 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 506 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
-| 507 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 508 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 509 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 510 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 511 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 512 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 513 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 514 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 502 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 503 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 504 | [CryoFall](games/c/cryofall.md) | 4.45 | 
+| 505 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 506 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 507 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
+| 508 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 509 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 510 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 511 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 512 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 513 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 514 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 515 | [Figment](games/f/figment.md) | 4.44 | 
 | 516 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 517 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
@@ -696,20 +696,20 @@
 | 694 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 695 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 696 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.11 | 
-| 697 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 698 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 699 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 700 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 701 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 702 | [Relicta](games/r/relicta.md) | 4.09 | 
-| 703 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 704 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
-| 705 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 706 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 707 | [Lake](games/l/lake.md) | 4.08 | 
-| 708 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
-| 709 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 710 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.06 | 
+| 697 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.11 | 
+| 698 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 699 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 700 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 701 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 702 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
+| 703 | [Relicta](games/r/relicta.md) | 4.09 | 
+| 704 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 705 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
+| 706 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 707 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 708 | [Lake](games/l/lake.md) | 4.08 | 
+| 709 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 710 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 711 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 712 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 713 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 

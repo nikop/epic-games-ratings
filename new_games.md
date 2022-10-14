@@ -4,7 +4,7 @@
 | 2 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
 | 3 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
 | 4 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
-| 5 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.06 | 
+| 5 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.11 | 
 | 6 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 7 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 8 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 

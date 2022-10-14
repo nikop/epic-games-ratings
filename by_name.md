@@ -185,7 +185,7 @@
 | 183 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 184 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 185 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 186 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.06 | 
+| 186 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.11 | 
 | 187 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 188 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 189 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -335,7 +335,7 @@
 | 333 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
 | 334 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 335 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 336 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 336 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 337 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 338 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 339 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
