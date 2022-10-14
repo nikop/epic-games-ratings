@@ -15,7 +15,7 @@
 | 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
+| 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
@@ -314,7 +314,7 @@
 | 312 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 313 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 314 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 315 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 315 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 316 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 317 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 318 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
@@ -645,7 +645,7 @@
 | 643 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 644 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 645 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 646 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 646 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 647 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 649 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
@@ -677,7 +677,7 @@
 | 675 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 676 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 677 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 678 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
+| 678 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
 | 679 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 680 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 681 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
