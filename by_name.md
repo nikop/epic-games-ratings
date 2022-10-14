@@ -126,7 +126,7 @@
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -359,7 +359,7 @@
 | 357 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 358 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
 | 359 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 360 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 360 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 361 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 362 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 363 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
@@ -547,7 +547,7 @@
 | 545 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 546 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 547 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 548 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 
+| 548 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
 | 549 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 550 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 551 | [Starsand](games/s/starsand.md) | 4.31 | 
@@ -599,7 +599,7 @@
 | 597 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 598 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 599 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.47 | 
 | 601 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 603 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
