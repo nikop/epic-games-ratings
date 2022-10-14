@@ -79,13 +79,13 @@
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.38 | 
+| 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -465,7 +465,7 @@
 | 463 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 464 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 465 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 466 | [Relicta](games/r/relicta.md) | 4.09 | 
+| 466 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 467 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 468 | [Revita](games/r/revita.md) | 4.74 | 
 | 469 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -538,7 +538,7 @@
 | 536 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 537 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 538 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
-| 539 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 539 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 540 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 541 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
 | 542 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
