@@ -127,7 +127,7 @@
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 128 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.46 | 
@@ -452,7 +452,7 @@
 | 450 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 451 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
-| 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 453 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 

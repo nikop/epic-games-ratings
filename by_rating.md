@@ -576,15 +576,15 @@
 | 574 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 575 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 576 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 577 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 578 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 579 | [Encased](games/e/encased.md) | 4.37 | 
-| 580 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 581 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 582 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 583 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 584 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 585 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 577 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 578 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 579 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 580 | [Encased](games/e/encased.md) | 4.37 | 
+| 581 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 582 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 583 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 584 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 585 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 586 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 587 | [House Party](games/h/house_party.md) | 4.36 | 
 | 588 | [ELEX](games/e/elex.md) | 4.36 | 
@@ -627,14 +627,14 @@
 | 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 626 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 627 | [Darkwood](games/d/darkwood.md) | 4.30 | 
-| 628 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 630 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 631 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 633 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 635 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 628 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 629 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 630 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 631 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 632 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 634 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 635 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 636 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 637 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 638 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
