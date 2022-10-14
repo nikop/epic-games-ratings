@@ -3,7 +3,7 @@
 | 1 | [Darkwood](games/d/darkwood.md) | 4.43 | 
 | 2 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
 | 3 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.24 | 
-| 4 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
+| 4 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 5 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.11 | 
 | 6 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 7 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
@@ -13,7 +13,7 @@
 | 11 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
 | 12 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 13 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.23 | 
-| 14 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 14 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 15 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 16 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 17 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 

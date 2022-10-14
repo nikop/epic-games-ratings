@@ -199,7 +199,7 @@
 | 197 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 198 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 199 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 200 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 200 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 201 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 202 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 203 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -303,7 +303,7 @@
 | 301 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 302 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 303 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 304 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 304 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 305 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 306 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 307 | [Journey](games/j/journey.md) | 4.76 | 
@@ -452,7 +452,7 @@
 | 450 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 451 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
-| 453 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -601,7 +601,7 @@
 | 599 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 601 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
+| 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 603 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 604 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 605 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -644,7 +644,7 @@
 | 642 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 643 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 644 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 645 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
+| 645 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 646 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 647 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
@@ -716,7 +716,7 @@
 | 714 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 715 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 716 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 717 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 717 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 718 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 719 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 720 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
