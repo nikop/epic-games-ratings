@@ -113,7 +113,7 @@
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
-| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
@@ -279,7 +279,7 @@
 | 277 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 278 | [Hob](games/h/hob.md) | 4.58 | 
 | 279 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 280 | [Horace](games/h/horace.md) | 4.53 | 
+| 280 | [Horace](games/h/horace.md) | 4.54 | 
 | 281 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 282 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 283 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -481,7 +481,7 @@
 | 479 | [Road 96](games/r/road_96.md) | 4.53 | 
 | 480 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 481 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 482 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 482 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 483 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
 | 484 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
 | 485 | [Roguebook](games/r/roguebook.md) | 4.60 | 
@@ -730,7 +730,7 @@
 | 728 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 729 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 730 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 731 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 731 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 732 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 733 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 734 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
