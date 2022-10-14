@@ -1,10 +1,10 @@
 {
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 3102,
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2022-10-13T16:00:52.6271791+00:00",
+  "LastChanged": "2022-10-14T12:01:03.6986081+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -2485,6 +2485,11 @@
       "Time": "2022-10-13T16:00:52.6271794+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-14T12:01:03.6986083+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -2506,7 +2511,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 408
+      "Count": 414
     },
     {
       "Text": "This game has Diverse Characters",

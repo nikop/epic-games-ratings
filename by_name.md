@@ -30,7 +30,7 @@
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
+| 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.39 | 
 | 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 34 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -128,7 +128,7 @@
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.45 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -193,7 +193,7 @@
 | 191 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 192 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 193 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
-| 194 | [Encased](games/e/encased.md) | 4.36 | 
+| 194 | [Encased](games/e/encased.md) | 4.37 | 
 | 195 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 196 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 197 | [EVE Online](games/e/eve_online.md) | 4.29 | 
@@ -412,7 +412,7 @@
 | 410 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 411 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 412 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 413 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
+| 413 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 414 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 415 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 416 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -429,13 +429,13 @@
 | 427 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 428 | [Parkitect](games/p/parkitect.md) | 4.39 | 
 | 429 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 430 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 430 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 431 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 432 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 433 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 434 | [Patron](games/p/patron.md) | 3.91 | 
 | 435 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
+| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
 | 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 438 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 439 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -502,7 +502,7 @@
 | 500 | [Scavengers](games/s/scavengers.md) | 4.19 | 
 | 501 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 502 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 503 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 503 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 504 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 505 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 506 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
@@ -730,7 +730,7 @@
 | 728 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 729 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 730 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 731 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 731 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 732 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 733 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 734 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 

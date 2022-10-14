@@ -1,10 +1,10 @@
 {
   "ID": "65a9273ec61f4bb6b94461eb1ce8ec23",
   "Name": "PC Building Simulator 2",
-  "Rating": 4.59,
+  "Rating": 4.58,
   "FirstSeen": "2022-10-12T19:00:44.2364682+00:00",
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
-  "LastChanged": "2022-10-14T08:01:11.3498367+00:00",
+  "LastChanged": "2022-10-14T12:01:23.1970609+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-12T23:00:34.9560943+00:00",
@@ -59,6 +59,11 @@
     {
       "Time": "2022-10-14T08:01:11.349837+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-14T12:01:23.1970611+00:00",
+      "Rating": 4.58,
       "NumberOfRatings": null
     }
   ],
