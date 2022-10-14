@@ -146,7 +146,7 @@
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 148 | [Darkwood](games/d/darkwood.md) | 4.30 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -178,7 +178,7 @@
 | 176 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 177 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 178 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 179 | [DOOM 3](games/d/doom_3.md) | 4.70 | 
+| 179 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
 | 180 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 181 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 182 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -453,7 +453,7 @@
 | 451 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
 | 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 454 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -505,7 +505,7 @@
 | 503 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 504 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 505 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 506 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
+| 506 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 507 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 508 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
 | 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
