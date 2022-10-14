@@ -142,20 +142,20 @@
 | 140 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 141 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.73 | 
 | 142 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 143 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 144 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 145 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 146 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
-| 147 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 148 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 149 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 150 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
-| 151 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 152 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 153 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 154 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 156 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 143 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 144 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 145 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 146 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 147 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
+| 148 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 149 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 150 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 151 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
+| 152 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 153 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 154 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 155 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 156 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 157 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 158 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 159 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
@@ -629,11 +629,11 @@
 | 627 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 628 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 629 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 631 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
-| 632 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 633 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 634 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 630 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 632 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 633 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 635 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 636 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 637 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 

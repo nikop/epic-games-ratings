@@ -183,13 +183,13 @@
 | 181 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 183 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 184 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 184 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 185 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.06 | 
 | 186 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 187 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 188 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 189 | [ELEX](games/e/elex.md) | 4.36 | 
-| 190 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 190 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 191 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 192 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
 | 193 | [Encased](games/e/encased.md) | 4.36 | 
