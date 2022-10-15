@@ -144,7 +144,7 @@
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 
+| 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 148 | [Darkwood](games/d/darkwood.md) | 4.43 | 
@@ -537,7 +537,7 @@
 | 535 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 536 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 537 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 538 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
+| 538 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 539 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 540 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 541 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
@@ -705,7 +705,7 @@
 | 703 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 704 | [Warface](games/w/warface.md) | 3.95 | 
 | 705 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 706 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 706 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 707 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 708 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 709 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
@@ -713,7 +713,7 @@
 | 711 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 712 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 713 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 714 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
+| 714 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 715 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 716 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 717 | [Weird West](games/w/weird_west.md) | 4.42 | 
