@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
@@ -184,7 +184,7 @@
 | 182 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 183 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 184 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 185 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 185 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 186 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
 | 187 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 188 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
@@ -220,7 +220,7 @@
 | 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 219 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 220 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 221 | [Fez](games/f/fez.md) | 4.73 | 
+| 221 | [Fez](games/f/fez.md) | 4.72 | 
 | 222 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
 | 223 | [Figment](games/f/figment.md) | 4.44 | 
 | 224 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 

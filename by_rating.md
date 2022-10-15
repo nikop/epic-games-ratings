@@ -137,24 +137,24 @@
 | 135 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 136 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 137 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 138 | [Fez](games/f/fez.md) | 4.73 | 
-| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 141 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 142 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 145 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
-| 146 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 147 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 148 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
-| 149 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 150 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 151 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 152 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 153 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 154 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 141 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 143 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
+| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 145 | [Fez](games/f/fez.md) | 4.72 | 
+| 146 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 147 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
+| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 149 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 150 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 151 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 155 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 156 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 157 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 158 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
@@ -663,7 +663,7 @@
 | 661 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 662 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 663 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 664 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 664 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 665 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 666 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 667 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
