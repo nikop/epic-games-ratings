@@ -454,7 +454,7 @@
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
 | 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 455 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 458 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
@@ -482,7 +482,7 @@
 | 480 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 481 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 482 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 483 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.86 | 
+| 483 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 484 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
 | 485 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 486 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
@@ -592,7 +592,7 @@
 | 590 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 591 | [Tharsis](games/t/tharsis.md) | 4.26 | 
 | 592 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 593 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.55 | 
+| 593 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
 | 594 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 595 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 596 | [The Captain](games/t/the_captain.md) | 4.44 | 
