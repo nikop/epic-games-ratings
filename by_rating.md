@@ -77,16 +77,16 @@
 | 75 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 77 | [Diabotical](games/d/diabotical.md) | 4.80 | 
-| 78 | [Quake](games/q/quake.md) | 4.80 | 
-| 79 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
-| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 81 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 85 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 86 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 87 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
+| 78 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
+| 79 | [Quake](games/q/quake.md) | 4.80 | 
+| 80 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
+| 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 82 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
+| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 88 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 89 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
@@ -354,21 +354,21 @@
 | 352 | [Hob](games/h/hob.md) | 4.58 | 
 | 353 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 354 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 355 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 356 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 357 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 358 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 359 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 360 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 361 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 362 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 363 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 364 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 365 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 366 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 369 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 355 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 356 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 357 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
+| 358 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 359 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 360 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 361 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 362 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 365 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 370 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
@@ -698,9 +698,9 @@
 | 696 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 697 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 698 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 699 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 700 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 701 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 699 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 700 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 701 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 702 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 703 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 704 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 

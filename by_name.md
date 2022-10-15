@@ -329,7 +329,7 @@
 | 327 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 328 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 329 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 330 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 330 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 331 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 332 | [Lake](games/l/lake.md) | 4.08 | 
 | 333 | [Lamentum](games/l/lamentum.md) | 4.29 | 
@@ -502,9 +502,9 @@
 | 500 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 501 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 502 | [Scorn](games/s/scorn.md) | 4.65 | 
-| 503 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
+| 503 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 504 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 505 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 505 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 506 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 507 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 508 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
