@@ -676,12 +676,12 @@
 | 674 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 675 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
 | 676 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 677 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 678 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 679 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
-| 680 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 681 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 682 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
+| 677 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 678 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 679 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 680 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
+| 681 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 682 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 683 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 684 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 685 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
@@ -695,9 +695,9 @@
 | 693 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 694 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 695 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 696 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 697 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 698 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 696 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 697 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 698 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 699 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 700 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 701 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 

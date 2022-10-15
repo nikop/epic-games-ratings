@@ -28,7 +28,7 @@
 | 26 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 27 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
 | 28 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 29 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 29 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 30 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 31 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 32 | [DOOM 64](games/d/doom_64.md) | 4.66 | 

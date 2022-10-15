@@ -553,7 +553,7 @@
 | 551 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 552 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 553 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 554 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
+| 554 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 555 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 556 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 557 | [Steelrising](games/s/steelrising.md) | 4.27 | 
@@ -629,7 +629,7 @@
 | 627 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 628 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 629 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 630 | [The Surge 2](games/t/the_surge_2.md) | 4.12 | 
+| 630 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 631 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 632 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 633 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
