@@ -101,7 +101,7 @@
 | 99 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 102 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -188,11 +188,11 @@
 | 186 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
 | 187 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 188 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
-| 189 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 189 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
 | 190 | [ELEX](games/e/elex.md) | 4.36 | 
 | 191 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 192 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 193 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 
+| 193 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 194 | [Encased](games/e/encased.md) | 4.37 | 
 | 195 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 196 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
@@ -332,7 +332,7 @@
 | 330 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 331 | [Lake](games/l/lake.md) | 4.08 | 
 | 332 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 333 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 333 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 334 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 335 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 336 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
@@ -683,7 +683,7 @@
 | 681 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 682 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 683 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 684 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 684 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 685 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 686 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 687 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
