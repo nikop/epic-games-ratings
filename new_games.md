@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Darkwood](games/d/darkwood.md) | 4.43 | 
 | 2 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
-| 3 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
+| 3 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
 | 4 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
 | 5 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
 | 6 | [Runbow](games/r/runbow.md) | 4.43 | 
@@ -16,7 +16,7 @@
 | 14 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 15 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 16 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
-| 17 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 17 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 18 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 19 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 20 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 

@@ -410,21 +410,21 @@
 | 408 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 409 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 410 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 411 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 412 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 413 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 414 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 416 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 417 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 418 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 419 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 420 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 421 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 422 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 423 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 424 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 425 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 411 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 412 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 413 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 414 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 415 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 416 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 417 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 418 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 419 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 420 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 421 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 422 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 423 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 424 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 425 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 426 | [Minit](games/m/minit.md) | 4.52 | 
 | 427 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 428 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
@@ -580,18 +580,18 @@
 | 578 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 580 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 581 | [Encased](games/e/encased.md) | 4.37 | 
-| 582 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 583 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 584 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 585 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 586 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 587 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 588 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 589 | [House Party](games/h/house_party.md) | 4.36 | 
-| 590 | [ELEX](games/e/elex.md) | 4.36 | 
-| 591 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 592 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
+| 581 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
+| 582 | [Encased](games/e/encased.md) | 4.37 | 
+| 583 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 584 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 585 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 586 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 587 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 588 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 589 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 590 | [House Party](games/h/house_party.md) | 4.36 | 
+| 591 | [ELEX](games/e/elex.md) | 4.36 | 
+| 592 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 593 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 594 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 595 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
@@ -634,11 +634,11 @@
 | 632 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 633 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 634 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 635 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 636 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 637 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 638 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 639 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 635 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 636 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 637 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 638 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 639 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 640 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 641 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 642 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -649,9 +649,9 @@
 | 647 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 648 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 649 | [Tharsis](games/t/tharsis.md) | 4.26 | 
-| 650 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 651 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 652 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
+| 650 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
+| 651 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 652 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 653 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 654 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 655 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 

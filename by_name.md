@@ -393,7 +393,7 @@
 | 391 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 392 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 393 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 394 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 394 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 395 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 396 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 397 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -443,7 +443,7 @@
 | 441 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 442 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 443 | [Pine](games/p/pine.md) | 4.13 | 
-| 444 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.36 | 
+| 444 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 445 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 446 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 447 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -519,7 +519,7 @@
 | 517 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 518 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 519 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 520 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
+| 520 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
 | 521 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 522 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 523 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -672,7 +672,7 @@
 | 670 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 671 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 672 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 673 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 673 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 674 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 675 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 676 | [Transistor](games/t/transistor.md) | 4.61 | 
