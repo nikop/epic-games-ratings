@@ -243,7 +243,7 @@
 | 241 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 242 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 243 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 244 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
+| 244 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 245 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 246 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 247 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
@@ -376,7 +376,7 @@
 | 374 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 375 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 376 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 377 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 377 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 378 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 379 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 380 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -402,7 +402,7 @@
 | 400 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 401 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 402 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 403 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 403 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 404 | [Observation](games/o/observation.md) | 4.42 | 
 | 405 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 406 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
@@ -458,7 +458,7 @@
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 458 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
-| 459 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 459 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
 | 460 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 461 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
 | 462 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
