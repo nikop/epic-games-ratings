@@ -193,7 +193,7 @@
 | 191 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 192 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 193 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 194 | [Encased](games/e/encased.md) | 4.37 | 
+| 194 | [Encased](games/e/encased.md) | 4.38 | 
 | 195 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 196 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 197 | [EVE Online](games/e/eve_online.md) | 4.29 | 
@@ -346,7 +346,7 @@
 | 344 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 345 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
 | 346 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 347 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 347 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 348 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 349 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 350 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
@@ -395,7 +395,7 @@
 | 393 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 394 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 395 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 396 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 396 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 397 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 398 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 399 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
@@ -454,7 +454,7 @@
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
 | 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 455 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 458 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 

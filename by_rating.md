@@ -134,12 +134,12 @@
 | 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 137 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 138 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 140 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 141 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -421,21 +421,21 @@
 | 419 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 420 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 421 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 422 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 423 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 424 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 425 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 426 | [Minit](games/m/minit.md) | 4.52 | 
-| 427 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 428 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 429 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
-| 430 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 431 | [Sable](games/s/sable.md) | 4.52 | 
-| 432 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 433 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 434 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 435 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 436 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 422 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 423 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 424 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 426 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 427 | [Minit](games/m/minit.md) | 4.52 | 
+| 428 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 429 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 430 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 431 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 432 | [Sable](games/s/sable.md) | 4.52 | 
+| 433 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 434 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 435 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 436 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 437 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 438 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 439 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -503,19 +503,19 @@
 | 501 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 503 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 504 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 505 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 506 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 507 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 509 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 511 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 512 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 513 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 514 | [Figment](games/f/figment.md) | 4.44 | 
-| 515 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 516 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 504 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 505 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 506 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 507 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 508 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 509 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 510 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 511 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 512 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 513 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 514 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 515 | [Figment](games/f/figment.md) | 4.44 | 
+| 516 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
 | 518 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 519 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
@@ -573,15 +573,15 @@
 | 571 | [Core](games/c/core.md) | 4.38 | 
 | 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 574 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 575 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 576 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 577 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 578 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 579 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 580 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 581 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
-| 582 | [Encased](games/e/encased.md) | 4.37 | 
+| 574 | [Encased](games/e/encased.md) | 4.38 | 
+| 575 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 576 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 577 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 578 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 579 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 580 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 581 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 582 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 583 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 584 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 585 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
