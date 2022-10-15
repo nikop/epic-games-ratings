@@ -29,7 +29,7 @@
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 30 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
@@ -256,7 +256,7 @@
 | 254 | [Good Company](games/g/good_company.md) | 4.45 | 
 | 255 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 256 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 257 | [Gravewood High](games/g/gravewood_high.md) | 3.95 | 
+| 257 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 
 | 258 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 259 | [GRIME](games/g/grime.md) | 4.61 | 
 | 260 | [Grindstone](games/g/grindstone.md) | 4.83 | 
@@ -385,7 +385,7 @@
 | 383 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 384 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 385 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 386 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 386 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 387 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 388 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 389 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
