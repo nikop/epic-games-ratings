@@ -37,7 +37,7 @@
 | 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 36 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 37 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 40 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 41 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
@@ -113,7 +113,7 @@
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
-| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
@@ -453,7 +453,7 @@
 | 451 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 452 | [Quake](games/q/quake.md) | 4.80 | 
 | 453 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 454 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 455 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 456 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 457 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -478,7 +478,7 @@
 | 476 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 477 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 478 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 479 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 479 | [Road 96](games/r/road_96.md) | 4.54 | 
 | 480 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 481 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 482 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -647,7 +647,7 @@
 | 645 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 646 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 647 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 649 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 650 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 651 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -705,7 +705,7 @@
 | 703 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 704 | [Warface](games/w/warface.md) | 3.95 | 
 | 705 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 706 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 706 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 707 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 708 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 709 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
