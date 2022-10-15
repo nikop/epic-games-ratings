@@ -17,7 +17,7 @@
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.07 | 
+| 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -135,7 +135,7 @@
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
@@ -349,7 +349,7 @@
 | 347 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 348 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 349 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 350 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 
+| 350 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 351 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 352 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 353 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -404,7 +404,7 @@
 | 402 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 403 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 404 | [Observation](games/o/observation.md) | 4.42 | 
-| 405 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 405 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
 | 406 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 407 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 408 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -488,7 +488,7 @@
 | 486 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 487 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 488 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 489 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 489 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 490 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 491 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 492 | [Sable](games/s/sable.md) | 4.52 | 
@@ -508,7 +508,7 @@
 | 506 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 507 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 508 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 509 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 510 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 511 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 512 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
