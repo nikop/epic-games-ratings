@@ -258,7 +258,7 @@
 | 256 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 257 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 258 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 
-| 259 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 259 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 260 | [GRIME](games/g/grime.md) | 4.61 | 
 | 261 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 262 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
@@ -304,7 +304,7 @@
 | 302 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 303 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 304 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 305 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 305 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 306 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 307 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 308 | [Journey](games/j/journey.md) | 4.76 | 

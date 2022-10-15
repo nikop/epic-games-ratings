@@ -14,7 +14,7 @@
 | 12 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
 | 13 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 14 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
-| 15 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 15 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 16 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 17 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 18 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 

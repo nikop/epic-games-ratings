@@ -62,20 +62,20 @@
 | 60 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 63 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 64 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 65 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 66 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 67 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 68 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
-| 69 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 70 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 71 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 72 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 73 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 74 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 76 | [Diabotical](games/d/diabotical.md) | 4.80 | 
+| 63 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 64 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 65 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 67 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 69 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 71 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 72 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 73 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 75 | [Diabotical](games/d/diabotical.md) | 4.80 | 
+| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 77 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 78 | [Quake](games/q/quake.md) | 4.80 | 
 | 79 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
@@ -355,21 +355,21 @@
 | 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 354 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 355 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 356 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 357 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 358 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 359 | [Scorn](games/s/scorn.md) | 4.58 | 
-| 360 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 361 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 362 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 365 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 370 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 356 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 357 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
+| 358 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 359 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 360 | [Scorn](games/s/scorn.md) | 4.58 | 
+| 361 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 363 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 366 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 367 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
