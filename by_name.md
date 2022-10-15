@@ -23,7 +23,7 @@
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 22 | [Among Trees](games/a/among_trees.md) | 4.34 | 
 | 23 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
@@ -89,7 +89,7 @@
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
-| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
@@ -186,7 +186,7 @@
 | 184 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 185 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 186 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 
+| 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 188 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
@@ -280,12 +280,12 @@
 | 278 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 279 | [Hob](games/h/hob.md) | 4.58 | 
 | 280 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 281 | [Horace](games/h/horace.md) | 4.54 | 
+| 281 | [Horace](games/h/horace.md) | 4.55 | 
 | 282 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 283 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 284 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 285 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 286 | [House Party](games/h/house_party.md) | 4.36 | 
+| 286 | [House Party](games/h/house_party.md) | 4.37 | 
 | 287 | [Hue](games/h/hue.md) | 4.55 | 
 | 288 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 289 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -436,7 +436,7 @@
 | 434 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 435 | [Patron](games/p/patron.md) | 3.91 | 
 | 436 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 437 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 437 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
 | 438 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 439 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 440 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -491,7 +491,7 @@
 | 489 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 490 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 491 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 492 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 492 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 493 | [Sable](games/s/sable.md) | 4.52 | 
 | 494 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 495 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -601,7 +601,7 @@
 | 599 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 600 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 601 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 602 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 602 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 603 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
 | 605 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -742,4 +742,4 @@
 | 740 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 741 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 742 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 743 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 743 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
