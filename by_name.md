@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
 | 6 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
@@ -247,7 +247,7 @@
 | 245 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 246 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 247 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 248 | [Gloomhaven](games/g/gloomhaven.md) | 4.40 | 
+| 248 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
 | 249 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 250 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 251 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -411,7 +411,7 @@
 | 409 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 410 | [Old World](games/o/old_world.md) | 4.63 | 
 | 411 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 412 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
+| 412 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
 | 413 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
 | 414 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 415 | [Othercide](games/o/othercide.md) | 4.42 | 
@@ -603,7 +603,7 @@
 | 601 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 602 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 603 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
+| 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
 | 605 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 606 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 607 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
