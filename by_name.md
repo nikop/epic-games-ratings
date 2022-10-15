@@ -27,7 +27,7 @@
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
+| 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -129,7 +129,7 @@
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 130 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.46 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
@@ -460,7 +460,7 @@
 | 458 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
 | 459 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
 | 460 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 461 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.26 | 
+| 461 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 462 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 463 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 464 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -547,7 +547,7 @@
 | 545 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 546 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 547 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 548 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
+| 548 | [Star Renegades](games/s/star_renegades.md) | 4.31 | 
 | 549 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 550 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 551 | [Starsand](games/s/starsand.md) | 4.31 | 
