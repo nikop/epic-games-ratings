@@ -360,7 +360,7 @@
 | 358 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 359 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 360 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 361 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 361 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 362 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 363 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 364 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
@@ -394,7 +394,7 @@
 | 392 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 393 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 394 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 395 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 395 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 396 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 397 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 398 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -451,7 +451,7 @@
 | 449 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 450 | [Prey](games/p/prey.md) | 4.61 | 
 | 451 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 452 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 452 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
 | 453 | [Quake](games/q/quake.md) | 4.80 | 
 | 454 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 455 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
@@ -738,7 +738,7 @@
 | 736 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 737 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 738 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 739 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 739 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 740 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 741 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 742 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
