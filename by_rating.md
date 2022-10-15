@@ -581,18 +581,18 @@
 | 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 581 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 582 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 583 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 584 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
-| 585 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 586 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 588 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 589 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 590 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 591 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 592 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 593 | [House Party](games/h/house_party.md) | 4.36 | 
+| 582 | [House Party](games/h/house_party.md) | 4.37 | 
+| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 584 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
+| 586 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 587 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 588 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 590 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 593 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 594 | [ELEX](games/e/elex.md) | 4.36 | 
 | 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 596 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
