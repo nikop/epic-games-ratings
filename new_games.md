@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Scorn](games/s/scorn.md) | 4.65 | 
 | 2 | [Darkwood](games/d/darkwood.md) | 4.45 | 
-| 3 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
+| 3 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 4 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
 | 5 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
 | 6 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.13 | 

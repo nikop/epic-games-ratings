@@ -157,7 +157,7 @@
 | 155 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 156 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 157 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 158 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 158 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 159 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 160 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 161 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
@@ -200,7 +200,7 @@
 | 198 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
-| 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
 | 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 203 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -358,7 +358,7 @@
 | 356 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 357 | [Mago](games/m/mago.md) | 4.90 | 
 | 358 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 359 | [Mars Horizon](games/m/mars_horizon.md) | 4.56 | 
+| 359 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 360 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 361 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 362 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -436,7 +436,7 @@
 | 434 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 435 | [Patron](games/p/patron.md) | 3.91 | 
 | 436 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 437 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
+| 437 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 438 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 439 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 440 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -658,7 +658,7 @@
 | 656 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 657 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 658 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
-| 659 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
+| 659 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 660 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 661 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 662 | [Torchlight](games/t/torchlight.md) | 4.42 | 
@@ -732,7 +732,7 @@
 | 730 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 731 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 732 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 733 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 733 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 734 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 735 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 736 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
