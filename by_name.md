@@ -512,7 +512,7 @@
 | 510 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
 | 511 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 512 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 513 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 513 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 514 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 515 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 516 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
@@ -574,7 +574,7 @@
 | 572 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 573 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
 | 574 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 575 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
+| 575 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 576 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
 | 577 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 578 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -605,7 +605,7 @@
 | 603 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
 | 605 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 606 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 606 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 607 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 608 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 609 | [The Fall](games/t/the_fall.md) | 4.24 | 
