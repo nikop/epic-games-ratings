@@ -404,18 +404,18 @@
 | 402 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 403 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 404 | [Horace](games/h/horace.md) | 4.54 | 
-| 405 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
-| 406 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 407 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 408 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 409 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 410 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 411 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 412 | [Road 96](games/r/road_96.md) | 4.53 | 
-| 413 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 414 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 415 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 416 | [Warpips](games/w/warpips.md) | 4.53 | 
+| 405 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 406 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
+| 407 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 409 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 410 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 411 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 412 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 413 | [Road 96](games/r/road_96.md) | 4.53 | 
+| 414 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 415 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 416 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 417 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
 | 418 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
 | 419 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
