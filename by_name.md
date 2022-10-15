@@ -70,7 +70,7 @@
 | 68 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 69 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 70 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 71 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
@@ -672,7 +672,7 @@
 | 670 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 671 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 672 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 673 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 673 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 674 | [Train Valley](games/t/train_valley.md) | 4.40 | 
 | 675 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 676 | [Transistor](games/t/transistor.md) | 4.61 | 
@@ -690,7 +690,7 @@
 | 688 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
 | 689 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 690 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 691 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.57 | 
+| 691 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 692 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 693 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 694 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
