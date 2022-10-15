@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.45 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.47 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -550,7 +550,7 @@
 | 548 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 549 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 550 | [Star Renegades](games/s/star_renegades.md) | 4.31 | 
-| 551 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 551 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 552 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 553 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 554 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.18 | 
@@ -638,7 +638,7 @@
 | 636 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 637 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 638 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 639 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.72 | 
+| 639 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 640 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 641 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
 | 642 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
