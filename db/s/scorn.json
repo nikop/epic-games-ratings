@@ -1,7 +1,16 @@
 {
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
+  "Rating": 4.65,
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
+  "LastChanged": "2022-10-15T14:30:48.790166+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-15T14:30:48.7901662+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
