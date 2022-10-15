@@ -220,19 +220,19 @@
 | 218 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 219 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 220 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 221 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 222 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 223 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 224 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
-| 225 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 226 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 227 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 229 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 231 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
-| 232 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
+| 221 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 222 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 223 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 224 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 226 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 227 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 230 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 232 | [SUPERHOT](games/s/superhot.md) | 4.66 | 
+| 233 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 235 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 236 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
