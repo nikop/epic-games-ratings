@@ -103,7 +103,7 @@
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -176,7 +176,7 @@
 | 174 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 175 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 176 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 178 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 179 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 180 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
@@ -569,7 +569,7 @@
 | 567 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 568 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 569 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 570 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 570 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 571 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
 | 572 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 573 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
@@ -604,7 +604,7 @@
 | 602 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 603 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
-| 605 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 605 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 606 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 607 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 608 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
@@ -657,7 +657,7 @@
 | 655 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 656 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 657 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 658 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 658 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 659 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 660 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 661 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
