@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.43 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.45 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -272,7 +272,7 @@
 | 270 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 271 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 272 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 273 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 273 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 274 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 275 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 276 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -647,7 +647,7 @@
 | 645 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 646 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 647 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 648 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 649 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 650 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 651 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

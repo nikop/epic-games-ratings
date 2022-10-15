@@ -124,15 +124,15 @@
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 124 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 125 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 133 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
@@ -505,24 +505,24 @@
 | 503 | [Good Company](games/g/good_company.md) | 4.45 | 
 | 504 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 505 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 506 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 507 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 508 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 509 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 510 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 511 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 512 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 513 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 514 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 515 | [Figment](games/f/figment.md) | 4.44 | 
-| 516 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
-| 518 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 519 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 520 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 521 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 522 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 523 | [Darkwood](games/d/darkwood.md) | 4.43 | 
+| 506 | [Darkwood](games/d/darkwood.md) | 4.45 | 
+| 507 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 508 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 509 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 510 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 511 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 512 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 513 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 514 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 515 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 516 | [Figment](games/f/figment.md) | 4.44 | 
+| 517 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
+| 519 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 520 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 521 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 522 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 523 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 524 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 526 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
@@ -593,14 +593,14 @@
 | 591 | [ELEX](games/e/elex.md) | 4.36 | 
 | 592 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 593 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 594 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 595 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 596 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 597 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 598 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 600 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 601 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 597 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 599 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 600 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 601 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 602 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 603 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 604 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
