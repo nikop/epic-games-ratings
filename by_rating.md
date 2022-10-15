@@ -643,10 +643,10 @@
 | 641 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 642 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 643 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 644 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 645 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 646 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
-| 647 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 644 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 645 | [Speed Brawl](games/s/speed_brawl.md) | 4.27 | 
+| 646 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 647 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 648 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 649 | [Tharsis](games/t/tharsis.md) | 4.26 | 
 | 650 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
