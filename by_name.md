@@ -80,7 +80,7 @@
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -501,7 +501,7 @@
 | 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 500 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 501 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 502 | [Scorn](games/s/scorn.md) | 4.65 | 
+| 502 | [Scorn](games/s/scorn.md) | 4.58 | 
 | 503 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 504 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 505 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -598,7 +598,7 @@
 | 596 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 597 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 598 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 599 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 599 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 600 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 601 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 602 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 

@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Scorn](games/s/scorn.md) | 4.65 | 
+| 1 | [Scorn](games/s/scorn.md) | 4.58 | 
 | 2 | [Darkwood](games/d/darkwood.md) | 4.47 | 
 | 3 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
 | 4 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 

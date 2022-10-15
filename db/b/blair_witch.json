@@ -1,10 +1,10 @@
 {
   "ID": "8101d2b09984401fa28cecce4c867e71",
   "Name": "Blair Witch",
-  "Rating": 4.13,
+  "Rating": 4.12,
   "NumberOfRatings": 635,
   "FirstSeen": "2022-07-22T20:28:46.0898805+00:00",
-  "LastChanged": "2022-10-15T02:32:06.3899572+00:00",
+  "LastChanged": "2022-10-15T22:02:35.1329804+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:46.0898808+00:00",
@@ -449,6 +449,11 @@
     {
       "Time": "2022-10-15T02:32:06.3899575+00:00",
       "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-15T22:02:35.1329807+00:00",
+      "Rating": 4.12,
       "NumberOfRatings": null
     }
   ],
