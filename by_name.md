@@ -121,7 +121,7 @@
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
-| 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 122 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.46 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -405,7 +405,7 @@
 | 403 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 404 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 405 | [Observation](games/o/observation.md) | 4.42 | 
-| 406 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
+| 406 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 407 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 408 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 409 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -543,7 +543,7 @@
 | 541 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 542 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 543 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
-| 544 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
+| 544 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
 | 545 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 546 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 547 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 

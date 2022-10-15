@@ -36,18 +36,18 @@
 | 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 36 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 37 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.85 | 
-| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 39 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 40 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
-| 41 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 43 | [Firework](games/f/firework.md) | 4.85 | 
-| 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 45 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 46 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 37 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 38 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 39 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
+| 40 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 41 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 42 | [Firework](games/f/firework.md) | 4.85 | 
+| 43 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 46 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 48 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
@@ -458,22 +458,22 @@
 | 456 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 457 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 458 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 459 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 460 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 461 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 462 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 463 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 464 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 465 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 466 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 467 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 468 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 469 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 470 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 471 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 472 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 473 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 459 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 460 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 461 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 462 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 463 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 464 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 465 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 466 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 467 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 468 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 469 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 470 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 471 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 472 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 473 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 474 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 475 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 476 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 477 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
@@ -484,17 +484,17 @@
 | 482 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 483 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 484 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 485 | [Aztez](games/a/aztez.md) | 4.47 | 
-| 486 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 487 | [SMITE](games/s/smite.md) | 4.46 | 
-| 488 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 489 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 490 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 491 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
-| 493 | [Death Coming](games/d/death_coming.md) | 4.46 | 
-| 494 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 495 | [CryoFall](games/c/cryofall.md) | 4.46 | 
+| 485 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 486 | [Aztez](games/a/aztez.md) | 4.47 | 
+| 487 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 488 | [SMITE](games/s/smite.md) | 4.46 | 
+| 489 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 490 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 491 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 492 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 493 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 494 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 495 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 496 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
 | 497 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
 | 498 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
@@ -741,5 +741,5 @@
 | 739 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 740 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 741 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 742 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
+| 742 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
 | 743 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
