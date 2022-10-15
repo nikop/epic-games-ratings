@@ -190,18 +190,18 @@
 | 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 189 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 190 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 191 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
-| 192 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 193 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
-| 194 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 195 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 196 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 197 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
-| 198 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 199 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 200 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 202 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 191 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
+| 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 194 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 195 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 196 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 197 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
+| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 201 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 202 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 203 | [SOMA](games/s/soma.md) | 4.68 | 
 | 204 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 205 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 

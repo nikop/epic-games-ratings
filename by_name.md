@@ -268,7 +268,7 @@
 | 266 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
 | 267 | [Haven](games/h/haven.md) | 4.78 | 
 | 268 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 269 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.69 | 
+| 269 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 270 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 271 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 272 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
