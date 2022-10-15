@@ -333,27 +333,27 @@
 | 331 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 333 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 334 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 336 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 337 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 338 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
-| 339 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
-| 340 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 341 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 342 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 343 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 344 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 345 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 346 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 347 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 348 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 349 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 350 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 351 | [Hob](games/h/hob.md) | 4.58 | 
-| 352 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 354 | [ABZU](games/a/abzu.md) | 4.58 | 
+| 334 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 335 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 336 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 337 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
+| 338 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 339 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
+| 340 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
+| 341 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 342 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 343 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 344 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 345 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 346 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 347 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 348 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 349 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 350 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 351 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 352 | [Hob](games/h/hob.md) | 4.58 | 
+| 353 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 354 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 355 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 356 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
 | 357 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
@@ -417,21 +417,21 @@
 | 415 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 417 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 418 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 419 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 420 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 421 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 422 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 423 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 424 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 425 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 426 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 427 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 428 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 429 | [Minit](games/m/minit.md) | 4.52 | 
-| 430 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 431 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 432 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 418 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
+| 419 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 420 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 421 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 422 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 423 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 424 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 425 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 426 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 427 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 428 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 429 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 430 | [Minit](games/m/minit.md) | 4.52 | 
+| 431 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 432 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 434 | [Sable](games/s/sable.md) | 4.52 | 
 | 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
@@ -658,12 +658,12 @@
 | 656 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 657 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
 | 658 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 659 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 660 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 661 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 662 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
-| 663 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 664 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 659 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 660 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 661 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 662 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 663 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
+| 664 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 665 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 666 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 667 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 

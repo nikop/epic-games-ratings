@@ -8,7 +8,7 @@
 | 6 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 7 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 9 | [ABZU](games/a/abzu.md) | 4.58 | 
+| 9 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -274,7 +274,7 @@
 | 272 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 273 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 274 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 275 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 275 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 276 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 277 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 278 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -679,7 +679,7 @@
 | 677 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 678 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 679 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 680 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 680 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
 | 681 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 682 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 683 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
