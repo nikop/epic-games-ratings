@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Darkwood](games/d/darkwood.md) | 4.29 | 
+| 1 | [Darkwood](games/d/darkwood.md) | 4.43 | 
 | 2 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
 | 3 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.25 | 
 | 4 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 

@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
-| 2 | [20XX](games/2/20xx.md) | 4.61 | 
+| 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.29 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.43 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -429,7 +429,7 @@
 | 427 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 428 | [Parkitect](games/p/parkitect.md) | 4.39 | 
 | 429 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 430 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 430 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 431 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 432 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 433 | [Pathway](games/p/pathway.md) | 4.44 | 

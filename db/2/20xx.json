@@ -1,10 +1,10 @@
 {
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 392,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-10-14T09:00:55.3021882+00:00",
+  "LastChanged": "2022-10-15T10:30:55.0687892+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -495,6 +495,11 @@
       "Time": "2022-10-14T09:00:55.3021885+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-15T10:30:55.0687893+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -508,7 +513,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
