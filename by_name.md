@@ -448,7 +448,7 @@
 | 446 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 447 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 448 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 449 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
+| 449 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 450 | [Prey](games/p/prey.md) | 4.61 | 
 | 451 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 452 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
@@ -649,7 +649,7 @@
 | 647 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 648 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 649 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 650 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 650 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 651 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 652 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 653 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

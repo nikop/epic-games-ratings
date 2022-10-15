@@ -124,15 +124,15 @@
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 124 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 125 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 133 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
@@ -523,23 +523,23 @@
 | 521 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 522 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 523 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 524 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 525 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 526 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 527 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 528 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 529 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 530 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 531 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 532 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 533 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 534 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 535 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 536 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 537 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
-| 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
-| 539 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
+| 524 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 525 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 526 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 527 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 528 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 529 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 530 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 531 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 532 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 533 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 534 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 535 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 536 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 537 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 538 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 539 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
+| 540 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 542 | [Observation](games/o/observation.md) | 4.42 | 
 | 543 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 

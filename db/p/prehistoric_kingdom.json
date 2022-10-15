@@ -1,10 +1,10 @@
 {
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 40,
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
-  "LastChanged": "2022-10-11T00:03:08.7004336+00:00",
+  "LastChanged": "2022-10-15T16:04:10.1874431+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:08.8557627+00:00",
@@ -109,6 +109,11 @@
     {
       "Time": "2022-10-11T00:03:08.7004339+00:00",
       "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-15T16:04:10.1874434+00:00",
+      "Rating": 4.43,
       "NumberOfRatings": null
     }
   ],
