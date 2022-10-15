@@ -80,7 +80,7 @@
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -411,7 +411,7 @@
 | 409 | [Old World](games/o/old_world.md) | 4.63 | 
 | 410 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 411 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
-| 412 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 412 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
 | 413 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 414 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 415 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
@@ -435,7 +435,7 @@
 | 433 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 434 | [Patron](games/p/patron.md) | 3.91 | 
 | 435 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.58 | 
+| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 438 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 439 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -601,7 +601,7 @@
 | 599 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 601 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
+| 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
 | 603 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 604 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 605 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
