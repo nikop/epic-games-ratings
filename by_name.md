@@ -284,8 +284,8 @@
 | 282 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 283 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 284 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 285 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 286 | [House Party](games/h/house_party.md) | 4.37 | 
+| 285 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 286 | [House Party](games/h/house_party.md) | 4.36 | 
 | 287 | [Hue](games/h/hue.md) | 4.55 | 
 | 288 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 289 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -293,7 +293,7 @@
 | 291 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
 | 292 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 293 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 294 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 294 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 295 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 296 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 297 | [Inscryption](games/i/inscryption.md) | 4.85 | 
@@ -454,7 +454,7 @@
 | 452 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
 | 453 | [Quake](games/q/quake.md) | 4.80 | 
 | 454 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 455 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 455 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 456 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 457 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 458 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 

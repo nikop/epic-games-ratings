@@ -154,21 +154,21 @@
 | 152 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 154 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 155 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 157 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 158 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 159 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 160 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 161 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 162 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 163 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 164 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 165 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 166 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 167 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 168 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 169 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 155 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 156 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 157 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 158 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 159 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 160 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 161 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 162 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 163 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 166 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 167 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 168 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 169 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 170 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 172 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
@@ -311,23 +311,23 @@
 | 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 310 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 311 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 312 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 314 | [20XX](games/2/20xx.md) | 4.60 | 
-| 315 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 316 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 317 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 318 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 319 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 320 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 321 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
-| 322 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 323 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 324 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 325 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 326 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 327 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 328 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 312 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 313 | [20XX](games/2/20xx.md) | 4.60 | 
+| 314 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 316 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 317 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 318 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 319 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 320 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
+| 321 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 322 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 323 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 324 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 325 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 326 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 327 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 329 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 330 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 331 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
@@ -420,23 +420,23 @@
 | 418 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 419 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 420 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
-| 421 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 422 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
-| 423 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 424 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 425 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 426 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 427 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 428 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 429 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 430 | [Minit](games/m/minit.md) | 4.52 | 
-| 431 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 432 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
-| 434 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 435 | [Sable](games/s/sable.md) | 4.52 | 
-| 436 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 421 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 
+| 422 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 423 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 424 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 425 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 426 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 427 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 428 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 429 | [Minit](games/m/minit.md) | 4.52 | 
+| 430 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 431 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 432 | [Travellers Rest](games/t/travellers_rest.md) | 4.52 | 
+| 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 434 | [Sable](games/s/sable.md) | 4.52 | 
+| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 437 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 438 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 439 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 440 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
@@ -581,17 +581,17 @@
 | 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 581 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 582 | [House Party](games/h/house_party.md) | 4.37 | 
-| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 584 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
-| 586 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 587 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 588 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 590 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 592 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 582 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 583 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 584 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
+| 585 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 586 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 588 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 589 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 590 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 591 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 592 | [House Party](games/h/house_party.md) | 4.36 | 
 | 593 | [ELEX](games/e/elex.md) | 4.36 | 
 | 594 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 595 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
