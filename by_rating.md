@@ -112,19 +112,19 @@
 | 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 113 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
-| 114 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 118 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 119 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 120 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 113 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 117 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 119 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 125 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
 | 126 | [Ghostrunner](games/g/ghostrunner.md) | 4.74 | 
 | 127 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
@@ -195,18 +195,18 @@
 | 193 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
 | 194 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 195 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 196 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 197 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 198 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
-| 199 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 200 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 201 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 202 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 203 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 204 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 205 | [SOMA](games/s/soma.md) | 4.68 | 
-| 206 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 207 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 196 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 197 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 198 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
+| 199 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 200 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 202 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 203 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 204 | [SOMA](games/s/soma.md) | 4.68 | 
+| 205 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 206 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 207 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 208 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 209 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
 | 210 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 

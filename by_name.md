@@ -652,7 +652,7 @@
 | 650 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 651 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 652 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 653 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 653 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 654 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 655 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 656 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
@@ -662,7 +662,7 @@
 | 660 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 661 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 662 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 663 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.75 | 
+| 663 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
 | 664 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 665 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 666 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
