@@ -51,11 +51,11 @@
 | 49 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 
 | 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 52 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 53 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
@@ -324,21 +324,21 @@
 | 322 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
 | 323 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 324 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 325 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 326 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 327 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 328 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 329 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 330 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 331 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 333 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 334 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 335 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 336 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 337 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 338 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 339 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
+| 325 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 326 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 327 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 328 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 329 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 330 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 331 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 332 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
+| 333 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 334 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
+| 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 336 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
+| 337 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 338 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
+| 339 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
 | 340 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 341 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 342 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -625,9 +625,9 @@
 | 623 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 624 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 625 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 626 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 627 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 628 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 626 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 627 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 628 | [EVE Online](games/e/eve_online.md) | 4.29 | 
 | 629 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 631 | [Darkwood](games/d/darkwood.md) | 4.29 | 

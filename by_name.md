@@ -407,7 +407,7 @@
 | 405 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 406 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 407 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 408 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 408 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 409 | [Old World](games/o/old_world.md) | 4.63 | 
 | 410 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 411 | [Operation: Tango](games/o/operation__tango.md) | 4.72 | 
@@ -435,7 +435,7 @@
 | 433 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 434 | [Patron](games/p/patron.md) | 3.91 | 
 | 435 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 436 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
 | 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 438 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 439 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -658,7 +658,7 @@
 | 656 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 657 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.58 | 
 | 658 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 659 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 659 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
 | 660 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 661 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 662 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
