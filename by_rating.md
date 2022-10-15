@@ -184,22 +184,22 @@
 | 182 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 183 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 184 | [Barony](games/b/barony.md) | 4.69 | 
-| 185 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
-| 186 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 187 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 189 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 190 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 191 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
-| 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 194 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
-| 195 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
-| 196 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
-| 197 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 185 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 186 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 188 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 191 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
+| 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 193 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 194 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 195 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 196 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
+| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 199 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 200 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 201 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 202 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 203 | [SOMA](games/s/soma.md) | 4.68 | 
@@ -476,18 +476,18 @@
 | 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 475 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 476 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 477 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
-| 478 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 479 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 480 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 477 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
+| 478 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 479 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 480 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 481 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 482 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 483 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 484 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 485 | [Aztez](games/a/aztez.md) | 4.47 | 
-| 486 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 487 | [SMITE](games/s/smite.md) | 4.46 | 
-| 488 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 483 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 484 | [Aztez](games/a/aztez.md) | 4.47 | 
+| 485 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 486 | [SMITE](games/s/smite.md) | 4.46 | 
+| 487 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 488 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 489 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 490 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 491 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
@@ -739,6 +739,6 @@
 | 737 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 738 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 739 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 740 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 740 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 741 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.62 | 
 | 742 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 

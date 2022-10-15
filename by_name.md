@@ -57,7 +57,7 @@
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.47 | 
-| 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
@@ -446,7 +446,7 @@
 | 444 | [Pine](games/p/pine.md) | 4.13 | 
 | 445 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 446 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 447 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 447 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 448 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 449 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.42 | 
 | 450 | [Prey](games/p/prey.md) | 4.61 | 
@@ -498,7 +498,7 @@
 | 496 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 497 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 498 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 500 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 501 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 502 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
@@ -741,4 +741,4 @@
 | 739 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 740 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 741 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 742 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 742 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
