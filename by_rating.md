@@ -501,18 +501,18 @@
 | 499 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 500 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 501 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 502 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 503 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
-| 504 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 505 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
-| 506 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 507 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 508 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 509 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 510 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 511 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 512 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 513 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 
+| 503 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 504 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 505 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 506 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 507 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 508 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 509 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 510 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 511 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 512 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 513 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 514 | [Figment](games/f/figment.md) | 4.44 | 
 | 515 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 516 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 

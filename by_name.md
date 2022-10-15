@@ -335,7 +335,7 @@
 | 333 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
 | 334 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 335 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 336 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 336 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 337 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 338 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 339 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
