@@ -103,7 +103,7 @@
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -237,7 +237,7 @@
 | 235 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 236 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 237 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 238 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
+| 238 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 239 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 241 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
@@ -601,7 +601,7 @@
 | 599 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 601 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 602 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
 | 603 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 604 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 605 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 

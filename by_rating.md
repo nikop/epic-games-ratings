@@ -54,21 +54,21 @@
 | 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 55 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
-| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 57 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 58 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 59 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 61 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 63 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 64 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 65 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 66 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 67 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 68 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 69 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 60 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 63 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 64 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 65 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 66 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 67 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 68 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 69 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
 | 70 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 71 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -607,15 +607,15 @@
 | 605 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 606 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 607 | [Among Trees](games/a/among_trees.md) | 4.34 | 
-| 608 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 609 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 610 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 611 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 612 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 613 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
-| 614 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
-| 615 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 616 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 608 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 609 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 610 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 611 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 612 | [Anno 2070](games/a/anno_2070.md) | 4.33 | 
+| 613 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
+| 614 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 615 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 616 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 617 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 618 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 619 | [Vampyr](games/v/vampyr.md) | 4.31 | 
@@ -663,10 +663,10 @@
 | 661 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 662 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 663 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 664 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.21 | 
-| 665 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 666 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 667 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 664 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 665 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 666 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 667 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 668 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 669 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 670 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
