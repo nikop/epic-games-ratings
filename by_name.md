@@ -105,7 +105,7 @@
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 106 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
+| 106 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 108 | [Chorus](games/c/chorus.md) | 4.50 | 
 | 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 
@@ -285,7 +285,7 @@
 | 283 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 284 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 285 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 286 | [House Party](games/h/house_party.md) | 4.37 | 
+| 286 | [House Party](games/h/house_party.md) | 4.36 | 
 | 287 | [Hue](games/h/hue.md) | 4.55 | 
 | 288 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 289 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -675,7 +675,7 @@
 | 673 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 674 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 675 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 676 | [Train Valley](games/t/train_valley.md) | 4.40 | 
+| 676 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 677 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 678 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 679 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
@@ -707,7 +707,7 @@
 | 705 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 706 | [Warface](games/w/warface.md) | 3.95 | 
 | 707 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 708 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 708 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 709 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 710 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 711 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 

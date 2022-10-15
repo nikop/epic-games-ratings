@@ -167,22 +167,22 @@
 | 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 166 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 167 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 168 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 169 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 170 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 172 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 174 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 175 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 176 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
-| 177 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 178 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 179 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 180 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 181 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 182 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 168 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 169 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 170 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 171 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 172 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 173 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 174 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
+| 175 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
+| 176 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 177 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 178 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 179 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 182 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 183 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 184 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 185 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 186 | [Barony](games/b/barony.md) | 4.69 | 
@@ -559,14 +559,14 @@
 | 557 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
 | 558 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 559 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 560 | [Train Valley](games/t/train_valley.md) | 4.40 | 
-| 561 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 562 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 563 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 564 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 565 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 566 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 560 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 561 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 562 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 563 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 564 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 565 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 566 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 567 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 568 | [Parkitect](games/p/parkitect.md) | 4.39 | 
 | 569 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 570 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
@@ -581,18 +581,18 @@
 | 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 581 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 582 | [House Party](games/h/house_party.md) | 4.37 | 
-| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 584 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
-| 586 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 587 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 588 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 590 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 593 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 582 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 583 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 584 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
+| 585 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 586 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 588 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 589 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 590 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 591 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 592 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 593 | [House Party](games/h/house_party.md) | 4.36 | 
 | 594 | [ELEX](games/e/elex.md) | 4.36 | 
 | 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 596 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -712,8 +712,8 @@
 | 710 | [Lake](games/l/lake.md) | 4.08 | 
 | 711 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 712 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 
-| 713 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 714 | [Chernobylite](games/c/chernobylite.md) | 4.05 | 
+| 713 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
+| 714 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 715 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 716 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 717 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
