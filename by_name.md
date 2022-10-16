@@ -261,7 +261,7 @@
 | 259 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 260 | [GRIME](games/g/grime.md) | 4.61 | 
 | 261 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 262 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
+| 262 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 263 | [Hades](games/h/hades.md) | 4.92 | 
 | 264 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 265 | [Hammerting](games/h/hammerting.md) | 4.38 | 
@@ -412,7 +412,7 @@
 | 410 | [Old World](games/o/old_world.md) | 4.63 | 
 | 411 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 412 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 413 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
+| 413 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.18 | 
 | 414 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 415 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 416 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
@@ -561,7 +561,7 @@
 | 559 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 560 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 561 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 562 | [Stranded Deep](games/s/stranded_deep.md) | 4.19 | 
+| 562 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 563 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 564 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 565 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
