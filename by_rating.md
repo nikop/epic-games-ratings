@@ -268,17 +268,17 @@
 | 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 267 | [Old World](games/o/old_world.md) | 4.63 | 
 | 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 270 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 274 | [RiME](games/r/rime.md) | 4.63 | 
-| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 276 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 277 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 278 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 271 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 275 | [RiME](games/r/rime.md) | 4.63 | 
+| 276 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 277 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 278 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 279 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
@@ -523,18 +523,18 @@
 | 521 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 522 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 523 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 524 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 525 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 526 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 527 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 528 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 529 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 530 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 531 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 532 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 533 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 534 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 535 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 524 | [Torchlight](games/t/torchlight.md) | 4.43 | 
+| 525 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 526 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 527 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 528 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 529 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 530 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 531 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 532 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 534 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 535 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 536 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
 | 537 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
@@ -665,15 +665,15 @@
 | 663 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 664 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 665 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 666 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
-| 667 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 668 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 669 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 670 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 671 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 672 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 673 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 674 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 666 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 667 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 668 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 669 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 670 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 671 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 672 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 673 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 674 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 675 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 676 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 677 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 

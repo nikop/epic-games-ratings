@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
@@ -407,7 +407,7 @@
 | 405 | [Observation](games/o/observation.md) | 4.42 | 
 | 406 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 407 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 408 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 408 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 409 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 410 | [Old World](games/o/old_world.md) | 4.63 | 
 | 411 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -661,11 +661,11 @@
 | 659 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 660 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 661 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 662 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 662 | [Torchlight](games/t/torchlight.md) | 4.43 | 
 | 663 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 664 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 665 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 666 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 666 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 667 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 668 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 669 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
