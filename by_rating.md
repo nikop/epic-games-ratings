@@ -234,22 +234,22 @@
 | 232 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 233 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 235 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 236 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 237 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 238 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 239 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 240 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 241 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 242 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
-| 243 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 244 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 245 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 246 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 247 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 248 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
-| 249 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 250 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
+| 235 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 236 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 237 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 238 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 240 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 241 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 243 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 244 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 246 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 247 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 249 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 250 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 251 | [Eastward](games/e/eastward.md) | 4.65 | 
 | 252 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 253 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
@@ -331,27 +331,27 @@
 | 329 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 330 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 331 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 332 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
-| 333 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 334 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 336 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 337 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 338 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
-| 339 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
-| 340 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 341 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 342 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 343 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 344 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 345 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 346 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 347 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 348 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 349 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 350 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 351 | [Hob](games/h/hob.md) | 4.58 | 
-| 352 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 332 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 333 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 334 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 335 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
+| 336 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 337 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.59 | 
+| 338 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
+| 339 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 340 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 341 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 342 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 343 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 344 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 345 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 346 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 347 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 348 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 349 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 350 | [Hob](games/h/hob.md) | 4.58 | 
+| 351 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 352 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 354 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 355 | [Isonzo](games/i/isonzo.md) | 4.58 | 

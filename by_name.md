@@ -484,7 +484,7 @@
 | 482 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 483 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 484 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 485 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 
+| 485 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 486 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 487 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 488 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -509,7 +509,7 @@
 | 507 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 508 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 509 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 510 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.59 | 
+| 510 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 511 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 512 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 513 | [Sheltered](games/s/sheltered.md) | 4.42 | 
