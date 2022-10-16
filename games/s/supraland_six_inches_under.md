@@ -1,5 +1,5 @@
 # Supraland Six Inches Under
-Rating: 4.77 (209)  (as of 23.09.2022)  
+Rating: 4.78 (209)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -48,3 +48,4 @@ Rating: 4.77 (209)  (as of 23.09.2022)
 | 2022-09-21 | 4.76 | 208 |
 | 2022-09-22 | 4.76 | 209 |
 | 2022-09-24 | 4.77 | - |
+| 2022-10-16 | 4.78 | - |

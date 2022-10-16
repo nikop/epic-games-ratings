@@ -578,7 +578,7 @@
 | 576 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
 | 577 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 578 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 579 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 579 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 580 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
 | 581 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 582 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
