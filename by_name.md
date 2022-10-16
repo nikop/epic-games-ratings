@@ -200,7 +200,7 @@
 | 198 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
-| 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 203 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -692,7 +692,7 @@
 | 690 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 691 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 692 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 693 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 693 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 694 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 695 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 696 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 

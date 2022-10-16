@@ -294,26 +294,26 @@
 | 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 300 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 301 | [GRIME](games/g/grime.md) | 4.61 | 
-| 302 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 303 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 305 | [Control](games/c/control.md) | 4.60 | 
-| 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 310 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 311 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 312 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 313 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 314 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 295 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 296 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 297 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 298 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 299 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 300 | [GRIME](games/g/grime.md) | 4.61 | 
+| 301 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 302 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 304 | [Control](games/c/control.md) | 4.60 | 
+| 305 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 306 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 307 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 308 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 309 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 310 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 314 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 315 | [20XX](games/2/20xx.md) | 4.60 | 
 | 316 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 317 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
@@ -355,23 +355,23 @@
 | 353 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 354 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 355 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 356 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 357 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
-| 358 | [Warpips](games/w/warpips.md) | 4.58 | 
-| 359 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 360 | [Scorn](games/s/scorn.md) | 4.58 | 
-| 361 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 365 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 370 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 356 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 357 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 358 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
+| 359 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 360 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 361 | [Scorn](games/s/scorn.md) | 4.58 | 
+| 362 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 363 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 366 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 367 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 371 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 372 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 373 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
 | 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 375 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
