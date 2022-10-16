@@ -134,14 +134,14 @@
 | 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 137 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 139 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
+| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 142 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -564,18 +564,18 @@
 | 562 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 563 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 564 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
-| 565 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 566 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 567 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 568 | [Parkitect](games/p/parkitect.md) | 4.39 | 
-| 569 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 570 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 572 | [Core](games/c/core.md) | 4.38 | 
-| 573 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 574 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
-| 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 576 | [Encased](games/e/encased.md) | 4.38 | 
+| 565 | [Encased](games/e/encased.md) | 4.39 | 
+| 566 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 568 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 569 | [Parkitect](games/p/parkitect.md) | 4.39 | 
+| 570 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 571 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 572 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 573 | [Core](games/c/core.md) | 4.38 | 
+| 574 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 575 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
+| 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
 | 578 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 

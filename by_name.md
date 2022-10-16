@@ -194,7 +194,7 @@
 | 192 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 193 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 195 | [Encased](games/e/encased.md) | 4.38 | 
+| 195 | [Encased](games/e/encased.md) | 4.39 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 198 | [EVE Online](games/e/eve_online.md) | 4.28 | 
@@ -396,7 +396,7 @@
 | 394 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 395 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 396 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 397 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 397 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 398 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 399 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 400 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
