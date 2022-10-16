@@ -346,7 +346,7 @@
 | 344 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 345 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 346 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
-| 347 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 347 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 348 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 349 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 350 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
@@ -388,7 +388,7 @@
 | 386 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 387 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 388 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 389 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
+| 389 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 390 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 391 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 392 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -498,7 +498,7 @@
 | 496 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 497 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 498 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
+| 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 500 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 501 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 502 | [Scorn](games/s/scorn.md) | 4.58 | 
@@ -624,7 +624,7 @@
 | 622 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 623 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 624 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 625 | [The Silent Age](games/t/the_silent_age.md) | 4.53 | 
+| 625 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
 | 626 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 627 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 628 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
@@ -689,7 +689,7 @@
 | 687 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 688 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 689 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.45 | 
+| 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 691 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 692 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 693 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
