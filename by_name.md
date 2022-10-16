@@ -260,7 +260,7 @@
 | 258 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 259 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 
 | 260 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 261 | [GRIME](games/g/grime.md) | 4.61 | 
+| 261 | [GRIME](games/g/grime.md) | 4.62 | 
 | 262 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 263 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 264 | [Hades](games/h/hades.md) | 4.92 | 
@@ -505,7 +505,7 @@
 | 503 | [Scorn](games/s/scorn.md) | 4.58 | 
 | 504 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 505 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 506 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
+| 506 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 507 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 508 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 509 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -580,7 +580,7 @@
 | 578 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 579 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 580 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 581 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
+| 581 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
 | 582 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 583 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 584 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
@@ -594,7 +594,7 @@
 | 592 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 593 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 594 | [Tharsis](games/t/tharsis.md) | 4.26 | 
-| 595 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 595 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 596 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
 | 597 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 598 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
@@ -609,7 +609,7 @@
 | 607 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 608 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 609 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 610 | [The Fall](games/t/the_fall.md) | 4.24 | 
+| 610 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 611 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 612 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
 | 613 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
