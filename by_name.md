@@ -603,7 +603,7 @@
 | 601 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 602 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 603 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
+| 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.77 | 
 | 605 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 606 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 607 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -649,7 +649,7 @@
 | 647 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 648 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 649 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 650 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 650 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 651 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 652 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 653 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

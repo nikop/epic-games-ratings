@@ -94,12 +94,12 @@
 | 92 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 93 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 94 | [Haven](games/h/haven.md) | 4.78 | 
-| 95 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
-| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 96 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
+| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 99 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 100 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.77 | 
 | 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
@@ -124,14 +124,14 @@
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 124 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 128 | [Revita](games/r/revita.md) | 4.74 | 
-| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 125 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 129 | [Revita](games/r/revita.md) | 4.74 | 
+| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
