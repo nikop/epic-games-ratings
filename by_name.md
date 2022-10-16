@@ -111,7 +111,7 @@
 | 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 110 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 112 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.01 | 
 | 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -249,7 +249,7 @@
 | 247 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 248 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
 | 249 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 250 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 250 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 251 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 252 | [Godlike Burger](games/g/godlike_burger.md) | 4.10 | 
 | 253 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
@@ -616,7 +616,7 @@
 | 614 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 615 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 616 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 617 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 617 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 618 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 619 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
 | 620 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
