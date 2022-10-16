@@ -1,10 +1,10 @@
 {
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
-  "Rating": 4.71,
+  "Rating": 4.72,
   "NumberOfRatings": 7683,
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
-  "LastChanged": "2022-10-05T15:31:00.5156206+00:00",
+  "LastChanged": "2022-10-16T19:00:27.2681105+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:20.637015+00:00",
@@ -2870,6 +2870,11 @@
       "Time": "2022-10-05T15:31:00.5156209+00:00",
       "Rating": 4.71,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-16T19:00:27.2681108+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -2919,7 +2924,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 1638
+      "Count": 1668
     }
   ]
 }

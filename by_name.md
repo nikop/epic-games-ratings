@@ -118,7 +118,7 @@
 | 116 | [Control](games/c/control.md) | 4.60 | 
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
 | 118 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 119 | [Core](games/c/core.md) | 4.38 | 
+| 119 | [Core](games/c/core.md) | 4.39 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
@@ -218,7 +218,7 @@
 | 216 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 217 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
 | 218 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 219 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 219 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
 | 220 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 221 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 222 | [Fez](games/f/fez.md) | 4.72 | 
@@ -275,14 +275,14 @@
 | 273 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 274 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 275 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 277 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 279 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 280 | [Hob](games/h/hob.md) | 4.58 | 
 | 281 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 282 | [Horace](games/h/horace.md) | 4.55 | 
-| 283 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 283 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 284 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 285 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 286 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -375,7 +375,7 @@
 | 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 374 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 376 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 376 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 378 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 379 | [Moving Out](games/m/moving_out.md) | 4.60 | 
@@ -667,7 +667,7 @@
 | 665 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 666 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 668 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 668 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 669 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 670 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 671 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
