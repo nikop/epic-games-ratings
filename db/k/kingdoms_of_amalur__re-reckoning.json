@@ -1,10 +1,10 @@
 {
   "ID": "0f86606a1622460898a7874d488f288a",
   "Name": "Kingdoms of Amalur: Re-Reckoning",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 137,
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
-  "LastChanged": "2022-10-15T21:02:03.925831+00:00",
+  "LastChanged": "2022-10-16T00:01:37.1769101+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.3365421+00:00",
@@ -275,6 +275,11 @@
       "Time": "2022-10-15T21:02:03.9258313+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-16T00:01:37.1769102+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -284,7 +289,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 29
+      "Count": 31
     }
   ]
 }

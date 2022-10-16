@@ -197,7 +197,7 @@
 | 195 | [Encased](games/e/encased.md) | 4.38 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 198 | [EVE Online](games/e/eve_online.md) | 4.29 | 
+| 198 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
@@ -329,7 +329,7 @@
 | 327 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 328 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 329 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 330 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 330 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 331 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 332 | [Lake](games/l/lake.md) | 4.08 | 
 | 333 | [Lamentum](games/l/lamentum.md) | 4.29 | 

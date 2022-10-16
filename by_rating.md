@@ -353,23 +353,23 @@
 | 351 | [Hob](games/h/hob.md) | 4.58 | 
 | 352 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 354 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 355 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 356 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 357 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 358 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 359 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 360 | [Scorn](games/s/scorn.md) | 4.58 | 
-| 361 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 363 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 366 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 367 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 354 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 355 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 356 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
+| 357 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 358 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 359 | [Scorn](games/s/scorn.md) | 4.58 | 
+| 360 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 361 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 362 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 365 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 370 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
@@ -630,12 +630,12 @@
 | 628 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 630 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 631 | [EVE Online](games/e/eve_online.md) | 4.29 | 
-| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
-| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 634 | [Lamentum](games/l/lamentum.md) | 4.29 | 
-| 635 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 636 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 631 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
+| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 633 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 635 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 636 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 637 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
 | 638 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 639 | [Ashen](games/a/ashen.md) | 4.28 | 
