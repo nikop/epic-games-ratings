@@ -455,21 +455,21 @@
 | 453 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 454 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 455 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 456 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 457 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 458 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 459 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 460 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 461 | [Darkwood](games/d/darkwood.md) | 4.50 | 
-| 462 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 463 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 464 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 465 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 466 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 467 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 468 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 469 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 470 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 456 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 457 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 459 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 460 | [Darkwood](games/d/darkwood.md) | 4.50 | 
+| 461 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 462 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 463 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 464 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 465 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 466 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 467 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 468 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 469 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 470 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 471 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 472 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 473 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
@@ -521,31 +521,31 @@
 | 519 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 520 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 521 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 522 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 523 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 524 | [Torchlight](games/t/torchlight.md) | 4.43 | 
-| 525 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 526 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 527 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 528 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 529 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 530 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 531 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 532 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 534 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 535 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 536 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
-| 537 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
-| 539 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 540 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 541 | [Observation](games/o/observation.md) | 4.42 | 
-| 542 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
-| 543 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 544 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 545 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 546 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 522 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 523 | [Torchlight](games/t/torchlight.md) | 4.43 | 
+| 524 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 525 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 526 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 527 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 528 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 529 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 530 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 531 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 532 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 533 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 534 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 535 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
+| 536 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
+| 538 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 539 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 540 | [Observation](games/o/observation.md) | 4.42 | 
+| 541 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
+| 542 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 543 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 544 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 545 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 546 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 547 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
 | 549 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
@@ -615,17 +615,17 @@
 | 613 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 614 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 615 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 616 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 617 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 618 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
-| 619 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 620 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 621 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 622 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 623 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
-| 624 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 625 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 626 | [Star Renegades](games/s/star_renegades.md) | 4.31 | 
+| 616 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 617 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 618 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 619 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
+| 620 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 621 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 622 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 623 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 624 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
+| 625 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 626 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 627 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 628 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 

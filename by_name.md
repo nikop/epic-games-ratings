@@ -243,7 +243,7 @@
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 242 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 243 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 244 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 244 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 245 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 246 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 247 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -295,7 +295,7 @@
 | 293 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 294 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 295 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 296 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 296 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 297 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 298 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 299 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
@@ -549,7 +549,7 @@
 | 547 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 548 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 549 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 550 | [Star Renegades](games/s/star_renegades.md) | 4.31 | 
+| 550 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 551 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 552 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 553 | [Starsand](games/s/starsand.md) | 4.31 | 
