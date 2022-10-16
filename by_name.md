@@ -443,7 +443,7 @@
 | 441 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 442 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 443 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 444 | [Pine](games/p/pine.md) | 4.13 | 
+| 444 | [Pine](games/p/pine.md) | 4.14 | 
 | 445 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 446 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 447 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
@@ -542,7 +542,7 @@
 | 540 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 541 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 542 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 543 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 
+| 543 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 544 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
 | 545 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 546 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -711,7 +711,7 @@
 | 709 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 710 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 711 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 712 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 712 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 713 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 714 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 715 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
@@ -722,7 +722,7 @@
 | 720 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 721 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 722 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 723 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 723 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 724 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 725 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 726 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
