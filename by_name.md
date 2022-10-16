@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
@@ -268,7 +268,7 @@
 | 266 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 267 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 268 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 269 | [Haven](games/h/haven.md) | 4.78 | 
+| 269 | [Haven](games/h/haven.md) | 4.76 | 
 | 270 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 271 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 272 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
@@ -395,7 +395,7 @@
 | 393 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 394 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 395 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 396 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 396 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 397 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 398 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 399 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -458,7 +458,7 @@
 | 456 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 457 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 458 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 459 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 459 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 460 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
 | 461 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
 | 462 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
@@ -604,7 +604,7 @@
 | 602 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 603 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 604 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 605 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.73 | 
+| 605 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.66 | 
 | 606 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 607 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 608 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
