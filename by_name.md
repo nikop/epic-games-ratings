@@ -103,7 +103,7 @@
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -360,7 +360,7 @@
 | 358 | [Mago](games/m/mago.md) | 4.90 | 
 | 359 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 360 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
-| 361 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 361 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 362 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 363 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 364 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -405,7 +405,7 @@
 | 403 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 404 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 405 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 406 | [Observation](games/o/observation.md) | 4.42 | 
+| 406 | [Observation](games/o/observation.md) | 4.44 | 
 | 407 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 408 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 409 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
@@ -456,7 +456,7 @@
 | 454 | [Quake](games/q/quake.md) | 4.80 | 
 | 455 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 456 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 457 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 457 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 458 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 459 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
 | 460 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
