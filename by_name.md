@@ -285,7 +285,7 @@
 | 283 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 284 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 285 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 286 | [House Party](games/h/house_party.md) | 4.36 | 
+| 286 | [House Party](games/h/house_party.md) | 4.37 | 
 | 287 | [Hue](games/h/hue.md) | 4.55 | 
 | 288 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 289 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -447,7 +447,7 @@
 | 445 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 446 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 447 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
-| 448 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 448 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 449 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 450 | [Prey](games/p/prey.md) | 4.61 | 
 | 451 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -460,7 +460,7 @@
 | 458 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
 | 459 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
 | 460 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
-| 461 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 461 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 462 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 463 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 464 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
@@ -649,7 +649,7 @@
 | 647 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 648 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 649 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 650 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 650 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 651 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 652 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 653 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

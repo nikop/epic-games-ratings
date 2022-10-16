@@ -91,12 +91,12 @@
 | 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 92 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 93 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
-| 94 | [Northgard](games/n/northgard.md) | 4.78 | 
-| 95 | [Haven](games/h/haven.md) | 4.78 | 
-| 96 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
-| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 92 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
+| 93 | [Northgard](games/n/northgard.md) | 4.78 | 
+| 94 | [Haven](games/h/haven.md) | 4.78 | 
+| 95 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
+| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
@@ -124,14 +124,14 @@
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
 | 124 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 125 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -502,13 +502,13 @@
 | 500 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 501 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 502 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 504 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 505 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 506 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
-| 508 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 509 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 503 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 504 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 505 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 506 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
+| 507 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 508 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 509 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 510 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 511 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 512 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -581,18 +581,18 @@
 | 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 581 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 582 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 583 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 584 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
-| 585 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 586 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
-| 588 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 589 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 590 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 591 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 592 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 593 | [House Party](games/h/house_party.md) | 4.36 | 
+| 582 | [House Party](games/h/house_party.md) | 4.37 | 
+| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 584 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
+| 586 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 587 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 588 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 590 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 593 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 594 | [ELEX](games/e/elex.md) | 4.36 | 
 | 595 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
 | 596 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
