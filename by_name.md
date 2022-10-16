@@ -18,10 +18,10 @@
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 
-| 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 22 | [Among Trees](games/a/among_trees.md) | 4.34 | 
+| 22 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 23 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -394,7 +394,7 @@
 | 392 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 393 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 394 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 395 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 395 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 396 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 397 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 398 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -504,7 +504,7 @@
 | 502 | [Scorn](games/s/scorn.md) | 4.58 | 
 | 503 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 504 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 505 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 505 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 506 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 507 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 508 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 

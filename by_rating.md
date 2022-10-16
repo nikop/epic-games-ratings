@@ -601,14 +601,14 @@
 | 599 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 600 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 601 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 602 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 603 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 604 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 605 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 606 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 607 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 608 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 609 | [Among Trees](games/a/among_trees.md) | 4.34 | 
+| 602 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 603 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 604 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 605 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 606 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 607 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 608 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
 | 610 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 611 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 612 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -636,18 +636,18 @@
 | 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 635 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 636 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 637 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 638 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 639 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 640 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 641 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 642 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 643 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 644 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 645 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 646 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 647 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 648 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 637 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 638 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 639 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 640 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 641 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 642 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 643 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 644 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 645 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 646 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 647 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 648 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 649 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 650 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 651 | [Tharsis](games/t/tharsis.md) | 4.26 | 
@@ -699,8 +699,8 @@
 | 697 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 698 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 699 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
-| 700 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 701 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 700 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 701 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 702 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 703 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 704 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 

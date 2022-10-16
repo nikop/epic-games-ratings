@@ -1,10 +1,10 @@
 {
   "ID": "b2df9b20c72446d690718965da41c7ad",
   "Name": "Amnesia: Rebirth",
-  "Rating": 4.26,
+  "Rating": 4.27,
   "NumberOfRatings": 1664,
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
-  "LastChanged": "2022-10-09T04:31:50.2959146+00:00",
+  "LastChanged": "2022-10-16T13:31:49.1442837+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:30.9158171+00:00",
@@ -570,12 +570,17 @@
       "Time": "2022-10-09T04:31:50.2959152+00:00",
       "Rating": 4.26,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-16T13:31:49.144284+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 22
+      "Count": 23
     }
   ]
 }
