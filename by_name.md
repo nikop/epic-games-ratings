@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.47 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.49 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -168,7 +168,7 @@
 | 166 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 167 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 168 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 169 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
+| 169 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 170 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 171 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 172 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 

@@ -1,5 +1,5 @@
 # Destroy All Humans! 2 - Reprobed
-Rating: 4.60 (90)  (as of 23.09.2022)  
+Rating: 4.61 (90)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Rating: 4.60 (90)  (as of 23.09.2022)
 | 2022-10-07 | 4.58 | - |
 | 2022-10-09 | 4.59 | - |
 | 2022-10-14 | 4.60 | - |
+| 2022-10-16 | 4.61 | - |

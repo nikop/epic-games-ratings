@@ -298,28 +298,28 @@
 | 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 299 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 300 | [GRIME](games/g/grime.md) | 4.61 | 
-| 301 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 302 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 304 | [Control](games/c/control.md) | 4.60 | 
-| 305 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 306 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 307 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 308 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 309 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 311 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 312 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 313 | [20XX](games/2/20xx.md) | 4.60 | 
-| 314 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 316 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 317 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 318 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 319 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 320 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.60 | 
+| 299 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 301 | [GRIME](games/g/grime.md) | 4.61 | 
+| 302 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 303 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 305 | [Control](games/c/control.md) | 4.60 | 
+| 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 310 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 314 | [20XX](games/2/20xx.md) | 4.60 | 
+| 315 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 316 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 317 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 318 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 319 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 320 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 321 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 322 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 323 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
@@ -475,18 +475,18 @@
 | 473 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 474 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 475 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 476 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 477 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 478 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
-| 479 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 480 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 481 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 482 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 483 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 484 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 485 | [CryoFall](games/c/cryofall.md) | 4.47 | 
-| 486 | [Aztez](games/a/aztez.md) | 4.47 | 
-| 487 | [Darkwood](games/d/darkwood.md) | 4.47 | 
+| 476 | [Darkwood](games/d/darkwood.md) | 4.49 | 
+| 477 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 478 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 479 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
+| 480 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 481 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 482 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 483 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 484 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 485 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 486 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 487 | [Aztez](games/a/aztez.md) | 4.47 | 
 | 488 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 489 | [SMITE](games/s/smite.md) | 4.46 | 
 | 490 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
