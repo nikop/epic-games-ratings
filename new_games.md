@@ -8,7 +8,7 @@
 | 6 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.73 | 
 | 7 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 8 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 9 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 9 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 10 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 11 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 12 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
@@ -23,7 +23,7 @@
 | 21 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 22 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 23 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 24 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
+| 24 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 25 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 26 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 27 | [Saints Row](games/s/saints_row.md) | 3.77 | 
@@ -33,7 +33,7 @@
 | 31 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 32 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 33 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 34 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 34 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 36 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 37 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 

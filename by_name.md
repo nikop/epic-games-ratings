@@ -60,7 +60,7 @@
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 
+| 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
 | 63 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 64 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
@@ -179,7 +179,7 @@
 | 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
 | 178 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 179 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 180 | [DOOM 3](games/d/doom_3.md) | 4.69 | 
+| 180 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 181 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 182 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 183 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -452,10 +452,10 @@
 | 450 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 451 | [Prey](games/p/prey.md) | 4.61 | 
 | 452 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 453 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
+| 453 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 454 | [Quake](games/q/quake.md) | 4.80 | 
 | 455 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 456 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 456 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 457 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 458 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 459 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
@@ -516,7 +516,7 @@
 | 514 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 515 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 516 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 517 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 517 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 518 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 519 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 520 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -681,7 +681,7 @@
 | 679 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 680 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 681 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 682 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
+| 682 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 683 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 684 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 685 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
@@ -718,7 +718,7 @@
 | 716 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 717 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
-| 719 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 719 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
 | 720 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 721 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 722 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
