@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.49 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.50 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -532,7 +532,7 @@
 | 530 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 531 | [SOMA](games/s/soma.md) | 4.68 | 
 | 532 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 533 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 533 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 534 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 535 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 536 | [Souldiers](games/s/souldiers.md) | 4.54 | 
