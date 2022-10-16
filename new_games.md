@@ -4,13 +4,13 @@
 | 2 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
 | 3 | [Darkwood](games/d/darkwood.md) | 4.51 | 
 | 4 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 5 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.27 | 
+| 5 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 6 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.66 | 
 | 7 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 8 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 9 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 10 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 11 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 11 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 12 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 13 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
 | 14 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
@@ -27,9 +27,9 @@
 | 25 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 26 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 27 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 28 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 28 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 29 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 30 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 30 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 31 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 32 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 33 | [DOOM 64](games/d/doom_64.md) | 4.66 | 

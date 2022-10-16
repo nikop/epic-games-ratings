@@ -447,7 +447,7 @@
 | 445 | [Pine](games/p/pine.md) | 4.14 | 
 | 446 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 447 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 448 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 448 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 449 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 450 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 451 | [Prey](games/p/prey.md) | 4.61 | 
@@ -522,7 +522,7 @@
 | 520 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 521 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 522 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 523 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.27 | 
+| 523 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 524 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 525 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 526 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -590,7 +590,7 @@
 | 588 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 589 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
 | 590 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 591 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 591 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 592 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 593 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 594 | [Tharsis](games/t/tharsis.md) | 4.26 | 
@@ -630,7 +630,7 @@
 | 628 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 629 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 630 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 631 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 631 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 632 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 633 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 634 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
@@ -717,7 +717,7 @@
 | 715 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 716 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 717 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 719 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
 | 720 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 721 | [Weird West](games/w/weird_west.md) | 4.42 | 

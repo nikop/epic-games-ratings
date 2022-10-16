@@ -561,15 +561,15 @@
 | 559 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 560 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 561 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 562 | [Core](games/c/core.md) | 4.39 | 
-| 563 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 564 | [Encased](games/e/encased.md) | 4.39 | 
-| 565 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 566 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 568 | [Parkitect](games/p/parkitect.md) | 4.39 | 
-| 569 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 570 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 562 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 563 | [Core](games/c/core.md) | 4.39 | 
+| 564 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 565 | [Encased](games/e/encased.md) | 4.39 | 
+| 566 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 567 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 568 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 569 | [Parkitect](games/p/parkitect.md) | 4.39 | 
+| 570 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
@@ -640,25 +640,25 @@
 | 638 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 639 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 640 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 641 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 642 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 643 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 644 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 645 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 646 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 647 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 648 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 649 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.27 | 
+| 641 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 642 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 643 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 644 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 645 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 646 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 647 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 648 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 649 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 650 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
 | 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 652 | [Tharsis](games/t/tharsis.md) | 4.26 | 
 | 653 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 654 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 655 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 656 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 657 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 658 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 659 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.23 | 
+| 656 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
+| 657 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 658 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 659 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 660 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 661 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
 | 662 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
@@ -691,11 +691,11 @@
 | 689 | [Pine](games/p/pine.md) | 4.14 | 
 | 690 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 691 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
-| 692 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 693 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 694 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
-| 695 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 696 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
+| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 693 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 694 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 695 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 696 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 697 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 698 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 699 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -739,8 +739,8 @@
 | 737 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 738 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 739 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
-| 740 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
-| 741 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 740 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 741 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
 | 742 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 743 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 744 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
