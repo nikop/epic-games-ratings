@@ -1,10 +1,10 @@
 {
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 1003,
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
-  "LastChanged": "2022-10-15T07:01:33.9817849+00:00",
+  "LastChanged": "2022-10-16T14:31:20.9011716+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:25.9606457+00:00",
@@ -479,6 +479,11 @@
     {
       "Time": "2022-10-15T07:01:33.9817852+00:00",
       "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-16T14:31:20.9011717+00:00",
+      "Rating": 4.49,
       "NumberOfRatings": null
     }
   ],
