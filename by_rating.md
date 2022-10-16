@@ -553,13 +553,13 @@
 | 551 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 552 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
 | 553 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 554 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 556 | [Faeria](games/f/faeria.md) | 4.40 | 
-| 557 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
-| 558 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 559 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 560 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 554 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 555 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 557 | [Faeria](games/f/faeria.md) | 4.40 | 
+| 558 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
+| 559 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 560 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 561 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 562 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 563 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
