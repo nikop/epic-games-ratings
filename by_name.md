@@ -226,7 +226,7 @@
 | 224 | [Figment](games/f/figment.md) | 4.44 | 
 | 225 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 226 | [Firework](games/f/firework.md) | 4.85 | 
-| 227 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
+| 227 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 228 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 229 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 230 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -677,7 +677,7 @@
 | 675 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 676 | [Train Valley](games/t/train_valley.md) | 4.39 | 
 | 677 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 678 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 678 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 679 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 680 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 
 | 681 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 

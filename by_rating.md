@@ -283,22 +283,22 @@
 | 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 283 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 284 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 285 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 286 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 287 | [Prey](games/p/prey.md) | 4.61 | 
-| 288 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 289 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 290 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 291 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 299 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 284 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 285 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 286 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 287 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 288 | [Prey](games/p/prey.md) | 4.61 | 
+| 289 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 290 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 291 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 301 | [GRIME](games/g/grime.md) | 4.61 | 
 | 302 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
@@ -613,10 +613,10 @@
 | 611 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 612 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 613 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 614 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 
-| 615 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
-| 616 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 617 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 614 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
+| 615 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 616 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 617 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 618 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 619 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 620 | [Vampyr](games/v/vampyr.md) | 4.31 | 
