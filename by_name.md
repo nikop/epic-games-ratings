@@ -90,7 +90,7 @@
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -160,7 +160,7 @@
 | 158 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 159 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 160 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 161 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.46 | 
+| 161 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
 | 162 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 163 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 164 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
@@ -475,7 +475,7 @@
 | 473 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 474 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 475 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
-| 476 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 476 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 477 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 478 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 479 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -583,7 +583,7 @@
 | 581 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 582 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 583 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 584 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 584 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 585 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 586 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 587 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
