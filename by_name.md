@@ -431,7 +431,7 @@
 | 429 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 430 | [Parkitect](games/p/parkitect.md) | 4.39 | 
 | 431 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 432 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 432 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 433 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 434 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 435 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -709,7 +709,7 @@
 | 707 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 708 | [Warface](games/w/warface.md) | 3.95 | 
 | 709 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 710 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 710 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 711 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 712 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 713 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 

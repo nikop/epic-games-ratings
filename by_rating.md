@@ -167,23 +167,23 @@
 | 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 166 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 167 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 168 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 169 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 170 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 172 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 173 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 174 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 175 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
-| 176 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 177 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 178 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 179 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 180 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 181 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 182 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 184 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 168 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 169 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 170 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 171 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 174 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 175 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
+| 176 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
+| 177 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 178 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 179 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 180 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 181 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 182 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 183 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 184 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 185 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 186 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 187 | [Barony](games/b/barony.md) | 4.69 | 
@@ -291,25 +291,25 @@
 | 289 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 290 | [Prey](games/p/prey.md) | 4.61 | 
 | 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 292 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 293 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 294 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 295 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 296 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 301 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 302 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 303 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 305 | [Control](games/c/control.md) | 4.60 | 
-| 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 310 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 292 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 293 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 294 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 295 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 296 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 297 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 298 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 299 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 300 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 301 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 302 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 303 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 304 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 305 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 306 | [Control](games/c/control.md) | 4.60 | 
+| 307 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 308 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 309 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 310 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 311 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
