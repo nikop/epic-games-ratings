@@ -31,7 +31,7 @@
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
+| 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
 | 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 34 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
@@ -121,7 +121,7 @@
 | 119 | [Core](games/c/core.md) | 4.38 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
-| 122 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -389,7 +389,7 @@
 | 387 | [MythForce](games/m/mythforce.md) | 4.54 | 
 | 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 389 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 390 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
+| 390 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 391 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 392 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 393 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -570,7 +570,7 @@
 | 568 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 569 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 570 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 571 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 571 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 572 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
 | 573 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 574 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
