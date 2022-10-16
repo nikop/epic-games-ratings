@@ -119,7 +119,7 @@
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
 | 118 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 119 | [Core](games/c/core.md) | 4.38 | 
-| 120 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 120 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
@@ -646,7 +646,7 @@
 | 644 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 645 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 646 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 647 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 647 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 648 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 649 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 650 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
