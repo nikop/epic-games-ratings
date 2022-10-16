@@ -137,15 +137,15 @@
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 145 | [Fez](games/f/fez.md) | 4.72 | 
-| 146 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 138 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
+| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 146 | [Fez](games/f/fez.md) | 4.72 | 
 | 147 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 149 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -531,20 +531,20 @@
 | 529 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 530 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 531 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 532 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 533 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 534 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 535 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 536 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
-| 537 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
-| 538 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 539 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
-| 540 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 542 | [Observation](games/o/observation.md) | 4.42 | 
-| 543 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
-| 544 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 545 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 532 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 533 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 534 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 535 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
+| 536 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
+| 537 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
+| 539 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 540 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 541 | [Observation](games/o/observation.md) | 4.42 | 
+| 542 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 
+| 543 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 544 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 545 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 546 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 547 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
@@ -680,9 +680,9 @@
 | 678 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 679 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 680 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 681 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 682 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.18 | 
-| 683 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 681 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.18 | 
+| 682 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 683 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 684 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 685 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 686 | [Gone Home](games/g/gone_home.md) | 4.16 | 
@@ -699,9 +699,9 @@
 | 697 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 698 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
 | 699 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 700 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 701 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 702 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 700 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 701 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 702 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 703 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 704 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 705 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.10 | 
@@ -733,8 +733,8 @@
 | 731 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 732 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 733 | [Patron](games/p/patron.md) | 3.91 | 
-| 734 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 735 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 734 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 735 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 736 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 737 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 738 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 

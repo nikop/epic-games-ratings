@@ -303,7 +303,7 @@
 | 301 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 302 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 303 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 304 | [Ironcast](games/i/ironcast.md) | 3.90 | 
+| 304 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 305 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 306 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 307 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -403,10 +403,10 @@
 | 401 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 402 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
 | 403 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 404 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 404 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 405 | [Observation](games/o/observation.md) | 4.42 | 
 | 406 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 407 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 407 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 408 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.42 | 
 | 409 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 410 | [Old World](games/o/old_world.md) | 4.63 | 
@@ -500,7 +500,7 @@
 | 498 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 500 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 501 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 501 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 502 | [Scorn](games/s/scorn.md) | 4.58 | 
 | 503 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 504 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
@@ -512,7 +512,7 @@
 | 510 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 511 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 512 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 513 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 513 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 514 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 515 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 516 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 

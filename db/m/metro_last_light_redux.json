@@ -970,7 +970,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1087
+      "Count": 1102
     },
     {
       "Text": "This game is Extremely Fun",
@@ -991,6 +991,10 @@
     {
       "Text": "This game has Quickly Understood Controls",
       "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 20
     }
   ]
 }
