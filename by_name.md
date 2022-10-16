@@ -27,7 +27,7 @@
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 
+| 28 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
 | 29 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -225,7 +225,7 @@
 | 223 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
 | 224 | [Figment](games/f/figment.md) | 4.44 | 
 | 225 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 226 | [Firework](games/f/firework.md) | 4.85 | 
+| 226 | [Firework](games/f/firework.md) | 4.86 | 
 | 227 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 228 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 229 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -274,7 +274,7 @@
 | 272 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 273 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 274 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 275 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 275 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 276 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 277 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 278 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -458,7 +458,7 @@
 | 456 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 457 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 458 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 459 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.44 | 
+| 459 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
 | 460 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
 | 461 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 462 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
@@ -611,7 +611,7 @@
 | 609 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 610 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 611 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
-| 612 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 612 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 613 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 614 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 615 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
