@@ -37,7 +37,7 @@
 | 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 36 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 37 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 38 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 40 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 41 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
@@ -378,7 +378,7 @@
 | 376 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 378 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 379 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 379 | [Moving Out](games/m/moving_out.md) | 4.60 | 
 | 380 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 381 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 382 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -447,7 +447,7 @@
 | 445 | [Pine](games/p/pine.md) | 4.14 | 
 | 446 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 447 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 448 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 448 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 449 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 450 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 451 | [Prey](games/p/prey.md) | 4.61 | 
@@ -590,7 +590,7 @@
 | 588 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 589 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.64 | 
 | 590 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 591 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 591 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 592 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 593 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 594 | [Tharsis](games/t/tharsis.md) | 4.26 | 
@@ -669,7 +669,7 @@
 | 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
 | 668 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 669 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 670 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 670 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 671 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 672 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 673 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 

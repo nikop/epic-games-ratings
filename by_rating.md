@@ -314,21 +314,21 @@
 | 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 314 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 315 | [20XX](games/2/20xx.md) | 4.60 | 
-| 316 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 317 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 318 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 319 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 320 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 321 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 322 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 323 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 324 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 325 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 326 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 327 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 329 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 315 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 316 | [20XX](games/2/20xx.md) | 4.60 | 
+| 317 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 318 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 319 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 320 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 321 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 322 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 323 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 324 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 325 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 326 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 327 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 328 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 329 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 330 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 331 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -472,13 +472,13 @@
 | 470 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 471 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 472 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 473 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 474 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 475 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 476 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 477 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 478 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 479 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 473 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 475 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 476 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 477 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 478 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 479 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 480 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
 | 481 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 482 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
@@ -562,13 +562,13 @@
 | 560 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 561 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 562 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 563 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 564 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 565 | [Encased](games/e/encased.md) | 4.39 | 
-| 566 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
-| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 568 | [Parkitect](games/p/parkitect.md) | 4.39 | 
-| 569 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 563 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 564 | [Encased](games/e/encased.md) | 4.39 | 
+| 565 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 566 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 567 | [Parkitect](games/p/parkitect.md) | 4.39 | 
+| 568 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 569 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 570 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 571 | [Core](games/c/core.md) | 4.38 | 
 | 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -698,7 +698,7 @@
 | 696 | [The Surge 2](games/t/the_surge_2.md) | 4.13 | 
 | 697 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 698 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 699 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 
+| 699 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 700 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 701 | [Second Extinction™](games/s/second_extinction™.md) | 4.10 | 
 | 702 | [Relicta](games/r/relicta.md) | 4.10 | 
@@ -740,8 +740,8 @@
 | 738 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 739 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 740 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
-| 741 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 742 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 743 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 741 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 742 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 743 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 744 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
 | 745 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
