@@ -281,7 +281,7 @@
 | 279 | [Hob](games/h/hob.md) | 4.58 | 
 | 280 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 281 | [Horace](games/h/horace.md) | 4.55 | 
-| 282 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 282 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 283 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 284 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 285 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -335,7 +335,7 @@
 | 333 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 334 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 335 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 336 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 336 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 337 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 338 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 339 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
@@ -455,7 +455,7 @@
 | 453 | [Quake](games/q/quake.md) | 4.80 | 
 | 454 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 455 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 456 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 456 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 457 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 458 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
 | 459 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
@@ -521,7 +521,7 @@
 | 519 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 520 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 521 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 522 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.26 | 
+| 522 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.27 | 
 | 523 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 524 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 525 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -655,7 +655,7 @@
 | 653 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 654 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 655 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 656 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.91 | 
+| 656 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
 | 657 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 658 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 659 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
@@ -733,14 +733,14 @@
 | 731 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 732 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 733 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 734 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 734 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 735 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 736 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 737 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 738 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 739 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 740 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 741 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 741 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 742 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 743 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 744 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 744 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
