@@ -232,17 +232,17 @@
 | 230 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 232 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 235 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 236 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 237 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 238 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 240 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 241 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 243 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.65 | 
+| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 235 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 237 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 238 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 239 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 240 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 241 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 242 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 243 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 244 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 246 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
@@ -268,17 +268,17 @@
 | 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 267 | [Old World](games/o/old_world.md) | 4.63 | 
 | 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 271 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 275 | [RiME](games/r/rime.md) | 4.63 | 
-| 276 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 277 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 278 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 279 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 274 | [RiME](games/r/rime.md) | 4.63 | 
+| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 276 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 277 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 278 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
@@ -449,17 +449,17 @@
 | 447 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 448 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 449 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 450 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 451 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 452 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 453 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 454 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
-| 455 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 456 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 457 | [Chorus](games/c/chorus.md) | 4.50 | 
-| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 459 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 460 | [Darkwood](games/d/darkwood.md) | 4.50 | 
+| 450 | [Darkwood](games/d/darkwood.md) | 4.51 | 
+| 451 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 452 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 453 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 454 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 455 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 456 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 457 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 458 | [Chorus](games/c/chorus.md) | 4.50 | 
+| 459 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 460 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 461 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 462 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 463 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
