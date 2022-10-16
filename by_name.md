@@ -91,7 +91,7 @@
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 92 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
@@ -532,7 +532,7 @@
 | 530 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 531 | [SOMA](games/s/soma.md) | 4.68 | 
 | 532 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 533 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 533 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 534 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 535 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 536 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -603,7 +603,7 @@
 | 601 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 602 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 603 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.77 | 
+| 604 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
 | 605 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 606 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 607 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -633,7 +633,7 @@
 | 631 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 632 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 633 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
-| 634 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 634 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 635 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 636 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 637 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -661,12 +661,12 @@
 | 659 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 660 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 661 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 662 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
+| 662 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 663 | [Torchlight](games/t/torchlight.md) | 4.43 | 
 | 664 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 665 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 666 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 667 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 667 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 668 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 669 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 670 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
@@ -676,7 +676,7 @@
 | 674 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 675 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 676 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 677 | [Train Valley](games/t/train_valley.md) | 4.39 | 
+| 677 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 678 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 679 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 680 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
