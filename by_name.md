@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
@@ -89,10 +89,10 @@
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
-| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -176,7 +176,7 @@
 | 174 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 175 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 176 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
-| 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
 | 178 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 179 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 180 | [DOOM 3](games/d/doom_3.md) | 4.69 | 

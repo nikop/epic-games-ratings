@@ -147,18 +147,18 @@
 | 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 147 | [Fez](games/f/fez.md) | 4.72 | 
-| 148 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 149 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 150 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 151 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 155 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 157 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 158 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 159 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 149 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 152 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 154 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 155 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 156 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 157 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 158 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 159 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
 | 160 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 161 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 162 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -620,12 +620,12 @@
 | 618 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 619 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 620 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
-| 621 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 622 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 623 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 624 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 625 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 626 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 621 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 622 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 623 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 624 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 626 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 627 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 628 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -674,12 +674,12 @@
 | 672 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 673 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 674 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 675 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 676 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 677 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 678 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 679 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 680 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 675 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 676 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 677 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 678 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 679 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 680 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 681 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 682 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.18 | 
 | 683 | [Windbound](games/w/windbound.md) | 4.17 | 
@@ -734,8 +734,8 @@
 | 732 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 733 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 734 | [Patron](games/p/patron.md) | 3.91 | 
-| 735 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 736 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 735 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 736 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 737 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 738 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 739 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
