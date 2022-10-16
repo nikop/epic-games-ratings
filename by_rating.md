@@ -145,18 +145,18 @@
 | 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 146 | [Fez](games/f/fez.md) | 4.72 | 
-| 147 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 149 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 152 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 154 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 155 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 156 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 157 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 147 | [Fez](games/f/fez.md) | 4.72 | 
+| 148 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 149 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 150 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 151 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 155 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 157 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 158 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 159 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 160 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -290,27 +290,27 @@
 | 288 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 289 | [Prey](games/p/prey.md) | 4.61 | 
 | 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 291 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 292 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 296 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
-| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 301 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 302 | [GRIME](games/g/grime.md) | 4.61 | 
-| 303 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 304 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 305 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 306 | [Control](games/c/control.md) | 4.60 | 
-| 307 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 308 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 309 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 310 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 311 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 291 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 295 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.61 | 
+| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 300 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 301 | [GRIME](games/g/grime.md) | 4.61 | 
+| 302 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 303 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 305 | [Control](games/c/control.md) | 4.60 | 
+| 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 310 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 311 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 312 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 313 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 314 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -321,22 +321,22 @@
 | 319 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 320 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 321 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 322 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 323 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 324 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 325 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 326 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 327 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 328 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 329 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 330 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 331 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 332 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 333 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 334 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 336 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 337 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 
+| 322 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 323 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 324 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 325 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 326 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 327 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 329 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 330 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 331 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 332 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 333 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 334 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 335 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 336 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 337 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
 | 338 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 339 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 340 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
