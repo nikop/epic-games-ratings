@@ -143,7 +143,7 @@
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
@@ -255,7 +255,7 @@
 | 253 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 254 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 255 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 256 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 256 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 257 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
 | 258 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 259 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 
@@ -427,7 +427,7 @@
 | 425 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 426 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 427 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 428 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 428 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 429 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 430 | [Parkitect](games/p/parkitect.md) | 4.39 | 
 | 431 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
@@ -608,7 +608,7 @@
 | 606 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 607 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 608 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 609 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 609 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 610 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 611 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 612 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
@@ -666,7 +666,7 @@
 | 664 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 665 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 666 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
+| 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
 | 668 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 669 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 670 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
