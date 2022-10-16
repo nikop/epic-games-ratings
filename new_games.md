@@ -9,7 +9,7 @@
 | 7 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 8 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 9 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 10 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
+| 10 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 11 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 12 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
 | 13 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
