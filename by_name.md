@@ -387,7 +387,7 @@
 | 385 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 386 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 387 | [MythForce](games/m/mythforce.md) | 4.54 | 
-| 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 389 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 390 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
 | 391 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -475,7 +475,7 @@
 | 473 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 474 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 475 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 476 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 
+| 476 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 477 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 478 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 479 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
@@ -565,7 +565,7 @@
 | 563 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 564 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 565 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 566 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.39 | 
+| 566 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 567 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 568 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 569 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -603,7 +603,7 @@
 | 601 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 602 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 603 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 604 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 604 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 605 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.73 | 
 | 606 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 607 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
