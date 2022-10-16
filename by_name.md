@@ -385,7 +385,7 @@
 | 383 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 384 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 385 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 386 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 386 | [MythForce](games/m/mythforce.md) | 4.54 | 
 | 387 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 388 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 389 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.15 | 
@@ -677,7 +677,7 @@
 | 675 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 676 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 677 | [Train Valley](games/t/train_valley.md) | 4.39 | 
-| 678 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 678 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 679 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 680 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 681 | [Travellers Rest](games/t/travellers_rest.md) | 4.53 | 

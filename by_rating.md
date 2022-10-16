@@ -402,17 +402,17 @@
 | 400 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 401 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 402 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 403 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 404 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
-| 405 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 406 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 407 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
-| 408 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 410 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 411 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 412 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 413 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 403 | [MythForce](games/m/mythforce.md) | 4.54 | 
+| 404 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 405 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
+| 406 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 407 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 408 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
+| 409 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 410 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 411 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 412 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 413 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 414 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 415 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 416 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
@@ -706,11 +706,11 @@
 | 704 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 706 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 708 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 709 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 710 | [Lake](games/l/lake.md) | 4.08 | 
-| 711 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 707 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 708 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 709 | [Lake](games/l/lake.md) | 4.08 | 
+| 710 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 711 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 712 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 
 | 713 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 714 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
