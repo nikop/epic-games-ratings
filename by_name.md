@@ -85,7 +85,7 @@
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
@@ -663,7 +663,7 @@
 | 661 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 662 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 663 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 664 | [Torchlight](games/t/torchlight.md) | 4.43 | 
+| 664 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 665 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 666 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 

@@ -95,12 +95,12 @@
 | 93 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 94 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 95 | [Haven](games/h/haven.md) | 4.78 | 
-| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 97 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 99 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 96 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 98 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
+| 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 103 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 104 | [Journey](games/j/journey.md) | 4.76 | 
@@ -523,19 +523,19 @@
 | 521 | [Observation](games/o/observation.md) | 4.44 | 
 | 522 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 523 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 524 | [Torchlight](games/t/torchlight.md) | 4.43 | 
-| 525 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 526 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 527 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 528 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 529 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 530 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 531 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 532 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 533 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 534 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 535 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 536 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 524 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 525 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 526 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 527 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 528 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 529 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 530 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 531 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 532 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 534 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 535 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 536 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 537 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
 | 539 | [Othercide](games/o/othercide.md) | 4.42 | 
