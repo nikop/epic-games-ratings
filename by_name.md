@@ -167,7 +167,7 @@
 | 165 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 166 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 167 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 168 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 168 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 169 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 170 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 171 | [Diabotical](games/d/diabotical.md) | 4.80 | 

@@ -272,18 +272,18 @@
 | 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 271 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 274 | [RiME](games/r/rime.md) | 4.63 | 
-| 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 276 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 277 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 278 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 283 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 284 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 273 | [RiME](games/r/rime.md) | 4.63 | 
+| 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 275 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 276 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 277 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 278 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 279 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 282 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 283 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 284 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 285 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 286 | [GRIME](games/g/grime.md) | 4.62 | 
 | 287 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
