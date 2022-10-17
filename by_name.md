@@ -12,7 +12,7 @@
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
@@ -55,7 +55,7 @@
 | 53 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.48 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.34 | 
@@ -429,7 +429,7 @@
 | 427 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 428 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 429 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 430 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 430 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 431 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 432 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 433 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
