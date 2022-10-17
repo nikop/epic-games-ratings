@@ -18,7 +18,7 @@
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
-| 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 20 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
 | 22 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -80,7 +80,7 @@
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 81 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
@@ -198,7 +198,7 @@
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
@@ -374,7 +374,7 @@
 | 372 | [Minit](games/m/minit.md) | 4.52 | 
 | 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 374 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
+| 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 376 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 378 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -572,7 +572,7 @@
 | 570 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 571 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 572 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 573 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
+| 573 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 
 | 574 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 575 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
 | 576 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
@@ -712,7 +712,7 @@
 | 710 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 711 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
 | 712 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 713 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 713 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 714 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 715 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 716 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
