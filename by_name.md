@@ -132,7 +132,7 @@
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
+| 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
@@ -174,7 +174,7 @@
 | 172 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 173 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 174 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 175 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 175 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 176 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
 | 178 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
@@ -202,7 +202,7 @@
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 203 | [Faeria](games/f/faeria.md) | 4.40 | 
+| 203 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 205 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 206 | [Far Cry](games/f/far_cry.md) | 4.37 | 
@@ -600,7 +600,7 @@
 | 598 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 600 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 602 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
@@ -610,7 +610,7 @@
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 609 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 610 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 611 | [The Fall](games/t/the_fall.md) | 4.25 | 
+| 611 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 612 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 613 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
 | 614 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
@@ -665,7 +665,7 @@
 | 663 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 664 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 665 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 666 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 666 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 667 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 668 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
 | 669 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
