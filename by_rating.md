@@ -137,17 +137,17 @@
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 141 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
-| 142 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 147 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 148 | [Fez](games/f/fez.md) | 4.72 | 
+| 138 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 140 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 146 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 147 | [Fez](games/f/fez.md) | 4.72 | 
+| 148 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 149 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -160,22 +160,22 @@
 | 158 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 159 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 160 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 161 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 162 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 163 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 164 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 165 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 166 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 167 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 168 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 169 | [Barony](games/b/barony.md) | 4.70 | 
-| 170 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 171 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 174 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 175 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 176 | [Rayman Origins](games/r/rayman_origins.md) | 4.70 | 
+| 161 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
+| 162 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 163 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 166 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 167 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 168 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 169 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 170 | [Barony](games/b/barony.md) | 4.70 | 
+| 171 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 172 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 173 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 174 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 175 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 176 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
 | 177 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
 | 178 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 179 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -357,18 +357,18 @@
 | 355 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
 | 356 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 357 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
-| 358 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
-| 359 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 360 | [Scorn](games/s/scorn.md) | 4.58 | 
-| 361 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 365 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 369 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
+| 358 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
+| 359 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
+| 360 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 361 | [Scorn](games/s/scorn.md) | 4.58 | 
+| 362 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 363 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 366 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 370 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 371 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
 | 372 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
@@ -595,26 +595,26 @@
 | 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 594 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 595 | [ELEX](games/e/elex.md) | 4.36 | 
-| 596 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 
-| 597 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 598 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 599 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 600 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 601 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 602 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 603 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 604 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 605 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 606 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 607 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 608 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 609 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 610 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 611 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 612 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 613 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 614 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 615 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 596 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 597 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 598 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 599 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 600 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 601 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 602 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 603 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 604 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 605 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 606 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 607 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 608 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
+| 610 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 611 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 612 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 613 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 614 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
 | 616 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 617 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 618 | [Automachef](games/a/automachef.md) | 4.32 | 
