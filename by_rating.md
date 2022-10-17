@@ -106,15 +106,15 @@
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 105 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 106 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 107 | [Journey](games/j/journey.md) | 4.76 | 
-| 108 | [Haven](games/h/haven.md) | 4.76 | 
-| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 115 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 107 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 108 | [Journey](games/j/journey.md) | 4.76 | 
+| 109 | [Haven](games/h/haven.md) | 4.76 | 
+| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
@@ -485,13 +485,13 @@
 | 483 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
 | 484 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 485 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 486 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 487 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 488 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 489 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 490 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 491 | [SMITE](games/s/smite.md) | 4.46 | 
-| 492 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 486 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 487 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 488 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 489 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 491 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 492 | [SMITE](games/s/smite.md) | 4.46 | 
 | 493 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 494 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 495 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
@@ -631,15 +631,15 @@
 | 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 630 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 631 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
-| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 633 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
-| 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 635 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 636 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 637 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 638 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 639 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 640 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 632 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 634 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 635 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 636 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 637 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 638 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 639 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 640 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 641 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 642 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
 | 643 | [EVE Online](games/e/eve_online.md) | 4.27 | 
@@ -680,9 +680,9 @@
 | 678 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 679 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 680 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 681 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 682 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 683 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 681 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 682 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 683 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 684 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 685 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 686 | [Family Man](games/f/family_man.md) | 4.17 | 

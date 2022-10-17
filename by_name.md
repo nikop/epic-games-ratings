@@ -161,7 +161,7 @@
 | 159 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 160 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 161 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 162 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 162 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 163 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 164 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
 | 165 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -613,7 +613,7 @@
 | 611 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 612 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 613 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
-| 614 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 614 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 615 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 616 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 617 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
@@ -633,7 +633,7 @@
 | 631 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 632 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 633 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 634 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 634 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 635 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
 | 636 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 637 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
@@ -734,7 +734,7 @@
 | 732 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 733 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 734 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 735 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 735 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 736 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 737 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 738 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
