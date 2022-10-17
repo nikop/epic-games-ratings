@@ -291,25 +291,25 @@
 | 289 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 290 | [Prey](games/p/prey.md) | 4.61 | 
 | 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 292 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 293 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 294 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 295 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 296 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 297 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 298 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 299 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 300 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 301 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 302 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 303 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 304 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 305 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 306 | [Control](games/c/control.md) | 4.60 | 
-| 307 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 308 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 309 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 310 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 292 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 293 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 294 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 295 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 296 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 298 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 301 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 302 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 303 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 305 | [Control](games/c/control.md) | 4.60 | 
+| 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 310 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 311 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -475,12 +475,12 @@
 | 473 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 474 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 475 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 476 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 477 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 478 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 479 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 480 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
-| 481 | [Aztez](games/a/aztez.md) | 4.48 | 
+| 476 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 477 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 478 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 479 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 480 | [Aztez](games/a/aztez.md) | 4.48 | 
+| 481 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 482 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
 | 483 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 484 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 

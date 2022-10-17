@@ -432,7 +432,7 @@
 | 430 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 431 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 432 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 433 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 433 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 434 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 435 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 436 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -603,7 +603,7 @@
 | 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 602 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.66 | 
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
