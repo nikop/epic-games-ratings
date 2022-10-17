@@ -1,11 +1,11 @@
 {
   "ID": "7d0c3bf3b31e4ff5b27eab81fb255ca0",
   "Name": "Parkitect",
-  "Rating": 4.39,
+  "Rating": 4.38,
   "NumberOfRatings": 21,
   "FirstSeen": "2022-07-22T20:20:38.7062522+00:00",
   "FirstSeenRating": "2022-09-10T02:30:45.9660634+00:00",
-  "LastChanged": "2022-10-14T02:00:49.9304177+00:00",
+  "LastChanged": "2022-10-17T02:30:46.4686455+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-10T02:30:45.9660638+00:00",
@@ -25,6 +25,11 @@
     {
       "Time": "2022-10-14T02:00:49.9304182+00:00",
       "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-17T02:30:46.4686457+00:00",
+      "Rating": 4.38,
       "NumberOfRatings": null
     }
   ],

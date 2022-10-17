@@ -122,16 +122,16 @@
 | 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
-| 124 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 123 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 132 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -147,17 +147,17 @@
 | 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 146 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 147 | [Fez](games/f/fez.md) | 4.72 | 
-| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 149 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 153 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 154 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 155 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 156 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 157 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 158 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
+| 148 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 149 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 152 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 153 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 154 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 156 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 157 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
+| 158 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 159 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 160 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 161 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -320,21 +320,21 @@
 | 318 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 319 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 320 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 321 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 322 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 323 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 324 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 325 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 326 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 327 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 328 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 329 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 330 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 331 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 332 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 333 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 334 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 335 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 321 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 322 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 323 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 324 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 325 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 326 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 327 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 328 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 329 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 330 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 331 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 332 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 333 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 334 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 335 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 336 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 337 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
 | 338 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
@@ -568,17 +568,17 @@
 | 566 | [Encased](games/e/encased.md) | 4.39 | 
 | 567 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 568 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 569 | [Parkitect](games/p/parkitect.md) | 4.39 | 
-| 570 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 571 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 572 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 573 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 574 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
-| 575 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 578 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 569 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 570 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
+| 574 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
+| 576 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 577 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 578 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 579 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 581 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 582 | [House Party](games/h/house_party.md) | 4.37 | 

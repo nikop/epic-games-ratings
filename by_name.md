@@ -429,8 +429,8 @@
 | 427 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 428 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 429 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 430 | [Parkitect](games/p/parkitect.md) | 4.39 | 
-| 431 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 430 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 431 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 432 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 433 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 434 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
@@ -648,7 +648,7 @@
 | 646 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 647 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 648 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 649 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 649 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 650 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 651 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 652 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
@@ -666,7 +666,7 @@
 | 664 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 665 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 666 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
+| 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
 | 668 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 669 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 670 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
