@@ -13,7 +13,7 @@
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
-| 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 14 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -179,7 +179,7 @@
 | 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
 | 178 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 179 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 180 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 180 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 181 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 182 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 183 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -235,7 +235,7 @@
 | 233 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 234 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 235 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 236 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 236 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 237 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 238 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 239 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -456,7 +456,7 @@
 | 454 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 455 | [Quake](games/q/quake.md) | 4.80 | 
 | 456 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 457 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 457 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 458 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 459 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 460 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 

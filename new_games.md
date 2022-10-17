@@ -8,7 +8,7 @@
 | 6 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
 | 7 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 8 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 9 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 9 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 10 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 11 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 12 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
@@ -33,7 +33,7 @@
 | 31 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 32 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 33 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 34 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 34 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 36 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 37 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
