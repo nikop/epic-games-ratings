@@ -111,7 +111,7 @@
 | 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 110 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 112 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
@@ -256,7 +256,7 @@
 | 254 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 255 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 256 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 257 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 257 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 258 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 259 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 
 | 260 | [Griftlands](games/g/griftlands.md) | 4.80 | 
@@ -650,7 +650,7 @@
 | 648 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 649 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 650 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
-| 651 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 651 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 652 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 653 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 654 | [Timberborn](games/t/timberborn.md) | 4.69 | 

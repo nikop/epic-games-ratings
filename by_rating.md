@@ -237,21 +237,21 @@
 | 235 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 236 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 237 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 238 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.66 | 
-| 239 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 240 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 241 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 242 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 243 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 244 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 245 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 246 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 247 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 249 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
-| 250 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 251 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 252 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 238 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 239 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.66 | 
+| 240 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 241 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 242 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 243 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 244 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 247 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 248 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 249 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 250 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 251 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 252 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 253 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 254 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 255 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -654,8 +654,8 @@
 | 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 653 | [Tharsis](games/t/tharsis.md) | 4.26 | 
 | 654 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 655 | [The Fall](games/t/the_fall.md) | 4.25 | 
-| 656 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 655 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 656 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 657 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 659 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
@@ -688,14 +688,14 @@
 | 686 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 687 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 688 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 689 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 690 | [Pine](games/p/pine.md) | 4.14 | 
-| 691 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
-| 692 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
-| 693 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
-| 694 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 695 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 696 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.13 | 
+| 689 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 690 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 691 | [Pine](games/p/pine.md) | 4.14 | 
+| 692 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
+| 693 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
+| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 695 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 696 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 697 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 698 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 699 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
