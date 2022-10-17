@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -668,7 +668,7 @@
 | 666 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 667 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 668 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
-| 669 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 669 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 670 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 671 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 672 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
