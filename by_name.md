@@ -167,7 +167,7 @@
 | 165 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 166 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 167 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 168 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 168 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 169 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 170 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 171 | [Diabotical](games/d/diabotical.md) | 4.80 | 
@@ -372,7 +372,7 @@
 | 370 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 371 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 372 | [Minit](games/m/minit.md) | 4.53 | 
-| 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 374 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 376 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
@@ -477,7 +477,7 @@
 | 475 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 476 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 477 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 478 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
+| 478 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 479 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 480 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 481 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -612,7 +612,7 @@
 | 610 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 611 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 612 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 613 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 613 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
 | 614 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 615 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 616 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -656,7 +656,7 @@
 | 654 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 655 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 656 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 657 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 657 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
 | 658 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.91 | 
 | 659 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 660 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
