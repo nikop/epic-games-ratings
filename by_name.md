@@ -76,7 +76,7 @@
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
@@ -209,7 +209,7 @@
 | 207 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 208 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
 | 209 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 210 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 210 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 211 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 212 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 213 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
@@ -403,7 +403,7 @@
 | 401 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 402 | [NORCO](games/n/norco.md) | 4.55 | 
 | 403 | [Northgard](games/n/northgard.md) | 4.78 | 
-| 404 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.67 | 
+| 404 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 405 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 406 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 407 | [Observation](games/o/observation.md) | 4.44 | 
