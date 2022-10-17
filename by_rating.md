@@ -270,17 +270,17 @@
 | 268 | [Old World](games/o/old_world.md) | 4.63 | 
 | 269 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 271 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 273 | [RiME](games/r/rime.md) | 4.63 | 
-| 274 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 275 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 276 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 277 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 278 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 279 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 272 | [RiME](games/r/rime.md) | 4.63 | 
+| 273 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 274 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 275 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 277 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 278 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 279 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 280 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 281 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 282 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 283 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 284 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
@@ -366,16 +366,16 @@
 | 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 366 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 367 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 372 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
-| 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 374 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 370 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 371 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
+| 372 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 373 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 376 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 378 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 379 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
@@ -635,20 +635,20 @@
 | 633 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 634 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 635 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 636 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 637 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 638 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 639 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 640 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
-| 641 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
-| 642 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 643 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 644 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 645 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 646 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 647 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 648 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 649 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 636 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 637 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 638 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 639 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 640 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 641 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 642 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 643 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 644 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 645 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 646 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 647 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 648 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 649 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 650 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
 | 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 652 | [Tharsis](games/t/tharsis.md) | 4.26 | 

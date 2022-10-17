@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 43 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 48 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
@@ -347,7 +347,7 @@
 | 345 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 346 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 347 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
-| 348 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 348 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 349 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 350 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 351 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
@@ -557,7 +557,7 @@
 | 555 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 556 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 557 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 558 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 558 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 559 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 560 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
 | 561 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
