@@ -58,7 +58,7 @@
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
 | 57 | [Aztez](games/a/aztez.md) | 4.48 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 59 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 59 | [Backbone](games/b/backbone.md) | 4.34 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 61 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 62 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
@@ -91,7 +91,7 @@
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 92 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
@@ -304,7 +304,7 @@
 | 302 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 303 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 304 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 305 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 305 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 306 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 307 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 308 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 

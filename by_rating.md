@@ -44,14 +44,14 @@
 | 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 43 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 45 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 47 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 48 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 49 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 52 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
+| 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 46 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 48 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
+| 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -596,22 +596,22 @@
 | 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 597 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 599 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 600 | [House Party](games/h/house_party.md) | 4.35 | 
-| 601 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 602 | [ELEX](games/e/elex.md) | 4.35 | 
-| 603 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 604 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
-| 605 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 606 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 607 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 608 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
-| 610 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 611 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 612 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 597 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 598 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 599 | [House Party](games/h/house_party.md) | 4.35 | 
+| 600 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 601 | [ELEX](games/e/elex.md) | 4.35 | 
+| 602 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 603 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 604 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 605 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 606 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 607 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 608 | [Mortal Shell](games/m/mortal_shell.md) | 4.34 | 
+| 609 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 610 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 611 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 612 | [Backbone](games/b/backbone.md) | 4.34 | 
 | 613 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 614 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
@@ -735,8 +735,8 @@
 | 733 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 734 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 735 | [Patron](games/p/patron.md) | 3.91 | 
-| 736 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 737 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
+| 736 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
+| 737 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 738 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 739 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 740 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
