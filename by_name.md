@@ -516,7 +516,7 @@
 | 514 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 515 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 516 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 517 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 517 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 518 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 519 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 520 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
@@ -605,7 +605,7 @@
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.66 | 
+| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 609 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -695,7 +695,7 @@
 | 693 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 694 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 695 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 696 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
+| 696 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 697 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 698 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 699 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
