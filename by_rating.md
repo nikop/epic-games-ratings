@@ -101,16 +101,16 @@
 | 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 102 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 103 | [Journey](games/j/journey.md) | 4.76 | 
-| 104 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 105 | [Haven](games/h/haven.md) | 4.76 | 
-| 106 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 107 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 108 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 109 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 111 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 103 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 104 | [Journey](games/j/journey.md) | 4.76 | 
+| 105 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 106 | [Haven](games/h/haven.md) | 4.76 | 
+| 107 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 112 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
@@ -180,19 +180,19 @@
 | 178 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 179 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 180 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 181 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 182 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 183 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 184 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 185 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 186 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 187 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 188 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 191 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
-| 192 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 193 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 181 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 182 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 184 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 185 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 186 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 187 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 190 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
+| 191 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 192 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 193 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 195 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 196 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -634,14 +634,14 @@
 | 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 633 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 635 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 636 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 637 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 638 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 639 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 640 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 641 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 642 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 635 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 636 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 637 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 638 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 639 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 640 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 641 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 642 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
 | 643 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
 | 644 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 645 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 

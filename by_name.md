@@ -101,7 +101,7 @@
 | 99 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 105 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -196,7 +196,7 @@
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 195 | [Encased](games/e/encased.md) | 4.39 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
@@ -523,7 +523,7 @@
 | 521 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 522 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 523 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 524 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 524 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 525 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 526 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 527 | [Slipways](games/s/slipways.md) | 4.72 | 
