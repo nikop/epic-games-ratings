@@ -713,9 +713,9 @@
 | 711 | [Lake](games/l/lake.md) | 4.08 | 
 | 712 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 713 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 714 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 
-| 715 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
-| 716 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 714 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
+| 715 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 716 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 717 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 718 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 719 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
