@@ -200,7 +200,7 @@
 | 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
-| 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 203 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -336,7 +336,7 @@
 | 334 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 335 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 336 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 337 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 337 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 338 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 339 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 340 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
@@ -624,7 +624,7 @@
 | 622 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 623 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 624 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 625 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 625 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 626 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 627 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
 | 628 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
@@ -657,7 +657,7 @@
 | 655 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 656 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 657 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 658 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
+| 658 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.91 | 
 | 659 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 660 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 661 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
@@ -703,7 +703,7 @@
 | 701 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 702 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 703 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 704 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 704 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 705 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 706 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 707 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -740,7 +740,7 @@
 | 738 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 739 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 740 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 741 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 741 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 742 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 743 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 744 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
