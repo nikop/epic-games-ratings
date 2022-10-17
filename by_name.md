@@ -15,7 +15,7 @@
 | 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 17 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 18 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 19 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
@@ -76,7 +76,7 @@
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
@@ -279,7 +279,7 @@
 | 277 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 279 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 280 | [Hob](games/h/hob.md) | 4.58 | 
+| 280 | [Hob](games/h/hob.md) | 4.59 | 
 | 281 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 282 | [Horace](games/h/horace.md) | 4.55 | 
 | 283 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -323,7 +323,7 @@
 | 321 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 322 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 323 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 324 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
+| 324 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
 | 325 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 326 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 327 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
@@ -597,7 +597,7 @@
 | 595 | [Tharsis](games/t/tharsis.md) | 4.26 | 
 | 596 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 597 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 598 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 598 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 600 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
@@ -605,7 +605,7 @@
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
+| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 609 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
