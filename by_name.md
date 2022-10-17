@@ -514,7 +514,7 @@
 | 512 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 513 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 514 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 515 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 515 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 516 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 517 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 518 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
@@ -609,7 +609,7 @@
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 609 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 610 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 610 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 611 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 612 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 613 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
@@ -722,7 +722,7 @@
 | 720 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
 | 721 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 722 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 724 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 725 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 726 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 

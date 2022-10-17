@@ -145,16 +145,16 @@
 | 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 146 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 147 | [Fez](games/f/fez.md) | 4.72 | 
-| 148 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 149 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 152 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 153 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 154 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 147 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 148 | [Fez](games/f/fez.md) | 4.72 | 
+| 149 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 153 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 154 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 155 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 156 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 157 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
 | 158 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
@@ -533,16 +533,16 @@
 | 531 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 532 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 534 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 535 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 536 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 537 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
-| 539 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 540 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 541 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 542 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 543 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 534 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 535 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 536 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 537 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 538 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 539 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
+| 540 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 542 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 543 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 544 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 545 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 546 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
@@ -704,11 +704,11 @@
 | 702 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 703 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 704 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 705 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 706 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 707 | [Godlike Burger](games/g/godlike_burger.md) | 4.10 | 
-| 708 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 709 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 706 | [Godlike Burger](games/g/godlike_burger.md) | 4.10 | 
+| 707 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 708 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 709 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 710 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 711 | [Lake](games/l/lake.md) | 4.08 | 
 | 712 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
