@@ -108,7 +108,7 @@
 | 106 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 107 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 108 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 110 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
@@ -191,7 +191,7 @@
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 191 | [ELEX](games/e/elex.md) | 4.36 | 
-| 192 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 192 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 193 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 195 | [Encased](games/e/encased.md) | 4.39 | 

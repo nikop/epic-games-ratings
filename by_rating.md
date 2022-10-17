@@ -649,12 +649,12 @@
 | 647 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 648 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 649 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 650 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 651 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
-| 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 653 | [Tharsis](games/t/tharsis.md) | 4.26 | 
-| 654 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 655 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 650 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
+| 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 652 | [Tharsis](games/t/tharsis.md) | 4.26 | 
+| 653 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 654 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 655 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 656 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 657 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
@@ -662,9 +662,9 @@
 | 660 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 661 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 662 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 663 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 664 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 663 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 665 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 666 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 
 | 667 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 668 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
