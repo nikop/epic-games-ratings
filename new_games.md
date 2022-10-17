@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Scorn](games/s/scorn.md) | 4.58 | 
 | 2 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
-| 3 | [Darkwood](games/d/darkwood.md) | 4.51 | 
+| 3 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 4 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 5 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 6 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.66 | 
