@@ -96,15 +96,15 @@
 | 94 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 96 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
-| 97 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 98 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 103 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 104 | [Journey](games/j/journey.md) | 4.76 | 
-| 105 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 97 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 99 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 104 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
+| 105 | [Journey](games/j/journey.md) | 4.76 | 
 | 106 | [Haven](games/h/haven.md) | 4.76 | 
 | 107 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -621,18 +621,18 @@
 | 619 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 620 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
 | 621 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 622 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 623 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 624 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 626 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 627 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 628 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 630 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 631 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
-| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 633 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 622 | [Lamentum](games/l/lamentum.md) | 4.32 | 
+| 623 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 624 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 625 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 626 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 627 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 628 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 629 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 630 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 631 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
+| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 634 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 635 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 636 | [Rage 2](games/r/rage_2.md) | 4.28 | 

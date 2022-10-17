@@ -1,10 +1,10 @@
 {
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
-  "Rating": 4.29,
+  "Rating": 4.32,
   "FirstSeen": "2022-07-22T20:26:03.7136517+00:00",
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
-  "LastChanged": "2022-10-06T03:02:18.942911+00:00",
+  "LastChanged": "2022-10-17T05:01:33.1430323+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-04T02:32:44.3620859+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-10-06T03:02:18.9429113+00:00",
       "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-17T05:01:33.1430326+00:00",
+      "Rating": 4.32,
       "NumberOfRatings": null
     }
   ],

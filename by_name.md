@@ -312,12 +312,12 @@
 | 310 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 311 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 312 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 313 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 313 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 314 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 315 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 316 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
 | 317 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 318 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 318 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 319 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 320 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 321 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
@@ -333,7 +333,7 @@
 | 331 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 332 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 333 | [Lake](games/l/lake.md) | 4.08 | 
-| 334 | [Lamentum](games/l/lamentum.md) | 4.29 | 
+| 334 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 335 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 336 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 337 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
