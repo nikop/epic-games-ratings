@@ -505,14 +505,14 @@
 | 503 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 504 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 505 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 506 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 507 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 508 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 509 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 510 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 511 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 512 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 513 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 506 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 507 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 508 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 509 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 511 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 512 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 513 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 514 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 515 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 516 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
@@ -611,15 +611,15 @@
 | 609 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 610 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 611 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 612 | [Backbone](games/b/backbone.md) | 4.34 | 
-| 613 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 614 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
-| 616 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 617 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 618 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 619 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 620 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
+| 612 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 613 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 614 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 615 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 616 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
+| 617 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 618 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 619 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 620 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 621 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 622 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 623 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 

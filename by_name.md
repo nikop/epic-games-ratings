@@ -435,7 +435,7 @@
 | 433 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
 | 434 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 435 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 436 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 436 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 437 | [Patron](games/p/patron.md) | 3.91 | 
 | 438 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
 | 439 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
@@ -556,7 +556,7 @@
 | 554 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 555 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 556 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 557 | [Startup Panic](games/s/startup_panic.md) | 4.32 | 
+| 557 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
 | 558 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 559 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 560 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
