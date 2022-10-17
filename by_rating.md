@@ -20,9 +20,9 @@
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 20 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 21 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 21 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
+| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 23 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 24 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 25 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 26 | [Black Book](games/b/black_book.md) | 4.86 | 
@@ -108,20 +108,20 @@
 | 106 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 107 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 108 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
-| 111 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 114 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 115 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 117 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 119 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 120 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 121 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 109 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 111 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 112 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 115 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 123 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
 | 124 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
@@ -365,16 +365,16 @@
 | 363 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 366 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
-| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 370 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 371 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
-| 372 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 373 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 366 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 370 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
+| 371 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 372 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 373 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 374 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 375 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 376 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 378 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
@@ -419,23 +419,23 @@
 | 417 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 418 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 419 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 420 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 421 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 422 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 423 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 424 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 425 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 427 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 428 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 429 | [Minit](games/m/minit.md) | 4.52 | 
-| 430 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 431 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 432 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 434 | [Sable](games/s/sable.md) | 4.52 | 
-| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 420 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 421 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 422 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 423 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 424 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 426 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 427 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 428 | [Minit](games/m/minit.md) | 4.52 | 
+| 429 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 430 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 431 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 432 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 433 | [Sable](games/s/sable.md) | 4.52 | 
+| 434 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 436 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 437 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 438 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 439 | [Verdun](games/v/verdun.md) | 4.51 | 

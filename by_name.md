@@ -113,7 +113,7 @@
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
 | 112 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.57 | 
+| 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
 | 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
@@ -175,7 +175,7 @@
 | 173 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 174 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 175 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 176 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.74 | 
+| 176 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
 | 178 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 179 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
@@ -455,7 +455,7 @@
 | 453 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 454 | [Quake](games/q/quake.md) | 4.80 | 
 | 455 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 456 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 456 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 457 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 458 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 459 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
@@ -592,7 +592,7 @@
 | 590 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 591 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 592 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 593 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 593 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
 | 594 | [Tharsis](games/t/tharsis.md) | 4.26 | 
 | 595 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 596 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
