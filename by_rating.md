@@ -485,13 +485,13 @@
 | 483 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
 | 484 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 485 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 486 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 487 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 488 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 489 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 491 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 492 | [SMITE](games/s/smite.md) | 4.46 | 
+| 486 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 487 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 488 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 489 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 490 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 491 | [SMITE](games/s/smite.md) | 4.46 | 
+| 492 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 493 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 494 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 495 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
