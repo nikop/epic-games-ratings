@@ -659,10 +659,10 @@
 | 657 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 659 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
-| 660 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 661 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 662 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 663 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 660 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 661 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 662 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 663 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 665 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 666 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 
