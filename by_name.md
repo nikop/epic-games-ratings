@@ -56,7 +56,7 @@
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 57 | [Aztez](games/a/aztez.md) | 4.47 | 
+| 57 | [Aztez](games/a/aztez.md) | 4.48 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -197,7 +197,7 @@
 | 195 | [Encased](games/e/encased.md) | 4.39 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 198 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -322,7 +322,7 @@
 | 320 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 321 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 322 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 323 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 323 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 324 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.68 | 
 | 325 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 326 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -330,7 +330,7 @@
 | 328 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 329 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 330 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 331 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 331 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 332 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
 | 333 | [Lake](games/l/lake.md) | 4.08 | 
 | 334 | [Lamentum](games/l/lamentum.md) | 4.29 | 
@@ -672,7 +672,7 @@
 | 670 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 671 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 672 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 673 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
+| 673 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 674 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 675 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 676 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -719,7 +719,7 @@
 | 717 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 719 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
-| 720 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 720 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 721 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 722 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 723 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 

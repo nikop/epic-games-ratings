@@ -191,17 +191,17 @@
 | 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 191 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
-| 192 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
-| 193 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 194 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 195 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 196 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 197 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 198 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 199 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 200 | [SOMA](games/s/soma.md) | 4.68 | 
-| 201 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 202 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 192 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 193 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
+| 194 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 195 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 196 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 197 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 198 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 199 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 200 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 201 | [SOMA](games/s/soma.md) | 4.68 | 
+| 202 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 203 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
 | 204 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 205 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
@@ -370,18 +370,18 @@
 | 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 371 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 372 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 373 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
-| 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 375 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 376 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 377 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 378 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 379 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 380 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 381 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 382 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 372 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
+| 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 374 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 378 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 379 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 380 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 381 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 382 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 383 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 384 | [Breathedge](games/b/breathedge.md) | 4.56 | 
 | 385 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
@@ -479,15 +479,15 @@
 | 477 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 478 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 479 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
-| 480 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
-| 481 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 482 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 483 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 484 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 485 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 486 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 487 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 488 | [Aztez](games/a/aztez.md) | 4.47 | 
+| 480 | [Aztez](games/a/aztez.md) | 4.48 | 
+| 481 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
+| 482 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 483 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
+| 484 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 485 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 486 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 487 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 488 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 489 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 490 | [SMITE](games/s/smite.md) | 4.46 | 
 | 491 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -558,14 +558,14 @@
 | 556 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 557 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 558 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
-| 559 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 560 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 561 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 562 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 563 | [Core](games/c/core.md) | 4.39 | 
-| 564 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 565 | [Encased](games/e/encased.md) | 4.39 | 
-| 566 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 
+| 559 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 560 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
+| 561 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 562 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 563 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 564 | [Core](games/c/core.md) | 4.39 | 
+| 565 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 566 | [Encased](games/e/encased.md) | 4.39 | 
 | 567 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 568 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 569 | [Parkitect](games/p/parkitect.md) | 4.39 | 
@@ -634,14 +634,14 @@
 | 632 | [Lamentum](games/l/lamentum.md) | 4.29 | 
 | 633 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 634 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 635 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 636 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
-| 637 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 638 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 639 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
-| 640 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 641 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
-| 642 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 635 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 636 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 637 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 638 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 639 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 640 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 641 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.27 | 
+| 642 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 643 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 644 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 645 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
@@ -660,10 +660,10 @@
 | 658 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 659 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 660 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 661 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 
-| 662 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 663 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 664 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 661 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 662 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 663 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 665 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 666 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 667 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
