@@ -462,7 +462,7 @@
 | 460 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 461 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 462 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
-| 463 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
+| 463 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 464 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 465 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 466 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
