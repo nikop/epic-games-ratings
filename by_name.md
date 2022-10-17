@@ -83,7 +83,7 @@
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 

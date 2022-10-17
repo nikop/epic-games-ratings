@@ -610,12 +610,12 @@
 | 608 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 609 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 610 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 611 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 612 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 613 | [Backbone](games/b/backbone.md) | 4.34 | 
-| 614 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 615 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 616 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
+| 611 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 612 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 613 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 614 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
+| 616 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 617 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 618 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 619 | [Automachef](games/a/automachef.md) | 4.32 | 
