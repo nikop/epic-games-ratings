@@ -51,7 +51,7 @@
 | 49 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 51 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 52 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 53 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
@@ -137,7 +137,7 @@
 | 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
@@ -713,7 +713,7 @@
 | 711 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 712 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 713 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 714 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 714 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 715 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 716 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 717 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 

@@ -358,34 +358,34 @@
 | 356 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 357 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.58 | 
 | 358 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
-| 359 | [Warpips](games/w/warpips.md) | 4.58 | 
-| 360 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 361 | [Scorn](games/s/scorn.md) | 4.58 | 
-| 362 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 363 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 366 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 370 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
-| 371 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 372 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 373 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 374 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 375 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 376 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 378 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 379 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 380 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 381 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 382 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 383 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 384 | [Breathedge](games/b/breathedge.md) | 4.56 | 
-| 385 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
-| 386 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 359 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 360 | [Scorn](games/s/scorn.md) | 4.58 | 
+| 361 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 365 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 369 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 
+| 370 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 371 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 372 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 373 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 374 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 375 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 377 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 378 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 379 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 380 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 381 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 382 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 383 | [Breathedge](games/b/breathedge.md) | 4.56 | 
+| 384 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
+| 385 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 386 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 387 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 388 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 389 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -411,17 +411,17 @@
 | 409 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 410 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 411 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 412 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 413 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 414 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 415 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 417 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 418 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 419 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 420 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 421 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 422 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 412 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 414 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 415 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 416 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 418 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 419 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 420 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 421 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 422 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 423 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 424 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
@@ -570,16 +570,16 @@
 | 568 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 569 | [Parkitect](games/p/parkitect.md) | 4.39 | 
 | 570 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
-| 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
-| 574 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 576 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 577 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 578 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 579 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 580 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 571 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 572 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 573 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 574 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
+| 575 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
+| 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 578 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 581 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 582 | [House Party](games/h/house_party.md) | 4.37 | 
 | 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
