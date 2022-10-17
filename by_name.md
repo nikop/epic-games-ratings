@@ -219,7 +219,7 @@
 | 217 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
 | 218 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 219 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 220 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 220 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 221 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 222 | [Fez](games/f/fez.md) | 4.72 | 
 | 223 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
@@ -346,7 +346,7 @@
 | 344 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 345 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 346 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 347 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 3.99 | 
+| 347 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 348 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 349 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 350 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -503,7 +503,7 @@
 | 501 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 502 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 503 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 504 | [Scorn](games/s/scorn.md) | 4.58 | 
+| 504 | [Scorn](games/s/scorn.md) | 4.62 | 
 | 505 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 506 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 507 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -571,7 +571,7 @@
 | 569 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 570 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 571 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 572 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 572 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 573 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 
 | 574 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 575 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
