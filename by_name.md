@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.52 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.53 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -187,7 +187,7 @@
 | 185 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 186 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 188 | [Eastward](games/e/eastward.md) | 4.65 | 
+| 188 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
 | 191 | [ELEX](games/e/elex.md) | 4.36 | 
@@ -275,7 +275,7 @@
 | 273 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 274 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 275 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 277 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 279 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -379,7 +379,7 @@
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 378 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 379 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 380 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 380 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 381 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 382 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 383 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -460,7 +460,7 @@
 | 458 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 459 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 460 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
-| 461 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.45 | 
+| 461 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 462 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
 | 463 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 464 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
@@ -613,7 +613,7 @@
 | 611 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 612 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 613 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.69 | 
-| 614 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 614 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 615 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 616 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 617 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 

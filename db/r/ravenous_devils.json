@@ -1,10 +1,10 @@
 {
   "ID": "c7dfc1f4b7af484cb0fb5eedab731827",
   "Name": "Ravenous Devils",
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 47,
   "FirstSeen": "2022-07-22T20:30:49.8744513+00:00",
-  "LastChanged": "2022-10-16T07:04:51.2191645+00:00",
+  "LastChanged": "2022-10-17T07:32:11.6220434+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:49.8744516+00:00",
@@ -89,6 +89,11 @@
     {
       "Time": "2022-10-16T07:04:51.2191648+00:00",
       "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-17T07:32:11.6220437+00:00",
+      "Rating": 4.46,
       "NumberOfRatings": null
     }
   ],
