@@ -230,21 +230,21 @@
 | 228 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
 | 229 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 230 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 231 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 235 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 236 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 237 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 238 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 239 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 240 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 241 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 242 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 243 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 244 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 231 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 232 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 235 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 238 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 239 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 240 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 243 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 244 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 245 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 247 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 248 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
@@ -559,14 +559,14 @@
 | 557 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 558 | [Faeria](games/f/faeria.md) | 4.40 | 
 | 559 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
-| 560 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 561 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 562 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 563 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 564 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 565 | [Core](games/c/core.md) | 4.39 | 
-| 566 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 567 | [Encased](games/e/encased.md) | 4.39 | 
+| 560 | [Encased](games/e/encased.md) | 4.40 | 
+| 561 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 562 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
+| 563 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 564 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 565 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 566 | [Core](games/c/core.md) | 4.39 | 
+| 567 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 568 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 569 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 570 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 

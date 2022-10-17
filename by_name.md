@@ -194,7 +194,7 @@
 | 192 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 193 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 195 | [Encased](games/e/encased.md) | 4.39 | 
+| 195 | [Encased](games/e/encased.md) | 4.40 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
@@ -208,7 +208,7 @@
 | 206 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 207 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 208 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
-| 209 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 209 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 210 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 211 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 212 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
