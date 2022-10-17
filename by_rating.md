@@ -52,12 +52,12 @@
 | 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 52 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
-| 53 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 54 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 55 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 57 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 58 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 60 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -107,18 +107,18 @@
 | 105 | [Journey](games/j/journey.md) | 4.76 | 
 | 106 | [Haven](games/h/haven.md) | 4.76 | 
 | 107 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 112 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
-| 115 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 108 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 109 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 111 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 114 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 115 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 117 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
 | 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -525,20 +525,20 @@
 | 523 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 524 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 525 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 526 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 527 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 528 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 529 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 530 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 531 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 532 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 533 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 534 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 535 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 536 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 537 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 538 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 539 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
+| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 527 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 528 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 529 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 530 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 531 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 532 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 533 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 534 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 535 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 536 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 537 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 538 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 539 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 540 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 542 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -736,7 +736,7 @@
 | 734 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 735 | [Patron](games/p/patron.md) | 3.91 | 
 | 736 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 737 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
+| 737 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
 | 738 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 739 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 740 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 

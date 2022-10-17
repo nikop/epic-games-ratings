@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 6 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 6 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 7 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 8 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 9 | [ABZU](games/a/abzu.md) | 4.59 | 
@@ -89,7 +89,7 @@
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
-| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
+| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.83 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
@@ -142,7 +142,7 @@
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
@@ -189,7 +189,7 @@
 | 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 188 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
-| 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.42 | 
+| 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 191 | [ELEX](games/e/elex.md) | 4.36 | 
 | 192 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 193 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
