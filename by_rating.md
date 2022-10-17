@@ -2,10 +2,10 @@
 | --- | ---- | ------ | 
 | 1 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 2 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 3 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.94 | 
-| 4 | [Hades](games/h/hades.md) | 4.92 | 
-| 5 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 3 | [Hades](games/h/hades.md) | 4.92 | 
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 
+| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 8 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 9 | [Mago](games/m/mago.md) | 4.90 | 
@@ -18,11 +18,11 @@
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 22 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
-| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 19 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 21 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
@@ -423,20 +423,20 @@
 | 421 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 422 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 423 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 424 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 425 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 426 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 427 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 428 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 429 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 431 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 432 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 434 | [Sable](games/s/sable.md) | 4.52 | 
-| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 437 | [Darkwood](games/d/darkwood.md) | 4.52 | 
+| 424 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 425 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 426 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 427 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 428 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 429 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 430 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 431 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 432 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 433 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 434 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 435 | [Sable](games/s/sable.md) | 4.52 | 
+| 436 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 438 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 439 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 440 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -647,14 +647,14 @@
 | 645 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 646 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 647 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 648 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 649 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 650 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
-| 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 652 | [Tharsis](games/t/tharsis.md) | 4.26 | 
-| 653 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 654 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 655 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 648 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 649 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 650 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 651 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 653 | [Tharsis](games/t/tharsis.md) | 4.26 | 
+| 654 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 655 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 656 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 657 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
