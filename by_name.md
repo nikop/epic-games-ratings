@@ -92,7 +92,7 @@
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -116,7 +116,7 @@
 | 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 116 | [Control](games/c/control.md) | 4.60 | 
-| 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.86 | 
+| 117 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 118 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 119 | [Core](games/c/core.md) | 4.39 | 
 | 120 | [Coromon](games/c/coromon.md) | 4.67 | 
@@ -142,7 +142,7 @@
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.74 | 
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
@@ -186,7 +186,7 @@
 | 184 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 185 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 186 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 188 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
