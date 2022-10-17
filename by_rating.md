@@ -593,15 +593,15 @@
 | 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 593 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 594 | [ELEX](games/e/elex.md) | 4.36 | 
-| 595 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 596 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 597 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 598 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 599 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 600 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 601 | [House Party](games/h/house_party.md) | 4.35 | 
-| 602 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 597 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 599 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 600 | [House Party](games/h/house_party.md) | 4.35 | 
+| 601 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 602 | [ELEX](games/e/elex.md) | 4.35 | 
 | 603 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 604 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 605 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -739,8 +739,8 @@
 | 737 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
 | 738 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 739 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 740 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
-| 741 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 740 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 741 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 742 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.79 | 
 | 743 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 744 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 

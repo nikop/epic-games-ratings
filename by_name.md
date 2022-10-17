@@ -190,7 +190,7 @@
 | 188 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 191 | [ELEX](games/e/elex.md) | 4.36 | 
+| 191 | [ELEX](games/e/elex.md) | 4.35 | 
 | 192 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 193 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
@@ -448,7 +448,7 @@
 | 446 | [Pine](games/p/pine.md) | 4.14 | 
 | 447 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 448 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 449 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 449 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 450 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 451 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 452 | [Prey](games/p/prey.md) | 4.61 | 
