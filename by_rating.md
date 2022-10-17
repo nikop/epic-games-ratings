@@ -263,18 +263,18 @@
 | 261 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 262 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
 | 263 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 264 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 265 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 266 | [Old World](games/o/old_world.md) | 4.63 | 
-| 267 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 270 | [RiME](games/r/rime.md) | 4.63 | 
-| 271 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 272 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 273 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 275 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 264 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 265 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 266 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 267 | [Old World](games/o/old_world.md) | 4.63 | 
+| 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 271 | [RiME](games/r/rime.md) | 4.63 | 
+| 272 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 273 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 274 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 275 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 276 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 277 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 278 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -402,21 +402,21 @@
 | 400 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 401 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 402 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 403 | [MythForce](games/m/mythforce.md) | 4.54 | 
-| 404 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 405 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
-| 406 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 407 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 408 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 409 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
-| 410 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
-| 411 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 412 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 413 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 414 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 415 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 416 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 417 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 403 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 404 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.54 | 
+| 405 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 406 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 407 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 408 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
+| 409 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
+| 410 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 411 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 412 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 414 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 415 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 416 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 417 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 419 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 420 | [The Surge](games/t/the_surge.md) | 4.53 | 
@@ -658,11 +658,11 @@
 | 656 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 657 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 659 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 659 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 660 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 661 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 662 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 663 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 662 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 663 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 665 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 666 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 

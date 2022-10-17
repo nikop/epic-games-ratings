@@ -275,7 +275,7 @@
 | 273 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 274 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 275 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 277 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 279 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -379,15 +379,15 @@
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 378 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 379 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 380 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 380 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 381 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 382 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 383 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 384 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 385 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 386 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 387 | [MythForce](games/m/mythforce.md) | 4.54 | 
-| 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
+| 387 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 389 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 390 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 391 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
