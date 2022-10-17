@@ -229,21 +229,21 @@
 | 227 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 230 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 231 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 232 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 235 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 236 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 237 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 238 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 239 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 240 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 241 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 242 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 243 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 244 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 230 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 231 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 234 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 235 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 238 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 239 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 240 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 243 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 244 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 245 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 246 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -678,10 +678,10 @@
 | 676 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 677 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 678 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 679 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 680 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 681 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
-| 682 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 679 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 680 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 681 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 682 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 683 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 684 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 685 | [Scavengers](games/s/scavengers.md) | 4.17 | 

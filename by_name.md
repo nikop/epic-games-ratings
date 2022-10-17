@@ -81,7 +81,7 @@
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 81 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
@@ -600,7 +600,7 @@
 | 598 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 600 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 602 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
