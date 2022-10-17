@@ -198,7 +198,7 @@
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
@@ -218,7 +218,7 @@
 | 216 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 217 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
 | 218 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 219 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.72 | 
+| 219 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 220 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 221 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 222 | [Fez](games/f/fez.md) | 4.72 | 
@@ -275,7 +275,7 @@
 | 273 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 274 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 275 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 276 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 277 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 279 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -286,7 +286,7 @@
 | 284 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 285 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 286 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 287 | [House Party](games/h/house_party.md) | 4.37 | 
+| 287 | [House Party](games/h/house_party.md) | 4.35 | 
 | 288 | [Hue](games/h/hue.md) | 4.55 | 
 | 289 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 290 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -387,7 +387,7 @@
 | 385 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 386 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 387 | [MythForce](games/m/mythforce.md) | 4.54 | 
-| 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.23 | 
 | 389 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 390 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 391 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
@@ -550,7 +550,7 @@
 | 548 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 549 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 550 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 551 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 551 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 552 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 553 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 554 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
