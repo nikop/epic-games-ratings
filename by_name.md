@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 43 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 44 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 45 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 46 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 47 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 48 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
@@ -249,7 +249,7 @@
 | 247 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 248 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
 | 249 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 250 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 250 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 251 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 252 | [Godlike Burger](games/g/godlike_burger.md) | 4.10 | 
 | 253 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
@@ -465,7 +465,7 @@
 | 463 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.77 | 
 | 464 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 465 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 466 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 466 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 467 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 468 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 469 | [Relicta](games/r/relicta.md) | 4.10 | 
@@ -477,7 +477,7 @@
 | 475 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 476 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 477 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 478 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 478 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
 | 479 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 480 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 481 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -545,7 +545,7 @@
 | 543 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 545 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 546 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
+| 546 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
 | 547 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 548 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 549 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 

@@ -363,16 +363,16 @@
 | 361 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 362 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 363 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 364 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 365 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 366 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 367 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 368 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 369 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 370 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 371 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 372 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 373 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 365 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 369 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 370 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 371 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 372 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 373 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 375 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 376 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
@@ -495,17 +495,17 @@
 | 493 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 494 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 495 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 496 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
-| 497 | [Death Coming](games/d/death_coming.md) | 4.46 | 
-| 498 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 499 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 500 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
-| 501 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 502 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 503 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 504 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 505 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 506 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 496 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 497 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 498 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 499 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
+| 500 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 501 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 502 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 503 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 504 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 505 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 506 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 507 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 508 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 509 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -562,13 +562,13 @@
 | 560 | [Encased](games/e/encased.md) | 4.40 | 
 | 561 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 562 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 563 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 564 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 565 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 566 | [Core](games/c/core.md) | 4.39 | 
-| 567 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 568 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 569 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 563 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 564 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 565 | [Core](games/c/core.md) | 4.39 | 
+| 566 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 567 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 568 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 569 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
 | 570 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -707,9 +707,9 @@
 | 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 706 | [Godlike Burger](games/g/godlike_burger.md) | 4.10 | 
 | 707 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 708 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 709 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
-| 710 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 708 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 709 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 710 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 711 | [Lake](games/l/lake.md) | 4.08 | 
 | 712 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 713 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -744,5 +744,5 @@
 | 742 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 743 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 744 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 745 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.59 | 
+| 745 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
 | 746 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
