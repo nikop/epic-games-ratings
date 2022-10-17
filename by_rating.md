@@ -104,15 +104,15 @@
 | 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 104 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 105 | [Journey](games/j/journey.md) | 4.76 | 
-| 106 | [Haven](games/h/haven.md) | 4.76 | 
-| 107 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 108 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 109 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 111 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 105 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 106 | [Journey](games/j/journey.md) | 4.76 | 
+| 107 | [Haven](games/h/haven.md) | 4.76 | 
+| 108 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 112 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 114 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 115 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
@@ -166,23 +166,23 @@
 | 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 166 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 167 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
-| 168 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 169 | [Barony](games/b/barony.md) | 4.70 | 
-| 170 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 171 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 174 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
-| 175 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 176 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 177 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 178 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 179 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 180 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 181 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 182 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 167 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 168 | [Barony](games/b/barony.md) | 4.70 | 
+| 169 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 170 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 172 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 173 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.70 | 
+| 174 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
+| 175 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 176 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 177 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 178 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 179 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 182 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 183 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 184 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 185 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 186 | [Timberborn](games/t/timberborn.md) | 4.69 | 
@@ -291,26 +291,26 @@
 | 289 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 290 | [Prey](games/p/prey.md) | 4.61 | 
 | 291 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 300 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 301 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
-| 302 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 304 | [Control](games/c/control.md) | 4.60 | 
-| 305 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 306 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 307 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 308 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 309 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
-| 310 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 311 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 292 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 293 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 295 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 296 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 297 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 298 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 299 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 300 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.61 | 
+| 301 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 302 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 303 | [Control](games/c/control.md) | 4.60 | 
+| 304 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 305 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 306 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 307 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 308 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 309 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 310 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 314 | [Moving Out](games/m/moving_out.md) | 4.60 | 
@@ -418,18 +418,18 @@
 | 416 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 417 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 419 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 420 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 421 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 422 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 423 | [Darkwood](games/d/darkwood.md) | 4.53 | 
-| 424 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 425 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 426 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 427 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 428 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 429 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 430 | [Minit](games/m/minit.md) | 4.52 | 
+| 419 | [Minit](games/m/minit.md) | 4.53 | 
+| 420 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 421 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 422 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 423 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 424 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 425 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 426 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 427 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 428 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 429 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 431 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 432 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 

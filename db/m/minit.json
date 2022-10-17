@@ -1,10 +1,10 @@
 {
   "ID": "43605e89e49d438485298819a7ef17b4",
   "Name": "Minit",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 104,
   "FirstSeen": "2022-07-22T20:17:43.6346922+00:00",
-  "LastChanged": "2022-10-14T21:30:25.2424983+00:00",
+  "LastChanged": "2022-10-17T14:31:26.0662132+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:43.6346925+00:00",
@@ -219,6 +219,11 @@
     {
       "Time": "2022-10-14T21:30:25.2424985+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-17T14:31:26.0662135+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],

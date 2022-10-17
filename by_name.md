@@ -84,7 +84,7 @@
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.75 | 
+| 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -282,7 +282,7 @@
 | 280 | [Hob](games/h/hob.md) | 4.58 | 
 | 281 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 282 | [Horace](games/h/horace.md) | 4.55 | 
-| 283 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 283 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 284 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 285 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 286 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -371,7 +371,7 @@
 | 369 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 370 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 371 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 372 | [Minit](games/m/minit.md) | 4.52 | 
+| 372 | [Minit](games/m/minit.md) | 4.53 | 
 | 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 374 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
@@ -710,7 +710,7 @@
 | 708 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 709 | [Warface](games/w/warface.md) | 3.95 | 
 | 710 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 711 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.70 | 
+| 711 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 712 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 713 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 714 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
