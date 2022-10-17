@@ -1,5 +1,5 @@
 # Marvel's Guardians of the Galaxy
-Rating: 4.73 (898)  (as of 23.09.2022)  
+Rating: 4.74 (898)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -70,3 +70,4 @@ Rating: 4.73 (898)  (as of 23.09.2022)
 | 2022-10-09 | 4.73 | - |
 | 2022-10-14 | 4.74 | - |
 | 2022-10-15 | 4.73 | - |
+| 2022-10-17 | 4.74 | - |

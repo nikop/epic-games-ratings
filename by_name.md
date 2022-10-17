@@ -361,7 +361,7 @@
 | 359 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 360 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 361 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 362 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 362 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 363 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 364 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 365 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
@@ -666,7 +666,7 @@
 | 664 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 665 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 666 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
+| 667 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.74 | 
 | 668 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 669 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 670 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 

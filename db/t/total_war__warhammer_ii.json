@@ -1,10 +1,10 @@
 {
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 1169,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-10-16T21:00:18.0228145+00:00",
+  "LastChanged": "2022-10-17T00:30:18.5431449+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -1335,6 +1335,11 @@
       "Time": "2022-10-16T21:00:18.0228146+00:00",
       "Rating": 4.73,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-17T00:30:18.5431465+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1348,7 +1353,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 365
+      "Count": 373
     },
     {
       "Text": "This game has Challenging Combat",
