@@ -137,7 +137,7 @@
 | 135 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 136 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
@@ -305,7 +305,7 @@
 | 303 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 304 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 305 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 306 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 306 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 307 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 308 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 309 | [Journey](games/j/journey.md) | 4.76 | 
@@ -315,7 +315,7 @@
 | 313 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 314 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 315 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 316 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.50 | 
+| 316 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 317 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 318 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 319 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
@@ -373,7 +373,7 @@
 | 371 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 372 | [Minit](games/m/minit.md) | 4.53 | 
 | 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 374 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 374 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 376 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -522,7 +522,7 @@
 | 520 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 521 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 522 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 523 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 523 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
 | 524 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 525 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 526 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
