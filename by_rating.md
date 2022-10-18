@@ -235,21 +235,21 @@
 | 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 234 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 235 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 236 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 237 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 238 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 239 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 240 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 241 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 242 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 243 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 244 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 245 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 246 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 248 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 249 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 250 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 238 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 239 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 240 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 243 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 244 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 247 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 249 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 250 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 251 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 252 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 253 | [Scorn](games/s/scorn.md) | 4.65 | 

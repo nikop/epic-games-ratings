@@ -383,7 +383,7 @@
 | 381 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 382 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 383 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 384 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 384 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 385 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 386 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 387 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
