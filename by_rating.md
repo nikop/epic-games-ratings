@@ -735,8 +735,8 @@
 | 733 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 734 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 735 | [Patron](games/p/patron.md) | 3.91 | 
-| 736 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.91 | 
-| 737 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
+| 736 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
+| 737 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.89 | 
 | 738 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 739 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 740 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
