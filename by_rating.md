@@ -364,17 +364,17 @@
 | 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 365 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 369 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 370 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 371 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 372 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 373 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 375 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 365 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 366 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 370 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 371 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 372 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 373 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 374 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 376 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 378 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
@@ -535,23 +535,23 @@
 | 533 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 534 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 535 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 536 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 537 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 538 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 536 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 537 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 538 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 540 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 541 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 543 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 544 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 545 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 546 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 547 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 549 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 550 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 551 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 552 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 545 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 546 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 547 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 548 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 549 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 550 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 551 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 552 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 553 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 554 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 555 | [Train Valley](games/t/train_valley.md) | 4.41 | 
@@ -652,8 +652,8 @@
 | 650 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 651 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 652 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 653 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 654 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 653 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 654 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 655 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 656 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 657 | [Tharsis](games/t/tharsis.md) | 4.24 | 

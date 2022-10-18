@@ -111,7 +111,7 @@
 | 109 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 110 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 111 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 112 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 112 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 113 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 114 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 115 | [Conarium](games/c/conarium.md) | 3.95 | 
@@ -201,7 +201,7 @@
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 203 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 205 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -255,7 +255,7 @@
 | 253 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 254 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 255 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 256 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 256 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 257 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 258 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 259 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
@@ -514,7 +514,7 @@
 | 512 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 513 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 514 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 515 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 515 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 516 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 517 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 518 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
