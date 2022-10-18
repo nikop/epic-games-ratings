@@ -131,16 +131,16 @@
 | 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 133 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
-| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 137 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 138 | [Fez](games/f/fez.md) | 4.73 | 
-| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 132 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 137 | [Fez](games/f/fez.md) | 4.73 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -409,23 +409,23 @@
 | 407 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 408 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
 | 409 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
-| 410 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 411 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 412 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 413 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 414 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 415 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 416 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 417 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 419 | [Minit](games/m/minit.md) | 4.53 | 
-| 420 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 421 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 422 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 423 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
-| 424 | [Sable](games/s/sable.md) | 4.53 | 
-| 425 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 426 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 410 | [Darkwood](games/d/darkwood.md) | 4.54 | 
+| 411 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 412 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 414 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 415 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 416 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 417 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 418 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 420 | [Minit](games/m/minit.md) | 4.53 | 
+| 421 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 422 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 423 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 424 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
+| 425 | [Sable](games/s/sable.md) | 4.53 | 
+| 426 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 427 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 428 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 429 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 

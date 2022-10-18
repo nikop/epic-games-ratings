@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.54 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -557,7 +557,7 @@
 | 555 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 556 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 557 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 558 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 558 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 559 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 560 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 561 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
