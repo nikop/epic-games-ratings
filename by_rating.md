@@ -205,21 +205,21 @@
 | 203 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 204 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 205 | [SOMA](games/s/soma.md) | 4.68 | 
-| 206 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 207 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 208 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 209 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 210 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 211 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 212 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 213 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 214 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 215 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 216 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 217 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 218 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 219 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 220 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 206 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 207 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 208 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 209 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 210 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 211 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 212 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 213 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 214 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 215 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 216 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 217 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 218 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 219 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 220 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 221 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 222 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 223 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
@@ -313,26 +313,26 @@
 | 311 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 312 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 313 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 314 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 315 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 316 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 317 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 318 | [20XX](games/2/20xx.md) | 4.60 | 
-| 319 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 320 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 321 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 322 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 323 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 324 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 325 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 326 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 327 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 328 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 329 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 330 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 331 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 332 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 333 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 314 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 315 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 316 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 317 | [20XX](games/2/20xx.md) | 4.60 | 
+| 318 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 319 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 320 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 321 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 322 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 323 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 324 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 325 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 326 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 327 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 328 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 329 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 330 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 331 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 332 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 333 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 334 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 335 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 336 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 

@@ -96,7 +96,7 @@
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 97 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 97 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 98 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 99 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -295,7 +295,7 @@
 | 293 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
 | 294 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 295 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 296 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 296 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 297 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 298 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 299 | [Inscryption](games/i/inscryption.md) | 4.85 | 
