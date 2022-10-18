@@ -296,7 +296,7 @@
 | 294 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 295 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 296 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 297 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 297 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 298 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 299 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 300 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
@@ -456,7 +456,7 @@
 | 454 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 455 | [Quake](games/q/quake.md) | 4.80 | 
 | 456 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 457 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 457 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 458 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 459 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 460 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
@@ -605,7 +605,7 @@
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
+| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 609 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
