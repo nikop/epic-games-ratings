@@ -523,7 +523,7 @@
 | 521 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 522 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 523 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
-| 524 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 524 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 525 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 526 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 527 | [Slipways](games/s/slipways.md) | 4.72 | 

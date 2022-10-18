@@ -630,12 +630,12 @@
 | 628 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 630 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 631 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
-| 632 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
-| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 634 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
-| 635 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 636 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 631 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 632 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
+| 633 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 634 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 635 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 636 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 637 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 638 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
 | 639 | [Steelrising](games/s/steelrising.md) | 4.28 | 
