@@ -205,7 +205,7 @@
 | 203 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 205 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 206 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 206 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 207 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 208 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
 | 209 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -550,7 +550,7 @@
 | 548 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 549 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 550 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 551 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 551 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 552 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 553 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 554 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -652,7 +652,7 @@
 | 650 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 651 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 652 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 653 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 653 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 654 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 655 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 656 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 

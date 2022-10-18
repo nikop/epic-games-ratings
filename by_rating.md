@@ -263,17 +263,17 @@
 | 261 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
 | 262 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 263 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 264 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 265 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 266 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 267 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 268 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 271 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 272 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 273 | [RiME](games/r/rime.md) | 4.63 | 
-| 274 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 264 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 265 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 266 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 267 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 268 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 269 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 270 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 274 | [RiME](games/r/rime.md) | 4.63 | 
 | 275 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 276 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 277 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -336,23 +336,23 @@
 | 334 | [Hob](games/h/hob.md) | 4.59 | 
 | 335 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 336 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 337 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 338 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 339 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 340 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 341 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 342 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 343 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 344 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 345 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 346 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 347 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 348 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 349 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 350 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 351 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 352 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 337 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 338 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 339 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 340 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
+| 341 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 342 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 343 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 344 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 345 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 346 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 347 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 348 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 349 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 350 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 351 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 352 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 353 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 354 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 355 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
 | 356 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
@@ -575,17 +575,17 @@
 | 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 574 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 576 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 577 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 578 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 579 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 581 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 582 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 583 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 584 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
-| 586 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 576 | [Far Cry](games/f/far_cry.md) | 4.38 | 
+| 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 578 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 580 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 581 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 582 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 583 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 584 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 585 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 586 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 587 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 588 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
 | 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
