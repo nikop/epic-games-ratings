@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.52 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.53 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -182,7 +182,7 @@
 | 180 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 181 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 182 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 183 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 183 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 184 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 185 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 186 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
@@ -411,7 +411,7 @@
 | 409 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 410 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 411 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 412 | [Old World](games/o/old_world.md) | 4.63 | 
+| 412 | [Old World](games/o/old_world.md) | 4.64 | 
 | 413 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 414 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
 | 415 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 
@@ -691,7 +691,7 @@
 | 689 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 690 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 691 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 692 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 692 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 693 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 694 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 695 | [UnMetal](games/u/unmetal.md) | 4.53 | 
