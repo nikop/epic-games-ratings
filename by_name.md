@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.52 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.53 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -288,7 +288,7 @@
 | 286 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 287 | [House Party](games/h/house_party.md) | 4.35 | 
 | 288 | [Hue](games/h/hue.md) | 4.55 | 
-| 289 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 289 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 290 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 291 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 292 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
@@ -411,7 +411,7 @@
 | 409 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 410 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 411 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 412 | [Old World](games/o/old_world.md) | 4.64 | 
+| 412 | [Old World](games/o/old_world.md) | 4.63 | 
 | 413 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 414 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
 | 415 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 

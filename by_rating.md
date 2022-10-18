@@ -255,19 +255,19 @@
 | 253 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 254 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 255 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 256 | [Old World](games/o/old_world.md) | 4.64 | 
-| 257 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 258 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 259 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 260 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 261 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 262 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 263 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 264 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 265 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 266 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 267 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 268 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 256 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 257 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 258 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 260 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 262 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 263 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 264 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 265 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 266 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 267 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 268 | [Old World](games/o/old_world.md) | 4.63 | 
 | 269 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 270 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
@@ -423,28 +423,28 @@
 | 421 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 422 | [Sable](games/s/sable.md) | 4.53 | 
 | 423 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 424 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 425 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 426 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 427 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 428 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 429 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 430 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 431 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 432 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 433 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 434 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 437 | [Darkwood](games/d/darkwood.md) | 4.52 | 
-| 438 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 439 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 440 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 441 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 442 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 443 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 444 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 445 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 424 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 425 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 426 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 427 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 428 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 429 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 430 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 431 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 432 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 433 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 434 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 435 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 436 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 437 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 438 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 439 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 440 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 441 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 442 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 443 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 444 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 445 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 446 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 447 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 448 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 

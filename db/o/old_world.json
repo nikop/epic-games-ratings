@@ -1,10 +1,10 @@
 {
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
-  "Rating": 4.64,
+  "Rating": 4.63,
   "NumberOfRatings": 1307,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "LastChanged": "2022-10-18T07:31:45.4898878+00:00",
+  "LastChanged": "2022-10-18T11:02:42.9139742+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.0865852+00:00",
@@ -1189,6 +1189,11 @@
     {
       "Time": "2022-10-18T07:31:45.4898881+00:00",
       "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-18T11:02:42.9139745+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],
