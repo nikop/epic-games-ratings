@@ -373,7 +373,7 @@
 | 371 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 372 | [Minit](games/m/minit.md) | 4.53 | 
 | 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 374 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 374 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 376 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 

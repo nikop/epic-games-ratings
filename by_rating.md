@@ -167,24 +167,24 @@
 | 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 166 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 167 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 168 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 169 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 170 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 171 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 172 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 173 | [FUSER™](games/f/fuser™.md) | 4.70 | 
-| 174 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 175 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 176 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
-| 177 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 178 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 179 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 180 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 181 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 182 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 184 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 185 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 168 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 169 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 170 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 172 | [FUSER™](games/f/fuser™.md) | 4.70 | 
+| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 174 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
+| 175 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
+| 176 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 177 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 178 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 179 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 182 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 183 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 184 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 185 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 186 | [Barony](games/b/barony.md) | 4.69 | 
 | 187 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 188 | [Overcooked](games/o/overcooked.md) | 4.69 | 
