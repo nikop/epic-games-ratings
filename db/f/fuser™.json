@@ -1,10 +1,10 @@
 {
   "ID": "6af58339c2424644988e0fb83dfd9bd5",
   "Name": "FUSER\u2122",
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 86,
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2022-10-18T01:00:31.1956713+00:00",
+  "LastChanged": "2022-10-18T15:01:15.8995233+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:53.9357226+00:00",
@@ -185,6 +185,11 @@
       "Time": "2022-10-18T01:00:31.1956716+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-18T15:01:15.8995235+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -230,7 +235,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 21
+      "Count": 22
     }
   ]
 }

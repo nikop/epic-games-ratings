@@ -234,7 +234,7 @@
 | 232 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 233 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 234 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 235 | [FUSER™](games/f/fuser™.md) | 4.70 | 
+| 235 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 236 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 237 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 238 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
@@ -343,7 +343,7 @@
 | 341 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 342 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
 | 343 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 344 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 344 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 345 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 346 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 347 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
@@ -375,7 +375,7 @@
 | 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 374 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 375 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 376 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 376 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 377 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 378 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 379 | [Moving Out](games/m/moving_out.md) | 4.60 | 
@@ -517,7 +517,7 @@
 | 515 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 516 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 517 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 518 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 518 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 519 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 520 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 521 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -584,7 +584,7 @@
 | 582 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
 | 583 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 584 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 585 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 
+| 585 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 586 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 587 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 588 | [Tacoma](games/t/tacoma.md) | 4.30 | 
