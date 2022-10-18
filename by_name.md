@@ -128,7 +128,7 @@
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
+| 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -336,7 +336,7 @@
 | 334 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 335 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 336 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 337 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 337 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 338 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 339 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 340 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
@@ -448,7 +448,7 @@
 | 446 | [Pine](games/p/pine.md) | 4.14 | 
 | 447 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
 | 448 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 449 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 449 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 450 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 451 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 452 | [Prey](games/p/prey.md) | 4.61 | 
@@ -605,7 +605,7 @@
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
 | 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
+| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 609 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 

@@ -207,24 +207,24 @@
 | 205 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 206 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 207 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 208 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 209 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 210 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 211 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 212 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 213 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 214 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 215 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 216 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 217 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 219 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 220 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 221 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 222 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 223 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 224 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 225 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
+| 208 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
+| 209 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 210 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 211 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 212 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 213 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 214 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 215 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 216 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 217 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 218 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 
+| 219 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 220 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 221 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 222 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 223 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 224 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 225 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 226 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 228 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -554,20 +554,20 @@
 | 552 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 553 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 554 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 555 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
-| 556 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 558 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
-| 559 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
-| 560 | [Encased](games/e/encased.md) | 4.40 | 
-| 561 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 562 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 563 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 564 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 565 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 566 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 567 | [Core](games/c/core.md) | 4.39 | 
-| 568 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 555 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 557 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
+| 558 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
+| 559 | [Encased](games/e/encased.md) | 4.40 | 
+| 560 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
+| 561 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
+| 562 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 563 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 564 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 565 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 566 | [Core](games/c/core.md) | 4.39 | 
+| 567 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 568 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 569 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -664,17 +664,17 @@
 | 662 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 663 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 664 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 665 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 666 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 667 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 668 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 
-| 669 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 670 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 671 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 672 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 673 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 674 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 675 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 666 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
+| 667 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 
+| 668 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 669 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 670 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 671 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 672 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 673 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 674 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 675 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 676 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 677 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 678 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
@@ -740,8 +740,8 @@
 | 738 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 739 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 740 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 741 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
-| 742 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
+| 741 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
+| 742 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 743 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 744 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 745 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
