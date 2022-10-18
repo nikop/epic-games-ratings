@@ -495,17 +495,17 @@
 | 493 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 494 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 495 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 496 | [Death Coming](games/d/death_coming.md) | 4.46 | 
-| 497 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 498 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
-| 499 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 500 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
-| 501 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 502 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 503 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 504 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 505 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 506 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 496 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 497 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 498 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 499 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
+| 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 501 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
+| 502 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 503 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 504 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 505 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 506 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 507 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 508 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 509 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
@@ -650,11 +650,11 @@
 | 648 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 649 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 650 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 651 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
-| 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 653 | [Tharsis](games/t/tharsis.md) | 4.26 | 
-| 654 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 655 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 652 | [Tharsis](games/t/tharsis.md) | 4.26 | 
+| 653 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 654 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 655 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 656 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 657 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 658 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
@@ -691,13 +691,13 @@
 | 689 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 690 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 691 | [Pine](games/p/pine.md) | 4.14 | 
-| 692 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
-| 693 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 694 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
-| 695 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
-| 696 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
-| 697 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 698 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 692 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 693 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
+| 694 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
+| 695 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 696 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 697 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 698 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
 | 699 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 700 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 701 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -744,5 +744,5 @@
 | 742 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 743 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 744 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 745 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
+| 745 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 
 | 746 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 

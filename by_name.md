@@ -191,7 +191,7 @@
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
 | 191 | [ELEX](games/e/elex.md) | 4.35 | 
-| 192 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 192 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 193 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 195 | [Encased](games/e/encased.md) | 4.40 | 
@@ -389,7 +389,7 @@
 | 387 | [MythForce](games/m/mythforce.md) | 4.53 | 
 | 388 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 389 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 390 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
+| 390 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
 | 391 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 392 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 393 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -465,7 +465,7 @@
 | 463 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 464 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 465 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 466 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 466 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 467 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 468 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 469 | [Relicta](games/r/relicta.md) | 4.10 | 
@@ -545,7 +545,7 @@
 | 543 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 545 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 546 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.61 | 
+| 546 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 
 | 547 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 548 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 549 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
