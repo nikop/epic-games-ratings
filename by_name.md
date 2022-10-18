@@ -122,14 +122,14 @@
 | 120 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 121 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 122 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 123 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 124 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 125 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 126 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 130 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
@@ -454,7 +454,7 @@
 | 452 | [Prey](games/p/prey.md) | 4.61 | 
 | 453 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 454 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 455 | [Quake](games/q/quake.md) | 4.80 | 
+| 455 | [Quake](games/q/quake.md) | 4.81 | 
 | 456 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 457 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 458 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -604,7 +604,7 @@
 | 602 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
@@ -634,7 +634,7 @@
 | 632 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 633 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 634 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 635 | [The Tenants](games/t/the_tenants.md) | 4.58 | 
+| 635 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
 | 636 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 637 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 638 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -719,7 +719,7 @@
 | 717 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 718 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 719 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
-| 720 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
+| 720 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 721 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 722 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
