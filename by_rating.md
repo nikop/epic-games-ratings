@@ -423,20 +423,20 @@
 | 421 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 422 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 423 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 424 | [Darkwood](games/d/darkwood.md) | 4.53 | 
-| 425 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 426 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 427 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 428 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 429 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 430 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 431 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 432 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 433 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 434 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 435 | [Sable](games/s/sable.md) | 4.52 | 
-| 436 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 424 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 425 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 426 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 427 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 428 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 429 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 431 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 432 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 433 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 434 | [Sable](games/s/sable.md) | 4.52 | 
+| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 437 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 438 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 439 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 440 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -538,19 +538,19 @@
 | 536 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 537 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 538 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 539 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 540 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 542 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 543 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 544 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 545 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 546 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 547 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 548 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 549 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 550 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
+| 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
+| 540 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 541 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 542 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 543 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 544 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 545 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 546 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 547 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 548 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 549 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 550 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 551 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 552 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 553 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 554 | [Train Valley](games/t/train_valley.md) | 4.41 | 
@@ -705,9 +705,9 @@
 | 703 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 704 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 705 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 706 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 707 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 708 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 706 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 707 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 708 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 709 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 710 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 711 | [Lake](games/l/lake.md) | 4.08 | 

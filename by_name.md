@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -247,7 +247,7 @@
 | 245 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 246 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 247 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 248 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
+| 248 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 249 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 250 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 251 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -394,7 +394,7 @@
 | 392 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 393 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 394 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 395 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 395 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 396 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 397 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 398 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -722,7 +722,7 @@
 | 720 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 
 | 721 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 722 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 724 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 725 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 726 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 

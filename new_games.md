@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Scorn](games/s/scorn.md) | 4.62 | 
 | 2 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.89 | 
-| 3 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 3 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 4 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 5 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 6 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
@@ -12,7 +12,7 @@
 | 10 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 11 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 12 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 13 | [Gloomhaven](games/g/gloomhaven.md) | 4.41 | 
+| 13 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 14 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 15 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 16 | [Isonzo](games/i/isonzo.md) | 4.56 | 
