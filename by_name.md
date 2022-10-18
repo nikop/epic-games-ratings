@@ -74,9 +74,9 @@
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 79 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 80 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
@@ -145,7 +145,7 @@
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
 | 148 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
@@ -201,7 +201,7 @@
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 203 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 205 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -681,7 +681,7 @@
 | 679 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 681 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 682 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 682 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 683 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 684 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 685 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 

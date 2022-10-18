@@ -165,45 +165,45 @@
 | 163 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 166 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 167 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 168 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 169 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 170 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 171 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 172 | [FUSER™](games/f/fuser™.md) | 4.70 | 
-| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 174 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 175 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
-| 176 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
-| 177 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 178 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 179 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 180 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 181 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 182 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 183 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 184 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 185 | [Barony](games/b/barony.md) | 4.69 | 
-| 186 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 187 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 188 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 189 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
-| 190 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 191 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 192 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 193 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 194 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 196 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 197 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 198 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
-| 199 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 200 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 201 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 202 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
-| 203 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 204 | [SOMA](games/s/soma.md) | 4.68 | 
+| 166 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 167 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 168 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 169 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 170 | [FUSER™](games/f/fuser™.md) | 4.70 | 
+| 171 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 172 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
+| 173 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
+| 174 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 175 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 176 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 177 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 178 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 179 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 180 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 181 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 182 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 183 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 184 | [Barony](games/b/barony.md) | 4.69 | 
+| 185 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 186 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 188 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.69 | 
+| 189 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 190 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 191 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 192 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 193 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 194 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 195 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 196 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 197 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 198 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 200 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 201 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
+| 202 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 203 | [SOMA](games/s/soma.md) | 4.68 | 
+| 204 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 205 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 206 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 207 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
@@ -364,17 +364,17 @@
 | 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 365 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 369 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 370 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 371 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 372 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 373 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 375 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 365 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 366 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 370 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 371 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 372 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 373 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 374 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 376 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 378 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
@@ -459,20 +459,20 @@
 | 457 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 458 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 459 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 460 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 461 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 462 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 463 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 464 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 465 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 466 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 467 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 468 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 469 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 470 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 471 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 472 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 473 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 460 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 461 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 462 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 463 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 464 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 465 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 466 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 467 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 468 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 469 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 470 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 471 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 472 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 475 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 476 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -592,13 +592,13 @@
 | 590 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 593 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 597 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 598 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 593 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 594 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 595 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 596 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 597 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 598 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 599 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 600 | [House Party](games/h/house_party.md) | 4.35 | 
 | 601 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 602 | [ELEX](games/e/elex.md) | 4.35 | 
