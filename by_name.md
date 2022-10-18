@@ -84,7 +84,7 @@
 | 82 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 83 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 84 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 86 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -235,7 +235,7 @@
 | 233 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 234 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 235 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 236 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 236 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 237 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 238 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 239 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -354,7 +354,7 @@
 | 352 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 353 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 354 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 355 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 355 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 356 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 357 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 358 | [Mago](games/m/mago.md) | 4.90 | 
@@ -557,7 +557,7 @@
 | 555 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 556 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 557 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 558 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 558 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 559 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 560 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 561 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
@@ -707,7 +707,7 @@
 | 705 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 706 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 707 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 708 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
+| 708 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 709 | [Warface](games/w/warface.md) | 3.95 | 
 | 710 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 711 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 

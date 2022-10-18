@@ -96,16 +96,16 @@
 | 94 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 95 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 97 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
-| 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 99 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 105 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
-| 106 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 98 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 100 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 106 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 107 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 108 | [Journey](games/j/journey.md) | 4.76 | 
 | 109 | [Haven](games/h/haven.md) | 4.76 | 
@@ -131,16 +131,16 @@
 | 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 133 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
-| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 137 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 138 | [Fez](games/f/fez.md) | 4.73 | 
-| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 132 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 137 | [Fez](games/f/fez.md) | 4.73 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -560,14 +560,14 @@
 | 558 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.40 | 
 | 559 | [Encased](games/e/encased.md) | 4.40 | 
 | 560 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 561 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
-| 562 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 563 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 564 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 565 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 566 | [Core](games/c/core.md) | 4.39 | 
-| 567 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 568 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 561 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 562 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 563 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 564 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 565 | [Core](games/c/core.md) | 4.39 | 
+| 566 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 567 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 568 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 569 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -667,11 +667,11 @@
 | 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 666 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 667 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 
-| 668 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 669 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 670 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 671 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 672 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 668 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 669 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 670 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 671 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 672 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 673 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 674 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 675 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
@@ -680,9 +680,9 @@
 | 678 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 679 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 680 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 681 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 682 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 683 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 681 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 682 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 683 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 684 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 685 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 686 | [Family Man](games/f/family_man.md) | 4.17 | 
