@@ -552,7 +552,7 @@
 | 550 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 551 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 552 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 553 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 553 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 554 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 555 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 556 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
@@ -677,7 +677,7 @@
 | 675 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 676 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 677 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 678 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 678 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 679 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 681 | [Transistor](games/t/transistor.md) | 4.62 | 

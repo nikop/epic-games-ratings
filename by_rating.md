@@ -434,21 +434,21 @@
 | 432 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 434 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 436 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 437 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 438 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 439 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 440 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 441 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 442 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 443 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 444 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 445 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 446 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 447 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 448 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 449 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 435 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 436 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 437 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 438 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 439 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 440 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 441 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 442 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 443 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 444 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 445 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 446 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 447 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 448 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 449 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 450 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 451 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
@@ -591,12 +591,12 @@
 | 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 590 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 593 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 594 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 595 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 596 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 597 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 592 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 593 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 594 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 595 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 596 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 597 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 598 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 599 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 600 | [House Party](games/h/house_party.md) | 4.35 | 

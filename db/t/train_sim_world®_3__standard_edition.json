@@ -1,11 +1,11 @@
 {
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 170,
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2022-10-16T21:30:24.2647558+00:00",
+  "LastChanged": "2022-10-18T13:31:15.5046128+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-07T06:00:21.7269745+00:00",
@@ -436,6 +436,11 @@
       "Time": "2022-10-16T21:30:24.264756+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-18T13:31:15.5046132+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -477,7 +482,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 60
+      "Count": 65
     },
     {
       "Text": "This game has Amazing Characters",
