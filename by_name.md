@@ -221,7 +221,7 @@
 | 219 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 220 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 221 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 222 | [Fez](games/f/fez.md) | 4.72 | 
+| 222 | [Fez](games/f/fez.md) | 4.73 | 
 | 223 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
 | 224 | [Figment](games/f/figment.md) | 4.44 | 
 | 225 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -251,7 +251,7 @@
 | 249 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 250 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 251 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 252 | [Godlike Burger](games/g/godlike_burger.md) | 4.10 | 
+| 252 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
 | 253 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 254 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 255 | [Gone Home](games/g/gone_home.md) | 4.16 | 
@@ -312,7 +312,7 @@
 | 310 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 311 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 312 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 313 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 313 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 314 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 315 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 316 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
@@ -600,7 +600,7 @@
 | 598 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 600 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 602 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 

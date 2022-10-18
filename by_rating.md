@@ -136,16 +136,16 @@
 | 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 141 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 143 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 144 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 145 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 146 | [Fez](games/f/fez.md) | 4.72 | 
+| 137 | [Fez](games/f/fez.md) | 4.73 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 146 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 147 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 148 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 149 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
@@ -227,22 +227,22 @@
 | 225 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 226 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 228 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 229 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 232 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 233 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 234 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 235 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 236 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 237 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 238 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 239 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 240 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 241 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 242 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 243 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 228 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 229 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 230 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 232 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 233 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 234 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 235 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 238 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 239 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 240 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 243 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 244 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -622,12 +622,12 @@
 | 620 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 621 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 622 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 623 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 624 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 625 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 626 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 627 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 628 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 623 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 624 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 626 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 627 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 628 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 629 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 630 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 631 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
@@ -693,19 +693,19 @@
 | 691 | [Pine](games/p/pine.md) | 4.14 | 
 | 692 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.14 | 
 | 693 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
-| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
-| 695 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 696 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 697 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 698 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 699 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 700 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 701 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 702 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 703 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 704 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 706 | [Godlike Burger](games/g/godlike_burger.md) | 4.10 | 
+| 694 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
+| 695 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 696 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 697 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 698 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 699 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 700 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 701 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 702 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 703 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 704 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 705 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 706 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 707 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 708 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 709 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
