@@ -316,7 +316,7 @@
 | 314 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 315 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 316 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 317 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 317 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 318 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 319 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
 | 320 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
