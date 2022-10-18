@@ -205,24 +205,24 @@
 | 203 | [SOMA](games/s/soma.md) | 4.68 | 
 | 204 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 205 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 206 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 207 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 208 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
-| 209 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 210 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 211 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 212 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 213 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 214 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 215 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 216 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 217 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 218 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 
-| 219 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
-| 220 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 221 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 222 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 223 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 206 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 207 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 208 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 209 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
+| 210 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 211 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 212 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 213 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 214 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 215 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 216 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 217 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 218 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 219 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 
+| 220 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 221 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 222 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 223 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
 | 224 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 225 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 226 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -618,12 +618,12 @@
 | 616 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 617 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 618 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 619 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 620 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 621 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 622 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 623 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 624 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 619 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 620 | [Lamentum](games/l/lamentum.md) | 4.32 | 
+| 621 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 622 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 623 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 624 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 625 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 626 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 627 | [Fortnite](games/f/fortnite.md) | 4.30 | 

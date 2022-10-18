@@ -32,7 +32,7 @@
 | 30 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 31 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 32 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 33 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 33 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 34 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 35 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 36 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -52,7 +52,7 @@
 | 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 51 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 53 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 53 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
