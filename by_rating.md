@@ -524,20 +524,20 @@
 | 522 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 523 | [Observation](games/o/observation.md) | 4.44 | 
 | 524 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 525 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 526 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 527 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 528 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 529 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 530 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 531 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 532 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 533 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 534 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 535 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 536 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 537 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 538 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 525 | [Torchlight](games/t/torchlight.md) | 4.43 | 
+| 526 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 527 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 528 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 529 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 530 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 531 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 532 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 533 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 534 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 535 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 536 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 537 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 538 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 539 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 540 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 541 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 

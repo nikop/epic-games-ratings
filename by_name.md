@@ -664,7 +664,7 @@
 | 662 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 663 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 664 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 665 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 665 | [Torchlight](games/t/torchlight.md) | 4.43 | 
 | 666 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 667 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 668 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
