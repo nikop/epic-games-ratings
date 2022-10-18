@@ -494,7 +494,7 @@
 | 492 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 493 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 494 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 495 | [Sable](games/s/sable.md) | 4.52 | 
+| 495 | [Sable](games/s/sable.md) | 4.53 | 
 | 496 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 497 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 498 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
