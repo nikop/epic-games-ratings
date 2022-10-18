@@ -451,15 +451,15 @@
 | 449 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 450 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 451 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 452 | [CryoFall](games/c/cryofall.md) | 4.51 | 
-| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 454 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 455 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 456 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 457 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 458 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 459 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 460 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 453 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 454 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 455 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 456 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 457 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 458 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 459 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 460 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 461 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 462 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 463 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -497,15 +497,15 @@
 | 495 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 496 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 497 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 498 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 499 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
-| 500 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 501 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 502 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 503 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 504 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 505 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 506 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 498 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
+| 499 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 500 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
+| 501 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 502 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 503 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 504 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 505 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 506 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 507 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 508 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 509 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 

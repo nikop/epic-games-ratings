@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.40 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.51 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -348,7 +348,7 @@
 | 346 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 347 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 348 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 349 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 349 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 350 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 351 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 352 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
