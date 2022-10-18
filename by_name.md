@@ -173,7 +173,7 @@
 | 171 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 172 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 173 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 174 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 174 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 175 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 176 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
@@ -369,7 +369,7 @@
 | 367 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 368 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 369 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 370 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 370 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 371 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 372 | [Minit](games/m/minit.md) | 4.53 | 
 | 373 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 

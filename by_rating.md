@@ -18,11 +18,11 @@
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 19 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 21 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
+| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 22 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
@@ -476,17 +476,17 @@
 | 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 475 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 476 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 477 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 478 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
-| 479 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
-| 480 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
-| 481 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
-| 482 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 483 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 484 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 485 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 486 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 487 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 477 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 478 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
+| 479 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 480 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
+| 481 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 482 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
+| 483 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 484 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 485 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 486 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 488 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 489 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 490 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
