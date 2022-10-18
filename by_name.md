@@ -404,7 +404,7 @@
 | 402 | [NORCO](games/n/norco.md) | 4.55 | 
 | 403 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 404 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 405 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 405 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
 | 406 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 407 | [Observation](games/o/observation.md) | 4.44 | 
 | 408 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
@@ -456,7 +456,7 @@
 | 454 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 455 | [Quake](games/q/quake.md) | 4.80 | 
 | 456 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 457 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 457 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 458 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 459 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 460 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
@@ -477,7 +477,7 @@
 | 475 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 476 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 477 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 478 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 478 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
 | 479 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 480 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 481 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -552,7 +552,7 @@
 | 550 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 551 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 552 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 553 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 553 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 554 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 555 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 556 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
@@ -603,9 +603,9 @@
 | 601 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 602 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 603 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.48 | 
+| 604 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 605 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.68 | 
+| 606 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
 | 607 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 608 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 609 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 

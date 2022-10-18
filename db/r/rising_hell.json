@@ -1,10 +1,10 @@
 {
   "ID": "8d123dcc4b5c4d168f7de7b3e1ed7d47",
   "Name": "Rising Hell",
-  "Rating": 4.4,
+  "Rating": 4.39,
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2022-10-17T23:31:28.1317642+00:00",
+  "LastChanged": "2022-10-18T19:31:33.7526266+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-07T17:01:28.5689969+00:00",
@@ -170,12 +170,17 @@
       "Time": "2022-10-17T23:31:28.1317643+00:00",
       "Rating": 4.4,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-18T19:31:33.752627+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Quickly Understood Controls",
