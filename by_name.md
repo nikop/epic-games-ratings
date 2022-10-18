@@ -742,7 +742,7 @@
 | 740 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 741 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 742 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 743 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 
+| 743 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 744 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 745 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 746 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
