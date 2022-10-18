@@ -60,20 +60,20 @@
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 63 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
-| 64 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 65 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
-| 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
-| 67 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
-| 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 69 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 71 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 72 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 73 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 62 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
+| 63 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 64 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 65 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 66 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 74 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 75 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 77 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
@@ -131,16 +131,16 @@
 | 129 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 130 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 132 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
-| 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 137 | [Fez](games/f/fez.md) | 4.73 | 
-| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 132 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 133 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
+| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 137 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 138 | [Fez](games/f/fez.md) | 4.73 | 
+| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -312,25 +312,25 @@
 | 310 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 313 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 314 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 315 | [20XX](games/2/20xx.md) | 4.60 | 
-| 316 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 317 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 318 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 319 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 320 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 321 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 322 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 323 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 324 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 325 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 326 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 327 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 328 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 329 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 330 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 331 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 313 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 314 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 315 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 316 | [20XX](games/2/20xx.md) | 4.60 | 
+| 317 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 318 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 319 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 320 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 321 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 322 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 323 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 324 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 325 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 326 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 327 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 328 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 329 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 330 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 331 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 332 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 333 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 334 | [Hob](games/h/hob.md) | 4.59 | 
@@ -733,10 +733,10 @@
 | 731 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 732 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 733 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
-| 734 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 735 | [Patron](games/p/patron.md) | 3.91 | 
-| 736 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 737 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.89 | 
+| 734 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.92 | 
+| 735 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 736 | [Patron](games/p/patron.md) | 3.91 | 
+| 737 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 738 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 739 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 740 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 

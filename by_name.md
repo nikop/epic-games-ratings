@@ -294,7 +294,7 @@
 | 292 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
 | 293 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 294 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 295 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 295 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 296 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 297 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 298 | [Inscryption](games/i/inscryption.md) | 4.85 | 
@@ -404,7 +404,7 @@
 | 402 | [NORCO](games/n/norco.md) | 4.55 | 
 | 403 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 404 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 405 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 405 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 406 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 407 | [Observation](games/o/observation.md) | 4.44 | 
 | 408 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
@@ -557,7 +557,7 @@
 | 555 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 556 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 557 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 558 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 558 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 559 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 560 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 561 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
@@ -657,7 +657,7 @@
 | 655 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 656 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 657 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 658 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.89 | 
+| 658 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.92 | 
 | 659 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 660 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 661 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
