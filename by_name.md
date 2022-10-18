@@ -446,7 +446,7 @@
 | 444 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 445 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 446 | [Pine](games/p/pine.md) | 4.14 | 
-| 447 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
+| 447 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 448 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 449 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 450 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
@@ -737,7 +737,7 @@
 | 735 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 736 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 737 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 738 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 738 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
 | 739 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 740 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 741 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 

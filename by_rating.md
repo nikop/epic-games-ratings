@@ -282,21 +282,21 @@
 | 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 283 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 284 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 285 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 286 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 287 | [GRIME](games/g/grime.md) | 4.62 | 
-| 288 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
-| 289 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 290 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 291 | [Prey](games/p/prey.md) | 4.61 | 
-| 292 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 293 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 294 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 295 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 297 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 283 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 284 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 285 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 286 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 287 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 288 | [GRIME](games/g/grime.md) | 4.62 | 
+| 289 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 290 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 291 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 292 | [Prey](games/p/prey.md) | 4.61 | 
+| 293 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 294 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 295 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 296 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 297 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 298 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 300 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
@@ -574,18 +574,18 @@
 | 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 575 | [Far Cry](games/f/far_cry.md) | 4.38 | 
-| 576 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 577 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 578 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 579 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 581 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 582 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 583 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
-| 584 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 585 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 586 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
+| 575 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
+| 576 | [Far Cry](games/f/far_cry.md) | 4.38 | 
+| 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 578 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 580 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 581 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 582 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 583 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 584 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 585 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 586 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 587 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 588 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
 | 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
