@@ -134,15 +134,15 @@
 | 132 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 134 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 136 | [Fez](games/f/fez.md) | 4.73 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 138 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 139 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 135 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 137 | [Fez](games/f/fez.md) | 4.73 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 140 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 141 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 144 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 146 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
@@ -593,13 +593,13 @@
 | 591 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 592 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 597 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 598 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 600 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 594 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 595 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 596 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 597 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 599 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 600 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 601 | [House Party](games/h/house_party.md) | 4.35 | 
 | 602 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 603 | [ELEX](games/e/elex.md) | 4.35 | 

@@ -74,7 +74,7 @@
 | 72 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 73 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 74 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 75 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -626,7 +626,7 @@
 | 624 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 625 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 626 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 627 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 627 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 628 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
 | 629 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 630 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
