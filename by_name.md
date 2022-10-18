@@ -321,7 +321,7 @@
 | 319 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 320 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 321 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 322 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 322 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
 | 323 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
 | 324 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
 | 325 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -534,7 +534,7 @@
 | 532 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 533 | [SOMA](games/s/soma.md) | 4.68 | 
 | 534 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 535 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 535 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 536 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 537 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 538 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -566,7 +566,7 @@
 | 564 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 565 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 566 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 567 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 567 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 568 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 569 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 570 | [Subnautica](games/s/subnautica.md) | 4.84 | 

@@ -150,19 +150,19 @@
 | 148 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 149 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 152 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 154 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 155 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 156 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
-| 158 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
-| 159 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 160 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 161 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
-| 162 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 163 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 155 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 157 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 158 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
+| 159 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
+| 160 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 161 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 162 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
+| 163 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 165 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 166 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -514,16 +514,16 @@
 | 512 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 513 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 514 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 515 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 516 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 517 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 518 | [Figment](games/f/figment.md) | 4.44 | 
-| 519 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 520 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 521 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 522 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 523 | [Observation](games/o/observation.md) | 4.44 | 
-| 524 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 515 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 516 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 517 | [Figment](games/f/figment.md) | 4.44 | 
+| 518 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 519 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 520 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 521 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 522 | [Observation](games/o/observation.md) | 4.44 | 
+| 523 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 524 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 525 | [Torchlight](games/t/torchlight.md) | 4.43 | 
 | 526 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 527 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
@@ -573,16 +573,16 @@
 | 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
-| 574 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 576 | [Far Cry](games/f/far_cry.md) | 4.38 | 
-| 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 578 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 580 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 581 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 582 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 583 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
+| 575 | [Far Cry](games/f/far_cry.md) | 4.38 | 
+| 576 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 577 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 578 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 579 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 580 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 581 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 582 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 583 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 584 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 585 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 586 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.37 | 
