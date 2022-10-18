@@ -56,7 +56,7 @@
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 56 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
-| 57 | [Aztez](games/a/aztez.md) | 4.48 | 
+| 57 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 58 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 59 | [Backbone](games/b/backbone.md) | 4.34 | 
 | 60 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -65,7 +65,7 @@
 | 63 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 64 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 65 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
-| 66 | [Barony](games/b/barony.md) | 4.70 | 
+| 66 | [Barony](games/b/barony.md) | 4.69 | 
 | 67 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
 | 68 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 69 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -500,7 +500,7 @@
 | 498 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 499 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 500 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 501 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 501 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 502 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 503 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 504 | [Scorn](games/s/scorn.md) | 4.62 | 
@@ -530,7 +530,7 @@
 | 528 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 529 | [SMITE](games/s/smite.md) | 4.46 | 
 | 530 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 531 | [Solar Ash](games/s/solar_ash.md) | 4.68 | 
+| 531 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 532 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 533 | [SOMA](games/s/soma.md) | 4.68 | 
 | 534 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
