@@ -98,7 +98,7 @@
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 97 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 98 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 99 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 99 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 101 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -234,7 +234,7 @@
 | 232 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 233 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 234 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 235 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 235 | [FUSER™](games/f/fuser™.md) | 4.70 | 
 | 236 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 237 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 238 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
@@ -741,7 +741,7 @@
 | 739 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 740 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 741 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 742 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 742 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.67 | 
 | 743 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 744 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 745 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
