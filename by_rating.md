@@ -723,10 +723,10 @@
 | 721 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 722 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 723 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 724 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 725 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 726 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 727 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 
+| 724 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
+| 725 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 726 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 727 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 728 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 729 | [Warface](games/w/warface.md) | 3.95 | 
 | 730 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
