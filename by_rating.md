@@ -680,9 +680,9 @@
 | 678 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 679 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 680 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 681 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 682 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
-| 683 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 681 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 682 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 683 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 684 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 685 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 686 | [Family Man](games/f/family_man.md) | 4.17 | 

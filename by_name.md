@@ -354,7 +354,7 @@
 | 352 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 353 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 354 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 355 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 355 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 356 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 357 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 358 | [Mago](games/m/mago.md) | 4.90 | 
