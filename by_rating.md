@@ -504,15 +504,15 @@
 | 502 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 503 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 504 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 505 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 506 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 507 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 508 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 509 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 511 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 512 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 513 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 505 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 506 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 507 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 508 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 509 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 510 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 511 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 512 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 513 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 514 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 515 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 516 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
