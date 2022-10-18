@@ -247,21 +247,21 @@
 | 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 247 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 248 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 249 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 250 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
-| 251 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 252 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 253 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 254 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 255 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 256 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 257 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 258 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 259 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 260 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 261 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 262 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 249 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 250 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 251 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 252 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 253 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 254 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 255 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 256 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 257 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 258 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 260 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 262 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 263 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 264 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 265 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
@@ -379,32 +379,32 @@
 | 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 378 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 379 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 380 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 381 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 382 | [Breathedge](games/b/breathedge.md) | 4.56 | 
-| 383 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
-| 384 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 385 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 386 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 387 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 388 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 390 | [Hue](games/h/hue.md) | 4.55 | 
-| 391 | [Outward](games/o/outward.md) | 4.55 | 
-| 392 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 393 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 394 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 
-| 395 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 396 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 397 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 398 | [Horace](games/h/horace.md) | 4.55 | 
-| 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 400 | [NORCO](games/n/norco.md) | 4.55 | 
-| 401 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 402 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 403 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 404 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 405 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 380 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 381 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 382 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 383 | [Breathedge](games/b/breathedge.md) | 4.56 | 
+| 384 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
+| 385 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 386 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 387 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 388 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 389 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
+| 391 | [Hue](games/h/hue.md) | 4.55 | 
+| 392 | [Outward](games/o/outward.md) | 4.55 | 
+| 393 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 394 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 395 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 
+| 396 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 397 | [Horace](games/h/horace.md) | 4.55 | 
+| 398 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 399 | [NORCO](games/n/norco.md) | 4.55 | 
+| 400 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 401 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 402 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 403 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 404 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 405 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 406 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 407 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 408 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.54 | 

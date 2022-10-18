@@ -328,7 +328,7 @@
 | 326 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 327 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 328 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 329 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 329 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 330 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 331 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 332 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -491,7 +491,7 @@
 | 489 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 490 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 491 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 492 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 492 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 493 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 494 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 495 | [Sable](games/s/sable.md) | 4.52 | 
@@ -682,7 +682,7 @@
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 681 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 682 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 683 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 683 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 684 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 685 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 686 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
