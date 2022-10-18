@@ -66,7 +66,7 @@
 | 64 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 65 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 66 | [Barony](games/b/barony.md) | 4.69 | 
-| 67 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.28 | 
+| 67 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 68 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
 | 69 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 70 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -196,7 +196,7 @@
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 195 | [Encased](games/e/encased.md) | 4.40 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
@@ -503,7 +503,7 @@
 | 501 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 502 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 503 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 504 | [Scorn](games/s/scorn.md) | 4.62 | 
+| 504 | [Scorn](games/s/scorn.md) | 4.65 | 
 | 505 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 506 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 507 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -594,7 +594,7 @@
 | 592 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 593 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 594 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
-| 595 | [Tharsis](games/t/tharsis.md) | 4.26 | 
+| 595 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 596 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 597 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
 | 598 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -645,7 +645,7 @@
 | 643 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
 | 644 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 645 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 646 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 646 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 647 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 648 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 649 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 

@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Scorn](games/s/scorn.md) | 4.62 | 
+| 1 | [Scorn](games/s/scorn.md) | 4.65 | 
 | 2 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.92 | 
 | 3 | [Darkwood](games/d/darkwood.md) | 4.53 | 
 | 4 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
