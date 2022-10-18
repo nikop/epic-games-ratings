@@ -23,7 +23,7 @@
 | 21 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 22 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 23 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 24 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 25 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 26 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 27 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
@@ -196,7 +196,7 @@
 | 194 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 195 | [Encased](games/e/encased.md) | 4.40 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
@@ -279,7 +279,7 @@
 | 277 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 279 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 280 | [Hob](games/h/hob.md) | 4.59 | 
+| 280 | [Hob](games/h/hob.md) | 4.58 | 
 | 281 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 282 | [Horace](games/h/horace.md) | 4.55 | 
 | 283 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -490,7 +490,7 @@
 | 488 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 489 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 490 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 491 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 491 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 492 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 493 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 494 | [Runbow](games/r/runbow.md) | 4.44 | 
@@ -507,7 +507,7 @@
 | 505 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 506 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 507 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 508 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 508 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 509 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 510 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 511 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
