@@ -147,16 +147,16 @@
 | 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 146 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 147 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 148 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 149 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 150 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 151 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 153 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 154 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 155 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
-| 157 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
+| 148 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 149 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 152 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 154 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 155 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 156 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
 | 158 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 159 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 160 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
@@ -411,32 +411,32 @@
 | 409 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 410 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 411 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 412 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 414 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 415 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 416 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 417 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 419 | [Minit](games/m/minit.md) | 4.53 | 
-| 420 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 421 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 422 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 423 | [Sable](games/s/sable.md) | 4.53 | 
-| 424 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 425 | [Darkwood](games/d/darkwood.md) | 4.53 | 
-| 426 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 427 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 428 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 429 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 430 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 431 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 432 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 433 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 434 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 435 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 436 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 412 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 413 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 414 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 415 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 416 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 418 | [Minit](games/m/minit.md) | 4.53 | 
+| 419 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 420 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 421 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 422 | [Sable](games/s/sable.md) | 4.53 | 
+| 423 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 424 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 425 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 426 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 427 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 428 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 429 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 430 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 431 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 432 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 433 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 434 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 435 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 437 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 438 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 439 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 440 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -735,7 +735,7 @@
 | 733 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 734 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 735 | [Patron](games/p/patron.md) | 3.91 | 
-| 736 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
+| 736 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 737 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.89 | 
 | 738 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 739 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 

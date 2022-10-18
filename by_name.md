@@ -51,7 +51,7 @@
 | 49 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 50 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 51 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 52 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 52 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 53 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 54 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 55 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
@@ -89,7 +89,7 @@
 | 87 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 88 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 89 | [Breathedge](games/b/breathedge.md) | 4.56 | 
-| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.89 | 
+| 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.52 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -176,7 +176,7 @@
 | 174 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 175 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 176 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.71 | 
+| 177 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 178 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 179 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 180 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
