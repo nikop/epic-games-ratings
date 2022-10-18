@@ -318,7 +318,7 @@
 | 316 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 317 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
 | 318 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
-| 319 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 319 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 320 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 321 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 322 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
@@ -509,7 +509,7 @@
 | 507 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 508 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
 | 509 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 510 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 510 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 511 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 512 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 513 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 

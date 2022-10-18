@@ -59,10 +59,10 @@
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 60 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 62 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 63 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 61 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 63 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 64 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 65 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 66 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
@@ -564,12 +564,12 @@
 | 562 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 
 | 563 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 564 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 565 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 566 | [Core](games/c/core.md) | 4.39 | 
-| 567 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 568 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 569 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 570 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.38 | 
+| 565 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 566 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 567 | [Core](games/c/core.md) | 4.39 | 
+| 568 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 569 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 570 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
