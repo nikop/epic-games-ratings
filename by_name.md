@@ -12,7 +12,7 @@
 | 10 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 11 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 12 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.71 | 
+| 13 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 14 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 15 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 16 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
@@ -92,7 +92,7 @@
 | 90 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 91 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 92 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 93 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -186,7 +186,7 @@
 | 184 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 185 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 186 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
+| 187 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 188 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 189 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 190 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
@@ -206,7 +206,7 @@
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 205 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 206 | [Far Cry](games/f/far_cry.md) | 4.38 | 
-| 207 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 207 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 208 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
 | 209 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 210 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
