@@ -139,7 +139,7 @@
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 140 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 140 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -201,7 +201,7 @@
 | 199 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 200 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
 | 201 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 202 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 203 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 204 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 205 | [Family Man](games/f/family_man.md) | 4.17 | 

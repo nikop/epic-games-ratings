@@ -364,17 +364,17 @@
 | 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 365 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 366 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 370 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 371 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 372 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 373 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 374 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 365 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 366 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 368 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 369 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 370 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 371 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 372 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 373 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 375 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 376 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 378 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
@@ -421,22 +421,22 @@
 | 419 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 420 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 421 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 422 | [Sable](games/s/sable.md) | 4.53 | 
-| 423 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 424 | [Darkwood](games/d/darkwood.md) | 4.53 | 
-| 425 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 426 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 427 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 428 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 429 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 430 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 431 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 432 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 433 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 434 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 435 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 436 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 437 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 422 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
+| 423 | [Sable](games/s/sable.md) | 4.53 | 
+| 424 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 425 | [Darkwood](games/d/darkwood.md) | 4.53 | 
+| 426 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 427 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 428 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 429 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 430 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 431 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 432 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 434 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 436 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 437 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 438 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
 | 439 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 440 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
