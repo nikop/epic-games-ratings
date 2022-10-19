@@ -525,20 +525,20 @@
 | 523 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 524 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 525 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 526 | [Torchlight](games/t/torchlight.md) | 4.43 | 
-| 527 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 528 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 529 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 530 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
-| 531 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 532 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 533 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 534 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
-| 535 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 536 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 537 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 538 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 539 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 526 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 527 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 528 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 529 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 530 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 531 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 532 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 533 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 534 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 535 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 536 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 537 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 538 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 539 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 540 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 541 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 542 | [Othercide](games/o/othercide.md) | 4.42 | 
@@ -723,19 +723,19 @@
 | 721 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
 | 722 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 723 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 724 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 725 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 726 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
-| 727 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 728 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 729 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 730 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 731 | [Warface](games/w/warface.md) | 3.95 | 
-| 732 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 733 | [Conarium](games/c/conarium.md) | 3.95 | 
-| 734 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
-| 735 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
-| 736 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.92 | 
+| 724 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
+| 725 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 726 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
+| 727 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
+| 728 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 729 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 730 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 731 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 732 | [Warface](games/w/warface.md) | 3.95 | 
+| 733 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 734 | [Conarium](games/c/conarium.md) | 3.95 | 
+| 735 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
+| 736 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 737 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 738 | [Patron](games/p/patron.md) | 3.91 | 
 | 739 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
