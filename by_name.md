@@ -60,7 +60,7 @@
 | 58 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 59 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 60 | [Backbone](games/b/backbone.md) | 4.34 | 
-| 61 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 61 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 62 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 63 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
 | 64 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
@@ -155,7 +155,7 @@
 | 153 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 154 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 155 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 156 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 156 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 157 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 158 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 159 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -169,7 +169,7 @@
 | 167 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 168 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 169 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 170 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 170 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 171 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 172 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 173 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
