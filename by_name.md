@@ -190,7 +190,7 @@
 | 188 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 189 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 190 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
-| 191 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 191 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 192 | [ELEX](games/e/elex.md) | 4.35 | 
 | 193 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 194 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -201,7 +201,7 @@
 | 199 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 200 | [Everything](games/e/everything.md) | 4.70 | 
 | 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 203 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 205 | [Faeria](games/f/faeria.md) | 4.41 | 
@@ -588,7 +588,7 @@
 | 586 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 587 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 588 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 589 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 589 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 590 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 591 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 592 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 

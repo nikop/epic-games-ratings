@@ -248,9 +248,9 @@
 | 246 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 248 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 249 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 250 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 251 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
+| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 251 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 252 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 253 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 254 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
@@ -262,10 +262,10 @@
 | 260 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 261 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 262 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 263 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 264 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 265 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 266 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 263 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 264 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 265 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 266 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 267 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 268 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 269 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
@@ -519,17 +519,17 @@
 | 517 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 518 | [Figment](games/f/figment.md) | 4.44 | 
 | 519 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 520 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 521 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 522 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 523 | [Observation](games/o/observation.md) | 4.44 | 
-| 524 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 525 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 526 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 527 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 528 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 529 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 530 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.43 | 
+| 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 521 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 522 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 523 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 524 | [Observation](games/o/observation.md) | 4.44 | 
+| 525 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 526 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 527 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 528 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 529 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 530 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 531 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 532 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
 | 533 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
