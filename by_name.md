@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -112,7 +112,7 @@
 | 110 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 111 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 112 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
-| 113 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 113 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 114 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 115 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 116 | [Conarium](games/c/conarium.md) | 3.95 | 
@@ -162,7 +162,7 @@
 | 160 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 161 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 162 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 163 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 163 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 164 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 165 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
 | 166 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -245,7 +245,7 @@
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 244 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 245 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.39 | 
+| 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.40 | 
 | 247 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 248 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 249 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -545,9 +545,9 @@
 | 543 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 544 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 545 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 546 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
+| 546 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 547 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 548 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 548 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
 | 549 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 550 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.64 | 
 | 551 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -617,7 +617,7 @@
 | 615 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 616 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 617 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
-| 618 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 618 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 619 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 620 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 621 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
@@ -717,7 +717,7 @@
 | 715 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 716 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 717 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 718 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 718 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.53 | 
 | 719 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 720 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 721 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
