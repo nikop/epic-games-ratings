@@ -1,10 +1,10 @@
 {
   "ID": "5b08e4db33c54e518c2a1360cc2c7f18",
   "Name": "2064: Read Only Memories",
-  "Rating": 4.14,
+  "Rating": 4.18,
   "FirstSeen": "2022-07-22T20:29:03.6056272+00:00",
   "FirstSeenRating": "2022-10-09T09:33:27.3361075+00:00",
-  "LastChanged": "2022-10-16T10:33:08.4920133+00:00",
+  "LastChanged": "2022-10-19T10:32:14.0646197+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-09T09:33:27.3361077+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-10-16T10:33:08.4920138+00:00",
       "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-19T10:32:14.0646199+00:00",
+      "Rating": 4.18,
       "NumberOfRatings": null
     }
   ],

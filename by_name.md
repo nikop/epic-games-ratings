@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
+| 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
@@ -696,7 +696,7 @@
 | 694 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 695 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 696 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 697 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 697 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 698 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 699 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 700 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 

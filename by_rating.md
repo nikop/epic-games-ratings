@@ -339,24 +339,24 @@
 | 337 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 338 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 339 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 340 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 341 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 342 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 343 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 344 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 345 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 346 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 347 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 348 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 349 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 350 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 351 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 352 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 353 | [Hob](games/h/hob.md) | 4.58 | 
-| 354 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 355 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 356 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 357 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 340 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 341 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 342 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
+| 343 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 344 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 345 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 346 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 347 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 348 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 349 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 350 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 351 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 352 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 353 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
+| 354 | [Hob](games/h/hob.md) | 4.58 | 
+| 355 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 356 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 357 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 358 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 359 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
 | 360 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
@@ -686,16 +686,16 @@
 | 684 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 685 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 686 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 687 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 688 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 689 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 690 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 691 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 692 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 693 | [Pine](games/p/pine.md) | 4.15 | 
-| 694 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 695 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 696 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
+| 687 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 688 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 689 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 690 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 691 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 692 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 693 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 694 | [Pine](games/p/pine.md) | 4.15 | 
+| 695 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 696 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 697 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
 | 698 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 699 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
