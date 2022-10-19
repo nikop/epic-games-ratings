@@ -673,7 +673,7 @@
 | 671 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 672 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 673 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 674 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 674 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 675 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 676 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 677 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
@@ -715,7 +715,7 @@
 | 713 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 714 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 715 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 716 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 716 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 717 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 718 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 719 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 

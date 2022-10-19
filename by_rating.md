@@ -147,19 +147,19 @@
 | 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 146 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 147 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 148 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 149 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 150 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 151 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 152 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 153 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 154 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 155 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 156 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 157 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 158 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 159 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
-| 160 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 148 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 149 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 155 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 157 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 158 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 159 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 160 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 161 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 162 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
 | 163 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -370,23 +370,23 @@
 | 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 370 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
-| 371 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 372 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 373 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 374 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 375 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 376 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 377 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 378 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 379 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 380 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 381 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 382 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 383 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 384 | [Breathedge](games/b/breathedge.md) | 4.56 | 
-| 385 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
-| 386 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 387 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 371 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 372 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 373 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 376 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 378 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 379 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 380 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 381 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 382 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 383 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 384 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 385 | [Breathedge](games/b/breathedge.md) | 4.56 | 
+| 386 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
+| 387 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 388 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 389 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 390 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
