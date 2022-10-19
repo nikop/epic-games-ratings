@@ -297,19 +297,19 @@
 | 295 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 296 | [Prey](games/p/prey.md) | 4.61 | 
 | 297 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 298 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 299 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 300 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 301 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 302 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 303 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 304 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 305 | [Control](games/c/control.md) | 4.60 | 
-| 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 308 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 309 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 310 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 298 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 299 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 300 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 301 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 302 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 303 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 304 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 305 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 306 | [Control](games/c/control.md) | 4.60 | 
+| 307 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 308 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 309 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 310 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 311 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 312 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 313 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -682,9 +682,9 @@
 | 680 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 681 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 682 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 683 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 684 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 685 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 683 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 684 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 685 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 686 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 687 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 688 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
@@ -740,7 +740,7 @@
 | 738 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 739 | [Patron](games/p/patron.md) | 3.91 | 
 | 740 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 741 | [Ironcast](games/i/ironcast.md) | 3.88 | 
+| 741 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 742 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 743 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 744 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 

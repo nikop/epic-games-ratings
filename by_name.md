@@ -307,7 +307,7 @@
 | 305 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 306 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 307 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 308 | [Ironcast](games/i/ironcast.md) | 3.88 | 
+| 308 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 309 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 310 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 311 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -435,7 +435,7 @@
 | 433 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 434 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 435 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 436 | [Path of Exile](games/p/path_of_exile.md) | 4.60 | 
+| 436 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 437 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 438 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 439 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -543,7 +543,7 @@
 | 541 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 542 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 543 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 544 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 544 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 545 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 546 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 547 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
