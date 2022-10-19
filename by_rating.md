@@ -560,49 +560,49 @@
 | 558 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 560 | [Encased](games/e/encased.md) | 4.40 | 
-| 561 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.40 | 
-| 562 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 563 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 564 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 565 | [Core](games/c/core.md) | 4.39 | 
-| 566 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 567 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 568 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 569 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 570 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 571 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
-| 572 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 573 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 574 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
-| 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 576 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
-| 577 | [Far Cry](games/f/far_cry.md) | 4.38 | 
-| 578 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 579 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 580 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 581 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 582 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 583 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 584 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 585 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
-| 586 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 587 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 588 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 589 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
-| 590 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 591 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 592 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 594 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 595 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 596 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 597 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 599 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 600 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 601 | [House Party](games/h/house_party.md) | 4.35 | 
-| 602 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 603 | [ELEX](games/e/elex.md) | 4.35 | 
+| 561 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 562 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 563 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 564 | [Core](games/c/core.md) | 4.39 | 
+| 565 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 566 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 567 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 568 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 569 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 570 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
+| 571 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 572 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 573 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
+| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
+| 575 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
+| 576 | [Far Cry](games/f/far_cry.md) | 4.38 | 
+| 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 578 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 579 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 580 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 581 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 582 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 583 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 584 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 585 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 586 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 587 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 588 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
+| 589 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 590 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 593 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 597 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 598 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 600 | [House Party](games/h/house_party.md) | 4.35 | 
+| 601 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 602 | [ELEX](games/e/elex.md) | 4.35 | 
+| 603 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 604 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 605 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
 | 606 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
