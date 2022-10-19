@@ -254,31 +254,31 @@
 | 252 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 253 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 254 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 255 | [Scorn](games/s/scorn.md) | 4.65 | 
-| 256 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 257 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 258 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 259 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 260 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 261 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 262 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 263 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 264 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 265 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 266 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 267 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 268 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 269 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 270 | [Old World](games/o/old_world.md) | 4.63 | 
-| 271 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 274 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 275 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 277 | [RiME](games/r/rime.md) | 4.63 | 
-| 278 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
-| 279 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 255 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 256 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 257 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 258 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 259 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 260 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 261 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 262 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 263 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 264 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 265 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 266 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 267 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 268 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 269 | [Old World](games/o/old_world.md) | 4.63 | 
+| 270 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 272 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 273 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 274 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 276 | [RiME](games/r/rime.md) | 4.63 | 
+| 277 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
+| 278 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 279 | [Scorn](games/s/scorn.md) | 4.63 | 
 | 280 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 281 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 282 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -748,4 +748,4 @@
 | 746 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 747 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 748 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 
-| 749 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
+| 749 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 

@@ -121,7 +121,7 @@
 | 119 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 120 | [Core](games/c/core.md) | 4.39 | 
 | 121 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 122 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
+| 122 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
 | 123 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 124 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 125 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
@@ -506,7 +506,7 @@
 | 504 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 505 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 506 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 507 | [Scorn](games/s/scorn.md) | 4.65 | 
+| 507 | [Scorn](games/s/scorn.md) | 4.63 | 
 | 508 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 509 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 510 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
