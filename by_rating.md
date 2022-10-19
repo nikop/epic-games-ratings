@@ -460,19 +460,19 @@
 | 458 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 459 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 460 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 461 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 462 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 463 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 464 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 465 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 466 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 467 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 468 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 469 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 470 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 471 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 472 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 462 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 463 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 464 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 465 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 466 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 467 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 469 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 470 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 471 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 472 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 473 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 475 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 476 | [Aztez](games/a/aztez.md) | 4.49 | 
