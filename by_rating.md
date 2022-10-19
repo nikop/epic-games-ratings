@@ -162,18 +162,18 @@
 | 160 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 161 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 162 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 163 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 164 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
-| 165 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 166 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 167 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 168 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 169 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 170 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 171 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 172 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
-| 173 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 174 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
+| 163 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 164 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 165 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
+| 166 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 168 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 169 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 170 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 171 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 172 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 173 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
+| 174 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 175 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
 | 176 | [Everything](games/e/everything.md) | 4.70 | 
 | 177 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.70 | 
@@ -596,12 +596,12 @@
 | 594 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 595 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 596 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 597 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 598 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 599 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 600 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 601 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 602 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 597 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 598 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 599 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 600 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 601 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 602 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 603 | [House Party](games/h/house_party.md) | 4.35 | 
 | 604 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 605 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 

@@ -75,7 +75,7 @@
 | 73 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 74 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 75 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 76 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 76 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 79 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -416,7 +416,7 @@
 | 414 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 415 | [Old World](games/o/old_world.md) | 4.63 | 
 | 416 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 417 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
+| 417 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 418 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
 | 419 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 420 | [Othercide](games/o/othercide.md) | 4.42 | 
