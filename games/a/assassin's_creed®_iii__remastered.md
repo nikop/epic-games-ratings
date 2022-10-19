@@ -1,5 +1,5 @@
 # Assassin's Creed® III: Remastered
-Rating: 4.44 (257)  (as of 23.09.2022)  
+Rating: 4.45 (257)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -58,3 +58,4 @@ Rating: 4.44 (257)  (as of 23.09.2022)
 | 2022-10-03 | 4.44 | - |
 | 2022-10-06 | 4.45 | - |
 | 2022-10-10 | 4.44 | - |
+| 2022-10-19 | 4.45 | - |
