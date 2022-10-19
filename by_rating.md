@@ -658,8 +658,8 @@
 | 656 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 657 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 658 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 659 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
-| 660 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
+| 659 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
 | 661 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 662 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 663 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
