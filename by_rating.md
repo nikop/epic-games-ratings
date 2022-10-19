@@ -278,31 +278,31 @@
 | 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 277 | [RiME](games/r/rime.md) | 4.63 | 
 | 278 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
-| 279 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 280 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 281 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 282 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 283 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 284 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 285 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 286 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 287 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 288 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 289 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 290 | [GRIME](games/g/grime.md) | 4.62 | 
-| 291 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 292 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 293 | [Prey](games/p/prey.md) | 4.61 | 
-| 294 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 295 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 296 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 297 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 298 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 299 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 301 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 302 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
-| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 279 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 280 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 281 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 282 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 283 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 284 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 285 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 286 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 287 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 288 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 289 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 290 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 291 | [GRIME](games/g/grime.md) | 4.62 | 
+| 292 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 293 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 294 | [Prey](games/p/prey.md) | 4.61 | 
+| 295 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 296 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 297 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 298 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 299 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 300 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 301 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 302 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 303 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
 | 304 | [Control](games/c/control.md) | 4.60 | 
 | 305 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 306 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 

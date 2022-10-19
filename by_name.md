@@ -263,7 +263,7 @@
 | 261 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 262 | [GRIME](games/g/grime.md) | 4.62 | 
 | 263 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 264 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 264 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 265 | [Hades](games/h/hades.md) | 4.92 | 
 | 266 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 267 | [Hammerting](games/h/hammerting.md) | 4.38 | 
