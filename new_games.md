@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.39 | 
-| 2 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.81 | 
+| 2 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 3 | [Scorn](games/s/scorn.md) | 4.64 | 
 | 4 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
 | 5 | [Darkwood](games/d/darkwood.md) | 4.55 | 

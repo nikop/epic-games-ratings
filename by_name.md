@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.81 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -53,7 +53,7 @@
 | 51 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 52 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 53 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 54 | [Automachef](games/a/automachef.md) | 4.31 | 
+| 54 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 55 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 56 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 57 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
@@ -74,7 +74,7 @@
 | 72 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 73 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 74 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 75 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 75 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 76 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -362,7 +362,7 @@
 | 360 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 361 | [Mago](games/m/mago.md) | 4.90 | 
 | 362 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 363 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
+| 363 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
 | 364 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 365 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 366 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -375,7 +375,7 @@
 | 373 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 374 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 375 | [Minit](games/m/minit.md) | 4.53 | 
-| 376 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 376 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 377 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 378 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 379 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
@@ -604,7 +604,7 @@
 | 602 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 603 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 604 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 605 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 605 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 606 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 607 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 608 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
@@ -633,7 +633,7 @@
 | 631 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
 | 632 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 633 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 634 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 634 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 635 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 636 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 637 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
