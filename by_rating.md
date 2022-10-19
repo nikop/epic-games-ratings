@@ -77,16 +77,16 @@
 | 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 76 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 77 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 80 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 83 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 85 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 86 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 87 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
+| 78 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 81 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
+| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 88 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
@@ -315,25 +315,25 @@
 | 313 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 315 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 316 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 317 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 318 | [20XX](games/2/20xx.md) | 4.60 | 
-| 319 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 320 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 321 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 322 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 323 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 324 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 325 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 326 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 327 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 328 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 329 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 330 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 331 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 332 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 333 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 334 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 316 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 317 | [20XX](games/2/20xx.md) | 4.60 | 
+| 318 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 319 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 320 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 321 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 322 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 323 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 324 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 325 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 326 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 327 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 328 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 329 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 330 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 331 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 332 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 333 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 334 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 335 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 336 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 337 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
@@ -453,20 +453,20 @@
 | 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 452 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 454 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 455 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 456 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 457 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 458 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 459 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 460 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 462 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 463 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 464 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 465 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 466 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 467 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 454 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 455 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 456 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 457 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 458 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 459 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 460 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 461 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 462 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 463 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 464 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 465 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 466 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 467 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 469 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 470 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 

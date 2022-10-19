@@ -200,7 +200,7 @@
 | 198 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 199 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 200 | [Everything](games/e/everything.md) | 4.70 | 
-| 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 203 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
@@ -381,7 +381,7 @@
 | 379 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 380 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 381 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 382 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 382 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 383 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 384 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 385 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -609,7 +609,7 @@
 | 607 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 608 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 609 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
-| 610 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
+| 610 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 611 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 612 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 613 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
