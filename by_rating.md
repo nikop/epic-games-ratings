@@ -145,21 +145,21 @@
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 144 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 145 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 146 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 148 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 149 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 150 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 151 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 152 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 153 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 155 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 156 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 157 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 158 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 159 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 160 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 147 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 148 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 149 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 150 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 151 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 152 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 153 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 154 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 155 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 156 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 157 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 158 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 159 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 160 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 161 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 162 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 163 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -229,24 +229,24 @@
 | 227 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 230 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 231 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 234 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 235 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 236 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 237 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 238 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 239 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 240 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 241 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 242 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 243 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 244 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 245 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 246 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 247 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 230 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 232 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 234 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 235 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 236 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 237 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 238 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 239 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 240 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 241 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 242 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 243 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 244 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 245 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 246 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 247 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 248 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 249 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
@@ -297,22 +297,22 @@
 | 295 | [Prey](games/p/prey.md) | 4.61 | 
 | 296 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 297 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 298 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 299 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 300 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 301 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 302 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 303 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 304 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 305 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 306 | [Control](games/c/control.md) | 4.60 | 
-| 307 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 308 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 309 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 310 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 311 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 312 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
-| 313 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 298 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 299 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 300 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 301 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 302 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 303 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 304 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 305 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 306 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 307 | [Control](games/c/control.md) | 4.60 | 
+| 308 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 309 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 310 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 311 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 312 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 313 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 315 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 316 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 

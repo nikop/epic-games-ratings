@@ -210,7 +210,7 @@
 | 208 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 209 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 210 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 211 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 211 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 212 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 214 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
@@ -285,7 +285,7 @@
 | 283 | [Hob](games/h/hob.md) | 4.58 | 
 | 284 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 285 | [Horace](games/h/horace.md) | 4.55 | 
-| 286 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 286 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 287 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 288 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 289 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -632,7 +632,7 @@
 | 630 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 631 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
 | 632 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 633 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 633 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 634 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 635 | [The Surge](games/t/the_surge.md) | 4.54 | 
 | 636 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
