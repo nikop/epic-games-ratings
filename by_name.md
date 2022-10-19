@@ -171,7 +171,7 @@
 | 169 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 170 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 171 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 172 | [Diabotical](games/d/diabotical.md) | 4.80 | 
+| 172 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 173 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 174 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 175 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
@@ -209,7 +209,7 @@
 | 207 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 208 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 209 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 210 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.56 | 
+| 210 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 211 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 212 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
@@ -252,7 +252,7 @@
 | 250 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 251 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 252 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 253 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 253 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
 | 254 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 255 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 256 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
@@ -506,7 +506,7 @@
 | 504 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 505 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 506 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 507 | [Scorn](games/s/scorn.md) | 4.63 | 
+| 507 | [Scorn](games/s/scorn.md) | 4.64 | 
 | 508 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 509 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 510 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -548,7 +548,7 @@
 | 546 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 547 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 548 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 549 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 
+| 549 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.64 | 
 | 550 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 551 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 552 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
