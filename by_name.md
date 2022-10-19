@@ -447,7 +447,7 @@
 | 445 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 446 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 447 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 448 | [Pine](games/p/pine.md) | 4.14 | 
+| 448 | [Pine](games/p/pine.md) | 4.15 | 
 | 449 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 450 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 451 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 

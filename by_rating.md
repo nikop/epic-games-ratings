@@ -691,8 +691,8 @@
 | 689 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 690 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 691 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 692 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 693 | [Pine](games/p/pine.md) | 4.14 | 
+| 692 | [Pine](games/p/pine.md) | 4.15 | 
+| 693 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 694 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 695 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.14 | 
 | 696 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
