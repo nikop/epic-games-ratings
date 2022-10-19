@@ -72,7 +72,7 @@
 | 70 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 71 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 72 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 73 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 73 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 74 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 75 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 76 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
@@ -127,7 +127,7 @@
 | 125 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 126 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 127 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 128 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 128 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 129 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 130 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 131 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -174,7 +174,7 @@
 | 172 | [Diabotical](games/d/diabotical.md) | 4.80 | 
 | 173 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 174 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 175 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 175 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 176 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 177 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 178 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
@@ -237,7 +237,7 @@
 | 235 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 236 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 237 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 238 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 238 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 239 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 240 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 241 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -417,7 +417,7 @@
 | 415 | [Old World](games/o/old_world.md) | 4.63 | 
 | 416 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 417 | [Operation: Tango](games/o/operation__tango.md) | 4.70 | 
-| 418 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.22 | 
+| 418 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
 | 419 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 420 | [Othercide](games/o/othercide.md) | 4.42 | 
 | 421 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
@@ -431,7 +431,7 @@
 | 429 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 430 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 431 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 432 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 432 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 433 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 434 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 435 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 

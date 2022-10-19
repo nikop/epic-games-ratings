@@ -1,10 +1,10 @@
 {
   "ID": "lily",
   "Name": "Operencia: The Stolen Sun",
-  "Rating": 4.22,
+  "Rating": 4.25,
   "FirstSeen": "2022-07-22T20:17:17.4430211+00:00",
   "FirstSeenRating": "2022-10-06T01:00:25.195922+00:00",
-  "LastChanged": "2022-10-17T03:00:20.381574+00:00",
+  "LastChanged": "2022-10-19T11:30:30.8845076+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-06T01:00:25.1959225+00:00",
@@ -24,6 +24,11 @@
     {
       "Time": "2022-10-17T03:00:20.3815743+00:00",
       "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-19T11:30:30.8845079+00:00",
+      "Rating": 4.25,
       "NumberOfRatings": null
     }
   ],
