@@ -147,19 +147,19 @@
 | 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 146 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 147 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 148 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 149 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 150 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 152 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 153 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 155 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 156 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 157 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 158 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 159 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 160 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
+| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 149 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 150 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 151 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 152 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 153 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 154 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 156 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 157 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 158 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 159 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 160 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 161 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
 | 162 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
 | 163 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
@@ -207,22 +207,22 @@
 | 205 | [SOMA](games/s/soma.md) | 4.68 | 
 | 206 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 207 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 208 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 209 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 210 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 211 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 212 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 213 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 214 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 215 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 216 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 217 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 218 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 219 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 220 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 221 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 222 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 223 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 208 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 209 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 210 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 211 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 212 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 213 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 214 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 215 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 216 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 217 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 218 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 219 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 220 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 221 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 222 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 223 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
 | 224 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 225 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 226 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
@@ -277,19 +277,19 @@
 | 275 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 277 | [RiME](games/r/rime.md) | 4.63 | 
-| 278 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 279 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 280 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 281 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 282 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 284 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 285 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 286 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 287 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 289 | [GRIME](games/g/grime.md) | 4.62 | 
-| 290 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 278 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
+| 279 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 280 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 281 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 282 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 283 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 284 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 285 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 286 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 287 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 288 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 289 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 290 | [GRIME](games/g/grime.md) | 4.62 | 
 | 291 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 292 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 293 | [Prey](games/p/prey.md) | 4.61 | 
@@ -461,19 +461,19 @@
 | 459 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 460 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 461 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 462 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 463 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 464 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 465 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 466 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 467 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 468 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 469 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 470 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 471 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 472 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 473 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 474 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 462 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 463 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 464 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 465 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 466 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 467 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 468 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 469 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 470 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 471 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 473 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 474 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 475 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 476 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 477 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 

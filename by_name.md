@@ -130,7 +130,7 @@
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 130 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 131 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 131 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 134 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -223,7 +223,7 @@
 | 221 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 222 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 223 | [Fez](games/f/fez.md) | 4.73 | 
-| 224 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.62 | 
+| 224 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
 | 225 | [Figment](games/f/figment.md) | 4.44 | 
 | 226 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 227 | [Firework](games/f/firework.md) | 4.86 | 
@@ -565,7 +565,7 @@
 | 563 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 564 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 565 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 566 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 566 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
 | 567 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 568 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 569 | [Submerged](games/s/submerged.md) | 4.04 | 
@@ -650,7 +650,7 @@
 | 648 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 649 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 650 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 651 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
+| 651 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 652 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 653 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 654 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
