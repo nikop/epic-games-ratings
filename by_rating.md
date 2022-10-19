@@ -604,19 +604,19 @@
 | 602 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 603 | [House Party](games/h/house_party.md) | 4.35 | 
 | 604 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 605 | [ELEX](games/e/elex.md) | 4.35 | 
-| 606 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 607 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 608 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 609 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 610 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 611 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 612 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 613 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 614 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 615 | [Backbone](games/b/backbone.md) | 4.34 | 
-| 616 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 617 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 605 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 606 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 607 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 608 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 609 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 610 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 611 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 612 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 613 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 614 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 615 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 616 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 617 | [ELEX](games/e/elex.md) | 4.33 | 
 | 618 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
 | 619 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 620 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
