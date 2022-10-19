@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.39 | 
+| 1 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
 | 2 | [Scorn](games/s/scorn.md) | 4.65 | 
 | 3 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 3.92 | 
 | 4 | [Darkwood](games/d/darkwood.md) | 4.54 | 

@@ -96,7 +96,7 @@
 | 94 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 95 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 96 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 97 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 97 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
 | 98 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 99 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 100 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -140,7 +140,7 @@
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 139 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 140 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
-| 141 | [Dark Deity](games/d/dark_deity.md) | 4.35 | 
+| 141 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 142 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 144 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
@@ -244,7 +244,7 @@
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 243 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 244 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 245 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.39 | 
+| 245 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
 | 246 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 247 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 248 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -252,7 +252,7 @@
 | 250 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 251 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 252 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 253 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 253 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 254 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
 | 255 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 256 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -730,7 +730,7 @@
 | 728 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 729 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 730 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 731 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 731 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 732 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 733 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 734 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
