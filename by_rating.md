@@ -132,16 +132,16 @@
 | 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 133 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
-| 134 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 136 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 137 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 138 | [Fez](games/f/fez.md) | 4.73 | 
-| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 141 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 142 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 133 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 134 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
+| 135 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 137 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 138 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 139 | [Fez](games/f/fez.md) | 4.73 | 
+| 140 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 141 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 142 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 143 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 144 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
 | 145 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -624,14 +624,14 @@
 | 622 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 623 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 624 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
-| 625 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 626 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 627 | [Automachef](games/a/automachef.md) | 4.31 | 
-| 628 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 629 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 630 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
-| 631 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 632 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 625 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 626 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 627 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 628 | [Automachef](games/a/automachef.md) | 4.31 | 
+| 629 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 630 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 631 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
+| 632 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 633 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 634 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 635 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -653,9 +653,9 @@
 | 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 652 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 653 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 654 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 655 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 656 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 654 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 655 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 656 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 657 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
 | 658 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 659 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 

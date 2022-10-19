@@ -192,7 +192,7 @@
 | 190 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 191 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 192 | [ELEX](games/e/elex.md) | 4.33 | 
-| 193 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 193 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 194 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 195 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 196 | [Encased](games/e/encased.md) | 4.40 | 
@@ -315,7 +315,7 @@
 | 313 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 314 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 315 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 316 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 316 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 317 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 318 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 319 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
@@ -560,7 +560,7 @@
 | 558 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 559 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 560 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 561 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 561 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 562 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 563 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 564 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
