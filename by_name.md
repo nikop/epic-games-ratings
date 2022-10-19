@@ -524,7 +524,7 @@
 | 522 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 523 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 524 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
-| 525 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 525 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
 | 526 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 527 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 528 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -647,7 +647,7 @@
 | 645 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 646 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 647 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 648 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 648 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 649 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 650 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 651 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 

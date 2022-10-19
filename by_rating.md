@@ -627,11 +627,11 @@
 | 625 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 626 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 627 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 628 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 629 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 630 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 631 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 632 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 628 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
+| 629 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 630 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 631 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 632 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 633 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 634 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 635 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
@@ -708,11 +708,11 @@
 | 706 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 707 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 708 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 709 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 710 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 711 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 712 | [Lake](games/l/lake.md) | 4.08 | 
-| 713 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
+| 709 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 710 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 711 | [Lake](games/l/lake.md) | 4.08 | 
+| 712 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
+| 713 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 714 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 715 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 716 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
