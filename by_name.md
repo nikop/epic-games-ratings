@@ -479,7 +479,7 @@
 | 477 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 478 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 479 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 480 | [Rising Hell](games/r/rising_hell.md) | 4.39 | 
+| 480 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 481 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 482 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 483 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -621,7 +621,7 @@
 | 619 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 620 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 621 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 622 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.81 | 
+| 622 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
 | 623 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 624 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 625 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
