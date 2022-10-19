@@ -6,7 +6,7 @@
 | 4 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
 | 5 | [Darkwood](games/d/darkwood.md) | 4.55 | 
 | 6 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 7 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
+| 7 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 8 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
 | 9 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 10 | [Runbow](games/r/runbow.md) | 4.44 | 

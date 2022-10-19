@@ -254,7 +254,7 @@
 | 252 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 253 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 254 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 255 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
+| 255 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 256 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 257 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 258 | [Gone Home](games/g/gone_home.md) | 4.16 | 
@@ -408,7 +408,7 @@
 | 406 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 407 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 408 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 409 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 409 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 410 | [Observation](games/o/observation.md) | 4.44 | 
 | 411 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 412 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
@@ -525,8 +525,8 @@
 | 523 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 524 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 525 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 526 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
-| 527 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
+| 526 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 527 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 528 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 529 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 530 | [Slipways](games/s/slipways.md) | 4.72 | 

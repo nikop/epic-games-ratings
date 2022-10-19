@@ -1,10 +1,10 @@
 {
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
-  "Rating": 4.14,
+  "Rating": 4.21,
   "FirstSeen": "2022-07-22T20:19:42.5762189+00:00",
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
-  "LastChanged": "2022-10-18T02:30:39.0288356+00:00",
+  "LastChanged": "2022-10-19T15:30:54.5556123+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-16T14:30:41.059788+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-10-18T02:30:39.0288363+00:00",
       "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-19T15:30:54.5556125+00:00",
+      "Rating": 4.21,
       "NumberOfRatings": null
     }
   ],

@@ -188,21 +188,21 @@
 | 186 | [Barony](games/b/barony.md) | 4.69 | 
 | 187 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 188 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 190 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 191 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 192 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 193 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 194 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 195 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
-| 196 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 199 | [INSIDE](games/i/inside.md) | 4.68 | 
-| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 201 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 202 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 203 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
+| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 191 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 192 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 193 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 194 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 195 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 196 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
+| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 200 | [INSIDE](games/i/inside.md) | 4.68 | 
+| 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 202 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 203 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 205 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 206 | [SOMA](games/s/soma.md) | 4.68 | 
@@ -630,10 +630,10 @@
 | 628 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 629 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 630 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 631 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
-| 632 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 633 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 634 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 631 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 632 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 633 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 634 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 635 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 636 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 637 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
@@ -670,34 +670,34 @@
 | 668 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 669 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 670 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 671 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 672 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 673 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 674 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 675 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 676 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 677 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 678 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 679 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 680 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 681 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 682 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 683 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 684 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
-| 685 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 686 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 687 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
-| 689 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 690 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 691 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 692 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 693 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 694 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 695 | [Pine](games/p/pine.md) | 4.15 | 
-| 696 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 697 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 698 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
+| 671 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 672 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 673 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 674 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 675 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 676 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 677 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 678 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 679 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 680 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 681 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 682 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 684 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 685 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 686 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 687 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 688 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 689 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 690 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 691 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 692 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 693 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 694 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 695 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 696 | [Pine](games/p/pine.md) | 4.15 | 
+| 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 698 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 699 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 700 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 701 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
@@ -705,9 +705,9 @@
 | 703 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 704 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 705 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 706 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 707 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 708 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 706 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 707 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 708 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 709 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 710 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 711 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
