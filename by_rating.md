@@ -432,19 +432,19 @@
 | 430 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 431 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 432 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 433 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
-| 434 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 435 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 436 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 437 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
-| 438 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 440 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 441 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 442 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 443 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 444 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 445 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 433 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 434 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 435 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 436 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
+| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 438 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 439 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 440 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 441 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 442 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 443 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 444 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 445 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 446 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 447 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 448 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
