@@ -20,7 +20,7 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -42,7 +42,7 @@
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 46 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
@@ -168,7 +168,7 @@
 | 166 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 167 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 168 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 169 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 169 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 170 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 171 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 172 | [Diabotical](games/d/diabotical.md) | 4.79 | 
@@ -311,7 +311,7 @@
 | 309 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 310 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 311 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 312 | [Journey](games/j/journey.md) | 4.76 | 
+| 312 | [Journey](games/j/journey.md) | 4.75 | 
 | 313 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 314 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 315 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 

@@ -1,10 +1,10 @@
 {
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 3843,
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2022-09-23T01:00:28.9244583+00:00",
+  "LastChanged": "2022-10-19T22:01:16.282104+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.6567849+00:00",
@@ -1835,12 +1835,17 @@
       "Time": "2022-09-23T01:00:28.9244588+00:00",
       "Rating": 4.69,
       "NumberOfRatings": 3843
+    },
+    {
+      "Time": "2022-10-19T22:01:16.2821043+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2012
+      "Count": 2029
     },
     {
       "Text": "This game is Relaxing",
