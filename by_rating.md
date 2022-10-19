@@ -457,18 +457,18 @@
 | 455 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 456 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 457 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 458 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 459 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 460 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 461 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 462 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 463 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 464 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 465 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 466 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 467 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 468 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 469 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 458 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 459 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 460 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 461 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 462 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 463 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 464 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 465 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 466 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 467 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 468 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 469 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 470 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 471 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 472 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
@@ -506,10 +506,10 @@
 | 504 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 505 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 506 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 507 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 508 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
-| 509 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 507 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 508 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 509 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
+| 510 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 511 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 512 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 513 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -592,13 +592,13 @@
 | 590 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 591 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 592 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 594 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 595 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 596 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 597 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 598 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 599 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 593 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 594 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 596 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 597 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 598 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 600 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 601 | [House Party](games/h/house_party.md) | 4.35 | 
 | 602 | [Among Trees](games/a/among_trees.md) | 4.35 | 

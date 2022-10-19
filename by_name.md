@@ -129,7 +129,7 @@
 | 127 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 128 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 129 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 130 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 130 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 131 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 132 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 133 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
@@ -451,7 +451,7 @@
 | 449 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 450 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 451 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 452 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 452 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 453 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 454 | [Prey](games/p/prey.md) | 4.61 | 
 | 455 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -554,7 +554,7 @@
 | 552 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.45 | 
 | 553 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 554 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 555 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 555 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 556 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 557 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 558 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
