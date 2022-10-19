@@ -203,7 +203,7 @@
 | 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 203 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 205 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 206 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 207 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -275,7 +275,7 @@
 | 273 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 274 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 275 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 276 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 276 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 277 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 278 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 279 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -720,7 +720,7 @@
 | 718 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 719 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 720 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 721 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 721 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 722 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.24 | 
 | 723 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 724 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
