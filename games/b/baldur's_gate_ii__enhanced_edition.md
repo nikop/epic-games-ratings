@@ -1,5 +1,5 @@
 # Baldur's Gate II: Enhanced Edition
-Rating: 4.91 (29)  (as of 23.09.2022)  
+Rating: 4.88 (29)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Rating: 4.91 (29)  (as of 23.09.2022)
 | 2022-09-19 | 4.93 | 29 |
 | 2022-10-02 | 4.94 | - |
 | 2022-10-17 | 4.91 | - |
+| 2022-10-19 | 4.88 | - |

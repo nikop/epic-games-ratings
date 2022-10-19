@@ -62,7 +62,7 @@
 | 60 | [Backbone](games/b/backbone.md) | 4.34 | 
 | 61 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 62 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 63 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
+| 63 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
 | 64 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 65 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 66 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
@@ -97,7 +97,7 @@
 | 95 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 96 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 97 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 98 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 
+| 98 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 99 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 100 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 101 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -376,7 +376,7 @@
 | 374 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
 | 375 | [Minit](games/m/minit.md) | 4.53 | 
 | 376 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
-| 377 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 377 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 378 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 379 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 380 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -400,7 +400,7 @@
 | 398 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 399 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 400 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 401 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 401 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 402 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 403 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 404 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
@@ -451,8 +451,8 @@
 | 449 | [Pine](games/p/pine.md) | 4.15 | 
 | 450 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 451 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 452 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 453 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 452 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 453 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 454 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 455 | [Prey](games/p/prey.md) | 4.61 | 
 | 456 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -507,7 +507,7 @@
 | 505 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 506 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 507 | [Scorn](games/s/scorn.md) | 4.64 | 
-| 508 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
+| 508 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 509 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 510 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 511 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
@@ -609,7 +609,7 @@
 | 607 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 608 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 609 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 610 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
+| 610 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.70 | 
 | 611 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 612 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 613 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 

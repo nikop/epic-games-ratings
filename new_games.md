@@ -7,12 +7,12 @@
 | 5 | [Darkwood](games/d/darkwood.md) | 4.55 | 
 | 6 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 7 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 8 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
+| 8 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.70 | 
 | 9 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 10 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 11 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 12 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
-| 13 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 13 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 14 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 15 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 16 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
