@@ -131,7 +131,7 @@
 | 129 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 130 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 131 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 132 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 132 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 133 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 134 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 135 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -294,7 +294,7 @@
 | 292 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 293 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 294 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 295 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.70 | 
+| 295 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.58 | 
 | 296 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 297 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 298 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
@@ -446,7 +446,7 @@
 | 444 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 445 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 446 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 447 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 447 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 448 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 449 | [Pine](games/p/pine.md) | 4.15 | 
 | 450 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
