@@ -147,7 +147,7 @@
 | 145 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 146 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 147 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.55 | 
-| 148 | [Darkwood](games/d/darkwood.md) | 4.54 | 
+| 148 | [Darkwood](games/d/darkwood.md) | 4.55 | 
 | 149 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 150 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 151 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -318,7 +318,7 @@
 | 316 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 317 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 318 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 319 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 319 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 320 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 321 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 322 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
@@ -445,7 +445,7 @@
 | 443 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 444 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 445 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 446 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 446 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 447 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
 | 448 | [Pine](games/p/pine.md) | 4.14 | 
 | 449 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 

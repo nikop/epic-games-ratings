@@ -182,21 +182,21 @@
 | 180 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 181 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 182 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 183 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 184 | [Barony](games/b/barony.md) | 4.69 | 
-| 185 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 186 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 188 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 189 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 190 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 191 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 192 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 193 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 194 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 195 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 196 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 197 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 184 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 185 | [Barony](games/b/barony.md) | 4.69 | 
+| 186 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 187 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 188 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 189 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 190 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 191 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 192 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 193 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 194 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 196 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 197 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 198 | [INSIDE](games/i/inside.md) | 4.68 | 
 | 199 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 200 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
@@ -227,22 +227,22 @@
 | 225 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 226 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
 | 227 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 229 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 230 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 231 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 234 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 235 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 238 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 239 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 240 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 243 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 228 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 230 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 231 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 232 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 235 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 236 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 237 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 238 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 239 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 240 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 241 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 242 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 243 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 244 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 246 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -398,19 +398,19 @@
 | 396 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 
 | 397 | [Horace](games/h/horace.md) | 4.55 | 
 | 398 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 400 | [NORCO](games/n/norco.md) | 4.55 | 
-| 401 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 402 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 403 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 404 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 405 | [Road 96](games/r/road_96.md) | 4.54 | 
-| 406 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 407 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 408 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 409 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 410 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
-| 411 | [Darkwood](games/d/darkwood.md) | 4.54 | 
+| 399 | [Darkwood](games/d/darkwood.md) | 4.55 | 
+| 400 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 401 | [NORCO](games/n/norco.md) | 4.55 | 
+| 402 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 403 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 404 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 405 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 406 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 407 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 408 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 409 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 410 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 411 | [Mars Horizon](games/m/mars_horizon.md) | 4.54 | 
 | 412 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 413 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 414 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 

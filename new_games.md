@@ -3,7 +3,7 @@
 | 1 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
 | 2 | [Scorn](games/s/scorn.md) | 4.65 | 
 | 3 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
-| 4 | [Darkwood](games/d/darkwood.md) | 4.54 | 
+| 4 | [Darkwood](games/d/darkwood.md) | 4.55 | 
 | 5 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 6 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
 | 7 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.67 | 
