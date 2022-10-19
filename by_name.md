@@ -265,7 +265,7 @@
 | 263 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 264 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 265 | [Hades](games/h/hades.md) | 4.92 | 
-| 266 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 266 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 267 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 268 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 269 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
@@ -299,7 +299,7 @@
 | 297 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 298 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 299 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 300 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 300 | [INSIDE](games/i/inside.md) | 4.68 | 
 | 301 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 302 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 303 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
@@ -734,7 +734,7 @@
 | 732 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 733 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 734 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 735 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 735 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 736 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 737 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 738 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 

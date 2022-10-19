@@ -115,16 +115,16 @@
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 117 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 119 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 120 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 121 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 122 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 124 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 125 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
 | 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 128 | [Revita](games/r/revita.md) | 4.74 | 
@@ -183,21 +183,21 @@
 | 181 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 182 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 183 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 184 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 185 | [Barony](games/b/barony.md) | 4.69 | 
-| 186 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 187 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 188 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 189 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 190 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 191 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
-| 192 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 193 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 194 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 195 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 196 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 197 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 198 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 184 | [Barony](games/b/barony.md) | 4.69 | 
+| 185 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 186 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 188 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 189 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 190 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 
+| 191 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 192 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 193 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 194 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 195 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 196 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 197 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.68 | 
+| 198 | [INSIDE](games/i/inside.md) | 4.68 | 
 | 199 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 200 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 201 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -488,14 +488,14 @@
 | 486 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 488 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 489 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
-| 491 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 492 | [SMITE](games/s/smite.md) | 4.46 | 
-| 493 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 494 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 495 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 496 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 489 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 490 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 491 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 492 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 493 | [SMITE](games/s/smite.md) | 4.46 | 
+| 494 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 495 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 496 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 497 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 498 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 499 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
