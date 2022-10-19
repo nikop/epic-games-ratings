@@ -639,10 +639,10 @@
 | 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 638 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 639 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 640 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 641 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 642 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 643 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 640 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 641 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 642 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 643 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 644 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 645 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 646 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 

@@ -197,7 +197,7 @@
 | 195 | [Encased](games/e/encased.md) | 4.40 | 
 | 196 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 198 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 198 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 199 | [Everything](games/e/everything.md) | 4.70 | 
 | 200 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 201 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 
