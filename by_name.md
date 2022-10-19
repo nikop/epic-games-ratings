@@ -138,7 +138,7 @@
 | 136 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 137 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 138 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 139 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 139 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 140 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 141 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 142 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
@@ -510,7 +510,7 @@
 | 508 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 
 | 509 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 510 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
-| 511 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
+| 511 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 512 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 513 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 514 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
@@ -519,7 +519,7 @@
 | 517 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 518 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 519 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 520 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 520 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 521 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 522 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 523 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 

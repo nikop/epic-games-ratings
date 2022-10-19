@@ -1,10 +1,10 @@
 {
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
-  "Rating": 4.64,
+  "Rating": 4.62,
   "NumberOfRatings": 111,
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
-  "LastChanged": "2022-10-18T21:31:40.0638074+00:00",
+  "LastChanged": "2022-10-19T10:01:42.0051866+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.6746018+00:00",
@@ -280,6 +280,11 @@
       "Time": "2022-10-18T21:31:40.0638077+00:00",
       "Rating": 4.64,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-19T10:01:42.0051868+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -293,7 +298,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Characters",

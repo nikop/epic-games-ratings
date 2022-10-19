@@ -262,34 +262,34 @@
 | 260 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 261 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 262 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 263 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 
-| 264 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 265 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 266 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 267 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 268 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 269 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 270 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 271 | [Old World](games/o/old_world.md) | 4.63 | 
-| 272 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 275 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 276 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 277 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
-| 278 | [RiME](games/r/rime.md) | 4.63 | 
-| 279 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
-| 280 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 281 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 282 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 283 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 284 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 285 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 286 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 287 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 288 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 289 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 290 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 263 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 264 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 265 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 266 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 267 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 268 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 269 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 270 | [Old World](games/o/old_world.md) | 4.63 | 
+| 271 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 274 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 275 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 277 | [RiME](games/r/rime.md) | 4.63 | 
+| 278 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
+| 279 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 280 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 281 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 282 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 283 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 284 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 285 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 286 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 287 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 288 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 289 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 290 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 291 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 292 | [GRIME](games/g/grime.md) | 4.62 | 
 | 293 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
@@ -449,17 +449,17 @@
 | 447 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 448 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 449 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 450 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 451 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 453 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 455 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 456 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 457 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 458 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 459 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 460 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 450 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 452 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 454 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 455 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 456 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 457 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 458 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 459 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 460 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 462 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 463 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
@@ -572,18 +572,18 @@
 | 570 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 571 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 572 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 573 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 574 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 575 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
-| 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
-| 577 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
-| 578 | [Far Cry](games/f/far_cry.md) | 4.38 | 
-| 579 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
-| 580 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 581 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 582 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 583 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 584 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 573 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 574 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 575 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 576 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
+| 577 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.38 | 
+| 578 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
+| 579 | [Far Cry](games/f/far_cry.md) | 4.38 | 
+| 580 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 581 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 582 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 583 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 584 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 585 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 586 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 587 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
