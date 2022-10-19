@@ -82,7 +82,7 @@
 | 80 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 81 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 82 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 83 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 83 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 84 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 85 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 86 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
@@ -245,7 +245,7 @@
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 244 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 245 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.45 | 
+| 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
 | 247 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 248 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 249 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -528,7 +528,7 @@
 | 526 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 527 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 528 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 529 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 529 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 530 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 531 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 532 | [SMITE](games/s/smite.md) | 4.46 | 

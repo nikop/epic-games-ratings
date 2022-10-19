@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.45 | 
+| 1 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
 | 2 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.81 | 
 | 3 | [Scorn](games/s/scorn.md) | 4.63 | 
 | 4 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
@@ -13,10 +13,10 @@
 | 11 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 12 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 13 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 14 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 14 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 15 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 16 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 17 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 17 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 18 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 19 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 20 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
