@@ -377,7 +377,7 @@
 | 375 | [Minit](games/m/minit.md) | 4.53 | 
 | 376 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 377 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 378 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 378 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 379 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 380 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 381 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -389,12 +389,12 @@
 | 387 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 388 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 389 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 390 | [MythForce](games/m/mythforce.md) | 4.53 | 
+| 390 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 391 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 392 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 393 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
 | 394 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 395 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 395 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
 | 396 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 397 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 398 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
@@ -634,7 +634,7 @@
 | 632 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 633 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 634 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 635 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 635 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 636 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 637 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 638 | [The Tenants](games/t/the_tenants.md) | 4.57 | 

@@ -293,17 +293,17 @@
 | 291 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 292 | [GRIME](games/g/grime.md) | 4.62 | 
 | 293 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 294 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 295 | [Prey](games/p/prey.md) | 4.61 | 
-| 296 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 297 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 298 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 299 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 300 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 301 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 302 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 303 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 304 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.61 | 
+| 294 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
+| 295 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 296 | [Prey](games/p/prey.md) | 4.61 | 
+| 297 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 298 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 299 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 300 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 301 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 302 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 303 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 304 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 305 | [Control](games/c/control.md) | 4.60 | 
 | 306 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 307 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -420,20 +420,20 @@
 | 418 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 419 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 420 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 421 | [MythForce](games/m/mythforce.md) | 4.53 | 
-| 422 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 423 | [Minit](games/m/minit.md) | 4.53 | 
-| 424 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 425 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 426 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 427 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
-| 428 | [Sable](games/s/sable.md) | 4.53 | 
-| 429 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 430 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 431 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 432 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 433 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 434 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 421 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 422 | [Minit](games/m/minit.md) | 4.53 | 
+| 423 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 424 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 425 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 426 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
+| 427 | [Sable](games/s/sable.md) | 4.53 | 
+| 428 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 429 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 430 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 431 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 432 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 433 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 434 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 435 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 436 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 437 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.52 | 
@@ -594,14 +594,14 @@
 | 592 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 593 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 594 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 595 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
-| 596 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 597 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 598 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 599 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 600 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 601 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 602 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 595 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 596 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 
+| 597 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 598 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 599 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 600 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 601 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 602 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 603 | [House Party](games/h/house_party.md) | 4.35 | 
 | 604 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 605 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -687,17 +687,17 @@
 | 685 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 686 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 687 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 688 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 689 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 690 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 691 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 692 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 693 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 694 | [Pine](games/p/pine.md) | 4.15 | 
-| 695 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 696 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 697 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
-| 698 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 689 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 690 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 691 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 692 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 693 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 694 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 695 | [Pine](games/p/pine.md) | 4.15 | 
+| 696 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 697 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 698 | [Godlike Burger](games/g/godlike_burger.md) | 4.14 | 
 | 699 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 700 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 701 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
