@@ -192,22 +192,22 @@
 | 190 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 191 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 192 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 193 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 194 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 195 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 196 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
-| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 200 | [INSIDE](games/i/inside.md) | 4.68 | 
-| 201 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 202 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 203 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 205 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 206 | [SOMA](games/s/soma.md) | 4.68 | 
-| 207 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 208 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 193 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 194 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 195 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.69 | 
+| 196 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 197 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 198 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 199 | [INSIDE](games/i/inside.md) | 4.68 | 
+| 200 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 201 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 202 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 203 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 204 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 205 | [SOMA](games/s/soma.md) | 4.68 | 
+| 206 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 207 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 208 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 209 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 210 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 211 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
@@ -671,18 +671,18 @@
 | 669 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 670 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 671 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 672 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 673 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 674 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 675 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 676 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 677 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 678 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 679 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 680 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 681 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 682 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 672 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 673 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 674 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 675 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 676 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 677 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 678 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 679 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 680 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 681 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 682 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 683 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 684 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 685 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 686 | [Space Punks](games/s/space_punks.md) | 4.18 | 

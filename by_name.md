@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
@@ -187,7 +187,7 @@
 | 185 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 186 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 187 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 188 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 188 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 189 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 190 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 191 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
