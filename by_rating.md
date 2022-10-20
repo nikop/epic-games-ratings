@@ -297,22 +297,22 @@
 | 295 | [Prey](games/p/prey.md) | 4.61 | 
 | 296 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 297 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 298 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 299 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 300 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 301 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 302 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 303 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 304 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 305 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 306 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 307 | [Control](games/c/control.md) | 4.60 | 
-| 308 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 309 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 310 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 311 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 312 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 313 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 298 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 299 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 300 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 301 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 302 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 303 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 304 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 305 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 306 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 307 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 308 | [Control](games/c/control.md) | 4.60 | 
+| 309 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 310 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 311 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 312 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 313 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 315 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 316 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 

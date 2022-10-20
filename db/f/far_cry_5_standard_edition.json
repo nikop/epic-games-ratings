@@ -1,10 +1,10 @@
 {
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 1848,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-10-17T09:31:25.5944516+00:00",
+  "LastChanged": "2022-10-20T06:30:58.767542+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -1065,12 +1065,17 @@
       "Time": "2022-10-17T09:31:25.5944518+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-20T06:30:58.7675422+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 704
+      "Count": 713
     },
     {
       "Text": "This game is Relaxing",
