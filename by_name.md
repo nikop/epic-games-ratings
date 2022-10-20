@@ -68,7 +68,7 @@
 | 66 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 67 | [Barony](games/b/barony.md) | 4.69 | 
 | 68 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 69 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 69 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 70 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 71 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 72 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
@@ -203,7 +203,7 @@
 | 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 203 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 205 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 206 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 207 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -656,7 +656,7 @@
 | 654 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 655 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 656 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 657 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 657 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 658 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 659 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 660 | [Timberborn](games/t/timberborn.md) | 4.69 | 
@@ -722,7 +722,7 @@
 | 720 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.53 | 
 | 721 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 722 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 723 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 723 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 724 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 725 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 726 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 

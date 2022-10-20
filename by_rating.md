@@ -219,29 +219,29 @@
 | 217 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 218 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 219 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 220 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 221 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 222 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 223 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 224 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 225 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 226 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
-| 227 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 228 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
-| 229 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 230 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 231 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 233 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 234 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 235 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 236 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 237 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 238 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 239 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 240 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 242 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 220 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 221 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 222 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 223 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 224 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 225 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 226 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 227 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
+| 228 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 229 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 230 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 231 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 232 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 233 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 234 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 236 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 237 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 238 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 239 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 240 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 241 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 243 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 244 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 245 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -366,22 +366,22 @@
 | 364 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 365 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 368 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 372 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
-| 373 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
-| 374 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 375 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 376 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 377 | [Scorn](games/s/scorn.md) | 4.57 | 
-| 378 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 379 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 380 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 382 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 367 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 369 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 370 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 372 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 373 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
+| 374 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
+| 375 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 376 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 377 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 378 | [Scorn](games/s/scorn.md) | 4.57 | 
+| 379 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 380 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 381 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 383 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 384 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
@@ -408,16 +408,16 @@
 | 406 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 407 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 408 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 410 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 411 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
-| 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 413 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 414 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 415 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 416 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 417 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 418 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 409 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 410 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
+| 411 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 412 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 413 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 414 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 415 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 416 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 417 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 418 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 419 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 420 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 421 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
