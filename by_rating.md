@@ -236,19 +236,19 @@
 | 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 236 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 237 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 238 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 239 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 240 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 243 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 244 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 245 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 246 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 248 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 249 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 237 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 238 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 239 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 240 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 241 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 242 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 243 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 244 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 245 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 246 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 247 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 248 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 251 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 252 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -725,10 +725,10 @@
 | 723 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 724 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 725 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 726 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
-| 727 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 728 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 729 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
+| 726 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 727 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
+| 728 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 729 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 730 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 731 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 732 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
@@ -737,8 +737,8 @@
 | 735 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 736 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 737 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
-| 738 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
-| 739 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 738 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 739 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 740 | [Patron](games/p/patron.md) | 3.91 | 
 | 741 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 742 | [Ironcast](games/i/ironcast.md) | 3.87 | 

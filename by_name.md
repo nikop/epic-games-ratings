@@ -180,7 +180,7 @@
 | 178 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 179 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 180 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 181 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 181 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 182 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 183 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 184 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
@@ -255,13 +255,13 @@
 | 253 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
 | 254 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 255 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 256 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
+| 256 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 257 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 258 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 259 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 260 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 261 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 262 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
+| 262 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 263 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 264 | [GRIME](games/g/grime.md) | 4.62 | 
 | 265 | [Grindstone](games/g/grindstone.md) | 4.83 | 
