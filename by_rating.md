@@ -327,23 +327,23 @@
 | 325 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 326 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 327 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 328 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 329 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 330 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 331 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 332 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 333 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 334 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 335 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 336 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 337 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 338 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
-| 339 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 340 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 341 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 342 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 343 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 344 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 328 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 329 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 330 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 331 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 332 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 333 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 334 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 335 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 336 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 337 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 338 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 339 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
+| 340 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 341 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 342 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 343 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 344 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 345 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 346 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 347 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
@@ -635,10 +635,10 @@
 | 633 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 634 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 635 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 636 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 637 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 638 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 639 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 636 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 637 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 638 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 639 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 640 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.29 | 
 | 642 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
@@ -691,12 +691,12 @@
 | 689 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 690 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 691 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
-| 693 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 694 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 695 | [Gone Home](games/g/gone_home.md) | 4.17 | 
-| 696 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 697 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.17 | 
+| 692 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
+| 693 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 694 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 695 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 696 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 697 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 698 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 699 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 700 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
@@ -721,14 +721,14 @@
 | 719 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
 | 720 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 721 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
-| 722 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
-| 723 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 724 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 725 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 726 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 727 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 728 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 729 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 722 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 723 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 724 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 725 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 726 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 727 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
+| 728 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 729 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
 | 730 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 731 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
 | 732 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 

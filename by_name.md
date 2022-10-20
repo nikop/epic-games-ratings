@@ -188,7 +188,7 @@
 | 186 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 187 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 188 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 189 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.17 | 
+| 189 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 190 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 191 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 192 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
@@ -634,7 +634,7 @@
 | 632 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 633 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 634 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
-| 635 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 635 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 636 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 637 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 638 | [The Surge](games/t/the_surge.md) | 4.52 | 
@@ -654,7 +654,7 @@
 | 652 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 653 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 654 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
-| 655 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 655 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 656 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 657 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 658 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
@@ -664,7 +664,7 @@
 | 662 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 663 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 664 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 665 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
+| 665 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
 | 666 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 667 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 668 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
