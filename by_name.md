@@ -28,7 +28,7 @@
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
+| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -188,7 +188,7 @@
 | 186 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 187 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 188 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 189 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 189 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 190 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 191 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 192 | [ELEX](games/e/elex.md) | 4.33 | 
@@ -241,7 +241,7 @@
 | 239 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 240 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 241 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 242 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
+| 242 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 244 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 245 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
@@ -464,7 +464,7 @@
 | 462 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 463 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 464 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 465 | [Rayman Origins](games/r/rayman_origins.md) | 4.71 | 
+| 465 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
 | 466 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 467 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 468 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
