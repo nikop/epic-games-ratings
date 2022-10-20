@@ -93,9 +93,9 @@
 | 91 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 92 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 93 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
-| 94 | [Northgard](games/n/northgard.md) | 4.78 | 
-| 95 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 95 | [Northgard](games/n/northgard.md) | 4.78 | 
+| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 97 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 99 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.77 | 
@@ -329,29 +329,29 @@
 | 327 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 328 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 329 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 330 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 331 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 332 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 333 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 334 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 335 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 336 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 337 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 338 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 339 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
-| 340 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 341 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 342 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
-| 343 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 344 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 345 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 346 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 347 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 348 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 349 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 350 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 351 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 352 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 330 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 331 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 332 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 333 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 334 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 335 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 336 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 337 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 338 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 339 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 340 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 341 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
+| 342 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 343 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 344 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 345 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 346 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 347 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 348 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 349 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 350 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 351 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 352 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 353 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 354 | [Hob](games/h/hob.md) | 4.58 | 
 | 355 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 

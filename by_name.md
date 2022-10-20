@@ -85,7 +85,7 @@
 | 83 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 84 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 85 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 86 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 86 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 87 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 88 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 89 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -695,7 +695,7 @@
 | 693 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 694 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 695 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 696 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 696 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 697 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 698 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 699 | [UnMetal](games/u/unmetal.md) | 4.53 | 
