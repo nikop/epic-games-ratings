@@ -628,29 +628,29 @@
 | 626 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
 | 627 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 628 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 629 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 630 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 631 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 632 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 633 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 634 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 635 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 629 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 630 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 631 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 632 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 633 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 634 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 635 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 636 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 637 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 639 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 640 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 641 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 642 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 643 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 644 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 645 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 646 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 647 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 648 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 649 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 650 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 651 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 641 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 642 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 643 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 644 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 645 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 646 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 647 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 648 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 649 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 650 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 651 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 653 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 654 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 

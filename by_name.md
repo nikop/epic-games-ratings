@@ -591,7 +591,7 @@
 | 589 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 590 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 591 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 592 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 592 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 593 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 594 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
 | 595 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
@@ -746,7 +746,7 @@
 | 744 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 745 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 746 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 747 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 747 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 748 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 749 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 750 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
