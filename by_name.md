@@ -85,7 +85,7 @@
 | 83 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 84 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 85 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 86 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 86 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 87 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 88 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 89 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -187,7 +187,7 @@
 | 185 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 186 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 187 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 188 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 188 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.17 | 
 | 189 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 190 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 191 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
@@ -564,7 +564,7 @@
 | 562 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 563 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 564 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 565 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 565 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
 | 566 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 567 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 568 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
