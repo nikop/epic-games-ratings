@@ -367,24 +367,24 @@
 | 365 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 366 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 368 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 372 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
-| 373 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 374 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 375 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 376 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 377 | [Scorn](games/s/scorn.md) | 4.57 | 
-| 378 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.57 | 
-| 379 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 380 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 381 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 383 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 384 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 370 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 371 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
+| 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 373 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 375 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 376 | [Scorn](games/s/scorn.md) | 4.57 | 
+| 377 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.57 | 
+| 378 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 379 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 380 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 383 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 384 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 385 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 386 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.56 | 
 | 387 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
 | 388 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
