@@ -526,15 +526,15 @@
 | 524 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 525 | [Observation](games/o/observation.md) | 4.44 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 527 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 528 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 529 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 530 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 531 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 532 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 533 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 534 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 535 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 527 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 528 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 529 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 530 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 531 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 532 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 533 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 534 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 535 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 536 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 537 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 538 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -562,17 +562,17 @@
 | 560 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 561 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 562 | [Encased](games/e/encased.md) | 4.40 | 
-| 563 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 564 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 565 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 566 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 567 | [Core](games/c/core.md) | 4.39 | 
-| 568 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 569 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 570 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 571 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 572 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 573 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.39 | 
+| 563 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.40 | 
+| 564 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 565 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 566 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 567 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 568 | [Core](games/c/core.md) | 4.39 | 
+| 569 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 570 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 571 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 572 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 573 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 574 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 575 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 576 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
