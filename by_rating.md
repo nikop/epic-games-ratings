@@ -264,19 +264,19 @@
 | 262 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 263 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 264 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 265 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 266 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 267 | [Scorn](games/s/scorn.md) | 4.64 | 
-| 268 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 269 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 270 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 271 | [Old World](games/o/old_world.md) | 4.63 | 
-| 272 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 275 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
-| 276 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 277 | [RiME](games/r/rime.md) | 4.63 | 
+| 265 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 266 | [Scorn](games/s/scorn.md) | 4.64 | 
+| 267 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 268 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 269 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 270 | [Old World](games/o/old_world.md) | 4.63 | 
+| 271 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 273 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 274 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 
+| 275 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 276 | [RiME](games/r/rime.md) | 4.63 | 
+| 277 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 278 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
 | 279 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 280 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -321,21 +321,21 @@
 | 319 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 320 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 321 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 322 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 323 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 324 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 325 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 326 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 327 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 328 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 329 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 330 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 331 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 332 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 333 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 334 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 335 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 336 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 322 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 323 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 324 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 325 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 326 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 327 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 328 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 329 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 330 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 331 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 332 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 333 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 334 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 335 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 336 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 337 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 338 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 339 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 

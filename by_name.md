@@ -201,7 +201,7 @@
 | 199 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 200 | [Everything](games/e/everything.md) | 4.70 | 
 | 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 203 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 205 | [Faeria](games/f/faeria.md) | 4.41 | 
@@ -435,7 +435,7 @@
 | 433 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 434 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 435 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 436 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 436 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 437 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 438 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 439 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
