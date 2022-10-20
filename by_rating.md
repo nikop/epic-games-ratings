@@ -106,30 +106,30 @@
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 105 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 106 | [Haven](games/h/haven.md) | 4.76 | 
-| 107 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 113 | [Journey](games/j/journey.md) | 4.75 | 
-| 114 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 115 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
-| 116 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 117 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
-| 118 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 119 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 120 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 121 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 122 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 126 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 107 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
+| 108 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 114 | [Journey](games/j/journey.md) | 4.75 | 
+| 115 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 116 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
+| 117 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 118 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
+| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 123 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 127 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
+| 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 130 | [Revita](games/r/revita.md) | 4.74 | 
 | 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 133 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -728,15 +728,15 @@
 | 726 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 727 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 728 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 729 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 730 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
-| 731 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 732 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
-| 733 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 734 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
-| 735 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 736 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 737 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 729 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
+| 730 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 731 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
+| 732 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 733 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
+| 734 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 735 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 736 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 737 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 738 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 739 | [Warface](games/w/warface.md) | 3.95 | 
 | 740 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 

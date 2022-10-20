@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -454,7 +454,7 @@
 | 452 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 453 | [Pine](games/p/pine.md) | 4.14 | 
 | 454 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
-| 455 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 455 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 456 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 457 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 458 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
