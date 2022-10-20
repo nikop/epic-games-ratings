@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 51 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 51 | [ATOM RPG](games/a/atom_rpg.md) | 4.32 | 
 | 52 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 53 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 54 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -198,7 +198,7 @@
 | 196 | [Encased](games/e/encased.md) | 4.40 | 
 | 197 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 198 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 199 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 199 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 200 | [Everything](games/e/everything.md) | 4.70 | 
 | 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
@@ -245,7 +245,7 @@
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 244 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 245 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.40 | 
+| 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.39 | 
 | 247 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 248 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 249 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -650,7 +650,7 @@
 | 648 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 649 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 650 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 651 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 651 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 652 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 653 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 654 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 

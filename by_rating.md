@@ -562,17 +562,17 @@
 | 560 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 561 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 562 | [Encased](games/e/encased.md) | 4.40 | 
-| 563 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.40 | 
-| 564 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 565 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 566 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 567 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 568 | [Core](games/c/core.md) | 4.39 | 
-| 569 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 570 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 571 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 572 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 573 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 563 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 564 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 565 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 566 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 567 | [Core](games/c/core.md) | 4.39 | 
+| 568 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 569 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
+| 570 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 571 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 572 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 573 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.39 | 
 | 574 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 575 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 576 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -611,18 +611,18 @@
 | 609 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 610 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 611 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 612 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 613 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 614 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 615 | [Backbone](games/b/backbone.md) | 4.34 | 
-| 616 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 617 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 618 | [ELEX](games/e/elex.md) | 4.33 | 
-| 619 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
-| 620 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 621 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 622 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 623 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 612 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 613 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 614 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 615 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 616 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 617 | [ELEX](games/e/elex.md) | 4.33 | 
+| 618 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.33 | 
+| 619 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 620 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 621 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 622 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.32 | 
 | 624 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 625 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 626 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
@@ -640,12 +640,12 @@
 | 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
 | 639 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 640 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 641 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 642 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 643 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 644 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
-| 645 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 646 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 641 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 642 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 643 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 644 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 645 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 646 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
 | 647 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 648 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
 | 649 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
@@ -711,12 +711,12 @@
 | 709 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 710 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 711 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 712 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 713 | [Lake](games/l/lake.md) | 4.08 | 
-| 714 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 715 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
-| 716 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 717 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 712 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
+| 713 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 714 | [Lake](games/l/lake.md) | 4.08 | 
+| 715 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 716 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
+| 717 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 718 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
 | 719 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
 | 720 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
