@@ -460,21 +460,21 @@
 | 458 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 459 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 460 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 461 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 462 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
-| 463 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 464 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 465 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 466 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 467 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 468 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 469 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 470 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 471 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 472 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 473 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 474 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 475 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 461 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
+| 462 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 463 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 464 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 465 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 466 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 467 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 468 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 469 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 470 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 471 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 472 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 474 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 475 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 476 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 477 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 478 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -526,15 +526,15 @@
 | 524 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 525 | [Observation](games/o/observation.md) | 4.44 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 527 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 528 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 529 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 530 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 531 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 532 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 533 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 534 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 535 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 527 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 528 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 529 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 530 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 531 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 532 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 533 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 534 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 535 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 536 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 537 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 538 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 

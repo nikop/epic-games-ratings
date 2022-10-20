@@ -146,7 +146,7 @@
 | 144 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 145 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 146 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 147 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 147 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 148 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 149 | [Darkwood](games/d/darkwood.md) | 4.55 | 
 | 150 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
@@ -212,7 +212,7 @@
 | 210 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 211 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 212 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 214 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
