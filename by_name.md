@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
@@ -354,7 +354,7 @@
 | 352 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 353 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 354 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 355 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.20 | 
+| 355 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.19 | 
 | 356 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 357 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 358 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -449,7 +449,7 @@
 | 447 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 448 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 449 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 450 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
+| 450 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 451 | [Pine](games/p/pine.md) | 4.14 | 
 | 452 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 453 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
@@ -583,7 +583,7 @@
 | 581 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
 | 582 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 583 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 584 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.59 | 
+| 584 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 585 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 586 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 587 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -665,7 +665,7 @@
 | 663 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 664 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
 | 665 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.32 | 
+| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 667 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 668 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 669 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
