@@ -5,7 +5,7 @@
 | 3 | [Scorn](games/s/scorn.md) | 4.57 | 
 | 4 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.19 | 
 | 5 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
-| 6 | [Darkwood](games/d/darkwood.md) | 4.55 | 
+| 6 | [Darkwood](games/d/darkwood.md) | 4.56 | 
 | 7 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
 | 8 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 9 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.71 | 

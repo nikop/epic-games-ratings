@@ -85,7 +85,7 @@
 | 83 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 84 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 85 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 86 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 86 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 87 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 88 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 89 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -148,7 +148,7 @@
 | 146 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 147 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 148 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 149 | [Darkwood](games/d/darkwood.md) | 4.55 | 
+| 149 | [Darkwood](games/d/darkwood.md) | 4.56 | 
 | 150 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 151 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 152 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -415,7 +415,7 @@
 | 413 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 414 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 415 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 416 | [Old World](games/o/old_world.md) | 4.63 | 
+| 416 | [Old World](games/o/old_world.md) | 4.64 | 
 | 417 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 418 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 419 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
@@ -472,7 +472,7 @@
 | 470 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 471 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 472 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 473 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 473 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 474 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 475 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 476 | [Revita](games/r/revita.md) | 4.74 | 
@@ -551,7 +551,7 @@
 | 549 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 550 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
 | 551 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 552 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.64 | 
+| 552 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 
 | 553 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 554 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 555 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -623,7 +623,7 @@
 | 621 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 622 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 623 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 624 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
+| 624 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 625 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 626 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
 | 627 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
