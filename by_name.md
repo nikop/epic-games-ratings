@@ -65,7 +65,7 @@
 | 63 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
 | 64 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 65 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 66 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.29 | 
+| 66 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 67 | [Barony](games/b/barony.md) | 4.69 | 
 | 68 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 69 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
@@ -133,7 +133,7 @@
 | 131 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 132 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 133 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 134 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 134 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 135 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 136 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 137 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
@@ -207,7 +207,7 @@
 | 205 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 206 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 207 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 208 | [Far Cry](games/f/far_cry.md) | 4.38 | 
+| 208 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 209 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 210 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 211 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -448,7 +448,7 @@
 | 446 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 447 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 448 | [Pinball FX](games/p/pinball_fx.md) | 3.98 | 
-| 449 | [Pine](games/p/pine.md) | 4.15 | 
+| 449 | [Pine](games/p/pine.md) | 4.14 | 
 | 450 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 451 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 452 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
@@ -634,7 +634,7 @@
 | 632 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 633 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 634 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 635 | [The Surge](games/t/the_surge.md) | 4.54 | 
+| 635 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 636 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 637 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 638 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
