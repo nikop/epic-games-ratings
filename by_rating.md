@@ -551,15 +551,15 @@
 | 549 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 550 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 552 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 553 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 554 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 555 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 556 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 557 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
-| 558 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 559 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 560 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 552 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 553 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 554 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 555 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 556 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
+| 557 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 558 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 559 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 560 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 561 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 562 | [Encased](games/e/encased.md) | 4.40 | 
 | 563 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.40 | 

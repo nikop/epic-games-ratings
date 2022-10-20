@@ -747,6 +747,6 @@
 | 745 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 746 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 747 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 748 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 748 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 749 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 750 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
