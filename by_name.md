@@ -4,7 +4,7 @@
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 
+| 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
@@ -137,7 +137,7 @@
 | 135 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 136 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 137 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 138 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 138 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 139 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 140 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 141 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
@@ -541,7 +541,7 @@
 | 539 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 540 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 541 | [SOMA](games/s/soma.md) | 4.68 | 
-| 542 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 542 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
 | 543 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 544 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 545 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
@@ -566,7 +566,7 @@
 | 564 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 565 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
 | 566 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 567 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 567 | [Steelrising](games/s/steelrising.md) | 4.29 | 
 | 568 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 569 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
 | 570 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
@@ -623,7 +623,7 @@
 | 621 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
 | 622 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 623 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
-| 624 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 624 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
 | 625 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 626 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 627 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 

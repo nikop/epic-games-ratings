@@ -21,7 +21,7 @@
 | 19 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 20 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 21 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 22 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 22 | [Steelrising](games/s/steelrising.md) | 4.29 | 
 | 23 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
 | 24 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 25 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
