@@ -56,7 +56,7 @@
 | 54 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 55 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 56 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 57 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
+| 57 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 58 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 59 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 60 | [Backbone](games/b/backbone.md) | 4.34 | 
@@ -637,7 +637,7 @@
 | 635 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 636 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 637 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 638 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 638 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 639 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 640 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 641 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
@@ -674,7 +674,7 @@
 | 672 | [Torchlight](games/t/torchlight.md) | 4.42 | 
 | 673 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 674 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 675 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.73 | 
+| 675 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
 | 676 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 677 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 678 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
