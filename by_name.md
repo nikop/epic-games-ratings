@@ -257,7 +257,7 @@
 | 255 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 256 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 257 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 258 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 258 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 259 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 260 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 261 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -434,7 +434,7 @@
 | 432 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 433 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 434 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 435 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 435 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 436 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 437 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 438 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
@@ -718,7 +718,7 @@
 | 716 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 717 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 718 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.53 | 
-| 719 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 719 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 720 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 721 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 722 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 

@@ -321,23 +321,23 @@
 | 319 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 320 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 321 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 322 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 323 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
-| 324 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 325 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
-| 326 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 327 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 328 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 329 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 330 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 331 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 332 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 333 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 334 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 335 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 336 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 337 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 338 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 322 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.60 | 
+| 323 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 324 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 
+| 325 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 326 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 327 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 328 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 329 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 330 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 331 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 332 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 333 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 334 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 335 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 336 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 337 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 338 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 339 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 340 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 341 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
@@ -360,20 +360,20 @@
 | 358 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 359 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 
 | 360 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
-| 361 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 362 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.58 | 
-| 363 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 364 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 365 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 368 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 372 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
-| 373 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 374 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 361 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 362 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 363 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.58 | 
+| 364 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 365 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 366 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 367 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 369 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 370 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 372 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 373 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
+| 374 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 375 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 376 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
 | 377 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
@@ -692,9 +692,9 @@
 | 690 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 691 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 692 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 693 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 694 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 695 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 693 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 694 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 695 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 696 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 697 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 698 | [Pine](games/p/pine.md) | 4.15 | 
