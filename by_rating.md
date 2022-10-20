@@ -670,14 +670,14 @@
 | 668 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 669 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 670 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 
-| 671 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 672 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 673 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 674 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 675 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 676 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 677 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 678 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 671 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 672 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 673 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 674 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 675 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 676 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 677 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 678 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 679 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 680 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 681 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
