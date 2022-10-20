@@ -1,7 +1,16 @@
 {
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
+  "Rating": 4.71,
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
+  "LastChanged": "2022-10-20T15:31:49.6878411+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-20T15:31:49.6878413+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
