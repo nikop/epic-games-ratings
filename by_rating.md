@@ -457,21 +457,21 @@
 | 455 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 456 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 457 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 458 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 459 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 460 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 461 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
-| 462 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 463 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 464 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 465 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 466 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 467 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 468 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 469 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 470 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 471 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 472 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 458 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 459 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 460 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 461 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 462 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
+| 463 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 464 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 465 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 466 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 467 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 468 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 469 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 470 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 471 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 472 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 473 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 474 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 475 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
