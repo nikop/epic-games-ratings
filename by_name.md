@@ -71,7 +71,7 @@
 | 69 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 70 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 71 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 72 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 72 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 73 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 74 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 75 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -751,7 +751,7 @@
 | 749 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 750 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 751 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 752 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 752 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 753 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 754 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 755 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

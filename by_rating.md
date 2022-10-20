@@ -228,34 +228,34 @@
 | 226 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
 | 227 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
 | 228 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 229 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
-| 230 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 231 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 232 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 233 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 234 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 236 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 237 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 238 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 239 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 240 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 241 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 243 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 244 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 245 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 246 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 247 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 249 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 250 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 252 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 253 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 254 | [Mutazione](games/m/mutazione.md) | 4.65 | 
-| 255 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 256 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 229 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 230 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 231 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 232 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 233 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 234 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 235 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 236 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 237 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 239 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 240 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 241 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 242 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 243 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 244 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 245 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 246 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 247 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 248 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 250 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 251 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 252 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 253 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 254 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 255 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 256 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 257 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 258 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 259 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -645,14 +645,14 @@
 | 643 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 644 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 645 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 646 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 647 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 648 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 649 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 650 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 651 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 652 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 653 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 646 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 647 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 648 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 649 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 650 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 651 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 652 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 653 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 654 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 655 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 656 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
