@@ -203,7 +203,7 @@
 | 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 203 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 205 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 206 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 207 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -212,7 +212,7 @@
 | 210 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 211 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 212 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 214 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 

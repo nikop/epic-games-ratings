@@ -366,22 +366,22 @@
 | 364 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 365 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 367 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 369 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 370 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
-| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 372 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 373 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
-| 374 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
-| 375 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 376 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 377 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 378 | [Scorn](games/s/scorn.md) | 4.57 | 
-| 379 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 380 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 381 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 368 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 369 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 372 | [The Tenants](games/t/the_tenants.md) | 4.57 | 
+| 373 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
+| 374 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 375 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 376 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 377 | [Scorn](games/s/scorn.md) | 4.57 | 
+| 378 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 379 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 380 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 382 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 383 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 384 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
@@ -527,15 +527,15 @@
 | 525 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 526 | [Observation](games/o/observation.md) | 4.44 | 
 | 527 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 528 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 529 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 530 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 531 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 532 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 533 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 534 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
-| 535 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 536 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 528 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 529 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 530 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 531 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 532 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 533 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 534 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 535 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 536 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 537 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 538 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 539 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
