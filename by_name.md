@@ -203,7 +203,7 @@
 | 201 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 202 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 203 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 204 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 205 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 206 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 207 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -577,7 +577,7 @@
 | 575 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 576 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 577 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 578 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 
+| 578 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
 | 579 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 580 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
 | 581 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
@@ -721,7 +721,7 @@
 | 719 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.53 | 
 | 720 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 721 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 722 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 722 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 723 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 724 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 725 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
@@ -745,7 +745,7 @@
 | 743 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
 | 744 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 745 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 746 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 746 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 747 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 748 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 749 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
