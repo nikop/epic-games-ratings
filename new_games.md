@@ -35,7 +35,7 @@
 | 33 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 34 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 35 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 36 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 36 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 38 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 39 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 

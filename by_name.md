@@ -180,7 +180,7 @@
 | 178 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 179 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 180 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 181 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 181 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 182 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 183 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 184 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
@@ -212,7 +212,7 @@
 | 210 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 211 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 212 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
-| 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 213 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 214 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
@@ -388,7 +388,7 @@
 | 386 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 387 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 388 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 389 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 389 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 390 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 391 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 392 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
