@@ -186,7 +186,7 @@
 | 184 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 185 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 186 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 187 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 187 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
 | 188 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.17 | 
 | 189 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 190 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
@@ -285,7 +285,7 @@
 | 283 | [Hob](games/h/hob.md) | 4.58 | 
 | 284 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 285 | [Horace](games/h/horace.md) | 4.55 | 
-| 286 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 286 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 287 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 288 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 289 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -293,7 +293,7 @@
 | 291 | [Hue](games/h/hue.md) | 4.55 | 
 | 292 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 293 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 294 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 294 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 295 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.58 | 
 | 296 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 297 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 

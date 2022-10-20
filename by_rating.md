@@ -144,22 +144,22 @@
 | 142 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 144 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 145 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
-| 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 147 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 148 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 149 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 150 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 151 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 152 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 153 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 155 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 156 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 157 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 158 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 159 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 160 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 145 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 146 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 147 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.72 | 
+| 148 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 149 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 150 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 151 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 152 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 153 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 154 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 155 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 157 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 158 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 159 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 160 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 161 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 162 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 163 | [FUSER™](games/f/fuser™.md) | 4.71 | 
@@ -298,21 +298,21 @@
 | 296 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 297 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 298 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 299 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 300 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 301 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 302 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 303 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 304 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 305 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 306 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 307 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 308 | [Control](games/c/control.md) | 4.60 | 
-| 309 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 310 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 311 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 312 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 313 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 299 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 300 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 301 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 302 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 303 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 304 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 305 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 306 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 307 | [Control](games/c/control.md) | 4.60 | 
+| 308 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 309 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 310 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 311 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 312 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 313 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 315 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 316 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
