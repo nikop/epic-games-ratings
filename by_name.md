@@ -230,7 +230,7 @@
 | 228 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 229 | [Firework](games/f/firework.md) | 4.86 | 
 | 230 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 231 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 231 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 232 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 233 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 234 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -388,7 +388,7 @@
 | 386 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 387 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 388 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 389 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 389 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 390 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 391 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 392 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
@@ -548,7 +548,7 @@
 | 546 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 547 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 548 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 549 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 549 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 550 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 551 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 

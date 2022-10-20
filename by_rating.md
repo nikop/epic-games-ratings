@@ -241,20 +241,20 @@
 | 239 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 240 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 241 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 242 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 243 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 244 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 245 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 246 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 247 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 248 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 250 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 251 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 252 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 253 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 254 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 255 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 242 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 243 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 244 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 245 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 246 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 247 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 248 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 249 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 251 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 252 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 253 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 254 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 255 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 256 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 257 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 258 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
@@ -287,23 +287,23 @@
 | 285 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 286 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
 | 287 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 288 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 289 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 290 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 291 | [GRIME](games/g/grime.md) | 4.62 | 
-| 292 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 293 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
-| 294 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 295 | [Prey](games/p/prey.md) | 4.61 | 
-| 296 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 297 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 298 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 299 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 300 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 301 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 302 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 303 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 304 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 288 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 289 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 290 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 291 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 292 | [GRIME](games/g/grime.md) | 4.62 | 
+| 293 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 294 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
+| 295 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 296 | [Prey](games/p/prey.md) | 4.61 | 
+| 297 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 298 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 299 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 300 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 301 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 302 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 303 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 304 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 305 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 306 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 307 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
@@ -685,9 +685,9 @@
 | 683 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 684 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 685 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 686 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 687 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 688 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.19 | 
+| 686 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 687 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.19 | 
+| 688 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 689 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 690 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 691 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
