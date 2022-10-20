@@ -1,7 +1,16 @@
 {
   "ID": "d98c82a9d1554fbdad96b236199c53ca",
   "Name": "Flatout",
+  "Rating": 4.15,
   "FirstSeen": "2022-07-22T20:23:06.2936359+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-20T20:02:03.0558069+00:00",
+  "LastChanged": "2022-10-20T20:02:03.0558071+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-20T20:02:03.0558073+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
