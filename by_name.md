@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -247,7 +247,7 @@
 | 245 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 246 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 247 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 248 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.40 | 
+| 248 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
 | 249 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
 | 250 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 251 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -410,7 +410,7 @@
 | 408 | [NORCO](games/n/norco.md) | 4.55 | 
 | 409 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 410 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 411 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
+| 411 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 412 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 413 | [Observation](games/o/observation.md) | 4.44 | 
 | 414 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
@@ -722,7 +722,7 @@
 | 720 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 721 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 722 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 723 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.53 | 
+| 723 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 724 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 725 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 726 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 

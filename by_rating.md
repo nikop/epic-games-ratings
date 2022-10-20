@@ -59,20 +59,20 @@
 | 57 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 58 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 60 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.81 | 
-| 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 63 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
-| 64 | [Quake](games/q/quake.md) | 4.81 | 
-| 65 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 66 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
-| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 60 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 62 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
+| 63 | [Quake](games/q/quake.md) | 4.81 | 
+| 64 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 65 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 66 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 69 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 70 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 71 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 72 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 73 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 74 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 76 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
@@ -414,19 +414,19 @@
 | 412 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 413 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 414 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 415 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 416 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 417 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 418 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 419 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 420 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 421 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 422 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 423 | [Minit](games/m/minit.md) | 4.53 | 
-| 424 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 425 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
-| 426 | [Sable](games/s/sable.md) | 4.53 | 
-| 427 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.53 | 
+| 415 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
+| 416 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 417 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 418 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 419 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 420 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 421 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 422 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 423 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 424 | [Minit](games/m/minit.md) | 4.53 | 
+| 425 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 426 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
+| 427 | [Sable](games/s/sable.md) | 4.53 | 
 | 428 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 429 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 430 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
@@ -542,29 +542,29 @@
 | 540 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 541 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 542 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 543 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 544 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 545 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 546 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 547 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
-| 548 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 549 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 550 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 551 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 552 | [Sheltered](games/s/sheltered.md) | 4.41 | 
-| 553 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 554 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
-| 555 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 543 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 544 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 545 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 546 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
+| 547 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 548 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 549 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 550 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 551 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 552 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 553 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.41 | 
+| 554 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 555 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 556 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 557 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 558 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 559 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 560 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 561 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 562 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 563 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
-| 564 | [Encased](games/e/encased.md) | 4.40 | 
-| 565 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.40 | 
+| 561 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
+| 562 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 563 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 564 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
+| 565 | [Encased](games/e/encased.md) | 4.40 | 
 | 566 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 567 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 568 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
