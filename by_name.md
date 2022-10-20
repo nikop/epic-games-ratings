@@ -507,7 +507,7 @@
 | 505 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 506 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 507 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 508 | [Scorn](games/s/scorn.md) | 4.64 | 
+| 508 | [Scorn](games/s/scorn.md) | 4.57 | 
 | 509 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 510 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 511 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
@@ -566,7 +566,7 @@
 | 564 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 565 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 566 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
-| 567 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 567 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
 | 568 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
 | 569 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 570 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
@@ -722,7 +722,7 @@
 | 720 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 721 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 722 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 723 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 723 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 724 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 725 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 726 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
