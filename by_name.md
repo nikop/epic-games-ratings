@@ -183,7 +183,7 @@
 | 181 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 182 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 183 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 184 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 184 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 185 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 186 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 187 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
@@ -192,7 +192,7 @@
 | 190 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 191 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 192 | [ELEX](games/e/elex.md) | 4.33 | 
-| 193 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 193 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
 | 194 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 195 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 196 | [Encased](games/e/encased.md) | 4.40 | 
@@ -453,7 +453,7 @@
 | 451 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 452 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 453 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
-| 454 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 454 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 455 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 456 | [Prey](games/p/prey.md) | 4.61 | 
 | 457 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -485,7 +485,7 @@
 | 483 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 484 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 485 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 486 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 486 | [Road 96](games/r/road_96.md) | 4.55 | 
 | 487 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 488 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 489 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 

@@ -36,17 +36,17 @@
 | 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 37 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 40 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
-| 41 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
-| 42 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 45 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 46 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 39 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 40 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
+| 41 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 43 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 46 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 48 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -398,16 +398,16 @@
 | 396 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 397 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 398 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.55 | 
-| 399 | [Horace](games/h/horace.md) | 4.55 | 
-| 400 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 401 | [Darkwood](games/d/darkwood.md) | 4.55 | 
-| 402 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 403 | [NORCO](games/n/norco.md) | 4.55 | 
-| 404 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 405 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 406 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 407 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 408 | [Road 96](games/r/road_96.md) | 4.54 | 
+| 399 | [Road 96](games/r/road_96.md) | 4.55 | 
+| 400 | [Horace](games/h/horace.md) | 4.55 | 
+| 401 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 402 | [Darkwood](games/d/darkwood.md) | 4.55 | 
+| 403 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 404 | [NORCO](games/n/norco.md) | 4.55 | 
+| 405 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 406 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 407 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 408 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 409 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 410 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 411 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -509,10 +509,10 @@
 | 507 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 508 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 509 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 510 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 511 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 512 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 513 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 511 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 512 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 513 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 514 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 515 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 516 | [Pathway](games/p/pathway.md) | 4.44 | 
@@ -654,12 +654,12 @@
 | 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 653 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 654 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 655 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
-| 656 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 657 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 658 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 659 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
+| 655 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 656 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 657 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 658 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 659 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
+| 660 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
 | 661 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 662 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 663 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
