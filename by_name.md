@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
+| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -277,7 +277,7 @@
 | 275 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 276 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 277 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 278 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 278 | [Hero's Hour](games/h/hero's_hour.md) | 4.29 | 
 | 279 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 280 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 281 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -331,7 +331,7 @@
 | 329 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 330 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 
 | 331 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 332 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 332 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 333 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 334 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 335 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
@@ -354,7 +354,7 @@
 | 352 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 353 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 354 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 355 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 355 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 356 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 357 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 358 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -609,7 +609,7 @@
 | 607 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 608 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 609 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 610 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.70 | 
+| 610 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.71 | 
 | 611 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 612 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 613 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
