@@ -225,20 +225,20 @@
 | 223 | [Coromon](games/c/coromon.md) | 4.67 | 
 | 224 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
 | 225 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
-| 226 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 227 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 228 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
-| 230 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 232 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 234 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 235 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 237 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 238 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 239 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 226 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 227 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 228 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 229 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 230 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.66 | 
+| 231 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 234 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 235 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 236 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 237 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 238 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 239 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 240 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
