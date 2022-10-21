@@ -1,10 +1,10 @@
 {
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T.: Forged In Shadow Torch",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 572,
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2022-10-17T14:02:48.2221953+00:00",
+  "LastChanged": "2022-10-21T04:02:54.1100413+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:53.9715826+00:00",
@@ -454,6 +454,11 @@
     {
       "Time": "2022-10-17T14:02:48.2221957+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-21T04:02:54.1100415+00:00",
+      "Rating": 4.6,
       "NumberOfRatings": null
     }
   ],

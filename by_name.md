@@ -203,7 +203,7 @@
 | 201 | [Everything](games/e/everything.md) | 4.70 | 
 | 202 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
 | 203 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 204 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 204 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 205 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 206 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 207 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -701,7 +701,7 @@
 | 699 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 700 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 701 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 702 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.57 | 
+| 702 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 
 | 703 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 704 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 705 | [UnMetal](games/u/unmetal.md) | 4.53 | 
