@@ -49,10 +49,10 @@
 | 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 48 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 53 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 51 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -286,25 +286,25 @@
 | 284 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 285 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 286 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 287 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
-| 288 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 289 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 290 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 291 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 292 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 293 | [GRIME](games/g/grime.md) | 4.62 | 
-| 294 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 295 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
-| 296 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 297 | [Prey](games/p/prey.md) | 4.61 | 
-| 298 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 299 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 300 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 302 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 303 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 304 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 305 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 287 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 288 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 289 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 290 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 291 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 292 | [GRIME](games/g/grime.md) | 4.62 | 
+| 293 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 294 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
+| 295 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 296 | [Prey](games/p/prey.md) | 4.61 | 
+| 297 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 298 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 299 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 300 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 301 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 302 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 303 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 304 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 305 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 306 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 307 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 308 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
@@ -370,26 +370,26 @@
 | 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 369 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 370 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.57 | 
-| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 372 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 373 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 374 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 375 | [Scorn](games/s/scorn.md) | 4.57 | 
-| 376 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 377 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 378 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 379 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 380 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 381 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 382 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 383 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 384 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.56 | 
-| 385 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
-| 386 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 387 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 388 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 389 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 390 | [Breathedge](games/b/breathedge.md) | 4.56 | 
+| 371 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 373 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 375 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 376 | [Scorn](games/s/scorn.md) | 4.57 | 
+| 377 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 378 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 379 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 380 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 382 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 383 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 384 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 385 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.56 | 
+| 386 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
+| 387 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 388 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 389 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 390 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 391 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 392 | [Darkwood](games/d/darkwood.md) | 4.56 | 
 | 393 | [VALORANT](games/v/valorant.md) | 4.55 | 

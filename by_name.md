@@ -64,7 +64,7 @@
 | 62 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 63 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
 | 64 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 65 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 65 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 66 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 67 | [Barony](games/b/barony.md) | 4.69 | 
 | 68 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
@@ -89,7 +89,7 @@
 | 87 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 88 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 89 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 90 | [Breathedge](games/b/breathedge.md) | 4.56 | 
+| 90 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 91 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 92 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 93 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
@@ -747,7 +747,7 @@
 | 745 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 746 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 747 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 748 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
+| 748 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 749 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 750 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 751 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
