@@ -318,7 +318,7 @@
 | 316 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 317 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 318 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 319 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 319 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 320 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 321 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 322 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
@@ -471,7 +471,7 @@
 | 469 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 470 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
 | 471 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 472 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 472 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 473 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 474 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 475 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -550,7 +550,7 @@
 | 548 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 549 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 550 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 551 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 551 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 552 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
 | 554 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 

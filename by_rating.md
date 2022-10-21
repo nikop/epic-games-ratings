@@ -629,14 +629,14 @@
 | 627 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 628 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 629 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 630 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 631 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 632 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 633 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 634 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 635 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 636 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 637 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 630 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 631 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 632 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 633 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 634 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 635 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 636 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 637 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 638 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
 | 639 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 640 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -646,11 +646,11 @@
 | 644 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 645 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 646 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 647 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 648 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 649 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 650 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 651 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 647 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 648 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 649 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 650 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 651 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 652 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 653 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 654 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
