@@ -310,7 +310,7 @@
 | 308 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 309 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 310 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 311 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 311 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 312 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 313 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 314 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
@@ -422,10 +422,10 @@
 | 420 | [Old World](games/o/old_world.md) | 4.64 | 
 | 421 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 422 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 423 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.25 | 
+| 423 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
 | 424 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 425 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 426 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.38 | 
+| 426 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 427 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 428 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 429 | [Outlast](games/o/outlast.md) | 4.71 | 
@@ -435,7 +435,7 @@
 | 433 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 434 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 435 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 436 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 436 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 437 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 438 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 439 | [Paradigm](games/p/paradigm.md) | 4.47 | 
@@ -465,7 +465,7 @@
 | 463 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 464 | [Quake](games/q/quake.md) | 4.81 | 
 | 465 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 466 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 466 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 467 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 468 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 469 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 

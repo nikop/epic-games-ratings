@@ -1,10 +1,10 @@
 {
   "ID": "lotus",
   "Name": "Oxygen Not Included",
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 897,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-09-25T11:33:21.8997448+00:00",
+  "LastChanged": "2022-10-21T11:31:30.261974+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -1079,6 +1079,11 @@
     {
       "Time": "2022-09-25T11:33:21.899745+00:00",
       "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-21T11:31:30.2619742+00:00",
+      "Rating": 4.83,
       "NumberOfRatings": null
     }
   ],
