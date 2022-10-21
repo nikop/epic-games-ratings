@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
@@ -29,7 +29,7 @@
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
-| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
@@ -494,7 +494,7 @@
 | 492 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 493 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 494 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 495 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 495 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
 | 496 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 497 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 498 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -587,7 +587,7 @@
 | 585 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 586 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 587 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 588 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 588 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 589 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 590 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 591 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
