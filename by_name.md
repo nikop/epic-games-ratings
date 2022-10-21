@@ -260,7 +260,7 @@
 | 258 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 259 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 260 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 261 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 261 | [Gone Home](games/g/gone_home.md) | 4.18 | 
 | 262 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 263 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 264 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -724,7 +724,7 @@
 | 722 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 723 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 724 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 725 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 725 | [Warpips](games/w/warpips.md) | 4.54 | 
 | 726 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 727 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 728 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
