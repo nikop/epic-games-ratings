@@ -268,7 +268,7 @@
 | 266 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 267 | [GRIME](games/g/grime.md) | 4.62 | 
 | 268 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 269 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 269 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 270 | [Hades](games/h/hades.md) | 4.92 | 
 | 271 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 272 | [Hammerting](games/h/hammerting.md) | 4.38 | 
@@ -541,7 +541,7 @@
 | 539 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 540 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 541 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 542 | [SOMA](games/s/soma.md) | 4.68 | 
+| 542 | [SOMA](games/s/soma.md) | 4.67 | 
 | 543 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
 | 544 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 545 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -553,7 +553,7 @@
 | 551 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 552 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
-| 554 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 554 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 555 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 
 | 556 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 557 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -598,7 +598,7 @@
 | 596 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 597 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 598 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 599 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 599 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 600 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 601 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 602 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
