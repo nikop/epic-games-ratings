@@ -386,17 +386,17 @@
 | 384 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.56 | 
 | 385 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
 | 386 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 387 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 388 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 389 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 390 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
-| 391 | [Darkwood](games/d/darkwood.md) | 4.56 | 
-| 392 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 393 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 394 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 395 | [Hue](games/h/hue.md) | 4.55 | 
-| 396 | [Outward](games/o/outward.md) | 4.55 | 
-| 397 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 387 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 388 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 389 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 390 | [Darkwood](games/d/darkwood.md) | 4.56 | 
+| 391 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 392 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 393 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 394 | [Hue](games/h/hue.md) | 4.55 | 
+| 395 | [Outward](games/o/outward.md) | 4.55 | 
+| 396 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 397 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 398 | [Road 96](games/r/road_96.md) | 4.55 | 
 | 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 400 | [Horace](games/h/horace.md) | 4.55 | 
