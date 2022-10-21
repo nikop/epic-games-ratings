@@ -28,7 +28,7 @@
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 
+| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -244,7 +244,7 @@
 | 242 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 243 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 244 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 245 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 245 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
 | 246 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 247 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 248 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
@@ -549,7 +549,7 @@
 | 547 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 548 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 549 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 550 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 550 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 551 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 552 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
