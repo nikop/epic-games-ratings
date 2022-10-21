@@ -189,7 +189,7 @@
 | 187 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 188 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 189 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 190 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
+| 190 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 191 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 192 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 193 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
@@ -283,7 +283,7 @@
 | 281 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 282 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 283 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
-| 284 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 284 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
 | 285 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 286 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 287 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -296,7 +296,7 @@
 | 294 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 295 | [House Party](games/h/house_party.md) | 4.35 | 
 | 296 | [Hue](games/h/hue.md) | 4.55 | 
-| 297 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 297 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 298 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 299 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 300 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.58 | 
@@ -417,7 +417,7 @@
 | 415 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 416 | [Observation](games/o/observation.md) | 4.44 | 
 | 417 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 418 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 418 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 419 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 420 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 421 | [Old World](games/o/old_world.md) | 4.63 | 
@@ -592,7 +592,7 @@
 | 590 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 591 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 592 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 593 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
+| 593 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 594 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 595 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 596 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -621,7 +621,7 @@
 | 619 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 620 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 621 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 622 | [The Fall](games/t/the_fall.md) | 4.24 | 
+| 622 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 623 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 624 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 625 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
