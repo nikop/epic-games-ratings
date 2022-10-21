@@ -395,19 +395,19 @@
 | 393 | [Hue](games/h/hue.md) | 4.55 | 
 | 394 | [Outward](games/o/outward.md) | 4.55 | 
 | 395 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 396 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 397 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 398 | [Road 96](games/r/road_96.md) | 4.55 | 
-| 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 400 | [Horace](games/h/horace.md) | 4.55 | 
-| 401 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 402 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 403 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 404 | [NORCO](games/n/norco.md) | 4.55 | 
-| 405 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 406 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 407 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 408 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 396 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 397 | [Road 96](games/r/road_96.md) | 4.55 | 
+| 398 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 399 | [Horace](games/h/horace.md) | 4.55 | 
+| 400 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 401 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 402 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 403 | [NORCO](games/n/norco.md) | 4.55 | 
+| 404 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 405 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 406 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 407 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 408 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 409 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 410 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 411 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
