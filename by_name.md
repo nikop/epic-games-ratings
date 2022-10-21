@@ -487,7 +487,7 @@
 | 485 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 486 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 487 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 488 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 488 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 489 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 490 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 491 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -668,7 +668,7 @@
 | 666 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 667 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 668 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 669 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.02 | 
+| 669 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
 | 670 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 671 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 672 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 

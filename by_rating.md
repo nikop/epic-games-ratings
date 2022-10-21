@@ -565,11 +565,11 @@
 | 563 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 564 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 565 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 566 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 567 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 568 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
-| 569 | [Encased](games/e/encased.md) | 4.40 | 
-| 570 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 566 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 567 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
+| 568 | [Encased](games/e/encased.md) | 4.40 | 
+| 569 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 570 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 571 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 572 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 573 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -732,8 +732,8 @@
 | 730 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 731 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 732 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 733 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.02 | 
-| 734 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
+| 733 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
+| 734 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
 | 735 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 736 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 737 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
