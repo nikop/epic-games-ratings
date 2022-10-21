@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
-| 2 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.49 | 
+| 2 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.50 | 
 | 3 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 4 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.44 | 
 | 5 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
@@ -12,8 +12,8 @@
 | 10 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 11 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
 | 12 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
-| 13 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
-| 14 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 13 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.75 | 
+| 14 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 15 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 16 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 17 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 

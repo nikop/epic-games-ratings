@@ -75,7 +75,7 @@
 | 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 74 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 75 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 76 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 76 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
 | 77 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 78 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 79 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -115,7 +115,7 @@
 | 113 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 114 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 115 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 116 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 116 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 117 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 118 | [Conarium](games/c/conarium.md) | 3.95 | 
 | 119 | [Control](games/c/control.md) | 4.60 | 
@@ -151,7 +151,7 @@
 | 149 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 150 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 151 | [Darkwood](games/d/darkwood.md) | 4.56 | 
-| 152 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 152 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 153 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 154 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 155 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
@@ -209,7 +209,7 @@
 | 207 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 208 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 209 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.49 | 
+| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.50 | 
 | 211 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 212 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 213 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -299,7 +299,7 @@
 | 297 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 298 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 299 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 300 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.58 | 
+| 300 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 301 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 302 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 303 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
@@ -429,7 +429,7 @@
 | 427 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 428 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 429 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 430 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 430 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 431 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 432 | [Outward](games/o/outward.md) | 4.55 | 
 | 433 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -525,7 +525,7 @@
 | 523 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 524 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 525 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
-| 526 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 526 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 527 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 528 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 529 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
@@ -616,7 +616,7 @@
 | 614 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 616 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 617 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
+| 617 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.75 | 
 | 618 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 619 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 620 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
