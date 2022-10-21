@@ -1,10 +1,10 @@
 {
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
-  "Rating": 4.72,
+  "Rating": 4.74,
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
-  "LastChanged": "2022-10-21T16:31:11.0873232+00:00",
+  "LastChanged": "2022-10-21T20:31:04.5983536+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T08:31:07.2693345+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2022-10-21T16:31:11.0873235+00:00",
       "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-21T20:31:04.598354+00:00",
+      "Rating": 4.74,
       "NumberOfRatings": null
     }
   ],

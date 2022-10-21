@@ -5,10 +5,10 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -250,7 +250,7 @@
 | 248 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 249 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 250 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 251 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.43 | 
+| 251 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.44 | 
 | 252 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 253 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 254 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -320,7 +320,7 @@
 | 318 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 319 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 320 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 321 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 321 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 322 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 323 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 324 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
@@ -435,7 +435,7 @@
 | 433 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 434 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 435 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 436 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 436 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 437 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 438 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 439 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
@@ -487,7 +487,7 @@
 | 485 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 486 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 487 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 488 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 488 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 489 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 490 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 491 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -662,7 +662,7 @@
 | 660 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 661 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 662 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 663 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 663 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 664 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 665 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 666 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -702,7 +702,7 @@
 | 700 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 701 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 702 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 703 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 703 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 704 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 705 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 706 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
@@ -730,7 +730,7 @@
 | 728 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 729 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 730 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 731 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 731 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 732 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 733 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 734 | [Weird West](games/w/weird_west.md) | 4.41 | 
