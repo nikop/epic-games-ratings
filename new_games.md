@@ -7,13 +7,13 @@
 | 5 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 6 | [Scorn](games/s/scorn.md) | 4.51 | 
 | 7 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 8 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
+| 8 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
 | 9 | [Darkwood](games/d/darkwood.md) | 4.56 | 
 | 10 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 11 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
 | 12 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
 | 13 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.75 | 
-| 14 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 14 | [Outlast](games/o/outlast.md) | 4.63 | 
 | 15 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 16 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 17 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
@@ -22,7 +22,7 @@
 | 20 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 21 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 22 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 23 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 23 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 24 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 25 | [Steelrising](games/s/steelrising.md) | 4.29 | 
 | 26 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
