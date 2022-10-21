@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -184,7 +184,7 @@
 | 182 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 183 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 184 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 185 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 185 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 186 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 187 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 188 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
@@ -257,7 +257,7 @@
 | 255 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 256 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
 | 257 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 258 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
+| 258 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 259 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 260 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 261 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
@@ -359,7 +359,7 @@
 | 357 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 358 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 359 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 360 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.19 | 
+| 360 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 361 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 362 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 363 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
