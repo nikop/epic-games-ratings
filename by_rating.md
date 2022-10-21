@@ -21,8 +21,8 @@
 | 19 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 21 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
+| 22 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
+| 23 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
@@ -261,18 +261,18 @@
 | 259 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 260 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 261 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 262 | [Old World](games/o/old_world.md) | 4.64 | 
-| 263 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 264 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
-| 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 266 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 267 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
-| 268 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 269 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 270 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 271 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 272 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 273 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 262 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 263 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
+| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 265 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 266 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 267 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 268 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 269 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 270 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 271 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 272 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 273 | [Old World](games/o/old_world.md) | 4.63 | 
 | 274 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 275 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 276 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
@@ -410,19 +410,19 @@
 | 408 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 409 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 410 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 411 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 412 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 413 | [Warpips](games/w/warpips.md) | 4.54 | 
-| 414 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 415 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 416 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 417 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 418 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 419 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 420 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 421 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 422 | [Minit](games/m/minit.md) | 4.53 | 
-| 423 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 411 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
+| 412 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 413 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 414 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 415 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 416 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 417 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 418 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 419 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 420 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 421 | [Minit](games/m/minit.md) | 4.53 | 
+| 422 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 423 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 424 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 425 | [Sable](games/s/sable.md) | 4.53 | 
 | 426 | [UnMetal](games/u/unmetal.md) | 4.53 | 
@@ -674,18 +674,18 @@
 | 672 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 673 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 674 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 675 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 676 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 677 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 678 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 679 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 680 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 681 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 682 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 683 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 684 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 685 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 686 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 675 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 676 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 677 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 678 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 679 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 680 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 681 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 682 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 683 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 684 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 685 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 686 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 687 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
 | 688 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
 | 689 | [Space Punks](games/s/space_punks.md) | 4.19 | 

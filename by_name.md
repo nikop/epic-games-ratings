@@ -83,7 +83,7 @@
 | 81 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 82 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 83 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 84 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 84 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 85 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 86 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
@@ -174,7 +174,7 @@
 | 172 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 173 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 174 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 175 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 175 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 176 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 177 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 178 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -420,7 +420,7 @@
 | 418 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 419 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 420 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 421 | [Old World](games/o/old_world.md) | 4.64 | 
+| 421 | [Old World](games/o/old_world.md) | 4.63 | 
 | 422 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 423 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 424 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
@@ -489,7 +489,7 @@
 | 487 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 488 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 489 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 490 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 490 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 491 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 492 | [Road 96](games/r/road_96.md) | 4.55 | 
 | 493 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
