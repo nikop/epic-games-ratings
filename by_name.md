@@ -26,7 +26,7 @@
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
@@ -91,7 +91,7 @@
 | 89 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 90 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 91 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 92 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 92 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 93 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 94 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 95 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -728,7 +728,7 @@
 | 726 | [Warpips](games/w/warpips.md) | 4.54 | 
 | 727 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 728 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 729 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 729 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 730 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 731 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 732 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 

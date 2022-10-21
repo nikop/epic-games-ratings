@@ -474,14 +474,14 @@
 | 472 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 473 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 474 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 475 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 476 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 477 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 478 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 479 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 480 | [Aztez](games/a/aztez.md) | 4.49 | 
-| 481 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 482 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 475 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 476 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 477 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 478 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 479 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 481 | [Aztez](games/a/aztez.md) | 4.49 | 
+| 482 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 483 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 484 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 485 | [CryoFall](games/c/cryofall.md) | 4.48 | 
@@ -602,23 +602,23 @@
 | 600 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 601 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 602 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 603 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 606 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
-| 607 | [House Party](games/h/house_party.md) | 4.35 | 
-| 608 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 609 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 611 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 612 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 613 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 614 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 615 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 616 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 617 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 618 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 619 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 603 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 604 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 605 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 606 | [House Party](games/h/house_party.md) | 4.35 | 
+| 607 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 608 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 609 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 610 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 611 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 612 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 613 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 614 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 616 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 617 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 618 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 619 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 620 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 621 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 622 | [ELEX](games/e/elex.md) | 4.33 | 
