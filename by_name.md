@@ -209,7 +209,7 @@
 | 207 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 208 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 209 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.50 | 
+| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.49 | 
 | 211 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 212 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 213 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -320,7 +320,7 @@
 | 318 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 319 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 320 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 321 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 321 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 322 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 323 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 324 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 

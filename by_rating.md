@@ -466,22 +466,22 @@
 | 464 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 465 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 466 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 467 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.50 | 
-| 468 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 469 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 470 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 471 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 472 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 473 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 474 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 475 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 476 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 477 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 478 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 479 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 481 | [Aztez](games/a/aztez.md) | 4.49 | 
-| 482 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 467 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 468 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 469 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 470 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 471 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 472 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 473 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 474 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 475 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 476 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 477 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 478 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 479 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 480 | [Aztez](games/a/aztez.md) | 4.49 | 
+| 481 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 482 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.49 | 
 | 483 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 484 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 485 | [CryoFall](games/c/cryofall.md) | 4.48 | 
@@ -631,13 +631,13 @@
 | 629 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 631 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 632 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 633 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 634 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 635 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 636 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 637 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 638 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 632 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 633 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 634 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 635 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 636 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 637 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 638 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 639 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
 | 641 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
