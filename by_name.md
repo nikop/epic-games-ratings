@@ -128,7 +128,7 @@
 | 126 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 127 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 128 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 129 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 129 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 130 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 131 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.38 | 
 | 132 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 

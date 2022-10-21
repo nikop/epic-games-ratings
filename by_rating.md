@@ -646,15 +646,15 @@
 | 644 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 645 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 646 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 647 | [Ashen](games/a/ashen.md) | 4.28 | 
-| 648 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 649 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
-| 650 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
-| 651 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 652 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 653 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 654 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 655 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 647 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 648 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 649 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 650 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 651 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 
+| 652 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 653 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 654 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 655 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 656 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 657 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 658 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
