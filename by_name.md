@@ -248,7 +248,7 @@
 | 246 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 247 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 248 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 249 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.42 | 
+| 249 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.43 | 
 | 250 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 251 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 252 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -294,7 +294,7 @@
 | 292 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 293 | [House Party](games/h/house_party.md) | 4.35 | 
 | 294 | [Hue](games/h/hue.md) | 4.55 | 
-| 295 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 295 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
 | 296 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 297 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 298 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.58 | 
@@ -401,7 +401,7 @@
 | 399 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
 | 400 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 401 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 402 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 402 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 403 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 404 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 405 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 

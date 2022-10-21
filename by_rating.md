@@ -432,22 +432,22 @@
 | 430 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 431 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 432 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 434 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 435 | [MythForce](games/m/mythforce.md) | 4.52 | 
-| 436 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 437 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 438 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 439 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 440 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 441 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 442 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 443 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 444 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 445 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 446 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 447 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 448 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 433 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.52 | 
+| 434 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 435 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 436 | [MythForce](games/m/mythforce.md) | 4.52 | 
+| 437 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 439 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 440 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 441 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 442 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 443 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 444 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 445 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 446 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 447 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 448 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 450 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 451 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
@@ -537,19 +537,19 @@
 | 535 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 536 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 537 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
-| 538 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 539 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 540 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 541 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 542 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 543 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 544 | [Weird West](games/w/weird_west.md) | 4.42 | 
-| 545 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 546 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 547 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
-| 548 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 549 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 550 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.42 | 
+| 538 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.43 | 
+| 539 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 540 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 541 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 542 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 543 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 544 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 545 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 546 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 547 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 548 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
+| 549 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 550 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 551 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 552 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 553 | [Sheltered](games/s/sheltered.md) | 4.41 | 
@@ -713,11 +713,11 @@
 | 711 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 712 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 713 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 714 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 715 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 716 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
-| 717 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
-| 718 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 714 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 715 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 716 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
+| 717 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 718 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 719 | [Lake](games/l/lake.md) | 4.08 | 
 | 720 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 721 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
