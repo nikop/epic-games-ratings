@@ -122,7 +122,7 @@
 | 120 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 121 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 122 | [Core](games/c/core.md) | 4.39 | 
-| 123 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 123 | [Coromon](games/c/coromon.md) | 4.63 | 
 | 124 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
 | 125 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 126 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
@@ -619,7 +619,7 @@
 | 617 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
 | 618 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 619 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 620 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 620 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 621 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 622 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 623 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
