@@ -517,7 +517,7 @@
 | 515 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 516 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 517 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 518 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
+| 518 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 519 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 520 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 521 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
