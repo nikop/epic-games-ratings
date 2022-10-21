@@ -76,7 +76,7 @@
 | 74 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 75 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 76 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 77 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 77 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 78 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 79 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 80 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -101,7 +101,7 @@
 | 99 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 100 | [Card Shark](games/c/card_shark.md) | 4.57 | 
 | 101 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 102 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 102 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 103 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 105 | [Celeste](games/c/celeste.md) | 4.92 | 
@@ -611,7 +611,7 @@
 | 609 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 610 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 611 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 612 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 612 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 613 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 614 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 

@@ -235,16 +235,16 @@
 | 233 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 234 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 235 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 236 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 237 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 238 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 239 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 240 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 241 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 243 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 244 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 245 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 236 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 237 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 238 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 239 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 240 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 242 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 243 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 244 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 245 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 246 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 247 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 248 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -607,27 +607,27 @@
 | 605 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 606 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 608 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
-| 609 | [House Party](games/h/house_party.md) | 4.35 | 
-| 610 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 611 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 612 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 613 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 614 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 615 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 616 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 617 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 608 | [House Party](games/h/house_party.md) | 4.35 | 
+| 609 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 610 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 612 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 613 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 614 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 615 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 616 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 617 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 618 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
 | 619 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 620 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 621 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 622 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 623 | [ELEX](games/e/elex.md) | 4.33 | 
-| 624 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 625 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 626 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 627 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 628 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 621 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 622 | [ELEX](games/e/elex.md) | 4.33 | 
+| 623 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 624 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 625 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 626 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 627 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 628 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 629 | [ATOM RPG](games/a/atom_rpg.md) | 4.32 | 
 | 630 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
