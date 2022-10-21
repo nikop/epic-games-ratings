@@ -148,7 +148,7 @@
 | 146 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 147 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 148 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 149 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 149 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 150 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 151 | [Darkwood](games/d/darkwood.md) | 4.56 | 
 | 152 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
@@ -194,7 +194,7 @@
 | 192 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 193 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 194 | [ELEX](games/e/elex.md) | 4.33 | 
-| 195 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
+| 195 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 196 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 197 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 198 | [Encased](games/e/encased.md) | 4.40 | 
@@ -466,7 +466,7 @@
 | 464 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 465 | [Quake](games/q/quake.md) | 4.81 | 
 | 466 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 467 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 467 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
 | 468 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 469 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 470 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
@@ -733,7 +733,7 @@
 | 731 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 732 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 733 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 734 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 734 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 735 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 736 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 737 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
