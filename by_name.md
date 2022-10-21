@@ -242,7 +242,7 @@
 | 240 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 241 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 242 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 243 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 243 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 244 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 245 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 246 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -565,7 +565,7 @@
 | 563 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 564 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 565 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 566 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 566 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 567 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 568 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
 | 569 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
@@ -611,7 +611,7 @@
 | 609 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 610 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 611 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 612 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 612 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 613 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 614 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
@@ -662,7 +662,7 @@
 | 660 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 661 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 662 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 663 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 663 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 664 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 665 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 666 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

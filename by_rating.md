@@ -122,18 +122,18 @@
 | 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 127 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.74 | 
-| 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 133 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 134 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 126 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 128 | [Revita](games/r/revita.md) | 4.74 | 
+| 129 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.74 | 
+| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 133 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 134 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 135 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 136 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 137 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -237,17 +237,17 @@
 | 235 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 236 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 237 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 238 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 239 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 240 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 241 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 242 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 243 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 244 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 245 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 246 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 247 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 248 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 238 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 239 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 240 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 242 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 243 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 244 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 245 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 246 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 247 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 248 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 249 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 251 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -624,18 +624,18 @@
 | 622 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 623 | [ELEX](games/e/elex.md) | 4.33 | 
 | 624 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 625 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 626 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 627 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 628 | [ATOM RPG](games/a/atom_rpg.md) | 4.32 | 
-| 629 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
-| 631 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 632 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 633 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 634 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 635 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 636 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 625 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 626 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 627 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 628 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 629 | [ATOM RPG](games/a/atom_rpg.md) | 4.32 | 
+| 630 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
+| 632 | [Lamentum](games/l/lamentum.md) | 4.32 | 
+| 633 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 634 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 635 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 636 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 637 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 638 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 639 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -674,13 +674,13 @@
 | 672 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 673 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 674 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
-| 675 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 676 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 677 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 678 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 679 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 680 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 681 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 675 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 676 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 677 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 678 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 679 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 680 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 681 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 682 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 683 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 684 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
