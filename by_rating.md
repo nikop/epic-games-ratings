@@ -166,17 +166,17 @@
 | 164 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 165 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 166 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
-| 167 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
-| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 169 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 171 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 172 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 173 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 174 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 175 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
-| 176 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 177 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 168 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 170 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 171 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 172 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 174 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 175 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 176 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
+| 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 178 | [Everything](games/e/everything.md) | 4.70 | 
 | 179 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 180 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -261,18 +261,18 @@
 | 259 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 260 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 261 | [Old World](games/o/old_world.md) | 4.64 | 
-| 262 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
-| 263 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 264 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 265 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
-| 266 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 267 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 268 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 269 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 270 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 271 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 273 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 262 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 263 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
+| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 265 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 266 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 267 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 268 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 269 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 270 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 271 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 272 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 274 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 275 | [RiME](games/r/rime.md) | 4.63 | 
 | 276 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 

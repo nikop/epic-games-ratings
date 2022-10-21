@@ -370,7 +370,7 @@
 | 368 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 369 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 370 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 371 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.63 | 
+| 371 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 372 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 373 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 374 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -620,7 +620,7 @@
 | 618 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 619 | [The Fall](games/t/the_fall.md) | 4.24 | 
 | 620 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 621 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.70 | 
+| 621 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 622 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 623 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
 | 624 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
