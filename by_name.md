@@ -55,7 +55,7 @@
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 56 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
+| 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.49 | 
@@ -86,7 +86,7 @@
 | 84 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 85 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 86 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
 | 88 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 89 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 90 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -523,7 +523,7 @@
 | 521 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 522 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 523 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 524 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.56 | 
+| 524 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 525 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 526 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 527 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
@@ -545,7 +545,7 @@
 | 543 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 544 | [SOMA](games/s/soma.md) | 4.67 | 
 | 545 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
-| 546 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 546 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 547 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 548 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 549 | [Souldiers](games/s/souldiers.md) | 4.54 | 
@@ -703,7 +703,7 @@
 | 701 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 702 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 703 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 704 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 
+| 704 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 705 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 706 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 707 | [UnMetal](games/u/unmetal.md) | 4.53 | 
