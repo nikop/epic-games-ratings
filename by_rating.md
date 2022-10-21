@@ -146,22 +146,22 @@
 | 144 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.73 | 
 | 145 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 
 | 146 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 147 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
-| 148 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
-| 149 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 150 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 151 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 152 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 153 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 154 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 155 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
-| 156 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 157 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 158 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 159 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 147 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
+| 148 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 149 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 150 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 151 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 152 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 153 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 154 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
+| 155 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 156 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 157 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 158 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 159 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 160 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 161 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 162 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 163 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 165 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
@@ -637,12 +637,12 @@
 | 635 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 636 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 637 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 638 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 639 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 640 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
-| 641 | [Steelrising](games/s/steelrising.md) | 4.29 | 
-| 642 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
-| 643 | [Hero's Hour](games/h/hero's_hour.md) | 4.29 | 
+| 638 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
+| 639 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 640 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 641 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 642 | [Steelrising](games/s/steelrising.md) | 4.29 | 
+| 643 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 644 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 645 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 646 | [EVE Online](games/e/eve_online.md) | 4.28 | 
@@ -726,8 +726,8 @@
 | 724 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 725 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 726 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 727 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 728 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 727 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 728 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 729 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 730 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 731 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
@@ -750,8 +750,8 @@
 | 748 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 749 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 750 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
-| 751 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
-| 752 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 751 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 752 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 753 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 754 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 755 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 

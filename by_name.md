@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -187,7 +187,7 @@
 | 185 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 186 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 187 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 188 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.72 | 
+| 188 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 189 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 190 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 191 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
@@ -280,7 +280,7 @@
 | 278 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 279 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 280 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 281 | [Hero's Hour](games/h/hero's_hour.md) | 4.29 | 
+| 281 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
 | 282 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 283 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 284 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -456,7 +456,7 @@
 | 454 | [Pine](games/p/pine.md) | 4.14 | 
 | 455 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 456 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 457 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 457 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 458 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 459 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
 | 460 | [Prey](games/p/prey.md) | 4.61 | 
