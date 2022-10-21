@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -534,7 +534,7 @@
 | 532 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 533 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 534 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 535 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 535 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
 | 536 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 537 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 538 | [Slipways](games/s/slipways.md) | 4.72 | 
@@ -726,7 +726,7 @@
 | 724 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 725 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 726 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 727 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 727 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 728 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 729 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 730 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 

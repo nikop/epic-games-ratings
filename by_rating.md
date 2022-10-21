@@ -322,21 +322,21 @@
 | 320 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 321 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 322 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 323 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 324 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 325 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 326 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 327 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 328 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 329 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 330 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 331 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 332 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 333 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 334 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 335 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
-| 336 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 337 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 323 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 324 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 325 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 326 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 327 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 328 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 329 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 330 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 331 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 332 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 333 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 334 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 335 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 336 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
+| 337 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 338 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 339 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 340 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
@@ -400,18 +400,18 @@
 | 398 | [Road 96](games/r/road_96.md) | 4.55 | 
 | 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 400 | [Horace](games/h/horace.md) | 4.55 | 
-| 401 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 402 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 403 | [NORCO](games/n/norco.md) | 4.55 | 
-| 404 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 405 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 406 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 407 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 408 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 409 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 410 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 411 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 412 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 401 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 402 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 403 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 404 | [NORCO](games/n/norco.md) | 4.55 | 
+| 405 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 406 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 407 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 408 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 409 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 410 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 411 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 412 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 413 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 414 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 415 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -636,11 +636,11 @@
 | 634 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 635 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 636 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 637 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 638 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 639 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
-| 641 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 637 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
+| 638 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 639 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 640 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
 | 642 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 644 | [Steelrising](games/s/steelrising.md) | 4.29 | 
