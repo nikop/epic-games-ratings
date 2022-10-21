@@ -529,7 +529,7 @@
 | 527 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 528 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 529 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 530 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 530 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
 | 531 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 532 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 533 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -573,7 +573,7 @@
 | 571 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 572 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 573 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
-| 574 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 574 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
 | 575 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 576 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
 | 577 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 

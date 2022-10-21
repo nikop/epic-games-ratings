@@ -27,18 +27,18 @@
 | 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 27 | [Black Book](games/b/black_book.md) | 4.86 | 
-| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 30 | [Firework](games/f/firework.md) | 4.86 | 
-| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 39 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.85 | 
+| 28 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
+| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 31 | [Firework](games/f/firework.md) | 4.86 | 
+| 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 33 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 34 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 37 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 40 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 41 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
@@ -484,19 +484,19 @@
 | 482 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 483 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 484 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 485 | [CryoFall](games/c/cryofall.md) | 4.48 | 
-| 486 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 487 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 488 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 489 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
-| 490 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 491 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 492 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 493 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 494 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 495 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 496 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 497 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 485 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
+| 486 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 487 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
+| 488 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 489 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 490 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
+| 491 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 492 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 493 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 494 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 495 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 496 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 497 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 498 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 499 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 500 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
