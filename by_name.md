@@ -217,7 +217,7 @@
 | 215 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 216 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 217 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 218 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 218 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 219 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
 | 220 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 221 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 

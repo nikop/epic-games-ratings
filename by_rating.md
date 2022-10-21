@@ -223,21 +223,21 @@
 | 221 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 222 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 223 | [Bad North](games/b/bad_north.md) | 4.67 | 
-| 224 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 225 | [SOMA](games/s/soma.md) | 4.67 | 
-| 226 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 227 | [Coromon](games/c/coromon.md) | 4.67 | 
-| 228 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
-| 229 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
-| 230 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
-| 231 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 232 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 233 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 234 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 235 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 236 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 237 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 238 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 224 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 225 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 226 | [SOMA](games/s/soma.md) | 4.67 | 
+| 227 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 228 | [Coromon](games/c/coromon.md) | 4.67 | 
+| 229 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 230 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 231 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
+| 232 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 233 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 234 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 235 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 236 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 237 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 238 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 239 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 240 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 241 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
