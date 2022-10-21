@@ -237,7 +237,7 @@
 | 235 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 236 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 237 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 238 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 
+| 238 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 239 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 240 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 241 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -429,7 +429,7 @@
 | 427 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 428 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 429 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 430 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 430 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 431 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 432 | [Outward](games/o/outward.md) | 4.55 | 
 | 433 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -516,7 +516,7 @@
 | 514 | [Scorn](games/s/scorn.md) | 4.53 | 
 | 515 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 516 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 517 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 517 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 518 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 519 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 520 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -667,7 +667,7 @@
 | 665 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 666 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 667 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 668 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 668 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 669 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.02 | 
 | 670 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 671 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
