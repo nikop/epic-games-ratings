@@ -734,7 +734,7 @@
 | 732 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 733 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 734 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 735 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 735 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
 | 736 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 737 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 738 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
@@ -743,7 +743,7 @@
 | 741 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 742 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 743 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 744 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
+| 744 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 745 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 746 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 747 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 

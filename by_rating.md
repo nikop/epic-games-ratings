@@ -114,19 +114,19 @@
 | 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 114 | [Journey](games/j/journey.md) | 4.75 | 
-| 115 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 116 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
-| 117 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 118 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
-| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 127 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 
+| 115 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 117 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
+| 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 119 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
+| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 124 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 130 | [Revita](games/r/revita.md) | 4.74 | 
@@ -152,20 +152,20 @@
 | 150 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 151 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 152 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 153 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 154 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 155 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
-| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 157 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.72 | 
-| 158 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 159 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 160 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 161 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 162 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 163 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 164 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 165 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 166 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.71 | 
+| 153 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
+| 154 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 155 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 156 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 157 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 158 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.72 | 
+| 159 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 160 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 161 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 162 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 163 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 164 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 168 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
