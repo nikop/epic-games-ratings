@@ -29,7 +29,7 @@
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
@@ -181,7 +181,7 @@
 | 179 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 180 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 181 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 182 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 182 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 183 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 184 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 185 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -258,7 +258,7 @@
 | 256 | [God's Trigger](games/g/god's_trigger.md) | 4.07 | 
 | 257 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 258 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 259 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
+| 259 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 260 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 261 | [Gone Home](games/g/gone_home.md) | 4.18 | 
 | 262 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -476,7 +476,7 @@
 | 474 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 475 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 476 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 477 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 477 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 478 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 479 | [Revita](games/r/revita.md) | 4.74 | 
 | 480 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -744,7 +744,7 @@
 | 742 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 743 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 744 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 745 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 745 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 746 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 747 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 748 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.62 | 
