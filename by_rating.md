@@ -56,10 +56,10 @@
 | 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 57 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 58 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 60 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 58 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 59 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 60 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
 | 62 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.81 | 
 | 63 | [Quake](games/q/quake.md) | 4.81 | 

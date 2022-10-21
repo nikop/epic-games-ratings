@@ -6,7 +6,7 @@
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
-| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.59 | 
