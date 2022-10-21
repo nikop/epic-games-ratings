@@ -248,7 +248,7 @@
 | 246 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 247 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 248 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 249 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.41 | 
+| 249 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.42 | 
 | 250 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 251 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 252 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -351,7 +351,7 @@
 | 349 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 350 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 351 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 352 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 
+| 352 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 353 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 354 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 355 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
@@ -614,7 +614,7 @@
 | 612 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 613 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 614 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 615 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.72 | 
+| 615 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.73 | 
 | 616 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 617 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 618 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -635,7 +635,7 @@
 | 633 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 634 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 635 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 636 | [The Silent Age](games/t/the_silent_age.md) | 4.48 | 
+| 636 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 637 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 638 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 639 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
@@ -666,7 +666,7 @@
 | 664 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 665 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 666 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 667 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
+| 667 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.00 | 
 | 668 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 669 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 670 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
