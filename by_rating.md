@@ -596,29 +596,29 @@
 | 594 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 595 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 596 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.37 | 
-| 597 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 598 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 599 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 600 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 601 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 602 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 603 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 606 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
-| 607 | [House Party](games/h/house_party.md) | 4.35 | 
-| 608 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 609 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 611 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 612 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 613 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 614 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 615 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 616 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 617 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 618 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
-| 619 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 597 | [Backbone](games/b/backbone.md) | 4.37 | 
+| 598 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 599 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 600 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 601 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 602 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 603 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 604 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 606 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 607 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 608 | [House Party](games/h/house_party.md) | 4.35 | 
+| 609 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 610 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 612 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 613 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 614 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 615 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 616 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 617 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 618 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 619 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
 | 620 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 621 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 622 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
