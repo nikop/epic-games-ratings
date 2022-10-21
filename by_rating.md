@@ -555,20 +555,20 @@
 | 553 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 554 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 555 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 557 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 558 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 559 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 560 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 561 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 562 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 563 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 564 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 565 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 566 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
-| 567 | [Encased](games/e/encased.md) | 4.40 | 
-| 568 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 569 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 556 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 557 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 558 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 559 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 560 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 561 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 562 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 563 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 564 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 565 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 566 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 567 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
+| 568 | [Encased](games/e/encased.md) | 4.40 | 
+| 569 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 570 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 571 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 572 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -731,10 +731,10 @@
 | 729 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 730 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 731 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 732 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
-| 733 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 734 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
-| 735 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.00 | 
+| 732 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.02 | 
+| 733 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
+| 734 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 735 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 736 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 737 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 738 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 

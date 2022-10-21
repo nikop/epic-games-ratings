@@ -486,7 +486,7 @@
 | 484 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 485 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 486 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 487 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 487 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 488 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 489 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 490 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -667,7 +667,7 @@
 | 665 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 666 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 667 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 668 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.00 | 
+| 668 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.02 | 
 | 669 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 670 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 671 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
@@ -754,6 +754,6 @@
 | 752 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 753 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 754 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 755 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 755 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 756 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
 | 757 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
