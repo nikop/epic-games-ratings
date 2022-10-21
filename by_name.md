@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.58 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
@@ -26,7 +26,7 @@
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
@@ -63,7 +63,7 @@
 | 61 | [Backbone](games/b/backbone.md) | 4.37 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
+| 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
@@ -83,7 +83,7 @@
 | 81 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 82 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 83 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 84 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 84 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 85 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 86 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
@@ -513,7 +513,7 @@
 | 511 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 512 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 513 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 514 | [Scorn](games/s/scorn.md) | 4.53 | 
+| 514 | [Scorn](games/s/scorn.md) | 4.51 | 
 | 515 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 516 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 517 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
@@ -587,7 +587,7 @@
 | 585 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 586 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
 | 587 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 588 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 588 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 589 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 590 | [Superliminal](games/s/superliminal.md) | 4.75 | 
 | 591 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -614,7 +614,7 @@
 | 612 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 613 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 614 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 616 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 617 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
 | 618 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -681,7 +681,7 @@
 | 679 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
 | 680 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 681 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 682 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 682 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 683 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 684 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 685 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
@@ -729,7 +729,7 @@
 | 727 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 728 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 729 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 730 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 730 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 731 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 732 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 733 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 

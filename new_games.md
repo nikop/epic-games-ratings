@@ -5,7 +5,7 @@
 | 3 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 
 | 4 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.43 | 
 | 5 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
-| 6 | [Scorn](games/s/scorn.md) | 4.53 | 
+| 6 | [Scorn](games/s/scorn.md) | 4.51 | 
 | 7 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 8 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.01 | 
 | 9 | [Darkwood](games/d/darkwood.md) | 4.56 | 
@@ -22,7 +22,7 @@
 | 20 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 21 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 22 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 23 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 23 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 24 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 25 | [Steelrising](games/s/steelrising.md) | 4.29 | 
 | 26 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
