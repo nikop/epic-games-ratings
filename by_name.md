@@ -40,7 +40,7 @@
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 41 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 41 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -220,7 +220,7 @@
 | 218 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 220 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 221 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.72 | 
+| 221 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
 | 222 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 223 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
 | 224 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
@@ -255,7 +255,7 @@
 | 253 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 254 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 255 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 256 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
+| 256 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 257 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 258 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 259 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -616,7 +616,7 @@
 | 614 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 616 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 617 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.74 | 
+| 617 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
 | 618 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 619 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 620 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 

@@ -12,7 +12,7 @@
 | 10 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 11 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
 | 12 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 13 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.74 | 
+| 13 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
 | 14 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 15 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 16 | [Runbow](games/r/runbow.md) | 4.44 | 
@@ -20,7 +20,7 @@
 | 18 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 19 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 20 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 21 | [Gloomhaven](games/g/gloomhaven.md) | 4.42 | 
+| 21 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 22 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 23 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 24 | [Isonzo](games/i/isonzo.md) | 4.56 | 
