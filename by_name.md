@@ -250,7 +250,7 @@
 | 248 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 249 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 250 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 251 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.44 | 
+| 251 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.45 | 
 | 252 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 253 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 254 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -437,7 +437,7 @@
 | 435 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 436 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 437 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
-| 438 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 438 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 439 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 440 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 441 | [Paradigm](games/p/paradigm.md) | 4.47 | 
@@ -562,7 +562,7 @@
 | 560 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 561 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 562 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
-| 563 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 563 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 564 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 565 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 566 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -664,7 +664,7 @@
 | 662 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 663 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 664 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 665 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 665 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 666 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 667 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 668 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
