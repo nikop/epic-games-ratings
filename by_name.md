@@ -83,7 +83,7 @@
 | 81 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 82 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 83 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 84 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 84 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 85 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 86 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
@@ -117,7 +117,7 @@
 | 115 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 116 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 117 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 118 | [Conarium](games/c/conarium.md) | 3.95 | 
+| 118 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 119 | [Control](games/c/control.md) | 4.60 | 
 | 120 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 121 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -191,7 +191,7 @@
 | 189 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 190 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 191 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 192 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
+| 192 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 193 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 194 | [ELEX](games/e/elex.md) | 4.33 | 
 | 195 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
@@ -199,7 +199,7 @@
 | 197 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 198 | [Encased](games/e/encased.md) | 4.40 | 
 | 199 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 200 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 200 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 201 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 202 | [Everything](games/e/everything.md) | 4.70 | 
 | 203 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
@@ -661,7 +661,7 @@
 | 659 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 660 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 661 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 662 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 662 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 663 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 664 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 665 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
@@ -708,7 +708,7 @@
 | 706 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 707 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 708 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 709 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 709 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
 | 710 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 711 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 712 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
