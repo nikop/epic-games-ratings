@@ -107,7 +107,7 @@
 | 105 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 106 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 107 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 108 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
+| 108 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
 | 109 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 110 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 111 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
@@ -269,7 +269,7 @@
 | 267 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 268 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 269 | [GRIME](games/g/grime.md) | 4.62 | 
-| 270 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 270 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 271 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 272 | [Hades](games/h/hades.md) | 4.92 | 
 | 273 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
@@ -487,7 +487,7 @@
 | 485 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 486 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 487 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 488 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 488 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 489 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 490 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 491 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -541,7 +541,7 @@
 | 539 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 540 | [SMITE](games/s/smite.md) | 4.46 | 
 | 541 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 542 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 542 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 543 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 544 | [SOMA](games/s/soma.md) | 4.67 | 
 | 545 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 

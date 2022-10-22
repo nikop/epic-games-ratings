@@ -53,12 +53,12 @@
 | 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 53 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 54 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 55 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
-| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 57 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 58 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 59 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 58 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 59 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 60 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -237,20 +237,20 @@
 | 235 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 236 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 237 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 238 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 239 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 240 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 242 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 243 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 244 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 245 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 246 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 247 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 248 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 249 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 250 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 238 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 239 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 240 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 241 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 242 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 243 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 244 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 245 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 246 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 248 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
+| 249 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 251 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 252 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 253 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 254 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
@@ -565,11 +565,11 @@
 | 563 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 564 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 565 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 566 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 567 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
-| 568 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 569 | [Encased](games/e/encased.md) | 4.40 | 
-| 570 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 566 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
+| 567 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 568 | [Encased](games/e/encased.md) | 4.40 | 
+| 569 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 570 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 571 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 572 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 573 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -720,11 +720,11 @@
 | 718 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 719 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 720 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 721 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 722 | [Lake](games/l/lake.md) | 4.08 | 
-| 723 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 724 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 725 | [Chernobylite](games/c/chernobylite.md) | 4.06 | 
+| 721 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
+| 722 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 723 | [Lake](games/l/lake.md) | 4.08 | 
+| 724 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 725 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 726 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 727 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 728 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
