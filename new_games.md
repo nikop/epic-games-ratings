@@ -13,7 +13,7 @@
 | 11 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 12 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
 | 13 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
-| 14 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.75 | 
+| 14 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
 | 15 | [Outlast](games/o/outlast.md) | 4.63 | 
 | 16 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 17 | [Runbow](games/r/runbow.md) | 4.44 | 
@@ -38,7 +38,7 @@
 | 36 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 37 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 38 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
-| 39 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 39 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 41 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 42 | [DOOM 64](games/d/doom_64.md) | 4.66 | 

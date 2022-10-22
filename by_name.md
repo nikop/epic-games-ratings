@@ -501,7 +501,7 @@
 | 499 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 500 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 501 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 502 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 502 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 503 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 504 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 505 | [Runbow](games/r/runbow.md) | 4.44 | 
@@ -517,7 +517,7 @@
 | 515 | [Scorn](games/s/scorn.md) | 4.51 | 
 | 516 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 517 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 518 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 518 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
 | 519 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 520 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 521 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -576,7 +576,7 @@
 | 574 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
 | 575 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
 | 576 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 577 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.67 | 
+| 577 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 578 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 579 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 580 | [Submerged](games/s/submerged.md) | 4.04 | 
@@ -617,7 +617,7 @@
 | 615 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 616 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 617 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 618 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.75 | 
+| 618 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
 | 619 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 620 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 621 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -643,7 +643,7 @@
 | 641 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 642 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 643 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 644 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 644 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 645 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 646 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 647 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -653,7 +653,7 @@
 | 651 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 652 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 653 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 654 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
+| 654 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 655 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
 | 656 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 657 | [The Witness](games/t/the_witness.md) | 4.70 | 
