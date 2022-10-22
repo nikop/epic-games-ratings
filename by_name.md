@@ -209,7 +209,7 @@
 | 207 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 208 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 209 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
+| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
 | 211 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 212 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 213 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -309,7 +309,7 @@
 | 307 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 308 | [INSIDE](games/i/inside.md) | 4.68 | 
 | 309 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 310 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 310 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 311 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 312 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 313 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
@@ -378,7 +378,7 @@
 | 376 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 377 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 378 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 379 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 379 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 380 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 381 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
 | 382 | [Minit](games/m/minit.md) | 4.53 | 
