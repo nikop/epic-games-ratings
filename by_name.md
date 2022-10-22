@@ -253,7 +253,7 @@
 | 251 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.45 | 
 | 253 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
+| 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 256 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
@@ -385,7 +385,7 @@
 | 383 | [Minit](games/m/minit.md) | 4.53 | 
 | 384 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 385 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 386 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 386 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 387 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 388 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 389 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -483,7 +483,7 @@
 | 481 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 482 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 483 | [Revita](games/r/revita.md) | 4.74 | 
-| 484 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 484 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 485 | [RiME](games/r/rime.md) | 4.63 | 
 | 486 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 487 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -569,7 +569,7 @@
 | 567 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 568 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 569 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 570 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 570 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 571 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 572 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 573 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
@@ -699,13 +699,13 @@
 | 697 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 698 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 699 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 700 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 700 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 701 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 702 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 703 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 704 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 705 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 706 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 706 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.85 | 
 | 707 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 708 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 709 | [UnMetal](games/u/unmetal.md) | 4.53 | 
