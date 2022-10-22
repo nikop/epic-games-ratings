@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
@@ -201,7 +201,7 @@
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 202 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.42 | 
@@ -589,7 +589,7 @@
 | 587 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 588 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
 | 589 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 590 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 590 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 591 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 592 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 593 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -601,7 +601,7 @@
 | 599 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 600 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 601 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 602 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
+| 602 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
 | 603 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 604 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 605 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -683,7 +683,7 @@
 | 681 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
 | 682 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 683 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 684 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 684 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 685 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 686 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 687 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
@@ -731,7 +731,7 @@
 | 729 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 730 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 731 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 732 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 732 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 733 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 734 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 735 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
