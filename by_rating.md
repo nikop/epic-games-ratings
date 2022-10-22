@@ -268,22 +268,22 @@
 | 266 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 267 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 268 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 269 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 270 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 271 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 272 | [Old World](games/o/old_world.md) | 4.63 | 
-| 273 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 274 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 275 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 276 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 277 | [RiME](games/r/rime.md) | 4.63 | 
-| 278 | [Coromon](games/c/coromon.md) | 4.63 | 
-| 279 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 280 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 281 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
-| 282 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 283 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 284 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 269 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 270 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 271 | [Old World](games/o/old_world.md) | 4.63 | 
+| 272 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 274 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 275 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 276 | [RiME](games/r/rime.md) | 4.63 | 
+| 277 | [Coromon](games/c/coromon.md) | 4.63 | 
+| 278 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 279 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 280 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
+| 281 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 282 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 283 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 284 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 285 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 286 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 287 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
@@ -428,20 +428,20 @@
 | 426 | [Sable](games/s/sable.md) | 4.53 | 
 | 427 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 428 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 429 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
-| 430 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 431 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 432 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 433 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 434 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 435 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 436 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 437 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 439 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 440 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 441 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 442 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 429 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 430 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 431 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 432 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 433 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 434 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 435 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 436 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 437 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 438 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 439 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 440 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 441 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 442 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
 | 443 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 444 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 445 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -499,13 +499,13 @@
 | 497 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 498 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 499 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 500 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 501 | [SMITE](games/s/smite.md) | 4.46 | 
-| 502 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 503 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 504 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 505 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 506 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
+| 500 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 501 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 502 | [SMITE](games/s/smite.md) | 4.46 | 
+| 503 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 504 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 505 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 506 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 507 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 508 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 509 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
@@ -678,17 +678,17 @@
 | 676 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 677 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 678 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 679 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 680 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 681 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 682 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 683 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 684 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 685 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 686 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 687 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 688 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 689 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 679 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 680 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 681 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 682 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 683 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 684 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 685 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 686 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 687 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 688 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 689 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 690 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
 | 691 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 692 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

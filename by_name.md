@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
+| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -390,7 +390,7 @@
 | 388 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 389 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 390 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 391 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 391 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 392 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 393 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 394 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -574,7 +574,7 @@
 | 572 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 573 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 574 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 575 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
+| 575 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 576 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
 | 577 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 578 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
