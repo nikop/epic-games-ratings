@@ -1,5 +1,5 @@
 # Offworld Trading Company
-Rating: 4.30 (432)  (as of 23.09.2022)  
+Rating: 4.29 (432)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -66,3 +66,4 @@ Rating: 4.30 (432)  (as of 23.09.2022)
 | 2022-10-08 | 4.30 | - |
 | 2022-10-14 | 4.29 | - |
 | 2022-10-15 | 4.30 | - |
+| 2022-10-22 | 4.29 | - |

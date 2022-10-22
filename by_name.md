@@ -56,7 +56,7 @@
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -366,12 +366,12 @@
 | 364 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 365 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 366 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 367 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 367 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 368 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 369 | [Mago](games/m/mago.md) | 4.90 | 
 | 370 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 371 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 372 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 372 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
 | 373 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 374 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 375 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -421,7 +421,7 @@
 | 419 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 420 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 421 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
-| 422 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 422 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 423 | [Old World](games/o/old_world.md) | 4.63 | 
 | 424 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 425 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -523,7 +523,7 @@
 | 521 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 522 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 523 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 524 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 524 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.57 | 
 | 525 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 526 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 527 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
@@ -566,7 +566,7 @@
 | 564 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 565 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 566 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 567 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 567 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 568 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 569 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 570 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 

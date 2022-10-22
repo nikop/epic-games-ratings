@@ -355,21 +355,21 @@
 | 353 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 354 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
 | 355 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 356 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 357 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 358 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 359 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 360 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
-| 361 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 362 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 363 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 367 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 369 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 356 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 357 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 358 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
+| 359 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
+| 360 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 361 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 365 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 366 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 368 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 370 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.57 | 
 | 371 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 372 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 373 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
@@ -453,16 +453,16 @@
 | 451 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 452 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 453 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 454 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 456 | [Scorn](games/s/scorn.md) | 4.51 | 
-| 457 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 458 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 459 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 460 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 461 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 462 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 463 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 455 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 457 | [Scorn](games/s/scorn.md) | 4.51 | 
+| 458 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 459 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 460 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 461 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 462 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 463 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 464 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 465 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
 | 466 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
@@ -519,21 +519,21 @@
 | 517 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 518 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 519 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 520 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 521 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 522 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 523 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 524 | [Figment](games/f/figment.md) | 4.44 | 
-| 525 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 526 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 527 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 528 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 529 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 530 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 531 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 532 | [Observation](games/o/observation.md) | 4.44 | 
-| 533 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 534 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 520 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 521 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 522 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 523 | [Figment](games/f/figment.md) | 4.44 | 
+| 524 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 525 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 527 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 528 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 529 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 530 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 531 | [Observation](games/o/observation.md) | 4.44 | 
+| 532 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 533 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 534 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 535 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 536 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
 | 537 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
@@ -604,11 +604,11 @@
 | 602 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 603 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 604 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 605 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 606 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 607 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 608 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 609 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 606 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 607 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 608 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 609 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
 | 610 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 611 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 612 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -641,9 +641,9 @@
 | 639 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 640 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 641 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 642 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 643 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
-| 644 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
+| 643 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 644 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 645 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 646 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 647 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
@@ -698,12 +698,12 @@
 | 696 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 697 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 698 | [Gone Home](games/g/gone_home.md) | 4.18 | 
-| 699 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 700 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 701 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 702 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 703 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 704 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 699 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 700 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 701 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 702 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 703 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 704 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 705 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 706 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 707 | [Pine](games/p/pine.md) | 4.14 | 
