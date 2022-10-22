@@ -455,24 +455,24 @@
 | 453 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 455 | [Scorn](games/s/scorn.md) | 4.51 | 
-| 456 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
-| 457 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 458 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 459 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 460 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 461 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 462 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 463 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
-| 464 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 465 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
-| 466 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
-| 467 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 469 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 470 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 471 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 472 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 473 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 456 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 457 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 458 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 459 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 460 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 461 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 462 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.50 | 
+| 463 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 464 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
+| 465 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 466 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 468 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 469 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 470 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 471 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 472 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 473 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 474 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 475 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 476 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -592,27 +592,27 @@
 | 590 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 591 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 592 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 593 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 594 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 595 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 596 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 597 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
-| 598 | [Backbone](games/b/backbone.md) | 4.37 | 
-| 599 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 600 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 601 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 602 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 603 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 604 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 605 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 606 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 608 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
-| 609 | [House Party](games/h/house_party.md) | 4.35 | 
-| 610 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 611 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 612 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 613 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 593 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
+| 594 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 595 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 596 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 597 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 598 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
+| 599 | [Backbone](games/b/backbone.md) | 4.37 | 
+| 600 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 601 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 602 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 603 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 604 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 605 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 606 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
+| 607 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 609 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 610 | [House Party](games/h/house_party.md) | 4.35 | 
+| 611 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 612 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 613 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 614 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 615 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 616 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 

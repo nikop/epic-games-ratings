@@ -202,7 +202,7 @@
 | 200 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 201 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 202 | [Everything](games/e/everything.md) | 4.70 | 
-| 203 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
+| 203 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 204 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 205 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 206 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
@@ -340,7 +340,7 @@
 | 338 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 339 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 340 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 341 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 341 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 342 | [Lake](games/l/lake.md) | 4.08 | 
 | 343 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 344 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
