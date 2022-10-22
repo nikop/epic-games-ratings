@@ -59,13 +59,13 @@
 | 57 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 58 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 59 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 62 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 63 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 64 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 65 | [Quake](games/q/quake.md) | 4.81 | 
-| 66 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 60 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 63 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 65 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 66 | [Quake](games/q/quake.md) | 4.81 | 
 | 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 68 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -435,21 +435,21 @@
 | 433 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 434 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 435 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 436 | [MythForce](games/m/mythforce.md) | 4.52 | 
-| 437 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 439 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 440 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 441 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 442 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 443 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
-| 444 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 445 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 446 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 447 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 448 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 449 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 450 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 436 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 437 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 438 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 439 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 440 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 441 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 442 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 443 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 444 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 445 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 446 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 447 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 448 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 450 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 451 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 452 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 453 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
@@ -503,17 +503,17 @@
 | 501 | [SMITE](games/s/smite.md) | 4.46 | 
 | 502 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 503 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 504 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
-| 505 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 506 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
-| 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 508 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
-| 509 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 510 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 511 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 512 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 513 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 514 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 504 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 505 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
+| 506 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 507 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
+| 508 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 509 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 510 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 511 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 512 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 513 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 514 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 515 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
 | 516 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.45 | 
 | 517 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -566,11 +566,11 @@
 | 564 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 565 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 566 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 567 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 568 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 569 | [Encased](games/e/encased.md) | 4.40 | 
-| 570 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 571 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 567 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 568 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 569 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 570 | [Encased](games/e/encased.md) | 4.40 | 
+| 571 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 572 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 573 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 574 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 

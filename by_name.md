@@ -397,7 +397,7 @@
 | 395 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 396 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 397 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 398 | [MythForce](games/m/mythforce.md) | 4.52 | 
+| 398 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 399 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 400 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 401 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
@@ -477,7 +477,7 @@
 | 475 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 476 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 477 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 478 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 478 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 479 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 480 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 481 | [Relicta](games/r/relicta.md) | 4.10 | 
@@ -489,7 +489,7 @@
 | 487 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 488 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 489 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 490 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 490 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 491 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 492 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 493 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -655,7 +655,7 @@
 | 653 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
 | 654 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 655 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 656 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.81 | 
+| 656 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
 | 657 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 658 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 659 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
