@@ -28,7 +28,7 @@
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -131,7 +131,7 @@
 | 129 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 130 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 131 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 132 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.38 | 
+| 132 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 133 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 134 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 135 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -293,7 +293,7 @@
 | 291 | [Horace](games/h/horace.md) | 4.55 | 
 | 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 293 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 294 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 294 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
 | 295 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 296 | [House Party](games/h/house_party.md) | 4.35 | 
 | 297 | [Hue](games/h/hue.md) | 4.55 | 
@@ -736,7 +736,7 @@
 | 734 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 735 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 736 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 737 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 737 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 738 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
 | 739 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 740 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
