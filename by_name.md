@@ -318,7 +318,7 @@
 | 316 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 317 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 319 | [Journey](games/j/journey.md) | 4.74 | 
+| 319 | [Journey](games/j/journey.md) | 4.75 | 
 | 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -387,7 +387,7 @@
 | 385 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 386 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 387 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 388 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 388 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 389 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 390 | [Moving Out](games/m/moving_out.md) | 4.60 | 
 | 391 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -731,7 +731,7 @@
 | 729 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 730 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 731 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 732 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 732 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 733 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 734 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 735 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
