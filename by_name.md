@@ -136,7 +136,7 @@
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
+| 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.67 | 
@@ -562,7 +562,7 @@
 | 560 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 561 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 562 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 563 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
+| 563 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 564 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 565 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 566 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
@@ -601,7 +601,7 @@
 | 599 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 600 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 601 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 602 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
+| 602 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 603 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 604 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 605 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -623,7 +623,7 @@
 | 621 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 622 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 623 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 624 | [The Fall](games/t/the_fall.md) | 4.25 | 
+| 624 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 625 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 626 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 627 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
@@ -705,7 +705,7 @@
 | 703 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 704 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 705 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 706 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.85 | 
+| 706 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 707 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 708 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 709 | [UnMetal](games/u/unmetal.md) | 4.53 | 

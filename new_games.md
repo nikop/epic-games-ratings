@@ -3,7 +3,7 @@
 | 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.37 | 
 | 2 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.42 | 
 | 3 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
-| 4 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.85 | 
+| 4 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 5 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.44 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [Scorn](games/s/scorn.md) | 4.48 | 
@@ -22,7 +22,7 @@
 | 20 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 21 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 22 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
-| 23 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
+| 23 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
 | 24 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
 | 25 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 26 | [Isonzo](games/i/isonzo.md) | 4.56 | 
