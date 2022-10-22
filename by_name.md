@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -218,7 +218,7 @@
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
 | 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 222 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
@@ -641,7 +641,7 @@
 | 639 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 640 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 641 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 642 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 642 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 643 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 644 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 645 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 

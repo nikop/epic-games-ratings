@@ -151,21 +151,21 @@
 | 149 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
 | 150 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 151 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 152 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 153 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 154 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 155 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
-| 156 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 157 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 159 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 160 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 163 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 164 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 165 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 152 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 153 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 154 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 155 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 156 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
+| 157 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 158 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 160 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 161 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 162 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 163 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 164 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 165 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 166 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 167 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 168 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
@@ -577,14 +577,14 @@
 | 575 | [Core](games/c/core.md) | 4.39 | 
 | 576 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
 | 577 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 578 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 579 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
-| 580 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 581 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 582 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 583 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 584 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 585 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 578 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
+| 579 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 580 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 581 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 582 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 583 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 584 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 585 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 586 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 587 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 588 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
@@ -659,12 +659,12 @@
 | 657 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 658 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 659 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
-| 660 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
-| 661 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
-| 662 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
-| 663 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 664 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 665 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 660 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
+| 661 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 662 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 663 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 664 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 665 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 666 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 667 | [Ashen](games/a/ashen.md) | 4.25 | 
 | 668 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
