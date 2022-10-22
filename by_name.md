@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.18 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.37 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.34 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -584,7 +584,7 @@
 | 582 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 583 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 584 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 585 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 585 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 586 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
 | 587 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 588 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
@@ -643,7 +643,7 @@
 | 641 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 642 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 643 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 644 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 644 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 645 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 646 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 647 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
