@@ -333,26 +333,26 @@
 | 331 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 332 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 333 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 334 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 335 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 336 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 337 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 338 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 339 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
-| 340 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 341 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
-| 342 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 343 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 344 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 345 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 346 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 347 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 348 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 349 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 350 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 351 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 352 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 353 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 334 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 335 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 336 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 337 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 338 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
+| 339 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 340 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 341 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 342 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 343 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 344 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 345 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 346 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 347 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 348 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 349 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 350 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 351 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 352 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 353 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 354 | [Hob](games/h/hob.md) | 4.58 | 
 | 355 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 356 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
@@ -373,22 +373,22 @@
 | 371 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 373 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 374 | [Card Shark](games/c/card_shark.md) | 4.57 | 
-| 375 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 376 | [Darkwood](games/d/darkwood.md) | 4.57 | 
-| 377 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 378 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 379 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 380 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 381 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 382 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 383 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 384 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 385 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
-| 386 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 387 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 388 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 389 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 374 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
+| 375 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 376 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 377 | [Darkwood](games/d/darkwood.md) | 4.57 | 
+| 378 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 379 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 380 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 382 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 383 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 384 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 385 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 386 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
+| 387 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 388 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 389 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 390 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 391 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 392 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -655,12 +655,12 @@
 | 653 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
 | 654 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 655 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 656 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 657 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 658 | [Ashen](games/a/ashen.md) | 4.27 | 
-| 659 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
-| 660 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 661 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 656 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 657 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 658 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
+| 659 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 660 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
+| 661 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
 | 662 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 663 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 664 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 

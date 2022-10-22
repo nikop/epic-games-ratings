@@ -21,7 +21,7 @@
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -703,7 +703,7 @@
 | 701 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 702 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 703 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 704 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 704 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 705 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 706 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 707 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
@@ -757,5 +757,5 @@
 | 755 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 756 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 757 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 758 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.56 | 
+| 758 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
 | 759 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
