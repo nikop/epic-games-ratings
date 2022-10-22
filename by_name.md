@@ -185,7 +185,7 @@
 | 183 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 184 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 185 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 186 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 186 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 187 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 188 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 189 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
@@ -203,7 +203,7 @@
 | 201 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 202 | [Everything](games/e/everything.md) | 4.70 | 
 | 203 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 204 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
+| 204 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.44 | 
 | 205 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 206 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 207 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -430,7 +430,7 @@
 | 428 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 429 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 430 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 431 | [Outlast](games/o/outlast.md) | 4.63 | 
+| 431 | [Outlast](games/o/outlast.md) | 4.66 | 
 | 432 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 433 | [Outward](games/o/outward.md) | 4.55 | 
 | 434 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -488,7 +488,7 @@
 | 486 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 487 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 488 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 489 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 489 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 490 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 491 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 492 | [Riverbond](games/r/riverbond.md) | 4.49 | 
