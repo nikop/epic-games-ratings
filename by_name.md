@@ -283,7 +283,7 @@
 | 281 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 282 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 283 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
-| 284 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 284 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 285 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 286 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 287 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -384,7 +384,7 @@
 | 382 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 383 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 384 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 385 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 385 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 386 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 387 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 388 | [Moving Out](games/m/moving_out.md) | 4.59 | 

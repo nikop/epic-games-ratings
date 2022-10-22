@@ -554,17 +554,17 @@
 | 552 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 553 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 554 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 555 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 557 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 558 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 559 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 560 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 561 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 562 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 563 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 564 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 565 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 556 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 557 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 558 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 559 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 560 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 561 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 562 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 563 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 564 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 565 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 566 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
 | 567 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 568 | [Encased](games/e/encased.md) | 4.40 | 
@@ -667,12 +667,12 @@
 | 665 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 666 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 667 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 668 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 669 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 670 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 671 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 672 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 673 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.22 | 
+| 668 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 669 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 670 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 671 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 672 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 673 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 674 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
 | 675 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 676 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
