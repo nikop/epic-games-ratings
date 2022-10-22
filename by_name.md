@@ -133,7 +133,7 @@
 | 131 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 132 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
 | 133 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 134 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 134 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 135 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 136 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.64 | 
 | 137 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -488,7 +488,7 @@
 | 486 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 487 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 488 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 489 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 489 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 490 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 491 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 492 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -617,7 +617,7 @@
 | 615 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 616 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 617 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 618 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
+| 618 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.77 | 
 | 619 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 620 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 621 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 

@@ -98,19 +98,19 @@
 | 96 | [Northgard](games/n/northgard.md) | 4.78 | 
 | 97 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 106 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 108 | [Haven](games/h/haven.md) | 4.76 | 
-| 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 110 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 111 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
+| 99 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.77 | 
+| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 102 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 103 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 107 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 109 | [Haven](games/h/haven.md) | 4.76 | 
+| 110 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 111 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
 | 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -485,18 +485,18 @@
 | 483 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 484 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 485 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
-| 486 | [CryoFall](games/c/cryofall.md) | 4.48 | 
-| 487 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 488 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 489 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 490 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
-| 491 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 492 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 493 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 494 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
-| 495 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 496 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 497 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 486 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
+| 487 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 488 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 489 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
+| 490 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 491 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 492 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 493 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
+| 494 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 495 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 496 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 497 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 498 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 499 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 500 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -564,12 +564,12 @@
 | 562 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 563 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 564 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 565 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 566 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 567 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
-| 568 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 569 | [Encased](games/e/encased.md) | 4.40 | 
-| 570 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 565 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 566 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
+| 567 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 568 | [Encased](games/e/encased.md) | 4.40 | 
+| 569 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 570 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 571 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 572 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 573 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
