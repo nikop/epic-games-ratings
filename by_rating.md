@@ -5,8 +5,8 @@
 | 3 | [Hades](games/h/hades.md) | 4.92 | 
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 7 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
+| 6 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 8 | [Mago](games/m/mago.md) | 4.90 | 
 | 9 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 10 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
@@ -646,12 +646,12 @@
 | 644 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 645 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 646 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
-| 647 | [Steelrising](games/s/steelrising.md) | 4.29 | 
-| 648 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
-| 649 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 650 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 651 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 652 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 647 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 648 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 649 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 650 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 651 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 652 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 653 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 654 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
 | 655 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 

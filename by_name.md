@@ -85,7 +85,7 @@
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 86 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
+| 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -571,7 +571,7 @@
 | 569 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 570 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
 | 571 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 572 | [Steelrising](games/s/steelrising.md) | 4.29 | 
+| 572 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 573 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 574 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 575 | [Stories Untold](games/s/stories_untold.md) | 4.46 | 
