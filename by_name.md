@@ -40,7 +40,7 @@
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 41 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 41 | [Ashen](games/a/ashen.md) | 4.25 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -100,7 +100,7 @@
 | 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 101 | [Card Shark](games/c/card_shark.md) | 4.57 | 
+| 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
 | 102 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
@@ -125,7 +125,7 @@
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
-| 126 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
+| 126 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -195,7 +195,7 @@
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 195 | [ELEX](games/e/elex.md) | 4.33 | 
-| 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 196 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
@@ -282,7 +282,7 @@
 | 280 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 281 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 282 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 283 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 283 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 284 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 285 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
 | 286 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -515,7 +515,7 @@
 | 513 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 514 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 515 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 516 | [Scorn](games/s/scorn.md) | 4.51 | 
+| 516 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 517 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 518 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 519 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
@@ -666,7 +666,7 @@
 | 664 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 665 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 666 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 667 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 667 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 668 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 669 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 670 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
