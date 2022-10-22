@@ -209,7 +209,7 @@
 | 207 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 208 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 209 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
+| 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
 | 211 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 212 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 213 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -699,7 +699,7 @@
 | 697 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 698 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 699 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 700 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 700 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 701 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 702 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 703 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
