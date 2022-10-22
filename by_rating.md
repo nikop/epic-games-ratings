@@ -304,23 +304,23 @@
 | 302 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 303 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 304 | [20XX](games/2/20xx.md) | 4.61 | 
-| 305 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 306 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 307 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 308 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
-| 309 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 310 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
-| 311 | [Control](games/c/control.md) | 4.60 | 
-| 312 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 313 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 314 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 315 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 316 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 317 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 318 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 319 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
-| 320 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 321 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 305 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 306 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 307 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
+| 308 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 309 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 310 | [Control](games/c/control.md) | 4.60 | 
+| 311 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 312 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 313 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 314 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 315 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 316 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 317 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 318 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 319 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 320 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 321 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
 | 322 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 323 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 324 | [ABZU](games/a/abzu.md) | 4.60 | 
@@ -715,8 +715,8 @@
 | 713 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 714 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 715 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 716 | [Relicta](games/r/relicta.md) | 4.11 | 
-| 717 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 716 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 717 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 718 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 719 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 720 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 

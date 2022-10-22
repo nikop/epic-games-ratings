@@ -479,7 +479,7 @@
 | 477 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 478 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 479 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 480 | [Relicta](games/r/relicta.md) | 4.11 | 
+| 480 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 481 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 482 | [Revita](games/r/revita.md) | 4.74 | 
 | 483 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -744,7 +744,7 @@
 | 742 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 743 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 744 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 745 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 745 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
 | 746 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 747 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 748 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
