@@ -1,5 +1,5 @@
 # The Walking Dead: A New Frontier
-Rating: 4.71 (27)  (as of 23.09.2022)  
+Rating: 4.72 (27)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Rating: 4.71 (27)  (as of 23.09.2022)
 | 2022-09-17 | 4.69 | 26 |
 | 2022-09-19 | 4.70 | 27 |
 | 2022-09-24 | 4.71 | - |
+| 2022-10-22 | 4.72 | - |

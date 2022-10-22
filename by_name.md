@@ -31,7 +31,7 @@
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -206,11 +206,11 @@
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.42 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
+| 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
+| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -277,7 +277,7 @@
 | 275 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 276 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 277 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 
+| 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 279 | [Haven](games/h/haven.md) | 4.76 | 
 | 280 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
 | 281 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
@@ -652,7 +652,7 @@
 | 650 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
 | 651 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 652 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 653 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.71 | 
+| 653 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 654 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 655 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 656 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
@@ -678,7 +678,7 @@
 | 676 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 677 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 678 | [Torchlight](games/t/torchlight.md) | 4.41 | 
-| 679 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 679 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 680 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 681 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
 | 682 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
@@ -686,7 +686,7 @@
 | 684 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 685 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 686 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 687 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.22 | 
+| 687 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 688 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 689 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 690 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
