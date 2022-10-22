@@ -1,10 +1,10 @@
 {
   "ID": "tulip",
   "Name": "Thimbleweed Park",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 115,
   "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
-  "LastChanged": "2022-10-16T06:03:43.843967+00:00",
+  "LastChanged": "2022-10-22T20:01:54.1901276+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:09.2884263+00:00",
@@ -229,6 +229,11 @@
     {
       "Time": "2022-10-16T06:03:43.8439673+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-22T20:01:54.1901279+00:00",
+      "Rating": 4.62,
       "NumberOfRatings": null
     }
   ],

@@ -106,7 +106,7 @@
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -329,7 +329,7 @@
 | 327 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 328 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 329 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 330 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 330 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 331 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 332 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
 | 333 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -420,7 +420,7 @@
 | 418 | [Observation](games/o/observation.md) | 4.44 | 
 | 419 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 420 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
-| 421 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.43 | 
+| 421 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 422 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 423 | [Old World](games/o/old_world.md) | 4.63 | 
 | 424 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -431,7 +431,7 @@
 | 429 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 430 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 431 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 432 | [Outlast](games/o/outlast.md) | 4.68 | 
+| 432 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 433 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 434 | [Outward](games/o/outward.md) | 4.56 | 
 | 435 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -505,7 +505,7 @@
 | 503 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 504 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 505 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 506 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 506 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 507 | [Sable](games/s/sable.md) | 4.53 | 
 | 508 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 509 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -565,7 +565,7 @@
 | 563 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 564 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 565 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 566 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 566 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 567 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 568 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 569 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
@@ -640,7 +640,7 @@
 | 638 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 639 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 640 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 641 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 641 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 642 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 643 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 644 | [The Surge](games/t/the_surge.md) | 4.52 | 
@@ -661,12 +661,12 @@
 | 659 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 660 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 661 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 662 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 662 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 663 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 664 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 665 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 666 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 667 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 667 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 668 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 669 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 670 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
@@ -725,7 +725,7 @@
 | 723 | [Warface](games/w/warface.md) | 3.95 | 
 | 724 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 725 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 726 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 726 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 727 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 728 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 729 | [Warpips](games/w/warpips.md) | 4.55 | 
