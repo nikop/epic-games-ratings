@@ -96,8 +96,8 @@
 | 94 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 98 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.77 | 
+| 97 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
+| 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -211,25 +211,25 @@
 | 209 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 210 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 211 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 212 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
-| 213 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 214 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 216 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
-| 217 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 218 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 219 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 220 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 221 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 222 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 223 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 224 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 225 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 226 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 227 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 228 | [SOMA](games/s/soma.md) | 4.67 | 
-| 229 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 230 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 212 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 213 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
+| 214 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 215 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 217 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
+| 218 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 219 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 220 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 221 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 222 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 223 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 224 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 226 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 227 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 228 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 229 | [SOMA](games/s/soma.md) | 4.67 | 
+| 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 231 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
 | 232 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 233 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
@@ -266,17 +266,17 @@
 | 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 265 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 266 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
-| 267 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 268 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 269 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 270 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 271 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 272 | [Old World](games/o/old_world.md) | 4.63 | 
-| 273 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 274 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 275 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 276 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 277 | [RiME](games/r/rime.md) | 4.63 | 
+| 267 | [RiME](games/r/rime.md) | 4.64 | 
+| 268 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 269 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 270 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 271 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 272 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 273 | [Old World](games/o/old_world.md) | 4.63 | 
+| 274 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 275 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 276 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 277 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 278 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 279 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 280 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 

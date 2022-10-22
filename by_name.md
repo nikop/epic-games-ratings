@@ -484,7 +484,7 @@
 | 482 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 483 | [Revita](games/r/revita.md) | 4.74 | 
 | 484 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 485 | [RiME](games/r/rime.md) | 4.63 | 
+| 485 | [RiME](games/r/rime.md) | 4.64 | 
 | 486 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 487 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 488 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -618,7 +618,7 @@
 | 616 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 617 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 618 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 619 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.77 | 
+| 619 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
 | 620 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 621 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 622 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -669,7 +669,7 @@
 | 667 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 668 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 669 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 670 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 670 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 671 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
 | 672 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 673 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
