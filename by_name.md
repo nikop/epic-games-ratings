@@ -216,7 +216,7 @@
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
@@ -440,7 +440,7 @@
 | 438 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 439 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 440 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 441 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 441 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 442 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 443 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 444 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
@@ -462,7 +462,7 @@
 | 460 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 461 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 462 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 463 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.43 | 
+| 463 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 464 | [Prey](games/p/prey.md) | 4.61 | 
 | 465 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 466 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
@@ -483,7 +483,7 @@
 | 481 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 482 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 483 | [Revita](games/r/revita.md) | 4.74 | 
-| 484 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 484 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 485 | [RiME](games/r/rime.md) | 4.63 | 
 | 486 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 487 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -663,14 +663,14 @@
 | 661 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 662 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 663 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 664 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 664 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 665 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 666 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 667 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 668 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 669 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 670 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 671 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
+| 671 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
 | 672 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 673 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 674 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 

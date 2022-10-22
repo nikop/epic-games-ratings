@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [Scorn](games/s/scorn.md) | 4.51 | 
 | 8 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 9 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
+| 9 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
 | 10 | [Darkwood](games/d/darkwood.md) | 4.57 | 
 | 11 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 12 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
