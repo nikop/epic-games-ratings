@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
+| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.26 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
@@ -361,7 +361,7 @@
 | 359 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 360 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 361 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 362 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 362 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 363 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 364 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 365 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -676,7 +676,7 @@
 | 674 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 675 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 676 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 677 | [Torchlight](games/t/torchlight.md) | 4.42 | 
+| 677 | [Torchlight](games/t/torchlight.md) | 4.41 | 
 | 678 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 679 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 680 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 

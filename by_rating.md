@@ -548,18 +548,18 @@
 | 546 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 547 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 548 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 549 | [Torchlight](games/t/torchlight.md) | 4.42 | 
-| 550 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 551 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 552 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 553 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 554 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 556 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 557 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 558 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 559 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 560 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 549 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 550 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 551 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 552 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 553 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 554 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 555 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 557 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 558 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 559 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 560 | [Torchlight](games/t/torchlight.md) | 4.41 | 
 | 561 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 562 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 563 | [Train Valley](games/t/train_valley.md) | 4.41 | 
@@ -713,11 +713,11 @@
 | 711 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 712 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 713 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
-| 714 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 715 | [Relicta](games/r/relicta.md) | 4.11 | 
-| 716 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 717 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 718 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
+| 714 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
+| 715 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 716 | [Relicta](games/r/relicta.md) | 4.11 | 
+| 717 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 718 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 719 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 720 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 721 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
@@ -729,8 +729,8 @@
 | 727 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 728 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 729 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 730 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 731 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
+| 730 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 731 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 732 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 733 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 734 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
