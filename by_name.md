@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
+| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -116,7 +116,7 @@
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
+| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -400,7 +400,7 @@
 | 398 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 399 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 400 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 401 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.13 | 
+| 401 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 402 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 403 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
 | 404 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -516,7 +516,7 @@
 | 514 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 515 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 516 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 517 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
+| 517 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 518 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 519 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 520 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
@@ -705,7 +705,7 @@
 | 703 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 704 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 705 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 706 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 706 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
 | 707 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 708 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 709 | [UnMetal](games/u/unmetal.md) | 4.53 | 
