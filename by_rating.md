@@ -515,23 +515,23 @@
 | 513 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 514 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 515 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
-| 516 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.45 | 
-| 517 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 518 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
-| 519 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 520 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 521 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 522 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 523 | [Figment](games/f/figment.md) | 4.44 | 
-| 524 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 525 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 527 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 528 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 529 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 530 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 531 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 532 | [Observation](games/o/observation.md) | 4.44 | 
+| 516 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 517 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 518 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 519 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 520 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 521 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 522 | [Figment](games/f/figment.md) | 4.44 | 
+| 523 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 524 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 526 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 527 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 528 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 529 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 530 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 531 | [Observation](games/o/observation.md) | 4.44 | 
+| 532 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.44 | 
 | 533 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 534 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 535 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
