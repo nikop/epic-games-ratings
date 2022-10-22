@@ -103,16 +103,16 @@
 | 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 104 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 105 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 106 | [Haven](games/h/haven.md) | 4.76 | 
-| 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 108 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 105 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 106 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 107 | [Haven](games/h/haven.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
 | 114 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 115 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 116 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
@@ -604,17 +604,17 @@
 | 602 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 603 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 604 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
-| 605 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 606 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
-| 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
-| 608 | [House Party](games/h/house_party.md) | 4.35 | 
-| 609 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 610 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 612 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
-| 613 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 614 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 615 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 606 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 607 | [House Party](games/h/house_party.md) | 4.35 | 
+| 608 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 609 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 611 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.35 | 
+| 612 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 613 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 614 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 615 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 616 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 617 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 618 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
@@ -622,13 +622,13 @@
 | 620 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
 | 621 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 622 | [ELEX](games/e/elex.md) | 4.33 | 
-| 623 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 624 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 625 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 626 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 627 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 628 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 629 | [ATOM RPG](games/a/atom_rpg.md) | 4.32 | 
+| 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
+| 624 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 625 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 626 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 627 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 628 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 629 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 630 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 632 | [Lamentum](games/l/lamentum.md) | 4.32 | 
@@ -735,9 +735,9 @@
 | 733 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
 | 734 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 735 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
-| 736 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 737 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
-| 738 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 736 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 737 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 738 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 739 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 740 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 741 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
@@ -751,8 +751,8 @@
 | 749 | [Patron](games/p/patron.md) | 3.91 | 
 | 750 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 751 | [Ironcast](games/i/ironcast.md) | 3.87 | 
-| 752 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
-| 753 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
+| 752 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
+| 753 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 754 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 755 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 
 | 756 | [Saints Row](games/s/saints_row.md) | 3.77 | 

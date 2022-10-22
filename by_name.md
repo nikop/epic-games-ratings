@@ -51,7 +51,7 @@
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 
-| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.32 | 
+| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -382,7 +382,7 @@
 | 380 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.47 | 
 | 381 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
 | 382 | [Minit](games/m/minit.md) | 4.53 | 
-| 383 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
+| 383 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 384 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 385 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 386 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
@@ -455,7 +455,7 @@
 | 453 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 454 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 455 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 456 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 456 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 457 | [Pine](games/p/pine.md) | 4.14 | 
 | 458 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
 | 459 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
@@ -539,7 +539,7 @@
 | 537 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 538 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 539 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 540 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 540 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 541 | [SMITE](games/s/smite.md) | 4.46 | 
 | 542 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 543 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
@@ -730,7 +730,7 @@
 | 728 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 729 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 730 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
-| 731 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 731 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 732 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 733 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 734 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
