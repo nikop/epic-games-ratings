@@ -581,24 +581,24 @@
 | 579 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 580 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 581 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 582 | [Gotham Knights](games/g/gotham_knights.md) | 4.39 | 
-| 583 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 584 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 585 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 586 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.38 | 
-| 587 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 588 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 589 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
-| 590 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 591 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 592 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 593 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
-| 594 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 595 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 596 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 597 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 598 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
-| 599 | [Backbone](games/b/backbone.md) | 4.37 | 
+| 582 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 583 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 584 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 585 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.38 | 
+| 586 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 587 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 588 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
+| 589 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 590 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 591 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 592 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
+| 593 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 594 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 595 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 596 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
+| 597 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
+| 598 | [Backbone](games/b/backbone.md) | 4.37 | 
+| 599 | [Gotham Knights](games/g/gotham_knights.md) | 4.37 | 
 | 600 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 601 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 602 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -691,10 +691,10 @@
 | 689 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 690 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
 | 691 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 692 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 693 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
-| 695 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 692 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 693 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 694 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 695 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 696 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 697 | [Gone Home](games/g/gone_home.md) | 4.18 | 
 | 698 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 

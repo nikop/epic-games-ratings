@@ -264,7 +264,7 @@
 | 262 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 263 | [Gone Home](games/g/gone_home.md) | 4.18 | 
 | 264 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 265 | [Gotham Knights](games/g/gotham_knights.md) | 4.39 | 
+| 265 | [Gotham Knights](games/g/gotham_knights.md) | 4.37 | 
 | 266 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 267 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 268 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -364,7 +364,7 @@
 | 362 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 363 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 364 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 365 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 365 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 366 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 367 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 368 | [Mago](games/m/mago.md) | 4.90 | 
