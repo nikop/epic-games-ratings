@@ -61,7 +61,7 @@
 | 59 | [Aztez](games/a/aztez.md) | 4.49 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.37 | 
-| 62 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
@@ -445,7 +445,7 @@
 | 443 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 444 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 445 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 446 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 446 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 447 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 448 | [Patron](games/p/patron.md) | 3.91 | 
 | 449 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
@@ -517,7 +517,7 @@
 | 515 | [Scorn](games/s/scorn.md) | 4.51 | 
 | 516 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 
 | 517 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 518 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 
+| 518 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 519 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 520 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 521 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -535,7 +535,7 @@
 | 533 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 534 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 535 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 536 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.31 | 
+| 536 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 537 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 538 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 539 | [Slipways](games/s/slipways.md) | 4.72 | 
