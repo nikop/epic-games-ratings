@@ -109,15 +109,15 @@
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 108 | [Haven](games/h/haven.md) | 4.76 | 
 | 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 110 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
-| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 115 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 117 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
-| 118 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 110 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 111 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.76 | 
+| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 118 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
 | 119 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -547,16 +547,16 @@
 | 545 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 546 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 547 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 548 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 549 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 550 | [Othercide](games/o/othercide.md) | 4.42 | 
-| 551 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 552 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 553 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 554 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 555 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 557 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 548 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 549 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 550 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 551 | [Othercide](games/o/othercide.md) | 4.42 | 
+| 552 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 553 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 554 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 556 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 557 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 558 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 559 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 560 | [Torchlight](games/t/torchlight.md) | 4.41 | 
@@ -609,18 +609,18 @@
 | 607 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 609 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
-| 610 | [House Party](games/h/house_party.md) | 4.35 | 
-| 611 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 612 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 613 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 614 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 615 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 616 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 617 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 618 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 619 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 620 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 621 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 610 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 611 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 612 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 613 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 614 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 615 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 616 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 617 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 618 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 619 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 620 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 
+| 621 | [House Party](games/h/house_party.md) | 4.33 | 
 | 622 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 623 | [ELEX](games/e/elex.md) | 4.33 | 
 | 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 

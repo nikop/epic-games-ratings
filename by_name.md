@@ -207,7 +207,7 @@
 | 205 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 206 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.60 | 
 | 207 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 208 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 208 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 209 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 210 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
 | 211 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -295,7 +295,7 @@
 | 293 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 294 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
 | 295 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 296 | [House Party](games/h/house_party.md) | 4.35 | 
+| 296 | [House Party](games/h/house_party.md) | 4.33 | 
 | 297 | [Hue](games/h/hue.md) | 4.55 | 
 | 298 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 299 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -508,7 +508,7 @@
 | 506 | [Sable](games/s/sable.md) | 4.53 | 
 | 507 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 508 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 509 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 509 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
 | 510 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 511 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 512 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
