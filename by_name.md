@@ -431,9 +431,9 @@
 | 429 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 430 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 431 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 432 | [Outlast](games/o/outlast.md) | 4.66 | 
+| 432 | [Outlast](games/o/outlast.md) | 4.68 | 
 | 433 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 434 | [Outward](games/o/outward.md) | 4.55 | 
+| 434 | [Outward](games/o/outward.md) | 4.56 | 
 | 435 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 436 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 437 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 

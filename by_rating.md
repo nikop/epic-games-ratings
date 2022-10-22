@@ -218,30 +218,30 @@
 | 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 217 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 218 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 219 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 220 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 221 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 222 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 223 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 224 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 225 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 226 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 227 | [SOMA](games/s/soma.md) | 4.67 | 
-| 228 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 229 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
-| 230 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 231 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 232 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 233 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 234 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 235 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 236 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 237 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 238 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 239 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 240 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
-| 242 | [Outlast](games/o/outlast.md) | 4.66 | 
+| 219 | [Outlast](games/o/outlast.md) | 4.68 | 
+| 220 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 221 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 222 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 223 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 224 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 226 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 227 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 228 | [SOMA](games/s/soma.md) | 4.67 | 
+| 229 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 230 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 231 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 232 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 233 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 234 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 235 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 236 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 237 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 238 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 239 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 240 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 241 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 243 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 244 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 245 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -386,15 +386,15 @@
 | 384 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 386 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 387 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
-| 388 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 389 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
-| 390 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 391 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 392 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 393 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 394 | [Hue](games/h/hue.md) | 4.55 | 
-| 395 | [Outward](games/o/outward.md) | 4.55 | 
+| 387 | [Outward](games/o/outward.md) | 4.56 | 
+| 388 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
+| 389 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 390 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 391 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 392 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 393 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 394 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 395 | [Hue](games/h/hue.md) | 4.55 | 
 | 396 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 397 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 398 | [Road 96](games/r/road_96.md) | 4.55 | 
