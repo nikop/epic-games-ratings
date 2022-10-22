@@ -83,7 +83,7 @@
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 82 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 84 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 84 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.67 | 
@@ -220,7 +220,7 @@
 | 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
-| 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 222 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
 | 223 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 224 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
@@ -279,7 +279,7 @@
 | 277 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 279 | [Haven](games/h/haven.md) | 4.76 | 
-| 280 | [Heavy Rain](games/h/heavy_rain.md) | 4.57 | 
+| 280 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 281 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 282 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 283 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
@@ -358,7 +358,7 @@
 | 356 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 357 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 358 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 359 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
+| 359 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 360 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 361 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 362 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
@@ -527,7 +527,7 @@
 | 525 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 526 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 527 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
-| 528 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 528 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 529 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 530 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 531 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
