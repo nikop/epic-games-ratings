@@ -141,7 +141,7 @@
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
@@ -389,7 +389,7 @@
 | 387 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 388 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 389 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 390 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 390 | [Moving Out](games/m/moving_out.md) | 4.60 | 
 | 391 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 392 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 393 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -413,7 +413,7 @@
 | 411 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 412 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 413 | [NORCO](games/n/norco.md) | 4.55 | 
-| 414 | [Northgard](games/n/northgard.md) | 4.78 | 
+| 414 | [Northgard](games/n/northgard.md) | 4.76 | 
 | 415 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 416 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 417 | [Obduction](games/o/obduction.md) | 4.11 | 
@@ -438,7 +438,7 @@
 | 436 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 437 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 438 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
-| 439 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 439 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 440 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 441 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 442 | [Paradigm](games/p/paradigm.md) | 4.47 | 
@@ -468,7 +468,7 @@
 | 466 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 467 | [Quake](games/q/quake.md) | 4.81 | 
 | 468 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 469 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 469 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 470 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 471 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 472 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 

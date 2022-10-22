@@ -17,7 +17,7 @@
 | 15 | [Outlast](games/o/outlast.md) | 4.66 | 
 | 16 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 17 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 18 | [RAILGRADE](games/r/railgrade.md) | 4.52 | 
+| 18 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 19 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 20 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 21 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
