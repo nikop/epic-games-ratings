@@ -557,16 +557,16 @@
 | 555 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 557 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 558 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 559 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 560 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 561 | [Torchlight](games/t/torchlight.md) | 4.41 | 
-| 562 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 563 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 564 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 565 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 566 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 567 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 
+| 558 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 559 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 560 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 561 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 562 | [Torchlight](games/t/torchlight.md) | 4.41 | 
+| 563 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 564 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 565 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 566 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 567 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 568 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 569 | [Encased](games/e/encased.md) | 4.40 | 
 | 570 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
