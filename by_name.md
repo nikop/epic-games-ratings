@@ -76,7 +76,7 @@
 | 74 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 75 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 76 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 77 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 77 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
 | 78 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 79 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 80 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -199,7 +199,7 @@
 | 197 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 198 | [Encased](games/e/encased.md) | 4.40 | 
 | 199 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 200 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 200 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 201 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 202 | [Everything](games/e/everything.md) | 4.70 | 
 | 203 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.50 | 
@@ -250,7 +250,7 @@
 | 248 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 249 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 250 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 251 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.45 | 
+| 251 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.44 | 
 | 252 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 253 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 254 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -264,7 +264,7 @@
 | 262 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 263 | [Gone Home](games/g/gone_home.md) | 4.18 | 
 | 264 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 265 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 265 | [Gotham Knights](games/g/gotham_knights.md) | 4.39 | 
 | 266 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 267 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 268 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -360,7 +360,7 @@
 | 358 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 359 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 360 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 361 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 361 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 362 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 
 | 363 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 364 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -691,7 +691,7 @@
 | 689 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 690 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 691 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 692 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
+| 692 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 693 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 694 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 695 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 

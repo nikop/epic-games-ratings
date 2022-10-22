@@ -1,10 +1,10 @@
 {
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
-  "Rating": 4.45,
+  "Rating": 4.44,
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
-  "LastChanged": "2022-10-22T01:00:30.5331404+00:00",
+  "LastChanged": "2022-10-22T04:01:28.2162586+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -69,6 +69,11 @@
     {
       "Time": "2022-10-22T01:00:30.5331408+00:00",
       "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-22T04:01:28.2162589+00:00",
+      "Rating": 4.44,
       "NumberOfRatings": null
     }
   ],
