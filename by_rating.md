@@ -106,15 +106,15 @@
 | 104 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 105 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 106 | [Haven](games/h/haven.md) | 4.76 | 
-| 107 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
-| 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 113 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 114 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 115 | [Superliminal](games/s/superliminal.md) | 4.75 | 
+| 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 108 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.75 | 
+| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 114 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 115 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 116 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.75 | 
 | 117 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 118 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 

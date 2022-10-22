@@ -590,7 +590,7 @@
 | 588 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
 | 589 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 590 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 591 | [Superliminal](games/s/superliminal.md) | 4.75 | 
+| 591 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 592 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 593 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 594 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
