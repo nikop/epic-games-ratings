@@ -222,7 +222,7 @@
 | 220 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 221 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
 | 222 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 223 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
+| 223 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 224 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 225 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 226 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -545,7 +545,7 @@
 | 543 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 544 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 545 | [SOMA](games/s/soma.md) | 4.67 | 
-| 546 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
+| 546 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 547 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 548 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 549 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 

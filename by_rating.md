@@ -190,24 +190,24 @@
 | 188 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 189 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 190 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 191 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 192 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 193 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 194 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 195 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 196 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 197 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 198 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 199 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 200 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 201 | [INSIDE](games/i/inside.md) | 4.68 | 
-| 202 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 203 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 204 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 205 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 207 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 208 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
+| 191 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 193 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 194 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 195 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 196 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 197 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 198 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 199 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 200 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 201 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 202 | [INSIDE](games/i/inside.md) | 4.68 | 
+| 203 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 204 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 205 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 206 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 207 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 208 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 209 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 210 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 211 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
@@ -731,10 +731,10 @@
 | 729 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 730 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 731 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
-| 732 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 733 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
-| 734 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 735 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.01 | 
+| 732 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
+| 733 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
+| 734 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.03 | 
+| 735 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 736 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 737 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 738 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
