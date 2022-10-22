@@ -123,7 +123,7 @@
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 122 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 123 | [Core](games/c/core.md) | 4.39 | 
-| 124 | [Coromon](games/c/coromon.md) | 4.63 | 
+| 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.50 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
@@ -337,7 +337,7 @@
 | 335 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 336 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 337 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 338 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 338 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
 | 339 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 341 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
@@ -396,7 +396,7 @@
 | 394 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 395 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 396 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 397 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 397 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 398 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 399 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 400 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -558,7 +558,7 @@
 | 556 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 557 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
 | 558 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 559 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.63 | 
+| 559 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.65 | 
 | 560 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 561 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 562 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
