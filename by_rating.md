@@ -125,18 +125,18 @@
 | 123 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 124 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 129 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 131 | [Revita](games/r/revita.md) | 4.74 | 
-| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 136 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 137 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 126 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 127 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 128 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 130 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 132 | [Revita](games/r/revita.md) | 4.74 | 
+| 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 137 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -556,18 +556,18 @@
 | 554 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 555 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 557 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 558 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 559 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 560 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 561 | [Torchlight](games/t/torchlight.md) | 4.41 | 
-| 562 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 563 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 564 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 565 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 566 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 567 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 568 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 557 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 558 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 559 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 560 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 561 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 562 | [Torchlight](games/t/torchlight.md) | 4.41 | 
+| 563 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 564 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 565 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 566 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 567 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 568 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 569 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 570 | [Encased](games/e/encased.md) | 4.40 | 
 | 571 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -632,18 +632,18 @@
 | 630 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 631 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 632 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 633 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 634 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 635 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 636 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 637 | [Automachef](games/a/automachef.md) | 4.31 | 
-| 638 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 639 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
-| 641 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 642 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 643 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
-| 644 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
+| 633 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
+| 634 | [Lamentum](games/l/lamentum.md) | 4.32 | 
+| 635 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 636 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 637 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 638 | [Automachef](games/a/automachef.md) | 4.31 | 
+| 639 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 640 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
+| 642 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 644 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
 | 645 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 646 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 647 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 

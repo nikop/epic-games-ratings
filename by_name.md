@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -665,7 +665,7 @@
 | 663 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 664 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 665 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
-| 666 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 666 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 667 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 668 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 669 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -758,6 +758,6 @@
 | 756 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 757 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 758 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 759 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 759 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 760 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
 | 761 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
