@@ -82,14 +82,14 @@
 | 80 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 82 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
-| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 90 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
+| 83 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
+| 84 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
 | 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -153,19 +153,19 @@
 | 151 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 152 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
 | 153 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 154 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 155 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 156 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 157 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 158 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 159 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 160 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 161 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 162 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 163 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 164 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 165 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 166 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 154 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 155 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 156 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 157 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 158 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 159 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 160 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 161 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 162 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 163 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 164 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 165 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 166 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
 | 167 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 168 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 169 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -687,14 +687,14 @@
 | 685 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 686 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 687 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 688 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 689 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 690 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 691 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 692 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 693 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 694 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 695 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 688 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 689 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 690 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 691 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 692 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 693 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 694 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 695 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 696 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 697 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 698 | [Windbound](games/w/windbound.md) | 4.17 | 

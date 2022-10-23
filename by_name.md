@@ -371,7 +371,7 @@
 | 369 | [Mago](games/m/mago.md) | 4.90 | 
 | 370 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 371 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 372 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 372 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
 | 373 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 374 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 375 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -455,7 +455,7 @@
 | 453 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 454 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 455 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 456 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 456 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 457 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 458 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 459 | [Pine](games/p/pine.md) | 4.14 | 
@@ -619,7 +619,7 @@
 | 617 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 618 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 619 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 620 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
+| 620 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
 | 621 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 622 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 623 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
