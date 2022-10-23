@@ -125,7 +125,7 @@
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
-| 126 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 126 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
@@ -290,7 +290,7 @@
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 289 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 290 | [Hob](games/h/hob.md) | 4.58 | 
-| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 292 | [Horace](games/h/horace.md) | 4.55 | 
 | 293 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 294 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -432,7 +432,7 @@
 | 430 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 431 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 432 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 433 | [Outlast 2](games/o/outlast_2.md) | 4.62 | 
+| 433 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 
 | 434 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 435 | [Outward](games/o/outward.md) | 4.56 | 
 | 436 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -737,7 +737,7 @@
 | 735 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 736 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 737 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 738 | [Weird West](games/w/weird_west.md) | 4.42 | 
+| 738 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 739 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 740 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 741 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
