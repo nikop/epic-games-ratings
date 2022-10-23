@@ -55,7 +55,7 @@
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.31 | 
-| 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 56 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
@@ -95,7 +95,7 @@
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
+| 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
 | 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -132,7 +132,7 @@
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.38 | 
+| 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -258,14 +258,14 @@
 | 256 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 258 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 259 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 259 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 260 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 261 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.34 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.33 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -618,7 +618,7 @@
 | 616 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 617 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 618 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 619 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 619 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 620 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
 | 621 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 622 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
@@ -666,7 +666,7 @@
 | 664 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 665 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 666 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 667 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 667 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 668 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 669 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 670 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
@@ -687,7 +687,7 @@
 | 685 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 686 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 687 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 688 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
+| 688 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 689 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 690 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
 | 691 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -706,7 +706,7 @@
 | 704 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 705 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 706 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 707 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
+| 707 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 708 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 709 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 710 | [UnMetal](games/u/unmetal.md) | 4.53 | 

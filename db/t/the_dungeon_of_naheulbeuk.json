@@ -1,10 +1,10 @@
 {
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
-  "Rating": 4.71,
+  "Rating": 4.72,
   "NumberOfRatings": 118,
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
-  "LastChanged": "2022-10-18T21:01:03.6428352+00:00",
+  "LastChanged": "2022-10-23T16:30:33.9313984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:10.3058595+00:00",
@@ -245,12 +245,17 @@
       "Time": "2022-10-18T21:01:03.6428355+00:00",
       "Rating": 4.71,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-23T16:30:33.9313985+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 37
+      "Count": 39
     }
   ]
 }
