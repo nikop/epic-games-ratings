@@ -482,11 +482,11 @@
 | 480 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 481 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 482 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 483 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 484 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
-| 485 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 486 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 487 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 483 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 484 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 485 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
+| 486 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 487 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 488 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
 | 489 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
 | 490 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -688,25 +688,25 @@
 | 686 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 687 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 688 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 689 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
-| 690 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 691 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 692 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 693 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 694 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 695 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 696 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 697 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
-| 698 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 699 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
-| 700 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 701 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 702 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
-| 703 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 704 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 705 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 706 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 707 | [Flatout](games/f/flatout.md) | 4.15 | 
+| 689 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 690 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 691 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 692 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 693 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 694 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 695 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 696 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 697 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 698 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 699 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 700 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 701 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 702 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 703 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 704 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 705 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 706 | [Flatout](games/f/flatout.md) | 4.15 | 
+| 707 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 708 | [Pine](games/p/pine.md) | 4.14 | 
 | 709 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 710 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
@@ -740,8 +740,8 @@
 | 738 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 739 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 740 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
-| 741 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 742 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 741 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 742 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 743 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 744 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 745 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 

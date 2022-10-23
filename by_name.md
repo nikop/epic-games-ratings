@@ -290,7 +290,7 @@
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 289 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 290 | [Hob](games/h/hob.md) | 4.58 | 
-| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 292 | [Horace](games/h/horace.md) | 4.55 | 
 | 293 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 294 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -425,7 +425,7 @@
 | 423 | [Old World](games/o/old_world.md) | 4.63 | 
 | 424 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 425 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 426 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
+| 426 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 427 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
 | 428 | [Othercide](games/o/othercide.md) | 4.39 | 
 | 429 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -684,7 +684,7 @@
 | 682 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 683 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 684 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 685 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 685 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 686 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 687 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 688 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
