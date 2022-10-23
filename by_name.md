@@ -77,7 +77,7 @@
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.65 | 
-| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 
+| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -708,7 +708,7 @@
 | 706 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 707 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
 | 708 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 709 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 709 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 710 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 711 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
 | 712 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
