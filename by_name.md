@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.33 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -451,7 +451,7 @@
 | 449 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 450 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 451 | [Patron](games/p/patron.md) | 3.91 | 
-| 452 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 452 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 453 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 455 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 

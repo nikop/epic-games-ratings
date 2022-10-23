@@ -222,20 +222,20 @@
 | 220 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 221 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 222 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 223 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 224 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 225 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 226 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 230 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 231 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 232 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
-| 233 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 234 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 235 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 236 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 223 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 224 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 225 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 227 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 228 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 229 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 231 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 232 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 233 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 234 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 235 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 236 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 237 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 238 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
@@ -629,23 +629,23 @@
 | 627 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 628 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
 | 629 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 630 | [Gotham Knights](games/g/gotham_knights.md) | 4.33 | 
-| 631 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
-| 632 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 633 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 634 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 635 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 636 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 637 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 638 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 639 | [Automachef](games/a/automachef.md) | 4.31 | 
-| 640 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 641 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
-| 643 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 644 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 645 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 646 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 630 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
+| 631 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 632 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 633 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 634 | [Lamentum](games/l/lamentum.md) | 4.32 | 
+| 635 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 636 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 637 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 638 | [Automachef](games/a/automachef.md) | 4.31 | 
+| 639 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 640 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
+| 642 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 644 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 645 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 646 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
 | 647 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 648 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 649 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
