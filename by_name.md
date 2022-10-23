@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -710,7 +710,7 @@
 | 708 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 709 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 710 | [UnMetal](games/u/unmetal.md) | 4.53 | 
-| 711 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
+| 711 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 712 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 713 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 714 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
