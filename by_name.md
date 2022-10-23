@@ -51,7 +51,7 @@
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
-| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
+| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -165,7 +165,7 @@
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 166 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 166 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -324,7 +324,7 @@
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 323 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 324 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 325 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 325 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 326 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 327 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 328 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
@@ -540,7 +540,7 @@
 | 538 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 539 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 540 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 541 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 541 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 542 | [SMITE](games/s/smite.md) | 4.46 | 
 | 543 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 544 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
@@ -588,7 +588,7 @@
 | 586 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 587 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 588 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
-| 589 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 589 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
 | 590 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 591 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 592 | [Superliminal](games/s/superliminal.md) | 4.76 | 
@@ -693,7 +693,7 @@
 | 691 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 692 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 694 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 694 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 695 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 696 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 697 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
