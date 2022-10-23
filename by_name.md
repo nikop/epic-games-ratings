@@ -149,7 +149,7 @@
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.57 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
@@ -158,7 +158,7 @@
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 159 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -751,7 +751,7 @@
 | 749 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 750 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 751 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 752 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 752 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 753 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 754 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 755 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 

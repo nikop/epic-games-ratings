@@ -437,23 +437,23 @@
 | 435 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 436 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 437 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 438 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 439 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 440 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 441 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 442 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 443 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 444 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
-| 445 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 446 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 447 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 448 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 449 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 450 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 452 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 453 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 454 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 438 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 439 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 440 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 441 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 442 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 443 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 444 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 445 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
+| 446 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 447 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 448 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 449 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 450 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 451 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 453 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 454 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 455 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 456 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 457 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 
@@ -464,40 +464,40 @@
 | 462 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 463 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 464 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 465 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 466 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 467 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 468 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 470 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 471 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 472 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 473 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 474 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 475 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 476 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 477 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 478 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 479 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 480 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 481 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 482 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 483 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 465 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 466 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 467 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 469 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 470 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 471 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 472 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 473 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 474 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 475 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 476 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 477 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 478 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 479 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 480 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 481 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 482 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 483 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 484 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 485 | [Costume Quest](games/c/costume_quest.md) | 4.49 | 
 | 486 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 489 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
-| 490 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 491 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 492 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 493 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 494 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 495 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 496 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 497 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 498 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 489 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
+| 491 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
+| 492 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 493 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 494 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 495 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 496 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 497 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 498 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 499 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 500 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 501 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
