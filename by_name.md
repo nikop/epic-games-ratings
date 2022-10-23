@@ -108,7 +108,7 @@
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 109 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
+| 109 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 111 | [Chorus](games/c/chorus.md) | 4.51 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.65 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
@@ -218,7 +218,7 @@
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
+| 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 222 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
@@ -353,7 +353,7 @@
 | 351 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 352 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 353 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 354 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 354 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 355 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 356 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 357 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
@@ -624,7 +624,7 @@
 | 622 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 623 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 624 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 625 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 625 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 626 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 627 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 628 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
@@ -643,7 +643,7 @@
 | 641 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 642 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 644 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 644 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 645 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 646 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 647 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
@@ -682,7 +682,7 @@
 | 680 | [Torchlight](games/t/torchlight.md) | 4.41 | 
 | 681 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 682 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 683 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
+| 683 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 684 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 685 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 686 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
@@ -711,7 +711,7 @@
 | 709 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 710 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 711 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 712 | [UnMetal](games/u/unmetal.md) | 4.53 | 
+| 712 | [UnMetal](games/u/unmetal.md) | 4.54 | 
 | 713 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 714 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 715 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
