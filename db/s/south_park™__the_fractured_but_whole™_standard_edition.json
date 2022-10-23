@@ -1,10 +1,10 @@
 {
   "ID": "764eb429792649e4a606413cd649de2c",
   "Name": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition",
-  "Rating": 4.78,
+  "Rating": 4.79,
   "NumberOfRatings": 162,
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2022-10-12T02:30:15.3239872+00:00",
+  "LastChanged": "2022-10-23T05:30:32.3140524+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:01.7638491+00:00",
@@ -239,6 +239,11 @@
     {
       "Time": "2022-10-12T02:30:15.3239874+00:00",
       "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-23T05:30:32.3140526+00:00",
+      "Rating": 4.79,
       "NumberOfRatings": null
     }
   ],
