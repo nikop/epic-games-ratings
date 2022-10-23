@@ -576,14 +576,14 @@
 | 574 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 575 | [Core](games/c/core.md) | 4.39 | 
 | 576 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
-| 577 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.39 | 
-| 578 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
-| 579 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 580 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
-| 581 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 582 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 583 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 584 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 577 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
+| 578 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 579 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 580 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 581 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 582 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 583 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 584 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.38 | 
 | 585 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
 | 586 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 587 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
