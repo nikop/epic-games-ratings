@@ -1,7 +1,16 @@
 {
   "ID": "52d9c5885cb54c9280d4b9b8cf32a7b9",
   "Name": "True Fear: Forsaken Souls Part 1",
+  "Rating": 4.2,
   "FirstSeen": "2022-07-22T20:24:33.0006243+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-10-23T18:01:32.6537838+00:00",
+  "LastChanged": "2022-10-23T18:01:32.6537841+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-10-23T18:01:32.6537842+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
