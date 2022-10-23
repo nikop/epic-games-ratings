@@ -143,7 +143,7 @@
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 144 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
+| 144 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -194,7 +194,7 @@
 | 192 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 195 | [ELEX](games/e/elex.md) | 4.33 | 
+| 195 | [ELEX](games/e/elex.md) | 4.34 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
@@ -705,14 +705,14 @@
 | 703 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 704 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 705 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 706 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 706 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 707 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 708 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 709 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 710 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 711 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 712 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 713 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 713 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 714 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 715 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 716 | [VALORANT](games/v/valorant.md) | 4.55 | 
