@@ -185,20 +185,20 @@
 | 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 184 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 185 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 186 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 187 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 188 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 189 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 190 | [Barony](games/b/barony.md) | 4.69 | 
-| 191 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 192 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 193 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 194 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 195 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 196 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 197 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 198 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 199 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 189 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 190 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 191 | [Barony](games/b/barony.md) | 4.69 | 
+| 192 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 195 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 196 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 197 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 198 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 199 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 200 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 201 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 202 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -744,9 +744,9 @@
 | 742 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 743 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 744 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 745 | [Warface](games/w/warface.md) | 3.95 | 
-| 746 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 747 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
+| 745 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
+| 746 | [Warface](games/w/warface.md) | 3.95 | 
+| 747 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 748 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 749 | [Patron](games/p/patron.md) | 3.91 | 
 | 750 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
