@@ -1,10 +1,10 @@
 {
   "ID": "3f7bd21610f743e598fa8e955500f5b7",
   "Name": "Evoland Legendary Edition",
-  "Rating": 4.44,
+  "Rating": 4.45,
   "FirstSeen": "2022-10-20T18:02:33.1892038+00:00",
   "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
-  "LastChanged": "2022-10-23T11:03:21.7712744+00:00",
+  "LastChanged": "2022-10-23T15:02:47.6750891+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-21T11:02:38.8584731+00:00",
@@ -24,6 +24,11 @@
     {
       "Time": "2022-10-23T11:03:21.7712746+00:00",
       "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-23T15:02:47.6750893+00:00",
+      "Rating": 4.45,
       "NumberOfRatings": null
     }
   ],

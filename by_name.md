@@ -101,7 +101,7 @@
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 102 | [CARRION](games/c/carrion.md) | 4.64 | 
+| 102 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -204,7 +204,7 @@
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.44 | 
+| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -243,7 +243,7 @@
 | 241 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 242 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 243 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 245 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 246 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 247 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -432,14 +432,14 @@
 | 430 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 431 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 432 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 433 | [Outlast 2](games/o/outlast_2.md) | 4.55 | 
+| 433 | [Outlast 2](games/o/outlast_2.md) | 4.62 | 
 | 434 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 435 | [Outward](games/o/outward.md) | 4.56 | 
 | 436 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 437 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 438 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 439 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 440 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 440 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 441 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 442 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 443 | [Paradigm](games/p/paradigm.md) | 4.47 | 
@@ -575,7 +575,7 @@
 | 573 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 574 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 575 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 576 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 576 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 577 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
 | 578 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 579 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -681,7 +681,7 @@
 | 679 | [Torchlight](games/t/torchlight.md) | 4.41 | 
 | 680 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 681 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 682 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 682 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
 | 683 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 684 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 685 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
