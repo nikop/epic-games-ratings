@@ -96,10 +96,10 @@
 | 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 98 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 99 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
+| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -462,22 +462,22 @@
 | 460 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 461 | [Scorn](games/s/scorn.md) | 4.51 | 
 | 462 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 463 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 464 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 465 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 466 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 467 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 468 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 469 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 470 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 471 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 472 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 473 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 474 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 475 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 476 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 477 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 478 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 463 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 464 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 465 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 466 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 467 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 468 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 470 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 471 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 472 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 473 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 474 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 475 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 476 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 477 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 478 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 479 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 480 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 481 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
@@ -598,15 +598,15 @@
 | 596 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 597 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 598 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 599 | [Anno 2070](games/a/anno_2070.md) | 4.37 | 
-| 600 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
-| 601 | [Backbone](games/b/backbone.md) | 4.37 | 
-| 602 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 603 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 604 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 606 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 607 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 599 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
+| 600 | [Backbone](games/b/backbone.md) | 4.37 | 
+| 601 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 602 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 603 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 606 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 607 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
 | 608 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 609 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 610 | [Imagine Earth](games/i/imagine_earth.md) | 4.36 | 
