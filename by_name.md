@@ -284,7 +284,7 @@
 | 282 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 283 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 284 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 285 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
+| 285 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
 | 286 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 287 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -557,7 +557,7 @@
 | 555 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 556 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 557 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 558 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
+| 558 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 
 | 559 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 560 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.65 | 
 | 561 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 

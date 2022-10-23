@@ -455,16 +455,16 @@
 | 453 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 454 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 455 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 456 | [Chorus](games/c/chorus.md) | 4.51 | 
-| 457 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 458 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 459 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 460 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 461 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 462 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 463 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 464 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 465 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
+| 456 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 
+| 457 | [Chorus](games/c/chorus.md) | 4.51 | 
+| 458 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 459 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 460 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 461 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 462 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 464 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 465 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 466 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 467 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
@@ -639,9 +639,9 @@
 | 637 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 638 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 639 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 640 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 641 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
+| 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
+| 641 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 642 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 643 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
 | 644 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
 | 645 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
