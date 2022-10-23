@@ -204,7 +204,7 @@
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.42 | 
+| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.44 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -569,7 +569,7 @@
 | 567 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 568 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 569 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 570 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 570 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 571 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 572 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 573 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -681,7 +681,7 @@
 | 679 | [Torchlight](games/t/torchlight.md) | 4.41 | 
 | 680 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 681 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 682 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.72 | 
+| 682 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 683 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 684 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 685 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
