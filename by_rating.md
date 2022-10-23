@@ -55,16 +55,16 @@
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 56 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 57 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 58 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 59 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 62 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 63 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 64 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 65 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 56 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 57 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 58 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 59 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 60 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 63 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 65 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 66 | [Quake](games/q/quake.md) | 4.81 | 
 | 67 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
 | 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -127,23 +127,23 @@
 | 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 130 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 132 | [Revita](games/r/revita.md) | 4.74 | 
-| 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 137 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 138 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 139 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 140 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 143 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 144 | [Fez](games/f/fez.md) | 4.73 | 
+| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 129 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 131 | [Revita](games/r/revita.md) | 4.74 | 
+| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 136 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 137 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 142 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 143 | [Fez](games/f/fez.md) | 4.73 | 
+| 144 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 145 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 146 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 147 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
@@ -338,21 +338,21 @@
 | 336 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 337 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 338 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 339 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
-| 340 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 341 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 342 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 343 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 344 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 345 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 346 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 347 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 348 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 349 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 350 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 351 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 352 | [Hob](games/h/hob.md) | 4.58 | 
-| 353 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
+| 339 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 340 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
+| 341 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 342 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 343 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 344 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 345 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 346 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 347 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 348 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 349 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 350 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 351 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 352 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 353 | [Hob](games/h/hob.md) | 4.58 | 
 | 354 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 355 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 356 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 

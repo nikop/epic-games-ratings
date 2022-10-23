@@ -294,7 +294,7 @@
 | 292 | [Horace](games/h/horace.md) | 4.55 | 
 | 293 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 294 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 295 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 
+| 295 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 296 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 297 | [House Party](games/h/house_party.md) | 4.33 | 
 | 298 | [Hue](games/h/hue.md) | 4.55 | 
@@ -713,7 +713,7 @@
 | 711 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
 | 712 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 713 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 714 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 714 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 715 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 716 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 717 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
@@ -738,7 +738,7 @@
 | 736 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 737 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 738 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 739 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 739 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 740 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
 | 741 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 742 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
