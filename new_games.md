@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
+| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
 | 2 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.42 | 
 | 3 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
 | 4 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 8 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
-| 9 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
+| 9 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.11 | 
 | 10 | [Darkwood](games/d/darkwood.md) | 4.57 | 
 | 11 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 12 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 

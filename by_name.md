@@ -54,7 +54,7 @@
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 55 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 55 | [Automachef](games/a/automachef.md) | 4.31 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -665,13 +665,13 @@
 | 663 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 664 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 665 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
-| 666 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 666 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 667 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 668 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 669 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 670 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 671 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 672 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
+| 672 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.11 | 
 | 673 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 674 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 675 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
@@ -743,7 +743,7 @@
 | 741 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 742 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 743 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 744 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 744 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 745 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 746 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 747 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 

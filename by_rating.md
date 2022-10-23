@@ -125,19 +125,19 @@
 | 123 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 124 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 126 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 127 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 128 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 129 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 130 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 131 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 132 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 133 | [Revita](games/r/revita.md) | 4.74 | 
-| 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 135 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 136 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 137 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 138 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 130 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 132 | [Revita](games/r/revita.md) | 4.74 | 
+| 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 137 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 138 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 139 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 140 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -255,16 +255,16 @@
 | 253 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 254 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 255 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 257 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 258 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 259 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 260 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 261 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 262 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 263 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 265 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 256 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 257 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 258 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 259 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 260 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 261 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 262 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 263 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 264 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 265 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 266 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 267 | [RiME](games/r/rime.md) | 4.64 | 
 | 268 | [Coromon](games/c/coromon.md) | 4.64 | 
@@ -629,21 +629,21 @@
 | 627 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 628 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
 | 629 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 630 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 631 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 632 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 633 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 634 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
-| 635 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 636 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 637 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 638 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 639 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 640 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 641 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 642 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 643 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
-| 644 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 630 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 631 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 632 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 633 | [Lamentum](games/l/lamentum.md) | 4.32 | 
+| 634 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 635 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 636 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 637 | [Automachef](games/a/automachef.md) | 4.31 | 
+| 638 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 639 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 640 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 641 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.30 | 
+| 643 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 644 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
 | 645 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 646 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 647 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -717,18 +717,18 @@
 | 715 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 716 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 717 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 718 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 719 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 720 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 721 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
-| 722 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 723 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 724 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
-| 725 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 726 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 727 | [Lake](games/l/lake.md) | 4.08 | 
-| 728 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 729 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.06 | 
+| 718 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.11 | 
+| 719 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 720 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 721 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 722 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
+| 723 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 724 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 725 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
+| 726 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 727 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 728 | [Lake](games/l/lake.md) | 4.08 | 
+| 729 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 730 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 731 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 732 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
