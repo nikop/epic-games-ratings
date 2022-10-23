@@ -28,30 +28,30 @@
 | 26 | [Black Book](games/b/black_book.md) | 4.86 | 
 | 27 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 30 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
-| 31 | [Firework](games/f/firework.md) | 4.86 | 
-| 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 33 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 34 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 37 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 38 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 39 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 41 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
+| 29 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
+| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 31 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
+| 32 | [Firework](games/f/firework.md) | 4.86 | 
+| 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 35 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 36 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 38 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 39 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 40 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 42 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
 | 43 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 45 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 46 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 48 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 49 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 50 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 51 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 52 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 47 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
+| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 49 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -154,32 +154,32 @@
 | 152 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 153 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 154 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 155 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 156 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
-| 157 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 158 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 160 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 161 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 162 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 163 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 164 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 165 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 166 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 167 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 168 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
-| 170 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 171 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 173 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 174 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 175 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 176 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 177 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 178 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 179 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
-| 180 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 155 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
+| 156 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 157 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 159 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 160 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 163 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 164 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 165 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 166 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 167 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
+| 169 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 170 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 173 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 175 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 178 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
+| 179 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 180 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 181 | [Everything](games/e/everything.md) | 4.70 | 
 | 182 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -697,14 +697,14 @@
 | 695 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 696 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 697 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 698 | [Gone Home](games/g/gone_home.md) | 4.18 | 
-| 699 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
-| 700 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 701 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 702 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 703 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 704 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 705 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 698 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 699 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 700 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 701 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 702 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 703 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 704 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 705 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 706 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 707 | [Pine](games/p/pine.md) | 4.14 | 
 | 708 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 

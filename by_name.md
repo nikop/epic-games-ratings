@@ -181,7 +181,7 @@
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
+| 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -263,7 +263,7 @@
 | 261 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 264 | [Gone Home](games/g/gone_home.md) | 4.18 | 
+| 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
@@ -654,7 +654,7 @@
 | 652 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 653 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 654 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 655 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 655 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 656 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
 | 657 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 658 | [The Witness](games/t/the_witness.md) | 4.70 | 
@@ -685,7 +685,7 @@
 | 683 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 684 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 685 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 686 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 686 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 687 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 688 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 689 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
