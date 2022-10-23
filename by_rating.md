@@ -21,11 +21,11 @@
 | 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 21 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
-| 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 23 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 24 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 25 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 26 | [Black Book](games/b/black_book.md) | 4.86 | 
+| 22 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 23 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 27 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 29 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
@@ -67,16 +67,16 @@
 | 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 67 | [Quake](games/q/quake.md) | 4.81 | 
-| 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 69 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 71 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 72 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 73 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 75 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 77 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
+| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 69 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 70 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 71 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 72 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 73 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 74 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 77 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 78 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 80 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
@@ -334,24 +334,24 @@
 | 332 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 333 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 334 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 335 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 336 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 337 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 338 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 339 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 340 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 341 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 342 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
-| 343 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 344 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 345 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 346 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 347 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 348 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 349 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 350 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 351 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 352 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 335 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 336 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 337 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 338 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 339 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 340 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 341 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
+| 342 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 343 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 344 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 345 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 346 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 347 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 348 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 349 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 350 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 351 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 352 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 353 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 354 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 355 | [Hob](games/h/hob.md) | 4.58 | 
