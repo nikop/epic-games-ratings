@@ -37,7 +37,7 @@
 | 35 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 36 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 37 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 38 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 38 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 39 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 40 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 41 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 

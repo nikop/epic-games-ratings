@@ -1,58 +1,58 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
-| 2 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 3 | [Hades](games/h/hades.md) | 4.92 | 
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 6 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 8 | [Mago](games/m/mago.md) | 4.90 | 
-| 9 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 10 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 11 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 13 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 14 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 15 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 17 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
-| 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 19 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 21 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 22 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
-| 23 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 27 | [Black Book](games/b/black_book.md) | 4.86 | 
-| 28 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
-| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 31 | [Firework](games/f/firework.md) | 4.86 | 
-| 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 33 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 34 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 37 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 38 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 39 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 41 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
-| 42 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
-| 43 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
-| 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 45 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 46 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 47 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 49 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 53 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
+| 2 | [Hades](games/h/hades.md) | 4.92 | 
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 
+| 4 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 5 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 7 | [Mago](games/m/mago.md) | 4.90 | 
+| 8 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 9 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 10 | [God of War](games/g/god_of_war.md) | 4.89 | 
+| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 12 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 13 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
+| 14 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 16 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
+| 17 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 18 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 21 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
+| 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 23 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 24 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 25 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 26 | [Black Book](games/b/black_book.md) | 4.86 | 
+| 27 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
+| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 30 | [Firework](games/f/firework.md) | 4.86 | 
+| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 37 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 40 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
+| 41 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.85 | 
+| 42 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
+| 43 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 44 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 45 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 46 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 48 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 49 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 50 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 51 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 52 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 56 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -175,22 +175,22 @@
 | 173 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 174 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 175 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 178 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
-| 179 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 180 | [Everything](games/e/everything.md) | 4.70 | 
-| 181 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 182 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 183 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 184 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 185 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 186 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 187 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 188 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 189 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 190 | [Barony](games/b/barony.md) | 4.69 | 
-| 191 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 176 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 177 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 178 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 179 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
+| 180 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 181 | [Everything](games/e/everything.md) | 4.70 | 
+| 182 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 184 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 185 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 189 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 190 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 191 | [Barony](games/b/barony.md) | 4.69 | 
 | 192 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
@@ -660,12 +660,12 @@
 | 658 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 659 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 660 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
-| 661 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
-| 662 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 663 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 664 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 665 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 666 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 661 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 662 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 663 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 664 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 665 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 666 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 667 | [Ashen](games/a/ashen.md) | 4.25 | 
 | 668 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 669 | [ELEX II](games/e/elex_ii.md) | 4.24 | 

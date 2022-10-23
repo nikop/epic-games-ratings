@@ -627,7 +627,7 @@
 | 625 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 626 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 627 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 628 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 5.00 | 
+| 628 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 629 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
 | 630 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 631 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
@@ -666,7 +666,7 @@
 | 664 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 665 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 666 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 667 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 667 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 668 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 669 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 670 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
@@ -732,7 +732,7 @@
 | 730 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 731 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 732 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 733 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 733 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 734 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 735 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 736 | [Weird West](games/w/weird_west.md) | 4.41 | 
