@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
@@ -406,7 +406,7 @@
 | 404 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 405 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 406 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 407 | [Neverwinter](games/n/neverwinter.md) | 4.27 | 
+| 407 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 408 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
 | 409 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 410 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -712,13 +712,13 @@
 | 710 | [UnMetal](games/u/unmetal.md) | 4.53 | 
 | 711 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 712 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 713 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 713 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 714 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 715 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
+| 715 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 716 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 717 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 718 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 719 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 719 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 720 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 721 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 722 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -736,7 +736,7 @@
 | 734 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 735 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 736 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 737 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 737 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 738 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 739 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 740 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
