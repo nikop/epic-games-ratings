@@ -182,7 +182,7 @@
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
@@ -440,7 +440,7 @@
 | 438 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 439 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 440 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 441 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 441 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 442 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 443 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 444 | [Paradigm](games/p/paradigm.md) | 4.47 | 
@@ -478,7 +478,7 @@
 | 476 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
 | 477 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 478 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
-| 479 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.39 | 
+| 479 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 480 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 481 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 482 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
@@ -673,7 +673,7 @@
 | 671 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 672 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 673 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.11 | 
-| 674 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 674 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 675 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 676 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 677 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
@@ -707,8 +707,8 @@
 | 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.20 | 
 | 706 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 707 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 708 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 709 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 708 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 709 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 710 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 711 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 712 | [UnMetal](games/u/unmetal.md) | 4.53 | 
