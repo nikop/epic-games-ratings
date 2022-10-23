@@ -1,10 +1,10 @@
 {
   "ID": "325bbb62ea0d490793fd3d274ea74818",
   "Name": "Othercide",
-  "Rating": 4.42,
+  "Rating": 4.39,
   "NumberOfRatings": 40,
   "FirstSeen": "2022-07-22T20:25:43.6994898+00:00",
-  "LastChanged": "2022-10-04T08:31:28.7719052+00:00",
+  "LastChanged": "2022-10-23T08:01:46.3125349+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:43.6994901+00:00",
@@ -114,6 +114,11 @@
     {
       "Time": "2022-10-04T08:31:28.7719055+00:00",
       "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-23T08:01:46.3125494+00:00",
+      "Rating": 4.39,
       "NumberOfRatings": null
     }
   ],
