@@ -87,14 +87,14 @@
 | 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 88 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
-| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
-| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 93 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 89 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
+| 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
+| 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
 | 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -390,17 +390,17 @@
 | 388 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 389 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
 | 390 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 391 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 392 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 393 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 394 | [Hue](games/h/hue.md) | 4.55 | 
-| 395 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 396 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 397 | [Road 96](games/r/road_96.md) | 4.55 | 
-| 398 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 399 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
-| 400 | [Horace](games/h/horace.md) | 4.55 | 
-| 401 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 391 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 392 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 393 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 394 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 395 | [Hue](games/h/hue.md) | 4.55 | 
+| 396 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 397 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 398 | [Road 96](games/r/road_96.md) | 4.55 | 
+| 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 400 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
+| 401 | [Horace](games/h/horace.md) | 4.55 | 
 | 402 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 403 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
 | 404 | [NORCO](games/n/norco.md) | 4.55 | 
@@ -557,18 +557,18 @@
 | 555 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 556 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 558 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 561 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 562 | [Weird West](games/w/weird_west.md) | 4.41 | 
-| 563 | [Torchlight](games/t/torchlight.md) | 4.41 | 
-| 564 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 566 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 568 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 569 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 558 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 559 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 560 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 561 | [Weird West](games/w/weird_west.md) | 4.41 | 
+| 562 | [Torchlight](games/t/torchlight.md) | 4.41 | 
+| 563 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 564 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 565 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 566 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 567 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 568 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 569 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 570 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 571 | [Encased](games/e/encased.md) | 4.40 | 
 | 572 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
