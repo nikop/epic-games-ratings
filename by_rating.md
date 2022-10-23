@@ -370,24 +370,24 @@
 | 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 369 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 372 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 373 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 375 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 376 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 377 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 378 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
-| 379 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
-| 380 | [Darkwood](games/d/darkwood.md) | 4.57 | 
-| 381 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 382 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 383 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 384 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 385 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 386 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 388 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 371 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 373 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 374 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 376 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 377 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 378 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 379 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
+| 380 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
+| 381 | [Darkwood](games/d/darkwood.md) | 4.57 | 
+| 382 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 383 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 384 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 385 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 386 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 389 | [Outward](games/o/outward.md) | 4.56 | 
 | 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 391 | [Isonzo](games/i/isonzo.md) | 4.56 | 
@@ -521,22 +521,22 @@
 | 519 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 520 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 521 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 522 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 523 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 524 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 525 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 526 | [Figment](games/f/figment.md) | 4.44 | 
-| 527 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 528 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 529 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 530 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 531 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 532 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 533 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 534 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 535 | [Observation](games/o/observation.md) | 4.44 | 
-| 536 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 537 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 522 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 523 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 524 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 525 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 526 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 527 | [Figment](games/f/figment.md) | 4.44 | 
+| 528 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 529 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 530 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 531 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 532 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 533 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 534 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 535 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 536 | [Observation](games/o/observation.md) | 4.44 | 
+| 537 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 538 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 539 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
@@ -739,9 +739,9 @@
 | 737 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 738 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 739 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 740 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 741 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 742 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
+| 740 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 741 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
+| 742 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 743 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 744 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 745 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 

@@ -20,7 +20,7 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -458,7 +458,7 @@
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 459 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 459 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 460 | [Pine](games/p/pine.md) | 4.14 | 
 | 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 462 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
@@ -568,7 +568,7 @@
 | 566 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 567 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 568 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 569 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 569 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 570 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 571 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 572 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
