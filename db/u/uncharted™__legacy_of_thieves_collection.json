@@ -1,10 +1,10 @@
 {
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
-  "Rating": 4.81,
+  "Rating": 4.82,
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2022-10-22T21:31:46.9342308+00:00",
+  "LastChanged": "2022-10-23T09:31:46.6721181+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2022-10-22T21:31:46.9342311+00:00",
       "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-23T09:31:46.6721184+00:00",
+      "Rating": 4.82,
       "NumberOfRatings": null
     }
   ],

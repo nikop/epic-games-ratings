@@ -195,7 +195,7 @@
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 195 | [ELEX](games/e/elex.md) | 4.33 | 
-| 196 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
+| 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
@@ -329,7 +329,7 @@
 | 327 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 328 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 329 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 330 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 330 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 331 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 332 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
 | 333 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -602,7 +602,7 @@
 | 600 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 601 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 602 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 603 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
+| 603 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
 | 604 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 605 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 606 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -619,7 +619,7 @@
 | 617 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 618 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 619 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 620 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
+| 620 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
 | 621 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 622 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 623 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -706,7 +706,7 @@
 | 704 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 705 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 706 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 707 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
+| 707 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 708 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 709 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 710 | [UnMetal](games/u/unmetal.md) | 4.53 | 

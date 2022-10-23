@@ -60,13 +60,13 @@
 | 58 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 59 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 60 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
-| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 63 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 65 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 66 | [Quake](games/q/quake.md) | 4.81 | 
-| 67 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
+| 61 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 63 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 64 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 67 | [Quake](games/q/quake.md) | 4.81 | 
 | 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 69 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -81,23 +81,23 @@
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 81 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 82 | [Tails of Iron](games/t/tails_of_iron.md) | 4.80 | 
-| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
-| 89 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
-| 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 85 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 88 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
+| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 90 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
 | 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
 | 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 97 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.78 | 
-| 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 98 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
 | 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -669,12 +669,12 @@
 | 667 | [Ashen](games/a/ashen.md) | 4.25 | 
 | 668 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 669 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 670 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
-| 671 | [Tharsis](games/t/tharsis.md) | 4.24 | 
-| 672 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 673 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
-| 674 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 675 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 670 | [Tharsis](games/t/tharsis.md) | 4.24 | 
+| 671 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 672 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
+| 673 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 674 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 675 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 676 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 677 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 678 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -695,13 +695,13 @@
 | 693 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 694 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 695 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 696 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 697 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 698 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
-| 699 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 700 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
-| 701 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 702 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 696 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 697 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 698 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 699 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 700 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 701 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 702 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 703 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 704 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 705 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
