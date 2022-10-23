@@ -395,21 +395,21 @@
 | 393 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 394 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 395 | [Hue](games/h/hue.md) | 4.55 | 
-| 396 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 397 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 398 | [Road 96](games/r/road_96.md) | 4.55 | 
-| 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 400 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
-| 401 | [Horace](games/h/horace.md) | 4.55 | 
-| 402 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 403 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 404 | [NORCO](games/n/norco.md) | 4.55 | 
-| 405 | [Outlast 2](games/o/outlast_2.md) | 4.55 | 
-| 406 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 407 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 408 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 410 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 396 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 397 | [Road 96](games/r/road_96.md) | 4.55 | 
+| 398 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 399 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
+| 400 | [Horace](games/h/horace.md) | 4.55 | 
+| 401 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 402 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 403 | [NORCO](games/n/norco.md) | 4.55 | 
+| 404 | [Outlast 2](games/o/outlast_2.md) | 4.55 | 
+| 405 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 406 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 407 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 409 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 410 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 411 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 412 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 413 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
@@ -751,13 +751,13 @@
 | 749 | [Patron](games/p/patron.md) | 3.91 | 
 | 750 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 751 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 752 | [Conarium](games/c/conarium.md) | 3.89 | 
-| 753 | [Ironcast](games/i/ironcast.md) | 3.87 | 
-| 754 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
+| 752 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
+| 753 | [Conarium](games/c/conarium.md) | 3.89 | 
+| 754 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 755 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 756 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 757 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 758 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 759 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
+| 759 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
 | 760 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.65 | 
 | 761 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 

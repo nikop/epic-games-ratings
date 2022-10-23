@@ -426,7 +426,7 @@
 | 424 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 425 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 426 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
-| 427 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
+| 427 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
 | 428 | [Othercide](games/o/othercide.md) | 4.39 | 
 | 429 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 430 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -526,7 +526,7 @@
 | 524 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
 | 525 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 526 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 527 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 527 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 528 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 529 | [Sheltered](games/s/sheltered.md) | 4.41 | 
 | 530 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
@@ -650,7 +650,7 @@
 | 648 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 649 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 650 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 651 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 
+| 651 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
 | 652 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 653 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 654 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
