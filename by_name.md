@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -66,7 +66,7 @@
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.30 | 
+| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
 | 68 | [Barony](games/b/barony.md) | 4.69 | 
 | 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
@@ -84,7 +84,7 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
@@ -229,7 +229,7 @@
 | 227 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 228 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 229 | [Fez](games/f/fez.md) | 4.73 | 
-| 230 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.63 | 
+| 230 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 231 | [Figment](games/f/figment.md) | 4.44 | 
 | 232 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 233 | [Firework](games/f/firework.md) | 4.86 | 
@@ -460,7 +460,7 @@
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 459 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 460 | [Pine](games/p/pine.md) | 4.14 | 
-| 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.38 | 
+| 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 462 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 463 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 464 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -618,7 +618,7 @@
 | 616 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 617 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 618 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 619 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 619 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 620 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 621 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
 | 622 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -644,7 +644,7 @@
 | 642 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 644 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 645 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 645 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 646 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 647 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 648 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
