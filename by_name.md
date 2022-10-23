@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.18 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.34 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -346,7 +346,7 @@
 | 344 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 345 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 346 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 347 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 347 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 348 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 349 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 350 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 

@@ -620,18 +620,18 @@
 | 618 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 619 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
 | 620 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 621 | [Gotham Knights](games/g/gotham_knights.md) | 4.34 | 
-| 622 | [House Party](games/h/house_party.md) | 4.33 | 
-| 623 | [ELEX](games/e/elex.md) | 4.33 | 
-| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
-| 625 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 626 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 627 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 628 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
-| 629 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 630 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 631 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 632 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 621 | [House Party](games/h/house_party.md) | 4.33 | 
+| 622 | [ELEX](games/e/elex.md) | 4.33 | 
+| 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
+| 624 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 625 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 626 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 627 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 628 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 629 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 630 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 631 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 632 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
 | 633 | [Lamentum](games/l/lamentum.md) | 4.32 | 
 | 634 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 635 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -686,12 +686,12 @@
 | 684 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 685 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 686 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 687 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 688 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 689 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 690 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
-| 691 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 692 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 687 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 688 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 689 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.20 | 
+| 690 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 691 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 692 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 693 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 694 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 695 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 

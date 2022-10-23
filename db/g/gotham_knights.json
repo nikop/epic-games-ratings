@@ -1,10 +1,10 @@
 {
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
-  "Rating": 4.34,
+  "Rating": 4.32,
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
-  "LastChanged": "2022-10-22T21:00:37.4303215+00:00",
+  "LastChanged": "2022-10-23T01:30:41.2919705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -24,6 +24,11 @@
     {
       "Time": "2022-10-22T21:00:37.4303217+00:00",
       "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-23T01:30:41.2919709+00:00",
+      "Rating": 4.32,
       "NumberOfRatings": null
     }
   ],
