@@ -58,7 +58,7 @@
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 59 | [Aztez](games/a/aztez.md) | 4.49 | 
+| 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.37 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
+| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -585,7 +585,7 @@
 | 583 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 584 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 585 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 586 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.56 | 
+| 586 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 587 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 588 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
 | 589 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.85 | 
