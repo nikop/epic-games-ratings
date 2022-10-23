@@ -63,18 +63,18 @@
 | 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 62 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 63 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 64 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
-| 65 | [Quake](games/q/quake.md) | 4.81 | 
-| 66 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
-| 67 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 69 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 70 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 71 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 72 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 73 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 74 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 64 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 65 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 66 | [Quake](games/q/quake.md) | 4.81 | 
+| 67 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
+| 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 69 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 71 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 72 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 73 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 75 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 77 | [Cozy Grove](games/c/cozy_grove.md) | 4.80 | 
 | 78 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -153,21 +153,21 @@
 | 151 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 152 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 153 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 154 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
-| 155 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
-| 156 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 157 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 159 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
-| 160 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 163 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 164 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 165 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 166 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 167 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
+| 154 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 155 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 156 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
+| 157 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 158 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 160 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 161 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 162 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 163 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 164 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 165 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 166 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 167 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 168 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 169 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 170 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
@@ -208,27 +208,27 @@
 | 206 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 207 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 208 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 209 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 210 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 211 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 212 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 213 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
-| 214 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 215 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 217 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
-| 218 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 219 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 220 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 221 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
-| 222 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 223 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 224 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 226 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 227 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 228 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 229 | [SOMA](games/s/soma.md) | 4.67 | 
+| 209 | [SOMA](games/s/soma.md) | 4.68 | 
+| 210 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 211 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 212 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 213 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 214 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
+| 215 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 216 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 217 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 218 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
+| 219 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 222 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.67 | 
+| 223 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 224 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 225 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 227 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 229 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 231 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
 | 232 | [Eastward](games/e/eastward.md) | 4.67 | 
@@ -694,11 +694,11 @@
 | 692 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 693 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 694 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 695 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
-| 696 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 697 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 698 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
-| 699 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 695 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 696 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 697 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 698 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 699 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 700 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 701 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 702 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -746,9 +746,9 @@
 | 744 | [Warface](games/w/warface.md) | 3.95 | 
 | 745 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 746 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
-| 747 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
-| 748 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 749 | [Patron](games/p/patron.md) | 3.91 | 
+| 747 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 748 | [Patron](games/p/patron.md) | 3.91 | 
+| 749 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 750 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 751 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 752 | [Ironcast](games/i/ironcast.md) | 3.87 | 

@@ -261,7 +261,7 @@
 | 259 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 260 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 261 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
+| 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -269,7 +269,7 @@
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 270 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 270 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 271 | [GRIME](games/g/grime.md) | 4.62 | 
 | 272 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
@@ -419,7 +419,7 @@
 | 417 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 418 | [Observation](games/o/observation.md) | 4.44 | 
 | 419 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 420 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
+| 420 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 421 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 422 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 423 | [Old World](games/o/old_world.md) | 4.63 | 
@@ -545,7 +545,7 @@
 | 543 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 544 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 545 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 546 | [SOMA](games/s/soma.md) | 4.67 | 
+| 546 | [SOMA](games/s/soma.md) | 4.68 | 
 | 547 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 548 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 549 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -644,7 +644,7 @@
 | 642 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 643 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 644 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 645 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
+| 645 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 646 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 647 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 648 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
