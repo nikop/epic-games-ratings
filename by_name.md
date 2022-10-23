@@ -319,7 +319,7 @@
 | 317 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 319 | [Journey](games/j/journey.md) | 4.75 | 
-| 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.56 | 
+| 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 323 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -513,7 +513,7 @@
 | 511 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
 | 512 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 513 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 514 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 514 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 515 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 516 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 517 | [Scorn](games/s/scorn.md) | 4.48 | 
