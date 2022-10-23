@@ -431,20 +431,20 @@
 | 429 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 430 | [Sable](games/s/sable.md) | 4.53 | 
 | 431 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 432 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 433 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 434 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 435 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 436 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 437 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 438 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 439 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 440 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 442 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 443 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 444 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 445 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.52 | 
+| 432 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
+| 433 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 434 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 435 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 437 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 438 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 439 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 440 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 441 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 443 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 444 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 445 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
 | 446 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 447 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 448 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -677,13 +677,13 @@
 | 675 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 676 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 677 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 678 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 679 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 680 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 681 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 682 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 683 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 684 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 678 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 679 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 680 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 681 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 682 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 683 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 684 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 685 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 686 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 687 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
@@ -711,15 +711,15 @@
 | 709 | [Pine](games/p/pine.md) | 4.14 | 
 | 710 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 711 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 712 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 713 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 714 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 715 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
-| 716 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
-| 717 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
-| 718 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 719 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 720 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.11 | 
+| 712 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.14 | 
+| 713 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 714 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 715 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 716 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 717 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 718 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
+| 719 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 720 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 721 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 722 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
