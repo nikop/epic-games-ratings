@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -102,7 +102,7 @@
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
 | 102 | [CARRION](games/c/carrion.md) | 4.64 | 
-| 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.72 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.69 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
@@ -219,7 +219,7 @@
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.38 | 
-| 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.66 | 
+| 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 222 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
 | 223 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.32 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.34 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -331,7 +331,7 @@
 | 329 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 330 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 331 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 332 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 
+| 332 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 333 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 334 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
 | 335 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -739,7 +739,7 @@
 | 737 | [Weird West](games/w/weird_west.md) | 4.41 | 
 | 738 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 739 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
-| 740 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.72 | 
+| 740 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 741 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
 | 742 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 743 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
