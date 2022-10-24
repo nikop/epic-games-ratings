@@ -1,11 +1,11 @@
 {
   "ID": "cb47b6d16fc54e418e11560bee52ad89",
   "Name": "Mars Horizon",
-  "Rating": 4.52,
+  "Rating": 4.48,
   "NumberOfRatings": 23,
   "FirstSeen": "2022-07-22T20:20:11.8890677+00:00",
   "FirstSeenRating": "2022-09-07T14:30:49.2420338+00:00",
-  "LastChanged": "2022-10-19T20:01:10.1771485+00:00",
+  "LastChanged": "2022-10-24T23:31:14.6206593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-07T14:30:49.242034+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2022-10-19T20:01:10.177149+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-24T23:31:14.6206595+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],

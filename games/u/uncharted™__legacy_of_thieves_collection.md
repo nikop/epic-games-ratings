@@ -1,5 +1,5 @@
 # UNCHARTED™: Legacy of Thieves Collection
-Rating: 4.82 (-)  (as of 23.09.2022)  
+Rating: 4.83 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -7,4 +7,4 @@ Rating: 4.82 (-)  (as of 23.09.2022)
 | 2022-10-21 | 4.83 | - |
 | 2022-10-22 | 4.81 | - |
 | 2022-10-23 | 4.83 | - |
-| 2022-10-24 | 4.82 | - |
+| 2022-10-24 | 4.83 | - |
