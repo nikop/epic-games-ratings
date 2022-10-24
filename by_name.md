@@ -54,7 +54,7 @@
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 55 | [Automachef](games/a/automachef.md) | 4.31 | 
+| 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
@@ -214,7 +214,7 @@
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
@@ -338,9 +338,9 @@
 | 336 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 337 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 338 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
-| 339 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 339 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 341 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 341 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 342 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 343 | [Lake](games/l/lake.md) | 4.08 | 
 | 344 | [Lamentum](games/l/lamentum.md) | 4.32 | 
@@ -363,7 +363,7 @@
 | 361 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 362 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 363 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 364 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
+| 364 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 365 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 366 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 367 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -560,7 +560,7 @@
 | 558 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 559 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 560 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 561 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.65 | 
+| 561 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
 | 562 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 563 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 564 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -665,7 +665,7 @@
 | 663 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 664 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 665 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 666 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
+| 666 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 667 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 668 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 669 | [Timberborn](games/t/timberborn.md) | 4.69 | 
@@ -704,7 +704,7 @@
 | 702 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 703 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 704 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
+| 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.20 | 
 | 706 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 707 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 708 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
