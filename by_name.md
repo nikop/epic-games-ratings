@@ -21,7 +21,7 @@
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.26 | 
+| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -91,7 +91,7 @@
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 92 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
@@ -117,7 +117,7 @@
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -151,7 +151,7 @@
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 152 | [Darkwood](games/d/darkwood.md) | 4.57 | 
+| 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.28 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -362,7 +362,7 @@
 | 360 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 361 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 362 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 363 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
+| 363 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 364 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 365 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 366 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -458,7 +458,7 @@
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 459 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 459 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 460 | [Pine](games/p/pine.md) | 4.14 | 
 | 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 462 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
@@ -588,7 +588,7 @@
 | 586 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 587 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 588 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 589 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 589 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
 | 590 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
 | 591 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
 | 592 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
@@ -604,7 +604,7 @@
 | 602 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 603 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 604 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
-| 605 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 605 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 606 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 607 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 608 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -703,7 +703,7 @@
 | 701 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 702 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 703 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
-| 704 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 704 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.20 | 
 | 706 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 707 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
