@@ -611,15 +611,15 @@
 | 609 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 610 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 611 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 612 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 613 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 614 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 615 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 616 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 617 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 618 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 619 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 620 | [ELEX](games/e/elex.md) | 4.34 | 
+| 612 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 613 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 614 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 615 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 616 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 617 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 618 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 619 | [ELEX](games/e/elex.md) | 4.34 | 
+| 620 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 621 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
 | 622 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 623 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
