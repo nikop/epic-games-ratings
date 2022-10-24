@@ -272,19 +272,19 @@
 | 270 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 271 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 272 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 273 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 274 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 275 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 276 | [Old World](games/o/old_world.md) | 4.63 | 
-| 277 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 278 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 279 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 280 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 281 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 282 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 283 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 284 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 285 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 273 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 274 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 275 | [Old World](games/o/old_world.md) | 4.63 | 
+| 276 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 277 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 278 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 279 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 280 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 281 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 282 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 283 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 284 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 285 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 286 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 287 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 288 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
