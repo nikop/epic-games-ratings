@@ -190,21 +190,21 @@
 | 188 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 189 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 190 | [Barony](games/b/barony.md) | 4.69 | 
-| 191 | [Timberborn](games/t/timberborn.md) | 4.69 | 
-| 192 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 193 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 194 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 195 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 196 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 197 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 198 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 199 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 200 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 201 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 202 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 203 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
-| 204 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 205 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 191 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 192 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 195 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 196 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 197 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 198 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 199 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 200 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 201 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 202 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 203 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 204 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 205 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 206 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 207 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 208 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
@@ -513,32 +513,32 @@
 | 511 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 512 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 513 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 514 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 515 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 516 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 517 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
-| 518 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 519 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
-| 520 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 521 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 522 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 523 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 524 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 525 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 526 | [Figment](games/f/figment.md) | 4.44 | 
-| 527 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 528 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 529 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 530 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 531 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 532 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 533 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 534 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 535 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 536 | [Observation](games/o/observation.md) | 4.44 | 
-| 537 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 538 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 539 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 514 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 515 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 516 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 517 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 518 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 519 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 520 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 521 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 522 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 523 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 524 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 525 | [Figment](games/f/figment.md) | 4.44 | 
+| 526 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 527 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 528 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 529 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 530 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 531 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 532 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 533 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 534 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 535 | [Observation](games/o/observation.md) | 4.44 | 
+| 536 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 537 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 538 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 539 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 540 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 541 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 542 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
