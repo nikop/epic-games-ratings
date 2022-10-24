@@ -255,16 +255,16 @@
 | 253 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 254 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 255 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 256 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 257 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 258 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 259 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 260 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 261 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 262 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 263 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 264 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 265 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 257 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 258 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 259 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 260 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 261 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 262 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 263 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 265 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 266 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 267 | [RiME](games/r/rime.md) | 4.64 | 
 | 268 | [Coromon](games/c/coromon.md) | 4.64 | 

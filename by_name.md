@@ -745,7 +745,7 @@
 | 743 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 744 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 745 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 746 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 746 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 747 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 748 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 749 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
