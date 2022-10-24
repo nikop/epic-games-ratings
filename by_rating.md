@@ -84,17 +84,17 @@
 | 82 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
 | 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
-| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 93 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 91 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 92 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -446,21 +446,21 @@
 | 444 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 445 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
 | 446 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 447 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 448 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 449 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 450 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 451 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 453 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 454 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 455 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 456 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 457 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 458 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 459 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 460 | [Scorn](games/s/scorn.md) | 4.51 | 
-| 461 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 447 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 448 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 449 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 450 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 452 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 453 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 454 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 455 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 456 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 457 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 458 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 459 | [Scorn](games/s/scorn.md) | 4.51 | 
+| 460 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 461 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 462 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 463 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 464 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
