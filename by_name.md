@@ -403,7 +403,7 @@
 | 401 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 402 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 403 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 404 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
+| 404 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 405 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 406 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 407 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
@@ -435,7 +435,7 @@
 | 433 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 434 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 
 | 435 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 436 | [Outward](games/o/outward.md) | 4.56 | 
+| 436 | [Outward](games/o/outward.md) | 4.55 | 
 | 437 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 438 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 439 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
@@ -479,7 +479,7 @@
 | 477 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 478 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 479 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 480 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 480 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 481 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 482 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 483 | [Relicta](games/r/relicta.md) | 4.10 | 
@@ -541,7 +541,7 @@
 | 539 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 540 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 541 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 542 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 542 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 543 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 544 | [SMITE](games/s/smite.md) | 4.46 | 
 | 545 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
