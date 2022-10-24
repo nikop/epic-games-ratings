@@ -160,21 +160,21 @@
 | 158 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 159 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 160 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 161 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 162 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 163 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 164 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 165 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 166 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 167 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 168 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 169 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 170 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 171 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 172 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 173 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 174 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 175 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
+| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 162 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 163 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 164 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 165 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 166 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 168 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 171 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 172 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 173 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 174 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 175 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 176 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 177 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 178 | [Slipways](games/s/slipways.md) | 4.70 | 
@@ -291,24 +291,24 @@
 | 289 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 290 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 291 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 292 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 293 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 294 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 295 | [GRIME](games/g/grime.md) | 4.62 | 
-| 296 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 297 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 298 | [Prey](games/p/prey.md) | 4.61 | 
-| 299 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 300 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 301 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 302 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 303 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 304 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 305 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 306 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 307 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 308 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
-| 309 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 292 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 293 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 294 | [GRIME](games/g/grime.md) | 4.62 | 
+| 295 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 296 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 297 | [Prey](games/p/prey.md) | 4.61 | 
+| 298 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 299 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 300 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 302 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 303 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 304 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 305 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 306 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 307 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
+| 308 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 309 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 310 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 311 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 312 | [Control](games/c/control.md) | 4.60 | 
@@ -749,7 +749,7 @@
 | 747 | [Warface](games/w/warface.md) | 3.95 | 
 | 748 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 749 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
-| 750 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 750 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 751 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 752 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 753 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 

@@ -226,7 +226,7 @@
 | 224 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 225 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 226 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 227 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 227 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 228 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 229 | [Fez](games/f/fez.md) | 4.73 | 
 | 230 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
@@ -589,7 +589,7 @@
 | 587 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 588 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 589 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 590 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
+| 590 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 591 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
 | 592 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 593 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
@@ -663,7 +663,7 @@
 | 661 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 662 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 663 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 664 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 664 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 665 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 666 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 667 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 

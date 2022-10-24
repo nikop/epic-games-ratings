@@ -1,10 +1,10 @@
 {
   "ID": "tulip",
   "Name": "Thimbleweed Park",
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 115,
   "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
-  "LastChanged": "2022-10-22T20:01:54.1901276+00:00",
+  "LastChanged": "2022-10-24T19:02:37.7757971+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:09.2884263+00:00",
@@ -235,12 +235,17 @@
       "Time": "2022-10-22T20:01:54.1901279+00:00",
       "Rating": 4.62,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-24T19:02:37.7757974+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 23
+      "Count": 26
     }
   ]
 }
