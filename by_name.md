@@ -72,7 +72,7 @@
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
 | 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -406,7 +406,7 @@
 | 404 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.62 | 
 | 405 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 406 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 407 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 407 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 408 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 409 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 410 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -739,7 +739,7 @@
 | 737 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 738 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 739 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 740 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 740 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 741 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
 | 742 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 743 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 

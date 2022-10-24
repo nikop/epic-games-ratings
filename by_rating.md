@@ -218,21 +218,21 @@
 | 216 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 217 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 218 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 219 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
-| 220 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 221 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 222 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 223 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 224 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 225 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 226 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 231 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
-| 232 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 233 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 219 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
+| 220 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
+| 221 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 222 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 223 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 224 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 225 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 226 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 227 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 229 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 231 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 232 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 233 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 234 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 235 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 236 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -644,11 +644,11 @@
 | 642 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 643 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 644 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
-| 645 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 646 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 647 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 648 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 649 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
+| 645 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
+| 646 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 647 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 648 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 649 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 650 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 651 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 652 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
@@ -720,16 +720,16 @@
 | 718 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 719 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 720 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 721 | [Relicta](games/r/relicta.md) | 4.10 | 
-| 722 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 721 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 722 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 723 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 724 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 725 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 726 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 727 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 728 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 729 | [Lake](games/l/lake.md) | 4.08 | 
-| 730 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 727 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 728 | [Lake](games/l/lake.md) | 4.08 | 
+| 729 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 730 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 731 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
 | 732 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 733 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
