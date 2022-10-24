@@ -672,24 +672,24 @@
 | 670 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 671 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 672 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 673 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 674 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 675 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 676 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 677 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 678 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 679 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 680 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 681 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 682 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 683 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 684 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 685 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 686 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 687 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 688 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 689 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 690 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.20 | 
+| 673 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
+| 674 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 675 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 676 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 677 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 678 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 679 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 680 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 681 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 682 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 683 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 684 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 685 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 686 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 687 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 688 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 689 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 690 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 691 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
 | 692 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 693 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

@@ -704,7 +704,7 @@
 | 702 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 703 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 704 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.20 | 
+| 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 706 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 707 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 708 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
