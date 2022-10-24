@@ -220,19 +220,19 @@
 | 218 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 219 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 222 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 223 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 224 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 226 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 227 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 228 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 229 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 230 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
-| 231 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 232 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 233 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 221 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 222 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 223 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 224 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 225 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 227 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 228 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 229 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 231 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 232 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 233 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 234 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 235 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 236 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -603,13 +603,13 @@
 | 601 | [Backbone](games/b/backbone.md) | 4.37 | 
 | 602 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 603 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 604 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 606 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 607 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 608 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
-| 609 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 610 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 606 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 607 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
+| 608 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 609 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 610 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 611 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 612 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 613 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
@@ -741,9 +741,9 @@
 | 739 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 740 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 741 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
-| 742 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 743 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 744 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 742 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 743 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 744 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 745 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 746 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 747 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 

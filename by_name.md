@@ -35,7 +35,7 @@
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
@@ -290,7 +290,7 @@
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 289 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 290 | [Hob](games/h/hob.md) | 4.58 | 
-| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 292 | [Horace](games/h/horace.md) | 4.55 | 
 | 293 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 294 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -562,7 +562,7 @@
 | 560 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 561 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.65 | 
 | 562 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 563 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 563 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 564 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 565 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 566 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
