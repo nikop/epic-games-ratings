@@ -243,7 +243,7 @@
 | 241 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 242 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 243 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 245 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 246 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 247 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -307,7 +307,7 @@
 | 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 306 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 307 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 308 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 308 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 309 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 310 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 311 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
@@ -554,7 +554,7 @@
 | 552 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 553 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 554 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 555 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 555 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 556 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 557 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 558 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -562,7 +562,7 @@
 | 560 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 561 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
 | 562 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 563 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 563 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 564 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 565 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 566 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 

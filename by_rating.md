@@ -24,20 +24,20 @@
 | 22 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 23 | [Firework](games/f/firework.md) | 4.87 | 
 | 24 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 28 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
-| 29 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 31 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 32 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
-| 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 35 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 36 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 38 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 25 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 26 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 29 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
+| 30 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
+| 31 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 32 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 33 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
+| 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 36 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 37 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 39 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 40 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 41 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
@@ -76,18 +76,18 @@
 | 74 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 77 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 78 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 80 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 82 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 83 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
-| 84 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 77 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 79 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 81 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
+| 82 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
+| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
@@ -602,14 +602,14 @@
 | 600 | [Backbone](games/b/backbone.md) | 4.37 | 
 | 601 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 602 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 603 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 604 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 605 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 606 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 607 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
-| 608 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 609 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 610 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 603 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 606 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 607 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 608 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
+| 609 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 610 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 611 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 612 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 613 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
@@ -678,14 +678,14 @@
 | 676 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 677 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 678 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 679 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 680 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 681 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 682 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 683 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 684 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 685 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 686 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 679 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 680 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 681 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 682 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 683 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 684 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 685 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 686 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 687 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 688 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
 | 689 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
