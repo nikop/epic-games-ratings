@@ -105,26 +105,26 @@
 | 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 105 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 106 | [Northgard](games/n/northgard.md) | 4.76 | 
-| 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 108 | [Haven](games/h/haven.md) | 4.76 | 
-| 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 110 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 116 | [Journey](games/j/journey.md) | 4.75 | 
-| 117 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 119 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
-| 120 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 106 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 107 | [Haven](games/h/haven.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 115 | [Journey](games/j/journey.md) | 4.75 | 
+| 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 118 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
+| 119 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 125 | [Northgard](games/n/northgard.md) | 4.74 | 
 | 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
@@ -257,15 +257,15 @@
 | 255 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 256 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 258 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 259 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 260 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 261 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 262 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 263 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 266 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 258 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
+| 259 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 260 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 261 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 262 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 267 | [RiME](games/r/rime.md) | 4.64 | 
 | 268 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 269 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
@@ -672,24 +672,24 @@
 | 670 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 671 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 672 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 673 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 674 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 675 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 676 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 677 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 678 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 679 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 680 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 681 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 682 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 683 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 684 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 685 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 686 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 687 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
-| 688 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 689 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 690 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.20 | 
+| 673 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
+| 674 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 675 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 676 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 677 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 678 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 679 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 680 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 681 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 682 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 683 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 684 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 685 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 686 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 687 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 688 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 689 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 690 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 691 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
 | 692 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 693 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

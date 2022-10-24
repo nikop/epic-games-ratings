@@ -171,7 +171,7 @@
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 171 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
 | 173 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 174 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 175 | [Diabotical](games/d/diabotical.md) | 4.79 | 
@@ -414,7 +414,7 @@
 | 412 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 413 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 414 | [NORCO](games/n/norco.md) | 4.55 | 
-| 415 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 415 | [Northgard](games/n/northgard.md) | 4.74 | 
 | 416 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 417 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 418 | [Obduction](games/o/obduction.md) | 4.11 | 
@@ -704,7 +704,7 @@
 | 702 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 703 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 704 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.20 | 
+| 705 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 706 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 707 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 708 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
