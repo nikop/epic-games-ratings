@@ -408,7 +408,7 @@
 | 406 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 407 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 408 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 409 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
+| 409 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 410 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 411 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 412 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -450,7 +450,7 @@
 | 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 449 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 450 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 451 | [Patron](games/p/patron.md) | 3.91 | 
+| 451 | [Patron](games/p/patron.md) | 3.87 | 
 | 452 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 453 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
@@ -543,7 +543,7 @@
 | 541 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 542 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 543 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 544 | [SMITE](games/s/smite.md) | 4.46 | 
+| 544 | [SMITE](games/s/smite.md) | 4.47 | 
 | 545 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 546 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 547 | [Solitairica](games/s/solitairica.md) | 4.49 | 

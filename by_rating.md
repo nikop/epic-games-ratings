@@ -360,25 +360,25 @@
 | 358 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 359 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 360 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.58 | 
-| 361 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.58 | 
-| 362 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 363 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 364 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 365 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 366 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 367 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 368 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 369 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 371 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 373 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 374 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 376 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 377 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
-| 378 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 379 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
+| 361 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 362 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 363 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 365 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 366 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 367 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 368 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 369 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 370 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 372 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 373 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 375 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 376 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.57 | 
+| 377 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 378 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
+| 379 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 380 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
 | 381 | [Darkwood](games/d/darkwood.md) | 4.57 | 
 | 382 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
@@ -494,14 +494,14 @@
 | 492 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
 | 493 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 494 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 495 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 496 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 497 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 498 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 499 | [CryoFall](games/c/cryofall.md) | 4.47 | 
-| 500 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 501 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 502 | [SMITE](games/s/smite.md) | 4.46 | 
+| 495 | [SMITE](games/s/smite.md) | 4.47 | 
+| 496 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 497 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 498 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 499 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 500 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 501 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 502 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 503 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 504 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 505 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
@@ -750,12 +750,12 @@
 | 748 | [Warface](games/w/warface.md) | 3.95 | 
 | 749 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 750 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 751 | [Patron](games/p/patron.md) | 3.91 | 
-| 752 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
-| 753 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 754 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
-| 755 | [Conarium](games/c/conarium.md) | 3.89 | 
-| 756 | [Ironcast](games/i/ironcast.md) | 3.87 | 
+| 751 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
+| 752 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 753 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
+| 754 | [Conarium](games/c/conarium.md) | 3.89 | 
+| 755 | [Ironcast](games/i/ironcast.md) | 3.87 | 
+| 756 | [Patron](games/p/patron.md) | 3.87 | 
 | 757 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 758 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 759 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
