@@ -33,7 +33,7 @@
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 34 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -708,7 +708,7 @@
 | 706 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 707 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 708 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 709 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 709 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 710 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 711 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 712 | [UnMetal](games/u/unmetal.md) | 4.54 | 

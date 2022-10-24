@@ -53,15 +53,15 @@
 | 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
-| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 60 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 61 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 62 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 57 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 58 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 59 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 60 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 61 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 62 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 63 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 64 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -217,21 +217,21 @@
 | 215 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 216 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 217 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 218 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 219 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
-| 220 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
-| 221 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 222 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 223 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 224 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 225 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 226 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 227 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 229 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 231 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 232 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 218 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
+| 219 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
+| 220 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 221 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 222 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 223 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 224 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 225 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 226 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 231 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 232 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 233 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 234 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 235 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
