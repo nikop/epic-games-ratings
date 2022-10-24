@@ -500,16 +500,16 @@
 | 498 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 499 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 500 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 501 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.47 | 
-| 502 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 503 | [SMITE](games/s/smite.md) | 4.46 | 
-| 504 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 505 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 506 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
-| 507 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 509 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 510 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
+| 501 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 502 | [SMITE](games/s/smite.md) | 4.46 | 
+| 503 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 504 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 505 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 506 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 508 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 509 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
+| 510 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.46 | 
 | 511 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 512 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 513 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -563,25 +563,25 @@
 | 561 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 562 | [Torchlight](games/t/torchlight.md) | 4.41 | 
 | 563 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 564 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 565 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 566 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 567 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 568 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 569 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 570 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 571 | [Encased](games/e/encased.md) | 4.40 | 
-| 572 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 573 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
-| 574 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 575 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 576 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 577 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 578 | [Core](games/c/core.md) | 4.39 | 
-| 579 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 580 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
-| 581 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
-| 582 | [Othercide](games/o/othercide.md) | 4.39 | 
+| 564 | [Othercide](games/o/othercide.md) | 4.41 | 
+| 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 566 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 568 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 569 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 570 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 571 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 572 | [Encased](games/e/encased.md) | 4.40 | 
+| 573 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 574 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
+| 575 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 576 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 577 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 578 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 579 | [Core](games/c/core.md) | 4.39 | 
+| 580 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 581 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
+| 582 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 583 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 584 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 585 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
