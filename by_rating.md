@@ -122,19 +122,19 @@
 | 120 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 129 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 131 | [Revita](games/r/revita.md) | 4.74 | 
-| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 132 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 133 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 134 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 137 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -457,31 +457,31 @@
 | 455 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 456 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 457 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 458 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 
-| 459 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 460 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 461 | [Scorn](games/s/scorn.md) | 4.51 | 
-| 462 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 463 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 464 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 465 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 466 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 467 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 469 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 470 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 471 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 472 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 473 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 474 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 475 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 476 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 477 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 478 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 479 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 480 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 481 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 482 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 458 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 459 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 460 | [Scorn](games/s/scorn.md) | 4.51 | 
+| 461 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 462 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 463 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 464 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 465 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 466 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 468 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 469 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 470 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 471 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 472 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 473 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 474 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 475 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 476 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 477 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 478 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 479 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 480 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 481 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 482 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 483 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 484 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 485 | [Riverbond](games/r/riverbond.md) | 4.48 | 
@@ -528,10 +528,10 @@
 | 526 | [Figment](games/f/figment.md) | 4.44 | 
 | 527 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 528 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 529 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 530 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 531 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 532 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 529 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 530 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 531 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 532 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 533 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 534 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 535 | [Observation](games/o/observation.md) | 4.44 | 
@@ -540,8 +540,8 @@
 | 538 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 539 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
-| 541 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 542 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 541 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 542 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 543 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 544 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 545 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 

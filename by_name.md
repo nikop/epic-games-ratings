@@ -126,7 +126,7 @@
 | 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -238,7 +238,7 @@
 | 236 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 237 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 238 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 239 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 239 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 240 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 241 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 242 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -485,7 +485,7 @@
 | 483 | [Relicta](games/r/relicta.md) | 4.10 | 
 | 484 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 485 | [Revita](games/r/revita.md) | 4.74 | 
-| 486 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 486 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 487 | [RiME](games/r/rime.md) | 4.64 | 
 | 488 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 489 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -558,7 +558,7 @@
 | 556 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 557 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 558 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 559 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 
+| 559 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 560 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 561 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.65 | 
 | 562 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
