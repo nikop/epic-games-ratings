@@ -87,14 +87,14 @@
 | 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
-| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 90 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
-| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
-| 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 88 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 89 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
+| 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
+| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 93 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -613,23 +613,23 @@
 | 611 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 612 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 613 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 614 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 615 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 616 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 617 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 618 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 619 | [ELEX](games/e/elex.md) | 4.34 | 
-| 620 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 621 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 622 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 623 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 624 | [House Party](games/h/house_party.md) | 4.33 | 
-| 625 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 626 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 627 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 628 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
-| 629 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 630 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 614 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
+| 615 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 616 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 617 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 618 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 619 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 620 | [ELEX](games/e/elex.md) | 4.34 | 
+| 621 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 622 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 623 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 624 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 625 | [House Party](games/h/house_party.md) | 4.33 | 
+| 626 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 627 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 628 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 629 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
+| 630 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 631 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 632 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 633 | [Lamentum](games/l/lamentum.md) | 4.32 | 

@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -566,7 +566,7 @@
 | 564 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 565 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 566 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 567 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
+| 567 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
 | 568 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 569 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 570 | [Starsand](games/s/starsand.md) | 4.33 | 
