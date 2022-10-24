@@ -39,7 +39,7 @@
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.25 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -102,7 +102,7 @@
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
 | 102 | [CARRION](games/c/carrion.md) | 4.66 | 
-| 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
@@ -149,7 +149,7 @@
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 

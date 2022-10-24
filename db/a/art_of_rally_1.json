@@ -1,10 +1,10 @@
 {
   "ID": "4751c4f6a96547209a33831d847d2810",
   "Name": "Art of Rally",
-  "Rating": 4.86,
+  "Rating": 4.85,
   "NumberOfRatings": 56,
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
-  "LastChanged": "2022-10-11T07:30:53.2284809+00:00",
+  "LastChanged": "2022-10-24T14:01:20.0952+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:53.7171964+00:00",
@@ -129,6 +129,11 @@
     {
       "Time": "2022-10-11T07:30:53.2284811+00:00",
       "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-24T14:01:20.0952001+00:00",
+      "Rating": 4.85,
       "NumberOfRatings": null
     }
   ],

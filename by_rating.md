@@ -28,19 +28,19 @@
 | 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 28 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
-| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 30 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 31 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 32 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 33 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
-| 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 36 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 37 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 39 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 40 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 41 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 29 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
+| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 31 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 32 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
+| 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 35 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 36 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 38 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 39 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 40 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 41 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 42 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 44 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
@@ -481,13 +481,13 @@
 | 479 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 480 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 481 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 482 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 483 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 484 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 485 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
-| 486 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 482 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 483 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 484 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 485 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 486 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 487 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 488 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 489 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
 | 491 | [CryoFall](games/c/cryofall.md) | 4.48 | 
@@ -619,13 +619,13 @@
 | 617 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 618 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 619 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 620 | [ELEX](games/e/elex.md) | 4.34 | 
-| 621 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 622 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 623 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 624 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 625 | [House Party](games/h/house_party.md) | 4.33 | 
-| 626 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 620 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 621 | [ELEX](games/e/elex.md) | 4.34 | 
+| 622 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 623 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 624 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 625 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 626 | [House Party](games/h/house_party.md) | 4.33 | 
 | 627 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 628 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 629 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
