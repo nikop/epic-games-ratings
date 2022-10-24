@@ -339,7 +339,7 @@
 | 337 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 338 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 339 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 341 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 342 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 343 | [Lake](games/l/lake.md) | 4.08 | 
@@ -724,7 +724,7 @@
 | 722 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 723 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 724 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 725 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 725 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 726 | [Warface](games/w/warface.md) | 3.95 | 
 | 727 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 728 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 

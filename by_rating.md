@@ -436,16 +436,16 @@
 | 434 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 435 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 437 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 438 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 439 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 440 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 441 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 443 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 444 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 445 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
-| 446 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 437 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 438 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 439 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 440 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 442 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 443 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 444 | [Mars Horizon](games/m/mars_horizon.md) | 4.52 | 
+| 445 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 446 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 447 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 448 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 449 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -598,15 +598,15 @@
 | 596 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 597 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 598 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 599 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
-| 600 | [Backbone](games/b/backbone.md) | 4.37 | 
-| 601 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 602 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 603 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 604 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 605 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 606 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 607 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 599 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 600 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
+| 601 | [Backbone](games/b/backbone.md) | 4.37 | 
+| 602 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 603 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 604 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 605 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 606 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 607 | [Far Cry](games/f/far_cry.md) | 4.36 | 
 | 608 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
 | 609 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 610 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
