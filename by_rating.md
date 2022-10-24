@@ -310,27 +310,27 @@
 | 308 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
 | 309 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 310 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 311 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
-| 312 | [Control](games/c/control.md) | 4.60 | 
-| 313 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 314 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 315 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 316 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 317 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 318 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 319 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 320 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 321 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 322 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
-| 323 | [20XX](games/2/20xx.md) | 4.60 | 
-| 324 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 326 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 327 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 328 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 329 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 330 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 331 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 311 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
+| 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 313 | [Control](games/c/control.md) | 4.60 | 
+| 314 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 315 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 316 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 317 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 318 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 319 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 320 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 321 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 322 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 323 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 324 | [20XX](games/2/20xx.md) | 4.60 | 
+| 325 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 327 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 328 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 329 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 330 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 331 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 332 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 333 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
@@ -644,11 +644,11 @@
 | 642 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 643 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 644 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
-| 645 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
-| 646 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 647 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 648 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 649 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 645 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 646 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 647 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 648 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 649 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
 | 650 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 651 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 652 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 

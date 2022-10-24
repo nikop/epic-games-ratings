@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -592,7 +592,7 @@
 | 590 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 
 | 591 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
 | 592 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 593 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 593 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 594 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 595 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 596 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
