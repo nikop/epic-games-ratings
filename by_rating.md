@@ -82,14 +82,14 @@
 | 80 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 82 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 83 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
-| 84 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
-| 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 90 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
 | 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
 | 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -728,9 +728,9 @@
 | 726 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 727 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 728 | [Lake](games/l/lake.md) | 4.08 | 
-| 729 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 730 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
-| 731 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
+| 729 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 730 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
+| 731 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 732 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 733 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 734 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
@@ -750,7 +750,7 @@
 | 748 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 749 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 750 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 751 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
+| 751 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 752 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 753 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
 | 754 | [Conarium](games/c/conarium.md) | 3.89 | 

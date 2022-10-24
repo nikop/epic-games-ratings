@@ -259,9 +259,9 @@
 | 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 258 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 259 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 260 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 260 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 261 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
+| 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -620,7 +620,7 @@
 | 618 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 619 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 620 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 621 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
+| 621 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
 | 622 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 623 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 624 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
