@@ -189,7 +189,7 @@
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
@@ -251,7 +251,7 @@
 | 249 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 250 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 251 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.46 | 
+| 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.47 | 
 | 253 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -543,7 +543,7 @@
 | 541 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 542 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 543 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 544 | [SMITE](games/s/smite.md) | 4.47 | 
+| 544 | [SMITE](games/s/smite.md) | 4.46 | 
 | 545 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 546 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 547 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -666,7 +666,7 @@
 | 664 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 665 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 666 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
-| 667 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 667 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 668 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 669 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 670 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
