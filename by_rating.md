@@ -98,28 +98,28 @@
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 99 | [Tails of Iron](games/t/tails_of_iron.md) | 4.77 | 
-| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 102 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 105 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 106 | [Northgard](games/n/northgard.md) | 4.76 | 
-| 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 108 | [Haven](games/h/haven.md) | 4.76 | 
-| 109 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 110 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 115 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
-| 116 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 117 | [Journey](games/j/journey.md) | 4.75 | 
-| 118 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 119 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 120 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
+| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 104 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 105 | [Northgard](games/n/northgard.md) | 4.76 | 
+| 106 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 107 | [Haven](games/h/haven.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 116 | [Journey](games/j/journey.md) | 4.75 | 
+| 117 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 119 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
+| 120 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -417,21 +417,21 @@
 | 415 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
 | 416 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 417 | [UnMetal](games/u/unmetal.md) | 4.54 | 
-| 418 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 419 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 420 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 421 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 422 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 423 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 424 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 426 | [Minit](games/m/minit.md) | 4.53 | 
-| 427 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 428 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 429 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 430 | [Sable](games/s/sable.md) | 4.53 | 
-| 431 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 432 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
+| 418 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
+| 419 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 420 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 421 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 422 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 423 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 424 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 427 | [Minit](games/m/minit.md) | 4.53 | 
+| 428 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 429 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 430 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 431 | [Sable](games/s/sable.md) | 4.53 | 
+| 432 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 433 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 434 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 435 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
