@@ -270,20 +270,20 @@
 | 268 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 269 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 270 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 271 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 272 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 273 | [Old World](games/o/old_world.md) | 4.63 | 
-| 274 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 275 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 276 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 277 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 278 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 279 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 280 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 281 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 
-| 282 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 283 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 284 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 271 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 272 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 273 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 274 | [Old World](games/o/old_world.md) | 4.63 | 
+| 275 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 276 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 277 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 278 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 279 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 280 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 281 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 282 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 
+| 283 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 284 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 285 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 286 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 287 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -547,15 +547,15 @@
 | 545 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 546 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 547 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 548 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 549 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 550 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 551 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 552 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 553 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 554 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 555 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 556 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 548 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 549 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 551 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 552 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 553 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 554 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 555 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 556 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 558 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 

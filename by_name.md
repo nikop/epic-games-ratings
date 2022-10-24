@@ -320,7 +320,7 @@
 | 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 319 | [Journey](games/j/journey.md) | 4.75 | 
 | 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 323 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 324 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
@@ -529,7 +529,7 @@
 | 527 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 528 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 529 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
-| 530 | [Sheltered](games/s/sheltered.md) | 4.41 | 
+| 530 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 531 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
 | 532 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 533 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
