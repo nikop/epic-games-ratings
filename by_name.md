@@ -134,7 +134,7 @@
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 135 | [CryoFall](games/c/cryofall.md) | 4.46 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -482,7 +482,7 @@
 | 480 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 481 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 482 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 483 | [Relicta](games/r/relicta.md) | 4.10 | 
+| 483 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 484 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 485 | [Revita](games/r/revita.md) | 4.74 | 
 | 486 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
@@ -508,7 +508,7 @@
 | 506 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 507 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 508 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 509 | [Sable](games/s/sable.md) | 4.53 | 
+| 509 | [Sable](games/s/sable.md) | 4.54 | 
 | 510 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 511 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 512 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
@@ -632,7 +632,7 @@
 | 630 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 631 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
 | 632 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
 | 634 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 635 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 636 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
@@ -679,7 +679,7 @@
 | 677 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 678 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 679 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 680 | [Torchlight](games/t/torchlight.md) | 4.41 | 
+| 680 | [Torchlight](games/t/torchlight.md) | 4.39 | 
 | 681 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 682 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 683 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
