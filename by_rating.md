@@ -550,16 +550,16 @@
 | 548 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 549 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 551 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 552 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 553 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 554 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 555 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 556 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 558 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 551 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 552 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 553 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 554 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 555 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 557 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 558 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 559 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 560 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 561 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 562 | [Torchlight](games/t/torchlight.md) | 4.41 | 
 | 563 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
@@ -712,11 +712,11 @@
 | 710 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 711 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 712 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.14 | 
-| 713 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 714 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 715 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 716 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
-| 717 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.12 | 
+| 713 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 714 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 715 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 716 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 717 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 718 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 719 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 720 | [Obduction](games/o/obduction.md) | 4.11 | 
