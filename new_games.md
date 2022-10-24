@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 2 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
 | 3 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
 | 4 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
@@ -20,7 +20,7 @@
 | 18 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 19 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 20 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
-| 21 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 21 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 22 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 23 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 24 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 

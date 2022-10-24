@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -455,14 +455,14 @@
 | 453 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 455 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
-| 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 459 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 460 | [Pine](games/p/pine.md) | 4.14 | 
 | 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 462 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 463 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 463 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 464 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 465 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 466 | [Prey](games/p/prey.md) | 4.61 | 

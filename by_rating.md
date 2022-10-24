@@ -384,18 +384,18 @@
 | 382 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 383 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 384 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 385 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 386 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 387 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 388 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 389 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 390 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 391 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 392 | [Road 96](games/r/road_96.md) | 4.56 | 
-| 393 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 394 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 395 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 396 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 385 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 386 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 387 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 388 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 390 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 391 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 392 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 393 | [Road 96](games/r/road_96.md) | 4.56 | 
+| 394 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 395 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 396 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 397 | [Hue](games/h/hue.md) | 4.55 | 
 | 398 | [Outward](games/o/outward.md) | 4.55 | 
 | 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -663,14 +663,14 @@
 | 661 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 662 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 663 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 664 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 665 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 666 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 667 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 668 | [Ashen](games/a/ashen.md) | 4.25 | 
-| 669 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
-| 670 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 671 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 664 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 665 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 666 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 667 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 668 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 669 | [Ashen](games/a/ashen.md) | 4.25 | 
+| 670 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 671 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 672 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 673 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 674 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -757,8 +757,8 @@
 | 755 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 756 | [Patron](games/p/patron.md) | 3.87 | 
 | 757 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 758 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
-| 759 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 758 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 759 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 760 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 761 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
 | 762 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
