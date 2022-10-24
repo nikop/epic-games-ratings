@@ -117,7 +117,7 @@
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -232,7 +232,7 @@
 | 230 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 231 | [Figment](games/f/figment.md) | 4.44 | 
 | 232 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 233 | [Firework](games/f/firework.md) | 4.86 | 
+| 233 | [Firework](games/f/firework.md) | 4.87 | 
 | 234 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 235 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 236 | [Flatout](games/f/flatout.md) | 4.15 | 
@@ -458,7 +458,7 @@
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 459 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 459 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 460 | [Pine](games/p/pine.md) | 4.14 | 
 | 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 462 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
@@ -690,7 +690,7 @@
 | 688 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 689 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 690 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 691 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
+| 691 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 692 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 693 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 694 | [Train Valley](games/t/train_valley.md) | 4.41 | 

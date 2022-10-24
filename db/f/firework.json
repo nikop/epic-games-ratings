@@ -1,10 +1,10 @@
 {
   "ID": "a8b6c2950faf4656afaf8840bab559db",
   "Name": "Firework",
-  "Rating": 4.86,
+  "Rating": 4.87,
   "FirstSeen": "2022-07-22T20:26:13.2669751+00:00",
   "FirstSeenRating": "2022-09-28T03:32:11.0204001+00:00",
-  "LastChanged": "2022-10-16T07:03:25.0874243+00:00",
+  "LastChanged": "2022-10-24T08:32:19.2172561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-28T03:32:11.0204007+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-10-16T07:03:25.0874247+00:00",
       "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-24T08:32:19.2172563+00:00",
+      "Rating": 4.87,
       "NumberOfRatings": null
     }
   ],

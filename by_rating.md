@@ -22,17 +22,17 @@
 | 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 21 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
 | 22 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 23 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 27 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
-| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 29 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 31 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 32 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
-| 33 | [Firework](games/f/firework.md) | 4.86 | 
+| 23 | [Firework](games/f/firework.md) | 4.87 | 
+| 24 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 28 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
+| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 30 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
+| 31 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 32 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 33 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
 | 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 36 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
@@ -383,18 +383,18 @@
 | 381 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.57 | 
 | 382 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 383 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 384 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 385 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 386 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 388 | [Outward](games/o/outward.md) | 4.56 | 
-| 389 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 390 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 391 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 392 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 393 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 394 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 395 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 384 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 385 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 386 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 389 | [Outward](games/o/outward.md) | 4.56 | 
+| 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 391 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 392 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 393 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 394 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 395 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 396 | [Hue](games/h/hue.md) | 4.55 | 
 | 397 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 398 | [Road 96](games/r/road_96.md) | 4.55 | 
@@ -739,16 +739,16 @@
 | 737 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 738 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 739 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 740 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 741 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 742 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
-| 743 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 740 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 741 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
+| 742 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 743 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 744 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 745 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 746 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 747 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 
-| 748 | [Warface](games/w/warface.md) | 3.95 | 
-| 749 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 747 | [Warface](games/w/warface.md) | 3.95 | 
+| 748 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 749 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 750 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 751 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 752 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
