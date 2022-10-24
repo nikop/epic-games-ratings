@@ -179,7 +179,7 @@
 | 177 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -275,7 +275,7 @@
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 274 | [Hades](games/h/hades.md) | 4.92 | 
 | 275 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 276 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 276 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 277 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 279 | [Haven](games/h/haven.md) | 4.76 | 
@@ -495,7 +495,7 @@
 | 493 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 494 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 495 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 496 | [Road 96](games/r/road_96.md) | 4.55 | 
+| 496 | [Road 96](games/r/road_96.md) | 4.56 | 
 | 497 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 498 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 499 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
@@ -620,7 +620,7 @@
 | 618 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 619 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 620 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 621 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.79 | 
+| 621 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
 | 622 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 623 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 624 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -635,7 +635,7 @@
 | 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 634 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 635 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 636 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 636 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 637 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 638 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 639 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
@@ -650,7 +650,7 @@
 | 648 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 649 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 650 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 651 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 651 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.58 | 
 | 652 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
 | 653 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 654 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
