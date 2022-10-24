@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.20 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -128,7 +128,7 @@
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 129 | [Crashlands](games/c/crashlands.md) | 4.65 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
@@ -356,7 +356,7 @@
 | 354 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 355 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 356 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 357 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 357 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 358 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 359 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
 | 360 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
@@ -433,7 +433,7 @@
 | 431 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 432 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 433 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 434 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 
+| 434 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 
 | 435 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 436 | [Outward](games/o/outward.md) | 4.55 | 
 | 437 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -457,7 +457,7 @@
 | 455 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 459 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 460 | [Pine](games/p/pine.md) | 4.14 | 
 | 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
@@ -485,7 +485,7 @@
 | 483 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 484 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 485 | [Revita](games/r/revita.md) | 4.74 | 
-| 486 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 486 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 487 | [RiME](games/r/rime.md) | 4.64 | 
 | 488 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 489 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -538,7 +538,7 @@
 | 536 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 537 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 538 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 539 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 539 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 540 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 541 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 542 | [Slipways](games/s/slipways.md) | 4.70 | 
