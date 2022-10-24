@@ -310,7 +310,7 @@
 | 308 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 309 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 310 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 311 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 311 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 312 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 313 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 314 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
