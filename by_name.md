@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -382,7 +382,7 @@
 | 380 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 381 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 382 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 383 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
+| 383 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 384 | [Minit](games/m/minit.md) | 4.53 | 
 | 385 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 386 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -494,7 +494,7 @@
 | 492 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 493 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 494 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 495 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 495 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 496 | [Road 96](games/r/road_96.md) | 4.55 | 
 | 497 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 498 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 

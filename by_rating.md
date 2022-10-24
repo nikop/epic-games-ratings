@@ -479,13 +479,13 @@
 | 477 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 478 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 479 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 480 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 481 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 482 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 483 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 484 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 485 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 486 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 480 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 481 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 482 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 483 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 484 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 485 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 486 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 489 | [Death Coming](games/d/death_coming.md) | 4.48 | 
@@ -571,16 +571,16 @@
 | 569 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 570 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 571 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 572 | [Encased](games/e/encased.md) | 4.40 | 
-| 573 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 574 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
-| 575 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 576 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 577 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 578 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 579 | [Core](games/c/core.md) | 4.39 | 
-| 580 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 581 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.39 | 
+| 572 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
+| 573 | [Encased](games/e/encased.md) | 4.40 | 
+| 574 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 575 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
+| 576 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 577 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 578 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 579 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 580 | [Core](games/c/core.md) | 4.39 | 
+| 581 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 582 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 583 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 584 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
@@ -648,19 +648,19 @@
 | 646 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 647 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 648 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 649 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
-| 650 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 651 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 652 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 653 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
-| 654 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 655 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
-| 656 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 657 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 658 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 659 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 660 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 661 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 649 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 650 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 651 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 652 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 653 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 654 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 655 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 656 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 657 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 658 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 659 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 660 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 661 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 662 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 663 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 664 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
