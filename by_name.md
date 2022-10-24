@@ -568,7 +568,7 @@
 | 566 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 567 | [Star Renegades](games/s/star_renegades.md) | 4.33 | 
 | 568 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 569 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 569 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 570 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 571 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 572 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
@@ -740,7 +740,7 @@
 | 738 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 739 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 740 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 741 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 741 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 742 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 743 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 744 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 

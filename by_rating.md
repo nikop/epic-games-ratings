@@ -126,22 +126,22 @@
 | 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 130 | [Revita](games/r/revita.md) | 4.74 | 
-| 131 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 132 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 133 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 134 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 135 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 136 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 137 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 138 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 139 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 140 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 141 | [Fez](games/f/fez.md) | 4.73 | 
-| 142 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 
+| 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 129 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 131 | [Revita](games/r/revita.md) | 4.74 | 
+| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 137 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 139 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 140 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 141 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 142 | [Fez](games/f/fez.md) | 4.73 | 
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 144 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 145 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
@@ -521,22 +521,22 @@
 | 519 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 520 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 521 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 522 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 523 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 524 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 525 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 526 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 527 | [Figment](games/f/figment.md) | 4.44 | 
-| 528 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 529 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 530 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 531 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 532 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 533 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 534 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 535 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 536 | [Observation](games/o/observation.md) | 4.44 | 
-| 537 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 522 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 523 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 524 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 525 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 526 | [Figment](games/f/figment.md) | 4.44 | 
+| 527 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 528 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 529 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 530 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 531 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 532 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 533 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 534 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 535 | [Observation](games/o/observation.md) | 4.44 | 
+| 536 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 537 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 538 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 539 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
