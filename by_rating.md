@@ -456,16 +456,16 @@
 | 454 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 455 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 456 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 457 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 
-| 458 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 459 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 460 | [Scorn](games/s/scorn.md) | 4.51 | 
-| 461 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 462 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 463 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 464 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 465 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 466 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 457 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 458 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 
+| 459 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 460 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 461 | [Scorn](games/s/scorn.md) | 4.51 | 
+| 462 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 463 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 464 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 465 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 466 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 467 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 469 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
@@ -490,14 +490,14 @@
 | 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 489 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
-| 491 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
-| 492 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 493 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 494 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 495 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 496 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 497 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 498 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 491 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 492 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
+| 493 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 494 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 495 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 496 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 497 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 498 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 499 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 500 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 501 | [SMITE](games/s/smite.md) | 4.46 | 
