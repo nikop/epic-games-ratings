@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 46 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 47 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
@@ -160,7 +160,7 @@
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 161 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -436,7 +436,7 @@
 | 434 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 
 | 435 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 436 | [Outward](games/o/outward.md) | 4.55 | 
-| 437 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 437 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 438 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 439 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 440 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
@@ -619,7 +619,7 @@
 | 617 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 618 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 619 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 620 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 620 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 621 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
 | 622 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 623 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
@@ -668,7 +668,7 @@
 | 666 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 
 | 667 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 668 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 669 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 669 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 670 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 671 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 672 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
@@ -724,7 +724,7 @@
 | 722 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 723 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 724 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 725 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 725 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
 | 726 | [Warface](games/w/warface.md) | 3.95 | 
 | 727 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 728 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
