@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
+| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
 | 2 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
 | 3 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.53 | 
 | 4 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
@@ -15,7 +15,7 @@
 | 13 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 
 | 14 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 15 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.80 | 
-| 16 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 16 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 17 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 18 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 19 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 

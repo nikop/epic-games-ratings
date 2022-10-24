@@ -148,27 +148,27 @@
 | 146 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 147 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 149 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 150 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 151 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 152 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 153 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 154 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 155 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 156 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 157 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 158 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 163 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
-| 164 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 165 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 166 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 167 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 168 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 149 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 150 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 151 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 152 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 153 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 154 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 155 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 156 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 157 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 159 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 160 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 161 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 162 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.71 | 
+| 163 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 164 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 169 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 171 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 172 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -645,11 +645,11 @@
 | 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 644 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 645 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
-| 646 | [Gotham Knights](games/g/gotham_knights.md) | 4.30 | 
-| 647 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 648 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 649 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 650 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 646 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 647 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 648 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 649 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 650 | [Gotham Knights](games/g/gotham_knights.md) | 4.29 | 
 | 651 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 652 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 653 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
