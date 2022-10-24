@@ -290,7 +290,7 @@
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 289 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 290 | [Hob](games/h/hob.md) | 4.58 | 
-| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 291 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 292 | [Horace](games/h/horace.md) | 4.55 | 
 | 293 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 294 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -576,7 +576,7 @@
 | 574 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 575 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 576 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 577 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 577 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 578 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.86 | 
 | 579 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 580 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
