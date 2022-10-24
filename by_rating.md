@@ -56,15 +56,15 @@
 | 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 57 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 58 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 59 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 60 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 61 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
-| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 63 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 64 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 59 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 60 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 61 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 62 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 63 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 64 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 65 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 67 | [Quake](games/q/quake.md) | 4.81 | 
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -732,9 +732,9 @@
 | 730 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 731 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
 | 732 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 733 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 734 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 735 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 733 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
+| 734 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 735 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 736 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 737 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 738 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
