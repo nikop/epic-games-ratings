@@ -339,7 +339,7 @@
 | 337 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 338 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 339 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 341 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 342 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 343 | [Lake](games/l/lake.md) | 4.08 | 
@@ -397,7 +397,7 @@
 | 395 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 396 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 397 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 398 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 398 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 399 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 400 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 401 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -477,7 +477,7 @@
 | 475 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 476 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
 | 477 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 478 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 478 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 479 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 480 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 481 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -675,9 +675,9 @@
 | 673 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 674 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 675 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
-| 676 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 676 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 677 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 678 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 678 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 679 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 680 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 681 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
