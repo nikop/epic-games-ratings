@@ -357,7 +357,7 @@
 | 355 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 356 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 357 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
-| 358 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 358 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 359 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
 | 360 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 361 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -486,7 +486,7 @@
 | 484 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 485 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 486 | [Revita](games/r/revita.md) | 4.74 | 
-| 487 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 487 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 488 | [RiME](games/r/rime.md) | 4.64 | 
 | 489 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 490 | [RimWorld](games/r/rimworld.md) | 4.89 | 
