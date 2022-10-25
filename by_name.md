@@ -179,7 +179,7 @@
 | 177 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
@@ -254,12 +254,12 @@
 | 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
 | 253 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
-| 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 256 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 258 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 259 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 260 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 260 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 261 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 

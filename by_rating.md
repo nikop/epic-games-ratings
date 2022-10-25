@@ -98,19 +98,19 @@
 | 96 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 102 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 103 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 104 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 105 | [Haven](games/h/haven.md) | 4.76 | 
-| 106 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 107 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 108 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
-| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 99 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 100 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 102 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 103 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 104 | [Haven](games/h/haven.md) | 4.76 | 
+| 105 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 106 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 107 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
+| 108 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 112 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
@@ -423,21 +423,21 @@
 | 421 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 422 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 423 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 424 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 425 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 428 | [Minit](games/m/minit.md) | 4.53 | 
-| 429 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 430 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 431 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 432 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 433 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 434 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 435 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 437 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 438 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 424 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
+| 425 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 426 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 427 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 429 | [Minit](games/m/minit.md) | 4.53 | 
+| 430 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 431 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 432 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 433 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 434 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 435 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 436 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 437 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 438 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 439 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 440 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 441 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -731,9 +731,9 @@
 | 729 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 730 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 731 | [Lake](games/l/lake.md) | 4.08 | 
-| 732 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
-| 733 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
-| 734 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 732 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 733 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 734 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
 | 735 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 736 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 737 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
