@@ -569,7 +569,7 @@
 | 567 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 568 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
 | 569 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 570 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 570 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 571 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 572 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 573 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
@@ -712,7 +712,7 @@
 | 710 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 711 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 712 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 713 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 713 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 714 | [UnMetal](games/u/unmetal.md) | 4.54 | 
 | 715 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 716 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
@@ -735,7 +735,7 @@
 | 733 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 734 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 735 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 736 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 736 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 737 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 738 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 739 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
