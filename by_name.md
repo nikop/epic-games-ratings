@@ -84,7 +84,7 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
@@ -154,14 +154,14 @@
 | 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
@@ -391,7 +391,7 @@
 | 389 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 390 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 391 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 392 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 392 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 393 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 394 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 395 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -484,7 +484,7 @@
 | 482 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 483 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 484 | [Redout 2](games/r/redout_2.md) | 4.48 | 
-| 485 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 485 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
 | 486 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 487 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 488 | [Revita](games/r/revita.md) | 4.74 | 
@@ -692,7 +692,7 @@
 | 690 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 691 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
 | 692 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 693 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
+| 693 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 694 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 695 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
 | 696 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -715,7 +715,7 @@
 | 713 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 714 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 715 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 716 | [UnMetal](games/u/unmetal.md) | 4.54 | 
+| 716 | [UnMetal](games/u/unmetal.md) | 4.55 | 
 | 717 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 718 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 719 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
