@@ -38,7 +38,7 @@
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.25 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -601,7 +601,7 @@
 | 599 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 600 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 601 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 602 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 602 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 603 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 604 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 605 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 

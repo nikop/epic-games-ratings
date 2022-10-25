@@ -254,19 +254,19 @@
 | 252 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 254 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 256 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 258 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
-| 259 | [Mutazione](games/m/mutazione.md) | 4.65 | 
-| 260 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 261 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 262 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 263 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 264 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 265 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 266 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 267 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 255 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 257 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
+| 258 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 259 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 260 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 261 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 262 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 267 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 268 | [RiME](games/r/rime.md) | 4.64 | 
 | 269 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 270 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
@@ -720,10 +720,10 @@
 | 718 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 719 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 720 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
-| 721 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 722 | [Relicta](games/r/relicta.md) | 4.11 | 
-| 723 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 724 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 721 | [Relicta](games/r/relicta.md) | 4.11 | 
+| 722 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 723 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 724 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 725 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 726 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 727 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
