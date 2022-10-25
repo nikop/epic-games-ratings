@@ -518,7 +518,7 @@
 | 516 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 517 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 518 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 519 | [Scorn](games/s/scorn.md) | 4.51 | 
+| 519 | [Scorn](games/s/scorn.md) | 4.50 | 
 | 520 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 521 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 522 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 

@@ -457,16 +457,16 @@
 | 455 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 456 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 457 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 458 | [Scorn](games/s/scorn.md) | 4.51 | 
-| 459 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 460 | [Verdun](games/v/verdun.md) | 4.50 | 
-| 461 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 462 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 463 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 464 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 465 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 466 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 467 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 458 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 459 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 460 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 461 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 462 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 463 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 464 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 465 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 466 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 467 | [Scorn](games/s/scorn.md) | 4.50 | 
 | 468 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 469 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 470 | [Maneater](games/m/maneater.md) | 4.49 | 
