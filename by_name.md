@@ -253,7 +253,7 @@
 | 251 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
 | 253 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 256 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
@@ -421,7 +421,7 @@
 | 419 | [Observation](games/o/observation.md) | 4.44 | 
 | 420 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 421 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 422 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 422 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 423 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 424 | [Old World](games/o/old_world.md) | 4.63 | 
 | 425 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -486,7 +486,7 @@
 | 484 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 485 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 486 | [Revita](games/r/revita.md) | 4.74 | 
-| 487 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
+| 487 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 488 | [RiME](games/r/rime.md) | 4.64 | 
 | 489 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 490 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -641,7 +641,7 @@
 | 639 | [The Medium](games/t/the_medium.md) | 4.43 | 
 | 640 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 641 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 642 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 642 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 643 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 644 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 645 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
@@ -662,7 +662,7 @@
 | 660 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
 | 661 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 662 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 663 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 663 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 664 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 665 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 666 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
@@ -718,7 +718,7 @@
 | 716 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 717 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 718 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 719 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 719 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
 | 720 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 721 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 722 | [Vampyr](games/v/vampyr.md) | 4.31 | 
