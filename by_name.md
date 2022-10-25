@@ -212,7 +212,7 @@
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 213 | [Far Cry](games/f/far_cry.md) | 4.36 | 
+| 213 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -428,7 +428,7 @@
 | 426 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 427 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 428 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
-| 429 | [Othercide](games/o/othercide.md) | 4.41 | 
+| 429 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 430 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 431 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 432 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -486,7 +486,7 @@
 | 484 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 485 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 486 | [Revita](games/r/revita.md) | 4.74 | 
-| 487 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 487 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 488 | [RiME](games/r/rime.md) | 4.64 | 
 | 489 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 490 | [RimWorld](games/r/rimworld.md) | 4.89 | 

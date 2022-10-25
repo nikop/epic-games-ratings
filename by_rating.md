@@ -121,20 +121,20 @@
 | 119 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 126 | [Northgard](games/n/northgard.md) | 4.74 | 
-| 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 129 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 131 | [Revita](games/r/revita.md) | 4.74 | 
-| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 125 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 128 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 132 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 133 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 134 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.73 | 
 | 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 137 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -564,16 +564,16 @@
 | 562 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 563 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 564 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 565 | [Othercide](games/o/othercide.md) | 4.41 | 
-| 566 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 567 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 568 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 569 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 570 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 571 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 572 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
-| 574 | [Encased](games/e/encased.md) | 4.40 | 
+| 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 566 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 568 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 569 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 570 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 571 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 572 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
+| 573 | [Encased](games/e/encased.md) | 4.40 | 
+| 574 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 575 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 576 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 577 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
@@ -608,11 +608,11 @@
 | 606 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 607 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 609 | [Far Cry](games/f/far_cry.md) | 4.36 | 
-| 610 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
-| 611 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 612 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 613 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 609 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
+| 610 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 611 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 612 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 613 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 614 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 615 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 616 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
