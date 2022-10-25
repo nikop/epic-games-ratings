@@ -652,7 +652,7 @@
 | 650 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 651 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 652 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 653 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 653 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 654 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 655 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
 | 656 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -669,7 +669,7 @@
 | 667 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 668 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 669 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 670 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 670 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 671 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 672 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 673 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

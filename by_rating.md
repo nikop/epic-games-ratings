@@ -124,18 +124,18 @@
 | 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 125 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 128 | [Northgard](games/n/northgard.md) | 4.74 | 
-| 129 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 130 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 131 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 132 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 133 | [Revita](games/r/revita.md) | 4.74 | 
-| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 127 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 130 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 132 | [Revita](games/r/revita.md) | 4.74 | 
+| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 137 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -398,19 +398,19 @@
 | 396 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 397 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 398 | [Hue](games/h/hue.md) | 4.55 | 
-| 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 400 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 401 | [Horace](games/h/horace.md) | 4.55 | 
-| 402 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 403 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 404 | [NORCO](games/n/norco.md) | 4.55 | 
-| 405 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 406 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 407 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 408 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 409 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 410 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 411 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 399 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 400 | [Horace](games/h/horace.md) | 4.55 | 
+| 401 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 402 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 403 | [NORCO](games/n/norco.md) | 4.55 | 
+| 404 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 405 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 406 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 407 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 408 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 409 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 410 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 411 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 412 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 413 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 414 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
