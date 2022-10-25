@@ -124,18 +124,18 @@
 | 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 127 | [Northgard](games/n/northgard.md) | 4.74 | 
-| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 130 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 132 | [Revita](games/r/revita.md) | 4.74 | 
-| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 125 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 128 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 129 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 130 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 131 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 132 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 133 | [Revita](games/r/revita.md) | 4.74 | 
+| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 137 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -406,22 +406,22 @@
 | 404 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 405 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 406 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 407 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 408 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 409 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 410 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
-| 411 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 412 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
-| 413 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 414 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
-| 415 | [Sable](games/s/sable.md) | 4.54 | 
-| 416 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 417 | [UnMetal](games/u/unmetal.md) | 4.54 | 
-| 418 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
-| 419 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 420 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 421 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 422 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 407 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 408 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 409 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 410 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 411 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 412 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 413 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
+| 414 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 415 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
+| 416 | [Sable](games/s/sable.md) | 4.54 | 
+| 417 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
+| 418 | [UnMetal](games/u/unmetal.md) | 4.54 | 
+| 419 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
+| 420 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 421 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 422 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 423 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 424 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 425 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -629,19 +629,19 @@
 | 627 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 628 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 629 | [House Party](games/h/house_party.md) | 4.33 | 
-| 630 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 631 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
-| 633 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 634 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 635 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 636 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 637 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 638 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 639 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 640 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 641 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
+| 630 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 631 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 632 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
+| 634 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 635 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 636 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 637 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 638 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 639 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 640 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 641 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 642 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 643 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 644 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 645 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -729,10 +729,10 @@
 | 727 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 728 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 729 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 730 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 731 | [Lake](games/l/lake.md) | 4.08 | 
-| 732 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 733 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
+| 730 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
+| 731 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 732 | [Lake](games/l/lake.md) | 4.08 | 
+| 733 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 734 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
 | 735 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 736 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 

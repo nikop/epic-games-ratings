@@ -108,7 +108,7 @@
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 109 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
+| 109 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 111 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
@@ -284,7 +284,7 @@
 | 282 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 283 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 284 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 285 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
+| 285 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 286 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 287 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -670,7 +670,7 @@
 | 668 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 669 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 670 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 671 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 671 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 672 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 673 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 674 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -737,7 +737,7 @@
 | 735 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 736 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 737 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 738 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 738 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 739 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 740 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 741 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
