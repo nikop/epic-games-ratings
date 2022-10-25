@@ -150,16 +150,16 @@
 | 148 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 149 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 150 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 151 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 152 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 153 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 154 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 155 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 156 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 157 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 158 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 159 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 160 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 151 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 152 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 153 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 154 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 155 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 156 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 157 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 158 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 159 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 160 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 162 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 163 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
@@ -621,18 +621,18 @@
 | 619 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 620 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 621 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 622 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 623 | [ELEX](games/e/elex.md) | 4.34 | 
-| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 625 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 626 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 627 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 628 | [House Party](games/h/house_party.md) | 4.33 | 
-| 629 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 630 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
-| 632 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 633 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 622 | [ELEX](games/e/elex.md) | 4.34 | 
+| 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 624 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 625 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 626 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 627 | [House Party](games/h/house_party.md) | 4.33 | 
+| 628 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 629 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
+| 631 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 632 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 633 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 634 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 635 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 636 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
