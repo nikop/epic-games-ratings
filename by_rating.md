@@ -100,18 +100,18 @@
 | 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 101 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 104 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 105 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 106 | [Haven](games/h/haven.md) | 4.76 | 
-| 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 108 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 109 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
-| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 102 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 103 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 104 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 105 | [Haven](games/h/haven.md) | 4.76 | 
+| 106 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 107 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 108 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
+| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 112 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 115 | [Journey](games/j/journey.md) | 4.75 | 
@@ -158,18 +158,18 @@
 | 156 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 157 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 158 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 159 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 160 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 162 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 163 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 164 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 165 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 166 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 168 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 159 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 160 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 161 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 162 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 163 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 164 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 165 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 166 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 167 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 168 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 169 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 170 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 171 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 172 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 173 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -622,19 +622,19 @@
 | 620 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 621 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 622 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 623 | [ELEX](games/e/elex.md) | 4.34 | 
-| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 625 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 626 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 627 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 628 | [House Party](games/h/house_party.md) | 4.33 | 
-| 629 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 630 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
-| 632 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 633 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 634 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 635 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 623 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 624 | [ELEX](games/e/elex.md) | 4.34 | 
+| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 626 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 627 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 628 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 629 | [House Party](games/h/house_party.md) | 4.33 | 
+| 630 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 631 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
+| 633 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 634 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 635 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 636 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 637 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 638 | [Vampyr](games/v/vampyr.md) | 4.31 | 
@@ -646,11 +646,11 @@
 | 644 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 645 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 646 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 647 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 648 | [Lamentum](games/l/lamentum.md) | 4.30 | 
-| 649 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 650 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 647 | [Lamentum](games/l/lamentum.md) | 4.30 | 
+| 648 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 649 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 650 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 651 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 652 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 653 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 654 | [Rage 2](games/r/rage_2.md) | 4.28 | 

@@ -106,7 +106,7 @@
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -154,7 +154,7 @@
 | 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -303,7 +303,7 @@
 | 301 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 302 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 303 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 304 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 304 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 305 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 306 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 307 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
@@ -526,7 +526,7 @@
 | 524 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 525 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 526 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 527 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.76 | 
+| 527 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 528 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 529 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 530 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 

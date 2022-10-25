@@ -1,11 +1,11 @@
 {
   "ID": "95cda0d0b9124cc790f3893ac41cc29a",
   "Name": "Imagine Earth",
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 22,
   "FirstSeen": "2022-07-22T20:28:11.2364544+00:00",
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
-  "LastChanged": "2022-10-23T19:32:00.6324468+00:00",
+  "LastChanged": "2022-10-25T19:35:47.1459065+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-14T20:31:45.7096729+00:00",
@@ -25,6 +25,11 @@
     {
       "Time": "2022-10-23T19:32:00.6324471+00:00",
       "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-25T19:35:47.1459123+00:00",
+      "Rating": 4.29,
       "NumberOfRatings": null
     }
   ],
