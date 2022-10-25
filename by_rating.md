@@ -557,20 +557,20 @@
 | 555 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 556 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 557 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 558 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 559 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 560 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 562 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 563 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 564 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 565 | [Othercide](games/o/othercide.md) | 4.41 | 
-| 566 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 567 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 568 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 569 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 570 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 571 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 558 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 561 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 562 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 563 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 564 | [Othercide](games/o/othercide.md) | 4.41 | 
+| 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 566 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 568 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 569 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 570 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 571 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 572 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 574 | [Encased](games/e/encased.md) | 4.40 | 
@@ -588,14 +588,14 @@
 | 586 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 587 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 588 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 589 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 590 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 591 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 592 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 593 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 594 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
-| 595 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 596 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 589 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 590 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 591 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 592 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 593 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 594 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 595 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
+| 596 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 597 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 598 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
