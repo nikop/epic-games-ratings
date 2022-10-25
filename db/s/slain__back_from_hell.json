@@ -1,10 +1,10 @@
 {
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
-  "Rating": 4.29,
+  "Rating": 4.3,
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
-  "LastChanged": "2022-10-24T18:32:55.8556798+00:00",
+  "LastChanged": "2022-10-25T22:07:14.0428757+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-08T20:32:24.8625513+00:00",
@@ -115,12 +115,17 @@
       "Time": "2022-10-24T18:32:55.85568+00:00",
       "Rating": 4.29,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-25T22:07:14.0428761+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 76
+      "Count": 78
     }
   ]
 }

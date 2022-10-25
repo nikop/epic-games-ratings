@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
@@ -83,7 +83,7 @@
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 84 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
@@ -320,7 +320,7 @@
 | 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 319 | [Journey](games/j/journey.md) | 4.75 | 
 | 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 323 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 324 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
@@ -524,7 +524,7 @@
 | 522 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 523 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 524 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
-| 525 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 525 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 526 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 527 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 528 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
@@ -541,7 +541,7 @@
 | 539 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 540 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 541 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 542 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 542 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 543 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 544 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 545 | [Slipways](games/s/slipways.md) | 4.70 | 

@@ -273,23 +273,23 @@
 | 271 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 272 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 275 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 276 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 277 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 278 | [Old World](games/o/old_world.md) | 4.63 | 
-| 279 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 282 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 283 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 274 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 275 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 276 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 277 | [Old World](games/o/old_world.md) | 4.63 | 
+| 278 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 281 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 282 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 284 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 285 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 286 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 287 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 288 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 289 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 290 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 287 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 288 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 289 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 290 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 291 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 292 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 293 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -556,14 +556,14 @@
 | 554 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 555 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 556 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 557 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 558 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 559 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 560 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 561 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 562 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 563 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 564 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 557 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 558 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 559 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 560 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 561 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 562 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 563 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 564 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 566 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -647,12 +647,12 @@
 | 645 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 646 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 647 | [Lamentum](games/l/lamentum.md) | 4.30 | 
-| 648 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 649 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 650 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 651 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 652 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 653 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 648 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 649 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 650 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 652 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 653 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 654 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 655 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 656 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
@@ -719,8 +719,8 @@
 | 717 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 718 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 719 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
-| 720 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 721 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 720 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 721 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 722 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 723 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 724 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
