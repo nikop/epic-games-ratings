@@ -447,7 +447,7 @@
 | 445 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 446 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 447 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 449 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 450 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 451 | [Patron](games/p/patron.md) | 3.87 | 
