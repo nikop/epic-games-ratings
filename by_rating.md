@@ -78,16 +78,16 @@
 | 76 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 78 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 79 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
-| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 82 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 81 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
+| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
 | 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
@@ -273,20 +273,20 @@
 | 271 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 272 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 274 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 275 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 276 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 277 | [Old World](games/o/old_world.md) | 4.63 | 
-| 278 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 281 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 282 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 284 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 285 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 286 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 287 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 275 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 276 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 277 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 278 | [Old World](games/o/old_world.md) | 4.63 | 
+| 279 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 282 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 283 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 284 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 285 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 286 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 287 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 288 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 289 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 290 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
@@ -707,8 +707,8 @@
 | 705 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 706 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 707 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 708 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 709 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
+| 708 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.17 | 
+| 709 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 710 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 711 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 712 | [Flatout](games/f/flatout.md) | 4.15 | 

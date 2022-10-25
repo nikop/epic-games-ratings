@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -320,7 +320,7 @@
 | 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 319 | [Journey](games/j/journey.md) | 4.75 | 
 | 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 323 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 324 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
@@ -676,7 +676,7 @@
 | 674 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 675 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 676 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 677 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
+| 677 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.17 | 
 | 678 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 679 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 680 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
