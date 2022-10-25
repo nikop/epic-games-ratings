@@ -32,7 +32,7 @@
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
@@ -434,7 +434,7 @@
 | 432 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 433 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 434 | [Outlast](games/o/outlast.md) | 4.70 | 
-| 435 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 
+| 435 | [Outlast 2](games/o/outlast_2.md) | 4.65 | 
 | 436 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 437 | [Outward](games/o/outward.md) | 4.56 | 
 | 438 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -741,7 +741,7 @@
 | 739 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 740 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 741 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 742 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 742 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 743 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 744 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 745 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 

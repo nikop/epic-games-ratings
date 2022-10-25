@@ -244,21 +244,21 @@
 | 242 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 243 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 244 | [CARRION](games/c/carrion.md) | 4.66 | 
-| 245 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 
-| 246 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 247 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 248 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 249 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 251 | [Crashlands](games/c/crashlands.md) | 4.65 | 
-| 252 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 254 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 255 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 257 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
-| 258 | [Mutazione](games/m/mutazione.md) | 4.65 | 
-| 259 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 245 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 246 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 247 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 248 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 250 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 251 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 252 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 253 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 254 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 255 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 256 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
+| 257 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 258 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 259 | [Outlast 2](games/o/outlast_2.md) | 4.65 | 
 | 260 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 261 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 262 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -541,20 +541,20 @@
 | 539 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 540 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 541 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 542 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
-| 544 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 545 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 546 | [The Medium](games/t/the_medium.md) | 4.43 | 
-| 547 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 548 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 549 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 550 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 551 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 552 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 553 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 554 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 555 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 543 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 544 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 545 | [The Medium](games/t/the_medium.md) | 4.43 | 
+| 546 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 547 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 548 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 549 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 550 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 552 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 553 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 554 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 555 | [Weird West](games/w/weird_west.md) | 4.42 | 
 | 556 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 557 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 558 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -642,21 +642,21 @@
 | 640 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 641 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
-| 643 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 644 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 645 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 646 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 647 | [Lamentum](games/l/lamentum.md) | 4.30 | 
-| 648 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 649 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 650 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 652 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 653 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 654 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 655 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 656 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 657 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.28 | 
+| 643 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 644 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 645 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 646 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 647 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 648 | [Lamentum](games/l/lamentum.md) | 4.30 | 
+| 649 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 650 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 651 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 653 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 654 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 655 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 656 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 657 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 658 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 659 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 660 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
