@@ -693,12 +693,12 @@
 | 691 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 692 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
 | 693 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 694 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 695 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 696 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 697 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 698 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 699 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 694 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 695 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 696 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 697 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 698 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 699 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 700 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 701 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 702 | [Windbound](games/w/windbound.md) | 4.17 | 

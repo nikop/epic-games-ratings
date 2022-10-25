@@ -556,7 +556,7 @@
 | 554 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 555 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 556 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 557 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 557 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 558 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 559 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 560 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
