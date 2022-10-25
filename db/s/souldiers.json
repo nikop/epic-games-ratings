@@ -1,10 +1,10 @@
 {
   "ID": "7c7b5037b98e45289ebb3583cd8809a2",
   "Name": "Souldiers",
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 63,
   "FirstSeen": "2022-07-22T20:19:33.8920547+00:00",
-  "LastChanged": "2022-08-19T00:30:37.905367+00:00",
+  "LastChanged": "2022-10-25T03:00:43.3259593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:33.8920549+00:00",
@@ -35,6 +35,11 @@
       "Time": "2022-08-19T00:30:37.9053671+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 63
+    },
+    {
+      "Time": "2022-10-25T03:00:43.3259597+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": []

@@ -432,7 +432,7 @@
 | 430 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 431 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 432 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 433 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 433 | [Outlast](games/o/outlast.md) | 4.70 | 
 | 434 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 
 | 435 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 436 | [Outward](games/o/outward.md) | 4.55 | 
@@ -553,7 +553,7 @@
 | 551 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 552 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 553 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 554 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 554 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 555 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 556 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 557 | [Space Punks](games/s/space_punks.md) | 4.19 | 
@@ -648,7 +648,7 @@
 | 646 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 647 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 648 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 649 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 649 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 650 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 651 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 652 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -670,7 +670,7 @@
 | 668 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 669 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 670 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 671 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 671 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 672 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 673 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 674 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
@@ -764,4 +764,4 @@
 | 762 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 763 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 764 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
-| 765 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
+| 765 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
