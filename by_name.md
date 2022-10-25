@@ -709,7 +709,7 @@
 | 707 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 708 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 709 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 710 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 710 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 711 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 712 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 713 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
