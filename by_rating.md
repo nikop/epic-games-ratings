@@ -683,14 +683,14 @@
 | 681 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 682 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 684 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 685 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 686 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
-| 687 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 688 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 689 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 690 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 691 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 684 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 685 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 686 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 687 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 688 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 689 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 690 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 691 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 692 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 693 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 694 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
@@ -732,8 +732,8 @@
 | 730 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 731 | [Lake](games/l/lake.md) | 4.08 | 
 | 732 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 733 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
-| 734 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
+| 733 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
+| 734 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
 | 735 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 736 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 737 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 

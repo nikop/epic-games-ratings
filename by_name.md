@@ -243,7 +243,7 @@
 | 241 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 242 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 243 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 245 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 246 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 247 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -406,7 +406,7 @@
 | 404 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 405 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 406 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 407 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 407 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
 | 408 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 409 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 410 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
