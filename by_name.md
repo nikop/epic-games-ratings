@@ -384,7 +384,7 @@
 | 382 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 383 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 384 | [Minit](games/m/minit.md) | 4.53 | 
-| 385 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 385 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.79 | 
 | 386 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 387 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 388 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
@@ -501,7 +501,7 @@
 | 499 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 500 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 501 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 502 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 502 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
 | 503 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 504 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 505 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 

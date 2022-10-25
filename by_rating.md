@@ -215,21 +215,21 @@
 | 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 214 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 215 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 216 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
-| 217 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 218 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
-| 219 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 221 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 222 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 223 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 224 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 225 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 227 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 228 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 229 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 230 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 216 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 217 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
+| 218 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 219 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
+| 220 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 221 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 222 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 223 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 224 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 225 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 226 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 227 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
 | 231 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 232 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 233 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
@@ -758,9 +758,9 @@
 | 756 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 757 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 758 | [Patron](games/p/patron.md) | 3.87 | 
-| 759 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 760 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
-| 761 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
+| 759 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 760 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
+| 761 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.79 | 
 | 762 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 763 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
 | 764 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
