@@ -380,20 +380,20 @@
 | 378 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 379 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 380 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
-| 381 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
-| 382 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 383 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 384 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 385 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 386 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 387 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 388 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 389 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 390 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 391 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 392 | [Road 96](games/r/road_96.md) | 4.56 | 
-| 393 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 394 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 381 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 382 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 383 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 384 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 385 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 386 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 387 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 388 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 390 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 391 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 392 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 393 | [Road 96](games/r/road_96.md) | 4.56 | 
+| 394 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 395 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 396 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 397 | [Hue](games/h/hue.md) | 4.55 | 
@@ -496,15 +496,15 @@
 | 494 | [Redout 2](games/r/redout_2.md) | 4.48 | 
 | 495 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 496 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 497 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 498 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 499 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 500 | [CryoFall](games/c/cryofall.md) | 4.47 | 
-| 501 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 502 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 503 | [SMITE](games/s/smite.md) | 4.46 | 
-| 504 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 505 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 497 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 498 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 499 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 500 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 501 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 502 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 503 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 504 | [SMITE](games/s/smite.md) | 4.46 | 
+| 505 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 506 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 507 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
@@ -538,19 +538,19 @@
 | 536 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 537 | [Observation](games/o/observation.md) | 4.44 | 
 | 538 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 539 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 540 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
-| 541 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
-| 543 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 544 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 545 | [The Medium](games/t/the_medium.md) | 4.43 | 
-| 546 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 547 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 548 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 549 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 550 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 551 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 539 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 540 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 541 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
+| 542 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 544 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 545 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 546 | [The Medium](games/t/the_medium.md) | 4.43 | 
+| 547 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 548 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 549 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 550 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 551 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 552 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 553 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 554 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -635,17 +635,17 @@
 | 633 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 634 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 635 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 636 | [Lamentum](games/l/lamentum.md) | 4.32 | 
-| 637 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 638 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 639 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 640 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 641 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
-| 643 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 644 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 645 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 646 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 636 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 637 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 638 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 639 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 640 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
+| 642 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 644 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 645 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 646 | [Lamentum](games/l/lamentum.md) | 4.30 | 
 | 647 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 648 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 649 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 

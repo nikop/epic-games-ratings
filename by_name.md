@@ -317,7 +317,7 @@
 | 315 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 316 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 317 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 319 | [Journey](games/j/journey.md) | 4.75 | 
 | 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
@@ -343,7 +343,7 @@
 | 341 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 342 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 343 | [Lake](games/l/lake.md) | 4.08 | 
-| 344 | [Lamentum](games/l/lamentum.md) | 4.32 | 
+| 344 | [Lamentum](games/l/lamentum.md) | 4.30 | 
 | 345 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 346 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 347 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
@@ -599,7 +599,7 @@
 | 597 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 598 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 599 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 600 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 600 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 601 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 602 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 603 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
@@ -733,7 +733,7 @@
 | 731 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 732 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 733 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 734 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 734 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 735 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 736 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 737 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
