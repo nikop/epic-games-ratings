@@ -52,22 +52,22 @@
 | 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
-| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 60 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 61 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 62 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
-| 63 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
-| 64 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 65 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 66 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 67 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 68 | [Quake](games/q/quake.md) | 4.81 | 
+| 53 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 54 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 55 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 57 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 58 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 61 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 62 | [Quake](games/q/quake.md) | 4.82 | 
+| 63 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 64 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 65 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 66 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 67 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 70 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -286,19 +286,19 @@
 | 284 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 285 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 286 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 287 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 288 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 289 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 290 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 291 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 292 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 293 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
-| 294 | [GRIME](games/g/grime.md) | 4.62 | 
-| 295 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 296 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 297 | [Prey](games/p/prey.md) | 4.61 | 
-| 298 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 299 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 287 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 288 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 289 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 290 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 291 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 292 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 293 | [GRIME](games/g/grime.md) | 4.62 | 
+| 294 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 295 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 296 | [Prey](games/p/prey.md) | 4.61 | 
+| 297 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 298 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 299 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 300 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 302 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
@@ -513,14 +513,14 @@
 | 511 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 512 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 513 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 514 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 515 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 516 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 517 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 518 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 519 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
-| 520 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 521 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 514 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 515 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 516 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 517 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 518 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 519 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 520 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 521 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 522 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 523 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 524 | [Pathway](games/p/pathway.md) | 4.44 | 
