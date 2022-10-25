@@ -182,7 +182,7 @@
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 

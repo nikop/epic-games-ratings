@@ -39,12 +39,12 @@
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 38 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 39 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
-| 41 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 42 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 43 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 44 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
-| 45 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 40 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 41 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 42 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 43 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 44 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 45 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 46 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 48 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
