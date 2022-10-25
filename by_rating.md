@@ -662,10 +662,10 @@
 | 660 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 661 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 662 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 663 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 664 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
-| 666 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 663 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
+| 665 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 666 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 667 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 668 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 669 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
@@ -678,9 +678,9 @@
 | 676 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 677 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 678 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 679 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 680 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 681 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 679 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 680 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 681 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
 | 682 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 683 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 684 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
