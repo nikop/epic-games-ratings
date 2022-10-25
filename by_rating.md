@@ -491,16 +491,16 @@
 | 489 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
 | 490 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 491 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 492 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 493 | [Redout 2](games/r/redout_2.md) | 4.48 | 
-| 494 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 495 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 496 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 497 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 498 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 499 | [CryoFall](games/c/cryofall.md) | 4.47 | 
-| 500 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 501 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.47 | 
+| 492 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
+| 493 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 494 | [Redout 2](games/r/redout_2.md) | 4.48 | 
+| 495 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 496 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 497 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 498 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 499 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 500 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 501 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 502 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 503 | [SMITE](games/s/smite.md) | 4.46 | 
 | 504 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -662,10 +662,10 @@
 | 660 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 661 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 662 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 663 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
-| 665 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 666 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 663 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 664 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
+| 666 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 667 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 668 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 669 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 

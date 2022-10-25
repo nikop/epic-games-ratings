@@ -251,7 +251,7 @@
 | 249 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 250 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 251 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.47 | 
+| 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
 | 253 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
