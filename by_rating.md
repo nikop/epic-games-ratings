@@ -68,16 +68,16 @@
 | 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 67 | [Quake](games/q/quake.md) | 4.81 | 
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 69 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
-| 70 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 71 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 73 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 74 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 75 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 77 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 78 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 69 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
+| 70 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
+| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 72 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 73 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 74 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 78 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 81 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
@@ -191,22 +191,22 @@
 | 189 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 190 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 191 | [Barony](games/b/barony.md) | 4.69 | 
-| 192 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 193 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 194 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 195 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 196 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 197 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 198 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 199 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 200 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 201 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 202 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 203 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 204 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 205 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 206 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 207 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 192 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 195 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 196 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 197 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 198 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 199 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 200 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 201 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 202 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 203 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 204 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 205 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 206 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 207 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 208 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 209 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 210 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
@@ -642,10 +642,10 @@
 | 640 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 641 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.31 | 
-| 643 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 644 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 645 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 646 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 643 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 644 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 645 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 646 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 647 | [Lamentum](games/l/lamentum.md) | 4.30 | 
 | 648 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 649 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
@@ -679,9 +679,9 @@
 | 677 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 678 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 679 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 680 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 681 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 682 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
+| 680 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 681 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 682 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 684 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 685 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 

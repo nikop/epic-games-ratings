@@ -95,7 +95,7 @@
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -195,7 +195,7 @@
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 195 | [ELEX](games/e/elex.md) | 4.34 | 
-| 196 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
+| 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
@@ -437,7 +437,7 @@
 | 435 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 
 | 436 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 437 | [Outward](games/o/outward.md) | 4.56 | 
-| 438 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 438 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 439 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 440 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 441 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
@@ -623,7 +623,7 @@
 | 621 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 622 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 623 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
-| 624 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 624 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 625 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 626 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 627 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
