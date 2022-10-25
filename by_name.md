@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -208,7 +208,7 @@
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 209 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -531,7 +531,7 @@
 | 529 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 530 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 531 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 532 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 532 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 533 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 534 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 535 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
@@ -666,7 +666,7 @@
 | 664 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 665 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 666 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 667 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 667 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 668 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 669 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 670 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 

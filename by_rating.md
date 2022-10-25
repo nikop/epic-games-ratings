@@ -143,17 +143,17 @@
 | 141 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 142 | [Fez](games/f/fez.md) | 4.73 | 
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 144 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 145 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 146 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
-| 147 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 149 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 150 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 151 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 152 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 153 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 154 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 144 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
+| 145 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
+| 146 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 148 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 149 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 150 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 151 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 152 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 153 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 154 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 155 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
 | 156 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 157 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -283,16 +283,16 @@
 | 281 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 282 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 283 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 284 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 285 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 286 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 287 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 288 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 289 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 290 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 291 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 292 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 293 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 284 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 285 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 286 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 287 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 288 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 289 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 290 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 291 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 292 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 293 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 294 | [GRIME](games/g/grime.md) | 4.62 | 
 | 295 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 296 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -552,16 +552,16 @@
 | 550 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 551 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 552 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 553 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 554 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 555 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 556 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 557 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 558 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
-| 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 561 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 562 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 553 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 554 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 555 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 556 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 557 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 558 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 559 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 560 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 562 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 563 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 564 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -711,10 +711,10 @@
 | 709 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 710 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 711 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
-| 712 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
-| 713 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 714 | [Pine](games/p/pine.md) | 4.13 | 
-| 715 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 712 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
+| 713 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
+| 714 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 715 | [Pine](games/p/pine.md) | 4.13 | 
 | 716 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 717 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 718 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
