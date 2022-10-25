@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -30,7 +30,7 @@
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 31 | [Anno 2070](games/a/anno_2070.md) | 4.36 | 
+| 31 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.67 | 
@@ -38,7 +38,7 @@
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.25 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -433,7 +433,7 @@
 | 431 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 432 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 433 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 434 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 434 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 435 | [Outlast 2](games/o/outlast_2.md) | 4.65 | 
 | 436 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 437 | [Outward](games/o/outward.md) | 4.56 | 
@@ -478,7 +478,7 @@
 | 476 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 477 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
 | 478 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 479 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 479 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 480 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 481 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 482 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -593,7 +593,7 @@
 | 591 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 592 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 593 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
-| 594 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
+| 594 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 595 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 596 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 597 | [Supraland](games/s/supraland.md) | 4.61 | 

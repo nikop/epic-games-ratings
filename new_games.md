@@ -5,7 +5,7 @@
 | 3 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
 | 4 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 5 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
 | 7 | [Scorn](games/s/scorn.md) | 4.50 | 
 | 8 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 9 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
@@ -15,7 +15,7 @@
 | 13 | [Outlast 2](games/o/outlast_2.md) | 4.65 | 
 | 14 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 15 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
-| 16 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 16 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 17 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 18 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 19 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
@@ -39,7 +39,7 @@
 | 37 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 38 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 39 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 40 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 40 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 41 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 42 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 43 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
