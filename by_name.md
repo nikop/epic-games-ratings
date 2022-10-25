@@ -319,7 +319,7 @@
 | 317 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 319 | [Journey](games/j/journey.md) | 4.75 | 
-| 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 323 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -495,7 +495,7 @@
 | 493 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 494 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 495 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 496 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 496 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 497 | [Road 96](games/r/road_96.md) | 4.56 | 
 | 498 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 499 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
