@@ -164,7 +164,7 @@
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.48 | 
+| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
 | 166 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
@@ -329,7 +329,7 @@
 | 327 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 328 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 329 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 330 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 330 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 331 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 332 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 333 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -344,7 +344,7 @@
 | 342 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 343 | [Lake](games/l/lake.md) | 4.08 | 
 | 344 | [Lamentum](games/l/lamentum.md) | 4.30 | 
-| 345 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 345 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 346 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 347 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 348 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
@@ -454,7 +454,7 @@
 | 452 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 453 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 455 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 
+| 455 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
