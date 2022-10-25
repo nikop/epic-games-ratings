@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.43 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
+| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
@@ -456,7 +456,7 @@
 | 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 455 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 457 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 459 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 460 | [Pine](games/p/pine.md) | 4.13 | 
@@ -610,7 +610,7 @@
 | 608 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 609 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 610 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
-| 611 | [Tharsis](games/t/tharsis.md) | 4.17 | 
+| 611 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 612 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 613 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
 | 614 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -652,7 +652,7 @@
 | 650 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 651 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 652 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 653 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.58 | 
+| 653 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 654 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
 | 655 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 656 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
