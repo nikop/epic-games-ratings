@@ -1,10 +1,10 @@
 {
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 74,
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
-  "LastChanged": "2022-10-21T01:31:11.1062047+00:00",
+  "LastChanged": "2022-10-25T17:33:11.0273685+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:55.4916405+00:00",
@@ -249,6 +249,11 @@
     {
       "Time": "2022-10-21T01:31:11.1062049+00:00",
       "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-25T17:33:11.0273687+00:00",
+      "Rating": 4.68,
       "NumberOfRatings": null
     }
   ],

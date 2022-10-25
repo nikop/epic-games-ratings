@@ -63,13 +63,13 @@
 | 61 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 62 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 63 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
-| 64 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 65 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 67 | [Quake](games/q/quake.md) | 4.81 | 
-| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 69 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
-| 70 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
+| 64 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
+| 65 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 66 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 67 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 68 | [Quake](games/q/quake.md) | 4.81 | 
+| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 70 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 72 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 73 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -195,26 +195,26 @@
 | 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 195 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 196 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 197 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 198 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 199 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 200 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 201 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 202 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 203 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 204 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 205 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 206 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 207 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 208 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 209 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 210 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 211 | [SOMA](games/s/soma.md) | 4.68 | 
-| 212 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 214 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 215 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 196 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 197 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 198 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 199 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 200 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 201 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 202 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 203 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 204 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 205 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 206 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 207 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 208 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 209 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 210 | [SOMA](games/s/soma.md) | 4.68 | 
+| 211 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 212 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 213 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 214 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 215 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 216 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 217 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
 | 218 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -274,18 +274,18 @@
 | 272 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 275 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 276 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 277 | [Old World](games/o/old_world.md) | 4.63 | 
-| 278 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 281 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 282 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 283 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 284 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 285 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 286 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 275 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 276 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 277 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 278 | [Old World](games/o/old_world.md) | 4.63 | 
+| 279 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 282 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 283 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 284 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 285 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 286 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 287 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 288 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 289 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 

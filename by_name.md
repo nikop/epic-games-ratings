@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
@@ -391,7 +391,7 @@
 | 389 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 390 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 391 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 392 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 392 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 393 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 394 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 395 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -622,7 +622,7 @@
 | 620 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 621 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 622 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 623 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.81 | 
+| 623 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.82 | 
 | 624 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 625 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 626 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
