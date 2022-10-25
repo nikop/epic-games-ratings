@@ -55,7 +55,7 @@
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 56 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
+| 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
@@ -134,7 +134,7 @@
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 135 | [CryoFall](games/c/cryofall.md) | 4.46 | 
+| 135 | [CryoFall](games/c/cryofall.md) | 4.47 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -174,7 +174,7 @@
 | 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
 | 173 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 174 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 175 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 175 | [Diabotical](games/d/diabotical.md) | 4.78 | 
 | 176 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 177 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 

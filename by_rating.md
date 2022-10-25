@@ -85,14 +85,14 @@
 | 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
-| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 91 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 92 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 93 | [Diabotical](games/d/diabotical.md) | 4.78 | 
 | 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
@@ -498,16 +498,16 @@
 | 496 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 497 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 498 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 499 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 500 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.47 | 
-| 501 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 502 | [SMITE](games/s/smite.md) | 4.46 | 
-| 503 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 504 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 505 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
-| 506 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 508 | [CryoFall](games/c/cryofall.md) | 4.46 | 
+| 499 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 500 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 501 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.47 | 
+| 502 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 503 | [SMITE](games/s/smite.md) | 4.46 | 
+| 504 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 505 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 506 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 507 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 509 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 510 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
 | 511 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
@@ -686,12 +686,12 @@
 | 684 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 685 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 686 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 687 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 688 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 689 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 690 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 691 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 692 | [Aven Colony](games/a/aven_colony.md) | 4.19 | 
+| 687 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 688 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 689 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 690 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 691 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 692 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 693 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 694 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 695 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
