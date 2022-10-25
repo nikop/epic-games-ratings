@@ -320,7 +320,7 @@
 | 318 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 319 | [Journey](games/j/journey.md) | 4.75 | 
 | 320 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 322 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 323 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 324 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
@@ -560,7 +560,7 @@
 | 558 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 559 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 560 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 561 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 561 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 562 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
 | 563 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 564 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -589,7 +589,7 @@
 | 587 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 588 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 589 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 590 | [Sunless Sea](games/s/sunless_sea.md) | 4.60 | 
+| 590 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 591 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 592 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
 | 593 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
