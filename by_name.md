@@ -179,7 +179,7 @@
 | 177 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -716,7 +716,7 @@
 | 714 | [UnMetal](games/u/unmetal.md) | 4.54 | 
 | 715 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 716 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 717 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 717 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 718 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 719 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 720 | [VALORANT](games/v/valorant.md) | 4.55 | 
