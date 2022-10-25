@@ -734,9 +734,9 @@
 | 732 | [Chernobylite](games/c/chernobylite.md) | 4.07 | 
 | 733 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 734 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 735 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
-| 736 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 737 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 735 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 736 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 737 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 738 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 739 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 740 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
