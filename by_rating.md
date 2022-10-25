@@ -560,18 +560,18 @@
 | 558 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
 | 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 561 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 562 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 563 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
-| 564 | [Othercide](games/o/othercide.md) | 4.41 | 
-| 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 566 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 567 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 568 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 569 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 570 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 571 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 572 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 561 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 562 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 563 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 564 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.41 | 
+| 565 | [Othercide](games/o/othercide.md) | 4.41 | 
+| 566 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 567 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 568 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 569 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 570 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 571 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 572 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 574 | [Encased](games/e/encased.md) | 4.40 | 
 | 575 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 

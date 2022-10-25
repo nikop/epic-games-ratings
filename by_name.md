@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
