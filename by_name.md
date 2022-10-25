@@ -84,7 +84,7 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
@@ -117,7 +117,7 @@
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -205,7 +205,7 @@
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
-| 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
@@ -675,7 +675,7 @@
 | 673 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 674 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 675 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 676 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
+| 676 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
 | 677 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 678 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 679 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -710,7 +710,7 @@
 | 708 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 709 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 710 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 711 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 711 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 712 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 713 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 714 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 

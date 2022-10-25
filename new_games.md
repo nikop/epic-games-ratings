@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 7 | [Scorn](games/s/scorn.md) | 4.50 | 
 | 8 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 9 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
+| 9 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
 | 10 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 11 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 12 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
@@ -25,7 +25,7 @@
 | 23 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
 | 24 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 25 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 26 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 26 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 27 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 28 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 29 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
