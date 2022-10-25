@@ -230,19 +230,19 @@
 | 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 230 | [SUPERHOT](games/s/superhot.md) | 4.67 | 
-| 231 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 232 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 233 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 234 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 235 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 236 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 237 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 238 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 240 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 241 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 242 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 243 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 231 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
+| 232 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 233 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 234 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 235 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 236 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 237 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 238 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 240 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 242 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 243 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 244 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 245 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 
 | 246 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -390,14 +390,14 @@
 | 388 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 390 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 391 | [RUINER](games/r/ruiner.md) | 4.56 | 
-| 392 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 393 | [Road 96](games/r/road_96.md) | 4.56 | 
-| 394 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 395 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 396 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 397 | [Hue](games/h/hue.md) | 4.55 | 
-| 398 | [Outward](games/o/outward.md) | 4.55 | 
+| 391 | [Outward](games/o/outward.md) | 4.56 | 
+| 392 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 393 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 394 | [Road 96](games/r/road_96.md) | 4.56 | 
+| 395 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 396 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 397 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 398 | [Hue](games/h/hue.md) | 4.55 | 
 | 399 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 400 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 401 | [Horace](games/h/horace.md) | 4.55 | 
@@ -691,10 +691,10 @@
 | 689 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 690 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 691 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 692 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 693 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 694 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 695 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 692 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 693 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 694 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 695 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 696 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 697 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 698 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
@@ -707,13 +707,13 @@
 | 705 | [Tharsis](games/t/tharsis.md) | 4.17 | 
 | 706 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 707 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 708 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 709 | [Flatout](games/f/flatout.md) | 4.15 | 
-| 710 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
-| 711 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
-| 712 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
-| 713 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
-| 714 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 708 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 709 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 710 | [Flatout](games/f/flatout.md) | 4.15 | 
+| 711 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 712 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
+| 713 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
+| 714 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 715 | [Pine](games/p/pine.md) | 4.13 | 
 | 716 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 717 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 

@@ -74,7 +74,7 @@
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
 | 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 75 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
@@ -213,7 +213,7 @@
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.35 | 
-| 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
 | 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -346,7 +346,7 @@
 | 344 | [Lamentum](games/l/lamentum.md) | 4.30 | 
 | 345 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 346 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 347 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 347 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 348 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 349 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 350 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
@@ -435,7 +435,7 @@
 | 433 | [Outlast](games/o/outlast.md) | 4.70 | 
 | 434 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 
 | 435 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 436 | [Outward](games/o/outward.md) | 4.55 | 
+| 436 | [Outward](games/o/outward.md) | 4.56 | 
 | 437 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 438 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 439 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
