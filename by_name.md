@@ -277,7 +277,7 @@
 | 275 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
 | 276 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 277 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
+| 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 279 | [Haven](games/h/haven.md) | 4.76 | 
 | 280 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 281 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
@@ -459,7 +459,7 @@
 | 457 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 458 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 459 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 460 | [Pine](games/p/pine.md) | 4.14 | 
+| 460 | [Pine](games/p/pine.md) | 4.13 | 
 | 461 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 462 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 463 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
