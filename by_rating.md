@@ -708,12 +708,12 @@
 | 706 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 707 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 708 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 709 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.17 | 
-| 710 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 711 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
-| 712 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 713 | [Flatout](games/f/flatout.md) | 4.15 | 
-| 714 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 709 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 710 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 711 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 712 | [Flatout](games/f/flatout.md) | 4.15 | 
+| 713 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 714 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
 | 715 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 716 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
 | 717 | [Pine](games/p/pine.md) | 4.13 | 
