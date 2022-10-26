@@ -693,9 +693,9 @@
 | 691 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 692 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 693 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 694 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 695 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 696 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 694 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 695 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 696 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 697 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 698 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 699 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -720,7 +720,7 @@
 | 718 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 719 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 720 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 721 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 721 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 722 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 723 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 724 | [Obduction](games/o/obduction.md) | 4.11 | 
