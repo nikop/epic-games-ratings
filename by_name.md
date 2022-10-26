@@ -101,7 +101,7 @@
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 102 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 102 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -308,7 +308,7 @@
 | 306 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 307 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 308 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 309 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 309 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 310 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 311 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 312 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
@@ -705,7 +705,7 @@
 | 703 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 704 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 705 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 706 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 706 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
 | 707 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 708 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 709 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 

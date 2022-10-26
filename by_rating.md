@@ -24,16 +24,16 @@
 | 22 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 23 | [Firework](games/f/firework.md) | 4.87 | 
 | 24 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 25 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 28 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 29 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 27 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 32 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 33 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 35 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 36 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -245,31 +245,31 @@
 | 243 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 244 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 245 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 246 | [CARRION](games/c/carrion.md) | 4.66 | 
-| 247 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 248 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 249 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 250 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 252 | [Crashlands](games/c/crashlands.md) | 4.65 | 
-| 253 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 254 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 255 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 257 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
-| 258 | [Mutazione](games/m/mutazione.md) | 4.65 | 
-| 259 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 260 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 261 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 262 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 267 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 268 | [RiME](games/r/rime.md) | 4.64 | 
-| 269 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 270 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 246 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 247 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 248 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 249 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 251 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 252 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 254 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 255 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 256 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
+| 257 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 258 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 259 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 260 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 261 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 262 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 263 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 266 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 267 | [RiME](games/r/rime.md) | 4.64 | 
+| 268 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 269 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 270 | [CARRION](games/c/carrion.md) | 4.64 | 
 | 271 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 272 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
@@ -342,25 +342,25 @@
 | 340 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 341 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 342 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
-| 343 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 344 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 345 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 346 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 347 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 348 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 349 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 350 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 351 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 352 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 353 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 354 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 355 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 356 | [Hob](games/h/hob.md) | 4.58 | 
-| 357 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 358 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 359 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 360 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 361 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 343 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
+| 344 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 345 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 346 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 347 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 348 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 349 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 350 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 351 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 352 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 353 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 354 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 355 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 356 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 357 | [Hob](games/h/hob.md) | 4.58 | 
+| 358 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 359 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 360 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 361 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 362 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 363 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 364 | [Breathedge](games/b/breathedge.md) | 4.58 | 
