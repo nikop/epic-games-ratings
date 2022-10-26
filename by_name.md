@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -141,7 +141,7 @@
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
@@ -201,7 +201,7 @@
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 202 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
@@ -717,7 +717,7 @@
 | 715 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 716 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 717 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 718 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 718 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
 | 719 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 720 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 721 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
