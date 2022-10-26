@@ -222,18 +222,18 @@
 | 220 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 221 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
 | 222 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 223 | [Eastward](games/e/eastward.md) | 4.68 | 
-| 224 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 226 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 227 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 228 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 229 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 230 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 232 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 234 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 223 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 224 | [Eastward](games/e/eastward.md) | 4.68 | 
+| 225 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 226 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 227 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 228 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 229 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 230 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 231 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 233 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 235 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 236 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 237 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
