@@ -35,23 +35,24 @@
 | 33 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 34 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 35 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 36 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 37 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 38 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 39 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 40 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 41 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
-| 42 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
-| 43 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 44 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 45 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 46 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 47 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 49 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 50 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 51 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 52 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 53 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 54 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 55 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 36 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 37 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 38 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 39 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 40 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 41 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 42 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 43 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 44 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 45 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 46 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 47 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 48 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 49 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 50 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 51 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 52 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 53 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 54 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 55 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 56 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
