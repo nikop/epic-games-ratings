@@ -1,10 +1,10 @@
 {
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 2121,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-10-26T16:31:29.6869637+00:00",
+  "LastChanged": "2022-10-26T17:31:24.6970698+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -2110,12 +2110,17 @@
       "Time": "2022-10-26T16:31:29.6869638+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-26T17:31:24.6970701+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1388
+      "Count": 1398
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2123,7 +2128,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 471
+      "Count": 473
     },
     {
       "Text": "This game has Challenging Combat",
