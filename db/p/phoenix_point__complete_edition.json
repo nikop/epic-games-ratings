@@ -1,10 +1,10 @@
 {
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 2121,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-10-24T22:30:27.8884038+00:00",
+  "LastChanged": "2022-10-26T16:31:29.6869637+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -2104,6 +2104,11 @@
     {
       "Time": "2022-10-24T22:30:27.888404+00:00",
       "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-26T16:31:29.6869638+00:00",
+      "Rating": 4.55,
       "NumberOfRatings": null
     }
   ],

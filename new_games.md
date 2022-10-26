@@ -1,17 +1,17 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
 | 2 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.00 | 
 | 3 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
 | 4 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
-| 5 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.84 | 
+| 5 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 6 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
 | 8 | [Scorn](games/s/scorn.md) | 4.49 | 
 | 9 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 10 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
 | 11 | [Darkwood](games/d/darkwood.md) | 4.58 | 
-| 12 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 12 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 13 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 14 | [Outlast 2](games/o/outlast_2.md) | 4.69 | 
 | 15 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 

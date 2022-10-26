@@ -1,10 +1,10 @@
 {
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
-  "Rating": 4.53,
+  "Rating": 4.52,
   "NumberOfRatings": 1100,
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2022-10-25T20:01:48.2584461+00:00",
+  "LastChanged": "2022-10-26T16:31:52.4962983+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.0109804+00:00",
@@ -499,6 +499,11 @@
     {
       "Time": "2022-10-25T20:01:48.2584464+00:00",
       "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-26T16:31:52.4962985+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],
