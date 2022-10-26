@@ -111,7 +111,7 @@
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 111 | [Chorus](games/c/chorus.md) | 4.44 | 
-| 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
+| 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
@@ -251,7 +251,7 @@
 | 249 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 250 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 251 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
+| 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 253 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -709,7 +709,7 @@
 | 707 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 708 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 709 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 710 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
+| 710 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 711 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 712 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 713 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
@@ -733,7 +733,7 @@
 | 731 | [Warface](games/w/warface.md) | 3.95 | 
 | 732 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 733 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 734 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 734 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 735 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 736 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 737 | [Warpips](games/w/warpips.md) | 4.57 | 
