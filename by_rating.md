@@ -124,18 +124,18 @@
 | 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 125 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 128 | [Northgard](games/n/northgard.md) | 4.74 | 
-| 129 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 130 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 131 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
-| 132 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 133 | [Revita](games/r/revita.md) | 4.74 | 
-| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 127 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 130 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 132 | [Revita](games/r/revita.md) | 4.74 | 
+| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 137 | [Ghostrunner](games/g/ghostrunner.md) | 4.73 | 
 | 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -575,17 +575,17 @@
 | 573 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 575 | [Encased](games/e/encased.md) | 4.40 | 
-| 576 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 577 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 578 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 579 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
-| 580 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 581 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 582 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 583 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 584 | [Core](games/c/core.md) | 4.39 | 
-| 585 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 586 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
+| 576 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 577 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 578 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
+| 579 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 580 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 581 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 582 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 583 | [Core](games/c/core.md) | 4.39 | 
+| 584 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
+| 586 | [Othercide](games/o/othercide.md) | 4.39 | 
 | 587 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 588 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 589 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
@@ -658,32 +658,32 @@
 | 656 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 657 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 658 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 659 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 660 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 661 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 662 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 663 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 664 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 666 | [Ashen](games/a/ashen.md) | 4.26 | 
-| 667 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 668 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 669 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 670 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 671 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 673 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
-| 674 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 675 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
-| 676 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 677 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 678 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
-| 679 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 680 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 681 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 682 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 683 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 684 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 659 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 660 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 661 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 662 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 663 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 665 | [Ashen](games/a/ashen.md) | 4.26 | 
+| 666 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 667 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 668 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 669 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 670 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 671 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 672 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 673 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 674 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 675 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 676 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 677 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
+| 678 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 679 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 680 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 681 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 682 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 684 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 685 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 686 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 687 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 

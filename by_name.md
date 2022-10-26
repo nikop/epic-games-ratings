@@ -363,7 +363,7 @@
 | 361 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 362 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 363 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 364 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 364 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 365 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 366 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 367 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -431,7 +431,7 @@
 | 429 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 430 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
 | 431 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
-| 432 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 432 | [Othercide](games/o/othercide.md) | 4.39 | 
 | 433 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 434 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 435 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -671,7 +671,7 @@
 | 669 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 670 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 671 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 672 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 672 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 673 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 674 | [Timberborn](games/t/timberborn.md) | 4.69 | 
 | 675 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
