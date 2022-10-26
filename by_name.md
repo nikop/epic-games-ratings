@@ -20,7 +20,7 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -74,7 +74,7 @@
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
 | 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
-| 75 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
+| 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
@@ -128,7 +128,7 @@
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 129 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
@@ -204,7 +204,7 @@
 | 202 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
+| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -213,7 +213,7 @@
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.35 | 
-| 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.15 | 
+| 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -436,7 +436,7 @@
 | 434 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 435 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 436 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 437 | [Outlast 2](games/o/outlast_2.md) | 4.67 | 
+| 437 | [Outlast 2](games/o/outlast_2.md) | 4.69 | 
 | 438 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 439 | [Outward](games/o/outward.md) | 4.56 | 
 | 440 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -450,7 +450,7 @@
 | 448 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 449 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 453 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
@@ -662,7 +662,7 @@
 | 660 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 661 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 662 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 663 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 663 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
 | 664 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 665 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 666 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -712,8 +712,8 @@
 | 710 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 
 | 711 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 712 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 713 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 714 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 713 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 714 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.84 | 
 | 715 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 716 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
 | 717 | [UnMetal](games/u/unmetal.md) | 4.55 | 
