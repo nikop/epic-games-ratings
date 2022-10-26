@@ -62,7 +62,7 @@
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
+| 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
@@ -189,7 +189,7 @@
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.68 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -340,7 +340,7 @@
 | 338 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 339 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 340 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 341 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 341 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 342 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 343 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 344 | [Lake](games/l/lake.md) | 4.08 | 
@@ -649,7 +649,7 @@
 | 647 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 649 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.69 | 
-| 650 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.14 | 
+| 650 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 651 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 652 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 653 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -738,7 +738,7 @@
 | 736 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 737 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 738 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 739 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
+| 739 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 740 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 741 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 742 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
