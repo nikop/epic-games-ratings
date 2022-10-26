@@ -168,20 +168,20 @@
 | 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 169 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 171 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 172 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 173 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 175 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 178 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 179 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 180 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 181 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 182 | [Everything](games/e/everything.md) | 4.70 | 
+| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 175 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 178 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 179 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 180 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 181 | [Everything](games/e/everything.md) | 4.70 | 
+| 182 | [Outlast](games/o/outlast.md) | 4.70 | 
 | 183 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 184 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 185 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
