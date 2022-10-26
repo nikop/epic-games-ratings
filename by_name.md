@@ -40,7 +40,7 @@
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
-| 41 | [Ashen](games/a/ashen.md) | 4.25 | 
+| 41 | [Ashen](games/a/ashen.md) | 4.26 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -523,7 +523,7 @@
 | 521 | [Scorn](games/s/scorn.md) | 4.49 | 
 | 522 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 523 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 524 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 524 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 525 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 526 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 527 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -700,7 +700,7 @@
 | 698 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 699 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 700 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 701 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 701 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 702 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 703 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 704 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
@@ -737,7 +737,7 @@
 | 735 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 736 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 737 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 738 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 738 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 739 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 740 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 741 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 

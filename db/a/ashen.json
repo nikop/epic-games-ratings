@@ -1,10 +1,10 @@
 {
   "ID": "wren",
   "Name": "Ashen",
-  "Rating": 4.25,
+  "Rating": 4.26,
   "NumberOfRatings": 111,
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
-  "LastChanged": "2022-10-22T18:00:22.8647095+00:00",
+  "LastChanged": "2022-10-26T03:00:25.837755+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.0881691+00:00",
@@ -249,6 +249,11 @@
     {
       "Time": "2022-10-22T18:00:22.8647099+00:00",
       "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-26T03:00:25.8377557+00:00",
+      "Rating": 4.26,
       "NumberOfRatings": null
     }
   ],
