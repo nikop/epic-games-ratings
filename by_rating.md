@@ -201,26 +201,26 @@
 | 199 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 200 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
 | 201 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 202 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 203 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 204 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 205 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 206 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 207 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 208 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 209 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 210 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 211 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 212 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 213 | [SOMA](games/s/soma.md) | 4.68 | 
-| 214 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 215 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 216 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 217 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 218 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 219 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
-| 220 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 221 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
+| 202 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
+| 203 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 204 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 205 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 206 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 207 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 208 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 209 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 211 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 213 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 214 | [SOMA](games/s/soma.md) | 4.68 | 
+| 215 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 216 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 217 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 218 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 219 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 220 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 221 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 222 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 223 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 224 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 

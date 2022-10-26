@@ -72,7 +72,7 @@
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 
+| 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
 | 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
