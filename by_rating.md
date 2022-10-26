@@ -686,11 +686,11 @@
 | 684 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 685 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 686 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 687 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
-| 689 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 690 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 691 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 687 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 688 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 689 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 690 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 691 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 692 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 693 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 694 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
