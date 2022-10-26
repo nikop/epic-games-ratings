@@ -161,7 +161,7 @@
 | 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
@@ -389,7 +389,7 @@
 | 387 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 388 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 389 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 390 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 390 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 391 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 392 | [Moving Out](games/m/moving_out.md) | 4.60 | 
 | 393 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -499,7 +499,7 @@
 | 497 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 498 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 499 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 500 | [Road 96](games/r/road_96.md) | 4.56 | 
+| 500 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 501 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 502 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 503 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
@@ -684,7 +684,7 @@
 | 682 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 683 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 684 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 685 | [Torchlight](games/t/torchlight.md) | 4.38 | 
+| 685 | [Torchlight](games/t/torchlight.md) | 4.39 | 
 | 686 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 687 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 688 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
