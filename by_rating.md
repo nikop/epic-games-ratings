@@ -24,17 +24,17 @@
 | 22 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 23 | [Firework](games/f/firework.md) | 4.87 | 
 | 24 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 26 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 27 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 32 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 33 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 35 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 28 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 29 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 36 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
@@ -57,13 +57,13 @@
 | 55 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 57 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 58 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 60 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 61 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 62 | [Quake](games/q/quake.md) | 4.82 | 
-| 63 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 64 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 59 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 60 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 61 | [Quake](games/q/quake.md) | 4.82 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 63 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 64 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 66 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 67 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -531,18 +531,18 @@
 | 529 | [Figment](games/f/figment.md) | 4.44 | 
 | 530 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 531 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 532 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 533 | [Chorus](games/c/chorus.md) | 4.44 | 
-| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 535 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 536 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 537 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 538 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 539 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 540 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 541 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 542 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 532 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 534 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 535 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 536 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 538 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 539 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 540 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 543 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 544 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 545 | [The Medium](games/t/the_medium.md) | 4.43 | 
 | 546 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
@@ -590,15 +590,15 @@
 | 588 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 589 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 590 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 591 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 592 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 593 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 594 | [Torchlight](games/t/torchlight.md) | 4.38 | 
-| 595 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 596 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 597 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 598 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 599 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 591 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 592 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 594 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 595 | [Torchlight](games/t/torchlight.md) | 4.38 | 
+| 596 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 597 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 598 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 599 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 600 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 601 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 602 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
@@ -655,10 +655,10 @@
 | 653 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 654 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 655 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 656 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 657 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 658 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
-| 659 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 656 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 657 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 658 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 659 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 660 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 661 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 662 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -699,12 +699,12 @@
 | 697 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 698 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 699 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 700 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
-| 701 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 702 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 703 | [Crayta](games/c/crayta.md) | 4.18 | 
-| 704 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 705 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
+| 700 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 701 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
+| 702 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 703 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 704 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 705 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 706 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 707 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 708 | [Scavengers](games/s/scavengers.md) | 4.17 | 

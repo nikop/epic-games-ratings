@@ -84,7 +84,7 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
@@ -126,7 +126,7 @@
 | 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.18 | 
@@ -141,7 +141,7 @@
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
@@ -201,7 +201,7 @@
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 202 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
@@ -658,14 +658,14 @@
 | 656 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 657 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
 | 658 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 659 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 659 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 660 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 661 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 662 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 663 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
 | 664 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 665 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 666 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 666 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 667 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 668 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 669 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
