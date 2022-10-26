@@ -243,7 +243,7 @@
 | 241 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 242 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 243 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 244 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 245 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 246 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 247 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -339,9 +339,9 @@
 | 337 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 338 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 339 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 340 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 341 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 342 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
+| 342 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 343 | [Lake](games/l/lake.md) | 4.08 | 
 | 344 | [Lamentum](games/l/lamentum.md) | 4.30 | 
 | 345 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
