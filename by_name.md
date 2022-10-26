@@ -247,7 +247,7 @@
 | 245 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 246 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 247 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 248 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 248 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
 | 249 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 250 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 251 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
@@ -333,7 +333,7 @@
 | 331 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 332 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 333 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 334 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 334 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
 | 335 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
 | 336 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 337 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -462,7 +462,7 @@
 | 460 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 461 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 462 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 463 | [Pine](games/p/pine.md) | 4.13 | 
+| 463 | [Pine](games/p/pine.md) | 4.14 | 
 | 464 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
 | 465 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 466 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
@@ -532,7 +532,7 @@
 | 530 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 531 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 532 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 533 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
+| 533 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
 | 534 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 535 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 536 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
@@ -620,7 +620,7 @@
 | 618 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 619 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 620 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
@@ -668,7 +668,7 @@
 | 666 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 667 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 668 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 669 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 669 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 670 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 671 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 672 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
@@ -759,8 +759,8 @@
 | 757 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 758 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 759 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 760 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 761 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 760 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 761 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 762 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 763 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 764 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
