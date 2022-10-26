@@ -520,8 +520,8 @@
 | 518 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 519 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 520 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 521 | [Scorn](games/s/scorn.md) | 4.50 | 
-| 522 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 521 | [Scorn](games/s/scorn.md) | 4.49 | 
+| 522 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 523 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 524 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 525 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
@@ -601,7 +601,7 @@
 | 599 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 600 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 601 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 602 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 602 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 603 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 604 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 605 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
