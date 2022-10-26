@@ -60,7 +60,7 @@
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 61 | [Backbone](games/b/backbone.md) | 4.37 | 
+| 61 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.39 | 
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
@@ -392,7 +392,7 @@
 | 390 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 391 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 392 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 393 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 393 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 394 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 395 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 396 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -582,7 +582,7 @@
 | 580 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 581 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 582 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
-| 583 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 583 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 584 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 585 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 586 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
@@ -624,7 +624,7 @@
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 626 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 627 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 628 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -725,7 +725,7 @@
 | 723 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 724 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 725 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 726 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 726 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 727 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 728 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 729 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
