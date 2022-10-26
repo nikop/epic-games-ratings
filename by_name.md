@@ -129,7 +129,7 @@
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 130 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 130 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -154,7 +154,7 @@
 | 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -490,7 +490,7 @@
 | 488 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 489 | [Revita](games/r/revita.md) | 4.74 | 
 | 490 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 491 | [RiME](games/r/rime.md) | 4.64 | 
+| 491 | [RiME](games/r/rime.md) | 4.60 | 
 | 492 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 493 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 494 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -620,11 +620,11 @@
 | 618 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 619 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 620 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 626 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 627 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 628 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
