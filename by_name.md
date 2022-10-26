@@ -181,7 +181,7 @@
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
+| 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -726,7 +726,7 @@
 | 724 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 725 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 726 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 727 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 727 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 728 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 729 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 730 | [Warface](games/w/warface.md) | 3.95 | 

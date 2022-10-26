@@ -28,18 +28,18 @@
 | 26 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 29 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 30 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 31 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 32 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 33 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 34 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 37 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 30 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 36 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 40 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 41 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 42 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 43 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
@@ -288,21 +288,21 @@
 | 286 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 287 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 288 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 289 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 290 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 291 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 292 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 293 | [GRIME](games/g/grime.md) | 4.62 | 
-| 294 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 295 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 296 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 297 | [Prey](games/p/prey.md) | 4.61 | 
-| 298 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 299 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 300 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 301 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 302 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 303 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 289 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 290 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 291 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 292 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 293 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 294 | [GRIME](games/g/grime.md) | 4.62 | 
+| 295 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 296 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 297 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 298 | [Prey](games/p/prey.md) | 4.61 | 
+| 299 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 300 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 301 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 302 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 303 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 304 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 305 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 306 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
