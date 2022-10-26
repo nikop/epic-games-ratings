@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -189,7 +189,7 @@
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.68 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
