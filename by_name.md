@@ -623,7 +623,7 @@
 | 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 626 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 627 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
@@ -729,7 +729,7 @@
 | 727 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 728 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 729 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 730 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 730 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
 | 731 | [Warface](games/w/warface.md) | 3.95 | 
 | 732 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 733 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 

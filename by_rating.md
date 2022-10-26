@@ -152,18 +152,18 @@
 | 150 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 151 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 152 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 153 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
-| 154 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 155 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 156 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 157 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
-| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 159 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 160 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 161 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 163 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 164 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 153 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 154 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 155 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 156 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 157 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 158 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
+| 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 162 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 164 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
@@ -594,15 +594,15 @@
 | 592 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 594 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 595 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 596 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 597 | [Parkitect](games/p/parkitect.md) | 4.38 | 
-| 598 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 599 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 600 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 601 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 602 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 603 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 595 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 596 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 597 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 598 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 599 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 600 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 601 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 602 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 603 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 604 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 605 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 606 | [Paladins](games/p/paladins.md) | 4.36 | 
