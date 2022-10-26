@@ -18,7 +18,7 @@
 | 16 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 17 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 18 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 19 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 19 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 20 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 21 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 22 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 

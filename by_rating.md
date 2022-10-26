@@ -266,23 +266,23 @@
 | 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 267 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 268 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 269 | [RiME](games/r/rime.md) | 4.64 | 
-| 270 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 271 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 272 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
-| 273 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
-| 274 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 275 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
-| 276 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 277 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 278 | [Old World](games/o/old_world.md) | 4.63 | 
-| 279 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 282 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 283 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 267 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 268 | [RiME](games/r/rime.md) | 4.64 | 
+| 269 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 270 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 271 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
+| 272 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
+| 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 274 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 275 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 276 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 277 | [Old World](games/o/old_world.md) | 4.63 | 
+| 278 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 281 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 282 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 283 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 284 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 285 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 286 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
@@ -425,16 +425,16 @@
 | 423 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.53 | 
 | 424 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 425 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
-| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 427 | [Minit](games/m/minit.md) | 4.53 | 
-| 428 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 429 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 430 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 431 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 432 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 433 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 434 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 435 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 426 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 428 | [Minit](games/m/minit.md) | 4.53 | 
+| 429 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 430 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 431 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 432 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 433 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 434 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 435 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 437 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 438 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
@@ -539,11 +539,11 @@
 | 537 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 538 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 539 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 540 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
-| 543 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 544 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 540 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 541 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 542 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 544 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 545 | [The Medium](games/t/the_medium.md) | 4.43 | 
 | 546 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 547 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 

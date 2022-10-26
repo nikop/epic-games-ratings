@@ -161,7 +161,7 @@
 | 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
@@ -511,7 +511,7 @@
 | 509 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 510 | [RUINER](games/r/ruiner.md) | 4.56 | 
 | 511 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 512 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 512 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 513 | [Sable](games/s/sable.md) | 4.54 | 
 | 514 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 515 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -604,7 +604,7 @@
 | 602 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 603 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 604 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 605 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 605 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 606 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 607 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 608 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
