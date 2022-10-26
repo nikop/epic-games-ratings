@@ -499,14 +499,14 @@
 | 497 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 498 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 499 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 500 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
-| 501 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 502 | [CryoFall](games/c/cryofall.md) | 4.47 | 
-| 503 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 504 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 505 | [SMITE](games/s/smite.md) | 4.46 | 
-| 506 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 507 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 500 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 501 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 502 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 503 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 504 | [SMITE](games/s/smite.md) | 4.46 | 
+| 505 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 506 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 507 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 508 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 509 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 

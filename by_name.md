@@ -274,7 +274,7 @@
 | 272 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 274 | [Hades](games/h/hades.md) | 4.92 | 
-| 275 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 
+| 275 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 276 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 277 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
