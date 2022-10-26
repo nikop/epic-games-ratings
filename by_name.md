@@ -296,7 +296,7 @@
 | 294 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 295 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 296 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 297 | [House Party](games/h/house_party.md) | 4.33 | 
+| 297 | [House Party](games/h/house_party.md) | 4.34 | 
 | 298 | [Hue](games/h/hue.md) | 4.55 | 
 | 299 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 300 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 

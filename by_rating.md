@@ -623,13 +623,13 @@
 | 621 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 622 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 623 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 624 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 625 | [ELEX](games/e/elex.md) | 4.34 | 
-| 626 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 627 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
-| 628 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 629 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 630 | [House Party](games/h/house_party.md) | 4.33 | 
+| 624 | [House Party](games/h/house_party.md) | 4.34 | 
+| 625 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 626 | [ELEX](games/e/elex.md) | 4.34 | 
+| 627 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 628 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.34 | 
+| 629 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 630 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 631 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 632 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 633 | [Starsand](games/s/starsand.md) | 4.33 | 
