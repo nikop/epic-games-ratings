@@ -335,26 +335,26 @@
 | 333 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 334 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 335 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 336 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 337 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 338 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 339 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 340 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
-| 341 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 342 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 343 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 344 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 345 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 346 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 347 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 348 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 349 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 350 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 351 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 352 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 353 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 354 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 355 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 336 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 337 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 338 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 339 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 340 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 341 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
+| 342 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 343 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 344 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 345 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 346 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 347 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 348 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 349 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 350 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 351 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 352 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 353 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 354 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 355 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 356 | [Hob](games/h/hob.md) | 4.58 | 
 | 357 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 358 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -539,14 +539,14 @@
 | 537 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 538 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 539 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 540 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 541 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 542 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
-| 544 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 545 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 546 | [The Medium](games/t/the_medium.md) | 4.43 | 
-| 547 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 540 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 543 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 544 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 545 | [The Medium](games/t/the_medium.md) | 4.43 | 
+| 546 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 547 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 548 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 549 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 550 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
