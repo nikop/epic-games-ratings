@@ -74,7 +74,7 @@
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
 | 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
-| 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 75 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
@@ -207,7 +207,7 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
@@ -278,7 +278,7 @@
 | 276 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 277 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 278 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 279 | [Haven](games/h/haven.md) | 4.76 | 
+| 279 | [Haven](games/h/haven.md) | 4.74 | 
 | 280 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 281 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 282 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
@@ -297,7 +297,7 @@
 | 295 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 296 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 297 | [House Party](games/h/house_party.md) | 4.34 | 
-| 298 | [Hue](games/h/hue.md) | 4.55 | 
+| 298 | [Hue](games/h/hue.md) | 4.54 | 
 | 299 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 300 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 301 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
@@ -450,7 +450,7 @@
 | 448 | [Parkitect](games/p/parkitect.md) | 4.38 | 
 | 449 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 453 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
