@@ -1,10 +1,10 @@
 {
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
-  "Rating": 4.19,
+  "Rating": 4.18,
   "NumberOfRatings": 94,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-10-13T23:02:01.7389244+00:00",
+  "LastChanged": "2022-10-26T12:02:28.2294748+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -175,6 +175,11 @@
       "Time": "2022-10-13T23:02:01.7389245+00:00",
       "Rating": 4.19,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-26T12:02:28.2294749+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -204,7 +209,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",

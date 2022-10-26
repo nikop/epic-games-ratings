@@ -110,7 +110,7 @@
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 111 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 111 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -129,7 +129,7 @@
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.65 | 
-| 130 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 130 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -204,7 +204,7 @@
 | 202 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -429,7 +429,7 @@
 | 427 | [Old World](games/o/old_world.md) | 4.63 | 
 | 428 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 429 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 430 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.15 | 
+| 430 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
 | 431 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
 | 432 | [Othercide](games/o/othercide.md) | 4.39 | 
 | 433 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -509,7 +509,7 @@
 | 507 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 508 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 509 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 510 | [RUINER](games/r/ruiner.md) | 4.56 | 
+| 510 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 511 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 512 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 513 | [Sable](games/s/sable.md) | 4.54 | 
@@ -578,7 +578,7 @@
 | 576 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 577 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 578 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 579 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 579 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 580 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 581 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 582 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
