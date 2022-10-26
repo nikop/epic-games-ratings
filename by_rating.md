@@ -311,26 +311,26 @@
 | 309 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
 | 310 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 312 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
-| 313 | [Control](games/c/control.md) | 4.60 | 
-| 314 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 315 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 316 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 317 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 318 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 319 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 320 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 321 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 322 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 323 | [20XX](games/2/20xx.md) | 4.60 | 
-| 324 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 325 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 326 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 327 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 328 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 329 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 330 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 331 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 312 | [Control](games/c/control.md) | 4.60 | 
+| 313 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 314 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 315 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 316 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 317 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 318 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 319 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 320 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 321 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 322 | [20XX](games/2/20xx.md) | 4.60 | 
+| 323 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 324 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 325 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 326 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 327 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 328 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 329 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 330 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 331 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 332 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 333 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
@@ -361,23 +361,23 @@
 | 359 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 360 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 361 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 362 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 363 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 364 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 365 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
-| 366 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
-| 367 | [Darkwood](games/d/darkwood.md) | 4.58 | 
-| 368 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 369 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 370 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 371 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 372 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 373 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 374 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 375 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 376 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 377 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 378 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 362 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
+| 363 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
+| 365 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
+| 366 | [Darkwood](games/d/darkwood.md) | 4.58 | 
+| 367 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 368 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 369 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 370 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 371 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 372 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 373 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 374 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 375 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 376 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 377 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 378 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 379 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 380 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 381 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 

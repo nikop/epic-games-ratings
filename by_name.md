@@ -320,7 +320,7 @@
 | 318 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 319 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 320 | [Journey](games/j/journey.md) | 4.75 | 
-| 321 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 321 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 322 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 323 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 324 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -596,7 +596,7 @@
 | 594 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 595 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.80 | 
 | 596 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 597 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
+| 597 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 598 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 599 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 600 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
