@@ -86,14 +86,14 @@
 | 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 87 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 88 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 89 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 90 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 91 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
-| 92 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 93 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 92 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
+| 93 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 96 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -174,25 +174,25 @@
 | 172 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 173 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 175 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 178 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 179 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 180 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 181 | [Everything](games/e/everything.md) | 4.70 | 
-| 182 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 184 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 185 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 189 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 190 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 191 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 192 | [Barony](games/b/barony.md) | 4.69 | 
-| 193 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 175 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 178 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 179 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 180 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 181 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 182 | [Everything](games/e/everything.md) | 4.70 | 
+| 183 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 184 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 185 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 186 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 187 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 190 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 191 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 192 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 193 | [Barony](games/b/barony.md) | 4.69 | 
 | 194 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 195 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 196 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
@@ -287,14 +287,14 @@
 | 285 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 286 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 287 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 288 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 289 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 290 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 291 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 292 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 293 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 294 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 295 | [GRIME](games/g/grime.md) | 4.62 | 
+| 288 | [GRIME](games/g/grime.md) | 4.63 | 
+| 289 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 290 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 291 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 292 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 293 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 294 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 295 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 296 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 297 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 298 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -624,12 +624,12 @@
 | 622 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 623 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 624 | [House Party](games/h/house_party.md) | 4.34 | 
-| 625 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 626 | [ELEX](games/e/elex.md) | 4.34 | 
-| 627 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 628 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 629 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 630 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 625 | [ELEX](games/e/elex.md) | 4.34 | 
+| 626 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 627 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 628 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 629 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 630 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 631 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 632 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
 | 633 | [Starsand](games/s/starsand.md) | 4.33 | 
@@ -742,9 +742,9 @@
 | 740 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 741 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 742 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 743 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 744 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
-| 745 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.00 | 
+| 743 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
+| 744 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 745 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 746 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 747 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 748 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 

@@ -1,10 +1,10 @@
 {
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 46,
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
-  "LastChanged": "2022-10-16T19:31:22.6154194+00:00",
+  "LastChanged": "2022-10-26T21:01:55.158217+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:52.5995033+00:00",
@@ -119,6 +119,11 @@
     {
       "Time": "2022-10-16T19:31:22.6154198+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-26T21:01:55.1582173+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

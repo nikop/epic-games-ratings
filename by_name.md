@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -106,7 +106,7 @@
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -270,7 +270,7 @@
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 270 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 271 | [GRIME](games/g/grime.md) | 4.62 | 
+| 271 | [GRIME](games/g/grime.md) | 4.63 | 
 | 272 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 274 | [Hades](games/h/hades.md) | 4.92 | 
@@ -409,7 +409,7 @@
 | 407 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 408 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
 | 409 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 410 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.00 | 
+| 410 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
 | 411 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 412 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 413 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -673,7 +673,7 @@
 | 671 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 672 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 673 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 674 | [Timberborn](games/t/timberborn.md) | 4.69 | 
+| 674 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 675 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 676 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 677 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
