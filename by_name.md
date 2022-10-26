@@ -154,7 +154,7 @@
 | 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
