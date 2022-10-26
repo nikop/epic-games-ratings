@@ -143,7 +143,7 @@
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
-| 144 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
+| 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.68 | 
@@ -261,7 +261,7 @@
 | 259 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 260 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 261 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
+| 262 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -392,7 +392,7 @@
 | 390 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 391 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 392 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 393 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 393 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 394 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 395 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 396 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -422,7 +422,7 @@
 | 420 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 421 | [Observation](games/o/observation.md) | 4.46 | 
 | 422 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.35 | 
-| 423 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 423 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 424 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 425 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 426 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
