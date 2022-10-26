@@ -25,16 +25,16 @@
 | 23 | [Firework](games/f/firework.md) | 4.87 | 
 | 24 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 25 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 26 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 30 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 28 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 29 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 35 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 36 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
@@ -179,27 +179,27 @@
 | 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 178 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 179 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 180 | [Everything](games/e/everything.md) | 4.70 | 
-| 181 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 182 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 183 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 184 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 185 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 186 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 187 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 188 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 189 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 190 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 191 | [Barony](games/b/barony.md) | 4.69 | 
-| 192 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 195 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 196 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 197 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 198 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
-| 199 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 200 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 180 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
+| 181 | [Everything](games/e/everything.md) | 4.70 | 
+| 182 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 184 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 185 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 189 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 190 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 191 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 192 | [Barony](games/b/barony.md) | 4.69 | 
+| 193 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 194 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 195 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 196 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 197 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 198 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 199 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.69 | 
+| 200 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 201 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 202 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 203 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -667,13 +667,13 @@
 | 665 | [Ashen](games/a/ashen.md) | 4.26 | 
 | 666 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 667 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
-| 668 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 669 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 670 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 671 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 673 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
-| 674 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 668 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 669 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 670 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 671 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 672 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 673 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 674 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 675 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 676 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 677 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.24 | 

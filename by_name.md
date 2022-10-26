@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -607,7 +607,7 @@
 | 605 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 606 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 607 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 608 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 608 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
 | 609 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 610 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 611 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -657,7 +657,7 @@
 | 655 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 656 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
 | 657 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 658 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 658 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 659 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 660 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 661 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
