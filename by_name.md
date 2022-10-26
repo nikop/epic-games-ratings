@@ -310,7 +310,7 @@
 | 308 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 309 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 310 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 311 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 311 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 312 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 313 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 314 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
@@ -435,7 +435,7 @@
 | 433 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 434 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 435 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 436 | [Outlast 2](games/o/outlast_2.md) | 4.65 | 
+| 436 | [Outlast 2](games/o/outlast_2.md) | 4.67 | 
 | 437 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 438 | [Outward](games/o/outward.md) | 4.56 | 
 | 439 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -548,7 +548,7 @@
 | 546 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
 | 547 | [SMITE](games/s/smite.md) | 4.46 | 
 | 548 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 549 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 549 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 550 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 551 | [SOMA](games/s/soma.md) | 4.68 | 
 | 552 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 

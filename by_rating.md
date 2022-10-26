@@ -236,37 +236,37 @@
 | 234 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 235 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 236 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 237 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 238 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 240 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 242 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 243 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 244 | [CARRION](games/c/carrion.md) | 4.66 | 
-| 245 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 246 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 247 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 248 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 250 | [Crashlands](games/c/crashlands.md) | 4.65 | 
-| 251 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 252 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 253 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 254 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 237 | [Outlast 2](games/o/outlast_2.md) | 4.67 | 
+| 238 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 239 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 240 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 241 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 242 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 243 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 244 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 245 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 246 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 247 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 248 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 249 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 251 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 252 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 254 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 255 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 256 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.65 | 
 | 257 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 258 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 259 | [Outlast 2](games/o/outlast_2.md) | 4.65 | 
-| 260 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 261 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 262 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 263 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 267 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 259 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 260 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 261 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 262 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 263 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 264 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 266 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 267 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 268 | [RiME](games/r/rime.md) | 4.64 | 
 | 269 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 270 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
@@ -684,14 +684,14 @@
 | 682 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 684 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 685 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 686 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 687 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
-| 688 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 689 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 690 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 691 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 692 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 685 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 686 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 687 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 688 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 689 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 690 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 691 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 692 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 693 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 694 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
 | 695 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
