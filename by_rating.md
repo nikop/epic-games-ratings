@@ -403,22 +403,22 @@
 | 401 | [UnMetal](games/u/unmetal.md) | 4.55 | 
 | 402 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 403 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 404 | [NORCO](games/n/norco.md) | 4.55 | 
-| 405 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 406 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 407 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 408 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 409 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 410 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 411 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 412 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
-| 413 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 414 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
-| 415 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 416 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
-| 417 | [Sable](games/s/sable.md) | 4.54 | 
-| 418 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 419 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
+| 404 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
+| 405 | [NORCO](games/n/norco.md) | 4.55 | 
+| 406 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 407 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 408 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 409 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 410 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 411 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 412 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 413 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 414 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 415 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
+| 416 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 417 | [Dark Deception](games/d/dark_deception.md) | 4.54 | 
+| 418 | [Sable](games/s/sable.md) | 4.54 | 
+| 419 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
 | 420 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 421 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 422 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 

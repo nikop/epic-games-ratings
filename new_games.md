@@ -3,7 +3,7 @@
 | 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 2 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.00 | 
 | 3 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
-| 4 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.54 | 
+| 4 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
 | 5 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 6 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.76 | 
