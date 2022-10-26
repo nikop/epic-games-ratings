@@ -316,7 +316,7 @@
 | 314 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 315 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 316 | [Ironcast](games/i/ironcast.md) | 3.87 | 
-| 317 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 317 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 318 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 319 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 320 | [Journey](games/j/journey.md) | 4.75 | 
@@ -608,7 +608,7 @@
 | 606 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 607 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 608 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 609 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
+| 609 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
 | 610 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 611 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 612 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 

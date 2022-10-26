@@ -156,30 +156,30 @@
 | 154 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 155 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 156 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
-| 157 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 158 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 159 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 160 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 162 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 163 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 164 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 165 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 166 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 168 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 174 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 175 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 176 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 178 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 179 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 180 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
+| 157 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
+| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 159 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 160 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 161 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 163 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 164 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 169 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 171 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 172 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 173 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 175 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 177 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 178 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 179 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 180 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 181 | [Everything](games/e/everything.md) | 4.70 | 
 | 182 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -391,14 +391,14 @@
 | 389 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 390 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 391 | [Outward](games/o/outward.md) | 4.56 | 
-| 392 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 393 | [Road 96](games/r/road_96.md) | 4.56 | 
-| 394 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
-| 395 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 396 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 397 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 398 | [Hue](games/h/hue.md) | 4.55 | 
-| 399 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 392 | [Road 96](games/r/road_96.md) | 4.56 | 
+| 393 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.56 | 
+| 394 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 395 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 396 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 397 | [Hue](games/h/hue.md) | 4.55 | 
+| 398 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 399 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 400 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 401 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 402 | [Horace](games/h/horace.md) | 4.55 | 
