@@ -147,7 +147,7 @@
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -593,7 +593,7 @@
 | 591 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 592 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 593 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 594 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.86 | 
+| 594 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.80 | 
 | 595 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 596 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 597 | [Superliminal](games/s/superliminal.md) | 4.76 | 
@@ -625,7 +625,7 @@
 | 623 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 624 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 625 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
-| 626 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 626 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 627 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 628 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 629 | [The Fall](games/t/the_fall.md) | 4.26 | 
@@ -665,7 +665,7 @@
 | 663 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 664 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 665 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 666 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
+| 666 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 667 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 668 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 669 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
