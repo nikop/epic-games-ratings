@@ -66,14 +66,14 @@
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 
+| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 68 | [Barony](games/b/barony.md) | 4.69 | 
 | 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
-| 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.80 | 
+| 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -350,7 +350,7 @@
 | 348 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 349 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 350 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 351 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
+| 351 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 352 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 353 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 354 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
@@ -426,7 +426,7 @@
 | 424 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 425 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 426 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 427 | [Old World](games/o/old_world.md) | 4.63 | 
+| 427 | [Old World](games/o/old_world.md) | 4.64 | 
 | 428 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 429 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 430 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
@@ -620,7 +620,7 @@
 | 618 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 619 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 620 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 

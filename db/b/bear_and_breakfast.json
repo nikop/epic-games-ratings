@@ -1,14 +1,19 @@
 {
   "ID": "6c3a09646a954c04b5ab774e5b8c861d",
   "Name": "Bear and Breakfast",
-  "Rating": 4.8,
+  "Rating": 4.81,
   "FirstSeen": "2022-09-15T23:31:40.3408771+00:00",
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
-  "LastChanged": "2022-10-22T11:01:49.6440431+00:00",
+  "LastChanged": "2022-10-26T20:01:57.412303+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-22T11:01:49.6440432+00:00",
       "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-26T20:01:57.4123032+00:00",
+      "Rating": 4.81,
       "NumberOfRatings": null
     }
   ],
