@@ -103,16 +103,16 @@
 | 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 102 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 103 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 104 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 105 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 106 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 107 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
-| 108 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 112 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 113 | [Journey](games/j/journey.md) | 4.75 | 
+| 104 | [Journey](games/j/journey.md) | 4.76 | 
+| 105 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 106 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 107 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 108 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
+| 109 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 111 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 113 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 114 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 115 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 116 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
@@ -170,18 +170,18 @@
 | 168 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 169 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 171 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 172 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 173 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 175 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 178 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 179 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 180 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 181 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 182 | [Everything](games/e/everything.md) | 4.70 | 
+| 171 | [Everything](games/e/everything.md) | 4.71 | 
+| 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 173 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 174 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 175 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 176 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 177 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 178 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 179 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 180 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 181 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 182 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 183 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 184 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 185 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 

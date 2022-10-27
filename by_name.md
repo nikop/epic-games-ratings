@@ -202,7 +202,7 @@
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 203 | [Everything](games/e/everything.md) | 4.70 | 
+| 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -319,7 +319,7 @@
 | 317 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 318 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 319 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 320 | [Journey](games/j/journey.md) | 4.75 | 
+| 320 | [Journey](games/j/journey.md) | 4.76 | 
 | 321 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 322 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
 | 323 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
