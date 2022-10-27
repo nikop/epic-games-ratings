@@ -191,7 +191,7 @@
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
-| 192 | [Eastward](games/e/eastward.md) | 4.68 | 
+| 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 195 | [ELEX](games/e/elex.md) | 4.34 | 
@@ -504,7 +504,7 @@
 | 502 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 503 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 504 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 505 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 505 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
 | 506 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 507 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 508 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
