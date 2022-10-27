@@ -364,23 +364,23 @@
 | 362 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 363 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
-| 365 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
-| 366 | [Darkwood](games/d/darkwood.md) | 4.58 | 
-| 367 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 368 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 369 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 370 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 371 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 372 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 373 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 374 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 375 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 376 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 377 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 378 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 379 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 380 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 381 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
+| 365 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
+| 366 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
+| 367 | [Darkwood](games/d/darkwood.md) | 4.58 | 
+| 368 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 369 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 370 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 371 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 372 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 373 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 374 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 375 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 376 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 377 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 378 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 379 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 380 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 381 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 382 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 383 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 384 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
@@ -674,14 +674,14 @@
 | 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 673 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 674 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 675 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
-| 676 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 677 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 675 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 676 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 677 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
 | 678 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 679 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 680 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 681 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 682 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 680 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 681 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 682 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
 | 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 684 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 685 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 

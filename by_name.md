@@ -195,7 +195,7 @@
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
 | 195 | [ELEX](games/e/elex.md) | 4.34 | 
-| 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 196 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -766,5 +766,5 @@
 | 764 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 765 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 766 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 767 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
+| 767 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
 | 768 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
