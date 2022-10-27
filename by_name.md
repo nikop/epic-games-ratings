@@ -385,7 +385,7 @@
 | 383 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 384 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 385 | [Minit](games/m/minit.md) | 4.53 | 
-| 386 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.79 | 
+| 386 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.80 | 
 | 387 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 388 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 389 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
@@ -402,7 +402,7 @@
 | 400 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 401 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 402 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 403 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 403 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 404 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 405 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 406 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -450,12 +450,12 @@
 | 448 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 449 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 453 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
 | 455 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 456 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 456 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 458 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 459 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -730,7 +730,7 @@
 | 728 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 729 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 730 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 731 | [Warface](games/w/warface.md) | 3.95 | 
+| 731 | [Warface](games/w/warface.md) | 3.94 | 
 | 732 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 733 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 734 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
@@ -747,7 +747,7 @@
 | 745 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 746 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 747 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 748 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 748 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.60 | 
 | 749 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 750 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 751 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 

@@ -1,10 +1,10 @@
 {
   "ID": "65a9273ec61f4bb6b94461eb1ce8ec23",
   "Name": "PC Building Simulator 2",
-  "Rating": 4.62,
+  "Rating": 4.61,
   "FirstSeen": "2022-10-12T19:00:44.2364682+00:00",
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
-  "LastChanged": "2022-10-26T17:31:37.2688783+00:00",
+  "LastChanged": "2022-10-27T03:01:09.6239537+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-12T23:00:34.9560943+00:00",
@@ -120,6 +120,11 @@
       "Time": "2022-10-26T17:31:37.2688783+00:00",
       "Rating": 4.62,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T03:01:09.6239539+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -129,7 +134,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 153
+      "Count": 162
     },
     {
       "Text": "This game is Great for Beginners",

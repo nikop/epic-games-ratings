@@ -11,7 +11,7 @@
 | 9 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 10 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
 | 11 | [Darkwood](games/d/darkwood.md) | 4.58 | 
-| 12 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 12 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 13 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 14 | [Outlast 2](games/o/outlast_2.md) | 4.69 | 
 | 15 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
