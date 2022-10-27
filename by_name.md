@@ -616,7 +616,7 @@
 | 614 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 615 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 616 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
-| 617 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 617 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 618 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 619 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 620 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
@@ -760,7 +760,7 @@
 | 758 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 759 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 760 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 761 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 761 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 762 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 763 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 764 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
