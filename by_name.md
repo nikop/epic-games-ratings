@@ -161,7 +161,7 @@
 | 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
@@ -253,7 +253,7 @@
 | 251 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 252 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 253 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 256 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
@@ -450,7 +450,7 @@
 | 448 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 449 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 453 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
@@ -623,7 +623,7 @@
 | 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 626 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 627 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
@@ -650,7 +650,7 @@
 | 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 649 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 650 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 651 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 651 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 652 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 653 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 654 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
@@ -747,7 +747,7 @@
 | 745 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 746 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 747 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 748 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.60 | 
+| 748 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 749 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 750 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 751 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
