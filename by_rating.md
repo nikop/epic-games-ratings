@@ -517,17 +517,17 @@
 | 515 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 516 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 517 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 518 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 519 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 520 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 521 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
-| 522 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 523 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 524 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 525 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 526 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 527 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 528 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 518 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 519 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 520 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 521 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 522 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 523 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 524 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 526 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 527 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 528 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 529 | [Figment](games/f/figment.md) | 4.44 | 
 | 530 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 531 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
