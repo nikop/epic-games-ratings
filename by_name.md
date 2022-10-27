@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -353,7 +353,7 @@
 | 351 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 352 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 353 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 354 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 354 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 355 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 356 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 357 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -605,7 +605,7 @@
 | 603 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 604 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 605 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
-| 606 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 606 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 607 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 608 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 609 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
