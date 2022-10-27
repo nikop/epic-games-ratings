@@ -322,24 +322,24 @@
 | 320 | [20XX](games/2/20xx.md) | 4.60 | 
 | 321 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 322 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 323 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 324 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 325 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 326 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 327 | [RiME](games/r/rime.md) | 4.60 | 
-| 328 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 329 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 330 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 331 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 332 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 333 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 334 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 335 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 336 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 337 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 338 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 339 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 340 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.59 | 
+| 323 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 324 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 325 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 326 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 327 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 328 | [RiME](games/r/rime.md) | 4.60 | 
+| 329 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 330 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 331 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 332 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 333 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 335 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 336 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 337 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 338 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 339 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 340 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 341 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
 | 342 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
 | 343 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -424,21 +424,21 @@
 | 422 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 423 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 424 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 426 | [Minit](games/m/minit.md) | 4.53 | 
-| 427 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 428 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
-| 429 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 430 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 431 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 432 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 433 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 434 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 435 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 436 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 437 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 438 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 439 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 427 | [Minit](games/m/minit.md) | 4.53 | 
+| 428 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 429 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
+| 430 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 431 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 432 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 433 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 434 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 435 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 436 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 437 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 438 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 439 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 440 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 441 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 442 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -484,15 +484,15 @@
 | 482 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 483 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 484 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 485 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
-| 486 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 487 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 488 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 489 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
-| 490 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 491 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 492 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
-| 493 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
+| 485 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 486 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
+| 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 489 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
+| 491 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 492 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 493 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 494 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 495 | [Redout 2](games/r/redout_2.md) | 4.48 | 
 | 496 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
