@@ -675,15 +675,15 @@
 | 673 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 674 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 675 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 676 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 677 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
-| 678 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 679 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 680 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 681 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 682 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
-| 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 684 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
+| 676 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 677 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 678 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
+| 679 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
+| 680 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 681 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 682 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 683 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 684 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
 | 685 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 686 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 687 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
@@ -750,8 +750,8 @@
 | 748 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 749 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 750 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 751 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 752 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
+| 751 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
+| 752 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 753 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 754 | [Warface](games/w/warface.md) | 3.94 | 
 | 755 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 

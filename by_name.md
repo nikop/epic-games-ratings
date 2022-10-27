@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.68 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
@@ -363,7 +363,7 @@
 | 361 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 362 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 363 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 364 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
+| 364 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
 | 365 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 366 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 367 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -695,7 +695,7 @@
 | 693 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 694 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 695 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 696 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.95 | 
+| 696 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 697 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 698 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 699 | [Train Valley](games/t/train_valley.md) | 4.41 | 
