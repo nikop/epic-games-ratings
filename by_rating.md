@@ -442,25 +442,25 @@
 | 440 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 441 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 443 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 444 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 445 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 446 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 447 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 448 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 449 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 450 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 451 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 452 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 453 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 454 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 455 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 456 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 457 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 458 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 459 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 460 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 461 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 443 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 444 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 445 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 446 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 447 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 448 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 449 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 450 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 451 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 452 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 453 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 454 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 455 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 456 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 457 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 458 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 459 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 461 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 462 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 463 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 464 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
