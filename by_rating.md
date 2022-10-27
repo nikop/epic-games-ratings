@@ -663,9 +663,9 @@
 | 661 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 662 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 663 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 664 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 665 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
-| 666 | [Ashen](games/a/ashen.md) | 4.26 | 
+| 664 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 665 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 666 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 667 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 668 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
 | 669 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 

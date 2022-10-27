@@ -40,7 +40,7 @@
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 41 | [Ashen](games/a/ashen.md) | 4.26 | 
+| 41 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
