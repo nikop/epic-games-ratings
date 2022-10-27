@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
@@ -552,7 +552,7 @@
 | 550 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 551 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 552 | [SOMA](games/s/soma.md) | 4.68 | 
-| 553 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 553 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
 | 554 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 555 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 556 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
