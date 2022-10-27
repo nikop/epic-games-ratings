@@ -39,7 +39,7 @@
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.26 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -125,7 +125,7 @@
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
-| 126 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 126 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -154,7 +154,7 @@
 | 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -624,7 +624,7 @@
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 626 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 627 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 628 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 

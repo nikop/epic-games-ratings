@@ -27,31 +27,31 @@
 | 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 26 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 27 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 28 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 29 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 36 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 38 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
-| 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 29 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 30 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 31 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 32 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 33 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 37 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 39 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 40 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 41 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 42 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 43 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 44 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 45 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 46 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
-| 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 48 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 49 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 51 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
-| 52 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
+| 46 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 47 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 48 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 50 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
+| 51 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
+| 52 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -161,16 +161,16 @@
 | 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 164 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 162 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 163 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 164 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 165 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 166 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 167 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 168 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 171 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -444,24 +444,24 @@
 | 442 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 443 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 444 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 445 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 446 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 447 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 448 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 449 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 450 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 451 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 452 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 453 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 454 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 455 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 456 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 457 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 458 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 459 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 460 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 461 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 462 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 445 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 446 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 447 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 448 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 449 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 450 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 451 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 452 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 453 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 454 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 455 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 456 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 457 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 458 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 459 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 460 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 461 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 462 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 463 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 464 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 465 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
