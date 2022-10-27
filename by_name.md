@@ -463,7 +463,7 @@
 | 461 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 462 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 463 | [Pine](games/p/pine.md) | 4.14 | 
-| 464 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.39 | 
+| 464 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.40 | 
 | 465 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 466 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 467 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -542,7 +542,7 @@
 | 540 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 541 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 542 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 543 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 543 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 544 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 545 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 546 | [Slipways](games/s/slipways.md) | 4.70 | 
@@ -699,7 +699,7 @@
 | 697 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 698 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 699 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 700 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 700 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 701 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 702 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 703 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 

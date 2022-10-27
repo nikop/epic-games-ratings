@@ -14,7 +14,7 @@
 | 12 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 13 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
 | 14 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
-| 15 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 15 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 16 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 17 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 18 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
