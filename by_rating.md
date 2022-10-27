@@ -101,17 +101,17 @@
 | 99 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 100 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 102 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 103 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 104 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 105 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 106 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
-| 107 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 108 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 109 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 111 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 102 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 103 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 104 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 105 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 106 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 107 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
+| 108 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 109 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 110 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 112 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 113 | [Journey](games/j/journey.md) | 4.75 | 
 | 114 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 115 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
@@ -241,16 +241,16 @@
 | 239 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 240 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 241 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 242 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 243 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 244 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 245 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 246 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 247 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 248 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 249 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 250 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 243 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 244 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 246 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 247 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 248 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 249 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 250 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 251 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 252 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 253 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 254 | [Death's Door](games/d/death's_door.md) | 4.65 | 
@@ -369,21 +369,21 @@
 | 367 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 368 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 369 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 370 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 371 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
-| 372 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 373 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 374 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 375 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 376 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 377 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 378 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 379 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 380 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 381 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
-| 382 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 383 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
-| 384 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 370 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 371 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 372 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 373 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 374 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 375 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 376 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 377 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 378 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 379 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 380 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.57 | 
+| 381 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 382 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 383 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 384 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 385 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 386 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 387 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 

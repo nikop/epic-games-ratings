@@ -215,7 +215,7 @@
 | 213 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
-| 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
 | 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
@@ -450,7 +450,7 @@
 | 448 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 449 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 453 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
@@ -546,7 +546,7 @@
 | 544 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 545 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 546 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 547 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.75 | 
+| 547 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 548 | [SMITE](games/s/smite.md) | 4.46 | 
 | 549 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 550 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
