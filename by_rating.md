@@ -176,12 +176,12 @@
 | 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 175 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 176 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 178 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 179 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 180 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 181 | [Everything](games/e/everything.md) | 4.70 | 
-| 182 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 177 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 178 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 179 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 180 | [Everything](games/e/everything.md) | 4.70 | 
+| 181 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 182 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 183 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 184 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 185 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -199,10 +199,10 @@
 | 197 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 198 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 199 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 200 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 201 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 202 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
-| 203 | [Outlast 2](games/o/outlast_2.md) | 4.69 | 
+| 200 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 201 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 202 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 203 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
 | 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 205 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 206 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -693,9 +693,9 @@
 | 691 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 692 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 693 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 694 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 695 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 696 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 694 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 695 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 696 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 697 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
 | 698 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 699 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 

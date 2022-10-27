@@ -347,7 +347,7 @@
 | 345 | [Lamentum](games/l/lamentum.md) | 4.30 | 
 | 346 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 347 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 348 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 348 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 349 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 350 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 351 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -436,7 +436,7 @@
 | 434 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 435 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 436 | [Outlast](games/o/outlast.md) | 4.70 | 
-| 437 | [Outlast 2](games/o/outlast_2.md) | 4.69 | 
+| 437 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 438 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 439 | [Outward](games/o/outward.md) | 4.56 | 
 | 440 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -704,7 +704,7 @@
 | 702 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 703 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
 | 704 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 705 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 705 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 706 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
 | 707 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 708 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
