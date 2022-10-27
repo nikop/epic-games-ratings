@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 2 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 3 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
 | 4 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
@@ -15,7 +15,7 @@
 | 13 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
 | 14 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 15 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 16 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 16 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 17 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 18 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 19 | [Runbow](games/r/runbow.md) | 4.43 | 
@@ -46,7 +46,7 @@
 | 44 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 45 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 46 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 47 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 47 | [DOOM 3](games/d/doom_3.md) | 4.67 | 
 | 48 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 49 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 50 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 

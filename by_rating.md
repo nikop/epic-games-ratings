@@ -46,12 +46,12 @@
 | 44 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 45 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 46 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 
-| 47 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
-| 48 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 49 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 50 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 51 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 52 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
+| 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 48 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 49 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 51 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
+| 52 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -233,18 +233,18 @@
 | 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 232 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 234 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
-| 235 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 236 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 237 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 238 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 239 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 240 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 241 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 242 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 243 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
-| 244 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 245 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 234 | [DOOM 3](games/d/doom_3.md) | 4.67 | 
+| 235 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
+| 236 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 237 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 238 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 239 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 240 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 241 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 243 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 244 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
+| 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 246 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 247 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 248 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -668,13 +668,13 @@
 | 666 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 667 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 668 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 669 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 670 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 671 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 673 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
-| 674 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 675 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 669 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 670 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 671 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 672 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 673 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 674 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 675 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 676 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 677 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 678 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
