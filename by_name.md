@@ -66,7 +66,7 @@
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
+| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 
 | 68 | [Barony](games/b/barony.md) | 4.69 | 
 | 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
@@ -108,7 +108,7 @@
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 109 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
+| 109 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 111 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
@@ -204,7 +204,7 @@
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.70 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -647,7 +647,7 @@
 | 645 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 646 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 647 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 649 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 650 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 651 | [The Surge](games/t/the_surge.md) | 4.51 | 

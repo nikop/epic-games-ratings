@@ -511,19 +511,19 @@
 | 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 510 | [Observation](games/o/observation.md) | 4.46 | 
 | 511 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 512 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 513 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 514 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 515 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 516 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 517 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 518 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 519 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 520 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 521 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 522 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
-| 523 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
-| 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 512 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
+| 513 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 514 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 515 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 516 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 517 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 518 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 519 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 520 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 521 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 522 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 523 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
+| 524 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 525 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 526 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 527 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -617,37 +617,37 @@
 | 615 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 616 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 617 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 618 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
-| 619 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 620 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 621 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 622 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 623 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 624 | [House Party](games/h/house_party.md) | 4.34 | 
-| 625 | [ELEX](games/e/elex.md) | 4.34 | 
-| 626 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 627 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 628 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 629 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
-| 630 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 631 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 632 | [Lamentum](games/l/lamentum.md) | 4.33 | 
-| 633 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.33 | 
-| 634 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 635 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 636 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 637 | [Starsand](games/s/starsand.md) | 4.32 | 
-| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
+| 618 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 
+| 619 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
+| 620 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 621 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 622 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 623 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 624 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 625 | [House Party](games/h/house_party.md) | 4.34 | 
+| 626 | [ELEX](games/e/elex.md) | 4.34 | 
+| 627 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 628 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 629 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 630 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 631 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 632 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 633 | [Lamentum](games/l/lamentum.md) | 4.33 | 
+| 634 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.33 | 
+| 635 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 636 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 637 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 638 | [Starsand](games/s/starsand.md) | 4.32 | 
 | 639 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 640 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 641 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 642 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 643 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 644 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
-| 645 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 646 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 647 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 642 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 643 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 644 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 645 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
+| 646 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 647 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 648 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 649 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 650 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 651 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
@@ -727,11 +727,11 @@
 | 725 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 726 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 727 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 728 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 729 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 730 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 731 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 732 | [Chernobylite](games/c/chernobylite.md) | 4.08 | 
+| 728 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
+| 729 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 730 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 731 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 732 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 733 | [Lake](games/l/lake.md) | 4.08 | 
 | 734 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 735 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 

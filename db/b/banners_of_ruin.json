@@ -1,10 +1,10 @@
 {
   "ID": "163f3727bb6945a48d902fc5632626ac",
   "Name": "Banners of Ruin",
-  "Rating": 4.32,
+  "Rating": 4.35,
   "FirstSeen": "2022-07-22T20:26:24.5876592+00:00",
   "FirstSeenRating": "2022-10-06T05:31:48.7730935+00:00",
-  "LastChanged": "2022-10-26T20:02:03.5862931+00:00",
+  "LastChanged": "2022-10-27T20:01:43.8087618+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-06T05:31:48.7730939+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2022-10-26T20:02:03.5862934+00:00",
       "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T20:01:43.8087622+00:00",
+      "Rating": 4.35,
       "NumberOfRatings": null
     }
   ],

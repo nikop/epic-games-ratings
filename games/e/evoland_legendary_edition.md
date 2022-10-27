@@ -1,5 +1,5 @@
 # Evoland Legendary Edition
-Rating: 4.45 (-)  (as of 23.09.2022)  
+Rating: 4.46 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -7,3 +7,4 @@ Rating: 4.45 (-)  (as of 23.09.2022)
 | 2022-10-22 | 4.42 | - |
 | 2022-10-23 | 4.45 | - |
 | 2022-10-26 | 4.45 | - |
+| 2022-10-27 | 4.46 | - |
