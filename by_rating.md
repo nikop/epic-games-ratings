@@ -53,15 +53,15 @@
 | 51 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 52 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
-| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 60 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 61 | [Quake](games/q/quake.md) | 4.82 | 
-| 62 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 57 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 58 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 59 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 60 | [Quake](games/q/quake.md) | 4.82 | 
+| 61 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 62 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 63 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 64 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -115,21 +115,21 @@
 | 113 | [Journey](games/j/journey.md) | 4.75 | 
 | 114 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 115 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 116 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
-| 117 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
-| 118 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 119 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 126 | [Northgard](games/n/northgard.md) | 4.74 | 
-| 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 129 | [Haven](games/h/haven.md) | 4.74 | 
-| 130 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 116 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
+| 117 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
+| 118 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
+| 119 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 120 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 127 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 130 | [Haven](games/h/haven.md) | 4.74 | 
 | 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 132 | [Revita](games/r/revita.md) | 4.74 | 
 | 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 

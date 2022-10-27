@@ -691,7 +691,7 @@
 | 689 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 690 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 691 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 692 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.74 | 
+| 692 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 693 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 694 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 695 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -713,7 +713,7 @@
 | 711 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 712 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 713 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 714 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 714 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 715 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 716 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 717 | [UnMetal](games/u/unmetal.md) | 4.55 | 
