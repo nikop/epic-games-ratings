@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
+| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -421,7 +421,7 @@
 | 419 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 420 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 421 | [Observation](games/o/observation.md) | 4.46 | 
-| 422 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.35 | 
+| 422 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.33 | 
 | 423 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 424 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 425 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
@@ -439,7 +439,7 @@
 | 437 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 438 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 439 | [Outward](games/o/outward.md) | 4.56 | 
-| 440 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 440 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 441 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 442 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 443 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
@@ -450,7 +450,7 @@
 | 448 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 449 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 453 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
@@ -580,7 +580,7 @@
 | 578 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 579 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 580 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 581 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 581 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 582 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 583 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 584 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 

@@ -1,10 +1,10 @@
 {
   "ID": "cd7516c11d41459d9869c47439ea5471",
   "Name": "Asterigos: Curse of the Stars",
-  "Rating": 4.48,
+  "Rating": 4.5,
   "FirstSeen": "2022-10-11T21:00:57.1341403+00:00",
   "FirstSeenRating": "2022-10-21T13:01:24.4527368+00:00",
-  "LastChanged": "2022-10-25T13:31:24.3862656+00:00",
+  "LastChanged": "2022-10-27T15:30:45.8647471+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-21T13:01:24.4527373+00:00",
@@ -24,6 +24,11 @@
     {
       "Time": "2022-10-25T13:31:24.3862658+00:00",
       "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T15:30:45.8647473+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],
