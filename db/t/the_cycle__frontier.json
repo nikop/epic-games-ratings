@@ -1,10 +1,10 @@
 {
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
-  "Rating": 4.12,
+  "Rating": 4.11,
   "NumberOfRatings": 15671,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2022-10-27T00:30:41.8887558+00:00",
+  "LastChanged": "2022-10-27T07:30:39.1088845+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3165,6 +3165,11 @@
       "Time": "2022-10-27T00:30:41.8887563+00:00",
       "Rating": 4.12,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T07:30:39.1088847+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3186,7 +3191,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1657
+      "Count": 1664
     },
     {
       "Text": "This game has a Competitive Community",

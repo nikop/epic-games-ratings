@@ -620,7 +620,7 @@
 | 618 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 619 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 620 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
+| 621 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
