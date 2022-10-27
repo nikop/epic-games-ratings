@@ -86,7 +86,7 @@
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -297,7 +297,7 @@
 | 295 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 296 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 297 | [House Party](games/h/house_party.md) | 4.34 | 
-| 298 | [Hue](games/h/hue.md) | 4.54 | 
+| 298 | [Hue](games/h/hue.md) | 4.55 | 
 | 299 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 300 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 301 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
@@ -340,7 +340,7 @@
 | 338 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 339 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 340 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 341 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 341 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 342 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 343 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 344 | [Lake](games/l/lake.md) | 4.08 | 
@@ -641,7 +641,7 @@
 | 639 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 640 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 641 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 642 | [The Medium](games/t/the_medium.md) | 4.43 | 
+| 642 | [The Medium](games/t/the_medium.md) | 4.45 | 
 | 643 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 644 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 645 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
