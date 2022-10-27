@@ -394,19 +394,19 @@
 | 392 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 393 | [Outward](games/o/outward.md) | 4.56 | 
 | 394 | [Horace](games/h/horace.md) | 4.56 | 
-| 395 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 396 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 397 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 398 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 399 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 400 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 401 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 402 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 403 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 404 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 405 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 406 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 407 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
+| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
+| 396 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 397 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 398 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 399 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 400 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 401 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 402 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 403 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 404 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 405 | [UnMetal](games/u/unmetal.md) | 4.55 | 
+| 406 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 407 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
 | 408 | [NORCO](games/n/norco.md) | 4.55 | 
 | 409 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 410 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -519,16 +519,16 @@
 | 517 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 518 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 519 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 520 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 521 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 522 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 523 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
-| 524 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
-| 525 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 526 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 527 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 528 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 529 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 520 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 521 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 522 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 523 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
+| 525 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 526 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 527 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 528 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 529 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 530 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 531 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 532 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
@@ -537,18 +537,18 @@
 | 535 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 536 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 537 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 538 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 539 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 540 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 541 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 542 | [Figment](games/f/figment.md) | 4.43 | 
-| 543 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 544 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 545 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 546 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 547 | [The Medium](games/t/the_medium.md) | 4.43 | 
-| 548 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 549 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 538 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 539 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 540 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 541 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 542 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 543 | [Figment](games/f/figment.md) | 4.43 | 
+| 544 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 545 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 546 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 547 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 548 | [The Medium](games/t/the_medium.md) | 4.43 | 
+| 549 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 550 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 551 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 552 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -709,9 +709,9 @@
 | 707 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 708 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 709 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 710 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 711 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 712 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
+| 710 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 711 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
+| 712 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 713 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 714 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 715 | [Pine](games/p/pine.md) | 4.14 | 

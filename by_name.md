@@ -210,14 +210,14 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.55 | 
+| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
 | 212 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 213 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 214 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 215 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
 | 216 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 217 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.42 | 
+| 218 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 219 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
@@ -482,7 +482,7 @@
 | 480 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 481 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 482 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 483 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 483 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 484 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 485 | [Redout 2](games/r/redout_2.md) | 4.48 | 
 | 486 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
@@ -649,7 +649,7 @@
 | 647 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 649 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 650 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 650 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 651 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 652 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 653 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 

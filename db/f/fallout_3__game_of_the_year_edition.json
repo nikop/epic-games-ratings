@@ -1,10 +1,10 @@
 {
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2022-10-26T01:33:09.6590227+00:00",
+  "LastChanged": "2022-10-27T20:33:13.1675243+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -75,6 +75,11 @@
       "Time": "2022-10-26T01:33:09.6590233+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T20:33:13.1675246+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -112,7 +117,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 33
+      "Count": 56
     },
     {
       "Text": "This game has Unique Visuals",
