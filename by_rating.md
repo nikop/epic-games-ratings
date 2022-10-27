@@ -159,28 +159,28 @@
 | 157 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 158 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
 | 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 164 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 175 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 177 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 178 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 179 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 180 | [Everything](games/e/everything.md) | 4.70 | 
-| 181 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 160 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 163 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 164 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 166 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 167 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 168 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 169 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 171 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 172 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 173 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 175 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 178 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 179 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 180 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 181 | [Everything](games/e/everything.md) | 4.70 | 
 | 182 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 183 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 184 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -591,24 +591,24 @@
 | 589 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 590 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 591 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 592 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 593 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 594 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 595 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 596 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 592 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 593 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 594 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 595 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 596 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 597 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 598 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 599 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 600 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 601 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 602 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 603 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
-| 604 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 605 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 606 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 608 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 609 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 599 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 600 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 601 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 602 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 603 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 604 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
+| 605 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 606 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 607 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 609 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 610 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 611 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 612 | [Among Trees](games/a/among_trees.md) | 4.35 | 

@@ -141,7 +141,7 @@
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
-| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
@@ -154,7 +154,7 @@
 | 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 155 | [Days Gone](games/d/days_gone.md) | 4.71 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -435,7 +435,7 @@
 | 433 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 434 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 435 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 436 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 436 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 437 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 438 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 439 | [Outward](games/o/outward.md) | 4.56 | 
@@ -575,7 +575,7 @@
 | 573 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 574 | [Starsand](games/s/starsand.md) | 4.33 | 
 | 575 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 576 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 576 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 577 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 578 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 579 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 

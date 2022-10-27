@@ -1,10 +1,10 @@
 {
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 3949,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2022-10-27T13:02:35.5213684+00:00",
+  "LastChanged": "2022-10-27T16:02:29.4652548+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -2039,6 +2039,11 @@
     {
       "Time": "2022-10-27T13:02:35.5213687+00:00",
       "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T16:02:29.4652551+00:00",
+      "Rating": 4.71,
       "NumberOfRatings": null
     }
   ],
