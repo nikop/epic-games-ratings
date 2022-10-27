@@ -284,16 +284,16 @@
 | 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 283 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 284 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 285 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 286 | [GRIME](games/g/grime.md) | 4.63 | 
-| 287 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 288 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 289 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 290 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 291 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 292 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
-| 293 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 294 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 285 | [GRIME](games/g/grime.md) | 4.63 | 
+| 286 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 287 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 288 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 289 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 290 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 291 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 292 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 293 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
+| 294 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 295 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 296 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 297 | [Prey](games/p/prey.md) | 4.61 | 
@@ -424,21 +424,21 @@
 | 422 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 423 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 424 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 425 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 427 | [Minit](games/m/minit.md) | 4.53 | 
-| 428 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 429 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
-| 430 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 431 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 432 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 433 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 434 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 435 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 436 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 437 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 438 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 439 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 425 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 428 | [Minit](games/m/minit.md) | 4.53 | 
+| 429 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 430 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
+| 431 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 432 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 433 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 434 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 435 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 436 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 437 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 438 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 439 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 440 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 441 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 442 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 

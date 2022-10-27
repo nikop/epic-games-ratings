@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -456,7 +456,7 @@
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
 | 455 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 456 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
-| 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 458 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 459 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 460 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
