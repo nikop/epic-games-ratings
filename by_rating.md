@@ -119,35 +119,35 @@
 | 117 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
 | 118 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 119 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 120 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 127 | [Northgard](games/n/northgard.md) | 4.74 | 
-| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 130 | [Haven](games/h/haven.md) | 4.74 | 
-| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 132 | [Revita](games/r/revita.md) | 4.74 | 
-| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 137 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 139 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 140 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 141 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 142 | [Fez](games/f/fez.md) | 4.73 | 
-| 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 144 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 145 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
-| 146 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
-| 147 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 126 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 129 | [Haven](games/h/haven.md) | 4.74 | 
+| 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 131 | [Revita](games/r/revita.md) | 4.74 | 
+| 132 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 133 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 134 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 135 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 136 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 137 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 138 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 139 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 140 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 141 | [Fez](games/f/fez.md) | 4.73 | 
+| 142 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 143 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
+| 144 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
+| 145 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
+| 146 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 148 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 149 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 150 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 151 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -627,22 +627,22 @@
 | 625 | [House Party](games/h/house_party.md) | 4.34 | 
 | 626 | [ELEX](games/e/elex.md) | 4.34 | 
 | 627 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 628 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
-| 629 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 630 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 631 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
-| 632 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
-| 633 | [Starsand](games/s/starsand.md) | 4.33 | 
-| 634 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 635 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 636 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 637 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
-| 639 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 640 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 641 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 642 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 643 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 628 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 629 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 630 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 631 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.33 | 
+| 632 | [Starsand](games/s/starsand.md) | 4.33 | 
+| 633 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 634 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 635 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 636 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
+| 638 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 639 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 640 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 641 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 642 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 643 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
 | 644 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 645 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 646 | [Fortnite](games/f/fortnite.md) | 4.30 | 

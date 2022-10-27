@@ -82,7 +82,7 @@
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
+| 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
@@ -607,7 +607,7 @@
 | 605 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 606 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 607 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 608 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 608 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 609 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
 | 610 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 611 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
