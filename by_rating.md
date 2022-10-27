@@ -45,13 +45,13 @@
 | 43 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 44 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 45 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 46 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 47 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 48 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 50 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
-| 51 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 52 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 46 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 47 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 48 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 49 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 51 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
+| 52 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -200,27 +200,27 @@
 | 198 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 199 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 200 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 201 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 202 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 203 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
-| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 205 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 206 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 207 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 212 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 214 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 215 | [SOMA](games/s/soma.md) | 4.68 | 
-| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
-| 217 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 218 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 219 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 220 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 221 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 201 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 202 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 203 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 204 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 206 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 207 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 208 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 209 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 210 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 211 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 213 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 215 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 216 | [SOMA](games/s/soma.md) | 4.68 | 
+| 217 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
+| 218 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 219 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 220 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 221 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 222 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 223 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 224 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
@@ -516,15 +516,15 @@
 | 514 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 515 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 516 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 517 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 518 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 519 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 520 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 521 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
-| 522 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 523 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 524 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 525 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 517 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 518 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 519 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 520 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 521 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 522 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 523 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 524 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 526 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 527 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 528 | [Figment](games/f/figment.md) | 4.44 | 

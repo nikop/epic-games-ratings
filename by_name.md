@@ -452,7 +452,7 @@
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 453 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 453 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 454 | [Patron](games/p/patron.md) | 3.87 | 
 | 455 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 456 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
@@ -624,7 +624,7 @@
 | 622 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 624 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 625 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 626 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 627 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 628 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -644,7 +644,7 @@
 | 642 | [The Medium](games/t/the_medium.md) | 4.43 | 
 | 643 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 644 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 645 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 645 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 646 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 647 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
