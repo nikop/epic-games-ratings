@@ -169,25 +169,25 @@
 | 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 170 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 171 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 172 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 173 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 174 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 175 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 176 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 177 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 178 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 179 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 180 | [Everything](games/e/everything.md) | 4.70 | 
-| 181 | [Outlast](games/o/outlast.md) | 4.70 | 
-| 182 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 184 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 185 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 188 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 175 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 178 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 179 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 180 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 181 | [Everything](games/e/everything.md) | 4.70 | 
+| 182 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 183 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 184 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 185 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 186 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 187 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 190 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 191 | [INSIDE](games/i/inside.md) | 4.69 | 

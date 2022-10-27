@@ -237,7 +237,7 @@
 | 235 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 236 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 237 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 238 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 238 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 239 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 240 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 241 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
