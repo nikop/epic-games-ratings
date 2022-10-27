@@ -7,7 +7,7 @@
 | 5 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 6 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.48 | 
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
-| 8 | [Scorn](games/s/scorn.md) | 4.49 | 
+| 8 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 9 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 10 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
 | 11 | [Darkwood](games/d/darkwood.md) | 4.58 | 

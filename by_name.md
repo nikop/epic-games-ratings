@@ -447,7 +447,7 @@
 | 445 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 446 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 447 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 448 | [Parkitect](games/p/parkitect.md) | 4.38 | 
+| 448 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 449 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 450 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
@@ -521,7 +521,7 @@
 | 519 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 520 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 521 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 522 | [Scorn](games/s/scorn.md) | 4.49 | 
+| 522 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 523 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 524 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 525 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
@@ -578,10 +578,10 @@
 | 576 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 577 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 578 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 579 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 579 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 580 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 581 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 582 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.84 | 
+| 582 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 583 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 584 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 585 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
