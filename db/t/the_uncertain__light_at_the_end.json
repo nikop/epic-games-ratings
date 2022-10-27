@@ -1,10 +1,10 @@
 {
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
-  "Rating": 3.9,
+  "Rating": 3.95,
   "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
-  "LastChanged": "2022-10-23T09:02:40.4839648+00:00",
+  "LastChanged": "2022-10-27T09:32:38.6301759+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-10T07:33:50.0588665+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-10-23T09:02:40.483965+00:00",
       "Rating": 3.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T09:32:38.6301765+00:00",
+      "Rating": 3.95,
       "NumberOfRatings": null
     }
   ],

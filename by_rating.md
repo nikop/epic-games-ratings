@@ -519,30 +519,30 @@
 | 517 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 518 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 519 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 520 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 521 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 522 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
-| 523 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 524 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 525 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 526 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 527 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 528 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 529 | [Figment](games/f/figment.md) | 4.44 | 
-| 530 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 531 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
-| 532 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 533 | [Chorus](games/c/chorus.md) | 4.44 | 
-| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 535 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 536 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 537 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 538 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 539 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 540 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 542 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 543 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 520 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 521 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.45 | 
+| 522 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 523 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 524 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 525 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 526 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 527 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 528 | [Figment](games/f/figment.md) | 4.44 | 
+| 529 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 530 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
+| 531 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 532 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 534 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 535 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 536 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 538 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 539 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 540 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 541 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 542 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 543 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 544 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 545 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 546 | [Runbow](games/r/runbow.md) | 4.43 | 
@@ -753,10 +753,10 @@
 | 751 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 752 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 753 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
-| 754 | [Warface](games/w/warface.md) | 3.94 | 
-| 755 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
-| 756 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
-| 757 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
+| 754 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.95 | 
+| 755 | [Warface](games/w/warface.md) | 3.94 | 
+| 756 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 757 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 758 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 759 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 760 | [Ironcast](games/i/ironcast.md) | 3.87 | 

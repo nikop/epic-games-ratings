@@ -31,7 +31,7 @@
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -656,7 +656,7 @@
 | 654 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 655 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 656 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 657 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.90 | 
+| 657 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.95 | 
 | 658 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 659 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 660 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
