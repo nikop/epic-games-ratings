@@ -161,16 +161,16 @@
 | 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 163 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 164 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 165 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 166 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 167 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 168 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 171 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 162 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 164 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -720,7 +720,7 @@
 | 718 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 719 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 720 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 721 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 721 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.12 | 
 | 722 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 723 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 724 | [Obduction](games/o/obduction.md) | 4.11 | 
