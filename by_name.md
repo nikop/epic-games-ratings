@@ -511,7 +511,7 @@
 | 509 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 510 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 511 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 512 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 512 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 513 | [Sable](games/s/sable.md) | 4.54 | 
 | 514 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 515 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -642,7 +642,7 @@
 | 640 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 641 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 642 | [The Medium](games/t/the_medium.md) | 4.43 | 
-| 643 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
+| 643 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 644 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 645 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 646 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
