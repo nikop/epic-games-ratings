@@ -446,28 +446,28 @@
 | 444 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 445 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 446 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 447 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 448 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 449 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 450 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 451 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 452 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 453 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 454 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 455 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 456 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 457 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 458 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 459 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 461 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
-| 462 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 463 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 464 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 465 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 466 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 468 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
+| 447 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 448 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 449 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 450 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 451 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 452 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 453 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 454 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 455 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 456 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 457 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 458 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 459 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 460 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 461 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 462 | [Costume Quest](games/c/costume_quest.md) | 4.51 | 
+| 463 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 464 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 465 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 466 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 467 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 469 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 470 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 471 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -483,13 +483,13 @@
 | 481 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 482 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 483 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 484 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 485 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 486 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
-| 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 489 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 490 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
+| 484 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
+| 485 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 486 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 487 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
+| 488 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 489 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 490 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 491 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 492 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 493 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 

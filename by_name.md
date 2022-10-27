@@ -164,7 +164,7 @@
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.50 | 
+| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 166 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
@@ -537,7 +537,7 @@
 | 535 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 536 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 537 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 538 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
+| 538 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
 | 539 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 540 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 541 | [Sifu](games/s/sifu.md) | 4.80 | 
