@@ -161,16 +161,16 @@
 | 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 163 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 164 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 165 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 166 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 167 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 168 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 170 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 171 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 162 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 164 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 165 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -711,9 +711,9 @@
 | 709 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 710 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 711 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 712 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 713 | [Flatout](games/f/flatout.md) | 4.15 | 
-| 714 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.15 | 
+| 712 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
+| 713 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 714 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 715 | [Pine](games/p/pine.md) | 4.14 | 
 | 716 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 717 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
