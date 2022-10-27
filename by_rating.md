@@ -415,19 +415,19 @@
 | 413 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 414 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 415 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 416 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 417 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
-| 418 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
-| 419 | [Sable](games/s/sable.md) | 4.54 | 
-| 420 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
-| 421 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 422 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 423 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 424 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 425 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 426 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 428 | [Minit](games/m/minit.md) | 4.53 | 
+| 416 | [Minit](games/m/minit.md) | 4.54 | 
+| 417 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 418 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
+| 419 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 420 | [Sable](games/s/sable.md) | 4.54 | 
+| 421 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
+| 422 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 423 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 424 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 425 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 426 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 427 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 429 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 430 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
 | 431 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -554,14 +554,14 @@
 | 552 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 553 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 554 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 555 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 556 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 557 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
-| 558 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 559 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 560 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 561 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 562 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 555 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 556 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 557 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 558 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 559 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 560 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 561 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 562 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 563 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 564 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 565 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 

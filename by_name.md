@@ -384,7 +384,7 @@
 | 382 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 383 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 384 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
-| 385 | [Minit](games/m/minit.md) | 4.53 | 
+| 385 | [Minit](games/m/minit.md) | 4.54 | 
 | 386 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.80 | 
 | 387 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 388 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
@@ -476,7 +476,7 @@
 | 474 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 475 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 476 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 477 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
+| 477 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 478 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 479 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
 | 480 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
