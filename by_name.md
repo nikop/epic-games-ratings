@@ -130,7 +130,7 @@
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
@@ -270,7 +270,7 @@
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 270 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 271 | [GRIME](games/g/grime.md) | 4.63 | 
+| 271 | [GRIME](games/g/grime.md) | 4.62 | 
 | 272 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 273 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 274 | [Hades](games/h/hades.md) | 4.92 | 
@@ -470,7 +470,7 @@
 | 468 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 469 | [Prey](games/p/prey.md) | 4.61 | 
 | 470 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 471 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 471 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 472 | [Quake](games/q/quake.md) | 4.82 | 
 | 473 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 474 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
@@ -571,7 +571,7 @@
 | 569 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 570 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 571 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
-| 572 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 572 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 573 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 574 | [Starsand](games/s/starsand.md) | 4.32 | 
 | 575 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
@@ -735,7 +735,7 @@
 | 733 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 734 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 735 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 736 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.54 | 
+| 736 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 737 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 738 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 739 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
