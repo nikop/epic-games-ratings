@@ -305,20 +305,20 @@
 | 303 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 304 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 305 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 306 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 307 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 308 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
-| 309 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 310 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
-| 311 | [Control](games/c/control.md) | 4.60 | 
-| 312 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 313 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 314 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 315 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 316 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 317 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 318 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 319 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 306 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
+| 307 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 308 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 309 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
+| 310 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 311 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 312 | [Control](games/c/control.md) | 4.60 | 
+| 313 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 314 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 315 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 316 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 317 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 318 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 319 | [Moving Out](games/m/moving_out.md) | 4.60 | 
 | 320 | [20XX](games/2/20xx.md) | 4.60 | 
 | 321 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 322 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -593,21 +593,21 @@
 | 591 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 592 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 593 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 594 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 595 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 596 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 597 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 598 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 599 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 600 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 601 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 602 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 603 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 604 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
-| 605 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 606 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 607 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 594 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 595 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 596 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 597 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 598 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 599 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 600 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 601 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 602 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 603 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
+| 604 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 605 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 606 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 608 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 609 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 610 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 611 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
