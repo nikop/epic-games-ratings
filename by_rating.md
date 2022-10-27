@@ -336,26 +336,26 @@
 | 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
 | 335 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 336 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 337 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 338 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 339 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 340 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 341 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
-| 342 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 343 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 344 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 345 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 346 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 347 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 348 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 349 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 350 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 351 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 352 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 353 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 354 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 355 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 356 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 337 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 338 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 339 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 340 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 341 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 342 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
+| 343 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 344 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 345 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 346 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 347 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 348 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 349 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 350 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 351 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 352 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 353 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 354 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 355 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 356 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 357 | [Hob](games/h/hob.md) | 4.58 | 
 | 358 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 359 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -668,13 +668,13 @@
 | 666 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 667 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 668 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 669 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 670 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 671 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 672 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 673 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 674 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
-| 675 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 669 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 670 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 671 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 673 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 674 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 675 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 676 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 677 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 678 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
@@ -744,7 +744,7 @@
 | 742 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 743 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
 | 744 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 745 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
+| 745 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 746 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 747 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 748 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
