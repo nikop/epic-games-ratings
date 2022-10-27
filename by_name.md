@@ -409,7 +409,7 @@
 | 407 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 408 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
 | 409 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 410 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
+| 410 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 411 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 412 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 413 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -590,7 +590,7 @@
 | 588 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 589 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 590 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 591 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 591 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 592 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 593 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 594 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 

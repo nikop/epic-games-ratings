@@ -196,29 +196,29 @@
 | 194 | [Barony](games/b/barony.md) | 4.69 | 
 | 195 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 196 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 197 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 198 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 199 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 200 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 201 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 202 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 203 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
-| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 205 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 206 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 207 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 212 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 213 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 215 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 216 | [SOMA](games/s/soma.md) | 4.68 | 
-| 217 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 219 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 197 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 198 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 199 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 200 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 201 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 202 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
+| 203 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 204 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 205 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 206 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 207 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 208 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 209 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 211 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 212 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 214 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 215 | [SOMA](games/s/soma.md) | 4.68 | 
+| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
+| 217 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 218 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 219 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 220 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 221 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 222 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -735,14 +735,14 @@
 | 733 | [Lake](games/l/lake.md) | 4.08 | 
 | 734 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 735 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
-| 736 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 737 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 738 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 739 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 740 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 741 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
-| 742 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 743 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
+| 736 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
+| 737 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 738 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 739 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 740 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 741 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 742 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
+| 743 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 744 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 745 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 746 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
