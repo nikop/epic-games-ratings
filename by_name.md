@@ -68,7 +68,7 @@
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.32 | 
 | 68 | [Barony](games/b/barony.md) | 4.69 | 
-| 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.26 | 
+| 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -193,7 +193,7 @@
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
-| 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
 | 195 | [ELEX](games/e/elex.md) | 4.34 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -230,7 +230,7 @@
 | 228 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 229 | [Fez](games/f/fez.md) | 4.73 | 
 | 230 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
-| 231 | [Figment](games/f/figment.md) | 4.44 | 
+| 231 | [Figment](games/f/figment.md) | 4.43 | 
 | 232 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 233 | [Firework](games/f/firework.md) | 4.87 | 
 | 234 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
@@ -344,7 +344,7 @@
 | 342 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 343 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 344 | [Lake](games/l/lake.md) | 4.08 | 
-| 345 | [Lamentum](games/l/lamentum.md) | 4.30 | 
+| 345 | [Lamentum](games/l/lamentum.md) | 4.33 | 
 | 346 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 347 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 348 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
@@ -648,7 +648,7 @@
 | 646 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 647 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 648 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 649 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.69 | 
+| 649 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 650 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 651 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 652 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
@@ -662,7 +662,7 @@
 | 660 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 661 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 662 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 663 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
+| 663 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 
 | 664 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 665 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 666 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -702,7 +702,7 @@
 | 700 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 701 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 702 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 703 | [Travellers Rest](games/t/travellers_rest.md) | 4.54 | 
+| 703 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 704 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 705 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 706 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
@@ -753,7 +753,7 @@
 | 751 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 752 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 753 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 754 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 754 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
 | 755 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 756 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 757 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
@@ -764,7 +764,7 @@
 | 762 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 763 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 764 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 765 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 765 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 766 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 767 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
 | 768 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

@@ -1,10 +1,10 @@
 {
   "ID": "4c00c7506c4b4fa695f749bd6bb07ff6",
   "Name": "The Stanley Parable",
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 188,
   "FirstSeen": "2022-07-22T20:19:56.8335668+00:00",
-  "LastChanged": "2022-10-26T16:31:50.3338632+00:00",
+  "LastChanged": "2022-10-27T16:30:51.6385859+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:56.8335671+00:00",
@@ -309,6 +309,11 @@
     {
       "Time": "2022-10-26T16:31:50.3338635+00:00",
       "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-27T16:30:51.6385861+00:00",
+      "Rating": 4.7,
       "NumberOfRatings": null
     }
   ],

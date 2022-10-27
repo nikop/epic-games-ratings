@@ -1,5 +1,5 @@
 # Eiyuden Chronicle: Rising
-Rating: 4.44 (48)  (as of 23.09.2022)  
+Rating: 4.45 (48)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Rating: 4.44 (48)  (as of 23.09.2022)
 | 2022-10-15 | 4.42 | - |
 | 2022-10-17 | 4.43 | - |
 | 2022-10-19 | 4.44 | - |
+| 2022-10-27 | 4.45 | - |
