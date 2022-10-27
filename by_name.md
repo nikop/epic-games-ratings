@@ -237,7 +237,7 @@
 | 235 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 236 | [Flatout](games/f/flatout.md) | 4.15 | 
 | 237 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 238 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 238 | [For The King](games/f/for_the_king.md) | 4.69 | 
 | 239 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 240 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 241 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -256,7 +256,7 @@
 | 254 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 255 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 256 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 257 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 258 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 259 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 260 | [Godfall](games/g/godfall.md) | 4.07 | 

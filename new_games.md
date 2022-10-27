@@ -23,7 +23,7 @@
 | 21 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 22 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 23 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 24 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 24 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 25 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 26 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 27 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 

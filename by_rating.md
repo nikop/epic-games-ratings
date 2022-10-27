@@ -169,25 +169,25 @@
 | 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 168 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 169 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 170 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 171 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 172 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 173 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 174 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 175 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 177 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 178 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 179 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 180 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 181 | [Everything](games/e/everything.md) | 4.70 | 
-| 182 | [Outlast](games/o/outlast.md) | 4.70 | 
-| 183 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 184 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 185 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 186 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 187 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 170 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 171 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 172 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 173 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 174 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 175 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 176 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 177 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 178 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 179 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 180 | [Everything](games/e/everything.md) | 4.70 | 
+| 181 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 182 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 183 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 184 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 185 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 186 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 188 | [For The King](games/f/for_the_king.md) | 4.69 | 
 | 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 190 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 191 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -530,20 +530,20 @@
 | 528 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 529 | [Figment](games/f/figment.md) | 4.44 | 
 | 530 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
-| 531 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 532 | [Chorus](games/c/chorus.md) | 4.44 | 
-| 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
-| 534 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 535 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 536 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 538 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 539 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 540 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 542 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 543 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 544 | [Gloomhaven](games/g/gloomhaven.md) | 4.43 | 
+| 531 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
+| 532 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 533 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.44 | 
+| 535 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 536 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 537 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 538 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 539 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 540 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 541 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 542 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 543 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 544 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 545 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 546 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 547 | [The Medium](games/t/the_medium.md) | 4.43 | 
