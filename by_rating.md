@@ -612,20 +612,20 @@
 | 610 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 611 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 612 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 613 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
-| 614 | [Far Cry](games/f/far_cry.md) | 4.35 | 
-| 615 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 616 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 617 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.35 | 
-| 618 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
-| 619 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 620 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 621 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 622 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 623 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 624 | [House Party](games/h/house_party.md) | 4.34 | 
-| 625 | [ELEX](games/e/elex.md) | 4.34 | 
-| 626 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 613 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 614 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 615 | [Far Cry](games/f/far_cry.md) | 4.35 | 
+| 616 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 617 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 618 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.35 | 
+| 619 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
+| 620 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 621 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 622 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 623 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 624 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 625 | [House Party](games/h/house_party.md) | 4.34 | 
+| 626 | [ELEX](games/e/elex.md) | 4.34 | 
 | 627 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
 | 628 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.34 | 
 | 629 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
