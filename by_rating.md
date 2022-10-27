@@ -77,16 +77,16 @@
 | 75 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 77 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.80 | 
-| 80 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
-| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 83 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 85 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 87 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 78 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.80 | 
+| 81 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 86 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
