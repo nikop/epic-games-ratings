@@ -144,19 +144,19 @@
 | 142 | [Fez](games/f/fez.md) | 4.73 | 
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 144 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 145 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
-| 146 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 148 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 149 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 150 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 151 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 152 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 153 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 154 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
-| 155 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 156 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 157 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 145 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
+| 146 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
+| 147 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 149 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 150 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 151 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 152 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 153 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 154 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 155 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 156 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 157 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 158 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
 | 159 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
 | 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 

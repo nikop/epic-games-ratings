@@ -478,7 +478,7 @@
 | 476 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 477 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.41 | 
 | 478 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 479 | [Rayman Origins](games/r/rayman_origins.md) | 4.72 | 
+| 479 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
 | 480 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 481 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 482 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
