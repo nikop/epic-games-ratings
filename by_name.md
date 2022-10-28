@@ -438,7 +438,7 @@
 | 436 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 437 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 438 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 439 | [Outward](games/o/outward.md) | 4.56 | 
+| 439 | [Outward](games/o/outward.md) | 4.54 | 
 | 440 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 441 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 442 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
@@ -453,7 +453,7 @@
 | 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 452 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 453 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 454 | [Patron](games/p/patron.md) | 3.87 | 
+| 454 | [Patron](games/p/patron.md) | 3.89 | 
 | 455 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 456 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 

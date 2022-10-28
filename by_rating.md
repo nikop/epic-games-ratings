@@ -392,28 +392,28 @@
 | 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 391 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 392 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 393 | [Outward](games/o/outward.md) | 4.56 | 
-| 394 | [Horace](games/h/horace.md) | 4.56 | 
-| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
-| 396 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 397 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 398 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 399 | [Hue](games/h/hue.md) | 4.55 | 
-| 400 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 401 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 402 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 403 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 404 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 405 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 407 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 408 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 409 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 410 | [NORCO](games/n/norco.md) | 4.55 | 
-| 411 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 412 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 413 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 414 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 393 | [Horace](games/h/horace.md) | 4.56 | 
+| 394 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
+| 395 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 396 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 397 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 398 | [Hue](games/h/hue.md) | 4.55 | 
+| 399 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 400 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 401 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 402 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 403 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 404 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 405 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 406 | [UnMetal](games/u/unmetal.md) | 4.55 | 
+| 407 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 408 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 409 | [NORCO](games/n/norco.md) | 4.55 | 
+| 410 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 411 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 412 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 414 | [Outward](games/o/outward.md) | 4.54 | 
 | 415 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 416 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 417 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
@@ -759,8 +759,8 @@
 | 757 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 758 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 759 | [Conarium](games/c/conarium.md) | 3.89 | 
-| 760 | [Ironcast](games/i/ironcast.md) | 3.87 | 
-| 761 | [Patron](games/p/patron.md) | 3.87 | 
+| 760 | [Patron](games/p/patron.md) | 3.89 | 
+| 761 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 762 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 763 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.80 | 
 | 764 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
