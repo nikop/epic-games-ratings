@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
@@ -252,7 +252,7 @@
 | 250 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 251 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 254 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 256 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -309,7 +309,7 @@
 | 307 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 308 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 309 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 310 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 310 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 311 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 312 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 313 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
@@ -321,7 +321,7 @@
 | 319 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 320 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 322 | [Journey](games/j/journey.md) | 4.76 | 
+| 322 | [Journey](games/j/journey.md) | 4.73 | 
 | 323 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 325 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -560,7 +560,7 @@
 | 558 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 559 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 560 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 561 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 561 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 562 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 563 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 564 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
