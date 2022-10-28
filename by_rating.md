@@ -117,19 +117,19 @@
 | 115 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 117 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
-| 118 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
-| 119 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [Northgard](games/n/northgard.md) | 4.74 | 
-| 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 128 | [Haven](games/h/haven.md) | 4.74 | 
-| 129 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 118 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 124 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 127 | [Haven](games/h/haven.md) | 4.74 | 
+| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 129 | [Revita](games/r/revita.md) | 4.74 | 
+| 130 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 133 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -719,9 +719,9 @@
 | 717 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 718 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.14 | 
 | 719 | [Pine](games/p/pine.md) | 4.13 | 
-| 720 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 721 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 722 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 720 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 721 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 722 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 723 | [Obduction](games/o/obduction.md) | 4.12 | 
 | 724 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 725 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
