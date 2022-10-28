@@ -92,7 +92,7 @@
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
@@ -266,7 +266,7 @@
 | 264 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 265 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 266 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 268 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 269 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 270 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -437,7 +437,7 @@
 | 435 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 436 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 437 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 438 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
+| 438 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
 | 439 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 440 | [Outward](games/o/outward.md) | 4.54 | 
 | 441 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -690,7 +690,7 @@
 | 688 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 689 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 690 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 691 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 691 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 692 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
 | 693 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
 | 694 | [Townscaper](games/t/townscaper.md) | 4.70 | 
@@ -765,7 +765,7 @@
 | 763 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 764 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 765 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 766 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 766 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 767 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
 | 768 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
 | 769 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

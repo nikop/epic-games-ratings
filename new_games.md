@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 2 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 3 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 4 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
@@ -14,7 +14,7 @@
 | 12 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 13 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 14 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
-| 15 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
+| 15 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
 | 16 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 17 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 18 | [Outlast](games/o/outlast.md) | 4.72 | 
