@@ -145,19 +145,19 @@
 | 143 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
 | 144 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
 | 145 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 146 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 147 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 148 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 149 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 150 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 151 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 152 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 153 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
-| 154 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 155 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 156 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 157 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
-| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 146 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
+| 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 148 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
+| 149 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 150 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 151 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 152 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 153 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 154 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 155 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 156 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 157 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 158 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
 | 159 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
@@ -305,19 +305,19 @@
 | 303 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 304 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 305 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 307 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 309 | [20XX](games/2/20xx.md) | 4.61 | 
-| 310 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 311 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
-| 312 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 313 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 314 | [Control](games/c/control.md) | 4.60 | 
-| 315 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 316 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 317 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 318 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 306 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 307 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
+| 308 | [20XX](games/2/20xx.md) | 4.61 | 
+| 309 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 310 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
+| 311 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 312 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 313 | [Control](games/c/control.md) | 4.60 | 
+| 314 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 315 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 316 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 317 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 318 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 319 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 320 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 321 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
@@ -697,12 +697,12 @@
 | 695 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 696 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 697 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 698 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.20 | 
-| 699 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 700 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 701 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 702 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 703 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 698 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 699 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.20 | 
+| 700 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 701 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 702 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 703 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 704 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
 | 705 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 706 | [Crayta](games/c/crayta.md) | 4.18 | 
