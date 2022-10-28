@@ -440,24 +440,24 @@
 | 438 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 439 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 440 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 441 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
-| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 443 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 444 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 445 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 446 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
-| 447 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 448 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 449 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 450 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 451 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 452 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 453 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 454 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 455 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 456 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 457 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 458 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 441 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 442 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 443 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 444 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 445 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 446 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 447 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 448 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 449 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 450 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 451 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 452 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 453 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 454 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 455 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 456 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 457 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 458 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 459 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 461 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
@@ -668,19 +668,19 @@
 | 666 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 667 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
-| 669 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 670 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 669 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 670 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
 | 671 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 672 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 673 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 674 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 675 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
-| 676 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 677 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 678 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 675 | [The Fall](games/t/the_fall.md) | 4.25 | 
+| 676 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 677 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 678 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 679 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 680 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
-| 681 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 680 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 681 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 682 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 683 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 684 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
@@ -717,9 +717,9 @@
 | 715 | [Pine](games/p/pine.md) | 4.14 | 
 | 716 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 717 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 718 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 719 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 720 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 718 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 719 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 720 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 721 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 722 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 723 | [Relicta](games/r/relicta.md) | 4.11 | 

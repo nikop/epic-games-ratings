@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
@@ -364,7 +364,7 @@
 | 362 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
 | 363 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 364 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 365 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
+| 365 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
 | 366 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 367 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 368 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -525,7 +525,7 @@
 | 523 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 524 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 525 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 526 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 526 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 527 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 528 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 529 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -630,7 +630,7 @@
 | 628 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 629 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 630 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 631 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 631 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 632 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 633 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 634 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
@@ -698,7 +698,7 @@
 | 696 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 697 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 698 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 699 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 699 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 700 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 701 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 702 | [Transistor](games/t/transistor.md) | 4.61 | 

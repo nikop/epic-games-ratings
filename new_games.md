@@ -9,7 +9,7 @@
 | 7 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 8 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 9 | [Scorn](games/s/scorn.md) | 4.46 | 
-| 10 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
+| 10 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
 | 11 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.20 | 
 | 12 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 13 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
@@ -18,7 +18,7 @@
 | 16 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 17 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 18 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 20 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 21 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 22 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
@@ -31,7 +31,7 @@
 | 29 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 30 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 31 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 32 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 32 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 33 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 34 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 35 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
