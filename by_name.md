@@ -50,14 +50,14 @@
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
+| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.39 | 
@@ -465,7 +465,7 @@
 | 463 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 464 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 465 | [Pine](games/p/pine.md) | 4.13 | 
-| 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.40 | 
+| 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
 | 467 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 468 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 469 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -497,7 +497,7 @@
 | 495 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 496 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 497 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 498 | [Rising Hell](games/r/rising_hell.md) | 4.42 | 
+| 498 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 499 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 500 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 501 | [Riverbond](games/r/riverbond.md) | 4.49 | 

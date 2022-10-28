@@ -1,10 +1,10 @@
 {
   "ID": "8d123dcc4b5c4d168f7de7b3e1ed7d47",
   "Name": "Rising Hell",
-  "Rating": 4.42,
+  "Rating": 4.41,
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2022-10-28T14:01:41.7195732+00:00",
+  "LastChanged": "2022-10-28T19:32:13.1475656+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-07T17:01:28.5689969+00:00",
@@ -220,6 +220,11 @@
       "Time": "2022-10-28T14:01:41.7195734+00:00",
       "Rating": 4.42,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-28T19:32:13.1475658+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -269,7 +274,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 30
+      "Count": 33
     }
   ]
 }
