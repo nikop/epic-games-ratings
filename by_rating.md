@@ -149,21 +149,21 @@
 | 147 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 148 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 149 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 150 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 151 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
-| 153 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 154 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 155 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 156 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
-| 157 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 158 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 159 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 163 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 150 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 151 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 152 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 153 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 154 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 155 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 156 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 157 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
+| 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
+| 159 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 160 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 163 | [Days Gone](games/d/days_gone.md) | 4.71 | 
+| 164 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 166 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
 | 167 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
@@ -556,15 +556,15 @@
 | 554 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 555 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 556 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
-| 557 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 558 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 559 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
-| 560 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 561 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 562 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 563 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 564 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 565 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 557 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 558 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 559 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 560 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 561 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 562 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 563 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 564 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 565 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 566 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 567 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 568 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -746,11 +746,11 @@
 | 744 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 745 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 746 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 747 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 748 | [Flatout](games/f/flatout.md) | 4.00 | 
-| 749 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 750 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 751 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 747 | [Flatout](games/f/flatout.md) | 4.00 | 
+| 748 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 749 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 750 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 751 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 752 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 753 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 754 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 

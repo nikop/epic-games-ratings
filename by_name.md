@@ -208,7 +208,7 @@
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 209 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
 | 212 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
@@ -254,7 +254,7 @@
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 254 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 256 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 257 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 258 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
@@ -465,7 +465,7 @@
 | 463 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 464 | [Pine](games/p/pine.md) | 4.14 | 
 | 465 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.40 | 
-| 466 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
+| 466 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 467 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 468 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 469 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
