@@ -564,7 +564,7 @@
 | 562 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 563 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 564 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 565 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 565 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
 | 566 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
 | 567 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 568 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
