@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
@@ -266,12 +266,12 @@
 | 264 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 265 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 266 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.28 | 
+| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 268 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 269 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 270 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 271 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 272 | [GRIME](games/g/grime.md) | 4.62 | 
+| 272 | [GRIME](games/g/grime.md) | 4.63 | 
 | 273 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 274 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 275 | [Hades](games/h/hades.md) | 4.92 | 
@@ -370,7 +370,7 @@
 | 368 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 369 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 370 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 371 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 371 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 372 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 373 | [Mago](games/m/mago.md) | 4.86 | 
 | 374 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -564,7 +564,7 @@
 | 562 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 563 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 564 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 565 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 565 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 566 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 567 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
 | 568 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
@@ -605,7 +605,7 @@
 | 603 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 604 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 605 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 606 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 606 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 607 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 608 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
 | 609 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
@@ -704,7 +704,7 @@
 | 702 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 703 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 704 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 705 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 705 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 706 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 707 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 708 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
