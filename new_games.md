@@ -49,7 +49,7 @@
 | 47 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 48 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 49 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 50 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 50 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 51 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 52 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 53 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.21 | 

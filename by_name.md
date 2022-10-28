@@ -34,7 +34,7 @@
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
+| 35 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
@@ -514,7 +514,7 @@
 | 512 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 513 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 514 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 515 | [Sable](games/s/sable.md) | 4.54 | 
+| 515 | [Sable](games/s/sable.md) | 4.55 | 
 | 516 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 517 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 518 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
