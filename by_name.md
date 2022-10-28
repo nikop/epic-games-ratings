@@ -151,7 +151,7 @@
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 152 | [Darkwood](games/d/darkwood.md) | 4.58 | 
+| 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
@@ -422,7 +422,7 @@
 | 420 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 421 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 422 | [Obduction](games/o/obduction.md) | 4.12 | 
-| 423 | [Observation](games/o/observation.md) | 4.46 | 
+| 423 | [Observation](games/o/observation.md) | 4.48 | 
 | 424 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.33 | 
 | 425 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 426 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
@@ -737,7 +737,7 @@
 | 735 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 736 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 737 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 738 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.26 | 
+| 738 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.21 | 
 | 739 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 740 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 741 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 

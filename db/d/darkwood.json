@@ -1,10 +1,10 @@
 {
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
-  "Rating": 4.58,
+  "Rating": 4.59,
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2022-10-24T03:32:33.2814827+00:00",
+  "LastChanged": "2022-10-28T16:03:22.3195407+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-14T04:32:25.5553201+00:00",
@@ -125,6 +125,11 @@
       "Time": "2022-10-24T03:32:33.281483+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-28T16:03:22.3195408+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -146,7 +151,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 72
+      "Count": 83
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -154,7 +159,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 80
+      "Count": 91
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -166,7 +171,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 57
+      "Count": 61
     }
   ]
 }
