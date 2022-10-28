@@ -212,28 +212,28 @@
 | 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 212 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 213 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 215 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
-| 217 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 218 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 219 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 220 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 221 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 222 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 223 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 224 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 225 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
-| 226 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 227 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 228 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 229 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 230 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 231 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 233 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 214 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
+| 216 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 217 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 218 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 219 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 220 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 221 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 222 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 223 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 224 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 226 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 227 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 228 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 229 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 230 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 232 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 234 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 235 | [SOMA](games/s/soma.md) | 4.67 | 
 | 236 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 237 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
@@ -376,22 +376,22 @@
 | 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 375 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 376 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 378 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 379 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 380 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 381 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 382 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 383 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 384 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 385 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
-| 386 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 387 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 388 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 390 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 391 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 392 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 377 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 378 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 379 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 380 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 381 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 382 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 383 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 384 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 385 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 386 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 388 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 389 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 391 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 392 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 393 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 394 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 395 | [Horace](games/h/horace.md) | 4.56 | 

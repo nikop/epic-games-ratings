@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
@@ -710,7 +710,7 @@
 | 708 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
 | 709 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 710 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 711 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 711 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 712 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 713 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 714 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
