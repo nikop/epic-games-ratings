@@ -207,7 +207,7 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
@@ -384,7 +384,7 @@
 | 382 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 383 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 384 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 385 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
+| 385 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 386 | [Minit](games/m/minit.md) | 4.54 | 
 | 387 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.81 | 
 | 388 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -437,7 +437,7 @@
 | 435 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 436 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 437 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 438 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
+| 438 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 439 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 440 | [Outward](games/o/outward.md) | 4.54 | 
 | 441 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -692,7 +692,7 @@
 | 690 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 691 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 692 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 693 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.75 | 
+| 693 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
 | 694 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 695 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 696 | [Trackmania](games/t/trackmania.md) | 4.67 | 

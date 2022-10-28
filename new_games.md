@@ -14,7 +14,7 @@
 | 12 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 13 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 14 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
-| 15 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
+| 15 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 16 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 17 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 18 | [Outlast](games/o/outlast.md) | 4.72 | 
@@ -35,7 +35,7 @@
 | 33 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 34 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 35 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 36 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 36 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 37 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 38 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 39 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
