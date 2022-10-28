@@ -469,23 +469,23 @@
 | 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 468 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 469 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
-| 470 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 471 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 472 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 473 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 474 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 475 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 476 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 477 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 478 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 479 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 480 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 481 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 482 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 483 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 484 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 485 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
-| 486 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 470 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 471 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 472 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 473 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 474 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 475 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 476 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 477 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 478 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 479 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 480 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 481 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 482 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 483 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 484 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
+| 485 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 486 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 487 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
 | 488 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 489 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 

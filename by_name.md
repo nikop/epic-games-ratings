@@ -252,7 +252,7 @@
 | 250 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 251 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 254 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 256 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
