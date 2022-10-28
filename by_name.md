@@ -243,7 +243,7 @@
 | 241 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 242 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 243 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 244 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 244 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 245 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 246 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 247 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
@@ -264,7 +264,7 @@
 | 262 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 263 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 264 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 265 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 265 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 266 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 268 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
@@ -338,7 +338,7 @@
 | 336 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
 | 337 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 338 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 339 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 339 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 340 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 341 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 342 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
@@ -371,7 +371,7 @@
 | 369 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 370 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 371 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 372 | [Mago](games/m/mago.md) | 4.90 | 
+| 372 | [Mago](games/m/mago.md) | 4.86 | 
 | 373 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 374 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 375 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
@@ -386,7 +386,7 @@
 | 384 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 385 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 386 | [Minit](games/m/minit.md) | 4.54 | 
-| 387 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.80 | 
+| 387 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.81 | 
 | 388 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 389 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 390 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
@@ -678,7 +678,7 @@
 | 676 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 677 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 678 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 679 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.16 | 
+| 679 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.20 | 
 | 680 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 681 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 682 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -714,7 +714,7 @@
 | 712 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 713 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 714 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 715 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 715 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 716 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 717 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 718 | [UnMetal](games/u/unmetal.md) | 4.55 | 
