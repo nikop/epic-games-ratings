@@ -561,20 +561,20 @@
 | 559 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 560 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 561 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 562 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 563 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 564 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 565 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 566 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 567 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
-| 568 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 569 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 570 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 571 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
-| 572 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 573 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 574 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 575 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 562 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 563 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 564 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 565 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 566 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
+| 567 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 568 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 569 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 570 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 571 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 572 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 573 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 574 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 575 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 576 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.40 | 
 | 577 | [Encased](games/e/encased.md) | 4.40 | 
 | 578 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -700,13 +700,13 @@
 | 698 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.20 | 
 | 699 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 700 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
-| 701 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 702 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 703 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 704 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 705 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
-| 706 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 707 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 701 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 702 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 703 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 704 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
+| 705 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 706 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 707 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 708 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 709 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 710 | [Windbound](games/w/windbound.md) | 4.17 | 

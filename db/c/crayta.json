@@ -1,10 +1,10 @@
 {
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
-  "Rating": 4.19,
+  "Rating": 4.18,
   "NumberOfRatings": 94,
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2022-10-26T23:02:17.6815942+00:00",
+  "LastChanged": "2022-10-28T09:01:58.6770539+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -185,6 +185,11 @@
       "Time": "2022-10-26T23:02:17.6815945+00:00",
       "Rating": 4.19,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-28T09:01:58.6770542+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -230,7 +235,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",

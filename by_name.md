@@ -129,7 +129,7 @@
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 130 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 130 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -767,6 +767,6 @@
 | 765 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 766 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 768 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 768 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 769 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
 | 770 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
