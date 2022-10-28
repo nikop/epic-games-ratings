@@ -457,7 +457,7 @@
 | 455 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 456 | [Patron](games/p/patron.md) | 3.89 | 
 | 457 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 458 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 458 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 459 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 460 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 461 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -474,7 +474,7 @@
 | 472 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 474 | [Quake](games/q/quake.md) | 4.82 | 
-| 475 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 475 | [Rage 2](games/r/rage_2.md) | 4.27 | 
 | 476 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 477 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -568,7 +568,7 @@
 | 566 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
 | 567 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
 | 568 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 569 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 569 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 570 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 571 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 572 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 

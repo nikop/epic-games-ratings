@@ -297,21 +297,21 @@
 | 295 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 296 | [GRIME](games/g/grime.md) | 4.62 | 
 | 297 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 298 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 299 | [Prey](games/p/prey.md) | 4.61 | 
-| 300 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 301 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 302 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 303 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 304 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 305 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 306 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 307 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 308 | [20XX](games/2/20xx.md) | 4.61 | 
-| 309 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 310 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
-| 311 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 298 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 299 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 300 | [Prey](games/p/prey.md) | 4.61 | 
+| 301 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 302 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 303 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 304 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 305 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 307 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 308 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
+| 309 | [20XX](games/2/20xx.md) | 4.61 | 
+| 310 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 311 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
+| 312 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 313 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 314 | [Control](games/c/control.md) | 4.60 | 
 | 315 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -608,10 +608,10 @@
 | 606 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 607 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 608 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 609 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 610 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 611 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 612 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 609 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 610 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 611 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 612 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 613 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 614 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
@@ -655,11 +655,11 @@
 | 653 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 654 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 655 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 656 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 657 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 658 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
-| 659 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
-| 660 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 656 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 657 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 658 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 659 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 660 | [Rage 2](games/r/rage_2.md) | 4.27 | 
 | 661 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 662 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 663 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
