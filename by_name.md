@@ -236,7 +236,7 @@
 | 234 | [Firework](games/f/firework.md) | 4.87 | 
 | 235 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 236 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 237 | [Flatout](games/f/flatout.md) | 4.15 | 
+| 237 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 238 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 239 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 240 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 

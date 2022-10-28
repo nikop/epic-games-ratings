@@ -714,38 +714,38 @@
 | 712 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 713 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 714 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
-| 715 | [Flatout](games/f/flatout.md) | 4.15 | 
-| 716 | [Pine](games/p/pine.md) | 4.14 | 
-| 717 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
-| 718 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 719 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 720 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 721 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 722 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 723 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 724 | [Relicta](games/r/relicta.md) | 4.11 | 
-| 725 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 726 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 727 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
-| 728 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 729 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
-| 730 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 731 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 732 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 733 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 734 | [Lake](games/l/lake.md) | 4.08 | 
-| 735 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 736 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
-| 737 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
-| 738 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 739 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 740 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
-| 741 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 742 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 743 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
-| 744 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 745 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 746 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 715 | [Pine](games/p/pine.md) | 4.14 | 
+| 716 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
+| 717 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 718 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 719 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 720 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 721 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 722 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 723 | [Relicta](games/r/relicta.md) | 4.11 | 
+| 724 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 725 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 726 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
+| 727 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 728 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
+| 729 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 730 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 731 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 732 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 733 | [Lake](games/l/lake.md) | 4.08 | 
+| 734 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 735 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
+| 736 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
+| 737 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 738 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 739 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 740 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 741 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 742 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
+| 743 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
+| 744 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 745 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 746 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 747 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 748 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 749 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
