@@ -19,7 +19,7 @@
 | 17 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 18 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 19 | [Outlast](games/o/outlast.md) | 4.70 | 
-| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
+| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 21 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 22 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 23 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
@@ -36,7 +36,7 @@
 | 34 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 35 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 36 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 37 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 37 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 38 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 39 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 40 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 

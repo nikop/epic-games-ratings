@@ -116,7 +116,7 @@
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.86 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
@@ -207,14 +207,14 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
 | 212 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 213 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 214 | [Far Cry](games/f/far_cry.md) | 4.35 | 
-| 215 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 215 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
 | 216 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
 | 217 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 218 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 291 | [Hob](games/h/hob.md) | 4.58 | 
 | 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.14 | 
-| 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 294 | [Horace](games/h/horace.md) | 4.56 | 
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 296 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -323,7 +323,7 @@
 | 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 322 | [Journey](games/j/journey.md) | 4.76 | 
 | 323 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.63 | 
+| 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 325 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 326 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 327 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
@@ -582,7 +582,7 @@
 | 580 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 581 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
 | 582 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 583 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 583 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 584 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 585 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 586 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -765,7 +765,7 @@
 | 763 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 764 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 765 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 766 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 766 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 767 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 768 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 769 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
