@@ -53,14 +53,14 @@
 | 51 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 52 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 56 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 57 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 58 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 59 | [Quake](games/q/quake.md) | 4.82 | 
-| 60 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 61 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 57 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 58 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 59 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 60 | [Quake](games/q/quake.md) | 4.82 | 
+| 61 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 63 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 64 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -724,22 +724,22 @@
 | 722 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 723 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 724 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 725 | [Obduction](games/o/obduction.md) | 4.12 | 
-| 726 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 727 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 728 | [Relicta](games/r/relicta.md) | 4.11 | 
-| 729 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 730 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
-| 731 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 732 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
-| 733 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 734 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 735 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 736 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 737 | [Lake](games/l/lake.md) | 4.08 | 
-| 738 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 739 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
-| 740 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
+| 725 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
+| 726 | [Obduction](games/o/obduction.md) | 4.12 | 
+| 727 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 728 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 729 | [Relicta](games/r/relicta.md) | 4.11 | 
+| 730 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 731 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
+| 732 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 733 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
+| 734 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 735 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 736 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 737 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 738 | [Lake](games/l/lake.md) | 4.08 | 
+| 739 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 740 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 741 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 742 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 743 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 

@@ -411,7 +411,7 @@
 | 409 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 410 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 411 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 412 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
+| 412 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
 | 413 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 414 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 415 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -717,7 +717,7 @@
 | 715 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 716 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 717 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 718 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 718 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 719 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 720 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 721 | [UnMetal](games/u/unmetal.md) | 4.55 | 
