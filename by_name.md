@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -77,7 +77,7 @@
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -359,7 +359,7 @@
 | 357 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 358 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 359 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 360 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 360 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 361 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 362 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
 | 363 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
@@ -370,7 +370,7 @@
 | 368 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 369 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 370 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 371 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 371 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 372 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 373 | [Mago](games/m/mago.md) | 4.86 | 
 | 374 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -383,7 +383,7 @@
 | 381 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 382 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 383 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 384 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 384 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 386 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 387 | [Minit](games/m/minit.md) | 4.54 | 
@@ -593,7 +593,7 @@
 | 591 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 592 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 593 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 594 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 594 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 595 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 596 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 597 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.80 | 
