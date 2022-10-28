@@ -667,8 +667,8 @@
 | 665 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 666 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 667 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
-| 669 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 668 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 669 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 670 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
 | 671 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 672 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 

@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 1 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 2 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 3 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 4 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
