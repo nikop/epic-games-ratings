@@ -126,7 +126,7 @@
 | 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -388,7 +388,7 @@
 | 386 | [Minit](games/m/minit.md) | 4.54 | 
 | 387 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.80 | 
 | 388 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 389 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 389 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 390 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 391 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 392 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 

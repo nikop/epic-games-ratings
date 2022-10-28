@@ -533,20 +533,20 @@
 | 531 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 532 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 533 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 534 | [Chorus](games/c/chorus.md) | 4.44 | 
-| 535 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 536 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 538 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 539 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 540 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 542 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 543 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 544 | [Figment](games/f/figment.md) | 4.43 | 
-| 545 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 546 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 547 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 534 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 535 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 536 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 537 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 538 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 539 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 540 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 541 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 542 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 543 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 544 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 545 | [Figment](games/f/figment.md) | 4.43 | 
+| 546 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 547 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 548 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 549 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 550 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
@@ -593,17 +593,17 @@
 | 591 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 592 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 593 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
-| 594 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 595 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 596 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 597 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 598 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 599 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 600 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 601 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 602 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 603 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 604 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 594 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
+| 595 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 596 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 597 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 598 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 599 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 600 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 601 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 602 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 603 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 604 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 605 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 606 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
 | 607 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
