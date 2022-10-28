@@ -84,7 +84,7 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
@@ -147,7 +147,7 @@
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -248,7 +248,7 @@
 | 246 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 247 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 248 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 249 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 
+| 249 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 250 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 251 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
@@ -290,7 +290,7 @@
 | 288 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 289 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 290 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 291 | [Hob](games/h/hob.md) | 4.58 | 
+| 291 | [Hob](games/h/hob.md) | 4.57 | 
 | 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.14 | 
 | 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 294 | [Horace](games/h/horace.md) | 4.56 | 
@@ -499,7 +499,7 @@
 | 497 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 498 | [Rising Hell](games/r/rising_hell.md) | 4.42 | 
 | 499 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 500 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 500 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 501 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 502 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 503 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -533,7 +533,7 @@
 | 531 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 532 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 533 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 534 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 534 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.53 | 
 | 535 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
 | 536 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 537 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 

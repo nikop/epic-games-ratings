@@ -28,7 +28,7 @@
 | 26 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 27 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 28 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
-| 29 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 29 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 30 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 31 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 32 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
