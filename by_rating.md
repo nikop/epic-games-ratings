@@ -457,13 +457,13 @@
 | 455 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 456 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 457 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 458 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 459 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 460 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 461 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 462 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 463 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 464 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 458 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 459 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 460 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 461 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 462 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 463 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 464 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 465 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 466 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 467 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 

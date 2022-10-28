@@ -537,7 +537,7 @@
 | 535 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
 | 536 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 537 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
-| 538 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 538 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 539 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 540 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
 | 541 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
