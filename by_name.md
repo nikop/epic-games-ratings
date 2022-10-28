@@ -252,7 +252,7 @@
 | 250 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 251 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 254 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 256 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -390,7 +390,7 @@
 | 388 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 389 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 390 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 391 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 391 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 392 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 393 | [Moving Out](games/m/moving_out.md) | 4.60 | 
 | 394 | [MudRunner](games/m/mudrunner.md) | 4.62 | 

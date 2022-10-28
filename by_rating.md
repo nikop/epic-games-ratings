@@ -401,24 +401,24 @@
 | 399 | [Hue](games/h/hue.md) | 4.55 | 
 | 400 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 401 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 402 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 403 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 404 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 405 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 407 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 408 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 409 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 410 | [NORCO](games/n/norco.md) | 4.55 | 
-| 411 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 412 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 413 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 414 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 415 | [Outward](games/o/outward.md) | 4.54 | 
-| 416 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 417 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 418 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 419 | [Minit](games/m/minit.md) | 4.54 | 
+| 402 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 403 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 404 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 405 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 406 | [UnMetal](games/u/unmetal.md) | 4.55 | 
+| 407 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 408 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 409 | [NORCO](games/n/norco.md) | 4.55 | 
+| 410 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 411 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 412 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 413 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 414 | [Outward](games/o/outward.md) | 4.54 | 
+| 415 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 416 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 417 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 418 | [Minit](games/m/minit.md) | 4.54 | 
+| 419 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 420 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 421 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
 | 422 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
@@ -470,23 +470,23 @@
 | 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 469 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 470 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
-| 471 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 472 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 473 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 474 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 475 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 476 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 477 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 478 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 479 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 480 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 481 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 482 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 483 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
-| 484 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 485 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
-| 486 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 487 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 472 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 473 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 474 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 475 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 476 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 477 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 478 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 479 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 480 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 481 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 482 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 483 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 484 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 
+| 485 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 486 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
+| 487 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 488 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
 | 489 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 490 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
