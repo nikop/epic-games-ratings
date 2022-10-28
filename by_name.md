@@ -409,7 +409,7 @@
 | 407 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 408 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 409 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 410 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
+| 410 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 411 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 412 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 413 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
@@ -427,7 +427,7 @@
 | 425 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 426 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 427 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 428 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 428 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 429 | [Old World](games/o/old_world.md) | 4.64 | 
 | 430 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 431 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -481,7 +481,7 @@
 | 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
 | 480 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 481 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
-| 482 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 482 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 483 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 484 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 485 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
@@ -573,7 +573,7 @@
 | 571 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 572 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 573 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 574 | [Star Renegades](games/s/star_renegades.md) | 4.35 | 
+| 574 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 575 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 576 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 577 | [Starsand](games/s/starsand.md) | 4.31 | 
@@ -684,7 +684,7 @@
 | 682 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 683 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 684 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 685 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 685 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 686 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 687 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 688 | [Torchlight](games/t/torchlight.md) | 4.39 | 
@@ -761,7 +761,7 @@
 | 759 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 760 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 761 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 762 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 762 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 763 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 764 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 765 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
